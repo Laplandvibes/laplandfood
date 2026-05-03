@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Search engines — primary
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-agent: Yandex
+Allow: /
+User-agent: Baiduspider
+Allow: /
+
+# AI crawlers — explicit allow per LV editorial policy
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://laplandfood.com/sitemap.xml

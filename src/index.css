@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+
+/*
+  CRITICAL — Tailwind v4 must scan shared/ components used by this site.
+  Without this @source line, classes only used inside shared/Footer,
+  shared/CookieBanner, shared/NewsletterPopup, shared/Legal/* are stripped
+  from the bundle and the components render unstyled.
+*/
+@source "../../shared/**/*.{ts,tsx}";
+
+@theme {
+  /* LV brand canon — keep deep-night = #0F172A so shared dark components
+     (NewsletterPopup, Privacy/Terms/Cookie pages) render as designed. */
+  --color-deep-night:      #0F172A;
+  --color-snow:            #F9FAFB;
+  --color-vibe-pink:       #EC4899;
+  --color-arctic-cyan:     #06B6D4;
+  --color-aurora-green:    #10B981;
+  --color-finland-blue:    #002F6C;
+  --color-warm-amber:      #F59E0B;
+
+  /* Wellness-style Finland blue/white light variant (Vesa-approved 2026-05-03 for laplandfood). */
+  --color-finn-blue:       #002F6C;
+  --color-finn-blue-light: #1A4A8A;
+  --color-finn-blue-dark:  #001F4A;
+  --color-light-bg:        #F8FAFC;
+  --color-text-dark:       #1E293B;
+  --color-text-muted:      #64748B;
+  --color-ice-blue:        #E8F1FF;
+
+  /* Food-specific warm accents — used sparingly on food cards / berry tags only */
+  --color-cloudberry:      #F4A93B;
+  --color-lingonberry:     #B43A3A;
+
+  --font-heading: 'Bebas Neue', sans-serif;
+  --font-body:    'DM Sans', sans-serif;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { font-family: var(--font-body); background-color: #FFFFFF; color: #002F6C; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
