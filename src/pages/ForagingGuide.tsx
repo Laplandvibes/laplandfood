@@ -1,94 +1,71 @@
-import { Link } from 'react-router-dom'
-import { AlertTriangle, MapPin, Calendar } from 'lucide-react'
-import { useSEO } from '../hooks/useSEO'
-import Nav from '../components/Nav'
-import PageHero from '../components/PageHero'
-import Footer from '../components/Footer'
-import NewsletterSection from '../components/NewsletterSection'
-
-const items = [
-  {
-    name: 'Bilberry (Vaccinium myrtillus)',
-    season: 'July – September',
-    difficulty: 'Easy',
-    location: 'Dry pine forests and heathlands',
-    identification:
-      'Low shrub, oval leaves, dark blue-black berries. Stains fingers and tongue blue.',
-    tips: 'Peak picking in mid-August. Only harvest fully ripe berries.',
-    safety: 'Cannot be confused with poisonous look-alikes — safe to pick.',
-    sustainability: 'Pick no more than half the berries on any one plant.',
-    image: '/images/forage-bilberry.jpg',
-  },
-  {
-    name: 'Lingonberry (Vaccinium vitis-idaea)',
-    season: 'August – October',
-    difficulty: 'Easy',
-    location: 'Dry pine forests and heathlands',
-    identification:
-      'Small evergreen shrub, shiny round leaves, bright red berries in clusters.',
-    tips: 'Stores well after a frost. Wait until fully ripe before picking.',
-    safety: 'Distinct from all poisonous berries — easy to identify.',
-    sustainability: 'Leave young and small plants undisturbed.',
-    image: '/images/forage-lingonberry.jpg',
-  },
-  {
-    name: 'Cloudberry (Rubus chamaemorus)',
-    season: 'July – August',
-    difficulty: 'Moderate',
-    location: 'Bogs and marshland',
-    identification:
-      'Low-growing plant, three-lobed leaves, single amber-orange berry per stem.',
-    tips: 'Pick only fully ripe berries. Perishable — process quickly after picking.',
-    safety: 'Found only in boggy terrain — watch your step.',
-    sustainability: 'Arctic rarity. Take only what you need.',
-    image: '/images/forage-cloudberry.jpg',
-  },
-  {
-    name: 'Wild Mushrooms — Porcini & Milkcaps',
-    season: 'July – September',
-    difficulty: 'Challenging',
-    location: 'Old spruce forests and mixed woodland',
-    identification:
-      'Porcini: brown cap, white stem, spongy underside. Milkcap: funnel shape, milky sap when cut.',
-    tips: 'Dry immediately after picking. Learn identification with 100 % certainty first.',
-    safety: 'CRITICAL: always confirm identification before eating any mushroom.',
-    sustainability: 'Cut at the stem — do not damage the mycelium underneath.',
-    image: '/images/forage-mushrooms.jpg',
-  },
-  {
-    name: 'Stinging Nettle (Urtica dioica)',
-    season: 'May – August',
-    difficulty: 'Easy',
-    location: 'Nutrient-rich soil, near buildings and clearings',
-    identification: 'Serrated leaves, stings bare skin on contact.',
-    tips: 'Harvest young shoots. Stinging effect disappears completely after drying or cooking.',
-    safety: 'Use gloves when picking.',
-    sustainability: 'Pick only the top leaves — leave the roots intact.',
-    image: '/images/forage-nettle.jpg',
-  },
-]
-
+import { Link } from 'react-router-dom';
+import { AlertTriangle, MapPin, Calendar } from 'lucide-react';
+import { SEO } from '../hooks/useSEO';
+import Nav from '../components/Nav';
+import PageHero from '../components/PageHero';
+import Footer from '../components/Footer';
+import NewsletterSection from '../components/NewsletterSection';
+const items = [{
+  name: 'Bilberry (Vaccinium myrtillus)',
+  season: 'July – September',
+  difficulty: 'Easy',
+  location: 'Dry pine forests and heathlands',
+  identification: 'Low shrub, oval leaves, dark blue-black berries. Stains fingers and tongue blue.',
+  tips: 'Peak picking in mid-August. Only harvest fully ripe berries.',
+  safety: 'Cannot be confused with poisonous look-alikes — safe to pick.',
+  sustainability: 'Pick no more than half the berries on any one plant.',
+  image: '/images/forage-bilberry.jpg'
+}, {
+  name: 'Lingonberry (Vaccinium vitis-idaea)',
+  season: 'August – October',
+  difficulty: 'Easy',
+  location: 'Dry pine forests and heathlands',
+  identification: 'Small evergreen shrub, shiny round leaves, bright red berries in clusters.',
+  tips: 'Stores well after a frost. Wait until fully ripe before picking.',
+  safety: 'Distinct from all poisonous berries — easy to identify.',
+  sustainability: 'Leave young and small plants undisturbed.',
+  image: '/images/forage-lingonberry.jpg'
+}, {
+  name: 'Cloudberry (Rubus chamaemorus)',
+  season: 'July – August',
+  difficulty: 'Moderate',
+  location: 'Bogs and marshland',
+  identification: 'Low-growing plant, three-lobed leaves, single amber-orange berry per stem.',
+  tips: 'Pick only fully ripe berries. Perishable — process quickly after picking.',
+  safety: 'Found only in boggy terrain — watch your step.',
+  sustainability: 'Arctic rarity. Take only what you need.',
+  image: '/images/forage-cloudberry.jpg'
+}, {
+  name: 'Wild Mushrooms — Porcini & Milkcaps',
+  season: 'July – September',
+  difficulty: 'Challenging',
+  location: 'Old spruce forests and mixed woodland',
+  identification: 'Porcini: brown cap, white stem, spongy underside. Milkcap: funnel shape, milky sap when cut.',
+  tips: 'Dry immediately after picking. Learn identification with 100 % certainty first.',
+  safety: 'CRITICAL: always confirm identification before eating any mushroom.',
+  sustainability: 'Cut at the stem — do not damage the mycelium underneath.',
+  image: '/images/forage-mushrooms.jpg'
+}, {
+  name: 'Stinging Nettle (Urtica dioica)',
+  season: 'May – August',
+  difficulty: 'Easy',
+  location: 'Nutrient-rich soil, near buildings and clearings',
+  identification: 'Serrated leaves, stings bare skin on contact.',
+  tips: 'Harvest young shoots. Stinging effect disappears completely after drying or cooking.',
+  safety: 'Use gloves when picking.',
+  sustainability: 'Pick only the top leaves — leave the roots intact.',
+  image: '/images/forage-nettle.jpg'
+}];
 export default function ForagingGuide() {
-  useSEO({
-    title: 'Foraging Guide for Lapland | Berries, Mushrooms, Wild Herbs | LaplandFood',
-    description:
-      "Five core wild ingredients to forage in Finnish Lapland — bilberry, lingonberry, cloudberry, mushrooms, nettle. Identification, season, and how to do it sustainably under Finland's everyman’s right.",
-    path: '/foraging-guide',
-  })
-
-  return (
-    <div className="min-h-screen bg-white">
+  return <><SEO title={'Foraging Guide for Lapland | Berries, Mushrooms, Wild Herbs | LaplandFood'} description={"Five core wild ingredients to forage in Finnish Lapland — bilberry, lingonberry, cloudberry, mushrooms, nettle. Identification, season, and how to do it sustainably under Finland's everyman’s right."} path={'/foraging-guide'} /><div className="min-h-screen bg-white">
       <Nav />
-      <PageHero
-        eyebrow="Pillar 04 · Foraging"
-        title="The wild"
-        titleHighlight="larder."
-        subtitle="Finland’s jokamiehenoikeus (everyman’s right) lets anyone forage berries, mushrooms, and wild herbs across most of the country. Here are the five things to know first."
-        imageUrl="/images/hero-foraging.jpg"
-        imageAlt="Hand picking ripe cloudberries from a low Arctic bog, soft midnight-sun light from low on the horizon"
-        primaryCta={{ label: 'Book a guided walk', href: '/food-tours' }}
-        secondaryCta={{ label: 'How these end up on the plate', href: '/local-ingredients' }}
-      />
+      <PageHero eyebrow="Pillar 04 · Foraging" title="The wild" titleHighlight="larder." subtitle="Finland’s jokamiehenoikeus (everyman’s right) lets anyone forage berries, mushrooms, and wild herbs across most of the country. Here are the five things to know first." imageUrl="/images/hero-foraging.jpg" imageAlt="Hand picking ripe cloudberries from a low Arctic bog, soft midnight-sun light from low on the horizon" primaryCta={{
+        label: 'Book a guided walk',
+        href: '/food-tours'
+      }} secondaryCta={{
+        label: 'How these end up on the plate',
+        href: '/local-ingredients'
+      }} />
 
       {/* === LONG-FORM INTRO === */}
       <section className="bg-white py-16 sm:py-20">
@@ -128,20 +105,11 @@ export default function ForagingGuide() {
           </div>
 
           <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
-            {items.map((it) => (
-              <article
-                key={it.name}
-                className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden"
-              >
+            {items.map(it => <article key={it.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                 <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                  <img
-                    src={it.image}
-                    alt=""
-                    loading="lazy"
-                    decoding="async"
-                    onError={(e) => { e.currentTarget.style.display = 'none' }}
-                    className="absolute inset-0 w-full h-full object-cover"
-                  />
+                  <img src={it.image} alt="" loading="lazy" decoding="async" onError={e => {
+                  e.currentTarget.style.display = 'none';
+                }} className="absolute inset-0 w-full h-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
                   <div className="absolute top-3 right-4">
                     <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
@@ -187,8 +155,7 @@ export default function ForagingGuide() {
                     </div>
                   </div>
                 </div>
-              </article>
-            ))}
+              </article>)}
           </div>
         </div>
       </section>
@@ -244,21 +211,34 @@ export default function ForagingGuide() {
             </p>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {[
-              { month: 'May', body: 'Snow recedes. First nettles, first young birch leaves, birch sap (drilled from the trunk and drunk fresh, used in syrup, or fermented). Cold, but the foraging year has started.' },
-              { month: 'June', body: 'Wild herbs peak — meadowsweet, yarrow, angelica, sorrel. The first fresh greens after seven months. Some early herbs are dried for winter teas.' },
-              { month: 'July (early)', body: 'The herb window closes; everything is leafing aggressively. The bog plants flower — cloudberry blooms have set. This is the calm before the picking storm.' },
-              { month: 'July (late) – early August', body: 'Cloudberry season — typically a 3-week window depending on bog location. The most intensive picking activity of the year. Many Finnish offices effectively pause for it.' },
-              { month: 'August', body: 'Bilberry peaks. First lingonberries (still tart). First mushrooms — chanterelle is usually first, porcini second. Long-light evenings make this the best month for foraging-and-cooking.' },
-              { month: 'September', body: 'Lingonberry sweetens after first frost. Mushroom season at its peak — porcini, milkcaps, chanterelle, ceps. Days shortening fast; pickers are out from sunrise.' },
-              { month: 'October', body: 'Last mushrooms. Last lingonberries (now best after night frosts). Final preserving work — drying, jamming, freezing. The calendar essentially closes after first heavy snow.' },
-              { month: 'November – April', body: 'Forest dormancy. Foraging stops. Indoor work — preserving, smoking, drying, fermenting — picks up. Ice fishing replaces foraging for fresh protein.' },
-            ].map((m) => (
-              <div key={m.month} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
+            {[{
+              month: 'May',
+              body: 'Snow recedes. First nettles, first young birch leaves, birch sap (drilled from the trunk and drunk fresh, used in syrup, or fermented). Cold, but the foraging year has started.'
+            }, {
+              month: 'June',
+              body: 'Wild herbs peak — meadowsweet, yarrow, angelica, sorrel. The first fresh greens after seven months. Some early herbs are dried for winter teas.'
+            }, {
+              month: 'July (early)',
+              body: 'The herb window closes; everything is leafing aggressively. The bog plants flower — cloudberry blooms have set. This is the calm before the picking storm.'
+            }, {
+              month: 'July (late) – early August',
+              body: 'Cloudberry season — typically a 3-week window depending on bog location. The most intensive picking activity of the year. Many Finnish offices effectively pause for it.'
+            }, {
+              month: 'August',
+              body: 'Bilberry peaks. First lingonberries (still tart). First mushrooms — chanterelle is usually first, porcini second. Long-light evenings make this the best month for foraging-and-cooking.'
+            }, {
+              month: 'September',
+              body: 'Lingonberry sweetens after first frost. Mushroom season at its peak — porcini, milkcaps, chanterelle, ceps. Days shortening fast; pickers are out from sunrise.'
+            }, {
+              month: 'October',
+              body: 'Last mushrooms. Last lingonberries (now best after night frosts). Final preserving work — drying, jamming, freezing. The calendar essentially closes after first heavy snow.'
+            }, {
+              month: 'November – April',
+              body: 'Forest dormancy. Foraging stops. Indoor work — preserving, smoking, drying, fermenting — picks up. Ice fishing replaces foraging for fresh protein.'
+            }].map(m => <div key={m.month} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
                 <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-3">{m.month}</h3>
                 <p className="text-sm text-[#002F6C]/80 leading-relaxed">{m.body}</p>
-              </div>
-            ))}
+              </div>)}
           </div>
         </div>
       </section>
@@ -320,6 +300,5 @@ export default function ForagingGuide() {
 
       <NewsletterSection />
       <Footer />
-    </div>
-  )
+    </div></>;
 }

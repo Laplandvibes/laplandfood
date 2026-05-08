@@ -1,19 +1,10 @@
-import { Link } from 'react-router-dom'
-import { useSEO } from '../hooks/useSEO'
-import Nav from '../components/Nav'
-import Footer from '../components/Footer'
-import NewsletterSection from '../components/NewsletterSection'
-
+import { Link } from 'react-router-dom';
+import { SEO } from '../hooks/useSEO';
+import Nav from '../components/Nav';
+import Footer from '../components/Footer';
+import NewsletterSection from '../components/NewsletterSection';
 export default function About() {
-  useSEO({
-    title: 'About LaplandFood | Editorial mission, voice, and how we publish',
-    description:
-      'Why LaplandFood exists, who writes it, how we choose what to recommend, and how the affiliate model keeps the editorial honest.',
-    path: '/about',
-  })
-
-  return (
-    <div className="min-h-screen bg-white">
+  return <><SEO title={'About LaplandFood | Editorial mission, voice, and how we publish'} description={'Why LaplandFood exists, who writes it, how we choose what to recommend, and how the affiliate model keeps the editorial honest.'} path={'/about'} /><div className="min-h-screen bg-white">
       <Nav />
 
       {/* Tightened hero — no empty real estate, no operating-company name */}
@@ -61,25 +52,36 @@ export default function About() {
             Six pillars. Each is a deep page that could stand alone. Together they form the field guide we wish had existed when we started writing about this region.
           </p>
           <div className="grid sm:grid-cols-2 gap-5">
-            {[
-              { t: 'Local Ingredients', body: 'What grows, swims, and grazes here. Reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Where they come from, when they peak.', href: '/local-ingredients' },
-              { t: 'Traditional Recipes', body: 'Bidos, Gahkku, Sápmi fish soup, wild-berry kissel — plus the cultural context that explains why they look the way they do.', href: '/traditional-recipes' },
-              { t: 'Modern Lapland', body: 'New Nordic technique applied to Lapland ingredients. Sous-vide, fermentation, cold curing, foraged garnish. Where to taste it.', href: '/modern-lapland' },
-              { t: 'Foraging Guide', body: 'Five core wild foods, mushroom safety in detail, an 8-month seasonal calendar, and the everyman’s right that makes it all legal.', href: '/foraging-guide' },
-              { t: 'Michelin & Fine Dining', body: 'Helsinki’s Michelin scene, Lapland’s three flagship rooms, what a tasting menu actually looks like, how booking works.', href: '/michelin-dining' },
-              { t: 'Food Tours & Cooking Classes', body: 'The food experiences worth booking — Sami food journeys, fine-dining tours, foraging walks. Curated, not exhaustive.', href: '/food-tours' },
-            ].map((c) => (
-              <Link
-                key={c.href}
-                to={c.href}
-                className="group rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 p-6 transition-all"
-              >
+            {[{
+              t: 'Local Ingredients',
+              body: 'What grows, swims, and grazes here. Reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Where they come from, when they peak.',
+              href: '/local-ingredients'
+            }, {
+              t: 'Traditional Recipes',
+              body: 'Bidos, Gahkku, Sápmi fish soup, wild-berry kissel — plus the cultural context that explains why they look the way they do.',
+              href: '/traditional-recipes'
+            }, {
+              t: 'Modern Lapland',
+              body: 'New Nordic technique applied to Lapland ingredients. Sous-vide, fermentation, cold curing, foraged garnish. Where to taste it.',
+              href: '/modern-lapland'
+            }, {
+              t: 'Foraging Guide',
+              body: 'Five core wild foods, mushroom safety in detail, an 8-month seasonal calendar, and the everyman’s right that makes it all legal.',
+              href: '/foraging-guide'
+            }, {
+              t: 'Michelin & Fine Dining',
+              body: 'Helsinki’s Michelin scene, Lapland’s three flagship rooms, what a tasting menu actually looks like, how booking works.',
+              href: '/michelin-dining'
+            }, {
+              t: 'Food Tours & Cooking Classes',
+              body: 'The food experiences worth booking — Sami food journeys, fine-dining tours, foraging walks. Curated, not exhaustive.',
+              href: '/food-tours'
+            }].map(c => <Link key={c.href} to={c.href} className="group rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 p-6 transition-all">
                 <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] group-hover:text-vibe-pink transition-colors mb-2">
                   {c.t}
                 </h3>
                 <p className="text-sm text-[#002F6C]/75 leading-relaxed">{c.body}</p>
-              </Link>
-            ))}
+              </Link>)}
           </div>
         </div>
       </section>
@@ -94,33 +96,25 @@ export default function About() {
             We are an independent publisher. The principles below are how we keep it honest.
           </p>
           <div className="space-y-6">
-            {[
-              {
-                t: 'Recommend like you would to a friend',
-                body: 'The simplest filter. Every restaurant, tour, ingredient supplier, and producer on this site is one we would send a friend to. If we wouldn’t, it doesn’t go on the page.',
-              },
-              {
-                t: 'Specifics over vibes',
-                body: 'A claim like "the best fine dining in Lapland" is meaningless without specifics. We tell you what to order, what it costs, when to book, where to walk in from. Anything we can’t pin down to a specific, we leave out.',
-              },
-              {
-                t: 'Affiliate doesn’t change the editorial',
-                body: 'Some booking links pay us a commission if you book through them. None of those links unlock content, change the order of recommendations, or buy a place on the page. The same restaurants would be on the page if no affiliate programme existed.',
-              },
-              {
-                t: 'No fake stats, no fake quotes',
-                body: 'If we cite a number, it has a source we could point to. If we quote a chef, we spoke to them. If we are uncertain about something — current Michelin star count, the exact year a tradition started — we say so and link out to the authoritative source.',
-              },
-              {
-                t: 'Update over delete',
-                body: 'Restaurants close, chefs move, prices shift. When we discover a page is wrong we update it with a date stamp. We don’t pretend the wrong version never existed.',
-              },
-            ].map((p) => (
-              <div key={p.t} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6 sm:p-7">
+            {[{
+              t: 'Recommend like you would to a friend',
+              body: 'The simplest filter. Every restaurant, tour, ingredient supplier, and producer on this site is one we would send a friend to. If we wouldn’t, it doesn’t go on the page.'
+            }, {
+              t: 'Specifics over vibes',
+              body: 'A claim like "the best fine dining in Lapland" is meaningless without specifics. We tell you what to order, what it costs, when to book, where to walk in from. Anything we can’t pin down to a specific, we leave out.'
+            }, {
+              t: 'Affiliate doesn’t change the editorial',
+              body: 'Some booking links pay us a commission if you book through them. None of those links unlock content, change the order of recommendations, or buy a place on the page. The same restaurants would be on the page if no affiliate programme existed.'
+            }, {
+              t: 'No fake stats, no fake quotes',
+              body: 'If we cite a number, it has a source we could point to. If we quote a chef, we spoke to them. If we are uncertain about something — current Michelin star count, the exact year a tradition started — we say so and link out to the authoritative source.'
+            }, {
+              t: 'Update over delete',
+              body: 'Restaurants close, chefs move, prices shift. When we discover a page is wrong we update it with a date stamp. We don’t pretend the wrong version never existed.'
+            }].map(p => <div key={p.t} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6 sm:p-7">
                 <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{p.t}</h3>
                 <p className="text-sm sm:text-base text-[#002F6C]/80 leading-relaxed">{p.body}</p>
-              </div>
-            ))}
+              </div>)}
           </div>
         </div>
       </section>
@@ -195,6 +189,5 @@ export default function About() {
 
       <NewsletterSection />
       <Footer />
-    </div>
-  )
+    </div></>;
 }

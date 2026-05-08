@@ -1,89 +1,63 @@
-import { Link } from 'react-router-dom'
-import { Leaf, Thermometer } from 'lucide-react'
-import { useSEO } from '../hooks/useSEO'
-import Nav from '../components/Nav'
-import PageHero from '../components/PageHero'
-import Footer from '../components/Footer'
-import NewsletterSection from '../components/NewsletterSection'
-
-const ingredients = [
-  {
-    name: 'Reindeer & Venison',
-    season: 'Year-round · best Oct–Mar',
-    description:
-      'The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness — the most important protein in Sami culture for thousands of years.',
-    nutritional: 'High protein, low fat, rich in B12 and iron',
-    uses: 'Grilling, drying, smoking, slow-cooked stews',
-    image: '/images/ingredient-reindeer.jpg',
-  },
-  {
-    name: 'Bilberries & Lingonberries',
-    season: 'August–September',
-    description:
-      'Arctic superberries bursting with antioxidants. Wild-grown under the midnight sun in the tundra and boreal forest.',
-    nutritional: 'Antioxidants, vitamin C, dietary fibre',
-    uses: 'Jams, juices, baking, drying',
-    image: '/images/ingredient-berries.jpg',
-  },
-  {
-    name: 'Wild Mushrooms — Porcini & Milkcaps',
-    season: 'July–September',
-    description:
-      "Forest gold from Lapland's old-growth forests. Traditionally dried for winter preserves.",
-    nutritional: 'Protein, fibre, vitamin D',
-    uses: 'Drying, preserving, soups, sauces',
-    image: '/images/ingredient-mushrooms.jpg',
-  },
-  {
-    name: 'Arctic Freshwater Fish',
-    season: 'Year-round · winter ice-fishing',
-    description:
-      'Crystal-clear lake fish — whitefish, pike, perch, trout. Ice fishing is a beloved winter tradition across Lapland.',
-    nutritional: 'Omega-3 fatty acids, high protein, phosphorus',
-    uses: 'Smoking, salting, grilling, chowder',
-    image: '/images/ingredient-fish.jpg',
-  },
-  {
-    name: 'Wild Herbs — Meadowsweet & Nettle',
-    season: 'June–August',
-    description:
-      'The power of wild plants. Traditional medicinal and culinary herbs used in Sami culture for generations.',
-    nutritional: 'Minerals, vitamins, flavonoids',
-    uses: 'Tea, salads, soups, drying',
-    image: '/images/ingredient-herbs.jpg',
-  },
-  {
-    name: 'Arctic Cloudberries',
-    season: 'Mid-July to mid-August',
-    description:
-      'The golden jewel of Lapland. Grows only in Arctic bogs and marshes — one of the rarest and most prized wild berries in the world.',
-    nutritional: 'Vitamin C, vitamin E, omega-3 fatty acids',
-    uses: 'Jams, desserts, liqueur, fresh eating',
-    image: '/images/ingredient-cloudberries.jpg',
-  },
-]
-
+import { Link } from 'react-router-dom';
+import { Leaf, Thermometer } from 'lucide-react';
+import { SEO } from '../hooks/useSEO';
+import Nav from '../components/Nav';
+import PageHero from '../components/PageHero';
+import Footer from '../components/Footer';
+import NewsletterSection from '../components/NewsletterSection';
+const ingredients = [{
+  name: 'Reindeer & Venison',
+  season: 'Year-round · best Oct–Mar',
+  description: 'The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness — the most important protein in Sami culture for thousands of years.',
+  nutritional: 'High protein, low fat, rich in B12 and iron',
+  uses: 'Grilling, drying, smoking, slow-cooked stews',
+  image: '/images/ingredient-reindeer.jpg'
+}, {
+  name: 'Bilberries & Lingonberries',
+  season: 'August–September',
+  description: 'Arctic superberries bursting with antioxidants. Wild-grown under the midnight sun in the tundra and boreal forest.',
+  nutritional: 'Antioxidants, vitamin C, dietary fibre',
+  uses: 'Jams, juices, baking, drying',
+  image: '/images/ingredient-berries.jpg'
+}, {
+  name: 'Wild Mushrooms — Porcini & Milkcaps',
+  season: 'July–September',
+  description: "Forest gold from Lapland's old-growth forests. Traditionally dried for winter preserves.",
+  nutritional: 'Protein, fibre, vitamin D',
+  uses: 'Drying, preserving, soups, sauces',
+  image: '/images/ingredient-mushrooms.jpg'
+}, {
+  name: 'Arctic Freshwater Fish',
+  season: 'Year-round · winter ice-fishing',
+  description: 'Crystal-clear lake fish — whitefish, pike, perch, trout. Ice fishing is a beloved winter tradition across Lapland.',
+  nutritional: 'Omega-3 fatty acids, high protein, phosphorus',
+  uses: 'Smoking, salting, grilling, chowder',
+  image: '/images/ingredient-fish.jpg'
+}, {
+  name: 'Wild Herbs — Meadowsweet & Nettle',
+  season: 'June–August',
+  description: 'The power of wild plants. Traditional medicinal and culinary herbs used in Sami culture for generations.',
+  nutritional: 'Minerals, vitamins, flavonoids',
+  uses: 'Tea, salads, soups, drying',
+  image: '/images/ingredient-herbs.jpg'
+}, {
+  name: 'Arctic Cloudberries',
+  season: 'Mid-July to mid-August',
+  description: 'The golden jewel of Lapland. Grows only in Arctic bogs and marshes — one of the rarest and most prized wild berries in the world.',
+  nutritional: 'Vitamin C, vitamin E, omega-3 fatty acids',
+  uses: 'Jams, desserts, liqueur, fresh eating',
+  image: '/images/ingredient-cloudberries.jpg'
+}];
 export default function LocalIngredients() {
-  useSEO({
-    title: 'Local Ingredients of Lapland | Reindeer, Berries, Fish, Foraged Herbs | LaplandFood',
-    description:
-      'What actually grows, swims, and grazes in Finnish Lapland — six core ingredients with seasons, sourcing, and how they end up on the plate.',
-    path: '/local-ingredients',
-  })
-
-  return (
-    <div className="min-h-screen bg-white">
+  return <><SEO title={'Local Ingredients of Lapland | Reindeer, Berries, Fish, Foraged Herbs | LaplandFood'} description={'What actually grows, swims, and grazes in Finnish Lapland — six core ingredients with seasons, sourcing, and how they end up on the plate.'} path={'/local-ingredients'} /><div className="min-h-screen bg-white">
       <Nav />
-      <PageHero
-        eyebrow="Pillar 01 · Ingredients"
-        title="What grows"
-        titleHighlight="up here."
-        subtitle="Six ingredients that define Lapland’s pantry — where they come from, when they peak, and what they actually taste like."
-        imageUrl="/images/hero-ingredients.jpg"
-        imageAlt="Foraged cloudberries, lingonberries, and wild mushrooms arranged on rough birch wood at the edge of an Arctic forest"
-        primaryCta={{ label: 'Foraging guide', href: '/foraging-guide' }}
-        secondaryCta={{ label: 'Recipes that use these', href: '/traditional-recipes' }}
-      />
+      <PageHero eyebrow="Pillar 01 · Ingredients" title="What grows" titleHighlight="up here." subtitle="Six ingredients that define Lapland’s pantry — where they come from, when they peak, and what they actually taste like." imageUrl="/images/hero-ingredients.jpg" imageAlt="Foraged cloudberries, lingonberries, and wild mushrooms arranged on rough birch wood at the edge of an Arctic forest" primaryCta={{
+        label: 'Foraging guide',
+        href: '/foraging-guide'
+      }} secondaryCta={{
+        label: 'Recipes that use these',
+        href: '/traditional-recipes'
+      }} />
 
       {/* === LONG-FORM INTRO === */}
       <section className="bg-white py-16 sm:py-20">
@@ -111,20 +85,11 @@ export default function LocalIngredients() {
       <section className="bg-white py-16 sm:py-20">
         <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
-            {ingredients.map((i) => (
-              <article
-                key={i.name}
-                className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden"
-              >
+            {ingredients.map(i => <article key={i.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                 <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                  <img
-                    src={i.image}
-                    alt=""
-                    loading="lazy"
-                    decoding="async"
-                    onError={(e) => { e.currentTarget.style.display = 'none' }}
-                    className="absolute inset-0 w-full h-full object-cover"
-                  />
+                  <img src={i.image} alt="" loading="lazy" decoding="async" onError={e => {
+                  e.currentTarget.style.display = 'none';
+                }} className="absolute inset-0 w-full h-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
                   <div className="absolute top-3 right-4">
                     <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
@@ -154,8 +119,7 @@ export default function LocalIngredients() {
                     </div>
                   </div>
                 </div>
-              </article>
-            ))}
+              </article>)}
           </div>
         </div>
       </section>
@@ -269,6 +233,5 @@ export default function LocalIngredients() {
 
       <NewsletterSection />
       <Footer />
-    </div>
-  )
+    </div></>;
 }

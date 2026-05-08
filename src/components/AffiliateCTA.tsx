@@ -34,11 +34,17 @@ export function buildAffiliateHref({
   destination,
   query,
 }: Pick<AffiliateCTAProps, 'partner' | 'sid' | 'destination' | 'query'>): string {
+  if (partner === 'activities') {
+    const path = (destination ?? '').replace(/^\/+/, '').replace(/\/+$/, '')
+    const url = new URL(path ? `https://www.getyourguide.com/${path}/` : 'https://www.getyourguide.com/')
+    url.searchParams.set('partner_id', 'VRMKD7N')
+    url.searchParams.set('cmp', `lv_laplandfood_${sid}`)
+    if (query) for (const [k, v] of Object.entries(query)) if (v) url.searchParams.set(k, v)
+    return url.toString()
+  }
   const params = new URLSearchParams({ sid, ...(query || {}) })
-  if (destination && partner !== 'activities') params.set('ss', destination)
-  const pathname =
-    partner === 'activities' && destination ? `/go/activities/${destination}` : `/go/${partner}`
-  return `${REDIRECT_HOST}${pathname}?${params.toString()}`
+  if (destination) params.set('ss', destination)
+  return `${REDIRECT_HOST}/go/${partner}?${params.toString()}`
 }
 
 export default function AffiliateCTA({

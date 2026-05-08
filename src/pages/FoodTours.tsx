@@ -1,109 +1,66 @@
-import { Clock, Users, MapPin, Star, Calendar } from 'lucide-react'
-import { useSEO } from '../hooks/useSEO'
-import Nav from '../components/Nav'
-import PageHero from '../components/PageHero'
-import Footer from '../components/Footer'
-import NewsletterSection from '../components/NewsletterSection'
-import { gygSearchLink } from '../lib/gyg'
-
-const tours = [
-  {
-    name: 'Sami Culture Food Journey',
-    duration: '6 hours',
-    groupSize: '4–12 people',
-    difficulty: 'Easy',
-    price: 'from €185',
-    rating: 4.9,
-    description:
-      'A deep dive into Sami food culture. Meet local producers, learn traditional techniques, and taste authentic flavours straight from the Arctic.',
-    highlights: [
-      'Visit a reindeer herder and taste bidos stew',
-      'Traditional Sami bread baking',
-      'Wild ingredient foraging with a guide',
-      'Sami museum food culture workshop',
-      'Visits to local Arctic producers',
-    ],
-    location: 'Inari – Utsjoki region',
-    season: 'June – September',
-    sid: 'tour_sami_culture',
-    href: gygSearchLink('Sami food culture Lapland', 'tour_sami_culture'),
-    image: '/images/tour-sami-culture.jpg',
-  },
-  {
-    name: 'Arctic Fine-Dining Experience',
-    duration: '8 hours',
-    groupSize: '2–8 people',
-    difficulty: 'Moderate',
-    price: 'from €295',
-    rating: 4.8,
-    description:
-      "An exclusive journey through Lapland's finest restaurants. Michelin-recommended venues and award-winning chefs cooking with the purest Arctic ingredients.",
-    highlights: [
-      '3-course lunch at a regional flagship restaurant',
-      'Back-of-house kitchen tour with the head chef',
-      'Arctic ingredients masterclass',
-      'Fine-dining technique demonstration',
-      '5-course gourmet dinner with wine pairing',
-    ],
-    location: 'Rovaniemi',
-    season: 'Year-round',
-    sid: 'tour_arctic_fine_dining',
-    href: gygSearchLink('Lapland fine dining tasting menu', 'tour_arctic_fine_dining'),
-    image: '/images/tour-fine-dining.jpg',
-  },
-  {
-    name: 'Wild Foraging Expedition',
-    duration: '4 hours',
-    groupSize: '6–15 people',
-    difficulty: 'Moderate',
-    price: 'from €95',
-    rating: 4.7,
-    description:
-      'Hands-on guided foraging in old-growth forest and bog. Learn safe identification of berries, mushrooms, and wild herbs, then cook what you pick.',
-    highlights: [
-      'Mushroom safety masterclass',
-      'Bilberry, lingonberry, and cloudberry picking (in season)',
-      'Wild herb identification',
-      'Forage-to-table cooking session over campfire',
-      'Take-home Lapland foraging guidebook',
-    ],
-    location: 'Rovaniemi / Levi area',
-    season: 'July – September',
-    sid: 'tour_foraging',
-    href: gygSearchLink('Lapland foraging tour', 'tour_foraging'),
-    image: '/images/tour-foraging.jpg',
-  },
-]
+import { Clock, Users, MapPin, Star, Calendar } from 'lucide-react';
+import { SEO } from '../hooks/useSEO';
+import Nav from '../components/Nav';
+import PageHero from '../components/PageHero';
+import Footer from '../components/Footer';
+import NewsletterSection from '../components/NewsletterSection';
+import { gygSearchLink } from '../lib/gyg';
+const tours = [{
+  name: 'Sami Culture Food Journey',
+  duration: '6 hours',
+  groupSize: '4–12 people',
+  difficulty: 'Easy',
+  price: 'from €185',
+  rating: 4.9,
+  description: 'A deep dive into Sami food culture. Meet local producers, learn traditional techniques, and taste authentic flavours straight from the Arctic.',
+  highlights: ['Visit a reindeer herder and taste bidos stew', 'Traditional Sami bread baking', 'Wild ingredient foraging with a guide', 'Sami museum food culture workshop', 'Visits to local Arctic producers'],
+  location: 'Inari – Utsjoki region',
+  season: 'June – September',
+  sid: 'tour_sami_culture',
+  href: gygSearchLink('Sami food culture Lapland', 'tour_sami_culture'),
+  image: '/images/tour-sami-culture.jpg'
+}, {
+  name: 'Arctic Fine-Dining Experience',
+  duration: '8 hours',
+  groupSize: '2–8 people',
+  difficulty: 'Moderate',
+  price: 'from €295',
+  rating: 4.8,
+  description: "An exclusive journey through Lapland's finest restaurants. Michelin-recommended venues and award-winning chefs cooking with the purest Arctic ingredients.",
+  highlights: ['3-course lunch at a regional flagship restaurant', 'Back-of-house kitchen tour with the head chef', 'Arctic ingredients masterclass', 'Fine-dining technique demonstration', '5-course gourmet dinner with wine pairing'],
+  location: 'Rovaniemi',
+  season: 'Year-round',
+  sid: 'tour_arctic_fine_dining',
+  href: gygSearchLink('Lapland fine dining tasting menu', 'tour_arctic_fine_dining'),
+  image: '/images/tour-fine-dining.jpg'
+}, {
+  name: 'Wild Foraging Expedition',
+  duration: '4 hours',
+  groupSize: '6–15 people',
+  difficulty: 'Moderate',
+  price: 'from €95',
+  rating: 4.7,
+  description: 'Hands-on guided foraging in old-growth forest and bog. Learn safe identification of berries, mushrooms, and wild herbs, then cook what you pick.',
+  highlights: ['Mushroom safety masterclass', 'Bilberry, lingonberry, and cloudberry picking (in season)', 'Wild herb identification', 'Forage-to-table cooking session over campfire', 'Take-home Lapland foraging guidebook'],
+  location: 'Rovaniemi / Levi area',
+  season: 'July – September',
+  sid: 'tour_foraging',
+  href: gygSearchLink('Lapland foraging tour', 'tour_foraging'),
+  image: '/images/tour-foraging.jpg'
+}];
 
 // 2026-05-03: GYG `lapland-l662/food-and-drink/` category landing surfaces
 // almost no actual food experiences (mostly husky / aurora cross-listings).
 // Search query for "Lapland food cooking" returns the relevant set reliably.
-const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all')
-
+const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all');
 export default function FoodTours() {
-  useSEO({
-    title: 'Lapland Food Tours & Cooking Classes | Sami, Fine-Dining, Foraging | LaplandFood',
-    description:
-      'Three booked-and-paid-for ways to taste Lapland: Sami food journeys, fine-dining tours, and guided foraging walks. Real itineraries, real prices, real bookings.',
-    path: '/food-tours',
-  })
-
-  return (
-    <div className="min-h-screen bg-white">
+  return <><SEO title={'Lapland Food Tours & Cooking Classes | Sami, Fine-Dining, Foraging | LaplandFood'} description={'Three booked-and-paid-for ways to taste Lapland: Sami food journeys, fine-dining tours, and guided foraging walks. Real itineraries, real prices, real bookings.'} path={'/food-tours'} /><div className="min-h-screen bg-white">
       <Nav />
-      <PageHero
-        eyebrow="Pillar 06 · Tours"
-        title="Eat your way"
-        titleHighlight="around Lapland."
-        subtitle="Three bookable food experiences that go deeper than a tasting menu — Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner."
-        imageUrl="/images/hero-tours.jpg"
-        imageAlt="Small group around a campfire in an Arctic forest, cooking foraged mushrooms over a kettle, golden-hour light"
-        primaryCta={{
-          label: 'Browse all on GetYourGuide',
-          href: browseAllHref,
-          external: true,
-        }}
-      />
+      <PageHero eyebrow="Pillar 06 · Tours" title="Eat your way" titleHighlight="around Lapland." subtitle="Three bookable food experiences that go deeper than a tasting menu — Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner." imageUrl="/images/hero-tours.jpg" imageAlt="Small group around a campfire in an Arctic forest, cooking foraged mushrooms over a kettle, golden-hour light" primaryCta={{
+        label: 'Browse all on GetYourGuide',
+        href: browseAllHref,
+        external: true
+      }} />
 
       {/* === LONG-FORM INTRO === */}
       <section className="bg-white py-16 sm:py-20">
@@ -136,31 +93,17 @@ export default function FoodTours() {
                 Book one of these.
               </h2>
             </div>
-            <a
-              href={browseAllHref}
-              target="_blank"
-              rel="sponsored nofollow noopener"
-              className="text-sm font-semibold text-vibe-pink hover:underline whitespace-nowrap"
-            >
+            <a href={browseAllHref} target="_blank" rel="sponsored nofollow noopener" className="text-sm font-semibold text-vibe-pink hover:underline whitespace-nowrap">
               See all on GetYourGuide →
             </a>
           </div>
 
           <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
-            {tours.map((t) => (
-              <article
-                key={t.name}
-                className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden"
-              >
+            {tours.map(t => <article key={t.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                 <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                  <img
-                    src={t.image}
-                    alt=""
-                    loading="lazy"
-                    decoding="async"
-                    onError={(e) => { e.currentTarget.style.display = 'none' }}
-                    className="absolute inset-0 w-full h-full object-cover"
-                  />
+                  <img src={t.image} alt="" loading="lazy" decoding="async" onError={e => {
+                  e.currentTarget.style.display = 'none';
+                }} className="absolute inset-0 w-full h-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
                   <div className="absolute top-4 left-5 right-5 flex items-start justify-between">
                     <span className="inline-flex items-center gap-1 bg-white/90 backdrop-blur text-[#002F6C] text-xs font-semibold px-3 py-1.5 rounded-full">
@@ -191,34 +134,23 @@ export default function FoodTours() {
                   </div>
 
                   <ul className="space-y-1 mb-5 flex-1">
-                    {t.highlights.slice(0, 3).map((h) => (
-                      <li key={h} className="flex gap-2 text-xs text-[#002F6C]/75">
+                    {t.highlights.slice(0, 3).map(h => <li key={h} className="flex gap-2 text-xs text-[#002F6C]/75">
                         <span className="w-1 h-1 rounded-full bg-vibe-pink mt-1.5 flex-shrink-0" />
                         <span className="leading-snug">{h}</span>
-                      </li>
-                    ))}
-                    {t.highlights.length > 3 && (
-                      <li className="text-xs text-[#002F6C]/55 pl-3">+ {t.highlights.length - 3} more</li>
-                    )}
+                      </li>)}
+                    {t.highlights.length > 3 && <li className="text-xs text-[#002F6C]/55 pl-3">+ {t.highlights.length - 3} more</li>}
                   </ul>
 
-                  <a
-                    href={t.href}
-                    target="_blank"
-                    rel="sponsored nofollow noopener"
-                    className="block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm"
-                  >
+                  <a href={t.href} target="_blank" rel="sponsored nofollow noopener" className="block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
                     Check availability →
                   </a>
                 </div>
-              </article>
-            ))}
+              </article>)}
           </div>
         </div>
       </section>
 
       <NewsletterSection />
       <Footer />
-    </div>
-  )
+    </div></>;
 }
