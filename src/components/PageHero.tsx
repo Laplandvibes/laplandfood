@@ -19,7 +19,6 @@ interface PageHeroProps {
  * Use min-h with svh so iOS Safari URL-bar dynamics don't crop the H1.
  */
 export default function PageHero({
-  eyebrow,
   title,
   titleHighlight,
   subtitle,
@@ -48,7 +47,7 @@ export default function PageHero({
   }
 
   return (
-    <section className="relative pt-16 min-h-[68svh] md:min-h-[78svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+    <section className="relative pt-16 min-h-[60svh] md:min-h-[68svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
       <img
         src={imageUrl}
         alt={imageAlt}
@@ -58,23 +57,18 @@ export default function PageHero({
         onError={(e) => { e.currentTarget.style.display = 'none' }}
         className="absolute inset-0 w-full h-full object-cover"
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/30 via-[#002F6C]/30 to-[#002F6C]/85" />
+      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#002F6C]/65" />
 
-      <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-16 sm:py-24 lg:py-28 flex flex-col justify-center min-h-[68svh] md:min-h-[78svh]">
-        {eyebrow && (
-          <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.18em] uppercase mb-4">
-            {eyebrow}
-          </p>
-        )}
-        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.95] mb-6 max-w-4xl">
+      <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center min-h-[60svh] md:min-h-[68svh]">
+        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.95] mb-6 max-w-4xl drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">
           {title}{' '}
           {titleHighlight && (
-            <span className="text-vibe-pink drop-shadow-[0_0_30px_rgba(236,72,153,0.45)]">
+            <span className="text-vibe-pink drop-shadow-[0_0_30px_rgba(236,72,153,0.55)]">
               {titleHighlight}
             </span>
           )}
         </h1>
-        <p className="text-base sm:text-lg md:text-xl text-white/85 max-w-3xl mb-8 leading-relaxed">
+        <p className="text-base sm:text-lg md:text-xl text-white/95 max-w-3xl mb-8 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,15,40,0.85)]">
           {subtitle}
         </p>
         {(primaryCta || secondaryCta) && (

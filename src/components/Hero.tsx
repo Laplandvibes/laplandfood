@@ -16,7 +16,7 @@ export default function Hero() {
         onError={(e) => { e.currentTarget.style.display = 'none' }}
         className="absolute inset-0 w-full h-full object-cover"
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/30 via-[#002F6C]/15 to-[#002F6C]/85" />
+      <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/10 via-transparent to-[#002F6C]/55" />
 
       <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center py-20">
         <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5">
