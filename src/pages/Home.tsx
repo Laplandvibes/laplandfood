@@ -111,7 +111,7 @@ const culturePoints = [{
   body: 'Finnish food rarely shouts. The flavours are dill, juniper, butter, salt, and the ingredient itself. The cooking is built to let the ingredient speak — a quiet contrast to the louder cuisines further south.'
 }];
 export default function Home() {
-  return <><SEO title={'LaplandFood — How Finland Eats: Ingredients, Recipes, Michelin & Food Tours'} description={'A field guide to Finnish food culture: where the ingredients come from, what the recipes actually taste like, the Michelin scene, and where to book a food tour in Lapland.'} path={'/'} schema={homeSchema} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="home.title" descriptionKey="home.description" path={'/'} schema={homeSchema} /><div className="min-h-screen bg-white">
       <Nav />
       <Hero />
 

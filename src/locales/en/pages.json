@@ -1,0 +1,37 @@
+{
+  "home": {
+    "title": "LaplandFood — Finnish Lapland Food Culture, Ingredients & Recipes",
+    "description": "Finnish Lapland's food scene — wild reindeer, cloudberries, fresh char, smoked salmon, and the chefs reshaping Arctic cuisine. Recipes, restaurants, and foraging guides."
+  },
+  "localIngredients": {
+    "title": "Local Ingredients of Finnish Lapland | LaplandFood",
+    "description": "What grows, swims, and roams in Finnish Lapland — reindeer, char, cloudberries, lingonberries, chanterelles, birch syrup. The Arctic ingredients that define Lapland cuisine."
+  },
+  "traditionalRecipes": {
+    "title": "Traditional Lapland Recipes | LaplandFood",
+    "description": "Real Lapland recipes — sautéed reindeer (poronkäristys), Arctic char, leipäjuusto, salmonberries with cream. Tested in Lapland kitchens, written for travellers."
+  },
+  "modernLapland": {
+    "title": "Modern Lapland Cuisine | LaplandFood",
+    "description": "How a new generation of Lapland chefs is rebuilding Arctic cuisine — foraged plates, fermentation, hyperlocal sourcing. The restaurants leading the change."
+  },
+  "foragingGuide": {
+    "title": "Foraging in Finnish Lapland — Berries, Mushrooms, Herbs | LaplandFood",
+    "description": "Finland's everyman's right and what it means for foragers. When and where to find cloudberries, chanterelles, lingonberries, wild thyme, and birch sap in Lapland."
+  },
+  "foodTours": {
+    "title": "Food Tours in Finnish Lapland | LaplandFood",
+    "description": "Guided food experiences in Lapland — reindeer farms, foraging walks, fish smoking, wilderness lunches, and chef's table evenings. How to book and what to expect."
+  },
+  "michelinDining": {
+    "title": "Fine Dining & Michelin Restaurants in Lapland | LaplandFood",
+    "description": "Where the Michelin guide pays attention in Finnish Lapland — Restaurant Aanaar, Tundrea, Trattoria Levi, and the Lapland kitchens worth a long drive."
+  },
+  "about": {
+    "title": "About LaplandFood",
+    "description": "About LaplandFood — written by people who actually eat in Finnish Lapland. Editorial standards, sourcing, affiliate disclosure."
+  },
+  "privacy": { "title": "Privacy Policy | LaplandFood", "description": "How LaplandFood handles your data." },
+  "terms": { "title": "Terms of Use | LaplandFood", "description": "Terms of use for LaplandFood." },
+  "cookie": { "title": "Cookie Policy | LaplandFood", "description": "How LaplandFood uses cookies." }
+}

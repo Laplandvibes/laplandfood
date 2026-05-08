@@ -1,16 +1,27 @@
-// Generated SEO component — created by fix-seo-ecosystem.mjs.
-// laplandfood.com + LaplandFood are placeholder strings replaced by the script.
+// Generated SEO component — locale-aware (i18n migration 2026-05-08).
 // React 19 native head-tag SEO helper.
-// See memory: bug_static_canonical_index_html.md
+//
+// When a page passes `titleKey` + `descriptionKey`, the component pulls
+// translations from the `pages` namespace. Pass `path` (the EN canonical
+// path, no /fi prefix) and the component automatically emits the right
+// canonical + hreflang for the current locale.
 
 import type { ReactNode } from 'react';
+import { useTranslation } from 'react-i18next';
+import { useLocale } from '../i18n/useLocale';
 
 interface SEOProps {
-  title: string;
-  description: string;
-  /** Path-only canonical (e.g. "/operators"). Defaults to "/" for home. */
+  /** Optional literal title (used when no titleKey is given). */
+  title?: string;
+  /** Optional literal description (used when no descriptionKey is given). */
+  description?: string;
+  /** i18n key under the `pages` namespace, e.g. "home.title". */
+  titleKey?: string;
+  /** i18n key under the `pages` namespace, e.g. "home.description". */
+  descriptionKey?: string;
+  /** Path-only canonical (no locale prefix). Defaults to "/". */
   path?: string;
-  /** Path-only canonical, alternate name. */
+  /** Alias for `path`. */
   canonical?: string;
   schema?: object;
   breadcrumbs?: Array<{ name: string; url: string }>;
@@ -23,15 +34,26 @@ const SITE_NAME = 'LaplandFood';
 export default function SEO({
   title,
   description,
+  titleKey,
+  descriptionKey,
   path,
   canonical,
   schema,
   breadcrumbs,
   noindex,
 }: SEOProps): ReactNode {
-  const fullTitle = title.includes('|') ? title : `${title} | ${SITE_NAME}`;
+  const { t } = useTranslation('pages');
+  const { locale } = useLocale();
+
+  const resolvedTitle = titleKey ? t(titleKey) : (title ?? '');
+  const resolvedDesc = descriptionKey ? t(descriptionKey) : (description ?? '');
+
+  const fullTitle = resolvedTitle.includes('|') ? resolvedTitle : `${resolvedTitle} | ${SITE_NAME}`;
   const p = path ?? canonical ?? '/';
-  const url = `${BASE}${p}`;
+
+  const enUrl = `${BASE}${p === '/' ? '/' : p}`;
+  const fiUrl = `${BASE}/fi${p === '/' ? '' : p}`;
+  const currentUrl = locale === 'fi' ? fiUrl : enUrl;
 
   const breadcrumbSchema =
     breadcrumbs && breadcrumbs.length > 0
@@ -50,20 +72,24 @@ export default function SEO({
   return (
     <>
       <title>{fullTitle}</title>
-      <link rel="canonical" href={url} />
-      <meta name="description" content={description} />
+      <link rel="canonical" href={currentUrl} />
+      <link rel="alternate" hrefLang="en" href={enUrl} />
+      <link rel="alternate" hrefLang="fi" href={fiUrl} />
+      <link rel="alternate" hrefLang="x-default" href={enUrl} />
+      <meta name="description" content={resolvedDesc} />
       <meta
         name="robots"
         content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1'}
       />
       <meta property="og:title" content={fullTitle} />
-      <meta property="og:description" content={description} />
-      <meta property="og:url" content={url} />
+      <meta property="og:description" content={resolvedDesc} />
+      <meta property="og:url" content={currentUrl} />
       <meta property="og:type" content="website" />
       <meta property="og:site_name" content={SITE_NAME} />
+      <meta property="og:locale" content={locale === 'fi' ? 'fi_FI' : 'en_US'} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={fullTitle} />
-      <meta name="twitter:description" content={description} />
+      <meta name="twitter:description" content={resolvedDesc} />
       {breadcrumbSchema && (
         <script
           type="application/ld+json"

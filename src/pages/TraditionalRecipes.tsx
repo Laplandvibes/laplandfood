@@ -89,7 +89,7 @@ const cookingMethods = [{
   body: 'Preserving meat and fish with cold or hot smoke'
 }];
 export default function TraditionalRecipes() {
-  return <><SEO title={'Traditional Sami Recipes | Authentic Lapland Food Culture | LaplandFood'} description={'Bidos reindeer stew, Gahkku flatbread, Arctic fish soup, wild-berry kissel — authentic Sami recipes plus the cultural context that explains them. Free to read, no paywalls.'} path={'/traditional-recipes'} schema={articleSchema} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="traditionalRecipes.title" descriptionKey="traditionalRecipes.description" path={'/traditional-recipes'} schema={articleSchema} /><div className="min-h-screen bg-white">
       <Nav />
 
       <PageHero eyebrow="Pillar 02 · Recipes" title="Traditional" titleHighlight="Sami Recipes." subtitle="A deep dive into Sami food heritage. These recipes have sustained people through Arctic winters for thousands of years — each one carrying wisdom, flavour, and a connection to the land." imageUrl="/images/hero-recipes.jpg" imageAlt="Cast iron pot of reindeer stew bubbling over an open campfire at dusk" primaryCta={{

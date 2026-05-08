@@ -142,7 +142,7 @@ const bookingNotes = [{
   body: 'No restaurant in Finland will turn you away in jeans, but the rooms expect an effort. Trainers and hoodies feel out of place.'
 }];
 export default function MichelinDining() {
-  return <><SEO title={'Michelin & Fine Dining in Finland and Lapland | Where to Book | LaplandFood'} description={"A practical guide to Finland's Michelin-listed kitchens (Helsinki) and Lapland's three flagship fine-dining rooms (Nili, Aanaar, Rakas) — with prices, signatures, booking lead times, and what a tasting menu actually looks like."} path={'/michelin-dining'} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="michelinDining.title" descriptionKey="michelinDining.description" path={'/michelin-dining'} /><div className="min-h-screen bg-white">
       <Nav />
       <PageHero eyebrow="Pillar 05 · Michelin" title="Michelin" titleHighlight="& fine dining." subtitle="Finland's Michelin scene at a glance — what is starred, where, what is pushing fine dining inside the Arctic Circle, and how to actually book a table." imageUrl="/images/hero-michelin.jpg" imageAlt="Tasting-menu plating with foraged herbs and gold-rimmed dishware on a dark linen table" primaryCta={{
         label: 'Where to book in Lapland',

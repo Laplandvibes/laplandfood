@@ -1,0 +1,37 @@
+{
+  "home": {
+    "title": "LaplandFood — Suomen Lapin ruokakulttuuri, raaka-aineet ja reseptit",
+    "description": "Suomen Lapin ruokamaailma — poro, hilla, nieriä, savustettu lohi ja kokit jotka uudistavat arktista keittiötä. Reseptejä, ravintoloita ja keräilyoppaita."
+  },
+  "localIngredients": {
+    "title": "Suomen Lapin paikalliset raaka-aineet | LaplandFood",
+    "description": "Mitä kasvaa, ui ja vaeltaa Lapissa — poro, nieriä, hilla, puolukka, kantarelli, koivunmahla. Lapin keittiön määrittävät arktiset raaka-aineet."
+  },
+  "traditionalRecipes": {
+    "title": "Lapin perinnereseptit | LaplandFood",
+    "description": "Aitoja Lapin reseptejä — poronkäristys, nieriä, leipäjuusto, lakkahillo kerman kanssa. Lapin keittiöissä testattuja, matkailijalle kirjoitettuja."
+  },
+  "modernLapland": {
+    "title": "Lapin moderni keittiö | LaplandFood",
+    "description": "Miten uusi sukupolvi Lapin kokkeja rakentaa arktista keittiötä uusiksi — keräiltyjä lautasia, fermentointia, hyperpaikallisia raaka-aineita. Muutoksen edelläkävijäravintolat."
+  },
+  "foragingGuide": {
+    "title": "Keräily Suomen Lapissa — marjat, sienet, yrtit | LaplandFood",
+    "description": "Jokamiehenoikeus ja mitä se tarkoittaa keräilijälle. Milloin ja mistä löydät hillan, kantarellin, puolukan, ajuruohon ja koivunmahlan Lapista."
+  },
+  "foodTours": {
+    "title": "Ruokaretket Suomen Lapissa | LaplandFood",
+    "description": "Opastettuja ruokakokemuksia Lapissa — porotilat, keräilyretket, kalansavustus, erälounaat ja kokin pöydän illat. Miten varaat ja mitä odottaa."
+  },
+  "michelinDining": {
+    "title": "Fine dining ja Michelin-ravintolat Lapissa | LaplandFood",
+    "description": "Mihin Michelin-opas kiinnittää huomionsa Suomen Lapissa — Aanaar, Tundrea, Trattoria Levi ja Lapin keittiöt joihin pitkä ajomatka kannattaa."
+  },
+  "about": {
+    "title": "Tietoa LaplandFoodista",
+    "description": "Tietoa LaplandFoodista — kirjoittajat, jotka oikeasti syövät Suomen Lapissa. Toimitusperiaatteet, lähteet, kumppanuusmaininnat."
+  },
+  "privacy": { "title": "Tietosuojaseloste | LaplandFood", "description": "Miten LaplandFood käsittelee tietojasi." },
+  "terms": { "title": "Käyttöehdot | LaplandFood", "description": "LaplandFoodin käyttöehdot." },
+  "cookie": { "title": "Evästekäytäntö | LaplandFood", "description": "Miten LaplandFood käyttää evästeitä." }
+}

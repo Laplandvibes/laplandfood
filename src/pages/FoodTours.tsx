@@ -54,7 +54,7 @@ const tours = [{
 // Search query for "Lapland food cooking" returns the relevant set reliably.
 const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all');
 export default function FoodTours() {
-  return <><SEO title={'Lapland Food Tours & Cooking Classes | Sami, Fine-Dining, Foraging | LaplandFood'} description={'Three booked-and-paid-for ways to taste Lapland: Sami food journeys, fine-dining tours, and guided foraging walks. Real itineraries, real prices, real bookings.'} path={'/food-tours'} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="foodTours.title" descriptionKey="foodTours.description" path={'/food-tours'} /><div className="min-h-screen bg-white">
       <Nav />
       <PageHero eyebrow="Pillar 06 · Tours" title="Eat your way" titleHighlight="around Lapland." subtitle="Three bookable food experiences that go deeper than a tasting menu — Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner." imageUrl="/images/hero-tours.jpg" imageAlt="Small group around a campfire in an Arctic forest, cooking foraged mushrooms over a kettle, golden-hour light" primaryCta={{
         label: 'Browse all on GetYourGuide',

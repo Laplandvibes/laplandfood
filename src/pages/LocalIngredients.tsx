@@ -49,7 +49,7 @@ const ingredients = [{
   image: '/images/ingredient-cloudberries.jpg'
 }];
 export default function LocalIngredients() {
-  return <><SEO title={'Local Ingredients of Lapland | Reindeer, Berries, Fish, Foraged Herbs | LaplandFood'} description={'What actually grows, swims, and grazes in Finnish Lapland — six core ingredients with seasons, sourcing, and how they end up on the plate.'} path={'/local-ingredients'} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="localIngredients.title" descriptionKey="localIngredients.description" path={'/local-ingredients'} /><div className="min-h-screen bg-white">
       <Nav />
       <PageHero eyebrow="Pillar 01 · Ingredients" title="What grows" titleHighlight="up here." subtitle="Six ingredients that define Lapland’s pantry — where they come from, when they peak, and what they actually taste like." imageUrl="/images/hero-ingredients.jpg" imageAlt="Foraged cloudberries, lingonberries, and wild mushrooms arranged on rough birch wood at the edge of an Arctic forest" primaryCta={{
         label: 'Foraging guide',

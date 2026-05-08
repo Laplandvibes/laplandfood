@@ -1,69 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://laplandfood.com/</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/"/>
   </url>
   <url>
     <loc>https://laplandfood.com/local-ingredients</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/local-ingredients"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/local-ingredients"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/local-ingredients"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/local-ingredients</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/local-ingredients"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/local-ingredients"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/local-ingredients"/>
   </url>
   <url>
     <loc>https://laplandfood.com/traditional-recipes</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/traditional-recipes"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/traditional-recipes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/traditional-recipes"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/traditional-recipes</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/traditional-recipes"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/traditional-recipes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/traditional-recipes"/>
   </url>
   <url>
     <loc>https://laplandfood.com/modern-lapland</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/modern-lapland"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/modern-lapland"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/modern-lapland"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/modern-lapland</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/modern-lapland"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/modern-lapland"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/modern-lapland"/>
   </url>
   <url>
     <loc>https://laplandfood.com/foraging-guide</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/foraging-guide"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/foraging-guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/foraging-guide"/>
   </url>
   <url>
-    <loc>https://laplandfood.com/michelin-dining</loc>
-    <lastmod>2026-05-03</lastmod>
+    <loc>https://laplandfood.com/fi/foraging-guide</loc>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/foraging-guide"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/foraging-guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/foraging-guide"/>
   </url>
   <url>
     <loc>https://laplandfood.com/food-tours</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/food-tours"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/food-tours"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/food-tours"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/food-tours</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/food-tours"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/food-tours"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/food-tours"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/michelin-dining</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/michelin-dining"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/michelin-dining"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/michelin-dining"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/michelin-dining</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/michelin-dining"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/michelin-dining"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/michelin-dining"/>
   </url>
   <url>
     <loc>https://laplandfood.com/about</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/about"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/about"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/about</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/about"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/about"/>
   </url>
   <url>
     <loc>https://laplandfood.com/privacy</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/privacy"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/privacy</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/privacy"/>
   </url>
   <url>
     <loc>https://laplandfood.com/terms</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/terms"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/terms</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/terms"/>
   </url>
   <url>
     <loc>https://laplandfood.com/cookie-policy</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/cookie-policy"/>
+  </url>
+  <url>
+    <loc>https://laplandfood.com/fi/cookie-policy</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laplandfood.com/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laplandfood.com/fi/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laplandfood.com/cookie-policy"/>
   </url>
 </urlset>

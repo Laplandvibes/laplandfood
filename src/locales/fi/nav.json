@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "Etusivu",
+    "ingredients": "Raaka-aineet",
+    "recipes": "Reseptit",
+    "modern": "Nykypäivä",
+    "foraging": "Keräily",
+    "michelin": "Michelin",
+    "foodTours": "Ruokaretket",
+    "about": "Tietoa"
+  },
+  "ariaHome": "LaplandFood-etusivu",
+  "ariaMain": "Päänavigaatio",
+  "menu": "VALIKKO",
+  "openMenu": "Avaa valikko",
+  "closeMenu": "Sulje valikko"
+}

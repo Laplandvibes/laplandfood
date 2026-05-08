@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "Home",
+    "ingredients": "Ingredients",
+    "recipes": "Recipes",
+    "modern": "Modern",
+    "foraging": "Foraging",
+    "michelin": "Michelin",
+    "foodTours": "Food Tours",
+    "about": "About"
+  },
+  "ariaHome": "LaplandFood home",
+  "ariaMain": "Main navigation",
+  "menu": "MENU",
+  "openMenu": "Open menu",
+  "closeMenu": "Close menu"
+}

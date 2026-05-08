@@ -4,7 +4,7 @@ import Nav from '../components/Nav';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 export default function About() {
-  return <><SEO title={'About LaplandFood | Editorial mission, voice, and how we publish'} description={'Why LaplandFood exists, who writes it, how we choose what to recommend, and how the affiliate model keeps the editorial honest.'} path={'/about'} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="about.title" descriptionKey="about.description" path={'/about'} /><div className="min-h-screen bg-white">
       <Nav />
 
       {/* Tightened hero — no empty real estate, no operating-company name */}

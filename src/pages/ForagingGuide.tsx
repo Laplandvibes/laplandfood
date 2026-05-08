@@ -57,7 +57,7 @@ const items = [{
   image: '/images/forage-nettle.jpg'
 }];
 export default function ForagingGuide() {
-  return <><SEO title={'Foraging Guide for Lapland | Berries, Mushrooms, Wild Herbs | LaplandFood'} description={"Five core wild ingredients to forage in Finnish Lapland — bilberry, lingonberry, cloudberry, mushrooms, nettle. Identification, season, and how to do it sustainably under Finland's everyman’s right."} path={'/foraging-guide'} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="foragingGuide.title" descriptionKey="foragingGuide.description" path={'/foraging-guide'} /><div className="min-h-screen bg-white">
       <Nav />
       <PageHero eyebrow="Pillar 04 · Foraging" title="The wild" titleHighlight="larder." subtitle="Finland’s jokamiehenoikeus (everyman’s right) lets anyone forage berries, mushrooms, and wild herbs across most of the country. Here are the five things to know first." imageUrl="/images/hero-foraging.jpg" imageAlt="Hand picking ripe cloudberries from a low Arctic bog, soft midnight-sun light from low on the horizon" primaryCta={{
         label: 'Book a guided walk',

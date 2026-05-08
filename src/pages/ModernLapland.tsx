@@ -48,7 +48,7 @@ const dishes = [{
   image: '/images/dish-deconstructed-bidos.jpg'
 }];
 export default function ModernLapland() {
-  return <><SEO title={'Modern Arctic Cuisine | New Nordic in Lapland | LaplandFood'} description={'How a new generation of Finnish chefs cooks reindeer, lake fish, and wild berries with sous-vide, fermentation, and New Nordic technique. Where to taste it.'} path={'/modern-lapland'} /><div className="min-h-screen bg-white">
+  return <><SEO titleKey="modernLapland.title" descriptionKey="modernLapland.description" path={'/modern-lapland'} /><div className="min-h-screen bg-white">
       <Nav />
       <PageHero eyebrow="Pillar 03 · Modern" title="The new" titleHighlight="Arctic kitchen." subtitle="Sous-vide reindeer. Lacto-fermented bilberries. Confit whitefish under wild herb oil. Modern Lapland cuisine takes the same ingredients the Sami have used for a thousand years and applies New Nordic technique." imageUrl="/images/hero-modern.jpg" imageAlt="Plated tasting-menu dish of pink-cooked reindeer, foraged herbs, and bilberry reduction on a slate plate" primaryCta={{
         label: 'Where to book',
