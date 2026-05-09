@@ -5,18 +5,20 @@
  *   - 'dark'   — for deep-night sections (snow/40 muted)
  *   - 'inline' — emphasised before-CTA notice on a light page section
  */
+import { useTranslation } from 'react-i18next'
+
 interface AffiliateDisclosureProps {
   variant?: 'light' | 'dark' | 'inline'
   className?: string
 }
 
-const TEXT =
-  'This page contains affiliate links. If you book through these links, LaplandVibes may receive a commission at no extra cost to you.'
-
 export default function AffiliateDisclosure({
   variant = 'light',
   className = '',
 }: AffiliateDisclosureProps) {
+  const { t } = useTranslation('common')
+  const text = t('affiliateDisclosure.page')
+
   if (variant === 'inline') {
     return (
       <p
@@ -24,7 +26,7 @@ export default function AffiliateDisclosure({
         role="note"
       >
         <span aria-hidden="true">ⓘ </span>
-        {TEXT}
+        {text}
       </p>
     )
   }
@@ -32,14 +34,14 @@ export default function AffiliateDisclosure({
     return (
       <p className={`text-[11px] text-snow/40 leading-relaxed ${className}`} role="note">
         <span aria-hidden="true">ⓘ </span>
-        {TEXT}
+        {text}
       </p>
     )
   }
   return (
     <p className={`text-[11px] leading-relaxed text-white/70 ${className}`} role="note">
       <span aria-hidden="true">ⓘ </span>
-      {TEXT}
+      {text}
     </p>
   )
 }

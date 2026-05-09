@@ -1,5 +1,8 @@
 {
   "site": { "name": "LaplandFood", "tagline": "Suomen Lapin ruokakulttuuri, raaka-aineet ja reseptit" },
   "lang": { "currentEN": "EN", "currentFI": "FI", "switchTo": "Vaihda kieli" },
-  "cta": { "readMore": "Lue lisää", "viewAll": "Näytä kaikki", "loading": "Ladataan…", "subscribe": "Tilaa", "close": "Sulje" }
+  "cta": { "readMore": "Lue lisää", "viewAll": "Näytä kaikki", "loading": "Ladataan…", "subscribe": "Tilaa", "close": "Sulje" },
+  "affiliateDisclosure": {
+    "page": "Tämä sivu sisältää kumppanuuslinkkejä. Jos varaat niiden kautta, LaplandVibes voi saada komission ilman lisäkustannuksia sinulle."
+  }
 }

@@ -1,5 +1,8 @@
 {
   "site": { "name": "LaplandFood", "tagline": "Finnish Lapland's food culture, ingredients, recipes" },
   "lang": { "currentEN": "EN", "currentFI": "FI", "switchTo": "Switch language" },
-  "cta": { "readMore": "Read more", "viewAll": "View all", "loading": "Loading…", "subscribe": "Subscribe", "close": "Close" }
+  "cta": { "readMore": "Read more", "viewAll": "View all", "loading": "Loading…", "subscribe": "Subscribe", "close": "Close" },
+  "affiliateDisclosure": {
+    "page": "This page contains affiliate links. If you book through these links, LaplandVibes may receive a commission at no extra cost to you."
+  }
 }
