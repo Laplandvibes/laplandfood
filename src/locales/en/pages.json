@@ -324,19 +324,296 @@
   },
   "foragingGuide": {
     "title": "Foraging in Finnish Lapland — Berries, Mushrooms, Herbs | LaplandFood",
-    "description": "Finland's everyman's right and what it means for foragers. When and where to find cloudberries, chanterelles, lingonberries, wild thyme, and birch sap in Lapland."
+    "description": "Finland's everyman's right and what it means for foragers. When and where to find cloudberries, chanterelles, lingonberries, wild thyme, and birch sap in Lapland.",
+    "hero": {
+      "eyebrow": "Pillar 04 · Foraging",
+      "title": "The wild",
+      "titleHighlight": "larder.",
+      "subtitle": "Finland's jokamiehenoikeus (everyman's right) lets anyone forage berries, mushrooms, and wild herbs across most of the country. Here are the five things to know first.",
+      "primaryCta": "Book a guided walk",
+      "secondaryCta": "How these end up on the plate"
+    },
+    "intro": {
+      "lead": "Foraging in Finland is not eccentric. It is a routine summer activity for around 40 % of the population.",
+      "p1": "That number, from the most recent Natural Resources Institute Finland (Luke) household surveys, is the structural fact you need before reading anything else on this page. Picking berries and mushrooms isn't a niche subculture — it is a mainstream Finnish activity that cuts across cities and countryside, age, and income. People talk about their best bog the way other countries talk about their best fishmonger. There is a national vocabulary for it.",
+      "p2": "The legal framework that makes this possible is <em>jokamiehenoikeus</em>, \"everyman's right\" — the centuries-old principle, codified in modern Finnish law, that anyone (citizen or visitor) may walk on, swim from, camp on, and forage from most land in Finland regardless of who owns it. This is not a tolerance or a custom. It is a legal right. The owner cannot legally tell you to leave a forest you are picking berries in, as long as you are not damaging anything and you are not within the immediate yard area of a house.",
+      "p3": "That changes how foraging works. You do not need permission. You do not need to know the landowner. You can step off a road into the forest and pick. The constraints are ethical (don't over-harvest, don't damage the plant) and practical (know what you're picking) — not legal.",
+      "p4": "This page covers the practical side. The five most-picked wild foods in Lapland with proper identification notes. The mushroom-safety section you must read before picking your first one. A season-by-season foraging calendar. The everyman's-right rules in detail. And the case for booking a guided walk for your first time even if you never plan to need a guide again."
+    },
+    "alert": {
+      "kicker": "Read this first",
+      "body": "Mushroom poisoning is real and irreversible. If you cannot identify a mushroom with 100 % certainty — using a guidebook or, better, an experienced local — leave it alone. For your first forage, book a guided walk; one afternoon with a guide is worth a season of guessing."
+    },
+    "labels": {
+      "where": "Where it grows",
+      "identify": "How to identify it",
+      "when": "When to pick",
+      "safety": "Safety",
+      "sustainability": "Sustainably"
+    },
+    "items": [
+      { "name": "Bilberry (Vaccinium myrtillus)", "season": "July – September", "difficulty": "Easy", "location": "Dry pine forests and heathlands", "identification": "Low shrub, oval leaves, dark blue-black berries. Stains fingers and tongue blue.", "tips": "Peak picking in mid-August. Only harvest fully ripe berries.", "safety": "Cannot be confused with poisonous look-alikes — safe to pick.", "sustainability": "Pick no more than half the berries on any one plant." },
+      { "name": "Lingonberry (Vaccinium vitis-idaea)", "season": "August – October", "difficulty": "Easy", "location": "Dry pine forests and heathlands", "identification": "Small evergreen shrub, shiny round leaves, bright red berries in clusters.", "tips": "Stores well after a frost. Wait until fully ripe before picking.", "safety": "Distinct from all poisonous berries — easy to identify.", "sustainability": "Leave young and small plants undisturbed." },
+      { "name": "Cloudberry (Rubus chamaemorus)", "season": "July – August", "difficulty": "Moderate", "location": "Bogs and marshland", "identification": "Low-growing plant, three-lobed leaves, single amber-orange berry per stem.", "tips": "Pick only fully ripe berries. Perishable — process quickly after picking.", "safety": "Found only in boggy terrain — watch your step.", "sustainability": "Arctic rarity. Take only what you need." },
+      { "name": "Wild Mushrooms — Porcini & Milkcaps", "season": "July – September", "difficulty": "Challenging", "location": "Old spruce forests and mixed woodland", "identification": "Porcini: brown cap, white stem, spongy underside. Milkcap: funnel shape, milky sap when cut.", "tips": "Dry immediately after picking. Learn identification with 100 % certainty first.", "safety": "CRITICAL: always confirm identification before eating any mushroom.", "sustainability": "Cut at the stem — do not damage the mycelium underneath." },
+      { "name": "Stinging Nettle (Urtica dioica)", "season": "May – August", "difficulty": "Easy", "location": "Nutrient-rich soil, near buildings and clearings", "identification": "Serrated leaves, stings bare skin on contact.", "tips": "Harvest young shoots. Stinging effect disappears completely after drying or cooking.", "safety": "Use gloves when picking.", "sustainability": "Pick only the top leaves — leave the roots intact." }
+    ],
+    "mushroomSafety": {
+      "kicker": "Mushroom safety",
+      "headline": "Read this before you pick a single mushroom.",
+      "p1": "The mushroom-safety conversation in Finland is calm, precise, and unforgiving. It is the most controlled risk in the foraging culture. Most years, the Finnish Poison Information Centre handles a few hundred mushroom-related calls; serious poisonings are rare; deaths in any given year are most often from a single species, the death cap (<em>Amanita phalloides</em>), and a near-identical cousin, the destroying angel (<em>Amanita virosa</em>).",
+      "p2": "<strong>The death cap and destroying angel are present in Finnish forests.</strong> Both are deadly even in tiny quantities — there is no antidote and the toxicity is delayed (you feel fine for 6–24 hours, then your liver starts to fail). The destroying angel is white, looks innocuous, and grows in spruce and birch forests across the country including Lapland. Several other common Finnish mushrooms are gastrically toxic, hallucinogenic, or simply unpleasant.",
+      "rulesIntro": "<strong>The five rules every Finnish picker follows:</strong>",
+      "rules": [
+        "If you are not 100 % certain of the species — not 90 %, not \"it looks like a porcini\" — don't pick it. There is no exception to this rule.",
+        "Cross-check with two independent sources: a guidebook, an app (Pikkupilkku and iNaturalist are both useful), and ideally an experienced human.",
+        "Pay attention to <em>everything</em>: cap shape, gills or pores, stem ring, base of the stem (always dig the whole thing up — many deadly species are identified by the cup at the base), spore print, smell, where it's growing, what it's growing on.",
+        "Never pick from a single perspective. Carry the whole mushroom home and check again in good light. If anything is ambiguous, throw it out.",
+        "Cook all wild mushrooms before eating, even the ones that are technically edible raw. This is a Finnish convention rather than a strict rule, but it is what every experienced picker does."
+      ],
+      "p4": "<strong>The four mushrooms a beginner can learn to identify safely</strong> in a single afternoon with a guidebook are: porcini / cep (<em>Boletus edulis</em>), false morel (<em>Gyromitra esculenta</em> — but <strong>only after parboiling twice and discarding the water</strong>; many Finns will tell you it is delicious, many others will tell you to avoid it entirely; both are right), saffron milk cap (<em>Lactarius deliciosus</em>), and chanterelle (<em>Cantharellus cibarius</em>). Of these, porcini and chanterelle have no dangerous look-alikes in Finland and are the recommended starting points.",
+      "p5": "If you are going to pick mushrooms in Lapland for the first time, do it with someone who already knows. The cost-to-confidence ratio of a 4-hour guided walk is unbeatable — and in Lapland the guides are typically Sami foragers who learned this from their grandparents, not commercial guides reading from a script."
+    },
+    "calendar": {
+      "kicker": "Seasonal calendar",
+      "headline": "Month by month, what is in the forest.",
+      "lead": "Lapland's foraging window is short and intense — roughly May through late September. Inside that window, every two weeks the dominant target shifts. This is the calendar a local picker plans the summer by.",
+      "items": [
+        { "month": "May", "body": "Snow recedes. First nettles, first young birch leaves, birch sap (drilled from the trunk and drunk fresh, used in syrup, or fermented). Cold, but the foraging year has started." },
+        { "month": "June", "body": "Wild herbs peak — meadowsweet, yarrow, angelica, sorrel. The first fresh greens after seven months. Some early herbs are dried for winter teas." },
+        { "month": "July (early)", "body": "The herb window closes; everything is leafing aggressively. The bog plants flower — cloudberry blooms have set. This is the calm before the picking storm." },
+        { "month": "July (late) – early August", "body": "Cloudberry season — typically a 3-week window depending on bog location. The most intensive picking activity of the year. Many Finnish offices effectively pause for it." },
+        { "month": "August", "body": "Bilberry peaks. First lingonberries (still tart). First mushrooms — chanterelle is usually first, porcini second. Long-light evenings make this the best month for foraging-and-cooking." },
+        { "month": "September", "body": "Lingonberry sweetens after first frost. Mushroom season at its peak — porcini, milkcaps, chanterelle, ceps. Days shortening fast; pickers are out from sunrise." },
+        { "month": "October", "body": "Last mushrooms. Last lingonberries (now best after night frosts). Final preserving work — drying, jamming, freezing. The calendar essentially closes after first heavy snow." },
+        { "month": "November – April", "body": "Forest dormancy. Foraging stops. Indoor work — preserving, smoking, drying, fermenting — picks up. Ice fishing replaces foraging for fresh protein." }
+      ]
+    },
+    "rights": {
+      "kicker": "Everyman's right · the rules",
+      "headline": "What you can and can't do.",
+      "canHeadline": "You can:",
+      "can": [
+        "Walk, ski, cycle, ride, and otherwise move through forests, meadows, and uncultivated land.",
+        "Pick wild berries, mushrooms, and unprotected wildflowers and herbs.",
+        "Fish with a single rod and lure (no permit needed for basic angling, the fisheries management fee covers most lakes).",
+        "Camp temporarily — typically one night — on most uncultivated land, away from houses.",
+        "Swim, wash, and use water from any water body, including private ones.",
+        "Cross frozen lakes and rivers, snowmobile or ski on most uncultivated terrain (with snowmobile-specific rules)."
+      ],
+      "cannotHeadline": "You cannot:",
+      "cannot": [
+        "Damage trees, dig up roots, take moss or lichen in commercial quantities.",
+        "Hunt or trap (separate licences required).",
+        "Drive a motor vehicle off-road outside marked tracks (snowmobiles have their own rules).",
+        "Light an open fire on someone's land without permission. Use marked fire pits, or get the landowner's OK.",
+        "Pick from a cultivated garden, orchard, or field — these are not \"uncultivated land\".",
+        "Disturb a private home's immediate yard area (within sight of the house).",
+        "Leave litter. Whatever you bring in, you take out."
+      ],
+      "closing": "The principle is access without harm. Foragers who respect the spirit of the law find Finnish landowners almost unfailingly relaxed about strangers picking on their land. The few problems happen when a foraging party damages trees, leaves rubbish, or gets too close to a private home. Treat the forest carefully and you will have access to one of Europe's last truly free wild larders."
+    },
+    "guideCta": {
+      "headline": "One afternoon with a guide saves a season of guessing.",
+      "lead": "Lapland's guided foraging walks are not the bus-tour version. They are typically led by Sami foragers, run as small groups of 6–15, and start with the mushroom-safety lecture you actually need. End with cooking what you picked over a campfire. Most cost less than a fine-dining starter.",
+      "cta": "Browse guided walks"
+    }
   },
   "foodTours": {
     "title": "Food Tours in Finnish Lapland | LaplandFood",
-    "description": "Guided food experiences in Lapland — reindeer farms, foraging walks, fish smoking, wilderness lunches, and chef's table evenings. How to book and what to expect."
+    "description": "Guided food experiences in Lapland — reindeer farms, foraging walks, fish smoking, wilderness lunches, and chef's table evenings. How to book and what to expect.",
+    "hero": {
+      "eyebrow": "Pillar 06 · Tours",
+      "title": "Eat your way",
+      "titleHighlight": "around Lapland.",
+      "subtitle": "Three bookable food experiences that go deeper than a tasting menu — Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner.",
+      "primaryCta": "Browse all on GetYourGuide"
+    },
+    "intro": {
+      "lead": "The food experiences in Lapland that are worth your money are the ones that put you in front of the people who actually do this for a living.",
+      "p1": "Skip the restaurant-tour-with-a-coach treatment. The trips below are small-group, often booked direct with the operator, and led by Sami foragers, fine-dining chefs, or working reindeer herders. You eat, but the bigger thing is access — to a herd, to a chef's kitchen, to a forager's favourite bog. Most cost less than a Helsinki tasting menu and last twice as long.",
+      "p2": "Three trips cover most of what visitors look for. The <strong>Sami Culture Food Journey</strong> goes deep on Sami foodways — bidos with a herder, traditional bread baking, a foraging session, the cultural context. The <strong>Arctic Fine-Dining Experience</strong> is a single intensive day that gets you a back-of-house kitchen tour, a cooking masterclass, and a multi-course dinner with wine pairing — the full Lapland equivalent of a Copenhagen culinary day. The <strong>Wild Foraging Expedition</strong> is the single best afternoon a beginner can spend with a Sami forager — learn safe identification, fill a basket, then cook what you picked over a campfire.",
+      "p3": "All three are bookable through GetYourGuide. We surface the search results for each so you see live availability and current prices — operators rotate, dates change, prices shift. The \"Check availability\" button on each card runs a live GYG search, not a fixed product page."
+    },
+    "listKicker": "Three trips worth taking",
+    "listHeadline": "Book one of these.",
+    "browseAllLabel": "See all on GetYourGuide",
+    "moreLabel": "more",
+    "checkAvailability": "Check availability",
+    "tours": [
+      {
+        "name": "Sami Culture Food Journey",
+        "duration": "6 hours",
+        "groupSize": "4–12 people",
+        "difficulty": "Easy",
+        "price": "from €185",
+        "description": "A deep dive into Sami food culture. Meet local producers, learn traditional techniques, and taste authentic flavours straight from the Arctic.",
+        "highlights": ["Visit a reindeer herder and taste bidos stew", "Traditional Sami bread baking", "Wild ingredient foraging with a guide", "Sami museum food culture workshop", "Visits to local Arctic producers"],
+        "location": "Inari – Utsjoki region",
+        "season": "June – September"
+      },
+      {
+        "name": "Arctic Fine-Dining Experience",
+        "duration": "8 hours",
+        "groupSize": "2–8 people",
+        "difficulty": "Moderate",
+        "price": "from €295",
+        "description": "An exclusive journey through Lapland's finest restaurants. Michelin-recommended venues and award-winning chefs cooking with the purest Arctic ingredients.",
+        "highlights": ["3-course lunch at a regional flagship restaurant", "Back-of-house kitchen tour with the head chef", "Arctic ingredients masterclass", "Fine-dining technique demonstration", "5-course gourmet dinner with wine pairing"],
+        "location": "Rovaniemi",
+        "season": "Year-round"
+      },
+      {
+        "name": "Wild Foraging Expedition",
+        "duration": "4 hours",
+        "groupSize": "6–15 people",
+        "difficulty": "Moderate",
+        "price": "from €95",
+        "description": "Hands-on guided foraging in old-growth forest and bog. Learn safe identification of berries, mushrooms, and wild herbs, then cook what you pick.",
+        "highlights": ["Mushroom safety masterclass", "Bilberry, lingonberry, and cloudberry picking (in season)", "Wild herb identification", "Forage-to-table cooking session over campfire", "Take-home Lapland foraging guidebook"],
+        "location": "Rovaniemi / Levi area",
+        "season": "July – September"
+      }
+    ]
   },
   "michelinDining": {
     "title": "Fine Dining & Michelin Restaurants in Lapland | LaplandFood",
-    "description": "Where the Michelin guide pays attention in Finnish Lapland — Restaurant Aanaar, Tundrea, Trattoria Levi, and the Lapland kitchens worth a long drive."
+    "description": "Where the Michelin guide pays attention in Finnish Lapland — Restaurant Aanaar, Tundrea, Trattoria Levi, and the Lapland kitchens worth a long drive.",
+    "hero": {
+      "eyebrow": "Pillar 05 · Michelin",
+      "title": "Michelin",
+      "titleHighlight": "& fine dining.",
+      "subtitle": "Finland's Michelin scene at a glance — what is starred, where, what is pushing fine dining inside the Arctic Circle, and how to actually book a table.",
+      "primaryCta": "Where to book in Lapland",
+      "secondaryCta": "Helsinki rooms"
+    },
+    "factsKicker": "The state of fine dining in Finland",
+    "factsHeadline": "Three things to know first.",
+    "factsLeadPrefix": "The Michelin Guide for Nordic countries updates each year — for the current star list always check",
+    "factsLeadSuffix": ". The structural picture below is stable and is the right starting point if you're planning a fine-dining trip to Finland.",
+    "facts": [
+      { "title": "Helsinki carries the stars", "body": "Finland's Michelin-listed restaurants are concentrated in Helsinki — every starred Finnish restaurant in recent editions of the Nordic Guide has been in the capital. Turku and Tampere have been on inspectors' radar but stars come and go." },
+      { "title": "Lapland is fine-dining ambitious", "body": "Lapland itself does not currently hold a Michelin star, but its premium restaurants — Nili, Aanaar, Rakas — are pushing what a tasting-menu evening looks like inside the Arctic Circle, with foraged ingredients no Helsinki kitchen can match for freshness." },
+      { "title": "Reservations matter", "body": "Lapland flagships are small (often 30–60 covers) and the chef-table seats fill fastest. Book peak winter (mid-Dec → Feb) and the midnight-sun window (Jun 6 → Jul 7) at least 6–8 weeks ahead. Helsinki Michelin rooms regularly have 4–6 week waits." }
+    ],
+    "helsinki": {
+      "kicker": "Helsinki Michelin",
+      "headline": "Eight rooms worth booking in Helsinki.",
+      "lead": "Star designations change year to year — verify the current list on the Guide before booking. The eight below are the rooms that have been in or close to the Guide consistently and that travellers come back to talk about. Price band uses the Michelin Guide convention: € (under €40 pp), €€ (€40–€80), €€€ (€80–€140), €€€€ (€140+).",
+      "ctaHotels": "Hotels in Helsinki",
+      "footnote": "Independent editorial. Not affiliated with the Michelin Guide. Star designations and Bib Gourmand listings are valid only as of the current Nordic Guide edition — check guide.michelin.com before you book.",
+      "rooms": [
+        { "name": "Olo", "where": "Pohjoisesplanadi, Helsinki", "angle": "Long-standing fine-dining institution. Tasting menus rooted in Finnish ingredients with classical Nordic technique.", "band": "€€€€" },
+        { "name": "Palace", "where": "10th floor, Eteläranta — harbour view", "angle": "Old-school Helsinki harbour view, modern execution. Classic Finnish fish course (kuha pike-perch) is the signature.", "band": "€€€€" },
+        { "name": "Demo", "where": "Uudenmaankatu, Helsinki", "angle": "Compact tasting-menu room, ingredient-led, often cited in the Guide for value-versus-skill ratio.", "band": "€€€" },
+        { "name": "Grön", "where": "Albertinkatu, Helsinki", "angle": "Plant-led tasting menu (vegetables, fish, foraged) with a tight wine pairing. Books out fastest in the city.", "band": "€€€€" },
+        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Sami-influenced fine dining — same chef pedigree as Olo, smaller room, more focused.", "band": "€€€€" },
+        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Modern Nordic in a residential room. Often praised for chef Sasu Laukkonen's ingredient-driven menu.", "band": "€€€€" },
+        { "name": "Finnjävel", "where": "Helsinki", "angle": "Modern Finnish — re-imagined classics. Less hushed than the others; more theatrical service.", "band": "€€€" },
+        { "name": "Ultima", "where": "Helsinki", "angle": "Tasting menu sourced from a vertical farm in the basement. The most genuinely \"Helsinki 2026\" room on this list.", "band": "€€€€" }
+      ]
+    },
+    "lapland": {
+      "kicker": "Lapland fine dining",
+      "headline": "Three rooms to book.",
+      "lead": "These are the kitchens that take the cooking seriously enough to compete with Helsinki on plate-craft, while sourcing entirely from Lapland. None hold a Michelin star at the time of writing — but in a five-year horizon any of them could.",
+      "labels": { "signature": "Signature plates", "band": "Price band", "booking": "Booking", "hotelsNearPrefix": "Hotels near" },
+      "rooms": [
+        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, central Rovaniemi · 5-minute walk from the train station", "angle": "The most-cited fine-dining room in Lapland. Sami-rooted plates — sous-vide reindeer fillet with bilberry reduction is the signature — alongside a wild-berry programme that leans on what Inari foragers brought in that morning. Open kitchen, warm wood interior, 60 covers.", "signature": "Sous-vide reindeer fillet · pine-cured Arctic char · cloudberry parfait", "band": "€€€ — tasting menu €68 · à la carte mains €28–€42", "booking": "Book 3–4 weeks ahead in summer / December. Walk-ins possible Tue–Wed." },
+        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · on the Juutuanjoki river", "angle": "The closest thing to a destination dining experience deep in Sami country. Chef builds menus around Inari's eight Sami seasons — lacto-fermented bilberries, smoked reindeer heart, cold-cured Arctic char — and the wine list is unusually deep for a town of 7,000.", "signature": "7-course wild-berry tasting · smoked reindeer heart · birch-syrup parfait", "band": "€€€€ — tasting menu €85, with paired wines €145", "booking": "Two seatings per night, 32 covers total. Book 6–8 weeks ahead in winter and midnight-sun window." },
+        { "name": "Rakas at Arctic TreeHouse Hotel", "city": "Rovaniemi · Santa Park area", "address": "Tarvantie 3, 7 km from central Rovaniemi · taxi or hotel shuttle", "angle": "Glass-roofed dining room facing north — fully panoramic over the spruce forest, designed so you can watch the aurora during the tasting menu in winter. Confit Arctic whitefish under wild-herb oil is the room's signature, plated with foraged microgreens and edible flowers.", "signature": "Confit Arctic whitefish · pine-cured trout · chocolate–lingonberry dome", "band": "€€€€ — 4-course menu €78 · 7-course menu €115", "booking": "Hotel guests get priority. Non-guests book 4 weeks ahead in winter." }
+      ]
+    },
+    "courseFlow": {
+      "kicker": "What you're actually paying for",
+      "headline": "A Finnish tasting menu, course by course.",
+      "lead": "The structure is consistent across both Helsinki Michelin rooms and Lapland's flagship kitchens. Knowing the rough flow helps you pace the wine, leave room for dessert, and not panic when the bill arrives.",
+      "items": [
+        { "n": "01", "label": "Welcome bites", "body": "Two or three small bites at the table — pickled vegetables, smoked fish on rye, a foraged-herb broth shot. Sets the seasonal tone." },
+        { "n": "02", "label": "Cold opener", "body": "Arctic char or whitefish in some form — cured, smoked, or as tartare. Almost always with a foraged-herb element." },
+        { "n": "03", "label": "Hot starter", "body": "Mushroom or root vegetable dish in autumn; berry or herb-led plate in summer. Where chefs show off their fermentation work." },
+        { "n": "04", "label": "Fish course", "body": "Pike-perch, trout, or pike, depending on what the local fishermen brought in. Cooked to centre-pink, with a butter-or-cream sauce." },
+        { "n": "05", "label": "Reindeer or game", "body": "The main protein. Fillet sous-vide, slow-braised shoulder, or smoked saddle. Bilberry, lingonberry, or juniper anchor the plate." },
+        { "n": "06", "label": "Cheese (optional)", "body": "Aged Finnish cheese — Lappi or Tervaleipäjuusto-style — with a tar-honey or cloudberry preserve." },
+        { "n": "07", "label": "Pre-dessert", "body": "A small palate cleanser — birch-sap sorbet, cloudberry consommé, lingonberry granita." },
+        { "n": "08", "label": "Dessert", "body": "Cloudberry parfait or chocolate–lingonberry dome are the two most common. Coffee comes in a copper kettle." }
+      ]
+    },
+    "bookingNotes": {
+      "headline": "Four things first-timers get wrong.",
+      "lead": "Lapland kitchens are forgiving. They are still small rooms with chef-led service. These are the four corrections we hand to a friend before their first booking.",
+      "items": [
+        { "label": "Plan 3 hours minimum", "body": "A full Lapland tasting menu runs 2.5–3.5 hours. Don't book a 9 PM show afterwards." },
+        { "label": "Wine pairing pays off", "body": "Most Lapland flagships have a sommelier picking small-producer European wines. Pairings run €45–€95 on top of the menu." },
+        { "label": "Tell them about allergies early", "body": "Tasting menus are pre-built and bring complex foraged ingredients. Allergies / vegetarian / vegan: flag at booking, not on the night." },
+        { "label": "Smart casual", "body": "No restaurant in Finland will turn you away in jeans, but the rooms expect an effort. Trainers and hoodies feel out of place." }
+      ]
+    },
+    "stayNear": {
+      "headline": "Stay near the kitchens.",
+      "lead": "For a fine-dining trip the cleanest plan is a hotel within a 10-minute walk (or short taxi) of where you're eating. Rovaniemi for Nili / Rakas, Inari for Aanaar.",
+      "ctaRovaniemi": "Hotels near Rovaniemi",
+      "ctaInari": "Hotels near Inari",
+      "tourPrefix": "Want a guide who handles the transport, the reservations, and chef introductions for you?",
+      "tourLabel": "Book an Arctic fine-dining tour"
+    }
   },
   "about": {
     "title": "About LaplandFood",
-    "description": "About LaplandFood — written by people who actually eat in Finnish Lapland. Editorial standards, sourcing, affiliate disclosure."
+    "description": "About LaplandFood — written by people who actually eat in Finnish Lapland. Editorial standards, sourcing, affiliate disclosure.",
+    "hero": {
+      "kicker": "About LaplandFood",
+      "headline": "Finnish food, written from the inside.",
+      "lead": "LaplandFood is the cultural-map sister site in the LaplandVibes network — independent editorial about Finnish food culture, sourcing, traditional Sami recipes, modern Arctic kitchens, and where to actually eat in Lapland."
+    },
+    "why": {
+      "headline": "Why this site exists.",
+      "p1": "Most of what is written about Lapland food in English exists in two registers. There is the brochure register — \"magical Sami flavours under the midnight sun,\" vague, breathless, ingredient-shy. And there is the academic register — careful, fully-referenced ethnography that nobody reads on a phone before booking dinner.",
+      "p2": "We try to occupy the gap. Plain editorial sentences. Specific ingredients and specific restaurants. Numbers where numbers help — how many reindeer cooperatives, what a tasting menu actually costs, when the cloudberry window closes — and no numbers at all when they would just be filler. Written from inside the Arctic Circle, not from a desk in London or Helsinki.",
+      "p3": "The bar we hold ourselves to: <strong>a friend visiting Lapland for the first time should be able to read three pages here and leave with enough context to plan a real food trip.</strong> If a section doesn't pass that test we rewrite it."
+    },
+    "cover": {
+      "headline": "What we cover.",
+      "lead": "Six pillars. Each is a deep page that could stand alone. Together they form the field guide we wish had existed when we started writing about this region.",
+      "items": [
+        { "t": "Local Ingredients", "body": "What grows, swims, and grazes here. Reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Where they come from, when they peak.", "href": "/local-ingredients" },
+        { "t": "Traditional Recipes", "body": "Bidos, Gahkku, Sápmi fish soup, wild-berry kissel — plus the cultural context that explains why they look the way they do.", "href": "/traditional-recipes" },
+        { "t": "Modern Lapland", "body": "New Nordic technique applied to Lapland ingredients. Sous-vide, fermentation, cold curing, foraged garnish. Where to taste it.", "href": "/modern-lapland" },
+        { "t": "Foraging Guide", "body": "Five core wild foods, mushroom safety in detail, an 8-month seasonal calendar, and the everyman's right that makes it all legal.", "href": "/foraging-guide" },
+        { "t": "Michelin & Fine Dining", "body": "Helsinki's Michelin scene, Lapland's three flagship rooms, what a tasting menu actually looks like, how booking works.", "href": "/michelin-dining" },
+        { "t": "Food Tours & Cooking Classes", "body": "The food experiences worth booking — Sami food journeys, fine-dining tours, foraging walks. Curated, not exhaustive.", "href": "/food-tours" }
+      ]
+    },
+    "principles": {
+      "headline": "How we choose what to recommend.",
+      "lead": "We are an independent publisher. The principles below are how we keep it honest.",
+      "items": [
+        { "t": "Recommend like you would to a friend", "body": "The simplest filter. Every restaurant, tour, ingredient supplier, and producer on this site is one we would send a friend to. If we wouldn't, it doesn't go on the page." },
+        { "t": "Specifics over vibes", "body": "A claim like \"the best fine dining in Lapland\" is meaningless without specifics. We tell you what to order, what it costs, when to book, where to walk in from. Anything we can't pin down to a specific, we leave out." },
+        { "t": "Affiliate doesn't change the editorial", "body": "Some booking links pay us a commission if you book through them. None of those links unlock content, change the order of recommendations, or buy a place on the page. The same restaurants would be on the page if no affiliate programme existed." },
+        { "t": "No fake stats, no fake quotes", "body": "If we cite a number, it has a source we could point to. If we quote a chef, we spoke to them. If we are uncertain about something — current Michelin star count, the exact year a tradition started — we say so and link out to the authoritative source." },
+        { "t": "Update over delete", "body": "Restaurants close, chefs move, prices shift. When we discover a page is wrong we update it with a date stamp. We don't pretend the wrong version never existed." }
+      ]
+    },
+    "network": {
+      "kicker": "The network",
+      "headline": "Where to go for the things this site doesn't cover.",
+      "lead": "LaplandFood is the cultural-map site. It is deliberately not a restaurant directory or a booking engine. The sister sites below take over where this one stops:",
+      "diningBody": "Where to <em>actually book a table</em>. Restaurant-by-restaurant directory with menus, hours, and direct booking links. If a place is on a list here, it's on a page there.",
+      "barsBody": "Bars, breweries, ice bars, hotel bars, the local pubs where Finns actually drink. Drink culture, opening hours, what they pour.",
+      "nightlifeBody": "After-dinner Lapland: DJs, late kitchens, live-music venues, polar-night party calendar. Where the night goes.",
+      "footnote": "The full network footer at the bottom of every page lists all the LaplandVibes spokes (where to stay, things to do, transport, ski resorts, husky safaris, nature, work in Lapland, …)."
+    },
+    "contact": {
+      "headline": "Get in touch.",
+      "p1Prefix": "For all enquiries — editorial, partnerships, press, corrections, factual disputes — write to",
+      "p1Suffix": ". We answer in Finnish or English, usually within two working days.",
+      "p2": "<strong>If you spot something wrong</strong> — a closed restaurant, a wrong opening time, a price that doesn't match reality, a fact we got wrong — please tell us. We update faster than we publish.",
+      "p3Prefix": "For privacy, terms, and cookie policy, see",
+      "privacyLabel": "Privacy",
+      "termsLabel": "Terms",
+      "cookieLabel": "Cookie Policy"
+    }
   },
   "privacy": { "title": "Privacy Policy | LaplandFood", "description": "How LaplandFood handles your data." },
   "terms": { "title": "Terms of Use | LaplandFood", "description": "Terms of use for LaplandFood." },

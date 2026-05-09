@@ -325,19 +325,296 @@
   },
   "foragingGuide": {
     "title": "Keräily Suomen Lapissa — marjat, sienet, yrtit | LaplandFood",
-    "description": "Jokamiehenoikeus ja mitä se tarkoittaa keräilijälle. Milloin ja mistä löydät hillan, kantarellin, puolukan, ajuruohon ja koivunmahlan Lapista."
+    "description": "Jokamiehenoikeus ja mitä se tarkoittaa keräilijälle. Milloin ja mistä löydät hillan, kantarellin, puolukan, ajuruohon ja koivunmahlan Lapista.",
+    "hero": {
+      "eyebrow": "Pilari 04 · Keräily",
+      "title": "Villi",
+      "titleHighlight": "ruokavarasto.",
+      "subtitle": "Suomen jokamiehenoikeus sallii kenenkä tahansa kerätä marjoja, sieniä ja villiyrttejä lähes koko maassa. Tässä viisi asiaa, jotka kannattaa tietää ensin.",
+      "primaryCta": "Varaa opastettu retki",
+      "secondaryCta": "Miten nämä päätyvät lautaselle"
+    },
+    "intro": {
+      "lead": "Keräily Suomessa ei ole erikoista. Se on rutiininomainen kesäharrastus noin 40 %:lle väestöstä.",
+      "p1": "Tämä luku, viimeisimmistä Luonnonvarakeskuksen (Luke) kotitalouskyselyistä, on rakenteellinen tosiasia, joka kannattaa tietää ennen muiden tämän sivun lukemista. Marjojen ja sienien poiminta ei ole pieni alakulttuuri — se on valtavirran suomalainen toiminta, joka leikkaa kaupungin ja maaseudun, iän ja tulot. Ihmiset puhuvat parhaasta suostaan kuten muut maat puhuvat parhaasta kalakauppiaastaan. Sille on kansallinen sanasto.",
+      "p2": "Lakikehys, joka tämän mahdollistaa, on <em>jokamiehenoikeus</em> — vuosi­satoja vanha, modernissa Suomen laissa kodifioitu periaate, jonka mukaan kuka tahansa (kansalainen tai vierailija) saa kävellä, uida, leiriytyä ja kerätä useimmilta Suomen mailta omistajasta riippumatta. Se ei ole suvaitsevaisuus tai tapa. Se on lakimääräinen oikeus. Omistaja ei voi laillisesti käskeä sinua poistumaan metsästä, jossa poimit marjoja, kunhan et vahingoita mitään etkä ole talon välittömällä piha-alueella.",
+      "p3": "Se muuttaa tapaa, jolla keräily toimii. Et tarvitse lupaa. Et tarvitse maanomistajaa. Voit astua tieltä metsään ja poimia. Rajoitukset ovat eettisiä (älä ylikerää, älä vahingoita kasvia) ja käytännöllisiä (tunne mitä poimit) — eivät lakimääräisiä.",
+      "p4": "Tämä sivu kattaa käytännön. Lapin viisi eniten poimittua villiruokaa kunnollisilla tunnistus­merkinnöillä. Sienien turvallisuus­osio, joka pitää lukea ennen ensimmäistä poimintaa. Vuoden­aikakohtainen keräily­kalenteri. Jokamiehen­oikeuden säännöt yksityiskohtaisesti. Ja perustelut sille, miksi varaisit opastetun retken ensimmäiselle keräily­kerralle, vaikka et koskaan suunnittelisi tarvitsevasi opasta uudelleen."
+    },
+    "alert": {
+      "kicker": "Lue tämä ensin",
+      "body": "Sienimyrkytys on totta ja peruuttamatonta. Jos et pysty tunnistamaan sientä 100 %:n varmuudella — opaskirjan tai mieluiten kokenei­den paikallisten avulla — anna sen olla. Ensimmäiselle keräily­retkelle varaa opastettu kierros; yksi iltapäivä oppaan kanssa on kausi­kaupallisten arvauksen veroinen."
+    },
+    "labels": {
+      "where": "Missä kasvaa",
+      "identify": "Miten tunnistat",
+      "when": "Milloin poimit",
+      "safety": "Turvallisuus",
+      "sustainability": "Kestävästi"
+    },
+    "items": [
+      { "name": "Mustikka (Vaccinium myrtillus)", "season": "heinä – syyskuu", "difficulty": "Helppo", "location": "Kuivat mäntymetsät ja kanervikot", "identification": "Matala pensas, soikeat lehdet, tumman sinimustat marjat. Värjää sormet ja kielen siniseksi.", "tips": "Huippuaika elokuun puolivälissä. Poimi vain täysin kypsiä marjoja.", "safety": "Ei sekoitettavissa myrkyllisiin lähilajeihin — turvallinen poimittavaksi.", "sustainability": "Älä poimi enempää kuin puolet yhden kasvin marjoista." },
+      { "name": "Puolukka (Vaccinium vitis-idaea)", "season": "elo – lokakuu", "difficulty": "Helppo", "location": "Kuivat mäntymetsät ja kanervikot", "identification": "Pieni ikivihreä pensas, kiiltävät pyöreät lehdet, kirkkaan punaiset marjat ryppäissä.", "tips": "Säilyy hyvin pakkasen jälkeen. Odota täydellistä kypsyyttä.", "safety": "Erottuu kaikista myrkyllisistä marjoista — helppo tunnistaa.", "sustainability": "Jätä nuoret ja pienet kasvit rauhaan." },
+      { "name": "Hilla (Rubus chamaemorus)", "season": "heinä – elokuu", "difficulty": "Keskitaso", "location": "Suot ja rämeet", "identification": "Matala kasvi, kolmiliuskaiset lehdet, yksi meripihkan­oranssi marja varta kohti.", "tips": "Poimi vain täysin kypsiä marjoja. Pilaantuva — käsittele nopeasti poiminnan jälkeen.", "safety": "Esiintyy vain suoperäisellä maastolla — varo askeleitasi.", "sustainability": "Arktinen harvinaisuus. Ota vain mitä tarvitset." },
+      { "name": "Villisienet — herkkutatti ja rouskut", "season": "heinä – syyskuu", "difficulty": "Vaativa", "location": "Vanhat kuusimetsät ja sekapuumetsät", "identification": "Herkkutatti: ruskea lakki, valkoinen jalka, sienimäinen alapuoli. Rousku: suppilon­muotoinen, maitomainen mehu kun leikataan.", "tips": "Kuivaa heti poiminnan jälkeen. Opettele tunnistus 100 %:n varmuudella ensin.", "safety": "KRITIITTINEN: vahvista aina tunnistus ennen sienen syömistä.", "sustainability": "Leikkaa varresta — älä vaurioita allaolevaa juurakkoa." },
+      { "name": "Nokkonen (Urtica dioica)", "season": "touko – elokuu", "difficulty": "Helppo", "location": "Ravinteikas maaperä, lähellä rakennuksia ja aukioita", "identification": "Sahalaitaiset lehdet, polttaa paljasta ihoa kosketuksesta.", "tips": "Poimi nuoret versot. Polttava vaikutus häviää kokonaan kuivatuksessa tai keittämisessä.", "safety": "Käytä hanskoja poimiessasi.", "sustainability": "Poimi vain ylimmät lehdet — jätä juuret koskemattomiksi." }
+    ],
+    "mushroomSafety": {
+      "kicker": "Sienien turvallisuus",
+      "headline": "Lue tämä ennen kuin poimit yhdenkään sienen.",
+      "p1": "Sienien turvallisuus­keskustelu Suomessa on rauhallinen, tarkka ja anteeksiantamaton. Se on keräily­kulttuurin tarkimmin hallittu riski. Useimpina vuosina Myrkytyskeskus käsittelee muutaman sadan sieniin liittyvää puhelua; vakavat myrkytykset ovat harvinaisia; kuolemia minkä tahansa vuoden aikana on useimmiten yhdestä lajista — kavalakärpässienestä (<em>Amanita phalloides</em>) ja sen lähes identtisestä lähisukulaisesta valkokärpässienestä (<em>Amanita virosa</em>).",
+      "p2": "<strong>Kavalakärpässieni ja valkokärpässieni esiintyvät Suomen metsissä.</strong> Molemmat ovat tappavia jo pieninä määrinä — vastalääkettä ei ole, ja myrkyllisyys on viiveellä alkavaa (olosi on hyvä 6–24 tuntia, sitten maksasi alkaa pettää). Valkokärpässieni on valkoinen, näyttää viattomalta ja kasvaa kuusi- ja koivumetsissä koko maassa, Lappi mukaan lukien. Useat muut Suomen yleiset sienet ovat vatsa­myrkyllisiä, hallusinogeenisia tai yksinkertaisesti epämiellyttäviä.",
+      "rulesIntro": "<strong>Viisi sääntöä, joita jokainen suomalainen sienestäjä noudattaa:</strong>",
+      "rules": [
+        "Jos et ole 100 %:n varma lajista — et 90 %, et \"näyttää herkkutatilta\" — älä poimi sitä. Tähän sääntöön ei ole poikkeusta.",
+        "Tarkista kahdesta riippumattomasta lähteestä: opaskirja, sovellus (Pikkupilkku ja iNaturalist molemmat hyödyllisiä) ja mieluiten kokenut ihminen.",
+        "Kiinnitä huomiota <em>kaikkeen</em>: lakin muoto, heltat tai pillit, jalan rengas, jalan tyvi (kaiva aina koko sieni ylös — monet tappavat lajit tunnistetaan tyven kupasta), itiöjälki, haju, missä se kasvaa, mitä päällä se kasvaa.",
+        "Älä koskaan poimi yhdestä näkökulmasta. Vie koko sieni kotiin ja tarkista uudelleen hyvässä valossa. Jos jokin on epäselvää, heitä pois.",
+        "Kypsennä kaikki villisienet ennen syömistä, jopa ne jotka ovat teknisesti syötäviä raakana. Tämä on suomalainen tapa, ei tiukka sääntö, mutta sitä tekevät kaikki kokeneet poimijat."
+      ],
+      "p4": "<strong>Neljä sientä, jotka aloittelija voi oppia tunnistamaan turvallisesti</strong> yhden iltapäivän aikana opaskirjalla, ovat: herkkutatti (<em>Boletus edulis</em>), korvasieni (<em>Gyromitra esculenta</em> — mutta <strong>vain kahdesti esikeitettynä ja vesi heitettynä pois</strong>; monet suomalaiset sanovat sen olevan herkullinen, monet toiset välttävät sitä kokonaan; molemmat ovat oikeassa), kuusen­lakkirousku (<em>Lactarius deliciosus</em>) ja kantarelli (<em>Cantharellus cibarius</em>). Näistä herkkutatilla ja kantarellilla ei ole vaarallisia lähilajeja Suomessa, ja ne ovat suositeltuja aloitus­kohteita.",
+      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken kustannus–luotto-suhde on lyömätön — ja Lapissa oppaat ovat tyypillisesti saamelais­keräilijöitä, jotka oppivat tämän iso­vanhemmiltaan, eivät kaupallisia oppaita käsikirjasta lukevia."
+    },
+    "calendar": {
+      "kicker": "Vuoden­aikakalenteri",
+      "headline": "Kuukausi kuukaudelta, mitä metsässä on.",
+      "lead": "Lapin keräily­ikkuna on lyhyt ja intensiivinen — suunnilleen toukokuusta syyskuun loppuun. Sen sisällä joka toinen viikko hallitseva kohde vaihtuu. Tämä on kalenteri, jonka mukaan paikallinen poimija suunnittelee kesänsä.",
+      "items": [
+        { "month": "Toukokuu", "body": "Lumi vetäytyy. Ensimmäiset nokkoset, ensimmäiset koivun lehdet, koivunmahla (porataan rungosta ja juodaan tuoreena, käytetään siirappiin tai fermentoidaan). Kylmä, mutta keräily­vuosi on alkanut." },
+        { "month": "Kesäkuu", "body": "Villiyrtit huipussaan — mesiangervo, siankärsämö, väinönputki, suolaheinä. Ensimmäiset tuoreet vihreät seitsemän kuukauden jälkeen. Osa varhaisista yrteistä kuivataan talven teehen." },
+        { "month": "Heinäkuu (alku)", "body": "Yrttiaika sulkeutuu; kaikki lehtii voimakkaasti. Suokasvit kukkivat — hillan kukat ovat asettuneet. Tämä on rauhallinen vaihe ennen poimintamyrskyä." },
+        { "month": "Heinäkuun loppu – elokuun alku", "body": "Hillan sesonki — tyypillisesti 3 viikon ikkuna suon sijainnista riippuen. Vuoden intensiivisin poiminta-aika. Monet suomalaiset toimistot käytännössä pysähtyvät." },
+        { "month": "Elokuu", "body": "Mustikka huipussaan. Ensimmäiset puolukat (vielä happamia). Ensimmäiset sienet — kantarelli yleensä ensin, herkkutatti toisena. Pitkät valoisat illat tekevät tästä parhaan kuukauden keräily-ja-kokkaus -toimintaan." },
+        { "month": "Syyskuu", "body": "Puolukka makeutuu ensimmäisen pakkasen jälkeen. Sienikausi huipussaan — herkkutatti, rouskut, kantarelli, tatit. Päivät lyhenevät nopeasti; poimijat liikkeellä auringon­noususta." },
+        { "month": "Lokakuu", "body": "Viimeiset sienet. Viimeiset puolukat (parhaita yöpakkasten jälkeen). Loppu­säilöntätyö — kuivaus, hilloittelu, jäädytys. Kalenteri sulkeutuu käytännössä ensimmäisen kovan lumi­sateen jälkeen." },
+        { "month": "Marras – huhtikuu", "body": "Metsän lepokausi. Keräily lakkaa. Sisätyö — säilöntä, savustus, kuivaus, fermentointi — alkaa. Pilkkiminen korvaa keräilyn tuoreen proteiinin lähteenä." }
+      ]
+    },
+    "rights": {
+      "kicker": "Jokamiehen­oikeus · säännöt",
+      "headline": "Mitä saat ja mitä et saa tehdä.",
+      "canHeadline": "Saat:",
+      "can": [
+        "Kävellä, hiihtää, pyöräillä, ratsastaa ja muuten liikkua metsissä, niityillä ja viljelemättömillä mailla.",
+        "Poimia villi­marjoja, sieniä ja rauhoittamattomia luonnon­kukkia ja yrttejä.",
+        "Kalastaa yhdellä vavalla ja vieheellä (perus­onkimiseen ei tarvita lupaa, kalastonhoito­maksu kattaa useimmat järvet).",
+        "Leiriytyä tilapäisesti — tyypillisesti yhden yön — useimmilla viljelemättömillä mailla, etäällä asutuksesta.",
+        "Uida, peseytyä ja käyttää vettä mistä tahansa vesistöstä, myös yksityisestä.",
+        "Ylittää jäätyneitä järviä ja jokia, ajaa moottorikelkkaa tai hiihtää useimmilla viljelemättömillä mailla (moottorikelkalle omat sääntönsä)."
+      ],
+      "cannotHeadline": "Et saa:",
+      "cannot": [
+        "Vahingoittaa puita, kaivaa juuria, ottaa sammalta tai jäkälää kaupallisia määriä.",
+        "Metsästää tai pyydystää (vaaditaan erillinen lupa).",
+        "Ajaa moottoriajoneuvoa maastossa merkittyjen reittien ulkopuolella (moottorikelkalle omat sääntönsä).",
+        "Sytyttää avotulta toisen maalle ilman lupaa. Käytä merkittyjä tulipaikkoja tai pyydä maanomistajalta.",
+        "Poimia viljellystä puutarhasta, hedelmätarhasta tai pellolta — nämä eivät ole \"viljelemätöntä maata\".",
+        "Häiritä yksityisen kodin välitöntä piha-aluetta (talon näkyvyys­etäisyydellä).",
+        "Jättää roskia. Mitä tuot mukana, sen viet pois."
+      ],
+      "closing": "Periaate on käyttö ilman vahinkoa. Lain hengessä toimivat keräilijät huomaavat suomalaiset maanomistajat lähes poikkeuksetta rentona vieraista, jotka poimivat heidän maillaan. Harvat ongelmat syntyvät kun keräily­seurue vaurioittaa puita, jättää roskaa tai pääsee liian lähelle yksityistä asuntoa. Käsittele metsää huolellisesti ja saat käyttöösi yhden Euroopan viimeisistä todella vapaista villi­ruoka­varastoista."
+    },
+    "guideCta": {
+      "headline": "Yksi iltapäivä oppaan kanssa säästää kauden arvauksilta.",
+      "lead": "Lapin opastetut keräily­retket eivät ole bussi­matkailua. Ne ovat tyypillisesti saamelais­keräilijöiden vetämiä, pieninä 6–15 hengen ryhminä, ja alkavat sienien turvallisuus­luennolla, jonka oikeasti tarvitset. Päättyvät poimitun ruoan kokkaamiseen nuotiolla. Useimmat maksavat vähemmän kuin fine dining -alkupala.",
+      "cta": "Selaa opastetut retket"
+    }
   },
   "foodTours": {
     "title": "Ruokaretket Suomen Lapissa | LaplandFood",
-    "description": "Opastettuja ruokakokemuksia Lapissa — porotilat, keräilyretket, kalansavustus, erälounaat ja kokin pöydän illat. Miten varaat ja mitä odottaa."
+    "description": "Opastettuja ruokakokemuksia Lapissa — porotilat, keräilyretket, kalansavustus, erälounaat ja kokin pöydän illat. Miten varaat ja mitä odottaa.",
+    "hero": {
+      "eyebrow": "Pilari 06 · Retket",
+      "title": "Syö tieni",
+      "titleHighlight": "Lappiin.",
+      "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät syvemmälle kuin tasting menu — saamelaiskulttuuri, arktinen fine dining ja opastettu keräily, joka päättyy päivälliseen.",
+      "primaryCta": "Selaa kaikki GetYourGuiden kautta"
+    },
+    "intro": {
+      "lead": "Lapin ruokaelämykset, jotka ovat rahojesi arvoisia, ovat niitä, jotka panevat sinut ihmisten eteen, jotka tekevät tätä elinkeinokseen.",
+      "p1": "Unohda turistibussin ravintola­kierros. Alla olevat retket ovat pien­ryhmiä, usein varattu suoraan yrittäjältä, ja vetäjinä saamelais­keräilijöitä, fine dining -kokkeja tai työssä olevia poro­paimentajia. Syöt, mutta isompi asia on pääsy — porolaumaan, kokin keittiöön, keräilijän mieleen tärkeimmälle suolle. Useimmat maksavat vähemmän kuin Helsingin tasting menu ja kestävät kaksi kertaa kauemmin.",
+      "p2": "Kolme retkeä kattaa suurimman osan siitä mitä matkailijat etsivät. <strong>Saamelaiskulttuurin ruokamatka</strong> menee syvälle saamelais­ruokakulttuuriin — bidos paimentajan kanssa, perinteinen leivän­leipominen, keräily­hetki, kulttuuri­konteksti. <strong>Arktinen fine dining -elämys</strong> on yksi intensiivinen päivä, johon kuuluu kokki­keittiön kierros, kokkaus­masterclass ja monen ruokalajin illallinen viinipariltaan — Kööpenhaminan kulinaarisen päivän Lappi-vastine. <strong>Villi­keräily­retki</strong> on aloittelijalle paras iltapäivä saamelais­keräilijän kanssa — opettele turvallinen tunnistaminen, täytä kori, kokkaa sitten poimittu ruoka nuotiolla.",
+      "p3": "Kaikki kolme on varattavissa GetYourGuiden kautta. Tuomme esiin haku­tulokset jokaiselle, jotta näet livenä saatavuuden ja ajankohtaiset hinnat — yrittäjät vaihtuvat, päivämäärät muuttuvat, hinnat liikkuvat. Jokaisen kortin \"Tarkista saatavuus\" -painike ajaa elävän GYG-haun, ei kiinteää tuote­sivua."
+    },
+    "listKicker": "Kolme retkeä jotka kannattaa tehdä",
+    "listHeadline": "Varaa yksi näistä.",
+    "browseAllLabel": "Katso kaikki GetYourGuidesta",
+    "moreLabel": "lisää",
+    "checkAvailability": "Tarkista saatavuus",
+    "tours": [
+      {
+        "name": "Saamelaiskulttuurin ruokamatka",
+        "duration": "6 tuntia",
+        "groupSize": "4–12 henkilöä",
+        "difficulty": "Helppo",
+        "price": "alkaen 185 €",
+        "description": "Sukellus saamelaiseen ruokakulttuuriin. Tapaa paikallisia tuottajia, opi perinne­tekniikoita ja maista aitoja makuja suoraan arktiselta alueelta.",
+        "highlights": ["Vierailu poro­paimentajan luona ja bidos-muhennoksen maistelu", "Perinteinen saamelais­leivän leipominen", "Villi­raaka-aineiden keräily oppaan kanssa", "Saamelais­museon ruokakulttuuri­työpaja", "Vierailut paikallisille arktisille tuottajille"],
+        "location": "Inari–Utsjoki -alue",
+        "season": "kesä–syyskuu"
+      },
+      {
+        "name": "Arktinen fine dining -elämys",
+        "duration": "8 tuntia",
+        "groupSize": "2–8 henkilöä",
+        "difficulty": "Keskitaso",
+        "price": "alkaen 295 €",
+        "description": "Ekslusiivinen matka Lapin parhaiden ravintoloiden läpi. Michelin-suositeltuja paikkoja ja palkittuja kokkeja, jotka käyttävät puhtaimpia arktisia raaka-aineita.",
+        "highlights": ["3 ruokalajin lounas alueellisessa lippu­laiva­ravintolassa", "Kokki­keittiön kierros pää­kokin kanssa", "Arktiset raaka-aineet -masterclass", "Fine dining -tekniikan demonstraatio", "5 ruokalajin gourmet-illallinen viini­pariin kanssa"],
+        "location": "Rovaniemi",
+        "season": "ympäri vuoden"
+      },
+      {
+        "name": "Villi­keräilyretki",
+        "duration": "4 tuntia",
+        "groupSize": "6–15 henkilöä",
+        "difficulty": "Keskitaso",
+        "price": "alkaen 95 €",
+        "description": "Käden­ojennuksin opastettua keräilyä ikimetsässä ja suolla. Opi turvallinen marjojen, sienien ja villiyrttien tunnistus, kokkaa sitten poimimasi ruoka.",
+        "highlights": ["Sienien turvallisuus­masterclass", "Mustikan, puolukan ja hillan poiminta (sesongin mukaan)", "Villi­yrttien tunnistus", "Keräily–pöytä -kokkaus­hetki nuotiolla", "Mukaan annettava Lapin keräilyopas"],
+        "location": "Rovaniemi / Levin alue",
+        "season": "heinä–syyskuu"
+      }
+    ]
   },
   "michelinDining": {
     "title": "Fine dining ja Michelin-ravintolat Lapissa | LaplandFood",
-    "description": "Mihin Michelin-opas kiinnittää huomionsa Suomen Lapissa — Aanaar, Tundrea, Trattoria Levi ja Lapin keittiöt joihin pitkä ajomatka kannattaa."
+    "description": "Mihin Michelin-opas kiinnittää huomionsa Suomen Lapissa — Aanaar, Tundrea, Trattoria Levi ja Lapin keittiöt joihin pitkä ajomatka kannattaa.",
+    "hero": {
+      "eyebrow": "Pilari 05 · Michelin",
+      "title": "Michelin",
+      "titleHighlight": "ja fine dining.",
+      "subtitle": "Suomen Michelin-skene yhdellä silmäyksellä — mikä on tähditetty, missä, mikä työntää fine dingiä napapiirin pohjoispuolelle ja miten oikeasti varata pöytä.",
+      "primaryCta": "Mistä varata Lapissa",
+      "secondaryCta": "Helsingin ravintolat"
+    },
+    "factsKicker": "Suomen fine dining -tilanne",
+    "factsHeadline": "Kolme asiaa, jotka kannattaa tietää ensin.",
+    "factsLeadPrefix": "Pohjois­maiden Michelin-opas päivittyy joka vuosi — voimassa olevan tähti­listan löydät aina osoitteesta",
+    "factsLeadSuffix": ". Alla oleva rakenteellinen kuva on vakaa ja oikea aloitus­piste, jos suunnittelet fine dining -matkaa Suomeen.",
+    "facts": [
+      { "title": "Tähdet ovat Helsingissä", "body": "Suomen Michelin-listatut ravintolat ovat keskittyneet Helsinkiin — viime­vuosien Pohjois­maiden oppaan jokainen tähditetty suomalainen ravintola on ollut pää­kaupungissa. Turku ja Tampere ovat olleet tarkastajien tutkassa, mutta tähdet tulevat ja menevät." },
+      { "title": "Lappi pyrkii fine diningiin", "body": "Lapilla itsellään ei tällä hetkellä ole Michelin-tähteä, mutta sen huippu­ravintolat — Nili, Aanaar, Rakas — uudelleen­määrittelevät, miltä tasting menu -ilta näyttää napa­piirin pohjois­puolella, keräillyillä raaka-aineilla, joiden tuoreutta yksikään Helsingin keittiö ei pysty matkimaan." },
+      { "title": "Varaukset merkitsevät", "body": "Lapin lippu­laivat ovat pieniä (usein 30–60 paikkaa) ja kokin­pöydän paikat täyttyvät nopeimmin. Varaa talven huippu­kausi (joulu­kuun puoli­väli → helmikuu) ja keskiyön auringon ikkuna (6.6.–7.7.) vähintään 6–8 viikkoa etukäteen. Helsingin Michelin-saleissa odotus on tavallisesti 4–6 viikkoa." }
+    ],
+    "helsinki": {
+      "kicker": "Helsingin Michelin",
+      "headline": "Kahdeksan ravintolaa, jotka kannattaa varata Helsingissä.",
+      "lead": "Tähti­merkinnät vaihtuvat vuodesta toiseen — varmenna lista oppaasta ennen varausta. Alla olevat kahdeksan ovat ravintoloita, jotka ovat olleet oppaassa tai sen lähellä jatkuvasti ja joista matkailijat puhuvat. Hinta­luokka käyttää Michelin-oppaan käytäntöä: € (alle 40 € hlö), €€ (40–80 €), €€€ (80–140 €), €€€€ (140 €+).",
+      "ctaHotels": "Hotellit Helsingissä",
+      "footnote": "Riippumaton toimitus. Ei yhteyksiä Michelin-oppaaseen. Tähti­merkinnät ja Bib Gourmand -listaukset ovat voimassa vain nykyisen Pohjois­maiden oppaan painoksen mukaan — tarkista guide.michelin.com ennen varausta.",
+      "rooms": [
+        { "name": "Olo", "where": "Pohjoisesplanadi, Helsinki", "angle": "Pitkä­aikainen fine dining -instituutio. Tasting menut suomalaisilla raaka-aineilla ja klassisella pohjois­maisella tekniikalla.", "band": "€€€€" },
+        { "name": "Palace", "where": "10. kerros, Eteläranta — satama­näkymä", "angle": "Vanhan koulun Helsingin satama­näkymä, moderni toteutus. Kuha­annos on tunnusmerkki.", "band": "€€€€" },
+        { "name": "Demo", "where": "Uudenmaankatu, Helsinki", "angle": "Tiivis tasting menu -sali, raaka-aine­vetoinen, usein mainittu oppaassa hinta–laatu-suhteen vuoksi.", "band": "€€€" },
+        { "name": "Grön", "where": "Albertinkatu, Helsinki", "angle": "Kasvi­painotteinen tasting menu (vihannekset, kala, keräily) tiukalla viinipariltaan. Helsingin nopeimmin loppuun­myyty.", "band": "€€€€" },
+        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Saamelais­vaikutteinen fine dining — sama kokki­kasvatus kuin Olossa, pienempi sali, fokusoidumpi.", "band": "€€€€" },
+        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Modernia pohjois­maista asuin­alueen ravintolassa. Usein kehuttu Sasu Laukkosen raaka-aine­vetoisesta menusta.", "band": "€€€€" },
+        { "name": "Finnjävel", "where": "Helsinki", "angle": "Modernia suomalaista — uudelleen­tulkittuja klassikoita. Vähemmän hiljainen kuin muut; teatraalisempi tarjoilu.", "band": "€€€" },
+        { "name": "Ultima", "where": "Helsinki", "angle": "Tasting menu kellarin pysty­viljelmästä. Aidoin \"Helsinki 2026\" -sali tällä listalla.", "band": "€€€€" }
+      ]
+    },
+    "lapland": {
+      "kicker": "Lapin fine dining",
+      "headline": "Kolme ravintolaa, jotka kannattaa varata.",
+      "lead": "Nämä ovat keittiöt, jotka ottavat kokkaamisen tarpeeksi vakavasti kilpaillakseen Helsingin kanssa lautas­työn tasolla samalla kun raaka-aineet hankitaan kokonaan Lapista. Yhdelläkään niistä ei ole Michelin-tähteä kirjoitus­hetkellä — mutta viiden vuoden aika­jänteellä millä tahansa voisi olla.",
+      "labels": { "signature": "Tunnus­annokset", "band": "Hinta­luokka", "booking": "Varaus", "hotelsNearPrefix": "Hotellit lähellä" },
+      "rooms": [
+        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, Rovaniemen keskusta · 5 minuutin kävely rautatie­asemalta", "angle": "Lapin eniten mainittu fine dining -sali. Saamelais­juurinen lautanen — sous vide -poronfilee mustikka­reduktiolla on tunnus — ja villi­marja­ohjelma, joka nojaa siihen, mitä Inarin keräilijät toivat samana aamuna. Avoin keittiö, lämmin puu­sisustus, 60 paikkaa.", "signature": "Sous vide -poronfilee · männyn­suolatettu nieriä · hilla­parfait", "band": "€€€ — tasting menu 68 € · à la carte pää­ruoat 28–42 €", "booking": "Varaa 3–4 viikkoa etukäteen kesällä / joulukuussa. Walk-in mahdollinen ti–ke." },
+        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotelli Kultahovi, Saarikoskentie 2, Inari · Juutuanjoen rannalla", "angle": "Lähinnä määrän­päädineing-elämystä syvällä saamelais­maassa. Kokki rakentaa menun Inarin kahdeksan saamelais­vuodenajan ympärille — lakto-fermentoidut mustikat, savustettu poron­sydän, kylmä­suolatettu nieriä — ja viini­lista on epätavallisen syvä 7 000 asukkaan kaupungissa.", "signature": "7 ruokalajin villi­marja­tasting · savustettu poron­sydän · koivun­siirappi­parfait", "band": "€€€€ — tasting menu 85 €, viini­pariin kanssa 145 €", "booking": "Kaksi istumaa illassa, 32 paikkaa yhteensä. Varaa 6–8 viikkoa etukäteen talvella ja keskiyön auringon ikkunan aikana." },
+        { "name": "Rakas at Arctic TreeHouse Hotel", "city": "Rovaniemi · Santa Park -alue", "address": "Tarvantie 3, 7 km Rovaniemen keskustasta · taksi tai hotelli­kuljetus", "angle": "Lasi­kattoinen ruokasali pohjoiseen suuntautuvalla panoraamalla kuusi­metsään — suunniteltu niin että voit katsoa revontulia tasting menun aikana talvella. Confit-arktinen siika villi­yrtti­öljyssä on salin tunnus, koristeltu keräillyillä mikrovihreillä ja syötävillä kukilla.", "signature": "Confit-arktinen siika · männyn­suolatettu taimen · suklaa–puolukka­kupoli", "band": "€€€€ — 4 ruokalajin menu 78 € · 7 ruokalajin menu 115 €", "booking": "Hotelli­vieraat saavat etu­oikeuden. Muut varaa­vat 4 viikkoa etukäteen talvella." }
+      ]
+    },
+    "courseFlow": {
+      "kicker": "Mistä oikeasti maksat",
+      "headline": "Suomalainen tasting menu, ruokalaji kerrallaan.",
+      "lead": "Rakenne on yhtenäinen sekä Helsingin Michelin-saleissa että Lapin lippu­laiva­keittiöissä. Karkean kulun tunteminen auttaa rytmittämään viinit, jättämään tilaa jälki­ruokaan ja ettei laskun kohdalla jäädy paniikkiin.",
+      "items": [
+        { "n": "01", "label": "Tervetulo­palat", "body": "Kaksi tai kolme pientä palaa pöydässä — pikkelöityjä vihanneksia, savukala ruisleivällä, keräilyyrtti­liemi. Asettaa kausiluonteisen sävyn." },
+        { "n": "02", "label": "Kylmä alku", "body": "Nieriä tai siika jossakin muodossa — suolatettuna, savustettuna tai tartarina. Lähes aina keräily­yrteillä." },
+        { "n": "03", "label": "Lämmin alku­ruoka", "body": "Sieni- tai juures­annos syksyllä; marja- tai yrtti­vetoinen lautanen kesällä. Tässä kokit näyttävät fermentointi­työnsä." },
+        { "n": "04", "label": "Kala­ruoka", "body": "Kuha, taimen tai hauki — sen mukaan, mitä paikalliset kalastajat toivat. Kypsennetty keskelle vaalean­punaiseksi voi- tai kerma­kastikkeen kanssa." },
+        { "n": "05", "label": "Poro tai riista", "body": "Pää­proteiini. Filee sous vide, hidasti haudutettu lapa tai savustettu satula. Mustikka, puolukka tai kataja ankkuroi annoksen." },
+        { "n": "06", "label": "Juusto (valinnainen)", "body": "Kypsä suomalainen juusto — Lappi tai Terva­leipä­juusto -tyylinen — terva­hunajan tai hilla­säilykkeen kanssa." },
+        { "n": "07", "label": "Esi­jälki­ruoka", "body": "Pieni maku­kuvan­puhdistaja — koivun­mahla­sorbet, hilla­consommé, puolukka­granita." },
+        { "n": "08", "label": "Jälki­ruoka", "body": "Hilla­parfait tai suklaa–puolukka­kupoli ovat kaksi yleisintä. Kahvi tulee kupari­pannussa." }
+      ]
+    },
+    "bookingNotes": {
+      "headline": "Neljä asiaa, jotka aloittelijat tekevät väärin.",
+      "lead": "Lapin keittiöt antavat anteeksi. Ne ovat silti pieniä saleja kokki­vetoisella tarjoilulla. Tässä neljä korjausta, jotka annamme ystävälle ennen ensimmäistä varausta.",
+      "items": [
+        { "label": "Suunnittele 3 tuntia minimi", "body": "Täysi Lapin tasting menu kestää 2,5–3,5 tuntia. Älä varaa klo 21 esitystä jälkeen." },
+        { "label": "Viini­pari kannattaa", "body": "Useimmilla Lapin lippu­laivoilla on sommelier, joka valitsee pien­tuottajien eurooppalaisia viinejä. Parit maksavat 45–95 € menun päälle." },
+        { "label": "Kerro allergioista ajoissa", "body": "Tasting menut on rakennettu etukäteen ja sisältävät monimutkaisia keräily­raaka-aineita. Allergiat / kasvis / vegaani: ilmoita varauksen yhteydessä, ei illalla." },
+        { "label": "Smart casual", "body": "Mikään suomalainen ravintola ei käännytä farkuissa, mutta salit odottavat panostusta. Lenkki­kengät ja huppari tuntuvat sopimattomalta." }
+      ]
+    },
+    "stayNear": {
+      "headline": "Yövy keittiöiden lähellä.",
+      "lead": "Fine dining -matkalla puhtain suunnitelma on hotelli 10 minuutin kävelyn (tai lyhyen taksin) etäisyydellä siitä missä syöt. Rovaniemi Niliä / Rakasta varten, Inari Aanaaria varten.",
+      "ctaRovaniemi": "Hotellit Rovaniemellä",
+      "ctaInari": "Hotellit Inarissa",
+      "tourPrefix": "Haluatko oppaan, joka hoitaa kuljetuksen, varaukset ja kokki­esittelyt puolestasi?",
+      "tourLabel": "Varaa arktinen fine dining -kierros"
+    }
   },
   "about": {
     "title": "Tietoa LaplandFoodista",
-    "description": "Tietoa LaplandFoodista — kirjoittajat, jotka oikeasti syövät Suomen Lapissa. Toimitusperiaatteet, lähteet, kumppanuusmaininnat."
+    "description": "Tietoa LaplandFoodista — kirjoittajat, jotka oikeasti syövät Suomen Lapissa. Toimitusperiaatteet, lähteet, kumppanuusmaininnat.",
+    "hero": {
+      "kicker": "Tietoa LaplandFoodista",
+      "headline": "Suomalaista ruokaa, sisältäpäin kirjoitettuna.",
+      "lead": "LaplandFood on LaplandVibes-verkoston kulttuurikartta-sivusto — riippumatonta toimitusta suomalaisesta ruokakulttuurista, raaka-aineiden alkuperästä, perinteisistä saamelaisresepteistä, modernista arktisesta keittiöstä ja siitä missä Lapissa oikeasti syödään."
+    },
+    "why": {
+      "headline": "Miksi tämä sivusto on olemassa.",
+      "p1": "Suurin osa Lapin ruoasta englanniksi kirjoitetusta löytyy kahdessa rekisterissä. On esiterekisteri — \"taianomaisia saamelaisia makuja keskiyön auringon alla\", epämääräinen, hengästynyt, raaka-aineita karttava. Ja akateeminen rekisteri — huolellinen, täysin lähteistetty etnografia, jota kukaan ei lue puhelimelta ennen päivällisen varaamista.",
+      "p2": "Pyrimme täyttämään välin. Yksin­kertaisia toimitus­lauseita. Tarkkoja raaka-aineita ja tarkkoja ravintoloita. Numeroita silloin kun numerot auttavat — montako paliskuntaa on, mitä tasting menu oikeasti maksaa, milloin hilla­ikkuna sulkeutuu — eikä numeroita silloin kun ne olisivat täytettä. Kirjoitettu napa­piirin pohjois­puolelta, ei pöydän takaa Lontoossa tai Helsingissä.",
+      "p3": "Rima, jonka pidämme itsellemme: <strong>ystävän, joka tulee Lappiin ensimmäistä kertaa, pitäisi pystyä lukemaan kolme sivua täältä ja lähteä riittävällä ymmärryksellä suunnitellakseen oikean ruoka­matkan.</strong> Jos osio ei läpäise tätä testiä, kirjoitamme sen uudelleen."
+    },
+    "cover": {
+      "headline": "Mitä käsittelemme.",
+      "lead": "Kuusi pilaria. Jokainen on syvä sivu, joka voisi seistä yksin. Yhdessä ne muodostavat kenttä­oppaan, jonka olisimme halunneet tämän alueen kirjoittamisen alussa.",
+      "items": [
+        { "t": "Paikalliset raaka-aineet", "body": "Mitä täällä kasvaa, ui ja vaeltaa. Poro, hilla, mustikka, arktinen kala, keräillyt yrtit. Mistä tulevat, milloin huipussaan.", "href": "/local-ingredients" },
+        { "t": "Perinnereseptit", "body": "Bidos, Gahkku, Sápmi-kalakeitto, marjakiisseli — sekä kulttuuri­konteksti, joka selittää miksi ne ovat sellaisia kuin ovat.", "href": "/traditional-recipes" },
+        { "t": "Moderni Lappi", "body": "New Nordic -tekniikkaa Lapin raaka-aineisiin sovellettuna. Sous vide, fermentointi, kylmä­suolaus, keräily­koristeet. Missä maistat.", "href": "/modern-lapland" },
+        { "t": "Keräilyopas", "body": "Viisi keskeistä villi­ruokaa, sienien turvallisuus yksityis­kohtaisesti, 8 kuukauden kausi­kalenteri ja jokamiehen­oikeus, joka tämän kaiken laillistaa.", "href": "/foraging-guide" },
+        { "t": "Michelin ja fine dining", "body": "Helsingin Michelin-skene, Lapin kolme lippu­laivaa, miltä tasting menu oikeasti näyttää, miten varaus toimii.", "href": "/michelin-dining" },
+        { "t": "Ruokaretket ja kokki­koulut", "body": "Varaamisen arvoiset ruoka­elämykset — saamelais­ruoka­matkat, fine dining -kierrokset, keräily­retket. Kuratoitu, ei kaikkea kattava.", "href": "/food-tours" }
+      ]
+    },
+    "principles": {
+      "headline": "Miten valitsemme suosituksemme.",
+      "lead": "Olemme riippumaton julkaisija. Alla olevat periaatteet pitävät meidät rehellisinä.",
+      "items": [
+        { "t": "Suosittele kuten ystävälle", "body": "Yksinkertaisin suodatin. Jokainen ravintola, retki, raaka-aine­toimittaja ja tuottaja tällä sivustolla on sellainen, johon lähettäisimme ystävän. Jos emme lähettäisi, se ei tule sivulle." },
+        { "t": "Tarkkuus tunnelman sijaan", "body": "Väite kuten \"Lapin paras fine dining\" on merkityksetön ilman tarkkuutta. Kerromme mitä tilata, mitä maksaa, milloin varata, mistä kävellä paikalle. Mitä emme pysty pinnoittamaan tarkasti, sen jätämme pois." },
+        { "t": "Kumppanuus ei muuta toimitusta", "body": "Jotkut varaus­linkit maksavat meille komission, jos varaat niiden kautta. Yksikään niistä linkeistä ei avaa sisältöä, muuta suositusten järjestystä tai osta paikkaa sivulle. Samat ravintolat olisivat sivulla, vaikkei kumppanuus­ohjelmaa olisi olemassa." },
+        { "t": "Ei tekaistuja tilastoja, ei tekaistuja sitaatteja", "body": "Jos siteeraamme numeroa, sillä on lähde, johon voisimme osoittaa. Jos lainaamme kokkia, puhuimme hänen kanssaan. Jos olemme epävarmoja jostakin — Michelin-tähtien nykyinen määrä, perinteen tarkka aloitus­vuosi — sanomme sen ja linkitämme arvovaltaiseen lähteeseen." },
+        { "t": "Päivitä, älä poista", "body": "Ravintolat sulkeutuvat, kokit muuttavat, hinnat liikkuvat. Kun huomaamme sivun olevan väärin, päivitämme sen päiväys­leimalla. Emme teeskentele, ettei väärää versiota olisi koskaan ollut." }
+      ]
+    },
+    "network": {
+      "kicker": "Verkosto",
+      "headline": "Mistä etsiä asiat, joita tämä sivusto ei käsittele.",
+      "lead": "LaplandFood on kulttuuri­kartta-sivusto. Se ei ole tarkoituksellisesti ravintola­hakemisto eikä varaus­moottori. Alla olevat sisar­sivustot ottavat haltuun siitä mihin tämä päättyy:",
+      "diningBody": "Missä <em>oikeasti varata pöytä</em>. Ravintola­kohtainen hakemisto menuineen, aukioloineen ja suorine varaus­linkkeineen. Jos paikka on listalla täällä, se on sivulla siellä.",
+      "barsBody": "Baarit, panimot, jää­baarit, hotelli­baarit, paikalliset pubit, joissa suomalaiset oikeasti käyvät. Juomakulttuuri, aukiolo­ajat, mitä kaadetaan.",
+      "nightlifeBody": "Lapin yöelämä: DJ:t, myöhäiset keittiöt, livemusiikki­venuet, kaamos­bileiden kalenteri. Mihin yö menee.",
+      "footnote": "Joka sivun alaosassa oleva verkosto­alatunniste listaa kaikki LaplandVibesin sivut (missä yöpyä, mitä tehdä, kuljetukset, hiihtokeskukset, huskysafarit, luonto, työ Lapissa, …)."
+    },
+    "contact": {
+      "headline": "Ota yhteyttä.",
+      "p1Prefix": "Kaikkiin tiedusteluihin — toimitus, kumppanuudet, lehdistö, korjaukset, faktoja koskevat erimielisyydet — kirjoita osoitteeseen",
+      "p1Suffix": ". Vastaamme suomeksi tai englanniksi, yleensä kahden työpäivän sisällä.",
+      "p2": "<strong>Jos huomaat virheen</strong> — suljetun ravintolan, väärän aukioloajan, todellisuutta vastaamattoman hinnan, väärän tiedon — kerrothan meille. Päivitämme nopeammin kuin julkaisemme.",
+      "p3Prefix": "Tieto­suoja-, käyttö­ehdot- ja eväste­käytäntö löytyvät sivuilta",
+      "privacyLabel": "Tietosuoja",
+      "termsLabel": "Käyttöehdot",
+      "cookieLabel": "Evästekäytäntö"
+    }
   },
   "privacy": { "title": "Tietosuojaseloste | LaplandFood", "description": "Miten LaplandFood käsittelee tietojasi." },
   "terms": { "title": "Käyttöehdot | LaplandFood", "description": "LaplandFoodin käyttöehdot." },
