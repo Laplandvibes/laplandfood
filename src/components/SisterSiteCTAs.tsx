@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next'
 import { trackHubClick } from '../lib/analytics'
 
 /**
@@ -7,47 +8,37 @@ import { trackHubClick } from '../lib/analytics'
  *  - laplandbars.com   (drink culture, breweries, ice bars)
  *  - laplandnightlife.com (evening + late dining)
  */
-const siblings = [
-  {
-    title: 'Book a table',
-    eyebrow: 'LaplandDining',
-    body: 'Where to actually eat: 60+ vetted restaurants across Lapland with menus, hours, and direct booking links.',
-    href: 'https://laplanddining.com',
-  },
-  {
-    title: 'Find a bar or brewery',
-    eyebrow: 'LaplandBars',
-    body: 'Craft breweries, ice bars, hotel bars, and the local pubs where Finns actually drink — with what they pour and when they open.',
-    href: 'https://laplandbars.com',
-  },
-  {
-    title: 'After-dinner Lapland',
-    eyebrow: 'LaplandNightlife',
-    body: 'DJs, late kitchens, live-music venues, the polar-night party calendar — what to do once the kitchen closes.',
-    href: 'https://laplandnightlife.com',
-  },
+interface Sibling { title: string; eyebrow: string; body: string }
+
+const SIBLING_HREFS = [
+  'https://laplanddining.com',
+  'https://laplandbars.com',
+  'https://laplandnightlife.com',
 ]
 
 export default function SisterSiteCTAs() {
+  const { t } = useTranslation('pages')
+  const siblings = (t('sisters.items', { returnObjects: true }) as Sibling[]) || []
+
   return (
     <section className="bg-[#F8FAFC] py-20 sm:py-24">
       <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-            When you’re hungry
+            {t('sisters.kicker')}
           </p>
           <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-4">
-            Eat, drink, stay out late.
+            {t('sisters.headline')}
           </h2>
           <p className="text-base sm:text-lg text-[#002F6C]/70 max-w-2xl mx-auto">
-            LaplandFood is the cultural map. For the table you’ll actually sit at, the pint you’ll actually order, and the places that stay open after midnight, head to the sister sites below.
+            {t('sisters.subhead')}
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-5">
-          {siblings.map((s) => (
+          {siblings.map((s, i) => (
             <a
-              key={s.href}
-              href={s.href}
+              key={SIBLING_HREFS[i]}
+              href={SIBLING_HREFS[i]}
               target="_blank"
               rel="noopener"
               onClick={() => trackHubClick(s.eyebrow)}
@@ -61,7 +52,7 @@ export default function SisterSiteCTAs() {
               </h3>
               <p className="text-sm text-[#002F6C]/70 leading-relaxed">{s.body}</p>
               <span className="mt-5 inline-block text-sm font-semibold text-vibe-pink">
-                Visit →
+                {t('sisters.visitLabel')} →
               </span>
             </a>
           ))}
