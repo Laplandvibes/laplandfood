@@ -3,22 +3,22 @@
     "kicker": "Finnish Food, From the North",
     "h1Part1": "HOW FINLAND",
     "h1Part2": "EATS.",
-    "subhead": "A field guide to Finnish food culture — where the ingredients come from, what the recipes actually taste like, and why the country now has more Michelin stars per capita than its neighbours.",
+    "subhead": "A field guide to Finnish food culture, where the ingredients come from, what the recipes actually taste like, and why the country now has more Michelin stars per capita than its neighbours.",
     "ctaPrimary": "Explore Traditional Recipes",
     "ctaSecondary": "What Grows Up Here"
   },
   "newsletter": {
     "kicker": "The #LaplandVibes newsletter",
-    "headline": "One email a month, no fluff.",
-    "subhead": "The seasonal recipe we're cooking, the restaurant we just discovered, the foragers' window we don't want you to miss. Written by people who actually live here.",
+    "headline": "Only when something actually worth telling you about.",
+    "subhead": "The seasonal recipe worth trying, the restaurant worth a detour, the foragers' window you shouldn't miss. Editorial picks written from Finland.",
     "emailPlaceholder": "you@example.com",
     "submit": "Subscribe",
     "sending": "Sending…",
-    "successHeadline": "Check your inbox — welcome aboard.",
-    "successBody": "The first dispatch lands at the start of next month.",
+    "successHeadline": "Check your inbox, welcome aboard.",
+    "successBody": "The first dispatch lands when there's a Finnish food story worth sending.",
     "errorPrefix": "Something went wrong",
     "errorRetry": "Please try again.",
-    "trust": "One email a month. Unsubscribe in one click. We never share your address."
+    "trust": "Hand-written editorial · Unsubscribe in one click · We never share your address."
   },
   "sisters": {
     "kicker": "When you're hungry",
@@ -26,18 +26,18 @@
     "subhead": "LaplandFood is the cultural map. For the table you'll actually sit at, the pint you'll actually order, and the places that stay open after midnight, head to the sister sites below.",
     "visitLabel": "Visit",
     "items": [
-      { "title": "Book a table", "eyebrow": "LaplandDining", "body": "Where to actually eat: 60+ vetted restaurants across Lapland with menus, hours, and direct booking links." },
-      { "title": "Find a bar or brewery", "eyebrow": "LaplandBars", "body": "Craft breweries, ice bars, hotel bars, and the local pubs where Finns actually drink — with what they pour and when they open." },
-      { "title": "After-dinner Lapland", "eyebrow": "LaplandNightlife", "body": "DJs, late kitchens, live-music venues, the polar-night party calendar — what to do once the kitchen closes." }
+      { "title": "Book a table", "eyebrow": "LaplandDining", "body": "Where to actually eat: 60+ hand-picked restaurants across Lapland with menus, hours, and direct booking links." },
+      { "title": "Find a bar or brewery", "eyebrow": "LaplandBars", "body": "Craft breweries, ice bars, hotel bars, and the local pubs where Finns actually drink, with what they pour and when they open." },
+      { "title": "After-dinner Lapland", "eyebrow": "LaplandNightlife", "body": "DJs, late kitchens, live-music venues, the polar-night party calendar, what to do once the kitchen closes." }
     ]
   },
   "home": {
-    "title": "LaplandFood — Finnish Lapland Food Culture, Ingredients & Recipes",
-    "description": "Finnish Lapland's food scene — wild reindeer, cloudberries, fresh char, smoked salmon, and the chefs reshaping Arctic cuisine. Recipes, restaurants, and foraging guides.",
+    "title": "Lapland Food 2026, Sami Cuisine, Foraging & Local Picks",
+    "description": "Real Lapland food in 2026, Sami cuisine, wild reindeer, cloudberries, char, foraging guides and Michelin picks. 60+ hand-picked restaurants, real prices.",
     "intro": {
       "kicker": "What this site is",
       "headline": "Finnish food, explained.",
-      "p1": "LaplandFood is the cultural map of how Finland eats — written from the inside. Where the ingredients come from. The recipes that actually get made on a Tuesday. The Michelin scene most travellers miss. Foraging, food tours, and the food traditions that go back a thousand years.",
+      "p1": "LaplandFood is the cultural map of how Finland eats, written from the inside. Where the ingredients come from. The recipes that actually get made on a Tuesday. The Michelin scene most travellers miss. Foraging, food tours, and the food traditions that go back a thousand years.",
       "p2Prefix": "For where to actually",
       "p2Em": "book a table",
       "p2Mid": ", head to",
@@ -47,24 +47,24 @@
     },
     "pillarsKicker": "The Six Pillars",
     "pillarsHeadline": "Start here.",
-    "pillarsLead": "Six maps of Finnish food culture. Pick one and go deep — every page links to the others.",
+    "pillarsLead": "Six maps of Finnish food culture. Pick one and go deep, every page links to the others.",
     "readLabel": "Read",
     "pillars": [
-      { "eyebrow": "Pillar 01", "title": "Local Ingredients", "body": "What actually grows, swims, and grazes here — reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Seasons, sourcing, and why the flavour is what it is." },
-      { "eyebrow": "Pillar 02", "title": "Traditional Recipes", "body": "Bidos reindeer stew, Sami flatbread, lake-fish soup, wild-berry kissel — the recipes that fed Sápmi through Arctic winters for thousands of years." },
+      { "eyebrow": "Pillar 01", "title": "Local Ingredients", "body": "What actually grows, swims, and grazes here, reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Seasons, sourcing, and why the flavour is what it is." },
+      { "eyebrow": "Pillar 02", "title": "Traditional Recipes", "body": "Bidos reindeer stew, Sami flatbread, lake-fish soup, wild-berry kissel, the recipes that fed Sápmi through Arctic winters for thousands of years." },
       { "eyebrow": "Pillar 03", "title": "Modern Lapland", "body": "How a new generation of chefs cooks the same ingredients with sous-vide, fermentation, and New Nordic technique. Where to taste it." },
-      { "eyebrow": "Pillar 04", "title": "Foraging Guide", "body": "Bilberry, lingonberry, cloudberry, mushrooms, nettle, meadowsweet — what to pick when, how to identify it, and how to do it sustainably under everyman's right." },
-      { "eyebrow": "Pillar 05", "title": "Michelin & Fine Dining", "body": "Finland's Michelin scene at a glance — what's starred, where, and what's pushing fine dining inside the Arctic Circle." },
-      { "eyebrow": "Pillar 06", "title": "Food Tours & Cooking Classes", "body": "Sami food journeys, fine-dining tours, foraging walks, brewery visits — bookable food experiences across Lapland." }
+      { "eyebrow": "Pillar 04", "title": "Foraging Guide", "body": "Bilberry, lingonberry, cloudberry, mushrooms, nettle, meadowsweet, what to pick when, how to identify it, and how to do it sustainably under everyman's right." },
+      { "eyebrow": "Pillar 05", "title": "Michelin & Fine Dining", "body": "Finland's Michelin scene at a glance, what's starred, where, and what's pushing fine dining inside the Arctic Circle." },
+      { "eyebrow": "Pillar 06", "title": "Food Tours & Cooking Classes", "body": "Sami food journeys, fine-dining tours, foraging walks, brewery visits, bookable food experiences across Lapland." }
     ],
     "cultureKicker": "Why it tastes the way it does",
     "cultureHeadline": "Four things that make Finnish food Finnish.",
     "cultureLead": "Strip away the trends and most of Finnish cuisine still rests on these four foundations. They explain everything from why your hotel breakfast has rye crispbread to why a fine-dining tasting menu starts with juniper-cured fish.",
     "culture": [
-      { "n": "01", "title": "Eight seasons, not four", "body": "The Sami calendar splits the year into eight seasons. Each one fixes what is on the table — ice-fishing in polar night, cloudberry picking under the midnight sun, mushroom and herb gathering before the first frost." },
-      { "n": "02", "title": "Everyman's right", "body": "Finland's jokamiehenoikeus lets anyone forage berries, mushrooms, and wild herbs on most land — privately owned or not. It is one of the few legal frameworks in the world that treats the wild larder as a shared resource." },
-      { "n": "03", "title": "Whole-animal use", "body": "In Sami food culture nothing on the reindeer is wasted: meat, marrow, blood, fat, hide, bone. Recipes evolved around full utilisation — that is why bidos uses tougher cuts and why blood pancakes (verilettut) became a Finnish staple." },
-      { "n": "04", "title": "Lightly seasoned, ingredient-led", "body": "Finnish food rarely shouts. The flavours are dill, juniper, butter, salt, and the ingredient itself. The cooking is built to let the ingredient speak — a quiet contrast to the louder cuisines further south." }
+      { "n": "01", "title": "Eight seasons, not four", "body": "The Sami calendar splits the year into eight seasons. Each one fixes what is on the table, ice-fishing in polar night, cloudberry picking under the midnight sun, mushroom and herb gathering before the first frost." },
+      { "n": "02", "title": "Everyman's right", "body": "Finland's jokamiehenoikeus lets anyone forage berries, mushrooms, and wild herbs on most land, privately owned or not. It is one of the few legal frameworks in the world that treats the wild larder as a shared resource." },
+      { "n": "03", "title": "Whole-animal use", "body": "In Sami food culture nothing on the reindeer is wasted: meat, marrow, blood, fat, hide, bone. Recipes evolved around full utilisation, that is why bidos uses tougher cuts and why blood pancakes (verilettut) became a Finnish staple." },
+      { "n": "04", "title": "Lightly seasoned, ingredient-led", "body": "Finnish food rarely shouts. The flavours are dill, juniper, butter, salt, and the ingredient itself. The cooking is built to let the ingredient speak, a quiet contrast to the louder cuisines further south." }
     ],
     "summer": {
       "kicker": "June 6 – July 7 · 32 days of midnight sun",
@@ -74,55 +74,55 @@
     }
   },
   "localIngredients": {
-    "title": "Local Ingredients of Lapland | Reindeer, Berries, Fish, Foraged Herbs | LaplandFood",
-    "description": "What actually grows, swims, and grazes in Finnish Lapland — six core ingredients with seasons, sourcing, and how they end up on the plate.",
+    "title": "Lapland Ingredients, Reindeer, Berries, Fish | LaplandFood",
+    "description": "What actually grows, swims, and grazes in Finnish Lapland, six core ingredients with seasons, sourcing, and how they end up on the plate.",
     "hero": {
       "eyebrow": "Pillar 01 · Ingredients",
       "title": "What grows",
       "titleHighlight": "up here.",
-      "subtitle": "Six ingredients that define Lapland's pantry — where they come from, when they peak, and what they actually taste like.",
+      "subtitle": "Six ingredients that define Lapland's pantry, where they come from, when they peak, and what they actually taste like.",
       "primaryCta": "Foraging guide",
       "secondaryCta": "Recipes that use these"
     },
     "intro": {
       "lead": "The Lapland pantry is short. That is its strength.",
-      "p1": "You can list every ingredient that defines Lapland cooking on one hand of fingers — reindeer, lake fish, foraged berries, foraged mushrooms, wild herbs, dairy. There is no hidden 30th ingredient that unlocks the cuisine. The skill is in what people learned to do with a small palette over a thousand years of Arctic winters: how to dry it, smoke it, ferment it, lacto-pickle it, slow-cook it, get it through to March without a refrigerator.",
-      "p2": "Almost everything on the cards below is wild. That distinguishes Lapland cuisine from almost every other food culture in Europe. Reindeer are technically herded, but they live on tens of thousands of square kilometres of unfenced wilderness; the herder's job is to keep track of them, not feed them. Berries and mushrooms cannot be cultivated commercially in Lapland — the climate is too short and too wet — so the entire supply is foraged. Lake fish are caught one rod at a time, often through ice. The supply chain from forest floor to plate is sometimes literally a few hours.",
-      "p3": "That has consequences for flavour. Wild ingredients vary year to year and place to place in a way cultivated ones don't. The cloudberries from a bog above Inari taste different from cloudberries 80 kilometres south above Saariselkä — different acidity, different sugar, different perfume. A reindeer that spent the autumn on the lichen plateau above Utsjoki tastes different from one that grazed mushroom flushes near Rovaniemi. Sami chefs and home cooks have always treated this as a feature: you cook around what the ingredient is doing this year, not a fixed recipe.",
-      "p4": "The six ingredient cards below are the foundation. Below them you'll find longer essays on the three that visitors most often ask about — reindeer (the supply chain, the ethics, the cuts), cloudberries (why nobody can farm them and what that means for price), and lake fish (the role of ice fishing in winter). Then a final section on the everyman's right that ties this whole pantry together legally and culturally."
+      "p1": "You can list every ingredient that defines Lapland cooking on one hand of fingers, reindeer, lake fish, foraged berries, foraged mushrooms, wild herbs, dairy. There is no hidden 30th ingredient that unlocks the cuisine. The skill is in what people learned to do with a small palette over a thousand years of Arctic winters: how to dry it, smoke it, ferment it, lacto-pickle it, slow-cook it, get it through to March without a refrigerator.",
+      "p2": "Almost everything on the cards below is wild. That distinguishes Lapland cuisine from almost every other food culture in Europe. Reindeer are technically herded, but they live on tens of thousands of square kilometres of unfenced wilderness; the herder's job is to keep track of them, not feed them. Berries and mushrooms cannot be cultivated commercially in Lapland, the climate is too short and too wet, so the entire supply is foraged. Lake fish are caught one rod at a time, often through ice. The supply chain from forest floor to plate is sometimes literally a few hours.",
+      "p3": "That has consequences for flavour. Wild ingredients vary year to year and place to place in a way cultivated ones don't. The cloudberries from a bog above Inari taste different from cloudberries 80 kilometres south above Saariselkä, different acidity, different sugar, different perfume. A reindeer that spent the autumn on the lichen plateau above Utsjoki tastes different from one that grazed mushroom flushes near Rovaniemi. Sami chefs and home cooks have always treated this as a feature: you cook around what the ingredient is doing this year, not a fixed recipe.",
+      "p4": "The six ingredient cards below are the foundation. Below them you'll find longer essays on the three that visitors most often ask about, reindeer (the supply chain, the ethics, the cuts), cloudberries (why nobody can farm them and what that means for price), and lake fish (the role of ice fishing in winter). Then a final section on the everyman's right that ties this whole pantry together legally and culturally."
     },
     "ingredients": [
-      { "name": "Reindeer & Venison", "season": "Year-round · best Oct–Mar", "description": "The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness — the most important protein in Sami culture for thousands of years.", "nutritional": "High protein, low fat, rich in B12 and iron", "uses": "Grilling, drying, smoking, slow-cooked stews" },
+      { "name": "Reindeer & Venison", "season": "Year-round · best Oct–Mar", "description": "The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness, the most important protein in Sami culture for thousands of years.", "nutritional": "High protein, low fat, rich in B12 and iron", "uses": "Grilling, drying, smoking, slow-cooked stews" },
       { "name": "Bilberries & Lingonberries", "season": "August–September", "description": "Arctic superberries bursting with antioxidants. Wild-grown under the midnight sun in the tundra and boreal forest.", "nutritional": "Antioxidants, vitamin C, dietary fibre", "uses": "Jams, juices, baking, drying" },
-      { "name": "Wild Mushrooms — Porcini & Milkcaps", "season": "July–September", "description": "Forest gold from Lapland's old-growth forests. Traditionally dried for winter preserves.", "nutritional": "Protein, fibre, vitamin D", "uses": "Drying, preserving, soups, sauces" },
-      { "name": "Arctic Freshwater Fish", "season": "Year-round · winter ice-fishing", "description": "Crystal-clear lake fish — whitefish, pike, perch, trout. Ice fishing is a beloved winter tradition across Lapland.", "nutritional": "Omega-3 fatty acids, high protein, phosphorus", "uses": "Smoking, salting, grilling, chowder" },
-      { "name": "Wild Herbs — Meadowsweet & Nettle", "season": "June–August", "description": "The power of wild plants. Traditional medicinal and culinary herbs used in Sami culture for generations.", "nutritional": "Minerals, vitamins, flavonoids", "uses": "Tea, salads, soups, drying" },
-      { "name": "Arctic Cloudberries", "season": "Mid-July to mid-August", "description": "The golden jewel of Lapland. Grows only in Arctic bogs and marshes — one of the rarest and most prized wild berries in the world.", "nutritional": "Vitamin C, vitamin E, omega-3 fatty acids", "uses": "Jams, desserts, liqueur, fresh eating" }
+      { "name": "Wild Mushrooms, Porcini & Milkcaps", "season": "July–September", "description": "Forest gold from Lapland's old-growth forests. Traditionally dried for winter preserves.", "nutritional": "Protein, fibre, vitamin D", "uses": "Drying, preserving, soups, sauces" },
+      { "name": "Arctic Freshwater Fish", "season": "Year-round · winter ice-fishing", "description": "Crystal-clear lake fish, whitefish, pike, perch, trout. Ice fishing is a beloved winter tradition across Lapland.", "nutritional": "Omega-3 fatty acids, high protein, phosphorus", "uses": "Smoking, salting, grilling, chowder" },
+      { "name": "Wild Herbs, Meadowsweet & Nettle", "season": "June–August", "description": "The power of wild plants. Traditional medicinal and culinary herbs used in Sami culture for generations.", "nutritional": "Minerals, vitamins, flavonoids", "uses": "Tea, salads, soups, drying" },
+      { "name": "Arctic Cloudberries", "season": "Mid-July to mid-August", "description": "The golden jewel of Lapland. Grows only in Arctic bogs and marshes, one of the rarest and most prized wild berries in the world.", "nutritional": "Vitamin C, vitamin E, omega-3 fatty acids", "uses": "Jams, desserts, liqueur, fresh eating" }
     ],
     "labels": { "nutrition": "Nutrition:", "usedIn": "Used in:" },
     "reindeerDeep": {
       "kicker": "Deep dive · Reindeer",
       "headline": "How a reindeer ends up on a Lapland plate.",
-      "p1": "Finland's reindeer industry is regulated under the Reindeer Husbandry Act, which restricts ownership to people domiciled in the reindeer-herding area (effectively northern Finland). Animals belong to individual herders but graze together in cooperatives — <em>paliskunnat</em> — that share territory and labour. There are around 200,000 reindeer across roughly 54 cooperatives, all in Lapland and parts of Northern Ostrobothnia.",
+      "p1": "Finland's reindeer industry is regulated under the Reindeer Husbandry Act, which restricts ownership to people domiciled in the reindeer-herding area (effectively northern Finland). Animals belong to individual herders but graze together in cooperatives, <em>paliskunnat</em>, that share territory and labour. There are around 200,000 reindeer across roughly 54 cooperatives, all in Lapland and parts of Northern Ostrobothnia.",
       "p2": "The herd is wild in everything but ownership. Reindeer roam freely across enormous stretches of unfenced taiga and tundra, eating what they find: lichen in winter (the diet that gives the meat its specific clean flavour), grasses and herbs in summer, mushroom flushes in autumn. Herders track their animals on snowmobiles and quad bikes, gather them twice a year for ear-marking and (in autumn) selection for slaughter, then let them disperse again.",
-      "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. Each cooperative runs its own EU-approved slaughterhouse. Most of the meat is sold within a few hundred kilometres of where the animal lived — to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
-      "p4": "<strong>The cuts you'll see on a Lapland menu</strong> map roughly to a beef vocabulary: <em>fileé</em> (fillet, sous-vide territory), <em>sisäpaisti / ulkopaisti</em> (silverside / topside, roasted whole or sliced for hot-smoked dishes), <em>poronkäristys</em> (sautéed reindeer, the everyday Finnish workhorse — thin slices, butter, salt, served on mash with lingonberry), and <em>suovas</em> (cold-smoked saddle, eaten in slivers with rye bread). Bidos uses tougher stewing cuts — typically shoulder and shank — which is why it cooks for hours.",
-      "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu — no feedlot, no antibiotics, no enclosed grazing, native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to supplementally feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade."
+      "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. Each cooperative runs its own EU-approved slaughterhouse. Most of the meat is sold within a few hundred kilometres of where the animal lived, to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
+      "p4": "<strong>The cuts you'll see on a Lapland menu</strong> map roughly to a beef vocabulary: <em>fileé</em> (fillet, sous-vide territory), <em>sisäpaisti / ulkopaisti</em> (silverside / topside, roasted whole or sliced for hot-smoked dishes), <em>poronkäristys</em> (sautéed reindeer, the everyday Finnish workhorse, thin slices, butter, salt, served on mash with lingonberry), and <em>suovas</em> (cold-smoked saddle, eaten in slivers with rye bread). Bidos uses tougher stewing cuts, typically shoulder and shank, which is why it cooks for hours.",
+      "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu, no feedlot, no antibiotics, no enclosed grazing, native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to supplementally feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade."
     },
     "cloudberryDeep": {
       "kicker": "Deep dive · Cloudberry",
       "headline": "The berry nobody can farm.",
-      "p1": "Cloudberry — <em>hilla</em> in Finnish, <em>luomi</em> in North Sami — is the most prized wild berry in Lapland and the most stubbornly uncultivated of the world's significant berries. It grows only in cold, acidic, waterlogged peat bogs in a narrow band of the northern hemisphere: northern Scandinavia, Finland, parts of Russia, Alaska, and northern Canada. Inside those zones it is surprisingly common. Outside them, it does not grow.",
-      "p2": "Decades of agricultural research have failed to commercialise it. Cloudberry plants are dioecious (separate male and female), grow extremely slowly, take 6–7 years to fruit even when conditions are perfect, are vulnerable to late spring frosts that destroy the year's flowers, and need a specific combination of moisture, light, and bog chemistry that has resisted greenhouse simulation. Norwegian and Finnish researchers have made progress on cultivars but commercial yields are still a fraction of wild yields. So the entire Finnish supply — for jam manufacturers, liqueur producers (Lakka), restaurant kitchens — is wild-foraged.",
-      "p3": "That is why a kilo of fresh cloudberries at a Rovaniemi market in late July typically runs €25–€50 — five to ten times the price of bilberries — and why supply collapses if the spring frost comes a week late. It is also why cloudberry parfait is the Lapland fine-dining dessert. Every chef wants to use them while they last.",
-      "p4": "<strong>Picking ethic:</strong> cloudberry plants are slow to recover. The Sami principle — and the Finnish foraging convention — is to take fully ripe berries only, leave the unripe and overripe ones, and never strip a plant. If you're foraging on a small bog, a kilo per family is plenty."
+      "p1": "Cloudberry, <em>hilla</em> in Finnish, <em>luomi</em> in North Sami, is the most prized wild berry in Lapland and the most stubbornly uncultivated of the world's significant berries. It grows only in cold, acidic, waterlogged peat bogs in a narrow band of the northern hemisphere: northern Scandinavia, Finland, parts of Russia, Alaska, and northern Canada. Inside those zones it is surprisingly common. Outside them, it does not grow.",
+      "p2": "Decades of agricultural research have failed to commercialise it. Cloudberry plants are dioecious (separate male and female), grow extremely slowly, take 6–7 years to fruit even when conditions are perfect, are vulnerable to late spring frosts that destroy the year's flowers, and need a specific combination of moisture, light, and bog chemistry that has resisted greenhouse simulation. Norwegian and Finnish researchers have made progress on cultivars but commercial yields are still a fraction of wild yields. So the entire Finnish supply, for jam manufacturers, liqueur producers (Lakka), restaurant kitchens, is wild-foraged.",
+      "p3": "That is why a kilo of fresh cloudberries at a Rovaniemi market in late July typically runs €25–€50, five to ten times the price of bilberries and why supply collapses if the spring frost comes a week late. It is also why cloudberry parfait is the Lapland fine-dining dessert. Every chef wants to use them while they last.",
+      "p4": "<strong>Picking ethic:</strong> cloudberry plants are slow to recover. The Sami principle and the Finnish foraging convention, is to take fully ripe berries only, leave the unripe and overripe ones, and never strip a plant. If you're foraging on a small bog, a kilo per family is plenty."
     },
     "fishDeep": {
       "kicker": "Deep dive · Lake fish",
       "headline": "Why ice fishing produces the best fish of the year.",
       "p1": "Lapland sits on roughly 6,000 lakes, every one of them clean enough to drink from on a long-distance hike. The four fish that matter on the plate are <strong>whitefish (siika)</strong>, <strong>pike (hauki)</strong>, <strong>perch (ahven)</strong>, and <strong>brown trout / Arctic char (taimen / nieriä)</strong>. All four are native, all four are caught in commercial quantity by both small fishermen and ice-fishing enthusiasts, all four show up in different forms on Lapland menus.",
-      "p2": "Ice fishing — <em>pilkkiminen</em> — is more than a local hobby. It is the fishing method that produces the most flavourful Arctic lake fish of the year. Here is why: in winter, lake water is at its coldest and clearest. Fish metabolisms slow down, fat deposits firm up, and parasites die off (no warm-water vectors). The flesh of an ice-caught whitefish in February is denser, sweeter, and cleaner-tasting than the same fish caught in July. Lapland chefs schedule their menus around it.",
-      "p3": "The technique itself is straightforward — auger a hole through 50–80 cm of ice, drop a small jig with a single hook, wait — but it requires temperatures often colder than −15 °C. The traditional Sami approach involved sealing the hole between visits to keep the warm under-ice water from refreezing the rod. Today most people use insulated tents (a small ice-fishing shelter is cheap and changes the experience completely).",
+      "p2": "Ice fishing, <em>pilkkiminen</em>, is more than a local hobby. It is the fishing method that produces the most flavourful Arctic lake fish of the year. Here is why: in winter, lake water is at its coldest and clearest. Fish metabolisms slow down, fat deposits firm up, and parasites die off (no warm-water vectors). The flesh of an ice-caught whitefish in February is denser, sweeter, and cleaner-tasting than the same fish caught in July. Lapland chefs schedule their menus around it.",
+      "p3": "The technique itself is straightforward, auger a hole through 50–80 cm of ice, drop a small jig with a single hook, wait, but it requires temperatures often colder than −15 °C. The traditional Sami approach involved sealing the hole between visits to keep the warm under-ice water from refreezing the rod. Today most people use insulated tents (a small ice-fishing shelter is cheap and changes the experience completely).",
       "p4Prefix": "On a menu: lightly smoked whitefish (<em>graavisiika</em>) and pike-roe-on-rye are everyday Lapland starters. A whole roasted brown trout is the classic main. Sápmi fish soup (recipe on the",
       "p4LinkLabel": "recipes page",
       "p4Suffix": ") uses whatever the fishermen brought in that week."
@@ -130,7 +130,7 @@
     "everymansRight": {
       "kicker": "Everyman's right",
       "headline": "The legal framework that makes this all possible.",
-      "p1": "Almost every ingredient on this page is, legally, free. Finland's <em>jokamiehenoikeus</em> (everyman's right) is a centuries-old, codified principle that lets anyone — citizen or visitor — walk on, camp on, and forage from most land in Finland regardless of who owns it. You can pick berries, mushrooms, and wild herbs on private land without asking. You can fish with a single rod without a permit. You can sleep one night on most land without asking.",
+      "p1": "Almost every ingredient on this page is, legally, free. Finland's <em>jokamiehenoikeus</em> (everyman's right) is a centuries-old, codified principle that lets anyone, citizen or visitor, walk on, camp on, and forage from most land in Finland regardless of who owns it. You can pick berries, mushrooms, and wild herbs on private land without asking. You can fish with a single rod without a permit. You can sleep one night on most land without asking.",
       "p2": "What you cannot do: damage trees, hunt, drive a vehicle off-road, collect protected plants, light an open fire on someone's land without permission, or pick from a cultivated garden. The principle is access without harm. It is one of the few legal frameworks in Europe that treats wild food as a shared resource, and it is the structural reason Lapland's food culture survived modernisation.",
       "ctaPrimary": "Read the foraging guide",
       "ctaSecondary": "Or book a guided foraging walk"
@@ -138,39 +138,39 @@
   },
   "traditionalRecipes": {
     "title": "Traditional Lapland Recipes | LaplandFood",
-    "description": "Real Lapland recipes — sautéed reindeer (poronkäristys), Arctic char, leipäjuusto, salmonberries with cream. Tested in Lapland kitchens, written for travellers.",
+    "description": "Real Lapland recipes, sautéed reindeer (poronkäristys), Arctic char, leipäjuusto, salmonberries with cream. Tested in Lapland kitchens, written for travellers.",
     "hero": {
       "eyebrow": "Pillar 02 · Recipes",
       "title": "Traditional",
       "titleHighlight": "Sami Recipes.",
-      "subtitle": "A deep dive into Sami food heritage. These recipes have sustained people through Arctic winters for thousands of years — each one carrying wisdom, flavour, and a connection to the land.",
+      "subtitle": "A deep dive into Sami food heritage. These recipes have sustained people through Arctic winters for thousands of years, each one carrying wisdom, flavour, and a connection to the land.",
       "primaryCta": "Jump to Recipes",
       "secondaryCta": "Modern Cuisine"
     },
     "intro": {
       "lead": "The recipes on this page are not heritage in the sealed-museum sense. They are still cooked.",
-      "p1": "Walk into a Sami home in Inari or Utsjoki on a Tuesday in November and you will smell <em>bidos</em> on the stove — the same slow-braised reindeer stew the family grandmother cooked, made the same way, with the same cuts, on a heat low enough that the pot barely whispers. The fact that the stove is now electric and the meat comes from a registered cooperative herd does not change the recipe. It changes the timing slightly. That is all.",
-      "p2": "That continuity is the point. Sami cuisine survived where most pre-industrial Arctic food cultures did not, because it never depended on imported ingredients to taste like itself. Reindeer, lake fish, foraged berries, wild herbs, rye flour, butter, salt — almost everything is sourced within walking distance of where it is eaten. When supply chains break (war, sanctions, pandemic), Lapland's kitchens keep going. That has been tested in living memory.",
+      "p1": "Walk into a Sami home in Inari or Utsjoki on a Tuesday in November and you will smell <em>bidos</em> on the stove, the same slow-braised reindeer stew the family grandmother cooked, made the same way, with the same cuts, on a heat low enough that the pot barely whispers. The fact that the stove is now electric and the meat comes from a registered cooperative herd does not change the recipe. It changes the timing slightly. That is all.",
+      "p2": "That continuity is the point. Sami cuisine survived where most pre-industrial Arctic food cultures did not, because it never depended on imported ingredients to taste like itself. Reindeer, lake fish, foraged berries, wild herbs, rye flour, butter, salt, almost everything is sourced within walking distance of where it is eaten. When supply chains break (war, sanctions, pandemic), Lapland's kitchens keep going. That has been tested in living memory.",
       "p3": "The four recipes below are the entry points. <strong>Bidos</strong> is the soul-food protein dish. <strong>Gahkku</strong> is the daily bread. <strong>Sápmi fish soup</strong> uses what came out of the lake that week. <strong>Wild-berry kissel</strong> is dessert and breakfast and a way to preserve the summer. If you cook only these four, you have already covered most of the year of a traditional Sápmi household.",
-      "p4": "Read the cultural context first. The recipes will make more sense — particularly why some of them call for \"salt to taste\" rather than a number of grams (because in a real Sami kitchen, salt was rationed by what the household had bought down south that autumn). Below the recipes you'll find the eight Sami seasons in detail, the modern Sami food revival, and the four traditional cooking methods that still show up in fine-dining kitchens across Lapland."
+      "p4": "Read the cultural context first. The recipes will make more sense, particularly why some of them call for \"salt to taste\" rather than a number of grams (because in a real Sami kitchen, salt was rationed by what the household had bought down south that autumn). Below the recipes you'll find the eight Sami seasons in detail, the modern Sami food revival, and the four traditional cooking methods that still show up in fine-dining kitchens across Lapland."
     },
     "context": {
       "kicker": "The wisdom of Sami food culture",
       "headline": "Why the recipes look the way they do.",
       "items": [
         { "title": "Energy Efficiency", "body": "Recipes designed to minimise fuel and time in a harsh Arctic climate. Slow simmer + high-fat protein = maximum kilocalories per stick of firewood." },
-        { "title": "Long Shelf Life", "body": "Foods crafted to last without refrigeration or preservatives — drying, smoking, fermenting, and freezing in the snow." },
+        { "title": "Long Shelf Life", "body": "Foods crafted to last without refrigeration or preservatives, drying, smoking, fermenting, and freezing in the snow." },
         { "title": "Community", "body": "Cooking and sharing food is the central social ritual of Sami life. The pot in the middle of the lavvu (tipi) is, literally, the centre." }
       ]
     },
     "sapmi": {
       "kicker": "The Sami people & their food heritage",
-      "headline": "Sápmi — one of Europe's oldest cuisines.",
-      "lead": "The Sami are the indigenous people of Sápmi — a vast Arctic homeland spanning northern Finland, Sweden, Norway, and Russia. Their cuisine is one of the oldest living food cultures in Europe, shaped entirely by the land, the seasons, and reindeer-herding life.",
+      "headline": "Sápmi, one of Europe's oldest cuisines.",
+      "lead": "The Sami are the indigenous people of Sápmi, a vast Arctic homeland spanning northern Finland, Sweden, Norway, and Russia. Their cuisine is one of the oldest living food cultures in Europe, shaped entirely by the land, the seasons, and reindeer-herding life.",
       "items": [
-        { "title": "Sápmi — the homeland", "body": "Sápmi covers over 400,000 km² across four nations. Finnish Sápmi (Saamelaisten kotiseutualue) is the northernmost region of Finland — Enontekiö, Inari, and Utsjoki municipalities." },
-        { "title": "Sami languages", "body": "There are nine living Sami languages. North Sami is the most widely spoken. Many traditional recipe names — like <em>bidos</em> and <em>gahkku</em> — come straight from North Sami." },
-        { "title": "Eight seasons, not four", "body": "Sami timekeeping divides the year into eight seasons. Each one fixes what is on the table — ice-fishing in polar night, cloudberry picking in midsummer, mushrooms before the first frost." }
+        { "title": "Sápmi, the homeland", "body": "Sápmi covers over 400,000 km² across four nations. Finnish Sápmi (Saamelaisten kotiseutualue) is the northernmost region of Finland, Enontekiö, Inari, and Utsjoki municipalities." },
+        { "title": "Sami languages", "body": "There are nine living Sami languages. North Sami is the most widely spoken. Many traditional recipe names, like <em>bidos</em> and <em>gahkku</em>, come straight from North Sami." },
+        { "title": "Eight seasons, not four", "body": "Sami timekeeping divides the year into eight seasons. Each one fixes what is on the table, ice-fishing in polar night, cloudberry picking in midsummer, mushrooms before the first frost." }
       ]
     },
     "recipesKicker": "Authentic recipes",
@@ -185,23 +185,23 @@
     },
     "recipes": [
       {
-        "name": "Bidos — Traditional Reindeer Stew",
+        "name": "Bidos, Traditional Reindeer Stew",
         "difficulty": "Moderate",
         "time": "3–4 hours",
         "serves": "6–8 people",
         "tradition": "Sami Heritage",
-        "description": "Slow-braised reindeer stew — the soul food of Sami culture for centuries. Simple, warming, and deeply nourishing.",
+        "description": "Slow-braised reindeer stew, the soul food of Sami culture for centuries. Simple, warming, and deeply nourishing.",
         "ingredients": ["1 kg reindeer meat (stewing cut)", "4–5 potatoes, cubed", "2 carrots, sliced", "1 onion, diced", "2 tbsp butter or reindeer fat", "Salt and black pepper to taste", "Fresh dill"],
         "instructions": ["Cut the reindeer meat into 3–4 cm pieces", "Heat the fat in a heavy-bottomed pot over medium-high heat", "Brown the meat thoroughly on all sides", "Add the onion and sauté until translucent", "Pour in water to just cover the meat", "Simmer on low heat for 2–3 hours until the meat is tender", "Add potatoes and carrots in the last hour", "Season generously with salt and pepper", "Garnish with fresh dill and serve"],
-        "tips": "Traditionally cooked over an open fire on low heat for a long time — patience is the secret ingredient."
+        "tips": "Traditionally cooked over an open fire on low heat for a long time, patience is the secret ingredient."
       },
       {
-        "name": "Gahkku — Sami Flatbread",
+        "name": "Gahkku, Sami Flatbread",
         "difficulty": "Easy",
         "time": "45 min + rising",
         "serves": "1 loaf",
         "tradition": "Ancient Sami Recipe",
-        "description": "Simple yet nourishing — a long-lasting bread that has fuelled Arctic journeys for generations.",
+        "description": "Simple yet nourishing, a long-lasting bread that has fuelled Arctic journeys for generations.",
         "ingredients": ["500 g wheat flour", "250 ml lukewarm water", "1 tsp salt", "1 tsp sugar", "1 sachet dried yeast", "2 tbsp oil"],
         "instructions": ["Mix all dry ingredients together", "Add the lukewarm water and oil", "Knead into a smooth dough", "Leave to rise in a warm place for 30 minutes", "Shape into a round loaf", "Bake at 225°C for 25–30 minutes", "The bread is ready when it sounds hollow when tapped"],
         "tips": "Traditionally baked on hot stones or over an open campfire."
@@ -212,7 +212,7 @@
         "time": "45 minutes",
         "serves": "4–6 people",
         "tradition": "Arctic Fishing Culture",
-        "description": "A beloved fish chowder using the cleanest lake fish and wild herbs — a taste of the Arctic shore.",
+        "description": "A beloved fish chowder using the cleanest lake fish and wild herbs, a taste of the Arctic shore.",
         "ingredients": ["800 g fresh lake fish (whitefish or trout)", "1 litre fish stock or water", "3–4 potatoes, cubed", "1 carrot, sliced", "1 onion", "250 ml cream", "Fresh dill", "Salt and white pepper"],
         "instructions": ["Clean and fillet the fish", "Simmer the fish head and bones for stock", "Strain the stock and return to the pot", "Add potatoes and carrots", "Cook for 15 minutes", "Add fish pieces and onion", "Cook for a further 10 minutes", "Stir in cream and dill stems", "Season with salt and white pepper, add fresh dill to serve"],
         "tips": "Old trick: add dill stems during cooking, fresh leaves only at the very end."
@@ -226,32 +226,32 @@
         "description": "The classic way to enjoy Lapland's wild berries. Packed with antioxidants and bursting with natural Arctic flavour.",
         "ingredients": ["500 g mixed berries (bilberries, lingonberries)", "100–150 g sugar to taste", "3 tbsp potato starch", "1 litre water", "Vanilla sugar"],
         "instructions": ["Simmer the berries in water for 10 minutes", "Blend and strain if desired", "Add sugar and vanilla sugar", "Mix potato starch with cold water", "Stir starch mixture into the hot berry liquid", "Cook 2–3 minutes until thickened", "Serve warm or cold"],
-        "tips": "Traditionally sweetened with wild honey rather than sugar — try it both ways."
+        "tips": "Traditionally sweetened with wild honey rather than sugar, try it both ways."
       }
     ],
     "seasons": {
       "kicker": "The Sami calendar",
       "headline": "Eight seasons, eight pantries.",
       "p1": "The four-season calendar is a temperate-Europe assumption. The Sami divide the year into eight, each tied to what the reindeer are doing, what the lake looks like, and what is ripe in the forest. If you want to understand why a Sami kitchen looks the way it looks, you start here.",
-      "p2": "The names below are the North Sami originals. The dates are approximate — Sápmi's seasons run more on phenology (what the land is doing) than on the calendar.",
+      "p2": "The names below are the North Sami originals. The dates are approximate, Sápmi's seasons run more on phenology (what the land is doing) than on the calendar.",
       "items": [
-        { "sami": "Dálvi", "en": "Winter", "when": "Dec – Feb", "body": "Polar night and the deepest cold. Reindeer are in the winter pastures, scraping for lichen under the snow. The household lives off what was preserved in autumn: dried reindeer (suovas), salted fish, frozen berries, rye flour. Bidos is the everyday dinner — slow-cooked fat protein that keeps people warm." },
-        { "sami": "Giđđadálvi", "en": "Spring-winter", "when": "Mar – Apr", "body": "The light comes back. Reindeer calving begins; herders move with the herd. Ice fishing is at its best — the sun is out long enough to fish on the lake without freezing, and the fish are still under thick ice. Smoked whitefish dominates. Days lengthen 7 minutes per day." },
-        { "sami": "Giđđa", "en": "Spring", "when": "May", "body": "Snowmelt. The reindeer move toward summer pastures. The first young birch leaves and nettle shoots appear — the first fresh greens in seven months. Birch sap is collected and either drunk fresh or fermented. The first eggs from migrating birds arrive." },
+        { "sami": "Dálvi", "en": "Winter", "when": "Dec – Feb", "body": "Polar night and the deepest cold. Reindeer are in the winter pastures, scraping for lichen under the snow. The household lives off what was preserved in autumn: dried reindeer (suovas), salted fish, frozen berries, rye flour. Bidos is the everyday dinner, slow-cooked fat protein that keeps people warm." },
+        { "sami": "Giđđadálvi", "en": "Spring-winter", "when": "Mar – Apr", "body": "The light comes back. Reindeer calving begins; herders move with the herd. Ice fishing is at its best, the sun is out long enough to fish on the lake without freezing, and the fish are still under thick ice. Smoked whitefish dominates. Days lengthen 7 minutes per day." },
+        { "sami": "Giđđa", "en": "Spring", "when": "May", "body": "Snowmelt. The reindeer move toward summer pastures. The first young birch leaves and nettle shoots appear, the first fresh greens in seven months. Birch sap is collected and either drunk fresh or fermented. The first eggs from migrating birds arrive." },
         { "sami": "Giđđageassi", "en": "Spring-summer", "when": "Jun", "body": "The first half of the midnight sun. Reindeer give birth; calves run. The ground is finally warm enough for wild herbs (meadowsweet, yarrow, angelica). Baked goods replace stews. Fresh dairy and butter return from the mountain pastures." },
-        { "sami": "Geassi", "en": "Summer", "when": "Jul", "body": "Full midnight sun. The cloudberry harvest — three to six weeks where families spend whole evenings in the bog picking. Herbs are dried for winter; berries are jammed, frozen, or fermented. Lake fishing is daily. The kitchen barely closes." },
-        { "sami": "Čakčageassi", "en": "Autumn-summer", "when": "Aug – early Sep", "body": "Bilberry and lingonberry season. Mushrooms emerge — porcini, milkcaps, chanterelle. Days are still long; nights start to cool. The reindeer are at peak weight. The pantry fills up: jams, salted fish, dried mushrooms, frozen berries." },
+        { "sami": "Geassi", "en": "Summer", "when": "Jul", "body": "Full midnight sun. The cloudberry harvest, three to six weeks where families spend whole evenings in the bog picking. Herbs are dried for winter; berries are jammed, frozen, or fermented. Lake fishing is daily. The kitchen barely closes." },
+        { "sami": "Čakčageassi", "en": "Autumn-summer", "when": "Aug – early Sep", "body": "Bilberry and lingonberry season. Mushrooms emerge, porcini, milkcaps, chanterelle. Days are still long; nights start to cool. The reindeer are at peak weight. The pantry fills up: jams, salted fish, dried mushrooms, frozen berries." },
         { "sami": "Čakča", "en": "Autumn", "when": "Sep – Oct", "body": "The slaughter season. Reindeer are gathered; herders select which animals to slaughter for winter. Meat is processed: smoked, dried (suovas), and frozen. This is the protein bank that has to last seven months. The first frosts sweeten the lingonberries." },
-        { "sami": "Čakčadálvi", "en": "Autumn-winter", "when": "Nov", "body": "The dark returns. Snow settles. Final preserving work — salt fish, lay down jams, take stock. The kitchen leans on warmth: stews, soups, baked rye breads, hot berry juices. The bidos pot is on the stove most days." }
+        { "sami": "Čakčadálvi", "en": "Autumn-winter", "when": "Nov", "body": "The dark returns. Snow settles. Final preserving work, salt fish, lay down jams, take stock. The kitchen leans on warmth: stews, soups, baked rye breads, hot berry juices. The bidos pot is on the stove most days." }
       ]
     },
     "revival": {
       "kicker": "Modern Sami food revival",
       "headline": "Why the recipes are coming back.",
-      "p1": "For most of the 20th century, Sami food existed in two parallel realities. In Sami homes it was just dinner — unselfconscious, unromanticised, the same food the previous generation cooked. Outside Sápmi it was almost invisible: a footnote in tourism brochures, occasionally exoticised, more often ignored.",
-      "p2": "The reversal started in the late 2000s. New Nordic cuisine, kicked off by Copenhagen's Noma, made foraged, hyper-local, indigenous-northern food briefly fashionable in fine-dining rooms across Scandinavia. Finnish chefs noticed that the cuisine the rest of the world was getting excited about — wild herbs, lacto-fermented berries, smoked fish, slow-cooked game — had been on Sami plates for a thousand years. The pipeline ran the other way for a while: Sami techniques and ingredients flowed into Helsinki tasting menus.",
-      "p3": "Then the Sami food world started reclaiming the conversation. Restaurant Aanaar in Inari built a fine-dining programme that is unapologetically Sami first and gastronomic second. The Slow Food Sápmi chapter pushed for protected status for traditional products like <em>suovas</em> (cold-smoked reindeer) and <em>guompa</em> (fermented angelica). Sami chefs started training Sami apprentices instead of sending them to French-classical kitchens. The 2017 Indigenous Terra Madre summit in Inari — global indigenous-food gathering — was a turning point.",
-      "p4": "The current moment is interesting. Sami food is on Helsinki Michelin-listed menus and on the everyday table in Utsjoki, but the recipes are converging less than you'd expect. The fine-dining versions get the technique upgrade — sous-vide, lacto-fermentation, foraged-flower garnish. The home versions stay almost unchanged. Both are valid. The recipes on this page are the home versions.",
+      "p1": "For most of the 20th century, Sami food existed in two parallel realities. In Sami homes it was just dinner, unselfconscious, unromanticised, the same food the previous generation cooked. Outside Sápmi it was almost invisible: a footnote in tourism brochures, occasionally exoticised, more often ignored.",
+      "p2": "The reversal started in the late 2000s. New Nordic cuisine, kicked off by Copenhagen's Noma, made foraged, hyper-local, indigenous-northern food briefly fashionable in fine-dining rooms across Scandinavia. Finnish chefs noticed that the cuisine the rest of the world was getting excited about, wild herbs, lacto-fermented berries, smoked fish, slow-cooked game, had been on Sami plates for a thousand years. The pipeline ran the other way for a while: Sami techniques and ingredients flowed into Helsinki tasting menus.",
+      "p3": "Then the Sami food world started reclaiming the conversation. Restaurant Aanaar in Inari built a fine-dining programme that is unapologetically Sami first and gastronomic second. The Slow Food Sápmi chapter pushed for protected status for traditional products like <em>suovas</em> (cold-smoked reindeer) and <em>guompa</em> (fermented angelica). Sami chefs started training Sami apprentices instead of sending them to French-classical kitchens. The 2017 Indigenous Terra Madre summit in Inari, global indigenous-food gathering, was a turning point.",
+      "p4": "The current moment is interesting. Sami food is on Helsinki Michelin-listed menus and on the everyday table in Utsjoki, but the recipes are converging less than you'd expect. The fine-dining versions get the technique upgrade, sous-vide, lacto-fermentation, foraged-flower garnish. The home versions stay almost unchanged. Both are valid. The recipes on this page are the home versions.",
       "p5Prefix": "If you want to taste the fine-dining interpretation, head to",
       "p5ModernLabel": "Modern Lapland",
       "p5Mid": ". If you want to taste the home version cooked by someone who grew up cooking it, the",
@@ -261,7 +261,7 @@
     "methods": {
       "kicker": "How a pre-stove kitchen worked",
       "headline": "Four traditional cooking methods.",
-      "lead": "All four still show up in fine-dining kitchens across Lapland — chefs use them because they produce flavours nothing modern can replicate. Open fire creates a Maillard reaction at temperatures sous-vide cannot touch. Hot stones bake bread with a specific dryness. Earth ovens braise on retained heat alone. Smoking is, in 2026, still the simplest preservation method humans have.",
+      "lead": "All four still show up in fine-dining kitchens across Lapland, chefs use them because they produce flavours nothing modern can replicate. Open fire creates a Maillard reaction at temperatures sous-vide cannot touch. Hot stones bake bread with a specific dryness. Earth ovens braise on retained heat alone. Smoking is, in 2026, still the simplest preservation method humans have.",
       "items": [
         { "title": "Open Fire", "body": "Grilling and roasting directly over campfire flames" },
         { "title": "Earth Oven", "body": "Slow underground cooking in earth pits" },
@@ -270,7 +270,7 @@
       ]
     },
     "ctaStrip": {
-      "headline": "Cook it at home — or have someone teach you in person.",
+      "headline": "Cook it at home, or have someone teach you in person.",
       "tours": "Cooking experiences",
       "ingredients": "Local ingredients",
       "modern": "Modern interpretations"
@@ -278,7 +278,7 @@
   },
   "modernLapland": {
     "title": "Modern Lapland Cuisine | LaplandFood",
-    "description": "How a new generation of Lapland chefs is rebuilding Arctic cuisine — foraged plates, fermentation, hyperlocal sourcing. The restaurants leading the change.",
+    "description": "How a new generation of Lapland chefs is rebuilding Arctic cuisine, foraged plates, fermentation, hyperlocal sourcing. The restaurants leading the change.",
     "hero": {
       "eyebrow": "Pillar 03 · Modern",
       "title": "The new",
@@ -289,10 +289,10 @@
     },
     "intro": {
       "lead": "The shift took about ten years. Lapland fine dining went from \"tourist hotel restaurant with reindeer pepper steak\" to \"small chef-led tasting-menu rooms that compete with Helsinki on plate-craft.\"",
-      "p1": "Three things made it happen. First, the New Nordic movement that started at Noma in Copenhagen in the mid-2000s reframed everything Scandinavia had been treating as embarrassingly rural — foraged herbs, smoked fish, lacto-fermentation, slow-cooked game, dairy from a single farm — as the sophisticated end of the cuisine. Once that had cultural cover, Lapland chefs who had been doing those things their whole lives had room to put them on a fine-dining plate without apology.",
-      "p2": "Second, the technique came north. Sous-vide circulators got cheaper, vacuum bags became standard, and ingredients that had traditionally been over-cooked into stew (because that was the only way to make a tough cut palatable) could now be cooked to centre-pink at 54 °C and served as the headline protein. Reindeer fillet — a cut that used to be reserved for special occasions because it was so easy to ruin — became the modern Lapland signature. Not because it's trendy, but because the technique finally caught up with the ingredient.",
-      "p3": "Third, the supply chain professionalised. Foragers and small fishermen started selling directly to restaurants instead of through wholesalers. Sami cooperatives certified parts of their reindeer slaughter for restaurant trade. Specialty producers — birch-syrup makers, smokehouses, lingonberry-vinegar fermenters — set up across Lapland to sell to chefs. A modern Lapland tasting menu can list eleven ingredients on a plate and have all of them sourced within 200 kilometres.",
-      "p4": "The four dishes below are signatures from the rooms doing this best. Below the cards is a longer piece on what New Nordic technique actually <em>is</em> — beyond the brand — and how it shows up in a Lapland kitchen."
+      "p1": "Three things made it happen. First, the New Nordic movement that started at Noma in Copenhagen in the mid-2000s reframed everything Scandinavia had been treating as embarrassingly rural, foraged herbs, smoked fish, lacto-fermentation, slow-cooked game, dairy from a single farm, as the sophisticated end of the cuisine. Once that had cultural cover, Lapland chefs who had been doing those things their whole lives had room to put them on a fine-dining plate without apology.",
+      "p2": "Second, the technique came north. Sous-vide circulators got cheaper, vacuum bags became standard, and ingredients that had traditionally been over-cooked into stew (because that was the only way to make a tough cut palatable) could now be cooked to centre-pink at 54 °C and served as the headline protein. Reindeer fillet, a cut that used to be reserved for special occasions because it was so easy to ruin, became the modern Lapland signature. Not because it's trendy, but because the technique finally caught up with the ingredient.",
+      "p3": "Third, the supply chain professionalised. Foragers and small fishermen started selling directly to restaurants instead of through wholesalers. Sami cooperatives certified parts of their reindeer slaughter for restaurant trade. Specialty producers, birch-syrup makers, smokehouses, lingonberry-vinegar fermenters, set up across Lapland to sell to chefs. A modern Lapland tasting menu can list eleven ingredients on a plate and have all of them sourced within 200 kilometres.",
+      "p4": "The four dishes below are signatures from the rooms doing this best. Below the cards is a longer piece on what New Nordic technique actually <em>is</em>, beyond the brand and how it shows up in a Lapland kitchen."
     },
     "dishesKicker": "Four signature dishes",
     "dishesHeadline": "Modern Lapland on the plate.",
@@ -300,19 +300,19 @@
     "dishes": [
       { "name": "Sous-vide Reindeer Fillet & Bilberry Cream", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Classic reindeer cooked to 54 °C, served with wild bilberry sauce and beetroot crisps.", "technique": "Sous-vide", "traditional": "Traditional roasted reindeer", "innovation": "Precision temperature cooking and modern plating", "price": "from €42" },
       { "name": "Arctic Whitefish & Wild Herb Oil", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Lake whitefish cooked confit-style, meadowsweet, berry aïoli, and edible flowers.", "technique": "Confit + molecular gastronomy", "traditional": "Smoked whitefish", "innovation": "Low-temperature cooking + foraged wild flowers", "price": "from €38" },
-      { "name": "7-Course Wild-Berry Tasting Menu", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "A full dinner journey built around Lapland's wild berries — from amuse-bouche to dessert.", "technique": "New Nordic + fermentation", "traditional": "Berry compote and jams", "innovation": "Lacto-fermented berries and natural acidities", "price": "from €85" },
+      { "name": "7-Course Wild-Berry Tasting Menu", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "A full dinner journey built around Lapland's wild berries, from amuse-bouche to dessert.", "technique": "New Nordic + fermentation", "traditional": "Berry compote and jams", "innovation": "Lacto-fermented berries and natural acidities", "price": "from €85" },
       { "name": "Deconstructed Bidos & Bone-Marrow Dust", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "A molecular-gastronomy reimagining of the classic Sami reindeer stew.", "technique": "Deconstruction + spherification", "traditional": "Bidos reindeer stew", "innovation": "Separating and reassembling flavours with modern technique", "price": "from €45" }
     ],
     "techniques": {
       "kicker": "What \"New Nordic\" actually means",
       "headline": "Five techniques that show up on every Lapland tasting menu.",
-      "lead": "\"New Nordic\" is a marketing term for what is, on a plate, a specific set of cooking techniques applied to a specific set of ingredients. Strip the branding and you find the five things below — they are what your menu is doing whether the chef calls it New Nordic, Modern Sami, Arctic Cuisine, or just dinner.",
+      "lead": "\"New Nordic\" is a marketing term for what is, on a plate, a specific set of cooking techniques applied to a specific set of ingredients. Strip the branding and you find the five things below, they are what your menu is doing whether the chef calls it New Nordic, Modern Sami, Arctic Cuisine, or just dinner.",
       "items": [
-        { "title": "Lacto-fermentation", "body": "Salt and time turn raw vegetables and berries into intensely flavoured, mildly acidic preserves. Lacto-fermented bilberries on a meat plate are the classic Lapland move — they cut through the richness of reindeer fat the way capers cut through butter. Look for words like \"fermented\" or \"pickled\" on the menu." },
-        { "title": "Sous-vide", "body": "Vacuum-sealing protein and cooking it in temperature-controlled water at exactly the doneness you want. The reason your reindeer fillet is uniformly pink edge to edge with no grey ring around the middle. Slow, precise, and forgiving — and crucial for a cut as lean as reindeer." },
+        { "title": "Lacto-fermentation", "body": "Salt and time turn raw vegetables and berries into intensely flavoured, mildly acidic preserves. Lacto-fermented bilberries on a meat plate are the classic Lapland move, they cut through the richness of reindeer fat the way capers cut through butter. Look for words like \"fermented\" or \"pickled\" on the menu." },
+        { "title": "Sous-vide", "body": "Vacuum-sealing protein and cooking it in temperature-controlled water at exactly the doneness you want. The reason your reindeer fillet is uniformly pink edge to edge with no grey ring around the middle. Slow, precise, and forgiving and crucial for a cut as lean as reindeer." },
         { "title": "Cold curing & cold smoking", "body": "Salt-and-sugar cure (graavi) is centuries old; cold smoke is centuries older. New Nordic kitchens combine both. A graavisiika (cured whitefish) cold-smoked for 4 hours is the most-served fish opener in Lapland fine dining. The fish is technically raw and the texture is silken." },
-        { "title": "Foraged garnish", "body": "Wild herbs and edible flowers that no commercial supplier in southern Finland can match for freshness. Wood sorrel, meadowsweet flowers, juniper sprouts, pine shoots, fireweed, angelica — the Lapland forester delivers the finishing touches on the plate. Often picked the same morning." },
-        { "title": "Whole-ingredient use", "body": "A trademark of both Sami food and New Nordic cuisine. Bone marrow becomes a sauce thickener. Fish heads become broth. Reindeer hides go to a tannery, not a bin. Restaurants that take this seriously will tell you on the menu — \"from snout to tail\" — and the bill reflects it." }
+        { "title": "Foraged garnish", "body": "Wild herbs and edible flowers that no commercial supplier in southern Finland can match for freshness. Wood sorrel, meadowsweet flowers, juniper sprouts, pine shoots, fireweed, angelica, the Lapland forester delivers the finishing touches on the plate. Often picked the same morning." },
+        { "title": "Whole-ingredient use", "body": "A trademark of both Sami food and New Nordic cuisine. Bone marrow becomes a sauce thickener. Fish heads become broth. Reindeer hides go to a tannery, not a bin. Restaurants that take this seriously will tell you on the menu, \"from snout to tail\" and the bill reflects it." }
       ]
     },
     "stayNear": {
@@ -323,8 +323,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Foraging in Finnish Lapland — Berries, Mushrooms, Herbs | LaplandFood",
-    "description": "Finland's everyman's right and what it means for foragers. When and where to find cloudberries, chanterelles, lingonberries, wild thyme, and birch sap in Lapland.",
+    "title": "Foraging in Finnish Lapland, Berries, Mushrooms, Herbs",
+    "description": "Finland's everyman's right and what it means for foragers, when and where to find cloudberries, chanterelles, lingonberries and birch sap.",
     "hero": {
       "eyebrow": "Pillar 04 · Foraging",
       "title": "The wild",
@@ -335,14 +335,14 @@
     },
     "intro": {
       "lead": "Foraging in Finland is not eccentric. It is a routine summer activity for around 40 % of the population.",
-      "p1": "That number, from the most recent Natural Resources Institute Finland (Luke) household surveys, is the structural fact you need before reading anything else on this page. Picking berries and mushrooms isn't a niche subculture — it is a mainstream Finnish activity that cuts across cities and countryside, age, and income. People talk about their best bog the way other countries talk about their best fishmonger. There is a national vocabulary for it.",
-      "p2": "The legal framework that makes this possible is <em>jokamiehenoikeus</em>, \"everyman's right\" — the centuries-old principle, codified in modern Finnish law, that anyone (citizen or visitor) may walk on, swim from, camp on, and forage from most land in Finland regardless of who owns it. This is not a tolerance or a custom. It is a legal right. The owner cannot legally tell you to leave a forest you are picking berries in, as long as you are not damaging anything and you are not within the immediate yard area of a house.",
-      "p3": "That changes how foraging works. You do not need permission. You do not need to know the landowner. You can step off a road into the forest and pick. The constraints are ethical (don't over-harvest, don't damage the plant) and practical (know what you're picking) — not legal.",
+      "p1": "That number, from the most recent Natural Resources Institute Finland (Luke) household surveys, is the structural fact you need before reading anything else on this page. Picking berries and mushrooms isn't a niche subculture, it is a mainstream Finnish activity that cuts across cities and countryside, age, and income. People talk about their best bog the way other countries talk about their best fishmonger. There is a national vocabulary for it.",
+      "p2": "The legal framework that makes this possible is <em>jokamiehenoikeus</em>, \"everyman's right\", the centuries-old principle, codified in modern Finnish law, that anyone (citizen or visitor) may walk on, swim from, camp on, and forage from most land in Finland regardless of who owns it. This is not a tolerance or a custom. It is a legal right. The owner cannot legally tell you to leave a forest you are picking berries in, as long as you are not damaging anything and you are not within the immediate yard area of a house.",
+      "p3": "That changes how foraging works. You do not need permission. You do not need to know the landowner. You can step off a road into the forest and pick. The constraints are ethical (don't over-harvest, don't damage the plant) and practical (know what you're picking), not legal.",
       "p4": "This page covers the practical side. The five most-picked wild foods in Lapland with proper identification notes. The mushroom-safety section you must read before picking your first one. A season-by-season foraging calendar. The everyman's-right rules in detail. And the case for booking a guided walk for your first time even if you never plan to need a guide again."
     },
     "alert": {
       "kicker": "Read this first",
-      "body": "Mushroom poisoning is real and irreversible. If you cannot identify a mushroom with 100 % certainty — using a guidebook or, better, an experienced local — leave it alone. For your first forage, book a guided walk; one afternoon with a guide is worth a season of guessing."
+      "body": "Mushroom poisoning is real and irreversible. If you cannot identify a mushroom with 100 % certainty, using a guidebook or, better, an experienced local, leave it alone. For your first forage, book a guided walk; one afternoon with a guide is worth a season of guessing."
     },
     "labels": {
       "where": "Where it grows",
@@ -352,41 +352,41 @@
       "sustainability": "Sustainably"
     },
     "items": [
-      { "name": "Bilberry (Vaccinium myrtillus)", "season": "July – September", "difficulty": "Easy", "location": "Dry pine forests and heathlands", "identification": "Low shrub, oval leaves, dark blue-black berries. Stains fingers and tongue blue.", "tips": "Peak picking in mid-August. Only harvest fully ripe berries.", "safety": "Cannot be confused with poisonous look-alikes — safe to pick.", "sustainability": "Pick no more than half the berries on any one plant." },
-      { "name": "Lingonberry (Vaccinium vitis-idaea)", "season": "August – October", "difficulty": "Easy", "location": "Dry pine forests and heathlands", "identification": "Small evergreen shrub, shiny round leaves, bright red berries in clusters.", "tips": "Stores well after a frost. Wait until fully ripe before picking.", "safety": "Distinct from all poisonous berries — easy to identify.", "sustainability": "Leave young and small plants undisturbed." },
-      { "name": "Cloudberry (Rubus chamaemorus)", "season": "July – August", "difficulty": "Moderate", "location": "Bogs and marshland", "identification": "Low-growing plant, three-lobed leaves, single amber-orange berry per stem.", "tips": "Pick only fully ripe berries. Perishable — process quickly after picking.", "safety": "Found only in boggy terrain — watch your step.", "sustainability": "Arctic rarity. Take only what you need." },
-      { "name": "Wild Mushrooms — Porcini & Milkcaps", "season": "July – September", "difficulty": "Challenging", "location": "Old spruce forests and mixed woodland", "identification": "Porcini: brown cap, white stem, spongy underside. Milkcap: funnel shape, milky sap when cut.", "tips": "Dry immediately after picking. Learn identification with 100 % certainty first.", "safety": "CRITICAL: always confirm identification before eating any mushroom.", "sustainability": "Cut at the stem — do not damage the mycelium underneath." },
-      { "name": "Stinging Nettle (Urtica dioica)", "season": "May – August", "difficulty": "Easy", "location": "Nutrient-rich soil, near buildings and clearings", "identification": "Serrated leaves, stings bare skin on contact.", "tips": "Harvest young shoots. Stinging effect disappears completely after drying or cooking.", "safety": "Use gloves when picking.", "sustainability": "Pick only the top leaves — leave the roots intact." }
+      { "name": "Bilberry (Vaccinium myrtillus)", "season": "July – September", "difficulty": "Easy", "location": "Dry pine forests and heathlands", "identification": "Low shrub, oval leaves, dark blue-black berries. Stains fingers and tongue blue.", "tips": "Peak picking in mid-August. Only harvest fully ripe berries.", "safety": "Cannot be confused with poisonous look-alikes, safe to pick.", "sustainability": "Pick no more than half the berries on any one plant." },
+      { "name": "Lingonberry (Vaccinium vitis-idaea)", "season": "August – October", "difficulty": "Easy", "location": "Dry pine forests and heathlands", "identification": "Small evergreen shrub, shiny round leaves, bright red berries in clusters.", "tips": "Stores well after a frost. Wait until fully ripe before picking.", "safety": "Distinct from all poisonous berries, easy to identify.", "sustainability": "Leave young and small plants undisturbed." },
+      { "name": "Cloudberry (Rubus chamaemorus)", "season": "July – August", "difficulty": "Moderate", "location": "Bogs and marshland", "identification": "Low-growing plant, three-lobed leaves, single amber-orange berry per stem.", "tips": "Pick only fully ripe berries. Perishable, process quickly after picking.", "safety": "Found only in boggy terrain, watch your step.", "sustainability": "Arctic rarity. Take only what you need." },
+      { "name": "Wild Mushrooms, Porcini & Milkcaps", "season": "July – September", "difficulty": "Challenging", "location": "Old spruce forests and mixed woodland", "identification": "Porcini: brown cap, white stem, spongy underside. Milkcap: funnel shape, milky sap when cut.", "tips": "Dry immediately after picking. Learn identification with 100 % certainty first.", "safety": "CRITICAL: always confirm identification before eating any mushroom.", "sustainability": "Cut at the stem, do not damage the mycelium underneath." },
+      { "name": "Stinging Nettle (Urtica dioica)", "season": "May – August", "difficulty": "Easy", "location": "Nutrient-rich soil, near buildings and clearings", "identification": "Serrated leaves, stings bare skin on contact.", "tips": "Harvest young shoots. Stinging effect disappears completely after drying or cooking.", "safety": "Use gloves when picking.", "sustainability": "Pick only the top leaves, leave the roots intact." }
     ],
     "mushroomSafety": {
       "kicker": "Mushroom safety",
       "headline": "Read this before you pick a single mushroom.",
       "p1": "The mushroom-safety conversation in Finland is calm, precise, and unforgiving. It is the most controlled risk in the foraging culture. Most years, the Finnish Poison Information Centre handles a few hundred mushroom-related calls; serious poisonings are rare; deaths in any given year are most often from a single species, the death cap (<em>Amanita phalloides</em>), and a near-identical cousin, the destroying angel (<em>Amanita virosa</em>).",
-      "p2": "<strong>The death cap and destroying angel are present in Finnish forests.</strong> Both are deadly even in tiny quantities — there is no antidote and the toxicity is delayed (you feel fine for 6–24 hours, then your liver starts to fail). The destroying angel is white, looks innocuous, and grows in spruce and birch forests across the country including Lapland. Several other common Finnish mushrooms are gastrically toxic, hallucinogenic, or simply unpleasant.",
+      "p2": "<strong>The death cap and destroying angel are present in Finnish forests.</strong> Both are deadly even in tiny quantities, there is no antidote and the toxicity is delayed (you feel fine for 6–24 hours, then your liver starts to fail). The destroying angel is white, looks innocuous, and grows in spruce and birch forests across the country including Lapland. Several other common Finnish mushrooms are gastrically toxic, hallucinogenic, or simply unpleasant.",
       "rulesIntro": "<strong>The five rules every Finnish picker follows:</strong>",
       "rules": [
-        "If you are not 100 % certain of the species — not 90 %, not \"it looks like a porcini\" — don't pick it. There is no exception to this rule.",
+        "If you are not 100 % certain of the species, not 90 %, not \"it looks like a porcini\", don't pick it. There is no exception to this rule.",
         "Cross-check with two independent sources: a guidebook, an app (Pikkupilkku and iNaturalist are both useful), and ideally an experienced human.",
-        "Pay attention to <em>everything</em>: cap shape, gills or pores, stem ring, base of the stem (always dig the whole thing up — many deadly species are identified by the cup at the base), spore print, smell, where it's growing, what it's growing on.",
+        "Pay attention to <em>everything</em>: cap shape, gills or pores, stem ring, base of the stem (always dig the whole thing up, many deadly species are identified by the cup at the base), spore print, smell, where it's growing, what it's growing on.",
         "Never pick from a single perspective. Carry the whole mushroom home and check again in good light. If anything is ambiguous, throw it out.",
         "Cook all wild mushrooms before eating, even the ones that are technically edible raw. This is a Finnish convention rather than a strict rule, but it is what every experienced picker does."
       ],
-      "p4": "<strong>The four mushrooms a beginner can learn to identify safely</strong> in a single afternoon with a guidebook are: porcini / cep (<em>Boletus edulis</em>), false morel (<em>Gyromitra esculenta</em> — but <strong>only after parboiling twice and discarding the water</strong>; many Finns will tell you it is delicious, many others will tell you to avoid it entirely; both are right), saffron milk cap (<em>Lactarius deliciosus</em>), and chanterelle (<em>Cantharellus cibarius</em>). Of these, porcini and chanterelle have no dangerous look-alikes in Finland and are the recommended starting points.",
-      "p5": "If you are going to pick mushrooms in Lapland for the first time, do it with someone who already knows. The cost-to-confidence ratio of a 4-hour guided walk is unbeatable — and in Lapland the guides are typically Sami foragers who learned this from their grandparents, not commercial guides reading from a script."
+      "p4": "<strong>The four mushrooms a beginner can learn to identify safely</strong> in a single afternoon with a guidebook are: porcini / cep (<em>Boletus edulis</em>), false morel (<em>Gyromitra esculenta</em>, but <strong>only after parboiling twice and discarding the water</strong>; many Finns will tell you it is delicious, many others will tell you to avoid it entirely; both are right), saffron milk cap (<em>Lactarius deliciosus</em>), and chanterelle (<em>Cantharellus cibarius</em>). Of these, porcini and chanterelle have no dangerous look-alikes in Finland and are the recommended starting points.",
+      "p5": "If you are going to pick mushrooms in Lapland for the first time, do it with someone who already knows. The cost-to-confidence ratio of a 4-hour guided walk is unbeatable and in Lapland the guides are typically Sami foragers who learned this from their grandparents, not commercial guides reading from a script."
     },
     "calendar": {
       "kicker": "Seasonal calendar",
       "headline": "Month by month, what is in the forest.",
-      "lead": "Lapland's foraging window is short and intense — roughly May through late September. Inside that window, every two weeks the dominant target shifts. This is the calendar a local picker plans the summer by.",
+      "lead": "Lapland's foraging window is short and intense, roughly May through late September. Inside that window, every two weeks the dominant target shifts. This is the calendar a local picker plans the summer by.",
       "items": [
         { "month": "May", "body": "Snow recedes. First nettles, first young birch leaves, birch sap (drilled from the trunk and drunk fresh, used in syrup, or fermented). Cold, but the foraging year has started." },
-        { "month": "June", "body": "Wild herbs peak — meadowsweet, yarrow, angelica, sorrel. The first fresh greens after seven months. Some early herbs are dried for winter teas." },
-        { "month": "July (early)", "body": "The herb window closes; everything is leafing aggressively. The bog plants flower — cloudberry blooms have set. This is the calm before the picking storm." },
-        { "month": "July (late) – early August", "body": "Cloudberry season — typically a 3-week window depending on bog location. The most intensive picking activity of the year. Many Finnish offices effectively pause for it." },
-        { "month": "August", "body": "Bilberry peaks. First lingonberries (still tart). First mushrooms — chanterelle is usually first, porcini second. Long-light evenings make this the best month for foraging-and-cooking." },
-        { "month": "September", "body": "Lingonberry sweetens after first frost. Mushroom season at its peak — porcini, milkcaps, chanterelle, ceps. Days shortening fast; pickers are out from sunrise." },
-        { "month": "October", "body": "Last mushrooms. Last lingonberries (now best after night frosts). Final preserving work — drying, jamming, freezing. The calendar essentially closes after first heavy snow." },
-        { "month": "November – April", "body": "Forest dormancy. Foraging stops. Indoor work — preserving, smoking, drying, fermenting — picks up. Ice fishing replaces foraging for fresh protein." }
+        { "month": "June", "body": "Wild herbs peak, meadowsweet, yarrow, angelica, sorrel. The first fresh greens after seven months. Some early herbs are dried for winter teas." },
+        { "month": "July (early)", "body": "The herb window closes; everything is leafing aggressively. The bog plants flower, cloudberry blooms have set. This is the calm before the picking storm." },
+        { "month": "July (late) – early August", "body": "Cloudberry season, typically a 3-week window depending on bog location. The most intensive picking activity of the year. Many Finnish offices effectively pause for it." },
+        { "month": "August", "body": "Bilberry peaks. First lingonberries (still tart). First mushrooms, chanterelle is usually first, porcini second. Long-light evenings make this the best month for foraging-and-cooking." },
+        { "month": "September", "body": "Lingonberry sweetens after first frost. Mushroom season at its peak, porcini, milkcaps, chanterelle, ceps. Days shortening fast; pickers are out from sunrise." },
+        { "month": "October", "body": "Last mushrooms. Last lingonberries (now best after night frosts). Final preserving work, drying, jamming, freezing. The calendar essentially closes after first heavy snow." },
+        { "month": "November – April", "body": "Forest dormancy. Foraging stops. Indoor work, preserving, smoking, drying, fermenting, picks up. Ice fishing replaces foraging for fresh protein." }
       ]
     },
     "rights": {
@@ -397,7 +397,7 @@
         "Walk, ski, cycle, ride, and otherwise move through forests, meadows, and uncultivated land.",
         "Pick wild berries, mushrooms, and unprotected wildflowers and herbs.",
         "Fish with a single rod and lure (no permit needed for basic angling, the fisheries management fee covers most lakes).",
-        "Camp temporarily — typically one night — on most uncultivated land, away from houses.",
+        "Camp temporarily, typically one night, on most uncultivated land, away from houses.",
         "Swim, wash, and use water from any water body, including private ones.",
         "Cross frozen lakes and rivers, snowmobile or ski on most uncultivated terrain (with snowmobile-specific rules)."
       ],
@@ -407,7 +407,7 @@
         "Hunt or trap (separate licences required).",
         "Drive a motor vehicle off-road outside marked tracks (snowmobiles have their own rules).",
         "Light an open fire on someone's land without permission. Use marked fire pits, or get the landowner's OK.",
-        "Pick from a cultivated garden, orchard, or field — these are not \"uncultivated land\".",
+        "Pick from a cultivated garden, orchard, or field, these are not \"uncultivated land\".",
         "Disturb a private home's immediate yard area (within sight of the house).",
         "Leave litter. Whatever you bring in, you take out."
       ],
@@ -421,19 +421,19 @@
   },
   "foodTours": {
     "title": "Food Tours in Finnish Lapland | LaplandFood",
-    "description": "Guided food experiences in Lapland — reindeer farms, foraging walks, fish smoking, wilderness lunches, and chef's table evenings. How to book and what to expect.",
+    "description": "Guided food experiences in Lapland, reindeer farms, foraging walks, fish smoking, wilderness lunches and chef's table evenings. How to book.",
     "hero": {
       "eyebrow": "Pillar 06 · Tours",
       "title": "Eat your way",
       "titleHighlight": "around Lapland.",
-      "subtitle": "Three bookable food experiences that go deeper than a tasting menu — Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner.",
+      "subtitle": "Three bookable food experiences that go deeper than a tasting menu, Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner.",
       "primaryCta": "Browse all on GetYourGuide"
     },
     "intro": {
       "lead": "The food experiences in Lapland that are worth your money are the ones that put you in front of the people who actually do this for a living.",
-      "p1": "Skip the restaurant-tour-with-a-coach treatment. The trips below are small-group, often booked direct with the operator, and led by Sami foragers, fine-dining chefs, or working reindeer herders. You eat, but the bigger thing is access — to a herd, to a chef's kitchen, to a forager's favourite bog. Most cost less than a Helsinki tasting menu and last twice as long.",
-      "p2": "Three trips cover most of what visitors look for. The <strong>Sami Culture Food Journey</strong> goes deep on Sami foodways — bidos with a herder, traditional bread baking, a foraging session, the cultural context. The <strong>Arctic Fine-Dining Experience</strong> is a single intensive day that gets you a back-of-house kitchen tour, a cooking masterclass, and a multi-course dinner with wine pairing — the full Lapland equivalent of a Copenhagen culinary day. The <strong>Wild Foraging Expedition</strong> is the single best afternoon a beginner can spend with a Sami forager — learn safe identification, fill a basket, then cook what you picked over a campfire.",
-      "p3": "All three are bookable through GetYourGuide. We surface the search results for each so you see live availability and current prices — operators rotate, dates change, prices shift. The \"Check availability\" button on each card runs a live GYG search, not a fixed product page."
+      "p1": "Skip the restaurant-tour-with-a-coach treatment. The trips below are small-group, often booked direct with the operator, and led by Sami foragers, fine-dining chefs, or working reindeer herders. You eat, but the bigger thing is access, to a herd, to a chef's kitchen, to a forager's favourite bog. Most cost less than a Helsinki tasting menu and last twice as long.",
+      "p2": "Three trips cover most of what visitors look for. The <strong>Sami Culture Food Journey</strong> goes deep on Sami foodways, bidos with a herder, traditional bread baking, a foraging session, the cultural context. The <strong>Arctic Fine-Dining Experience</strong> is a single intensive day that gets you a back-of-house kitchen tour, a cooking masterclass, and a multi-course dinner with wine pairing, the full Lapland equivalent of a Copenhagen culinary day. The <strong>Wild Foraging Expedition</strong> is the single best afternoon a beginner can spend with a Sami forager, learn safe identification, fill a basket, then cook what you picked over a campfire.",
+      "p3": "All three are bookable through GetYourGuide. We surface the search results for each so you see live availability and current prices, operators rotate, dates change, prices shift. The \"Check availability\" button on each card runs a live GYG search, not a fixed product page."
     },
     "listKicker": "Three trips worth taking",
     "listHeadline": "Book one of these.",
@@ -478,50 +478,50 @@
   },
   "michelinDining": {
     "title": "Fine Dining & Michelin Restaurants in Lapland | LaplandFood",
-    "description": "Where the Michelin guide pays attention in Finnish Lapland — Restaurant Aanaar, Tundrea, Trattoria Levi, and the Lapland kitchens worth a long drive.",
+    "description": "Where the Michelin guide pays attention in Finnish Lapland, Restaurant Aanaar, Tundrea, Trattoria Levi, and the Lapland kitchens worth a long drive.",
     "hero": {
       "eyebrow": "Pillar 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& fine dining.",
-      "subtitle": "Finland's Michelin scene at a glance — what is starred, where, what is pushing fine dining inside the Arctic Circle, and how to actually book a table.",
+      "subtitle": "Finland's Michelin scene at a glance, what is starred, where, what is pushing fine dining inside the Arctic Circle, and how to actually book a table.",
       "primaryCta": "Where to book in Lapland",
       "secondaryCta": "Helsinki rooms"
     },
     "factsKicker": "The state of fine dining in Finland",
     "factsHeadline": "Three things to know first.",
-    "factsLeadPrefix": "The Michelin Guide for Nordic countries updates each year — for the current star list always check",
+    "factsLeadPrefix": "The Michelin Guide for Nordic countries updates each year, for the current star list always check",
     "factsLeadSuffix": ". The structural picture below is stable and is the right starting point if you're planning a fine-dining trip to Finland.",
     "facts": [
-      { "title": "Helsinki carries the stars", "body": "Finland's Michelin-listed restaurants are concentrated in Helsinki — every starred Finnish restaurant in recent editions of the Nordic Guide has been in the capital. Turku and Tampere have been on inspectors' radar but stars come and go." },
-      { "title": "Lapland is fine-dining ambitious", "body": "Lapland itself does not currently hold a Michelin star, but its premium restaurants — Nili, Aanaar, Rakas — are pushing what a tasting-menu evening looks like inside the Arctic Circle, with foraged ingredients no Helsinki kitchen can match for freshness." },
+      { "title": "Helsinki carries the stars", "body": "Finland's Michelin-listed restaurants are concentrated in Helsinki, every starred Finnish restaurant in recent editions of the Nordic Guide has been in the capital. Turku and Tampere have been on inspectors' radar but stars come and go." },
+      { "title": "Lapland is fine-dining ambitious", "body": "Lapland itself does not currently hold a Michelin star, but its premium restaurants, Nili, Aanaar, Rakas, are pushing what a tasting-menu evening looks like inside the Arctic Circle, with foraged ingredients no Helsinki kitchen can match for freshness." },
       { "title": "Reservations matter", "body": "Lapland flagships are small (often 30–60 covers) and the chef-table seats fill fastest. Book peak winter (mid-Dec → Feb) and the midnight-sun window (Jun 6 → Jul 7) at least 6–8 weeks ahead. Helsinki Michelin rooms regularly have 4–6 week waits." }
     ],
     "helsinki": {
       "kicker": "Helsinki Michelin",
       "headline": "Eight rooms worth booking in Helsinki.",
-      "lead": "Star designations change year to year — verify the current list on the Guide before booking. The eight below are the rooms that have been in or close to the Guide consistently and that travellers come back to talk about. Price band uses the Michelin Guide convention: € (under €40 pp), €€ (€40–€80), €€€ (€80–€140), €€€€ (€140+).",
+      "lead": "Star designations change year to year, verify the current list on the Guide before booking. The eight below are the rooms that have been in or close to the Guide consistently and that travellers come back to talk about. Price band uses the Michelin Guide convention: € (under €40 pp), €€ (€40–€80), €€€ (€80–€140), €€€€ (€140+).",
       "ctaHotels": "Hotels in Helsinki",
-      "footnote": "Independent editorial. Not affiliated with the Michelin Guide. Star designations and Bib Gourmand listings are valid only as of the current Nordic Guide edition — check guide.michelin.com before you book.",
+      "footnote": "Independent editorial. Not affiliated with the Michelin Guide. Star designations and Bib Gourmand listings are valid only as of the current Nordic Guide edition, check guide.michelin.com before you book.",
       "rooms": [
         { "name": "Olo", "where": "Pohjoisesplanadi, Helsinki", "angle": "Long-standing fine-dining institution. Tasting menus rooted in Finnish ingredients with classical Nordic technique.", "band": "€€€€" },
-        { "name": "Palace", "where": "10th floor, Eteläranta — harbour view", "angle": "Old-school Helsinki harbour view, modern execution. Classic Finnish fish course (kuha pike-perch) is the signature.", "band": "€€€€" },
+        { "name": "Palace", "where": "10th floor, Eteläranta, harbour view", "angle": "Old-school Helsinki harbour view, modern execution. Classic Finnish fish course (kuha pike-perch) is the signature.", "band": "€€€€" },
         { "name": "Demo", "where": "Uudenmaankatu, Helsinki", "angle": "Compact tasting-menu room, ingredient-led, often cited in the Guide for value-versus-skill ratio.", "band": "€€€" },
         { "name": "Grön", "where": "Albertinkatu, Helsinki", "angle": "Plant-led tasting menu (vegetables, fish, foraged) with a tight wine pairing. Books out fastest in the city.", "band": "€€€€" },
-        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Sami-influenced fine dining — same chef pedigree as Olo, smaller room, more focused.", "band": "€€€€" },
+        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Sami-influenced fine dining, same chef pedigree as Olo, smaller room, more focused.", "band": "€€€€" },
         { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Modern Nordic in a residential room. Often praised for chef Sasu Laukkonen's ingredient-driven menu.", "band": "€€€€" },
-        { "name": "Finnjävel", "where": "Helsinki", "angle": "Modern Finnish — re-imagined classics. Less hushed than the others; more theatrical service.", "band": "€€€" },
+        { "name": "Finnjävel", "where": "Helsinki", "angle": "Modern Finnish, re-imagined classics. Less hushed than the others; more theatrical service.", "band": "€€€" },
         { "name": "Ultima", "where": "Helsinki", "angle": "Tasting menu sourced from a vertical farm in the basement. The most genuinely \"Helsinki 2026\" room on this list.", "band": "€€€€" }
       ]
     },
     "lapland": {
       "kicker": "Lapland fine dining",
       "headline": "Three rooms to book.",
-      "lead": "These are the kitchens that take the cooking seriously enough to compete with Helsinki on plate-craft, while sourcing entirely from Lapland. None hold a Michelin star at the time of writing — but in a five-year horizon any of them could.",
+      "lead": "These are the kitchens that take the cooking seriously enough to compete with Helsinki on plate-craft, while sourcing entirely from Lapland. None hold a Michelin star at the time of writing, but in a five-year horizon any of them could.",
       "labels": { "signature": "Signature plates", "band": "Price band", "booking": "Booking", "hotelsNearPrefix": "Hotels near" },
       "rooms": [
-        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, central Rovaniemi · 5-minute walk from the train station", "angle": "The most-cited fine-dining room in Lapland. Sami-rooted plates — sous-vide reindeer fillet with bilberry reduction is the signature — alongside a wild-berry programme that leans on what Inari foragers brought in that morning. Open kitchen, warm wood interior, 60 covers.", "signature": "Sous-vide reindeer fillet · pine-cured Arctic char · cloudberry parfait", "band": "€€€ — tasting menu €68 · à la carte mains €28–€42", "booking": "Book 3–4 weeks ahead in summer / December. Walk-ins possible Tue–Wed." },
-        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · on the Juutuanjoki river", "angle": "The closest thing to a destination dining experience deep in Sami country. Chef builds menus around Inari's eight Sami seasons — lacto-fermented bilberries, smoked reindeer heart, cold-cured Arctic char — and the wine list is unusually deep for a town of 7,000.", "signature": "7-course wild-berry tasting · smoked reindeer heart · birch-syrup parfait", "band": "€€€€ — tasting menu €85, with paired wines €145", "booking": "Two seatings per night, 32 covers total. Book 6–8 weeks ahead in winter and midnight-sun window." },
-        { "name": "Rakas at Arctic TreeHouse Hotel", "city": "Rovaniemi · Santa Park area", "address": "Tarvantie 3, 7 km from central Rovaniemi · taxi or hotel shuttle", "angle": "Glass-roofed dining room facing north — fully panoramic over the spruce forest, designed so you can watch the aurora during the tasting menu in winter. Confit Arctic whitefish under wild-herb oil is the room's signature, plated with foraged microgreens and edible flowers.", "signature": "Confit Arctic whitefish · pine-cured trout · chocolate–lingonberry dome", "band": "€€€€ — 4-course menu €78 · 7-course menu €115", "booking": "Hotel guests get priority. Non-guests book 4 weeks ahead in winter." }
+        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, central Rovaniemi · 5-minute walk from the train station", "angle": "The most-cited fine-dining room in Lapland. Sami-rooted plates, sous-vide reindeer fillet with bilberry reduction is the signature, alongside a wild-berry programme that leans on what Inari foragers brought in that morning. Open kitchen, warm wood interior, 60 covers.", "signature": "Sous-vide reindeer fillet · pine-cured Arctic char · cloudberry parfait", "band": "€€€, tasting menu €68 · à la carte mains €28–€42", "booking": "Book 3–4 weeks ahead in summer / December. Walk-ins possible Tue–Wed." },
+        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · on the Juutuanjoki river", "angle": "The closest thing to a destination dining experience deep in Sami country. Chef builds menus around Inari's eight Sami seasons, lacto-fermented bilberries, smoked reindeer heart, cold-cured Arctic char and the wine list is unusually deep for a town of 7,000.", "signature": "7-course wild-berry tasting · smoked reindeer heart · birch-syrup parfait", "band": "€€€€, tasting menu €85, with paired wines €145", "booking": "Two seatings per night, 32 covers total. Book 6–8 weeks ahead in winter and midnight-sun window." },
+        { "name": "Rakas at Arctic TreeHouse Hotel", "city": "Rovaniemi · Santa Park area", "address": "Tarvantie 3, 7 km from central Rovaniemi · taxi or hotel shuttle", "angle": "Glass-roofed dining room facing north, fully panoramic over the spruce forest, designed so you can watch the aurora during the tasting menu in winter. Confit Arctic whitefish under wild-herb oil is the room's signature, plated with foraged microgreens and edible flowers.", "signature": "Confit Arctic whitefish · pine-cured trout · chocolate–lingonberry dome", "band": "€€€€, 4-course menu €78 · 7-course menu €115", "booking": "Hotel guests get priority. Non-guests book 4 weeks ahead in winter." }
       ]
     },
     "courseFlow": {
@@ -529,13 +529,13 @@
       "headline": "A Finnish tasting menu, course by course.",
       "lead": "The structure is consistent across both Helsinki Michelin rooms and Lapland's flagship kitchens. Knowing the rough flow helps you pace the wine, leave room for dessert, and not panic when the bill arrives.",
       "items": [
-        { "n": "01", "label": "Welcome bites", "body": "Two or three small bites at the table — pickled vegetables, smoked fish on rye, a foraged-herb broth shot. Sets the seasonal tone." },
-        { "n": "02", "label": "Cold opener", "body": "Arctic char or whitefish in some form — cured, smoked, or as tartare. Almost always with a foraged-herb element." },
+        { "n": "01", "label": "Welcome bites", "body": "Two or three small bites at the table, pickled vegetables, smoked fish on rye, a foraged-herb broth shot. Sets the seasonal tone." },
+        { "n": "02", "label": "Cold opener", "body": "Arctic char or whitefish in some form, cured, smoked, or as tartare. Almost always with a foraged-herb element." },
         { "n": "03", "label": "Hot starter", "body": "Mushroom or root vegetable dish in autumn; berry or herb-led plate in summer. Where chefs show off their fermentation work." },
         { "n": "04", "label": "Fish course", "body": "Pike-perch, trout, or pike, depending on what the local fishermen brought in. Cooked to centre-pink, with a butter-or-cream sauce." },
         { "n": "05", "label": "Reindeer or game", "body": "The main protein. Fillet sous-vide, slow-braised shoulder, or smoked saddle. Bilberry, lingonberry, or juniper anchor the plate." },
-        { "n": "06", "label": "Cheese (optional)", "body": "Aged Finnish cheese — Lappi or Tervaleipäjuusto-style — with a tar-honey or cloudberry preserve." },
-        { "n": "07", "label": "Pre-dessert", "body": "A small palate cleanser — birch-sap sorbet, cloudberry consommé, lingonberry granita." },
+        { "n": "06", "label": "Cheese (optional)", "body": "Aged Finnish cheese, Lappi or Tervaleipäjuusto-style, with a tar-honey or cloudberry preserve." },
+        { "n": "07", "label": "Pre-dessert", "body": "A small palate cleanser, birch-sap sorbet, cloudberry consommé, lingonberry granita." },
         { "n": "08", "label": "Dessert", "body": "Cloudberry parfait or chocolate–lingonberry dome are the two most common. Coffee comes in a copper kettle." }
       ]
     },
@@ -560,16 +560,16 @@
   },
   "about": {
     "title": "About LaplandFood",
-    "description": "About LaplandFood — written by people who actually eat in Finnish Lapland. Editorial standards, sourcing, affiliate disclosure.",
+    "description": "About LaplandFood, written by people who actually eat in Finnish Lapland. Editorial standards, sourcing, affiliate disclosure.",
     "hero": {
       "kicker": "About LaplandFood",
       "headline": "Finnish food, written from the inside.",
-      "lead": "LaplandFood is the cultural-map sister site in the LaplandVibes network — independent editorial about Finnish food culture, sourcing, traditional Sami recipes, modern Arctic kitchens, and where to actually eat in Lapland."
+      "lead": "LaplandFood is the cultural-map sister site in the LaplandVibes network, independent editorial about Finnish food culture, sourcing, traditional Sami recipes, modern Arctic kitchens, and where to actually eat in Lapland."
     },
     "why": {
       "headline": "Why this site exists.",
-      "p1": "Most of what is written about Lapland food in English exists in two registers. There is the brochure register — \"magical Sami flavours under the midnight sun,\" vague, breathless, ingredient-shy. And there is the academic register — careful, fully-referenced ethnography that nobody reads on a phone before booking dinner.",
-      "p2": "We try to occupy the gap. Plain editorial sentences. Specific ingredients and specific restaurants. Numbers where numbers help — how many reindeer cooperatives, what a tasting menu actually costs, when the cloudberry window closes — and no numbers at all when they would just be filler. Written from inside the Arctic Circle, not from a desk in London or Helsinki.",
+      "p1": "Most of what is written about Lapland food in English exists in two registers. There is the brochure register, \"magical Sami flavours under the midnight sun,\" vague, breathless, ingredient-shy. And there is the academic register, careful, fully-referenced ethnography that nobody reads on a phone before booking dinner.",
+      "p2": "We try to occupy the gap. Plain editorial sentences. Specific ingredients and specific restaurants. Numbers where numbers help, how many reindeer cooperatives, what a tasting menu actually costs, when the cloudberry window closes and no numbers at all when they would just be filler. Written from inside the Arctic Circle, not from a desk in London or Helsinki.",
       "p3": "The bar we hold ourselves to: <strong>a friend visiting Lapland for the first time should be able to read three pages here and leave with enough context to plan a real food trip.</strong> If a section doesn't pass that test we rewrite it."
     },
     "cover": {
@@ -577,11 +577,11 @@
       "lead": "Six pillars. Each is a deep page that could stand alone. Together they form the field guide we wish had existed when we started writing about this region.",
       "items": [
         { "t": "Local Ingredients", "body": "What grows, swims, and grazes here. Reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Where they come from, when they peak.", "href": "/local-ingredients" },
-        { "t": "Traditional Recipes", "body": "Bidos, Gahkku, Sápmi fish soup, wild-berry kissel — plus the cultural context that explains why they look the way they do.", "href": "/traditional-recipes" },
+        { "t": "Traditional Recipes", "body": "Bidos, Gahkku, Sápmi fish soup, wild-berry kissel, plus the cultural context that explains why they look the way they do.", "href": "/traditional-recipes" },
         { "t": "Modern Lapland", "body": "New Nordic technique applied to Lapland ingredients. Sous-vide, fermentation, cold curing, foraged garnish. Where to taste it.", "href": "/modern-lapland" },
         { "t": "Foraging Guide", "body": "Five core wild foods, mushroom safety in detail, an 8-month seasonal calendar, and the everyman's right that makes it all legal.", "href": "/foraging-guide" },
         { "t": "Michelin & Fine Dining", "body": "Helsinki's Michelin scene, Lapland's three flagship rooms, what a tasting menu actually looks like, how booking works.", "href": "/michelin-dining" },
-        { "t": "Food Tours & Cooking Classes", "body": "The food experiences worth booking — Sami food journeys, fine-dining tours, foraging walks. Curated, not exhaustive.", "href": "/food-tours" }
+        { "t": "Food Tours & Cooking Classes", "body": "The food experiences worth booking, Sami food journeys, fine-dining tours, foraging walks. Curated, not exhaustive.", "href": "/food-tours" }
       ]
     },
     "principles": {
@@ -591,7 +591,7 @@
         { "t": "Recommend like you would to a friend", "body": "The simplest filter. Every restaurant, tour, ingredient supplier, and producer on this site is one we would send a friend to. If we wouldn't, it doesn't go on the page." },
         { "t": "Specifics over vibes", "body": "A claim like \"the best fine dining in Lapland\" is meaningless without specifics. We tell you what to order, what it costs, when to book, where to walk in from. Anything we can't pin down to a specific, we leave out." },
         { "t": "Affiliate doesn't change the editorial", "body": "Some booking links pay us a commission if you book through them. None of those links unlock content, change the order of recommendations, or buy a place on the page. The same restaurants would be on the page if no affiliate programme existed." },
-        { "t": "No fake stats, no fake quotes", "body": "If we cite a number, it has a source we could point to. If we quote a chef, we spoke to them. If we are uncertain about something — current Michelin star count, the exact year a tradition started — we say so and link out to the authoritative source." },
+        { "t": "No fake stats, no fake quotes", "body": "If we cite a number, it has a source we could point to. If we quote a chef, we spoke to them. If we are uncertain about something, current Michelin star count, the exact year a tradition started, we say so and link out to the authoritative source." },
         { "t": "Update over delete", "body": "Restaurants close, chefs move, prices shift. When we discover a page is wrong we update it with a date stamp. We don't pretend the wrong version never existed." }
       ]
     },
@@ -606,9 +606,9 @@
     },
     "contact": {
       "headline": "Get in touch.",
-      "p1Prefix": "For all enquiries — editorial, partnerships, press, corrections, factual disputes — write to",
+      "p1Prefix": "For all enquiries, editorial, partnerships, press, corrections, factual disputes, write to",
       "p1Suffix": ". We answer in Finnish or English, usually within two working days.",
-      "p2": "<strong>If you spot something wrong</strong> — a closed restaurant, a wrong opening time, a price that doesn't match reality, a fact we got wrong — please tell us. We update faster than we publish.",
+      "p2": "<strong>If you spot something wrong</strong>, a closed restaurant, a wrong opening time, a price that doesn't match reality, a fact we got wrong, please tell us. We update faster than we publish.",
       "p3Prefix": "For privacy, terms, and cookie policy, see",
       "privacyLabel": "Privacy",
       "termsLabel": "Terms",

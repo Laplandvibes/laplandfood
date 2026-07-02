@@ -83,7 +83,7 @@ export default function FoodTours() {
                 return (
                   <article key={tour.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                      <img src={meta.image} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                      <img src={meta.image} alt={tour.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                       <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
                       <div className="absolute top-4 left-5 right-5 flex items-start justify-between">
                         <span className="inline-flex items-center gap-1 bg-white/90 backdrop-blur text-[#002F6C] text-xs font-semibold px-3 py-1.5 rounded-full">
@@ -120,7 +120,7 @@ export default function FoodTours() {
                             <span className="leading-snug">{h}</span>
                           </li>
                         ))}
-                        {tour.highlights.length > 3 && <li className="text-xs text-[#002F6C]/55 pl-3">+ {tour.highlights.length - 3} {t('foodTours.moreLabel')}</li>}
+                        {tour.highlights.length > 3 && <li className="text-xs text-[#002F6C]/75 pl-3">+ {tour.highlights.length - 3} {t('foodTours.moreLabel')}</li>}
                       </ul>
 
                       <a href={href} target="_blank" rel="sponsored nofollow noopener" className="block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">

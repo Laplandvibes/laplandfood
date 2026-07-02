@@ -1,0 +1,95 @@
+{
+  "site": {
+    "name": "LaplandFood",
+    "tagline": "Esskultur, Zutaten und Rezepte aus Finnisch-Lappland"
+  },
+  "lang": {
+    "currentEN": "EN",
+    "currentFI": "FI",
+    "currentDE": "DE",
+    "switchTo": "Sprache wechseln"
+  },
+  "cta": {
+    "readMore": "Weiterlesen",
+    "viewAll": "Alle anzeigen",
+    "loading": "Wird geladen…",
+    "subscribe": "Abonnieren",
+    "close": "Schließen"
+  },
+  "affiliateDisclosure": {
+    "page": "Diese Seite enthält Partnerlinks. Wenn Sie über diese Links buchen, erhält LaplandVibes ggf. eine Provision, für Sie ohne Aufpreis."
+  },
+  "footer": {
+    "networkBadge": "Finnisch-Lappland-Netzwerk",
+    "tagline": "Der umfassendste digitale Reiseführer für Finnisch-Lappland.",
+    "groups": {
+      "stay": "Übernachten",
+      "eatDrink": "Essen und Trinken",
+      "do": "Aktivitäten",
+      "explore": "Entdecken",
+      "essentials": "Praktisches"
+    },
+    "travelGuideKicker": "Lappland-Reiseführer",
+    "foodPillars": {
+      "fineDining": "Fine Dining",
+      "barsPubs": "Bars und Pubs",
+      "nightlife": "Nachtleben",
+      "thingsToDo": "Aktivitäten",
+      "stays": "Wo übernachten",
+      "travelGuide": "Reiseführer"
+    },
+    "about": {
+      "eyebrow": "Über LaplandVibes",
+      "body": "Der umfassende Guide zu Finnisch-Lappland, von den Nordlichtern bis zur Mitternachtssonne. Kuratierte Erlebnisse, Insider-Tipps und alles, was Sie für die Planung Ihrer arktischen Reise brauchen.",
+      "badge": "Unabhängig gepflegt · Quellen sichtbar"
+    },
+    "spottedError": {
+      "title": "Fehler entdeckt?",
+      "body": "Sie sehen etwas, das korrigiert werden muss? Sagen Sie uns Bescheid, wir bessern es sofort aus.",
+      "cta": "Fehler melden →"
+    },
+    "partner": {
+      "title": "Zusammenarbeit",
+      "body": "Werbung oder Kooperation im Netzwerk aus 27 Lappland-Seiten.",
+      "cta": "Kontakt aufnehmen →"
+    },
+    "press": {
+      "title": "Presse und Medien",
+      "body": "Redaktionelle Kooperationen und Pressemappen.",
+      "cta": "Presseanfragen →"
+    },
+    "affiliate": "Diese Seite enthält Partnerlinks. Wenn Sie über diese Links buchen, erhält LaplandVibes ggf. eine Provision, für Sie ohne Aufpreis.",
+    "copyright": "{{year}} #LaplandVibes, Teil des #LaplandVibes-Netzwerks",
+    "websiteBy": "Website erstellt von Yrityspaketit.fi",
+    "legal": {
+      "privacy": "Datenschutzerklärung",
+      "cookie": "Cookie-Richtlinie",
+      "terms": "Nutzungsbedingungen",
+      "contact": "Kontakt"
+    },
+    "siteLabels": {
+      "hotelDeals": "Hotelangebote",
+      "staysCabins": "Unterkünfte & Hütten",
+      "whereToStay": "Wo übernachten",
+      "familyFriendly": "Familienfreundlich",
+      "localFood": "Lokale Küche",
+      "fineDining": "Gehobene Küche",
+      "barsPubs": "Bars & Pubs",
+      "activities": "Aktivitäten",
+      "huskySafaris": "Husky-Safaris",
+      "skiResorts": "Skigebiete",
+      "snowmobileTours": "Schneemobil-Touren",
+      "spaWellness": "Spa & Wellness",
+      "nightlife": "Nachtleben",
+      "natureParks": "Natur & Parks",
+      "travelGuide": "Reiseführer",
+      "christmas": "Weihnachten in Lappland",
+      "giftsSouvenirs": "Geschenke & Souvenirs",
+      "travelBlog": "Reiseblog",
+      "dealsOffers": "Angebote",
+      "transport": "Transport",
+      "carRental": "Mietwagen",
+      "workInLapland": "Arbeiten in Lappland"
+    }
+  }
+}

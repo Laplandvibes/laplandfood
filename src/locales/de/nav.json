@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "Startseite",
+    "ingredients": "Zutaten",
+    "recipes": "Rezepte",
+    "modern": "Modernes Lappland",
+    "foraging": "Sammeln",
+    "michelin": "Michelin",
+    "foodTours": "Kulinarische Touren",
+    "about": "Über uns"
+  },
+  "ariaHome": "Startseite von LaplandFood",
+  "ariaMain": "Hauptnavigation",
+  "menu": "MENÜ",
+  "openMenu": "Menü öffnen",
+  "closeMenu": "Menü schließen"
+}

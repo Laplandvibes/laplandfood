@@ -34,7 +34,7 @@ export default function LocalIngredients() {
           title={t('localIngredients.hero.title')}
           titleHighlight={t('localIngredients.hero.titleHighlight')}
           subtitle={t('localIngredients.hero.subtitle')}
-          imageUrl="/images/hero-ingredients.jpg"
+          imageUrl="/images/hero-ingredients.webp"
           imageAlt="Foraged cloudberries, lingonberries, and wild mushrooms arranged on rough birch wood at the edge of an Arctic forest"
           primaryCta={{ label: t('localIngredients.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}
@@ -70,7 +70,7 @@ export default function LocalIngredients() {
               {ingredients.map((i, idx) => (
                 <article key={i.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={INGREDIENT_IMAGES[idx]} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <img src={INGREDIENT_IMAGES[idx]} alt={i.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
                     <div className="absolute top-3 right-4">
                       <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
@@ -87,14 +87,14 @@ export default function LocalIngredients() {
                       <div className="flex gap-2">
                         <Leaf className="w-3.5 h-3.5 text-vibe-pink mt-0.5 flex-shrink-0" />
                         <div>
-                          <span className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55">{t('localIngredients.labels.nutrition')} </span>
+                          <span className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75">{t('localIngredients.labels.nutrition')} </span>
                           <span className="text-[#002F6C]/85">{i.nutritional}</span>
                         </div>
                       </div>
                       <div className="flex gap-2">
                         <Thermometer className="w-3.5 h-3.5 text-vibe-pink mt-0.5 flex-shrink-0" />
                         <div>
-                          <span className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55">{t('localIngredients.labels.usedIn')} </span>
+                          <span className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75">{t('localIngredients.labels.usedIn')} </span>
                           <span className="text-[#002F6C]/85">{i.uses}</span>
                         </div>
                       </div>

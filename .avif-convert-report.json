@@ -1,0 +1,26 @@
+{
+  "site": "laplandfood-new",
+  "scanned_webp": 2,
+  "converted": 2,
+  "skipped_exists": 0,
+  "skipped_avif_larger": 0,
+  "errors": 0,
+  "total_webp_bytes": 691374,
+  "total_avif_bytes": 467297,
+  "saved_mb": "0.21",
+  "saved_pct": "32.4",
+  "report": [
+    {
+      "file": "public\\images\\hero-ingredients.webp",
+      "webp_bytes": 286742,
+      "avif_bytes": 187618,
+      "saved_pct": "34.6"
+    },
+    {
+      "file": "public\\images\\midnight-sun-band.webp",
+      "webp_bytes": 404632,
+      "avif_bytes": 279679,
+      "saved_pct": "30.9"
+    }
+  ]
+}

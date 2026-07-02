@@ -1,0 +1,621 @@
+{
+  "hero": {
+    "kicker": "Cuisine du Nord, écrite depuis la Finlande",
+    "h1Part1": "LA TABLE",
+    "h1Part2": "FINLANDAISE.",
+    "subhead": "Un guide de terrain sur la culture culinaire finlandaise, d'où viennent les ingrédients, ce que valent vraiment les recettes, et pourquoi ce pays dépasse ses voisins en étoiles Michelin par habitant.",
+    "ctaPrimary": "Voir les recettes traditionnelles",
+    "ctaSecondary": "Ce qui pousse ici"
+  },
+  "newsletter": {
+    "kicker": "La newsletter #LaplandVibes",
+    "headline": "Seulement quand ça vaut la peine d'être raconté.",
+    "subhead": "La recette de saison à essayer, le restaurant qui mérite le détour, la fenêtre du cueilleur à ne pas manquer. Sélection éditoriale écrite depuis la Finlande.",
+    "emailPlaceholder": "vous@exemple.com",
+    "submit": "S'abonner",
+    "sending": "Envoi…",
+    "successHeadline": "Vérifiez votre boîte, bienvenue.",
+    "successBody": "Le premier envoi arrive dès qu'il y a une histoire culinaire finlandaise à raconter.",
+    "errorPrefix": "Une erreur s'est produite",
+    "errorRetry": "Veuillez réessayer.",
+    "trust": "Édito écrit à la main · désinscription en un clic · nous ne partageons jamais votre adresse."
+  },
+  "sisters": {
+    "kicker": "Quand vous avez faim",
+    "headline": "Mangez, buvez, prolongez la nuit.",
+    "subhead": "LaplandFood est la carte culturelle. Pour la table à laquelle vous allez vraiment vous asseoir, le verre que vous allez vraiment commander, et les adresses ouvertes après minuit, passez par les sites sœurs ci-dessous.",
+    "visitLabel": "Visiter",
+    "items": [
+      { "title": "Réserver une table", "eyebrow": "LaplandDining", "body": "Où l'on mange vraiment : plus de 60 restaurants triés à travers la Laponie, avec menus, horaires et liens de réservation directs." },
+      { "title": "Trouver un bar ou une brasserie", "eyebrow": "LaplandBars", "body": "Microbrasseries, bars de glace, bars d'hôtel et pubs de quartier où les Finlandais boivent vraiment, ce qu'ils servent, à quelle heure ils ouvrent." },
+      { "title": "La Laponie après dîner", "eyebrow": "LaplandNightlife", "body": "DJ, cuisines ouvertes tard, salles de concert et calendrier des soirées polaires, quoi faire quand la cuisine ferme." }
+    ]
+  },
+  "home": {
+    "title": "Cuisine de Laponie 2026, gastronomie sami, sélection locale, cueillette",
+    "description": "La vraie cuisine de Laponie en 2026, gastronomie sami, renne sauvage, mûres arctiques, omble, guides de cueillette, sélection Michelin. 60 restaurants choisis avec soin, vrais prix.",
+    "intro": {
+      "kicker": "À propos de ce site",
+      "headline": "La cuisine finlandaise, expliquée.",
+      "p1": "LaplandFood est la carte culturelle de la façon dont la Finlande mange, écrite de l'intérieur. D'où viennent les ingrédients. Les recettes que l'on prépare vraiment un mardi. La scène Michelin que la plupart des voyageurs ratent. Cueillette, tours culinaires et traditions vieilles de mille ans.",
+      "p2Prefix": "Pour réserver",
+      "p2Em": "une vraie table",
+      "p2Mid": ", passez par",
+      "p2DiningSuffix": ". Pour boire,",
+      "p2BarsSuffix": ". Pour la scène d'après dîner,",
+      "p2End": "."
+    },
+    "pillarsKicker": "Les six piliers",
+    "pillarsHeadline": "Commencez ici.",
+    "pillarsLead": "Six cartes de la culture culinaire finlandaise. Choisissez-en une et plongez, chaque page renvoie aux autres.",
+    "readLabel": "Lire",
+    "pillars": [
+      { "eyebrow": "Pilier 01", "title": "Ingrédients locaux", "body": "Ce qui pousse, nage et paît vraiment ici, renne, mûres arctiques, myrtilles, poissons arctiques, herbes cueillies. Saisons, approvisionnement, et pourquoi le goût est ce qu'il est." },
+      { "eyebrow": "Pilier 02", "title": "Recettes traditionnelles", "body": "Ragoût de renne bidos, pain plat sâme, soupe de poisson de lac, kisseli de baies sauvages, les recettes qui ont nourri le Sápmi à travers des hivers arctiques pendant des milliers d'années." },
+      { "eyebrow": "Pilier 03", "title": "Laponie moderne", "body": "Comment une nouvelle génération de chefs cuisine les mêmes ingrédients avec le sous-vide, la fermentation et la technique New Nordic. Et où aller les goûter." },
+      { "eyebrow": "Pilier 04", "title": "Guide de cueillette", "body": "Myrtille, airelle, mûre arctique, champignons, ortie, reine-des-prés, quoi cueillir quand, comment l'identifier et comment le faire durablement sous le droit d'accès." },
+      { "eyebrow": "Pilier 05", "title": "Michelin & haute gastronomie", "body": "La scène Michelin finlandaise d'un coup d'œil, qui est étoilé, où, et qui pousse la haute gastronomie à l'intérieur du cercle polaire." },
+      { "eyebrow": "Pilier 06", "title": "Tours gastronomiques & cours de cuisine", "body": "Voyages culinaires sâmes, tours de haute gastronomie, balades de cueillette, visites de brasseries, des expériences culinaires réservables à travers la Laponie." }
+    ],
+    "cultureKicker": "Pourquoi ça a ce goût",
+    "cultureHeadline": "Quatre choses qui font que la cuisine finlandaise est finlandaise.",
+    "cultureLead": "Retirez les modes et la cuisine finlandaise repose toujours sur ces quatre fondations. Elles expliquent à la fois pourquoi votre petit-déjeuner d'hôtel comprend du pain croustillant de seigle et pourquoi un menu dégustation commence par un poisson au genévrier.",
+    "culture": [
+      { "n": "01", "title": "Huit saisons, pas quatre", "body": "Le calendrier sâme divise l'année en huit saisons. Chacune décide de ce qui se retrouve sur la table, pêche sur glace dans la nuit polaire, cueillette des mûres arctiques sous le soleil de minuit, champignons et plantes avant les premières gelées." },
+      { "n": "02", "title": "Droit d'accès à la nature", "body": "Le jokamiehenoikeus finlandais permet à quiconque de cueillir baies, champignons et plantes sauvages sur la plupart des terres, privées ou non. C'est l'un des rares cadres légaux au monde qui traite le garde-manger sauvage comme une ressource commune." },
+      { "n": "03", "title": "Tout l'animal", "body": "Dans la culture culinaire sâme, rien du renne ne se perd : viande, moelle, sang, gras, peau, os. Les recettes ont évolué autour d'une utilisation totale, d'où le bidos qui utilise les morceaux fermes et les crêpes au sang (verilettut) devenues un classique finlandais." },
+      { "n": "04", "title": "Peu assaisonné, le produit en chef", "body": "La cuisine finlandaise crie rarement. Les arômes sont l'aneth, le genévrier, le beurre, le sel et l'ingrédient lui-même. La cuisson est faite pour laisser parler le produit, un contraste discret avec les cuisines plus bruyantes du sud." }
+    ],
+    "summer": {
+      "kicker": "6 juin – 7 juillet · 32 jours de soleil de minuit",
+      "headline": "La fenêtre culinaire du soleil de minuit.",
+      "lead": "Les mûres arctiques mûrissent, le poisson de lac est au sommet, les jardins d'herbes explosent et le soleil ne se couche plus. Pendant quatre semaines, les cuisines lapones échangent les conserves d'hiver contre les produits les plus légers et les plus lumineux de l'année. Si vous ne venez qu'une fois, c'est maintenant.",
+      "cta": "Ce qui est de saison →"
+    }
+  },
+  "localIngredients": {
+    "title": "Ingrédients locaux de Laponie | Renne, baies, poisson, herbes cueillies | LaplandFood",
+    "description": "Ce qui pousse, nage et paît vraiment en Laponie finlandaise, six ingrédients clés avec saisons, approvisionnement et leur arrivée dans l'assiette.",
+    "hero": {
+      "eyebrow": "Pilier 01 · Ingrédients",
+      "title": "Ce qui pousse",
+      "titleHighlight": "ici.",
+      "subtitle": "Six ingrédients qui définissent le garde-manger lapon, d'où ils viennent, quand ils sont à leur apogée et quel goût ils ont vraiment.",
+      "primaryCta": "Guide de cueillette",
+      "secondaryCta": "Recettes qui les utilisent"
+    },
+    "intro": {
+      "lead": "Le garde-manger lapon est court. C'est sa force.",
+      "p1": "On peut lister tous les ingrédients qui définissent la cuisine lapone sur les doigts d'une main, renne, poisson de lac, baies cueillies, champignons cueillis, plantes sauvages, produits laitiers. Il n'y a pas de trentième ingrédient caché qui débloquerait la cuisine. Le savoir-faire tient à ce que les gens ont appris à faire d'une petite palette pendant mille ans d'hivers arctiques : sécher, fumer, fermenter, lacto-saumurer, cuire lentement, tenir jusqu'en mars sans réfrigérateur.",
+      "p2": "Presque tout ce qui figure sur les fiches ci-dessous est sauvage. C'est ce qui distingue la cuisine lapone de presque toute autre culture culinaire d'Europe. Les rennes sont techniquement élevés, mais ils vivent sur des dizaines de milliers de kilomètres carrés de nature non clôturée ; le travail de l'éleveur est de les suivre, pas de les nourrir. Les baies et les champignons ne peuvent pas être cultivés commercialement en Laponie, le climat est trop court et trop humide, donc tout l'approvisionnement est issu de la cueillette. Les poissons de lac sont attrapés un par un, souvent à travers la glace. La chaîne d'approvisionnement entre le sol de la forêt et l'assiette se compte parfois littéralement en heures.",
+      "p3": "Cela a des conséquences sur le goût. Les ingrédients sauvages varient d'une année à l'autre et d'un endroit à l'autre comme les ingrédients cultivés ne le font pas. Les mûres arctiques d'une tourbière au-dessus d'Inari ont un goût différent de celles cueillies 80 kilomètres plus au sud, au-dessus de Saariselkä, autre acidité, autre sucre, autre parfum. Un renne qui a passé l'automne sur le plateau à lichens au-dessus d'Utsjoki n'a pas le même goût qu'un autre ayant brouté les flushes de champignons près de Rovaniemi. Les chefs et les cuisiniers sâmes ont toujours traité cela comme une qualité : on cuisine autour de ce que l'ingrédient fait cette année-là, pas autour d'une recette figée.",
+      "p4": "Les six fiches ci-dessous sont la fondation. En dessous, vous trouverez des essais plus longs sur les trois sujets que les visiteurs demandent le plus, le renne (la chaîne d'approvisionnement, l'éthique, les morceaux), la mûre arctique (pourquoi personne ne peut la cultiver et ce que cela implique sur le prix) et le poisson de lac (le rôle de la pêche sur glace en hiver). Puis une dernière section sur le droit d'accès qui relie tout ce garde-manger juridiquement et culturellement."
+    },
+    "ingredients": [
+      { "name": "Renne & gibier", "season": "Toute l'année · meilleur d'oct à mars", "description": "Le cœur de la cuisine arctique. Renne en liberté élevé dans une nature préservée, la protéine la plus importante de la culture sâme depuis des milliers d'années.", "nutritional": "Riche en protéines, faible en graisse, vitamine B12 et fer", "uses": "Grillade, séchage, fumage, ragoûts longuement mijotés" },
+      { "name": "Myrtilles & airelles", "season": "Août–septembre", "description": "Super-baies arctiques riches en antioxydants. Poussent à l'état sauvage sous le soleil de minuit, dans la toundra et la forêt boréale.", "nutritional": "Antioxydants, vitamine C, fibres alimentaires", "uses": "Confitures, jus, pâtisseries, séchage" },
+      { "name": "Champignons sauvages, cèpes & lactaires", "season": "Juillet–septembre", "description": "L'or des forêts anciennes de Laponie. Traditionnellement séchés pour les conserves d'hiver.", "nutritional": "Protéines, fibres, vitamine D", "uses": "Séchage, conserves, soupes, sauces" },
+      { "name": "Poissons d'eau douce arctiques", "season": "Toute l'année · pêche sur glace en hiver", "description": "Poissons de lacs cristallins, corégone, brochet, perche, truite. La pêche sur glace est une tradition hivernale appréciée à travers toute la Laponie.", "nutritional": "Oméga-3, riche en protéines, phosphore", "uses": "Fumage, salage, grillade, chaudrée" },
+      { "name": "Herbes sauvages, reine-des-prés & ortie", "season": "Juin–août", "description": "La force des plantes sauvages. Herbes médicinales et culinaires utilisées dans la culture sâme depuis des générations.", "nutritional": "Minéraux, vitamines, flavonoïdes", "uses": "Tisanes, salades, soupes, séchage" },
+      { "name": "Mûres arctiques", "season": "Mi-juillet à mi-août", "description": "Le joyau d'or de la Laponie. Pousse uniquement dans les tourbières arctiques, l'une des baies sauvages les plus rares et les plus prisées au monde.", "nutritional": "Vitamine C, vitamine E, oméga-3", "uses": "Confitures, desserts, liqueur, consommation fraîche" }
+    ],
+    "labels": { "nutrition": "Nutrition :", "usedIn": "Utilisé dans :" },
+    "reindeerDeep": {
+      "kicker": "À fond · Renne",
+      "headline": "Comment un renne arrive dans l'assiette d'un restaurant lapon.",
+      "p1": "L'industrie du renne en Finlande est encadrée par la loi sur l'élevage des rennes, qui réserve la propriété aux personnes domiciliées dans la zone d'élevage (essentiellement le nord de la Finlande). Les animaux appartiennent à des éleveurs individuels mais paissent ensemble dans des coopératives, <em>paliskunnat</em>, qui partagent territoire et travail. Il y a environ 200 000 rennes répartis sur environ 54 coopératives, toutes en Laponie et dans certaines parties de l'Ostrobotnie du Nord.",
+      "p2": "Le troupeau est sauvage en tout sauf en propriété. Les rennes parcourent librement d'immenses étendues de taïga et de toundra non clôturées, mangeant ce qu'ils trouvent : lichen en hiver (le régime qui donne à la viande sa saveur propre et spécifique), herbes et plantes en été, champignons en automne. Les éleveurs suivent leurs animaux en motoneige et en quad, les rassemblent deux fois par an pour le marquage des oreilles et (à l'automne) pour la sélection à l'abattage, puis les laissent se disperser à nouveau.",
+      "p3": "L'abattage a lieu en automne, généralement en octobre-novembre, lorsque les animaux sont à leur poids optimal. Chaque coopérative gère son propre abattoir agréé UE. La majorité de la viande est vendue dans un rayon de quelques centaines de kilomètres autour de là où l'animal a vécu, aux restaurants lapons, à des bouchers spécialisés à Helsinki et dans le reste du sud de la Finlande, et à un marché d'exportation modeste mais sérieux en Europe centrale.",
+      "p4": "<strong>Les morceaux que vous verrez sur un menu lapon</strong> correspondent à peu près à un vocabulaire bovin : <em>fileé</em> (filet, terrain du sous-vide), <em>sisäpaisti / ulkopaisti</em> (gîte / aiguillette, rôtis entiers ou tranchés pour les plats fumés à chaud), <em>poronkäristys</em> (sauté de renne, le cheval de bataille quotidien finlandais, fines tranches, beurre, sel, servies sur purée avec airelles) et <em>suovas</em> (selle fumée à froid, mangée en lamelles avec du pain de seigle). Le bidos utilise des morceaux à mijoter plus fermes, généralement épaule et jarret, ce qui explique pourquoi il cuit pendant des heures.",
+      "p5": "Sur le plan éthique, le renne sâme en liberté est l'une des protéines les plus durables d'un menu européen, pas d'élevage intensif, pas d'antibiotiques, pas de pâturage clos, alimentation native. La complication est climatique : les hivers lapons deviennent plus humides, des couches de glace se forment sur la neige, les rennes ne peuvent plus gratter pour atteindre le lichen, et les éleveurs doivent compléter l'alimentation dans certaines coopératives. Cela modifie la chaîne d'approvisionnement et, lentement, la saveur. C'est une histoire à suivre sur la prochaine décennie."
+    },
+    "cloudberryDeep": {
+      "kicker": "À fond · Mûre arctique",
+      "headline": "La baie que personne ne peut cultiver.",
+      "p1": "La mûre arctique, <em>hilla</em> en finnois, <em>luomi</em> en sâme du nord, est la baie sauvage la plus prisée de Laponie et la plus obstinément non cultivée parmi les baies importantes du monde. Elle pousse uniquement dans les tourbières froides, acides et gorgées d'eau d'une bande étroite de l'hémisphère nord : Scandinavie septentrionale, Finlande, certaines parties de la Russie, Alaska et nord du Canada. À l'intérieur de ces zones elle est étonnamment commune. En dehors, elle ne pousse pas.",
+      "p2": "Des décennies de recherche agricole n'ont pas réussi à la commercialiser. Les plants de mûre arctique sont dioïques (mâles et femelles séparés), poussent extrêmement lentement, prennent 6 à 7 ans pour fructifier même dans des conditions parfaites, sont vulnérables aux gelées de fin de printemps qui détruisent les fleurs de l'année, et exigent une combinaison spécifique d'humidité, de lumière et de chimie de tourbière qui a résisté à la simulation en serre. Les chercheurs norvégiens et finlandais ont progressé sur des cultivars mais les rendements commerciaux restent une fraction des rendements sauvages. Donc tout l'approvisionnement finlandais, pour les fabricants de confitures, les producteurs de liqueur (Lakka), les cuisines de restaurants, est cueilli dans la nature.",
+      "p3": "C'est pourquoi un kilo de mûres arctiques fraîches sur un marché de Rovaniemi fin juillet coûte typiquement 25 à 50 €, cinq à dix fois le prix des myrtilles et pourquoi l'offre s'effondre si la gelée de printemps arrive une semaine trop tard. C'est aussi pourquoi le parfait à la mûre arctique est le dessert gastronomique de Laponie. Tous les chefs veulent les utiliser tant qu'elles durent.",
+      "p4": "<strong>Éthique de cueillette :</strong> les plants de mûre arctique mettent du temps à se rétablir. Le principe sâme et la convention de cueillette finlandaise, est de prendre uniquement les baies pleinement mûres, de laisser les vertes et les blettes, et de ne jamais dépouiller un plant. Si vous cueillez sur une petite tourbière, un kilo par famille suffit."
+    },
+    "fishDeep": {
+      "kicker": "À fond · Poisson de lac",
+      "headline": "Pourquoi la pêche sur glace produit le meilleur poisson de l'année.",
+      "p1": "La Laponie compte environ 6 000 lacs, chacun assez propre pour boire son eau lors d'une longue randonnée. Les quatre poissons qui comptent dans l'assiette sont le <strong>corégone (siika)</strong>, le <strong>brochet (hauki)</strong>, la <strong>perche (ahven)</strong> et la <strong>truite fario / omble chevalier (taimen / nieriä)</strong>. Tous quatre sont natifs, tous quatre sont pêchés en quantité commerciale à la fois par de petits pêcheurs et des amateurs de pêche sur glace, tous quatre apparaissent sous différentes formes sur les menus lapons.",
+      "p2": "La pêche sur glace, <em>pilkkiminen</em>, est plus qu'un passe-temps local. C'est la méthode qui produit le poisson de lac arctique le plus savoureux de l'année. Pourquoi : en hiver, l'eau du lac est à sa température la plus froide et la plus claire. Le métabolisme des poissons ralentit, les dépôts de graisse se raffermissent et les parasites meurent (pas de vecteurs d'eau chaude). La chair d'un corégone pêché sous glace en février est plus dense, plus sucrée et au goût plus net que celle du même poisson pêché en juillet. Les chefs lapons calent leurs menus dessus.",
+      "p3": "La technique elle-même est simple, percer un trou à travers 50-80 cm de glace, descendre un petit leurre avec un hameçon, attendre, mais elle exige des températures souvent inférieures à −15 °C. L'approche sâme traditionnelle consistait à boucher le trou entre les visites pour empêcher l'eau sous la glace de regeler la canne. Aujourd'hui, la plupart des gens utilisent des tentes isolées (un petit abri de pêche est bon marché et change complètement l'expérience).",
+      "p4Prefix": "À table : le corégone légèrement fumé (<em>graavisiika</em>) et les œufs de brochet sur pain de seigle sont les entrées quotidiennes de la Laponie. Une truite fario entière rôtie est le plat classique. La soupe de poisson sâme (recette sur la",
+      "p4LinkLabel": "page recettes",
+      "p4Suffix": ") utilise ce que les pêcheurs ont rapporté cette semaine-là."
+    },
+    "everymansRight": {
+      "kicker": "Droit d'accès",
+      "headline": "Le cadre légal qui rend tout cela possible.",
+      "p1": "Presque tous les ingrédients de cette page sont, légalement, gratuits. Le <em>jokamiehenoikeus</em> finlandais (droit d'accès) est un principe pluri-séculaire et codifié qui permet à quiconque, citoyen ou visiteur, de marcher, camper et cueillir sur la plupart des terres de Finlande, quel qu'en soit le propriétaire. Vous pouvez cueillir baies, champignons et plantes sauvages sur un terrain privé sans demander. Vous pouvez pêcher à une canne sans permis. Vous pouvez dormir une nuit sur la plupart des terrains sans demander.",
+      "p2": "Ce que vous ne pouvez pas faire : abîmer les arbres, chasser, conduire un véhicule hors-piste, ramasser des plantes protégées, allumer un feu sur le terrain de quelqu'un sans permission, ou cueillir dans un jardin cultivé. Le principe est : accéder sans nuire. C'est l'un des rares cadres légaux d'Europe à traiter la nourriture sauvage comme une ressource commune, et c'est la raison structurelle pour laquelle la culture culinaire lapone a survécu à la modernisation.",
+      "ctaPrimary": "Lire le guide de cueillette",
+      "ctaSecondary": "Ou réserver une balade guidée de cueillette"
+    }
+  },
+  "traditionalRecipes": {
+    "title": "Recettes traditionnelles de Laponie | LaplandFood",
+    "description": "Vraies recettes lapones, sauté de renne (poronkäristys), omble arctique, leipäjuusto, baies à la crème. Testées dans des cuisines lapones, écrites pour les voyageurs.",
+    "hero": {
+      "eyebrow": "Pilier 02 · Recettes",
+      "title": "Recettes",
+      "titleHighlight": "sâmes traditionnelles.",
+      "subtitle": "Une plongée dans le patrimoine culinaire sâme. Ces recettes ont nourri les gens à travers les hivers arctiques pendant des milliers d'années, chacune porte une sagesse, une saveur et un lien à la terre.",
+      "primaryCta": "Aller aux recettes",
+      "secondaryCta": "Cuisine moderne"
+    },
+    "intro": {
+      "lead": "Les recettes de cette page ne sont pas du patrimoine au sens du musée fermé. Elles sont toujours cuisinées.",
+      "p1": "Entrez dans une maison sâme à Inari ou Utsjoki un mardi de novembre et vous sentirez le <em>bidos</em> sur le feu, le même ragoût de renne longuement braisé que la grand-mère cuisinait, fait de la même manière, avec les mêmes morceaux, à un feu si doux que la marmite chuchote à peine. Le fait que la cuisinière soit désormais électrique et que la viande vienne d'un troupeau coopératif enregistré ne change pas la recette. Cela change légèrement le timing. C'est tout.",
+      "p2": "Cette continuité est le point essentiel. La cuisine sâme a survécu là où la plupart des cultures culinaires arctiques préindustrielles ne l'ont pas fait, parce qu'elle n'a jamais dépendu d'ingrédients importés pour avoir son propre goût. Renne, poisson de lac, baies cueillies, plantes sauvages, farine de seigle, beurre, sel, presque tout est sourcé à distance de marche d'où ça se mange. Quand les chaînes d'approvisionnement se brisent (guerre, sanctions, pandémie), les cuisines lapones continuent. Cela a été éprouvé dans la mémoire vivante.",
+      "p3": "Les quatre recettes ci-dessous sont les points d'entrée. <strong>Le bidos</strong> est le plat protéiné réconfortant. <strong>Le gahkku</strong> est le pain quotidien. <strong>La soupe de poisson sâme</strong> utilise ce qui est sorti du lac cette semaine-là. <strong>Le kissel aux baies sauvages</strong> est dessert et petit-déjeuner et un moyen de conserver l'été. Si vous ne cuisinez que ces quatre, vous avez déjà couvert la majeure partie de l'année d'un foyer traditionnel du Sápmi.",
+      "p4": "Lisez d'abord le contexte culturel. Les recettes prendront plus de sens en particulier pourquoi certaines disent « sel selon le goût » plutôt qu'un nombre de grammes (parce que dans une vraie cuisine sâme, le sel était rationné selon ce que le foyer avait acheté plus au sud cet automne-là). Sous les recettes vous trouverez les huit saisons sâmes en détail, le renouveau moderne de la cuisine sâme et les quatre méthodes traditionnelles de cuisson qui apparaissent encore dans les cuisines gastronomiques de Laponie."
+    },
+    "context": {
+      "kicker": "La sagesse de la culture culinaire sâme",
+      "headline": "Pourquoi les recettes sont ce qu'elles sont.",
+      "items": [
+        { "title": "Efficacité énergétique", "body": "Des recettes conçues pour minimiser le combustible et le temps dans un climat arctique rude. Mijotage doux + protéine grasse = maximum de kilocalories par bûche de bois." },
+        { "title": "Longue conservation", "body": "Des aliments pensés pour durer sans réfrigération ni conservateurs, séchage, fumage, fermentation et congélation dans la neige." },
+        { "title": "Communauté", "body": "Cuisiner et partager le repas est le rituel social central de la vie sâme. La marmite au centre du lavvu (tipi) est, littéralement, le centre." }
+      ]
+    },
+    "sapmi": {
+      "kicker": "Le peuple sâme et son patrimoine culinaire",
+      "headline": "Sápmi, l'une des plus anciennes cuisines d'Europe.",
+      "lead": "Les Sâmes sont le peuple autochtone du Sápmi, un vaste territoire arctique qui s'étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Leur cuisine est l'une des plus anciennes cultures alimentaires vivantes d'Europe, façonnée entièrement par la terre, les saisons et la vie d'éleveurs de rennes.",
+      "items": [
+        { "title": "Sápmi, la terre natale", "body": "Le Sápmi couvre plus de 400 000 km² à travers quatre nations. Le Sápmi finlandais (Saamelaisten kotiseutualue) est la région la plus septentrionale de Finlande, communes d'Enontekiö, Inari et Utsjoki." },
+        { "title": "Langues sâmes", "body": "Il existe neuf langues sâmes vivantes. Le sâme du nord est la plus parlée. Beaucoup de noms de recettes traditionnelles, comme <em>bidos</em> et <em>gahkku</em>, viennent directement du sâme du nord." },
+        { "title": "Huit saisons, pas quatre", "body": "Le chronométrage sâme divise l'année en huit saisons. Chacune décide de ce qui se retrouve sur la table, pêche sur glace dans la nuit polaire, cueillette des mûres arctiques en plein été, champignons avant les premières gelées." }
+      ]
+    },
+    "recipesKicker": "Recettes authentiques",
+    "recipesHeadline": "Quatre recettes pour commencer.",
+    "recipeLabels": {
+      "time": "Temps",
+      "serves": "Pour",
+      "level": "Niveau",
+      "ingredients": "Ingrédients",
+      "instructions": "Préparation",
+      "tip": "Astuce traditionnelle"
+    },
+    "recipes": [
+      {
+        "name": "Bidos, Ragoût de renne traditionnel",
+        "difficulty": "Intermédiaire",
+        "time": "3–4 heures",
+        "serves": "6–8 personnes",
+        "tradition": "Patrimoine sâme",
+        "description": "Ragoût de renne longuement braisé, la cuisine de l'âme de la culture sâme depuis des siècles. Simple, réconfortante et profondément nourrissante.",
+        "ingredients": ["1 kg de viande de renne (morceau à mijoter)", "4–5 pommes de terre, en cubes", "2 carottes, en rondelles", "1 oignon, émincé", "2 cuillères à soupe de beurre ou de gras de renne", "Sel et poivre noir selon le goût", "Aneth frais"],
+        "instructions": ["Couper la viande de renne en morceaux de 3–4 cm", "Faire chauffer le gras dans une cocotte épaisse à feu vif", "Faire bien dorer la viande sur toutes les faces", "Ajouter l'oignon et faire suer jusqu'à translucidité", "Couvrir tout juste d'eau", "Laisser mijoter à feu doux 2–3 heures jusqu'à tendreté", "Ajouter pommes de terre et carottes dans la dernière heure", "Saler et poivrer généreusement", "Décorer d'aneth frais et servir"],
+        "tips": "Traditionnellement cuit sur feu ouvert à feu doux pendant longtemps, la patience est l'ingrédient secret."
+      },
+      {
+        "name": "Gahkku, Pain plat sâme",
+        "difficulty": "Facile",
+        "time": "45 min + levée",
+        "serves": "1 pain",
+        "tradition": "Recette sâme ancienne",
+        "description": "Simple et nourrissant, un pain à longue conservation qui a alimenté les voyages arctiques pendant des générations.",
+        "ingredients": ["500 g de farine de blé", "250 ml d'eau tiède", "1 c. à café de sel", "1 c. à café de sucre", "1 sachet de levure sèche", "2 c. à soupe d'huile"],
+        "instructions": ["Mélanger les ingrédients secs", "Ajouter l'eau tiède et l'huile", "Pétrir jusqu'à pâte lisse", "Laisser lever 30 minutes au chaud", "Former une miche ronde", "Cuire à 225 °C pendant 25–30 minutes", "Le pain est prêt quand il sonne creux"],
+        "tips": "Traditionnellement cuit sur des pierres chaudes ou au-dessus d'un feu de camp."
+      },
+      {
+        "name": "Soupe de poisson sâme",
+        "difficulty": "Facile",
+        "time": "45 minutes",
+        "serves": "4–6 personnes",
+        "tradition": "Culture de pêche arctique",
+        "description": "Une chaudrée de poisson appréciée qui utilise les poissons de lac les plus propres et des herbes sauvages, un goût du rivage arctique.",
+        "ingredients": ["800 g de poisson de lac frais (corégone ou truite)", "1 litre de fumet de poisson ou d'eau", "3–4 pommes de terre, en cubes", "1 carotte, en rondelles", "1 oignon", "250 ml de crème", "Aneth frais", "Sel et poivre blanc"],
+        "instructions": ["Nettoyer et lever les filets", "Faire bouillir la tête et les arêtes pour le fumet", "Filtrer le fumet et remettre en cocotte", "Ajouter pommes de terre et carottes", "Cuire 15 minutes", "Ajouter morceaux de poisson et oignon", "Cuire 10 minutes de plus", "Incorporer crème et tiges d'aneth", "Saler, poivre blanc, garnir d'aneth frais au service"],
+        "tips": "Vieille astuce : ajouter les tiges d'aneth en cuisson, les feuilles fraîches uniquement à la toute fin."
+      },
+      {
+        "name": "Kissel aux baies sauvages",
+        "difficulty": "Facile",
+        "time": "30 minutes",
+        "serves": "4–6 personnes",
+        "tradition": "Tradition estivale de conservation",
+        "description": "La façon classique de profiter des baies sauvages lapones. Bourré d'antioxydants et débordant de saveur arctique.",
+        "ingredients": ["500 g de baies mélangées (myrtilles, airelles)", "100–150 g de sucre selon le goût", "3 c. à soupe de fécule de pomme de terre", "1 litre d'eau", "Sucre vanillé"],
+        "instructions": ["Faire mijoter les baies dans l'eau 10 minutes", "Mixer et filtrer si souhaité", "Ajouter sucre et sucre vanillé", "Délayer la fécule dans de l'eau froide", "Verser le mélange dans le liquide chaud", "Cuire 2–3 minutes jusqu'à épaississement", "Servir chaud ou froid"],
+        "tips": "Traditionnellement sucré au miel sauvage plutôt qu'au sucre, essayez les deux."
+      }
+    ],
+    "seasons": {
+      "kicker": "Le calendrier sâme",
+      "headline": "Huit saisons, huit garde-mangers.",
+      "p1": "Le calendrier en quatre saisons est une hypothèse de l'Europe tempérée. Les Sâmes divisent l'année en huit, chacune liée à ce que font les rennes, à l'aspect du lac et à ce qui mûrit en forêt. Pour comprendre pourquoi une cuisine sâme ressemble à ce qu'elle est, c'est par là qu'on commence.",
+      "p2": "Les noms ci-dessous sont les originaux en sâme du nord. Les dates sont approximatives, les saisons du Sápmi suivent davantage la phénologie (ce que fait la terre) que le calendrier.",
+      "items": [
+        { "sami": "Dálvi", "en": "Hiver", "when": "Déc – fév", "body": "Nuit polaire et grand froid. Les rennes sont dans les pâturages d'hiver, grattant pour atteindre le lichen sous la neige. Le foyer vit sur ce qui a été conservé en automne : renne séché (suovas), poisson salé, baies congelées, farine de seigle. Le bidos est le dîner quotidien, protéine grasse à cuisson lente qui tient chaud." },
+        { "sami": "Giđđadálvi", "en": "Hiver-printemps", "when": "Mars – avr", "body": "La lumière revient. La mise bas des rennes commence ; les éleveurs suivent le troupeau. La pêche sur glace est à son meilleur, assez de soleil pour pêcher sur le lac sans geler, et le poisson est encore sous une glace épaisse. Le corégone fumé domine. Les jours s'allongent de 7 minutes par jour." },
+        { "sami": "Giđđa", "en": "Printemps", "when": "Mai", "body": "Fonte des neiges. Les rennes se déplacent vers les pâturages d'été. Les premières jeunes feuilles de bouleau et pousses d'ortie apparaissent, la première verdure fraîche en sept mois. La sève de bouleau est récoltée et bue fraîche, mise en sirop ou fermentée. Les premiers œufs d'oiseaux migrateurs arrivent." },
+        { "sami": "Giđđageassi", "en": "Printemps-été", "when": "Juin", "body": "La première moitié du soleil de minuit. Les rennes mettent bas ; les faons courent. Le sol est enfin assez chaud pour les herbes sauvages (reine-des-prés, achillée, angélique). Les pâtisseries remplacent les ragoûts. Le lait frais et le beurre reviennent des pâturages de montagne." },
+        { "sami": "Geassi", "en": "Été", "when": "Juil", "body": "Soleil de minuit complet. La récolte des mûres arctiques, trois à six semaines où les familles passent des soirées entières dans la tourbière à cueillir. Les herbes sont séchées pour l'hiver ; les baies sont confiturées, congelées ou fermentées. La pêche en lac est quotidienne. La cuisine ferme à peine." },
+        { "sami": "Čakčageassi", "en": "Été-automne", "when": "Août – début sept", "body": "Saison des myrtilles et des airelles. Les champignons sortent, cèpes, lactaires, girolles. Les jours sont encore longs ; les nuits commencent à fraîchir. Les rennes sont à leur poids optimal. Le garde-manger se remplit : confitures, poisson salé, champignons séchés, baies congelées." },
+        { "sami": "Čakča", "en": "Automne", "when": "Sept – oct", "body": "Saison de l'abattage. Les rennes sont rassemblés ; les éleveurs choisissent quels animaux abattre pour l'hiver. La viande est transformée : fumée, séchée (suovas) et congelée. C'est la banque de protéines qui doit tenir sept mois. Les premières gelées sucrent les airelles." },
+        { "sami": "Čakčadálvi", "en": "Automne-hiver", "when": "Nov", "body": "Le noir revient. La neige s'installe. Derniers travaux de conservation, saler le poisson, mettre en pots les confitures, faire l'inventaire. La cuisine mise sur la chaleur : ragoûts, soupes, pains de seigle cuits, jus de baies chauds. La marmite à bidos est sur le feu presque tous les jours." }
+      ]
+    },
+    "revival": {
+      "kicker": "Renouveau moderne de la cuisine sâme",
+      "headline": "Pourquoi les recettes reviennent.",
+      "p1": "Pendant la majeure partie du XXe siècle, la cuisine sâme existait dans deux réalités parallèles. Dans les foyers sâmes, c'était simplement le dîner, sans réflexivité, sans romantisation, la même nourriture que la génération précédente cuisinait. Hors du Sápmi, elle était presque invisible : une note en bas de page dans les brochures touristiques, parfois exotisée, plus souvent ignorée.",
+      "p2": "Le retournement a commencé à la fin des années 2000. La cuisine New Nordic, lancée par Noma à Copenhague, a mis brièvement à la mode dans les salles gastronomiques scandinaves la cuisine cueillie, hyperlocale et autochtone du nord. Les chefs finlandais ont remarqué que la cuisine qui excitait le reste du monde, herbes sauvages, baies lacto-fermentées, poisson fumé, gibier cuit lentement, était sur les assiettes sâmes depuis mille ans. Le pipeline a tourné dans l'autre sens un moment : les techniques et les ingrédients sâmes ont coulé vers les menus dégustation d'Helsinki.",
+      "p3": "Puis le monde culinaire sâme a commencé à reprendre la conversation. Restaurant Aanaar à Inari a bâti un programme gastronomique qui est, sans complexe, sâme d'abord et gastronomique ensuite. Le chapitre Slow Food Sápmi a poussé pour le statut protégé de produits traditionnels comme le <em>suovas</em> (renne fumé à froid) et la <em>guompa</em> (angélique fermentée). Les chefs sâmes ont commencé à former des apprentis sâmes au lieu de les envoyer dans des cuisines classiques françaises. Le sommet Indigenous Terra Madre 2017 à Inari, rassemblement mondial de la cuisine autochtone, a été un tournant.",
+      "p4": "Le moment actuel est intéressant. La cuisine sâme est sur les cartes étoilées Michelin d'Helsinki et sur la table quotidienne d'Utsjoki, mais les recettes convergent moins qu'on ne pourrait le penser. Les versions gastronomiques bénéficient de la mise à niveau technique, sous-vide, lacto-fermentation, garniture aux fleurs cueillies. Les versions maison restent presque inchangées. Les deux sont valides. Les recettes de cette page sont les versions maison.",
+      "p5Prefix": "Pour goûter l'interprétation gastronomique, rendez-vous sur",
+      "p5ModernLabel": "Laponie moderne",
+      "p5Mid": ". Pour goûter la version maison cuisinée par quelqu'un qui a grandi à la cuisiner, le",
+      "p5ToursLabel": "Voyage culinaire culturel sâme",
+      "p5Suffix": " de la page Tours est ce qui ressemble le plus à une introduction."
+    },
+    "methods": {
+      "kicker": "Comment fonctionnait une cuisine sans cuisinière",
+      "headline": "Quatre méthodes traditionnelles de cuisson.",
+      "lead": "Les quatre apparaissent encore dans les cuisines gastronomiques de Laponie, les chefs s'en servent parce qu'elles produisent des saveurs que rien de moderne ne peut reproduire. Le feu ouvert crée une réaction de Maillard à des températures que le sous-vide ne peut pas atteindre. Les pierres chaudes cuisent le pain avec une sécheresse spécifique. Les fours en terre braisent sur la seule chaleur conservée. Le fumage est, en 2026, encore la méthode de conservation la plus simple connue de l'homme.",
+      "items": [
+        { "title": "Feu ouvert", "body": "Grillade et rôtissage directement au-dessus des flammes d'un feu de camp" },
+        { "title": "Four en terre", "body": "Cuisson souterraine lente dans des fosses en terre" },
+        { "title": "Pierres chaudes", "body": "Cuisson du pain sur des pierres plates chauffées au feu" },
+        { "title": "Fumage", "body": "Conservation de la viande et du poisson par fumée froide ou chaude" }
+      ]
+    },
+    "ctaStrip": {
+      "headline": "Cuisinez-le chez vous ou faites-vous l'enseigner sur place.",
+      "tours": "Expériences culinaires",
+      "ingredients": "Ingrédients locaux",
+      "modern": "Interprétations modernes"
+    }
+  },
+  "modernLapland": {
+    "title": "Cuisine moderne de Laponie | LaplandFood",
+    "description": "Comment une nouvelle génération de chefs lapons reconstruit la cuisine arctique, assiettes cueillies, fermentation, approvisionnement hyperlocal. Les restaurants qui mènent la transition.",
+    "hero": {
+      "eyebrow": "Pilier 03 · Moderne",
+      "title": "La nouvelle",
+      "titleHighlight": "cuisine arctique.",
+      "subtitle": "Renne en sous-vide. Myrtilles lacto-fermentées. Corégone confit sous huile d'herbes sauvages. La cuisine moderne lapone reprend les mêmes ingrédients que les Sâmes utilisent depuis mille ans et applique la technique New Nordic.",
+      "primaryCta": "Où réserver",
+      "secondaryCta": "Les recettes traditionnelles"
+    },
+    "intro": {
+      "lead": "Le basculement a pris environ dix ans. La haute gastronomie lapone est passée du « restaurant d'hôtel touristique avec entrecôte de renne au poivre » à « petites salles de menu dégustation menées par un chef qui rivalisent avec Helsinki sur le travail de l'assiette ».",
+      "p1": "Trois choses l'ont permis. D'abord, le mouvement New Nordic lancé à Noma à Copenhague au milieu des années 2000 a reformulé ce que la Scandinavie traitait comme embarrassement rural, herbes cueillies, poisson fumé, lacto-fermentation, gibier mijoté, produits laitiers d'une seule ferme, comme l'extrémité sophistiquée de la cuisine. Une fois cette couverture culturelle obtenue, les chefs lapons qui faisaient ces choses depuis toujours ont eu de la place pour les mettre dans une assiette gastronomique sans se justifier.",
+      "p2": "Deuxièmement, la technique est montée vers le nord. Les circulateurs sous-vide sont devenus moins chers, les sacs sous vide sont devenus standards, et les ingrédients qui étaient traditionnellement trop cuits en ragoût (parce que c'était le seul moyen de rendre un morceau ferme agréable) pouvaient désormais être cuits à cœur rose à 54 °C et servis comme protéine principale. Le filet de renne, un morceau autrefois réservé aux grandes occasions parce qu'il était si facile à rater, est devenu la signature lapone moderne. Pas parce que c'est tendance, mais parce que la technique a enfin rattrapé l'ingrédient.",
+      "p3": "Troisièmement, la chaîne d'approvisionnement s'est professionnalisée. Cueilleurs et petits pêcheurs ont commencé à vendre directement aux restaurants au lieu de passer par des grossistes. Les coopératives sâmes ont certifié des parties de leur abattage pour le commerce de la restauration. Des producteurs spécialisés, fabricants de sirop de bouleau, fumoirs, fermenteurs de vinaigre d'airelle, se sont installés à travers la Laponie pour vendre aux chefs. Un menu dégustation lapon moderne peut lister onze ingrédients dans une assiette et tous être sourcés dans un rayon de 200 kilomètres.",
+      "p4": "Les quatre plats ci-dessous sont des signatures des salles qui font cela le mieux. Sous les fiches, un texte plus long sur ce qu'est <em>vraiment</em> la technique New Nordic, au-delà du label et comment elle se manifeste dans une cuisine lapone."
+    },
+    "dishesKicker": "Quatre plats signatures",
+    "dishesHeadline": "La Laponie moderne dans l'assiette.",
+    "dishLabels": { "technique": "Technique", "from": "Depuis", "twist": "Variation" },
+    "dishes": [
+      { "name": "Filet de renne sous-vide & crème de myrtilles", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Renne classique cuit à 54 °C, servi avec sauce de myrtilles sauvages et chips de betterave.", "technique": "Sous-vide", "traditional": "Renne rôti traditionnel", "innovation": "Cuisson à température précise et dressage moderne", "price": "à partir de 42 €" },
+      { "name": "Corégone arctique & huile d'herbes sauvages", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Corégone de lac cuit confit, reine-des-prés, aïoli aux baies et fleurs comestibles.", "technique": "Confit + gastronomie moléculaire", "traditional": "Corégone fumé", "innovation": "Cuisson basse température + fleurs sauvages cueillies", "price": "à partir de 38 €" },
+      { "name": "Menu dégustation 7 services autour des baies sauvages", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Un dîner complet bâti autour des baies sauvages de Laponie, de l'amuse-bouche au dessert.", "technique": "New Nordic + fermentation", "traditional": "Compote et confitures de baies", "innovation": "Baies lacto-fermentées et acidités naturelles", "price": "à partir de 85 €" },
+      { "name": "Bidos déconstruit & poussière de moelle", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "Une relecture en gastronomie moléculaire du ragoût de renne classique sâme.", "technique": "Déconstruction + sphérification", "traditional": "Ragoût de renne bidos", "innovation": "Séparation et réassemblage des saveurs avec technique moderne", "price": "à partir de 45 €" }
+    ],
+    "techniques": {
+      "kicker": "Ce que « New Nordic » signifie vraiment",
+      "headline": "Cinq techniques qui apparaissent sur chaque menu dégustation lapon.",
+      "lead": "« New Nordic » est un terme marketing pour, dans l'assiette, un ensemble précis de techniques appliquées à un ensemble précis d'ingrédients. Retirez le branding et vous trouvez les cinq choses ci-dessous, elles décrivent ce que fait votre menu, que le chef l'appelle New Nordic, sâme moderne, cuisine arctique ou simplement dîner.",
+      "items": [
+        { "title": "Lacto-fermentation", "body": "Sel et temps transforment légumes et baies en conserves intensément parfumées, légèrement acidulées. Les myrtilles lacto-fermentées sur une assiette de viande sont le geste lapon classique, elles tranchent la richesse du gras de renne comme les câpres tranchent le beurre. Cherchez « fermenté » ou « pickle » sur le menu." },
+        { "title": "Sous-vide", "body": "Mise sous vide d'une protéine et cuisson en eau à température contrôlée exactement à la cuisson voulue. C'est pourquoi votre filet de renne est uniformément rose d'un bord à l'autre sans cerne gris au centre. Lent, précis et indulgent, crucial pour un morceau aussi maigre que le renne." },
+        { "title": "Salaison à froid & fumage à froid", "body": "Salaison sucre-sel (graavi) vieille de plusieurs siècles ; fumage à froid plus ancien encore. Les cuisines New Nordic combinent les deux. Un graavisiika (corégone mariné) fumé à froid 4 heures est l'ouverture poisson la plus servie en gastronomie lapone. Le poisson est techniquement cru et la texture est soyeuse." },
+        { "title": "Garniture cueillie", "body": "Herbes sauvages et fleurs comestibles qu'aucun fournisseur commercial du sud de la Finlande ne peut égaler en fraîcheur. Oseille des bois, fleurs de reine-des-prés, pousses de genévrier, pousses de pin, épilobe, angélique, le cueilleur lapon livre la touche finale sur l'assiette. Souvent cueilli le matin même." },
+        { "title": "Utilisation totale de l'ingrédient", "body": "Marque de fabrique à la fois de la cuisine sâme et du New Nordic. La moelle devient liant de sauce. Les têtes de poisson deviennent fumet. Les peaux de renne vont à la tannerie, pas à la poubelle. Les restaurants qui prennent cela au sérieux le diront sur le menu, « du museau à la queue » et l'addition le reflète." }
+      ]
+    },
+    "stayNear": {
+      "headline": "Dormez près des cuisines.",
+      "lead": "Les meilleurs restaurants de Laponie sont répartis entre Rovaniemi, Inari, Levi et Saariselkä. Le plan le plus net : choisissez un hôtel à distance de marche d'où vous voulez manger, et laissez-nous nous occuper du reste.",
+      "ctaPrimary": "Hôtels à Rovaniemi",
+      "ctaSecondary": "Ou réservez un tour gastronomique"
+    }
+  },
+  "foragingGuide": {
+    "title": "Cueillette en Laponie finlandaise, Baies, champignons, herbes | LaplandFood",
+    "description": "Le droit d'accès finlandais et ce qu'il signifie pour le cueilleur. Quand et où trouver mûres arctiques, girolles, airelles, thym sauvage et sève de bouleau en Laponie.",
+    "hero": {
+      "eyebrow": "Pilier 04 · Cueillette",
+      "title": "Le garde-manger",
+      "titleHighlight": "sauvage.",
+      "subtitle": "Le jokamiehenoikeus finlandais (droit d'accès) permet à quiconque de cueillir baies, champignons et plantes sauvages sur la plupart du pays. Voici les cinq choses à savoir avant tout.",
+      "primaryCta": "Réserver une balade guidée",
+      "secondaryCta": "Comment cela arrive dans l'assiette"
+    },
+    "intro": {
+      "lead": "La cueillette en Finlande n'a rien d'excentrique. C'est une activité d'été routinière pour environ 40 % de la population.",
+      "p1": "Ce chiffre, issu des enquêtes auprès des ménages de l'Institut finlandais des ressources naturelles (Luke), est le fait structurel à connaître avant tout le reste de cette page. Cueillir baies et champignons n'est pas une sous-culture de niche, c'est une activité finlandaise majoritaire qui traverse villes et campagnes, âges et revenus. Les gens parlent de leur meilleure tourbière comme d'autres pays parlent de leur meilleur poissonnier. Il existe un vocabulaire national pour cela.",
+      "p2": "Le cadre légal qui rend cela possible est le <em>jokamiehenoikeus</em>, « droit d'accès », principe pluri-séculaire, codifié dans le droit finlandais moderne, selon lequel quiconque (citoyen ou visiteur) peut marcher, nager, camper et cueillir sur la plupart des terres de Finlande, quel qu'en soit le propriétaire. Ce n'est pas une tolérance ou une coutume. C'est un droit légal. Le propriétaire ne peut légalement pas vous dire de quitter une forêt où vous cueillez des baies, tant que vous n'abîmez rien et que vous n'êtes pas dans la cour immédiate d'une maison.",
+      "p3": "Cela change la pratique de la cueillette. Vous n'avez pas besoin de permission. Vous n'avez pas besoin de connaître le propriétaire. Vous pouvez descendre d'une route dans la forêt et cueillir. Les contraintes sont éthiques (ne pas surcueillir, ne pas abîmer la plante) et pratiques (savoir ce qu'on cueille), pas légales.",
+      "p4": "Cette page couvre le côté pratique. Les cinq aliments sauvages les plus cueillis en Laponie avec des notes d'identification. La section de sécurité champignons que vous devez lire avant de cueillir votre premier. Un calendrier saison par saison. Les règles du droit d'accès en détail. Et l'argument pour réserver une balade guidée pour votre première fois, même si vous ne comptez plus jamais avoir besoin d'un guide."
+    },
+    "alert": {
+      "kicker": "Lisez ceci en premier",
+      "body": "L'empoisonnement par champignon est réel et irréversible. Si vous ne pouvez pas identifier un champignon avec 100 % de certitude, au moyen d'un guide ou, mieux, d'un local expérimenté, laissez-le. Pour votre première sortie, réservez une balade guidée ; une après-midi avec un guide vaut une saison de devinettes."
+    },
+    "labels": {
+      "where": "Où elle pousse",
+      "identify": "Comment l'identifier",
+      "when": "Quand cueillir",
+      "safety": "Sécurité",
+      "sustainability": "Durabilité"
+    },
+    "items": [
+      { "name": "Myrtille (Vaccinium myrtillus)", "season": "Juillet – septembre", "difficulty": "Facile", "location": "Pinèdes sèches et landes", "identification": "Arbuste bas, feuilles ovales, baies bleu-noir foncé. Tache les doigts et la langue en bleu.", "tips": "Pic de cueillette mi-août. Ne récoltez que les baies pleinement mûres.", "safety": "Pas de confusion possible avec des espèces toxiques, cueillette sûre.", "sustainability": "Ne prenez pas plus de la moitié des baies d'un même plant." },
+      { "name": "Airelle (Vaccinium vitis-idaea)", "season": "Août – octobre", "difficulty": "Facile", "location": "Pinèdes sèches et landes", "identification": "Petit arbuste persistant, feuilles brillantes et arrondies, baies rouge vif en grappes.", "tips": "Se conserve bien après une gelée. Attendez la maturité complète.", "safety": "Bien distincte des baies toxiques, facile à identifier.", "sustainability": "Laissez tranquilles les jeunes et petits plants." },
+      { "name": "Mûre arctique (Rubus chamaemorus)", "season": "Juillet – août", "difficulty": "Intermédiaire", "location": "Tourbières et marais", "identification": "Plante rase, feuilles à trois lobes, une seule baie ambre-orange par tige.", "tips": "Cueillez uniquement les baies pleinement mûres. Périssable, traitez vite.", "safety": "Présente uniquement en terrain marécageux, attention où vous marchez.", "sustainability": "Rareté arctique. Prenez seulement ce dont vous avez besoin." },
+      { "name": "Champignons sauvages, cèpes & lactaires", "season": "Juillet – septembre", "difficulty": "Difficile", "location": "Vieilles pessières et forêts mixtes", "identification": "Cèpe : chapeau brun, pied blanc, dessous spongieux. Lactaire : forme d'entonnoir, latex laiteux à la coupe.", "tips": "Sécher immédiatement après cueillette. Apprenez à identifier à 100 % d'abord.", "safety": "CRITIQUE : confirmez toujours l'identification avant de manger.", "sustainability": "Couper au pied, ne pas abîmer le mycélium." },
+      { "name": "Ortie (Urtica dioica)", "season": "Mai – août", "difficulty": "Facile", "location": "Sols riches, près des bâtiments et clairières", "identification": "Feuilles dentelées, urticantes au contact de la peau nue.", "tips": "Cueillez les jeunes pousses. L'effet urticant disparaît totalement après séchage ou cuisson.", "safety": "Utilisez des gants pour la cueillette.", "sustainability": "Cueillez seulement les feuilles du dessus, laissez les racines." }
+    ],
+    "mushroomSafety": {
+      "kicker": "Sécurité champignons",
+      "headline": "À lire avant de cueillir un seul champignon.",
+      "p1": "La conversation sur la sécurité des champignons en Finlande est calme, précise et sans concession. C'est le risque le plus maîtrisé de la culture cueillette. Les années habituelles, le Centre finlandais d'information toxicologique gère quelques centaines d'appels liés aux champignons ; les empoisonnements graves sont rares ; les décès, quand il y en a, viennent le plus souvent d'une seule espèce, l'amanite phalloïde (<em>Amanita phalloides</em>) et de sa cousine quasi identique, l'amanite vireuse (<em>Amanita virosa</em>).",
+      "p2": "<strong>L'amanite phalloïde et l'amanite vireuse sont présentes dans les forêts finlandaises.</strong> Toutes deux sont mortelles même en petites quantités, il n'y a pas d'antidote et la toxicité est différée (vous vous sentez bien 6 à 24 heures, puis le foie commence à lâcher). L'amanite vireuse est blanche, paraît anodine et pousse en pessière et en bétulaie à travers le pays, y compris en Laponie. Plusieurs autres champignons finlandais communs sont gastro-toxiques, hallucinogènes ou simplement désagréables.",
+      "rulesIntro": "<strong>Les cinq règles que tout cueilleur finlandais suit :</strong>",
+      "rules": [
+        "Si vous n'êtes pas certain à 100 % de l'espèce, pas 90 %, pas « ça ressemble à un cèpe », ne cueillez pas. Pas d'exception.",
+        "Recoupez avec deux sources indépendantes : un guide, une application (Pikkupilkku et iNaturalist sont utiles) et idéalement un humain expérimenté.",
+        "Faites attention à <em>tout</em> : forme du chapeau, lames ou pores, anneau du pied, base du pied (déterrez toujours le tout, beaucoup d'espèces mortelles s'identifient par la volve à la base), sporée, odeur, où il pousse, sur quoi.",
+        "Ne cueillez jamais sous un seul angle. Rapportez le champignon entier à la maison et revérifiez à la lumière. Au moindre doute, jetez.",
+        "Cuisez tous les champignons sauvages avant de manger, même ceux techniquement comestibles crus. C'est une convention finlandaise plutôt qu'une règle stricte, mais c'est ce que fait tout cueilleur expérimenté."
+      ],
+      "p4": "<strong>Les quatre champignons qu'un débutant peut apprendre à identifier sans risque</strong> en une après-midi avec un guide sont : le cèpe (<em>Boletus edulis</em>), la fausse morille (<em>Gyromitra esculenta</em>, mais <strong>uniquement après deux ébouillantages successifs avec changement d'eau</strong> ; beaucoup de Finlandais vous diront qu'elle est délicieuse, d'autres vous diront de l'éviter ; les deux ont raison), le lactaire délicieux (<em>Lactarius deliciosus</em>) et la girolle (<em>Cantharellus cibarius</em>). Parmi eux, le cèpe et la girolle n'ont pas de sosie dangereux en Finlande et sont les points de départ recommandés.",
+      "p5": "Si vous comptez cueillir des champignons en Laponie pour la première fois, faites-le avec quelqu'un qui sait déjà. Le rapport coût/confiance d'une balade guidée de 4 heures est imbattable et en Laponie, les guides sont typiquement des cueilleurs sâmes qui ont appris cela de leurs grands-parents, pas des guides commerciaux qui lisent un script."
+    },
+    "calendar": {
+      "kicker": "Calendrier de saison",
+      "headline": "Mois par mois, ce qu'il y a en forêt.",
+      "lead": "La fenêtre de cueillette en Laponie est courte et intense, environ de mai à fin septembre. À l'intérieur de cette fenêtre, toutes les deux semaines la cible dominante change. C'est le calendrier sur lequel un cueilleur local planifie son été.",
+      "items": [
+        { "month": "Mai", "body": "La neige recule. Premières orties, premières jeunes feuilles de bouleau, sève de bouleau (perforée du tronc et bue fraîche, utilisée en sirop ou fermentée). Froid, mais l'année de cueillette est lancée." },
+        { "month": "Juin", "body": "Apogée des herbes sauvages, reine-des-prés, achillée, angélique, oseille. La première verdure fraîche après sept mois. Quelques herbes précoces sont séchées pour les tisanes d'hiver." },
+        { "month": "Début juillet", "body": "La fenêtre des herbes se ferme ; tout feuille agressivement. Les plantes de tourbière fleurissent, les fleurs de mûre arctique ont noué. C'est le calme avant la tempête de cueillette." },
+        { "month": "Fin juillet – début août", "body": "Saison des mûres arctiques, typiquement une fenêtre de 3 semaines selon l'emplacement de la tourbière. L'activité de cueillette la plus intense de l'année. De nombreux bureaux finlandais s'arrêtent de fait pour ça." },
+        { "month": "Août", "body": "Pic des myrtilles. Premières airelles (encore acidulées). Premiers champignons, la girolle d'abord, le cèpe ensuite. Les longues soirées font de ce mois le meilleur pour cueillir-et-cuisiner." },
+        { "month": "Septembre", "body": "L'airelle se sucre après la première gelée. Saison des champignons à son sommet, cèpes, lactaires, girolles. Les jours raccourcissent vite ; les cueilleurs sortent dès l'aube." },
+        { "month": "Octobre", "body": "Derniers champignons. Dernières airelles (meilleures après les gelées de nuit). Derniers travaux de conservation, séchage, confitures, congélation. Le calendrier se ferme essentiellement après la première grosse neige." },
+        { "month": "Novembre – avril", "body": "Dormance forestière. La cueillette s'arrête. Travail d'intérieur, conserves, fumage, séchage, fermentation, reprend. La pêche sur glace remplace la cueillette pour la protéine fraîche." }
+      ]
+    },
+    "rights": {
+      "kicker": "Droit d'accès · les règles",
+      "headline": "Ce que vous pouvez et ne pouvez pas faire.",
+      "canHeadline": "Vous pouvez :",
+      "can": [
+        "Marcher, skier, faire du vélo, monter à cheval et autrement circuler à travers forêts, prairies et terres non cultivées.",
+        "Cueillir baies sauvages, champignons et fleurs et herbes sauvages non protégées.",
+        "Pêcher à une canne et un leurre (pas de permis pour la pêche basique, la redevance de gestion des pêches couvre la plupart des lacs).",
+        "Camper temporairement, typiquement une nuit, sur la plupart des terres non cultivées, loin des maisons.",
+        "Nager, vous laver et utiliser l'eau de tout plan d'eau, y compris privé.",
+        "Traverser lacs et rivières gelés, faire de la motoneige ou du ski sur la plupart des terrains non cultivés (règles spécifiques pour la motoneige)."
+      ],
+      "cannotHeadline": "Vous ne pouvez pas :",
+      "cannot": [
+        "Endommager les arbres, déterrer des racines, prendre mousse ou lichen en quantité commerciale.",
+        "Chasser ni piéger (licences séparées requises).",
+        "Conduire un véhicule motorisé hors-piste en dehors des sentiers balisés (les motoneiges ont leurs propres règles).",
+        "Allumer un feu sur le terrain de quelqu'un sans permission. Utilisez les foyers balisés ou obtenez l'accord du propriétaire.",
+        "Cueillir dans un jardin cultivé, un verger ou un champ, ce ne sont pas des « terres non cultivées ».",
+        "Perturber la cour immédiate d'une habitation privée (à portée de vue de la maison).",
+        "Laisser des déchets. Ce que vous apportez, vous le remportez."
+      ],
+      "closing": "Le principe est : accéder sans nuire. Les cueilleurs qui respectent l'esprit de la loi trouvent les propriétaires finlandais presque toujours détendus quant aux étrangers qui cueillent sur leurs terres. Les rares problèmes surviennent quand un groupe abîme des arbres, laisse des déchets ou s'approche trop d'une habitation. Traitez la forêt avec soin et vous aurez accès à l'un des derniers garde-mangers sauvages vraiment libres d'Europe."
+    },
+    "guideCta": {
+      "headline": "Une après-midi avec un guide économise une saison de devinettes.",
+      "lead": "Les balades de cueillette guidées en Laponie ne sont pas la version en autocar. Elles sont typiquement menées par des cueilleurs sâmes, en petits groupes de 6 à 15, et commencent par le cours de sécurité champignons dont vous avez vraiment besoin. Se terminent par la cuisson de la récolte au feu de camp. La plupart coûtent moins qu'une entrée gastronomique.",
+      "cta": "Voir les balades guidées"
+    }
+  },
+  "foodTours": {
+    "title": "Tours gastronomiques en Laponie finlandaise | LaplandFood",
+    "description": "Expériences culinaires guidées en Laponie, fermes de rennes, balades de cueillette, fumage du poisson, déjeuners sauvages et tables du chef. Comment réserver et à quoi s'attendre.",
+    "hero": {
+      "eyebrow": "Pilier 06 · Tours",
+      "title": "Mangez votre chemin",
+      "titleHighlight": "à travers la Laponie.",
+      "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation, culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
+      "primaryCta": "Tout voir sur GetYourGuide"
+    },
+    "intro": {
+      "lead": "Les expériences culinaires en Laponie qui valent votre argent sont celles qui vous placent face aux gens qui font cela pour vivre.",
+      "p1": "Évitez le traitement « tour de restaurants en autocar ». Les voyages ci-dessous sont en petits groupes, souvent réservés directement avec l'opérateur, menés par des cueilleurs sâmes, des chefs gastronomiques ou des éleveurs de rennes en activité. Vous mangez, mais l'essentiel est l'accès, à un troupeau, à la cuisine d'un chef, à la tourbière favorite d'un cueilleur. La plupart coûtent moins qu'un menu dégustation d'Helsinki et durent deux fois plus longtemps.",
+      "p2": "Trois voyages couvrent l'essentiel de ce que les visiteurs cherchent. Le <strong>Voyage culinaire culturel sâme</strong> creuse l'alimentation sâme, bidos avec un éleveur, cuisson traditionnelle du pain, séance de cueillette, contexte culturel. L'<strong>Expérience gastronomique arctique</strong> est une journée intensive avec visite des coulisses de cuisine, masterclass et dîner plusieurs services avec accords mets-vins, l'équivalent lapon d'une journée culinaire copenhaguoise. L'<strong>Expédition de cueillette sauvage</strong> est la meilleure après-midi qu'un débutant puisse passer avec un cueilleur sâme, apprendre l'identification sûre, remplir un panier, puis cuire la récolte au feu de camp.",
+      "p3": "Les trois sont réservables via GetYourGuide. Nous affichons les résultats de recherche en direct pour que vous voyiez la disponibilité réelle et les prix actuels, les opérateurs tournent, les dates changent, les prix bougent. Le bouton « Vérifier la disponibilité » sur chaque fiche lance une recherche GYG en direct, pas une page produit fixe."
+    },
+    "listKicker": "Trois voyages à faire",
+    "listHeadline": "Réservez l'un de ces trois.",
+    "browseAllLabel": "Voir tout sur GetYourGuide",
+    "moreLabel": "plus",
+    "checkAvailability": "Vérifier la disponibilité",
+    "tours": [
+      {
+        "name": "Voyage culinaire culturel sâme",
+        "duration": "6 heures",
+        "groupSize": "4–12 personnes",
+        "difficulty": "Facile",
+        "price": "à partir de 185 €",
+        "description": "Une plongée dans la culture culinaire sâme. Rencontrez des producteurs locaux, apprenez des techniques traditionnelles et goûtez des saveurs authentiques directement de l'Arctique.",
+        "highlights": ["Visite d'un éleveur de rennes et dégustation de bidos", "Cuisson traditionnelle du pain sâme", "Cueillette guidée d'ingrédients sauvages", "Atelier culturel au musée sâme", "Visites de producteurs arctiques locaux"],
+        "location": "Région d'Inari – Utsjoki",
+        "season": "Juin – septembre"
+      },
+      {
+        "name": "Expérience gastronomique arctique",
+        "duration": "8 heures",
+        "groupSize": "2–8 personnes",
+        "difficulty": "Intermédiaire",
+        "price": "à partir de 295 €",
+        "description": "Un voyage exclusif à travers les meilleures tables de Laponie. Restaurants recommandés Michelin et chefs primés cuisinant avec les ingrédients arctiques les plus purs.",
+        "highlights": ["Déjeuner 3 services dans un restaurant phare régional", "Visite des coulisses avec le chef", "Masterclass sur les ingrédients arctiques", "Démonstration de technique gastronomique", "Dîner 5 services avec accords mets-vins"],
+        "location": "Rovaniemi",
+        "season": "Toute l'année"
+      },
+      {
+        "name": "Expédition de cueillette sauvage",
+        "duration": "4 heures",
+        "groupSize": "6–15 personnes",
+        "difficulty": "Intermédiaire",
+        "price": "à partir de 95 €",
+        "description": "Cueillette guidée pratique en forêt ancienne et tourbière. Apprenez l'identification sûre des baies, champignons et herbes sauvages, puis cuisinez la récolte.",
+        "highlights": ["Masterclass de sécurité champignons", "Cueillette de myrtilles, airelles et mûres arctiques (en saison)", "Identification des herbes sauvages", "Cuisson de la récolte au feu de camp", "Livret de cueillette lapone à emporter"],
+        "location": "Région de Rovaniemi / Levi",
+        "season": "Juillet – septembre"
+      }
+    ]
+  },
+  "michelinDining": {
+    "title": "Haute gastronomie & restaurants Michelin en Laponie | LaplandFood",
+    "description": "Où le guide Michelin prête attention en Laponie finlandaise, Restaurant Aanaar, Tundrea, Trattoria Levi et les cuisines lapones qui valent le détour.",
+    "hero": {
+      "eyebrow": "Pilier 05 · Michelin",
+      "title": "Michelin",
+      "titleHighlight": "& haute gastronomie.",
+      "subtitle": "La scène Michelin finlandaise d'un coup d'œil, qui est étoilé, où, qui pousse la haute gastronomie à l'intérieur du cercle polaire, et comment réserver une table.",
+      "primaryCta": "Où réserver en Laponie",
+      "secondaryCta": "Salles d'Helsinki"
+    },
+    "factsKicker": "L'état de la haute gastronomie en Finlande",
+    "factsHeadline": "Trois choses à savoir d'abord.",
+    "factsLeadPrefix": "Le Guide Michelin pour les pays nordiques se met à jour chaque année, pour la liste actuelle des étoiles, consultez toujours",
+    "factsLeadSuffix": ". L'image structurelle ci-dessous est stable et constitue le bon point de départ pour planifier un voyage gastronomique en Finlande.",
+    "facts": [
+      { "title": "Helsinki concentre les étoiles", "body": "Les restaurants finlandais référencés Michelin sont concentrés à Helsinki, chaque restaurant finlandais étoilé dans les éditions récentes du Guide Nordic a été dans la capitale. Turku et Tampere ont été dans le viseur des inspecteurs mais les étoiles vont et viennent." },
+      { "title": "La Laponie est gastronomiquement ambitieuse", "body": "La Laponie elle-même ne détient pas d'étoile Michelin actuellement, mais ses restaurants premium, Nili, Aanaar, Rakas, repoussent ce à quoi peut ressembler une soirée menu dégustation à l'intérieur du cercle polaire, avec des ingrédients cueillis qu'aucune cuisine d'Helsinki ne peut égaler en fraîcheur." },
+      { "title": "Les réservations comptent", "body": "Les fleurons lapons sont petits (souvent 30–60 couverts) et les places à la table du chef partent les premières. Réservez au plein hiver (mi-déc → fév) et à la fenêtre du soleil de minuit (6 juin → 7 juillet) au moins 6–8 semaines à l'avance. Les salles Michelin d'Helsinki ont régulièrement 4–6 semaines d'attente." }
+    ],
+    "helsinki": {
+      "kicker": "Michelin Helsinki",
+      "headline": "Huit salles à réserver à Helsinki.",
+      "lead": "Les attributions d'étoiles changent d'une année à l'autre, vérifiez la liste actuelle sur le Guide avant de réserver. Les huit ci-dessous sont les salles qui ont été dans le Guide ou proches, de manière constante, et dont les voyageurs reparlent. Niveau de prix selon la convention Michelin : € (moins de 40 € pp), €€ (40–80), €€€ (80–140), €€€€ (140 +).",
+      "ctaHotels": "Hôtels à Helsinki",
+      "footnote": "Édito indépendant. Non affilié au Guide Michelin. Les attributions d'étoiles et les Bib Gourmand ne sont valides que pour l'édition Nordic actuelle, vérifiez guide.michelin.com avant de réserver.",
+      "rooms": [
+        { "name": "Olo", "where": "Pohjoisesplanadi, Helsinki", "angle": "Institution gastronomique de longue date. Menus dégustation enracinés dans les ingrédients finlandais avec technique nordique classique.", "band": "€€€€" },
+        { "name": "Palace", "where": "10e étage, Eteläranta, vue port", "angle": "Vue port d'Helsinki à l'ancienne, exécution moderne. Le classique sandre (kuha) est la signature.", "band": "€€€€" },
+        { "name": "Demo", "where": "Uudenmaankatu, Helsinki", "angle": "Salle compacte menu dégustation, dirigée par l'ingrédient, souvent citée pour le rapport prix-savoir-faire.", "band": "€€€" },
+        { "name": "Grön", "where": "Albertinkatu, Helsinki", "angle": "Menu dégustation végétal (légumes, poisson, cueillette) avec un accord vins serré. La plus difficile à réserver de la ville.", "band": "€€€€" },
+        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Haute gastronomie d'influence sâme, même pedigree de chef qu'Olo, salle plus petite, plus concentrée.", "band": "€€€€" },
+        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Nordique moderne dans une salle résidentielle. Souvent saluée pour le menu produit du chef Sasu Laukkonen.", "band": "€€€€" },
+        { "name": "Finnjävel", "where": "Helsinki", "angle": "Finlandais moderne, relectures des classiques. Moins feutré que les autres ; service plus théâtral.", "band": "€€€" },
+        { "name": "Ultima", "where": "Helsinki", "angle": "Menu dégustation sourcé depuis une ferme verticale au sous-sol. La salle la plus authentiquement « Helsinki 2026 » de cette liste.", "band": "€€€€" }
+      ]
+    },
+    "lapland": {
+      "kicker": "Haute gastronomie en Laponie",
+      "headline": "Trois salles à réserver.",
+      "lead": "Ce sont les cuisines qui prennent la cuisine assez au sérieux pour rivaliser avec Helsinki sur le travail de l'assiette, tout en se sourçant entièrement en Laponie. Aucune ne détient d'étoile Michelin au moment d'écrire, mais sur un horizon de cinq ans, chacune le pourrait.",
+      "labels": { "signature": "Plats signatures", "band": "Niveau de prix", "booking": "Réservation", "hotelsNearPrefix": "Hôtels près de" },
+      "rooms": [
+        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, centre de Rovaniemi · 5 min à pied de la gare", "angle": "La salle gastronomique la plus citée de Laponie. Assiettes enracinées sâmes, filet de renne sous-vide à la réduction de myrtilles est la signature, aux côtés d'un programme baies sauvages qui s'appuie sur ce que les cueilleurs d'Inari ont apporté le matin. Cuisine ouverte, intérieur bois chaleureux, 60 couverts.", "signature": "Filet de renne sous-vide · omble arctique mariné au pin · parfait à la mûre arctique", "band": "€€€, menu dégustation 68 € · à la carte plats 28–42 €", "booking": "Réservez 3–4 semaines avant en été / décembre. Walk-ins possibles mardi-mercredi." },
+        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hôtel Kultahovi, Saarikoskentie 2, Inari · sur la rivière Juutuanjoki", "angle": "Ce qui se rapproche le plus d'une expérience gastronomique de destination au cœur du pays sâme. Le chef bâtit ses menus autour des huit saisons sâmes d'Inari, myrtilles lacto-fermentées, cœur de renne fumé, omble salé à froid et la carte des vins est inhabituellement profonde pour une ville de 7 000 habitants.", "signature": "Menu dégustation 7 services autour des baies sauvages · cœur de renne fumé · parfait au sirop de bouleau", "band": "€€€€, menu dégustation 85 €, avec vins accordés 145 €", "booking": "Deux services par soir, 32 couverts au total. Réservez 6–8 semaines avant en hiver et fenêtre soleil de minuit." },
+        { "name": "Rakas à Arctic TreeHouse Hotel", "city": "Rovaniemi · zone Santa Park", "address": "Tarvantie 3, à 7 km du centre · taxi ou navette de l'hôtel", "angle": "Salle à toit de verre orientée nord, entièrement panoramique sur la pessière, conçue pour observer l'aurore pendant le menu dégustation en hiver. Le corégone arctique confit sous huile d'herbes sauvages est la signature de la salle, dressé avec micropousses cueillies et fleurs comestibles.", "signature": "Corégone arctique confit · truite mariné au pin · dôme chocolat-airelle", "band": "€€€€, menu 4 services 78 € · 7 services 115 €", "booking": "Les clients de l'hôtel sont prioritaires. Les non-clients réservent 4 semaines avant en hiver." }
+      ]
+    },
+    "courseFlow": {
+      "kicker": "Ce que vous payez vraiment",
+      "headline": "Un menu dégustation finlandais, service par service.",
+      "lead": "La structure est cohérente entre les salles Michelin d'Helsinki et les cuisines phares de Laponie. Connaître la trame approximative aide à doser le vin, garder de la place pour le dessert et ne pas paniquer quand l'addition arrive.",
+      "items": [
+        { "n": "01", "label": "Mises en bouche", "body": "Deux ou trois petites bouchées à table, légumes pickle, poisson fumé sur seigle, bouillon d'herbes cueillies en shot. Pose le ton de la saison." },
+        { "n": "02", "label": "Entrée froide", "body": "Omble arctique ou corégone sous une forme, mariné, fumé, ou en tartare. Presque toujours avec un élément d'herbes cueillies." },
+        { "n": "03", "label": "Entrée chaude", "body": "Plat de champignon ou de racine en automne ; assiette de baies ou d'herbes en été. Là où les chefs montrent leur travail de fermentation." },
+        { "n": "04", "label": "Service poisson", "body": "Sandre, truite ou brochet selon ce que les pêcheurs locaux ont rapporté. Cuit à cœur rose, avec une sauce au beurre ou à la crème." },
+        { "n": "05", "label": "Renne ou gibier", "body": "La protéine principale. Filet sous-vide, épaule longuement braisée ou selle fumée. Myrtille, airelle ou genévrier ancrent l'assiette." },
+        { "n": "06", "label": "Fromage (optionnel)", "body": "Fromage finlandais affiné, Lappi ou Tervaleipäjuusto, avec un miel-au-goudron ou une confiture de mûre arctique." },
+        { "n": "07", "label": "Pré-dessert", "body": "Petit nettoyant de palais, sorbet de sève de bouleau, consommé de mûre arctique, granité d'airelle." },
+        { "n": "08", "label": "Dessert", "body": "Parfait à la mûre arctique ou dôme chocolat-airelle sont les deux plus communs. Le café arrive dans une bouilloire en cuivre." }
+      ]
+    },
+    "bookingNotes": {
+      "headline": "Quatre choses que les débutants ratent.",
+      "lead": "Les cuisines lapones sont indulgentes. Ce sont de petites salles avec service du chef. Voici les quatre corrections qu'on transmet à un ami avant sa première réservation.",
+      "items": [
+        { "label": "Comptez 3 heures minimum", "body": "Un menu dégustation lapon complet dure 2,5 à 3,5 heures. Ne réservez pas un spectacle à 21 h après." },
+        { "label": "L'accord vins paie", "body": "La plupart des phares lapons ont un sommelier qui pioche chez de petits producteurs européens. Les accords vont de 45 à 95 € en plus du menu." },
+        { "label": "Signalez vos allergies tôt", "body": "Les menus dégustation sont préconçus avec des ingrédients cueillis complexes. Allergies / végétarien / vegan : signalez à la réservation, pas le soir même." },
+        { "label": "Smart casual", "body": "Aucun restaurant en Finlande ne vous refusera en jean, mais les salles attendent un effort. Baskets et capuche détonnent." }
+      ]
+    },
+    "stayNear": {
+      "headline": "Dormez près des cuisines.",
+      "lead": "Pour un voyage gastronomique, le plan le plus net est un hôtel à 10 minutes de marche (ou un court taxi) d'où vous mangez. Rovaniemi pour Nili / Rakas, Inari pour Aanaar.",
+      "ctaRovaniemi": "Hôtels près de Rovaniemi",
+      "ctaInari": "Hôtels près d'Inari",
+      "tourPrefix": "Vous voulez un guide qui gère le transport, les réservations et les introductions au chef ?",
+      "tourLabel": "Réserver un tour gastronomique arctique"
+    }
+  },
+  "about": {
+    "title": "À propos de LaplandFood",
+    "description": "À propos de LaplandFood, écrit par des gens qui mangent vraiment en Laponie finlandaise. Standards éditoriaux, sourcing, mentions d'affiliation.",
+    "hero": {
+      "kicker": "À propos de LaplandFood",
+      "headline": "La cuisine finlandaise, écrite de l'intérieur.",
+      "lead": "LaplandFood est le site « carte culturelle » sœur dans le réseau LaplandVibes, édito indépendant sur la culture culinaire finlandaise, le sourcing, les recettes sâmes traditionnelles, les cuisines arctiques modernes et où manger vraiment en Laponie."
+    },
+    "why": {
+      "headline": "Pourquoi ce site existe.",
+      "p1": "L'essentiel de ce qui est écrit sur la cuisine lapone en anglais existe dans deux registres. Il y a le registre brochure, « saveurs sâmes magiques sous le soleil de minuit », vague, essoufflé, timide sur les ingrédients. Et il y a le registre académique, ethnographie soigneuse, entièrement référencée, que personne ne lit sur un téléphone avant de réserver le dîner.",
+      "p2": "Nous essayons d'occuper l'entre-deux. Phrases éditoriales sobres. Ingrédients et restaurants précis. Des chiffres quand les chiffres aident, combien de coopératives de rennes, ce que coûte vraiment un menu dégustation, quand se ferme la fenêtre des mûres arctiques et aucun chiffre quand ils ne seraient que remplissage. Écrit depuis l'intérieur du cercle polaire, pas depuis un bureau à Londres ou Helsinki.",
+      "p3": "La barre que nous nous fixons : <strong>un ami qui visite la Laponie pour la première fois doit pouvoir lire trois pages ici et repartir avec assez de contexte pour planifier un vrai voyage culinaire.</strong> Si une section ne passe pas ce test, on la réécrit."
+    },
+    "cover": {
+      "headline": "Ce que nous couvrons.",
+      "lead": "Six piliers. Chacun est une page profonde qui pourrait tenir seule. Ensemble, ils forment le guide de terrain que nous aurions voulu trouver en commençant à écrire sur cette région.",
+      "items": [
+        { "t": "Ingrédients locaux", "body": "Ce qui pousse, nage et paît ici. Renne, mûres arctiques, myrtilles, poissons arctiques, herbes cueillies. D'où ça vient, quand c'est à son apogée.", "href": "/local-ingredients" },
+        { "t": "Recettes traditionnelles", "body": "Bidos, Gahkku, soupe de poisson sâme, kissel aux baies, plus le contexte culturel qui explique pourquoi elles sont ce qu'elles sont.", "href": "/traditional-recipes" },
+        { "t": "Laponie moderne", "body": "Technique New Nordic appliquée aux ingrédients lapons. Sous-vide, fermentation, salaison à froid, garniture cueillie. Où aller goûter.", "href": "/modern-lapland" },
+        { "t": "Guide de cueillette", "body": "Cinq aliments sauvages clés, sécurité champignons en détail, calendrier saisonnier sur 8 mois, et le droit d'accès qui rend tout cela légal.", "href": "/foraging-guide" },
+        { "t": "Michelin & haute gastronomie", "body": "Scène Michelin d'Helsinki, trois salles phares de Laponie, à quoi ressemble vraiment un menu dégustation, comment fonctionne la réservation.", "href": "/michelin-dining" },
+        { "t": "Tours gastronomiques & cours de cuisine", "body": "Les expériences culinaires qui valent la réservation, voyages sâmes, tours gastronomiques, balades de cueillette. Sélectionnées, pas exhaustives.", "href": "/food-tours" }
+      ]
+    },
+    "principles": {
+      "headline": "Comment nous choisissons ce que nous recommandons.",
+      "lead": "Nous sommes un éditeur indépendant. Voici les principes qui nous gardent honnêtes.",
+      "items": [
+        { "t": "Recommander comme à un ami", "body": "Le filtre le plus simple. Chaque restaurant, tour, fournisseur d'ingrédients et producteur sur ce site est un endroit où nous enverrions un ami. Sinon, ça ne va pas sur la page." },
+        { "t": "Précisions plutôt que vibes", "body": "Une affirmation comme « la meilleure haute gastronomie de Laponie » ne veut rien dire sans précisions. Nous vous disons quoi commander, le prix, quand réserver, par où entrer. Tout ce qu'on ne peut pas pointer précisément, on l'omet." },
+        { "t": "L'affiliation ne change pas l'édito", "body": "Certains liens de réservation nous versent une commission si vous réservez via eux. Aucun de ces liens ne débloque de contenu, ne change l'ordre des recommandations ni n'achète une place sur la page. Les mêmes restaurants seraient sur la page sans aucun programme d'affiliation." },
+        { "t": "Pas de stats bidons, pas de citations bidons", "body": "Si nous citons un chiffre, il a une source vérifiable. Si nous citons un chef, nous lui avons parlé. Si nous doutons d'un point, nombre actuel d'étoiles Michelin, année exacte de début d'une tradition, nous le disons et renvoyons à la source autoritaire." },
+        { "t": "Mettre à jour plutôt que supprimer", "body": "Les restaurants ferment, les chefs bougent, les prix changent. Quand on découvre qu'une page est fausse, on la met à jour avec un horodatage. On ne fait pas comme si la mauvaise version n'avait jamais existé." }
+      ]
+    },
+    "network": {
+      "kicker": "Le réseau",
+      "headline": "Où aller pour ce que ce site ne couvre pas.",
+      "lead": "LaplandFood est le site carte culturelle. Ce n'est délibérément pas un annuaire de restaurants ni un moteur de réservation. Les sites sœurs ci-dessous prennent le relais :",
+      "diningBody": "Où <em>réserver vraiment une table</em>. Annuaire restaurant par restaurant avec menus, horaires et liens de réservation directs. Si un endroit est sur une liste ici, il a une page là-bas.",
+      "barsBody": "Bars, brasseries, bars de glace, bars d'hôtel, pubs où les Finlandais boivent vraiment. Culture du verre, horaires, ce qu'ils servent.",
+      "nightlifeBody": "Laponie d'après dîner : DJ, cuisines tardives, salles de concert, calendrier des soirées polaires. Là où la nuit continue.",
+      "footnote": "Le pied de page complet en bas de chaque page liste tous les sites LaplandVibes (où dormir, choses à faire, transport, stations de ski, safaris en husky, nature, travailler en Laponie…)."
+    },
+    "contact": {
+      "headline": "Nous contacter.",
+      "p1Prefix": "Pour toute demande, édito, partenariats, presse, corrections, contestations factuelles, écrivez à",
+      "p1Suffix": ". Nous répondons en finnois ou en anglais, en général sous deux jours ouvrés.",
+      "p2": "<strong>Si vous repérez une erreur</strong>, restaurant fermé, mauvais horaire, prix qui ne colle pas à la réalité, fait erroné, dites-le-nous. Nous mettons à jour plus vite que nous publions.",
+      "p3Prefix": "Pour la confidentialité, les conditions et la politique de cookies, voir",
+      "privacyLabel": "Confidentialité",
+      "termsLabel": "Conditions",
+      "cookieLabel": "Politique de cookies"
+    }
+  },
+  "privacy": { "title": "Politique de confidentialité | LaplandFood", "description": "Comment LaplandFood traite vos données." },
+  "terms": { "title": "Conditions d'utilisation | LaplandFood", "description": "Conditions d'utilisation de LaplandFood." },
+  "cookie": { "title": "Politique de cookies | LaplandFood", "description": "Comment LaplandFood utilise les cookies." }
+}

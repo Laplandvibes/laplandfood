@@ -79,7 +79,7 @@ export default function ForagingGuide() {
               {items.map((it, i) => (
                 <article key={it.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={ITEM_IMAGES[i]} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <img src={ITEM_IMAGES[i]} alt={it.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
                     <div className="absolute top-3 right-4">
                       <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
@@ -94,21 +94,21 @@ export default function ForagingGuide() {
 
                   <div className="p-5 flex flex-col flex-1 text-sm">
                     <div className="mb-3">
-                      <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-0.5 flex items-center gap-1.5">
+                      <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-0.5 flex items-center gap-1.5">
                         <MapPin className="w-3 h-3 text-vibe-pink" /> {t('foragingGuide.labels.where')}
                       </p>
                       <p className="text-[#002F6C]/85 leading-snug">{it.location}</p>
                     </div>
 
                     <div className="mb-3">
-                      <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-0.5">
+                      <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-0.5">
                         {t('foragingGuide.labels.identify')}
                       </p>
                       <p className="text-[#002F6C]/85 leading-snug">{it.identification}</p>
                     </div>
 
                     <div className="mb-3">
-                      <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-0.5 flex items-center gap-1.5">
+                      <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-0.5 flex items-center gap-1.5">
                         <Calendar className="w-3 h-3 text-vibe-pink" /> {t('foragingGuide.labels.when')}
                       </p>
                       <p className="text-[#002F6C]/85 leading-snug">{it.tips}</p>
@@ -116,11 +116,11 @@ export default function ForagingGuide() {
 
                     <div className="grid grid-cols-2 gap-3 mt-auto pt-3 border-t border-[#002F6C]/10 text-xs">
                       <div>
-                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-0.5">{t('foragingGuide.labels.safety')}</p>
+                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-0.5">{t('foragingGuide.labels.safety')}</p>
                         <p className="text-[#002F6C]/80 leading-snug">{it.safety}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-0.5">{t('foragingGuide.labels.sustainability')}</p>
+                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-0.5">{t('foragingGuide.labels.sustainability')}</p>
                         <p className="text-[#002F6C]/80 leading-snug">{it.sustainability}</p>
                       </div>
                     </div>

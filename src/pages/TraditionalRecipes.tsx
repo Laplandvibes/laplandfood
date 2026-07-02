@@ -21,6 +21,12 @@ const articleSchema = {
   about: 'Sami cuisine, traditional Finnish Lapland recipes',
   publisher: { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' },
   inLanguage: 'en'
+,
+  author: { "@type": "Organization", name: "LaplandFood", url: "https://laplandfood.com" },
+  datePublished: "2025-01-01T00:00:00+02:00",
+  dateModified: "2026-05-16T00:00:00+02:00",
+  image: "https://laplandfood.com/og/traditional-recipes-1200x630.jpg",
+  mainEntityOfPage: { "@type": "WebPage", "@id": "https://laplandfood.com" },
 };
 
 const CONTEXT_ICONS = [Flame, Clock, Users];
@@ -140,7 +146,7 @@ export default function TraditionalRecipes() {
               {recipes.map((r, idx) => (
                 <article key={r.name} className="rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-56 sm:h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={RECIPE_IMAGES[idx]} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <img src={RECIPE_IMAGES[idx]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/10 via-[#002F6C]/30 to-[#002F6C]/85" />
                     <div className="absolute bottom-5 left-7 sm:left-9 right-7 sm:right-9">
                       <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-3 py-1.5 rounded-full">

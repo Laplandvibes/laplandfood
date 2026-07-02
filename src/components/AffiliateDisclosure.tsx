@@ -32,7 +32,7 @@ export default function AffiliateDisclosure({
   }
   if (variant === 'dark') {
     return (
-      <p className={`text-[11px] text-snow/40 leading-relaxed ${className}`} role="note">
+      <p className={`text-[11px] text-snow/75 leading-relaxed ${className}`} role="note">
         <span aria-hidden="true">ⓘ </span>
         {text}
       </p>

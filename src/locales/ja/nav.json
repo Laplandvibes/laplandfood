@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "ホーム",
+    "ingredients": "食材",
+    "recipes": "レシピ",
+    "modern": "モダン",
+    "foraging": "採集",
+    "michelin": "ミシュラン",
+    "foodTours": "フードツアー",
+    "about": "概要"
+  },
+  "ariaHome": "LaplandFoodホームへ",
+  "ariaMain": "メインナビゲーション",
+  "menu": "メニュー",
+  "openMenu": "メニューを開く",
+  "closeMenu": "メニューを閉じる"
+}

@@ -1,0 +1,621 @@
+{
+  "hero": {
+    "kicker": "Cucina del Nord, scritta dalla Finlandia",
+    "h1Part1": "COME MANGIA",
+    "h1Part2": "LA FINLANDIA.",
+    "subhead": "Una guida sul campo alla cultura gastronomica finlandese, da dove vengono gli ingredienti, che sapore hanno davvero le ricette e perché il paese ha oggi più stelle Michelin pro capite dei vicini.",
+    "ctaPrimary": "Esplora le ricette tradizionali",
+    "ctaSecondary": "Cosa cresce quassù"
+  },
+  "newsletter": {
+    "kicker": "La newsletter #LaplandVibes",
+    "headline": "Solo quando vale davvero la pena.",
+    "subhead": "La ricetta di stagione da provare, il ristorante che vale la deviazione, la finestra del raccoglitore da non perdere. Selezione editoriale scritta dalla Finlandia.",
+    "emailPlaceholder": "tu@esempio.com",
+    "submit": "Iscriviti",
+    "sending": "Invio…",
+    "successHeadline": "Controlli la casella, benvenuto a bordo.",
+    "successBody": "Il primo invio arriva quando c'è una storia gastronomica finlandese che merita.",
+    "errorPrefix": "Qualcosa è andato storto",
+    "errorRetry": "Riprovi.",
+    "trust": "Edito scritto a mano · cancellazione in un clic · non condividiamo mai il Suo indirizzo."
+  },
+  "sisters": {
+    "kicker": "Quando ha fame",
+    "headline": "Mangi, beva, faccia tardi.",
+    "subhead": "LaplandFood è la mappa culturale. Per il tavolo a cui si siederà davvero, la birra che ordinerà davvero e i locali aperti dopo mezzanotte, vada ai siti gemelli qui sotto.",
+    "visitLabel": "Visita",
+    "items": [
+      { "title": "Prenota un tavolo", "eyebrow": "LaplandDining", "body": "Dove si mangia davvero: oltre 60 ristoranti vagliati in Lapponia con menù, orari e link di prenotazione diretta." },
+      { "title": "Trova un bar o un birrificio", "eyebrow": "LaplandBars", "body": "Microbirrifici, bar di ghiaccio, bar d'hotel e i pub dove i finlandesi bevono davvero, cosa servono e quando aprono." },
+      { "title": "Lapponia dopocena", "eyebrow": "LaplandNightlife", "body": "DJ, cucine aperte fino a tardi, locali di musica dal vivo, il calendario delle feste della notte polare, cosa fare quando la cucina chiude." }
+    ]
+  },
+  "home": {
+    "title": "Cucina Lapponia 2026, gastronomia Sami, raccolta e scelte locali",
+    "description": "La vera cucina della Lapponia nel 2026, gastronomia Sami, renna selvatica, lamponi artici, salmerino, guide alla raccolta, scelte Michelin. 60 ristoranti scelti con cura, prezzi reali.",
+    "intro": {
+      "kicker": "Cos'è questo sito",
+      "headline": "La cucina finlandese, spiegata.",
+      "p1": "LaplandFood è la mappa culturale di come mangia la Finlandia, scritta dall'interno. Da dove vengono gli ingredienti. Le ricette che si preparano davvero un martedì. La scena Michelin che la maggior parte dei viaggiatori si perde. Raccolta, tour gastronomici e tradizioni che risalgono a mille anni fa.",
+      "p2Prefix": "Per prenotare",
+      "p2Em": "un tavolo vero",
+      "p2Mid": ", vada a",
+      "p2DiningSuffix": ". Per bere,",
+      "p2BarsSuffix": ". Per la scena del dopo,",
+      "p2End": "."
+    },
+    "pillarsKicker": "I sei pilastri",
+    "pillarsHeadline": "Inizi da qui.",
+    "pillarsLead": "Sei mappe della cultura gastronomica finlandese. Ne scelga una e vada a fondo, ogni pagina rimanda alle altre.",
+    "readLabel": "Leggi",
+    "pillars": [
+      { "eyebrow": "Pilastro 01", "title": "Ingredienti locali", "body": "Cosa cresce, nuota e pascola davvero qui, renna, lamponi artici, mirtilli, pesce artico, erbe raccolte. Stagioni, approvvigionamento e perché il gusto è quello che è." },
+      { "eyebrow": "Pilastro 02", "title": "Ricette tradizionali", "body": "Stufato di renna bidos, pane piatto sami, zuppa di pesce di lago, kissel di bacche selvatiche, le ricette che hanno nutrito il Sápmi attraverso gli inverni artici per migliaia di anni." },
+      { "eyebrow": "Pilastro 03", "title": "Lapponia moderna", "body": "Come una nuova generazione di chef cucina gli stessi ingredienti con sous-vide, fermentazione e tecnica New Nordic. Dove andare ad assaggiarli." },
+      { "eyebrow": "Pilastro 04", "title": "Guida alla raccolta", "body": "Mirtillo, mirtillo rosso, lampone artico, funghi, ortica, olmaria, cosa raccogliere quando, come riconoscerlo e come farlo in modo sostenibile sotto il diritto di accesso." },
+      { "eyebrow": "Pilastro 05", "title": "Michelin & alta cucina", "body": "La scena Michelin finlandese in sintesi, chi è stellato, dove e chi sta spingendo l'alta cucina dentro il Circolo Polare." },
+      { "eyebrow": "Pilastro 06", "title": "Tour gastronomici & corsi di cucina", "body": "Viaggi gastronomici sami, tour di alta cucina, passeggiate di raccolta, visite ai birrifici, esperienze culinarie prenotabili in tutta la Lapponia." }
+    ],
+    "cultureKicker": "Perché ha quel sapore",
+    "cultureHeadline": "Quattro cose che rendono la cucina finlandese finlandese.",
+    "cultureLead": "Tolga le mode e la cucina finlandese poggia ancora su queste quattro fondamenta. Spiegano sia perché la colazione in hotel comprende pane croccante di segale sia perché un menù degustazione inizia con un pesce salmistrato al ginepro.",
+    "culture": [
+      { "n": "01", "title": "Otto stagioni, non quattro", "body": "Il calendario sami divide l'anno in otto stagioni. Ciascuna fissa cosa c'è in tavola, pesca sotto il ghiaccio nella notte polare, raccolta dei lamponi artici sotto il sole di mezzanotte, funghi ed erbe prima delle prime gelate." },
+      { "n": "02", "title": "Diritto di accesso alla natura", "body": "Il jokamiehenoikeus finlandese permette a chiunque di raccogliere bacche, funghi ed erbe selvatiche sulla maggior parte dei terreni, privati o no. È uno dei pochi quadri legali al mondo che tratta la dispensa selvatica come una risorsa condivisa." },
+      { "n": "03", "title": "Uso totale dell'animale", "body": "Nella cultura culinaria sami nulla della renna si butta: carne, midollo, sangue, grasso, pelle, ossa. Le ricette si sono evolute attorno all'uso totale, per questo il bidos usa tagli più duri e le crêpe al sangue (verilettut) sono diventate un classico finlandese." },
+      { "n": "04", "title": "Condimento sobrio, ingrediente protagonista", "body": "La cucina finlandese raramente grida. I sapori sono aneto, ginepro, burro, sale e l'ingrediente stesso. La cottura è pensata per far parlare il prodotto, un contrasto silenzioso con le cucine più rumorose del sud." }
+    ],
+    "summer": {
+      "kicker": "6 giugno – 7 luglio · 32 giorni di sole di mezzanotte",
+      "headline": "La finestra gastronomica del sole di mezzanotte.",
+      "lead": "I lamponi artici maturano, il pesce di lago tocca il picco, gli orti d'erbe esplodono e il sole non tramonta. Per quattro settimane le cucine lapponi sostituiscono le conserve invernali con i prodotti più leggeri e luminosi dell'anno. Se viene una volta sola, venga adesso.",
+      "cta": "Cosa è di stagione →"
+    }
+  },
+  "localIngredients": {
+    "title": "Ingredienti locali della Lapponia | Renna, bacche, pesce, erbe raccolte | LaplandFood",
+    "description": "Cosa cresce, nuota e pascola davvero nella Lapponia finlandese, sei ingredienti chiave con stagioni, provenienza e come arrivano in tavola.",
+    "hero": {
+      "eyebrow": "Pilastro 01 · Ingredienti",
+      "title": "Cosa cresce",
+      "titleHighlight": "quassù.",
+      "subtitle": "Sei ingredienti che definiscono la dispensa lappone, da dove vengono, quando sono al massimo e che sapore hanno davvero.",
+      "primaryCta": "Guida alla raccolta",
+      "secondaryCta": "Ricette che li usano"
+    },
+    "intro": {
+      "lead": "La dispensa lappone è corta. È la sua forza.",
+      "p1": "Si possono elencare tutti gli ingredienti che definiscono la cucina lappone sulle dita di una mano, renna, pesce di lago, bacche raccolte, funghi raccolti, erbe selvatiche, latticini. Non c'è un trentesimo ingrediente nascosto che sblocchi la cucina. L'abilità sta in ciò che la gente ha imparato a fare con una piccola tavolozza in mille anni di inverni artici: come essiccare, affumicare, fermentare, lacto-mettere in salamoia, cuocere lentamente, far arrivare il prodotto fino a marzo senza frigorifero.",
+      "p2": "Quasi tutto ciò che si trova nelle schede qui sotto è selvatico. È ciò che distingue la cucina lappone da quasi ogni altra cultura gastronomica europea. Le renne sono tecnicamente allevate, ma vivono su decine di migliaia di chilometri quadrati di natura non recintata; il compito dell'allevatore è seguirle, non nutrirle. Bacche e funghi non si possono coltivare commercialmente in Lapponia, il clima è troppo breve e troppo umido, quindi tutto l'approvvigionamento è da raccolta. I pesci di lago si pescano uno alla volta, spesso attraverso il ghiaccio. La filiera dal sottobosco al piatto è a volte letteralmente di poche ore.",
+      "p3": "Ciò ha conseguenze sul sapore. Gli ingredienti selvatici variano di anno in anno e di luogo in luogo in un modo in cui i coltivati non lo fanno. I lamponi artici da una torbiera sopra Inari hanno un sapore diverso dai lamponi artici 80 chilometri più a sud sopra Saariselkä, acidità diversa, zucchero diverso, profumo diverso. Una renna che ha passato l'autunno sull'altopiano di licheni sopra Utsjoki ha un sapore diverso da una che ha brucato i funghi vicino a Rovaniemi. Gli chef e i cuochi sami hanno sempre trattato questo come un pregio: si cucina attorno a ciò che l'ingrediente sta facendo quell'anno, non attorno a una ricetta fissa.",
+      "p4": "Le sei schede ingrediente qui sotto sono la base. Più in basso trova saggi più lunghi sui tre temi che i visitatori chiedono di più, renna (filiera, etica, tagli), lampone artico (perché nessuno può coltivarlo e cosa significa per il prezzo) e pesce di lago (il ruolo della pesca sotto il ghiaccio in inverno). Infine una sezione sul diritto di accesso che lega tutta questa dispensa giuridicamente e culturalmente."
+    },
+    "ingredients": [
+      { "name": "Renna & selvaggina", "season": "Tutto l'anno · meglio da ott a mar", "description": "Il cuore della cucina artica. Renne in libertà allevate in natura incontaminata, la proteina più importante della cultura sami da migliaia di anni.", "nutritional": "Ricca di proteine, povera di grassi, ricca di B12 e ferro", "uses": "Griglia, essiccazione, affumicatura, stufati lenti" },
+      { "name": "Mirtilli & mirtilli rossi", "season": "Agosto–settembre", "description": "Super-bacche artiche piene di antiossidanti. Crescono spontanee sotto il sole di mezzanotte nella tundra e nella foresta boreale.", "nutritional": "Antiossidanti, vitamina C, fibre", "uses": "Marmellate, succhi, pasticceria, essiccazione" },
+      { "name": "Funghi selvatici, porcini & lattari", "season": "Luglio–settembre", "description": "L'oro del bosco delle vecchie foreste lapponi. Tradizionalmente essiccati per le conserve invernali.", "nutritional": "Proteine, fibre, vitamina D", "uses": "Essiccazione, conserve, zuppe, sughi" },
+      { "name": "Pesce di lago artico", "season": "Tutto l'anno · pesca sotto il ghiaccio in inverno", "description": "Pesci di laghi cristallini, coregone, luccio, persico, trota. La pesca sotto il ghiaccio è una tradizione invernale amata in tutta la Lapponia.", "nutritional": "Omega-3, ricco di proteine, fosforo", "uses": "Affumicatura, salatura, griglia, zuppa cremosa" },
+      { "name": "Erbe selvatiche, olmaria & ortica", "season": "Giugno–agosto", "description": "Il potere delle piante selvatiche. Erbe medicinali e culinarie usate nella cultura sami da generazioni.", "nutritional": "Minerali, vitamine, flavonoidi", "uses": "Tisane, insalate, zuppe, essiccazione" },
+      { "name": "Lamponi artici", "season": "Metà luglio – metà agosto", "description": "Il gioiello dorato della Lapponia. Cresce solo in torbiere e paludi artiche, una delle bacche selvatiche più rare e pregiate al mondo.", "nutritional": "Vitamina C, vitamina E, omega-3", "uses": "Marmellate, dolci, liquori, consumo fresco" }
+    ],
+    "labels": { "nutrition": "Nutrizione:", "usedIn": "Usato in:" },
+    "reindeerDeep": {
+      "kicker": "Approfondimento · Renna",
+      "headline": "Come una renna finisce su un piatto lappone.",
+      "p1": "L'industria della renna in Finlandia è regolata dalla Legge sull'allevamento della renna, che riserva la proprietà a persone domiciliate nell'area di allevamento (di fatto la Finlandia settentrionale). Gli animali appartengono ai singoli allevatori ma pascolano insieme in cooperative, <em>paliskunnat</em>, che condividono territorio e lavoro. Ci sono circa 200.000 renne in circa 54 cooperative, tutte in Lapponia e in alcune parti dell'Ostrobotnia settentrionale.",
+      "p2": "Il branco è selvatico in tutto tranne che nella proprietà. Le renne percorrono liberamente enormi distese di taiga e tundra non recintate, mangiando ciò che trovano: lichene in inverno (la dieta che dà alla carne il suo sapore pulito specifico), erbe e piante in estate, funghi in autunno. Gli allevatori seguono gli animali con motoslitte e quad, li radunano due volte all'anno per la marcatura delle orecchie e (in autunno) la selezione per la macellazione, poi li lasciano disperdersi di nuovo.",
+      "p3": "La macellazione avviene in autunno, di solito ottobre-novembre, quando gli animali sono al peso massimo. Ogni cooperativa gestisce il proprio macello approvato UE. Gran parte della carne è venduta entro poche centinaia di chilometri da dove l'animale è vissuto, a ristoranti lapponi, a macellai specializzati a Helsinki e nel resto della Finlandia meridionale, e a un piccolo ma serio mercato di esportazione nell'Europa centrale.",
+      "p4": "<strong>I tagli che vedrà su un menù lappone</strong> corrispondono grossomodo a un vocabolario bovino: <em>fileé</em> (filetto, territorio sous-vide), <em>sisäpaisti / ulkopaisti</em> (girello / sottofesa, arrostiti interi o affettati per piatti affumicati a caldo), <em>poronkäristys</em> (renna saltata, il cavallo da battaglia quotidiano finlandese, fette sottili, burro, sale, servite su purè con mirtillo rosso) e <em>suovas</em> (sella affumicata a freddo, mangiata a scaglie con pane di segale). Il bidos usa tagli da stufato più duri, di solito spalla e stinco, per questo cuoce per ore.",
+      "p5": "Eticamente, la renna sami al pascolo brado è una delle proteine più sostenibili di un menù europeo, niente recinto d'ingrasso, niente antibiotici, niente pascolo chiuso, dieta nativa. La complicazione è climatica: gli inverni lapponi diventano più umidi, si formano strati di ghiaccio sulla neve, le renne non riescono a grattare per il lichene, e gli allevatori devono integrare l'alimentazione in alcune cooperative. Cambia la filiera e, lentamente, il sapore. È una storia da seguire nel prossimo decennio."
+    },
+    "cloudberryDeep": {
+      "kicker": "Approfondimento · Lampone artico",
+      "headline": "La bacca che nessuno riesce a coltivare.",
+      "p1": "Il lampone artico, <em>hilla</em> in finlandese, <em>luomi</em> in sami del nord, è la bacca selvatica più pregiata della Lapponia e la più ostinatamente non coltivata tra le bacche importanti del mondo. Cresce solo in torbiere fredde, acide e impregnate d'acqua in una stretta fascia dell'emisfero settentrionale: Scandinavia settentrionale, Finlandia, parti della Russia, Alaska e Canada settentrionale. Dentro a quelle zone è sorprendentemente comune. Fuori, non cresce.",
+      "p2": "Decenni di ricerca agricola non sono riusciti a commercializzarlo. Le piante di lampone artico sono dioiche (maschili e femminili separate), crescono molto lentamente, impiegano 6–7 anni a fruttificare anche in condizioni perfette, sono vulnerabili alle gelate tardive che distruggono i fiori dell'anno, e richiedono una combinazione specifica di umidità, luce e chimica delle torbiere che ha resistito alla simulazione in serra. I ricercatori norvegesi e finlandesi hanno fatto progressi sulle cultivar ma le rese commerciali sono ancora una frazione di quelle selvatiche. Quindi tutto l'approvvigionamento finlandese, per produttori di marmellate, di liquori (Lakka), per le cucine dei ristoranti, è raccolto in natura.",
+      "p3": "È per questo che un chilo di lamponi artici freschi al mercato di Rovaniemi a fine luglio costa di solito 25–50 €, cinque-dieci volte il prezzo dei mirtilli e perché l'offerta crolla se la gelata di primavera arriva una settimana in ritardo. È anche per questo che il parfait al lampone artico è il dolce dell'alta cucina lappone. Ogni chef vuole usarli finché durano.",
+      "p4": "<strong>Etica della raccolta:</strong> le piante di lampone artico si riprendono lentamente. Il principio sami e la convenzione di raccolta finlandese, è prendere solo bacche pienamente mature, lasciare quelle acerbe e quelle troppo mature, e non spogliare mai una pianta. Se raccoglie su una piccola torbiera, un chilo a famiglia basta."
+    },
+    "fishDeep": {
+      "kicker": "Approfondimento · Pesce di lago",
+      "headline": "Perché la pesca sotto il ghiaccio dà il miglior pesce dell'anno.",
+      "p1": "La Lapponia si estende su circa 6.000 laghi, ciascuno abbastanza pulito da poterne bere l'acqua durante un trekking di lunga distanza. I quattro pesci che contano in tavola sono il <strong>coregone (siika)</strong>, il <strong>luccio (hauki)</strong>, il <strong>persico (ahven)</strong> e la <strong>trota fario / salmerino artico (taimen / nieriä)</strong>. Tutti e quattro sono nativi, tutti e quattro vengono pescati in quantità commerciale sia da piccoli pescatori sia da appassionati di pesca sotto il ghiaccio, tutti e quattro compaiono in forme diverse nei menù lapponi.",
+      "p2": "La pesca sotto il ghiaccio, <em>pilkkiminen</em>, è più di un passatempo locale. È il metodo di pesca che dà il pesce di lago artico più saporito dell'anno. Ecco perché: in inverno, l'acqua del lago è alla sua massima freddezza e limpidezza. Il metabolismo dei pesci rallenta, i depositi di grasso si rassodano e i parassiti muoiono (niente vettori d'acqua calda). La polpa di un coregone pescato sotto il ghiaccio a febbraio è più densa, più dolce e dal sapore più pulito dello stesso pesce pescato a luglio. Gli chef lapponi tarano i menù attorno a questo.",
+      "p3": "La tecnica in sé è semplice, perforare un foro attraverso 50–80 cm di ghiaccio, calare una piccola esca con un singolo amo, aspettare, ma richiede temperature spesso inferiori a −15 °C. L'approccio sami tradizionale prevedeva di sigillare il foro tra una visita e l'altra per impedire all'acqua sottoglaciale di richiudere la canna. Oggi la maggior parte usa tende isolate (un piccolo riparo da pesca è economico e cambia completamente l'esperienza).",
+      "p4Prefix": "In un menù: coregone leggermente affumicato (<em>graavisiika</em>) e uova di luccio su segale sono antipasti lapponi quotidiani. Una trota fario intera arrostita è il classico secondo. La zuppa di pesce sápmi (ricetta sulla",
+      "p4LinkLabel": "pagina ricette",
+      "p4Suffix": ") usa ciò che i pescatori hanno portato quella settimana."
+    },
+    "everymansRight": {
+      "kicker": "Diritto di accesso",
+      "headline": "Il quadro legale che rende possibile tutto questo.",
+      "p1": "Quasi tutti gli ingredienti di questa pagina sono, legalmente, gratuiti. Il <em>jokamiehenoikeus</em> finlandese (diritto di accesso) è un principio plurisecolare codificato che permette a chiunque, cittadino o visitatore, di camminare, accamparsi e raccogliere sulla maggior parte dei terreni in Finlandia indipendentemente da chi ne sia proprietario. Può raccogliere bacche, funghi ed erbe selvatiche su terreno privato senza chiedere. Può pescare a una canna senza permesso. Può dormire una notte sulla maggior parte dei terreni senza chiedere.",
+      "p2": "Cosa non può fare: danneggiare gli alberi, cacciare, guidare un veicolo fuoristrada, raccogliere piante protette, accendere un fuoco aperto sul terreno di qualcun altro senza permesso, o raccogliere da un giardino coltivato. Il principio è accesso senza danno. È uno dei pochi quadri legali in Europa che tratta il cibo selvatico come una risorsa condivisa, ed è la ragione strutturale per cui la cultura gastronomica lappone è sopravvissuta alla modernizzazione.",
+      "ctaPrimary": "Leggi la guida alla raccolta",
+      "ctaSecondary": "O prenoti una passeggiata di raccolta guidata"
+    }
+  },
+  "traditionalRecipes": {
+    "title": "Ricette tradizionali lapponi | LaplandFood",
+    "description": "Vere ricette lapponi, renna saltata (poronkäristys), salmerino artico, leipäjuusto, bacche con panna. Testate in cucine lapponi, scritte per i viaggiatori.",
+    "hero": {
+      "eyebrow": "Pilastro 02 · Ricette",
+      "title": "Ricette",
+      "titleHighlight": "sami tradizionali.",
+      "subtitle": "Un'immersione profonda nel patrimonio culinario sami. Queste ricette hanno sostentato la gente attraverso gli inverni artici per migliaia di anni, ciascuna porta saggezza, sapore e un legame con la terra.",
+      "primaryCta": "Vai alle ricette",
+      "secondaryCta": "Cucina moderna"
+    },
+    "intro": {
+      "lead": "Le ricette di questa pagina non sono patrimonio in senso museale. Si cucinano ancora.",
+      "p1": "Entri in una casa sami a Inari o Utsjoki un martedì di novembre e sentirà il <em>bidos</em> sul fornello, lo stesso stufato di renna a lunga cottura che cucinava la nonna, fatto allo stesso modo, con gli stessi tagli, a un fuoco così basso che la pentola sussurra appena. Il fatto che il fornello sia ora elettrico e la carne provenga da un branco cooperativo registrato non cambia la ricetta. Cambia leggermente i tempi. Tutto qui.",
+      "p2": "Quella continuità è il punto. La cucina sami è sopravvissuta là dove la maggior parte delle culture gastronomiche artiche preindustriali non l'ha fatto, perché non ha mai dipeso da ingredienti importati per avere il proprio sapore. Renna, pesce di lago, bacche raccolte, erbe selvatiche, farina di segale, burro, sale, quasi tutto si reperisce a distanza di passeggiata da dove si mangia. Quando le filiere si rompono (guerra, sanzioni, pandemia), le cucine lapponi continuano. Lo si è visto a memoria d'uomo.",
+      "p3": "Le quattro ricette qui sotto sono i punti d'ingresso. <strong>Il bidos</strong> è il piatto proteico dell'anima. <strong>Il gahkku</strong> è il pane quotidiano. <strong>La zuppa di pesce sápmi</strong> usa ciò che è uscito dal lago quella settimana. <strong>Il kissel di bacche selvatiche</strong> è dolce e colazione e un modo di conservare l'estate. Se cucina solo queste quattro, ha già coperto la maggior parte dell'anno di una casa tradizionale del Sápmi.",
+      "p4": "Legga prima il contesto culturale. Le ricette avranno più senso, in particolare perché alcune chiedono « sale quanto basta » invece di un numero di grammi (perché in una vera cucina sami il sale era razionato in base a ciò che la famiglia aveva acquistato al sud quell'autunno). Sotto le ricette troverà le otto stagioni sami in dettaglio, il revival moderno della cucina sami e i quattro metodi tradizionali di cottura che compaiono ancora nelle cucine d'alta gastronomia di Lapponia."
+    },
+    "context": {
+      "kicker": "La saggezza della cultura culinaria sami",
+      "headline": "Perché le ricette sono fatte così.",
+      "items": [
+        { "title": "Efficienza energetica", "body": "Ricette progettate per ridurre al minimo combustibile e tempo in un clima artico duro. Sobbollitura lenta + proteina grassa = massimo di kilocalorie per ciocco di legna." },
+        { "title": "Lunga conservazione", "body": "Cibi pensati per durare senza refrigerazione né conservanti, essiccazione, affumicatura, fermentazione e congelamento nella neve." },
+        { "title": "Comunità", "body": "Cucinare e condividere il cibo è il rituale sociale centrale della vita sami. La pentola al centro del lavvu (tipi) è, letteralmente, il centro." }
+      ]
+    },
+    "sapmi": {
+      "kicker": "Il popolo sami e il suo patrimonio gastronomico",
+      "headline": "Sápmi, una delle cucine più antiche d'Europa.",
+      "lead": "I sami sono il popolo indigeno del Sápmi, una vasta terra natale artica che attraversa Finlandia settentrionale, Svezia, Norvegia e Russia. La loro cucina è una delle culture gastronomiche viventi più antiche d'Europa, plasmata interamente dalla terra, dalle stagioni e dalla vita d'allevamento della renna.",
+      "items": [
+        { "title": "Sápmi, la terra natale", "body": "Il Sápmi copre oltre 400.000 km² su quattro nazioni. Il Sápmi finlandese (Saamelaisten kotiseutualue) è la regione più settentrionale della Finlandia, comuni di Enontekiö, Inari e Utsjoki." },
+        { "title": "Lingue sami", "body": "Esistono nove lingue sami vive. Il sami del nord è la più parlata. Molti nomi di ricette tradizionali, come <em>bidos</em> e <em>gahkku</em>, vengono direttamente dal sami del nord." },
+        { "title": "Otto stagioni, non quattro", "body": "La misurazione del tempo sami divide l'anno in otto stagioni. Ciascuna stabilisce cosa c'è in tavola, pesca sotto il ghiaccio nella notte polare, raccolta dei lamponi artici a metà estate, funghi prima delle prime gelate." }
+      ]
+    },
+    "recipesKicker": "Ricette autentiche",
+    "recipesHeadline": "Quattro ricette per cominciare.",
+    "recipeLabels": {
+      "time": "Tempo",
+      "serves": "Per",
+      "level": "Livello",
+      "ingredients": "Ingredienti",
+      "instructions": "Istruzioni",
+      "tip": "Consiglio tradizionale"
+    },
+    "recipes": [
+      {
+        "name": "Bidos, Stufato di renna tradizionale",
+        "difficulty": "Medio",
+        "time": "3–4 ore",
+        "serves": "6–8 persone",
+        "tradition": "Patrimonio sami",
+        "description": "Stufato di renna a lunga cottura, il comfort food della cultura sami da secoli. Semplice, caldo e profondamente nutriente.",
+        "ingredients": ["1 kg di renna (taglio da stufato)", "4–5 patate a cubetti", "2 carote a rondelle", "1 cipolla tritata", "2 cucchiai di burro o grasso di renna", "Sale e pepe nero q.b.", "Aneto fresco"],
+        "instructions": ["Tagli la renna in pezzi da 3–4 cm", "Scaldi il grasso in una pentola dal fondo pesante a fuoco medio-alto", "Rosoli bene la carne su tutti i lati", "Aggiunga la cipolla e la faccia appassire", "Copra appena con acqua", "Faccia sobbollire a fuoco basso 2–3 ore finché la carne è tenera", "Aggiunga patate e carote nell'ultima ora", "Saliassi e pepi con generosità", "Guarnisca con aneto fresco e serva"],
+        "tips": "Tradizionalmente cucinato su fuoco aperto a fuoco basso per lungo tempo, la pazienza è l'ingrediente segreto."
+      },
+      {
+        "name": "Gahkku, Pane piatto sami",
+        "difficulty": "Facile",
+        "time": "45 min + lievitazione",
+        "serves": "1 pagnotta",
+        "tradition": "Antica ricetta sami",
+        "description": "Semplice ma nutriente, un pane a lunga durata che ha alimentato i viaggi artici per generazioni.",
+        "ingredients": ["500 g di farina di frumento", "250 ml di acqua tiepida", "1 cucchiaino di sale", "1 cucchiaino di zucchero", "1 bustina di lievito secco", "2 cucchiai di olio"],
+        "instructions": ["Mescoli gli ingredienti secchi", "Aggiunga l'acqua tiepida e l'olio", "Impasti fino a impasto liscio", "Faccia lievitare al caldo 30 minuti", "Formi una pagnotta rotonda", "Cuocia a 225 °C per 25–30 minuti", "Il pane è pronto quando suona vuoto"],
+        "tips": "Tradizionalmente cotto su pietre calde o su fuoco aperto."
+      },
+      {
+        "name": "Zuppa di pesce sápmi",
+        "difficulty": "Facile",
+        "time": "45 minuti",
+        "serves": "4–6 persone",
+        "tradition": "Cultura di pesca artica",
+        "description": "Una zuppa di pesce amata che usa il pesce di lago più pulito ed erbe selvatiche, un sapore della riva artica.",
+        "ingredients": ["800 g di pesce di lago fresco (coregone o trota)", "1 litro di brodo di pesce o acqua", "3–4 patate a cubetti", "1 carota a rondelle", "1 cipolla", "250 ml di panna", "Aneto fresco", "Sale e pepe bianco"],
+        "instructions": ["Pulisca e sfiletti il pesce", "Faccia sobbollire la testa e le lische per il brodo", "Filtri il brodo e lo rimetta in pentola", "Aggiunga patate e carote", "Cuocia 15 minuti", "Aggiunga i pezzi di pesce e la cipolla", "Cuocia altri 10 minuti", "Incorpori panna e gambi di aneto", "Saliassi, pepi bianco, aggiunga aneto fresco al servizio"],
+        "tips": "Vecchio trucco: aggiungere i gambi di aneto in cottura, le foglie fresche solo alla fine."
+      },
+      {
+        "name": "Kissel di bacche selvatiche",
+        "difficulty": "Facile",
+        "time": "30 minuti",
+        "serves": "4–6 persone",
+        "tradition": "Tradizione estiva di conservazione",
+        "description": "Il modo classico di godere le bacche selvatiche lapponi. Pieno di antiossidanti e ricco di sapore artico naturale.",
+        "ingredients": ["500 g di bacche miste (mirtilli, mirtilli rossi)", "100–150 g di zucchero q.b.", "3 cucchiai di fecola di patate", "1 litro di acqua", "Zucchero vanigliato"],
+        "instructions": ["Sobbollisca le bacche in acqua 10 minuti", "Frulli e filtri se desiderato", "Aggiunga zucchero e zucchero vanigliato", "Sciolga la fecola in acqua fredda", "Versi nel liquido caldo", "Cuocia 2–3 minuti fino a addensare", "Servire caldo o freddo"],
+        "tips": "Tradizionalmente dolcificato con miele selvatico invece dello zucchero, provi entrambi i modi."
+      }
+    ],
+    "seasons": {
+      "kicker": "Il calendario sami",
+      "headline": "Otto stagioni, otto dispense.",
+      "p1": "Il calendario in quattro stagioni è un'assunzione dell'Europa temperata. I sami dividono l'anno in otto, ognuna legata a ciò che le renne stanno facendo, all'aspetto del lago e a ciò che è maturo nel bosco. Se vuole capire perché una cucina sami è fatta com'è, si inizia da qui.",
+      "p2": "I nomi sotto sono gli originali in sami del nord. Le date sono approssimative, le stagioni del Sápmi seguono più la fenologia (cosa sta facendo la terra) che il calendario.",
+      "items": [
+        { "sami": "Dálvi", "en": "Inverno", "when": "Dic – feb", "body": "Notte polare e il freddo più profondo. Le renne sono nei pascoli invernali, raspando per il lichene sotto la neve. La casa vive di ciò che è stato conservato in autunno: renna essiccata (suovas), pesce salato, bacche congelate, farina di segale. Il bidos è la cena quotidiana, proteina grassa a lunga cottura che tiene caldo." },
+        { "sami": "Giđđadálvi", "en": "Inverno-primavera", "when": "Mar – apr", "body": "La luce torna. Inizia il parto delle renne; gli allevatori si muovono col branco. La pesca sotto il ghiaccio è al meglio, c'è abbastanza sole per pescare senza gelarsi, e il pesce è ancora sotto ghiaccio spesso. Domina il coregone affumicato. I giorni si allungano di 7 minuti al giorno." },
+        { "sami": "Giđđa", "en": "Primavera", "when": "Mag", "body": "Disgelo. Le renne si spostano verso i pascoli estivi. Compaiono le prime giovani foglie di betulla e germogli di ortica, i primi verdi freschi in sette mesi. La linfa di betulla si raccoglie e si beve fresca, si usa per sciroppi o si fermenta. Arrivano le prime uova di uccelli migratori." },
+        { "sami": "Giđđageassi", "en": "Primavera-estate", "when": "Giu", "body": "La prima metà del sole di mezzanotte. Le renne partoriscono; i piccoli corrono. Il suolo è finalmente abbastanza caldo per le erbe selvatiche (olmaria, achillea, angelica). I prodotti da forno sostituiscono gli stufati. Tornano i latticini freschi e il burro dai pascoli montani." },
+        { "sami": "Geassi", "en": "Estate", "when": "Lug", "body": "Sole di mezzanotte pieno. La raccolta dei lamponi artici, tre-sei settimane in cui le famiglie passano intere serate nella torbiera a raccogliere. Le erbe si essiccano per l'inverno; le bacche si fanno in marmellata, si congelano o si fermentano. La pesca in lago è quotidiana. La cucina chiude a malapena." },
+        { "sami": "Čakčageassi", "en": "Estate-autunno", "when": "Ago – inizio sett", "body": "Stagione dei mirtilli e dei mirtilli rossi. Spuntano i funghi, porcini, lattari, galletti. I giorni sono ancora lunghi; le notti iniziano a rinfrescare. Le renne sono al peso massimo. La dispensa si riempie: marmellate, pesce salato, funghi secchi, bacche congelate." },
+        { "sami": "Čakča", "en": "Autunno", "when": "Sett – ott", "body": "Stagione della macellazione. Le renne vengono radunate; gli allevatori scelgono quali animali macellare per l'inverno. La carne viene lavorata: affumicata, essiccata (suovas) e congelata. È la banca proteica che deve durare sette mesi. Le prime gelate addolciscono i mirtilli rossi." },
+        { "sami": "Čakčadálvi", "en": "Autunno-inverno", "when": "Nov", "body": "Il buio torna. La neve si posa. Ultimi lavori di conservazione, salare il pesce, mettere via le marmellate, fare l'inventario. La cucina punta sul calore: stufati, zuppe, pani di segale al forno, succhi di bacche caldi. La pentola del bidos è sul fornello quasi ogni giorno." }
+      ]
+    },
+    "revival": {
+      "kicker": "Revival moderno della cucina sami",
+      "headline": "Perché le ricette stanno tornando.",
+      "p1": "Per gran parte del XX secolo, la cucina sami è esistita in due realtà parallele. Nelle case sami era semplicemente cena, senza consapevolezza, senza romanticismo, lo stesso cibo che la generazione precedente cucinava. Fuori dal Sápmi era quasi invisibile: una nota a margine nei depliant turistici, a volte esotizzata, più spesso ignorata.",
+      "p2": "L'inversione è iniziata alla fine degli anni 2000. La cucina New Nordic, lanciata da Noma a Copenhagen, ha reso brevemente di moda nelle sale d'alta cucina scandinave il cibo raccolto, iperlocale e indigeno del nord. Gli chef finlandesi hanno notato che la cucina che entusiasmava il resto del mondo, erbe selvatiche, bacche lacto-fermentate, pesce affumicato, selvaggina a lunga cottura, era stata sui piatti sami per mille anni. Per un periodo la pipeline è andata nell'altra direzione: tecniche e ingredienti sami sono fluiti nei menù degustazione di Helsinki.",
+      "p3": "Poi il mondo culinario sami ha iniziato a riappropriarsi della conversazione. Restaurant Aanaar a Inari ha costruito un programma d'alta cucina che è, senza scuse, sami prima e gastronomico poi. Il capitolo Slow Food Sápmi ha spinto per lo status protetto di prodotti tradizionali come <em>suovas</em> (renna affumicata a freddo) e <em>guompa</em> (angelica fermentata). Gli chef sami hanno cominciato a formare apprendisti sami invece di mandarli in cucine classiche francesi. Il summit Indigenous Terra Madre 2017 a Inari, incontro globale del cibo indigeno, è stato un punto di svolta.",
+      "p4": "Il momento attuale è interessante. La cucina sami è nei menù stellati Michelin di Helsinki e sul tavolo quotidiano di Utsjoki, ma le ricette convergono meno di quanto ci si aspetterebbe. Le versioni d'alta cucina ricevono l'upgrade tecnico, sous-vide, lacto-fermentazione, guarnizione di fiori raccolti. Le versioni casalinghe restano quasi invariate. Entrambe sono valide. Le ricette di questa pagina sono le versioni casalinghe.",
+      "p5Prefix": "Per assaggiare l'interpretazione d'alta cucina, vada a",
+      "p5ModernLabel": "Lapponia moderna",
+      "p5Mid": ". Per assaggiare la versione casalinga cucinata da qualcuno cresciuto cucinandola, il",
+      "p5ToursLabel": "Viaggio culinario culturale sami",
+      "p5Suffix": " sulla pagina Tour è la cosa più vicina a un'introduzione."
+    },
+    "methods": {
+      "kicker": "Come funzionava una cucina senza fornello",
+      "headline": "Quattro metodi tradizionali di cottura.",
+      "lead": "Tutti e quattro compaiono ancora nelle cucine d'alta gastronomia lapponi, gli chef li usano perché producono sapori che nulla di moderno può replicare. Il fuoco aperto crea una reazione di Maillard a temperature che il sous-vide non può raggiungere. Le pietre calde cuociono il pane con una secchezza specifica. I forni di terra brasano sul solo calore trattenuto. L'affumicatura è, nel 2026, ancora il metodo di conservazione più semplice che l'uomo conosca.",
+      "items": [
+        { "title": "Fuoco aperto", "body": "Grigliatura e arrostimento direttamente sopra le fiamme di un falò" },
+        { "title": "Forno di terra", "body": "Cottura lenta sotterranea in fosse di terra" },
+        { "title": "Pietre calde", "body": "Cottura del pane su pietre piatte scaldate al fuoco" },
+        { "title": "Affumicatura", "body": "Conservazione di carne e pesce con fumo freddo o caldo" }
+      ]
+    },
+    "ctaStrip": {
+      "headline": "Lo cucini a casa o se lo faccia insegnare di persona.",
+      "tours": "Esperienze culinarie",
+      "ingredients": "Ingredienti locali",
+      "modern": "Interpretazioni moderne"
+    }
+  },
+  "modernLapland": {
+    "title": "Cucina moderna della Lapponia | LaplandFood",
+    "description": "Come una nuova generazione di chef lapponi sta ricostruendo la cucina artica, piatti raccolti, fermentazione, approvvigionamento iperlocale. I ristoranti che guidano il cambiamento.",
+    "hero": {
+      "eyebrow": "Pilastro 03 · Moderna",
+      "title": "La nuova",
+      "titleHighlight": "cucina artica.",
+      "subtitle": "Renna in sous-vide. Mirtilli lacto-fermentati. Coregone confit sotto olio di erbe selvatiche. La cucina moderna lappone prende gli stessi ingredienti che i sami usano da mille anni e applica la tecnica New Nordic.",
+      "primaryCta": "Dove prenotare",
+      "secondaryCta": "Le ricette tradizionali"
+    },
+    "intro": {
+      "lead": "Il passaggio è durato circa dieci anni. L'alta cucina lappone è passata da \"ristorante d'hotel turistico con bistecca di renna al pepe\" a \"piccole sale di menù degustazione guidate dallo chef che competono con Helsinki sulla maestria del piatto\".",
+      "p1": "Tre cose lo hanno reso possibile. Primo, il movimento New Nordic iniziato a Noma a Copenhagen a metà anni 2000 ha riformulato tutto ciò che la Scandinavia trattava come imbarazzantemente rurale, erbe raccolte, pesce affumicato, lacto-fermentazione, selvaggina a lunga cottura, latticini da una sola fattoria, come l'estremità sofisticata della cucina. Una volta ottenuta quella copertura culturale, gli chef lapponi che facevano quelle cose da sempre hanno avuto spazio per metterle in un piatto d'alta cucina senza scuse.",
+      "p2": "Secondo, la tecnica è salita a nord. I circolatori sous-vide sono diventati più economici, i sacchetti sottovuoto sono diventati standard, e gli ingredienti che tradizionalmente erano stracotti in stufato (perché era l'unico modo per rendere un taglio duro mangiabile) ora si possono cuocere a centro rosa a 54 °C e servire come proteina principale. Il filetto di renna, un taglio un tempo riservato alle occasioni speciali perché tanto facile da rovinare, è diventato la firma moderna lappone. Non perché sia di moda, ma perché la tecnica ha finalmente raggiunto l'ingrediente.",
+      "p3": "Terzo, la filiera si è professionalizzata. Raccoglitori e piccoli pescatori hanno iniziato a vendere direttamente ai ristoranti invece che tramite grossisti. Le cooperative sami hanno certificato parti della loro macellazione per il commercio della ristorazione. Produttori specializzati, sciroppifici di betulla, affumicatoi, fermentatori di aceto di mirtillo rosso, si sono installati in Lapponia per vendere agli chef. Un menù degustazione moderno lappone può elencare undici ingredienti in un piatto e averli tutti reperiti entro 200 chilometri.",
+      "p4": "I quattro piatti qui sotto sono firme delle sale che fanno questo meglio di tutti. Sotto le schede c'è un pezzo più lungo su cosa <em>sia</em> davvero la tecnica New Nordic, al di là del brand e come si manifesta in una cucina lappone."
+    },
+    "dishesKicker": "Quattro piatti firma",
+    "dishesHeadline": "La Lapponia moderna nel piatto.",
+    "dishLabels": { "technique": "Tecnica", "from": "Da", "twist": "Variante" },
+    "dishes": [
+      { "name": "Filetto di renna sous-vide & crema di mirtilli", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Renna classica cotta a 54 °C, servita con salsa di mirtilli selvatici e chips di barbabietola.", "technique": "Sous-vide", "traditional": "Renna arrostita tradizionale", "innovation": "Cottura a temperatura precisa e impiattamento moderno", "price": "da 42 €" },
+      { "name": "Coregone artico & olio di erbe selvatiche", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Coregone di lago cotto confit, olmaria, aïoli di bacche e fiori commestibili.", "technique": "Confit + gastronomia molecolare", "traditional": "Coregone affumicato", "innovation": "Cottura a bassa temperatura + fiori selvatici raccolti", "price": "da 38 €" },
+      { "name": "Menù degustazione 7 portate alle bacche selvatiche", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Un viaggio completo costruito attorno alle bacche selvatiche della Lapponia, dall'amuse-bouche al dessert.", "technique": "New Nordic + fermentazione", "traditional": "Composte e marmellate di bacche", "innovation": "Bacche lacto-fermentate e acidità naturali", "price": "da 85 €" },
+      { "name": "Bidos decostruito & polvere di midollo", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "Una reinterpretazione in gastronomia molecolare del classico stufato di renna sami.", "technique": "Decostruzione + sferificazione", "traditional": "Stufato di renna bidos", "innovation": "Separare e riassemblare i sapori con tecnica moderna", "price": "da 45 €" }
+    ],
+    "techniques": {
+      "kicker": "Cosa significa davvero \"New Nordic\"",
+      "headline": "Cinque tecniche che compaiono su ogni menù degustazione lappone.",
+      "lead": "\"New Nordic\" è un termine di marketing per ciò che, nel piatto, è un insieme specifico di tecniche applicate a un insieme specifico di ingredienti. Tolto il branding, restano le cinque cose qui sotto, sono ciò che il Suo menù sta facendo, che lo chef lo chiami New Nordic, sami moderno, cucina artica o semplicemente cena.",
+      "items": [
+        { "title": "Lacto-fermentazione", "body": "Sale e tempo trasformano verdure e bacche crude in conserve intensamente saporite e leggermente acide. I mirtilli lacto-fermentati su un piatto di carne sono la mossa classica lappone, tagliano la ricchezza del grasso di renna come i capperi tagliano il burro. Cerchi parole come \"fermentato\" o \"pickle\" sul menù." },
+        { "title": "Sous-vide", "body": "Sigillare sottovuoto la proteina e cuocerla in acqua a temperatura controllata esattamente al grado di cottura voluto. Il motivo per cui il Suo filetto di renna è uniformemente rosa da bordo a bordo senza alone grigio al centro. Lento, preciso e indulgente, cruciale per un taglio magro come la renna." },
+        { "title": "Salatura a freddo & affumicatura a freddo", "body": "La cura sale-zucchero (graavi) è secolare; l'affumicatura a freddo lo è ancora di più. Le cucine New Nordic combinano entrambe. Un graavisiika (coregone salmistrato) affumicato a freddo per 4 ore è l'apertura di pesce più servita nell'alta cucina lappone. Il pesce è tecnicamente crudo e la consistenza è setosa." },
+        { "title": "Guarnizione raccolta", "body": "Erbe selvatiche e fiori commestibili che nessun fornitore commerciale del sud della Finlandia può eguagliare per freschezza. Acetosella, fiori di olmaria, germogli di ginepro, germogli di pino, epilobio, angelica, il raccoglitore lappone consegna il tocco finale sul piatto. Spesso raccolto la mattina stessa." },
+        { "title": "Uso totale dell'ingrediente", "body": "Marchio di fabbrica sia della cucina sami sia del New Nordic. Il midollo diventa addensante per salsa. Le teste di pesce diventano brodo. Le pelli di renna vanno alla conceria, non nel cestino. I ristoranti che lo prendono sul serio glielo diranno sul menù, \"dal muso alla coda\" e il conto lo riflette." }
+      ]
+    },
+    "stayNear": {
+      "headline": "Soggiorni vicino alle cucine.",
+      "lead": "I ristoranti top della Lapponia sono distribuiti tra Rovaniemi, Inari, Levi e Saariselkä. Il piano più pulito: scelga un hotel a distanza di passeggiata da dove vuole mangiare, e ci pensiamo noi al resto.",
+      "ctaPrimary": "Hotel a Rovaniemi",
+      "ctaSecondary": "O prenoti un tour d'alta cucina"
+    }
+  },
+  "foragingGuide": {
+    "title": "Raccolta nella Lapponia finlandese, Bacche, funghi, erbe | LaplandFood",
+    "description": "Il diritto di accesso finlandese e cosa significa per il raccoglitore. Quando e dove trovare lamponi artici, galletti, mirtilli rossi, timo selvatico e linfa di betulla in Lapponia.",
+    "hero": {
+      "eyebrow": "Pilastro 04 · Raccolta",
+      "title": "La dispensa",
+      "titleHighlight": "selvatica.",
+      "subtitle": "Il jokamiehenoikeus finlandese (diritto di accesso) permette a chiunque di raccogliere bacche, funghi ed erbe selvatiche nella maggior parte del paese. Cinque cose da sapere prima di tutto.",
+      "primaryCta": "Prenoti una passeggiata guidata",
+      "secondaryCta": "Come finiscono nel piatto"
+    },
+    "intro": {
+      "lead": "La raccolta in Finlandia non è una stranezza. È un'attività estiva di routine per circa il 40 % della popolazione.",
+      "p1": "Quel numero, dalle più recenti indagini sulle famiglie dell'Istituto finlandese delle risorse naturali (Luke), è il fatto strutturale da conoscere prima di leggere qualunque altra cosa su questa pagina. Raccogliere bacche e funghi non è una sottocultura di nicchia, è un'attività finlandese mainstream che attraversa città e campagna, età e reddito. La gente parla della propria torbiera migliore come in altri paesi si parla del miglior pescivendolo. Esiste un vocabolario nazionale per questo.",
+      "p2": "Il quadro legale che lo rende possibile è il <em>jokamiehenoikeus</em>, \"diritto di accesso\", principio plurisecolare, codificato nel diritto finlandese moderno, secondo cui chiunque (cittadino o visitatore) può camminare, nuotare, accamparsi e raccogliere sulla maggior parte dei terreni in Finlandia indipendentemente da chi ne sia proprietario. Non è una tolleranza o un'usanza. È un diritto legale. Il proprietario non può legalmente farLa uscire da un bosco in cui sta raccogliendo bacche, fintanto che non danneggia nulla e non si trova nell'immediata pertinenza di una casa.",
+      "p3": "Questo cambia il funzionamento della raccolta. Non serve permesso. Non serve conoscere il proprietario. Può uscire da una strada nel bosco e raccogliere. I vincoli sono etici (non raccogliere troppo, non danneggiare la pianta) e pratici (sapere cosa raccoglie), non legali.",
+      "p4": "Questa pagina copre il lato pratico. I cinque alimenti selvatici più raccolti in Lapponia con note di identificazione. La sezione sulla sicurezza dei funghi che deve leggere prima di raccogliere il primo. Un calendario stagione per stagione. Le regole del diritto di accesso in dettaglio. E il motivo per prenotare una passeggiata guidata la prima volta anche se non pensa di averne più bisogno."
+    },
+    "alert": {
+      "kicker": "Legga prima questo",
+      "body": "L'avvelenamento da funghi è reale e irreversibile. Se non riesce a identificare un fungo con certezza del 100 %, usando una guida o, meglio, un locale esperto, lo lasci stare. Per la prima uscita, prenoti una passeggiata guidata; un pomeriggio con una guida vale una stagione di tentativi."
+    },
+    "labels": {
+      "where": "Dove cresce",
+      "identify": "Come riconoscerlo",
+      "when": "Quando raccogliere",
+      "safety": "Sicurezza",
+      "sustainability": "In modo sostenibile"
+    },
+    "items": [
+      { "name": "Mirtillo (Vaccinium myrtillus)", "season": "Luglio – settembre", "difficulty": "Facile", "location": "Pinete asciutte e brughiere", "identification": "Arbusto basso, foglie ovali, bacche blu-nero scuro. Macchia dita e lingua di blu.", "tips": "Picco a metà agosto. Raccolga solo bacche pienamente mature.", "safety": "Nessuna confusione possibile con sosia tossici, sicuro.", "sustainability": "Non raccolga più di metà delle bacche di una stessa pianta." },
+      { "name": "Mirtillo rosso (Vaccinium vitis-idaea)", "season": "Agosto – ottobre", "difficulty": "Facile", "location": "Pinete asciutte e brughiere", "identification": "Piccolo arbusto sempreverde, foglie lucide e rotonde, bacche rosso vivo in grappoli.", "tips": "Si conserva bene dopo una gelata. Attenda la maturazione completa.", "safety": "Distinto da tutte le bacche velenose, facile da identificare.", "sustainability": "Lasci indisturbate le piante giovani e piccole." },
+      { "name": "Lampone artico (Rubus chamaemorus)", "season": "Luglio – agosto", "difficulty": "Medio", "location": "Torbiere e paludi", "identification": "Pianta bassa, foglie a tre lobi, una sola bacca color ambra-arancio per stelo.", "tips": "Raccolga solo bacche pienamente mature. Deperibili, lavori subito.", "safety": "Presente solo in terreno paludoso, attento dove cammina.", "sustainability": "Rarità artica. Prenda solo ciò che le serve." },
+      { "name": "Funghi selvatici, porcini & lattari", "season": "Luglio – settembre", "difficulty": "Difficile", "location": "Vecchie peccete e boschi misti", "identification": "Porcino: cappello marrone, gambo bianco, sotto spugnoso. Lattario: forma a imbuto, latex lattiginoso al taglio.", "tips": "Essicchi subito dopo la raccolta. Impari prima a identificare al 100 %.", "safety": "CRITICO: confermi sempre l'identificazione prima di mangiare.", "sustainability": "Tagli al piede, non danneggi il micelio sottostante." },
+      { "name": "Ortica (Urtica dioica)", "season": "Maggio – agosto", "difficulty": "Facile", "location": "Terreno ricco, vicino a edifici e radure", "identification": "Foglie seghettate, urticano al contatto con pelle nuda.", "tips": "Raccolga i germogli giovani. L'effetto urticante scompare del tutto dopo essiccazione o cottura.", "safety": "Usi guanti per la raccolta.", "sustainability": "Raccolga solo le foglie più alte, lasci intatte le radici." }
+    ],
+    "mushroomSafety": {
+      "kicker": "Sicurezza dei funghi",
+      "headline": "Lo legga prima di raccogliere un solo fungo.",
+      "p1": "La conversazione sulla sicurezza dei funghi in Finlandia è calma, precisa e senza compromessi. È il rischio più controllato nella cultura della raccolta. Negli anni tipici il Centro finlandese di informazione tossicologica gestisce qualche centinaio di chiamate legate ai funghi; gli avvelenamenti gravi sono rari; i decessi, quando ci sono, vengono per lo più da una sola specie, l'amanita falloide (<em>Amanita phalloides</em>) e dalla cugina quasi identica, l'amanita virosa (<em>Amanita virosa</em>).",
+      "p2": "<strong>L'amanita falloide e l'amanita virosa sono presenti nei boschi finlandesi.</strong> Entrambe sono mortali anche in piccole quantità, non esiste antidoto e la tossicità è ritardata (si sta bene per 6–24 ore, poi il fegato inizia a cedere). L'amanita virosa è bianca, sembra innocua e cresce in peccete e betulleti in tutto il paese, Lapponia inclusa. Diversi altri funghi finlandesi comuni sono gastrotossici, allucinogeni o semplicemente sgradevoli.",
+      "rulesIntro": "<strong>Le cinque regole che ogni raccoglitore finlandese segue:</strong>",
+      "rules": [
+        "Se non è certo al 100 % della specie, non al 90 %, non «sembra un porcino», non lo raccolga. Senza eccezioni.",
+        "Confronti con due fonti indipendenti: una guida, un'app (Pikkupilkku e iNaturalist sono utili) e idealmente un essere umano esperto.",
+        "Faccia attenzione a <em>tutto</em>: forma del cappello, lamelle o pori, anello del gambo, base del gambo (estragga sempre tutto, molte specie mortali si riconoscono dalla volva alla base), sporata, odore, dove cresce, su cosa.",
+        "Non raccolga mai con una sola prospettiva. Porti il fungo intero a casa e ricontrolli con buona luce. Al minimo dubbio, butti.",
+        "Cuocia tutti i funghi selvatici prima di mangiarli, anche quelli tecnicamente commestibili crudi. È una convenzione finlandese più che una regola rigida, ma è ciò che fa ogni raccoglitore esperto."
+      ],
+      "p4": "<strong>I quattro funghi che un principiante può imparare a riconoscere in sicurezza</strong> in un pomeriggio con una guida sono: porcino (<em>Boletus edulis</em>), falsa morella (<em>Gyromitra esculenta</em>, ma <strong>solo dopo due bolliture con cambio d'acqua</strong>; molti finlandesi Le diranno che è deliziosa, molti altri Le diranno di evitarla; entrambi hanno ragione), lattario delizioso (<em>Lactarius deliciosus</em>) e galletto (<em>Cantharellus cibarius</em>). Tra questi, porcino e galletto non hanno sosia pericolosi in Finlandia e sono i punti di partenza consigliati.",
+      "p5": "Se intende raccogliere funghi in Lapponia per la prima volta, lo faccia con qualcuno che già sa. Il rapporto costo-fiducia di una passeggiata guidata di 4 ore è imbattibile e in Lapponia le guide sono di solito raccoglitori sami che hanno imparato dai nonni, non guide commerciali che leggono un copione."
+    },
+    "calendar": {
+      "kicker": "Calendario stagionale",
+      "headline": "Mese per mese, cosa c'è nel bosco.",
+      "lead": "La finestra di raccolta della Lapponia è breve e intensa, grossomodo da maggio a fine settembre. Dentro a quella finestra, ogni due settimane il bersaglio dominante cambia. È il calendario su cui un raccoglitore locale pianifica l'estate.",
+      "items": [
+        { "month": "Maggio", "body": "La neve si ritira. Prime ortiche, prime giovani foglie di betulla, linfa di betulla (forata dal tronco e bevuta fresca, usata in sciroppo o fermentata). Freddo, ma l'anno della raccolta è iniziato." },
+        { "month": "Giugno", "body": "Picco delle erbe selvatiche, olmaria, achillea, angelica, acetosella. I primi verdi freschi dopo sette mesi. Alcune erbe precoci si essiccano per le tisane invernali." },
+        { "month": "Inizio luglio", "body": "La finestra delle erbe si chiude; tutto fogliegia rapidamente. Le piante di torbiera fioriscono, i fiori del lampone artico sono allegati. È la calma prima della tempesta di raccolta." },
+        { "month": "Fine luglio – inizio agosto", "body": "Stagione dei lamponi artici, di solito una finestra di 3 settimane secondo la torbiera. L'attività di raccolta più intensa dell'anno. Molti uffici finlandesi di fatto si fermano per questo." },
+        { "month": "Agosto", "body": "Picco dei mirtilli. Primi mirtilli rossi (ancora aspri). Primi funghi, il galletto di solito per primo, il porcino secondo. Le serate lunghe e luminose fanno di questo il mese migliore per raccogliere e cucinare." },
+        { "month": "Settembre", "body": "Il mirtillo rosso si addolcisce dopo la prima gelata. Stagione dei funghi al massimo, porcini, lattari, galletti. I giorni si accorciano in fretta; i raccoglitori escono all'alba." },
+        { "month": "Ottobre", "body": "Ultimi funghi. Ultimi mirtilli rossi (ora migliori dopo le gelate notturne). Ultimi lavori di conservazione, essiccazione, marmellate, congelamento. Il calendario in pratica si chiude dopo la prima grossa nevicata." },
+        { "month": "Novembre – aprile", "body": "Dormienza forestale. La raccolta si ferma. Il lavoro al chiuso, conserve, affumicatura, essiccazione, fermentazione, riprende. La pesca sotto il ghiaccio sostituisce la raccolta per la proteina fresca." }
+      ]
+    },
+    "rights": {
+      "kicker": "Diritto di accesso · le regole",
+      "headline": "Cosa può e cosa non può fare.",
+      "canHeadline": "Può:",
+      "can": [
+        "Camminare, sciare, andare in bici, a cavallo e altrimenti attraversare boschi, prati e terreni non coltivati.",
+        "Raccogliere bacche selvatiche, funghi e fiori ed erbe selvatiche non protetti.",
+        "Pescare a una canna e con un'esca (nessun permesso per la pesca base, la tassa di gestione della pesca copre la maggior parte dei laghi).",
+        "Accamparsi temporaneamente, di solito una notte, sulla maggior parte dei terreni non coltivati, lontano dalle case.",
+        "Nuotare, lavarsi e usare l'acqua di qualunque corpo idrico, anche privato.",
+        "Attraversare laghi e fiumi ghiacciati, andare in motoslitta o sciare sulla maggior parte dei terreni non coltivati (con regole specifiche per la motoslitta)."
+      ],
+      "cannotHeadline": "Non può:",
+      "cannot": [
+        "Danneggiare gli alberi, scavare radici, prendere muschio o lichene in quantità commerciale.",
+        "Cacciare o intrappolare (licenze separate richieste).",
+        "Guidare un veicolo a motore fuoristrada al di fuori delle piste segnalate (le motoslitte hanno regole proprie).",
+        "Accendere un fuoco aperto sul terreno di qualcun altro senza permesso. Usi i focolari segnalati o ottenga l'OK del proprietario.",
+        "Raccogliere da un giardino coltivato, un frutteto o un campo, non sono \"terreni non coltivati\".",
+        "Disturbare l'immediata pertinenza di un'abitazione privata (a vista della casa).",
+        "Lasciare rifiuti. Ciò che porta dentro, lo porta fuori."
+      ],
+      "closing": "Il principio è accesso senza danno. I raccoglitori che rispettano lo spirito della legge trovano i proprietari finlandesi quasi sempre rilassati riguardo a estranei che raccolgono sui loro terreni. I pochi problemi nascono quando un gruppo danneggia alberi, lascia rifiuti o si avvicina troppo a una casa. Tratti il bosco con cura e avrà accesso a una delle ultime dispense selvatiche davvero libere d'Europa."
+    },
+    "guideCta": {
+      "headline": "Un pomeriggio con una guida risparmia una stagione di tentativi.",
+      "lead": "Le passeggiate di raccolta guidata in Lapponia non sono la versione in autobus. Sono di solito guidate da raccoglitori sami, in piccoli gruppi di 6–15, e iniziano con la lezione di sicurezza funghi di cui ha davvero bisogno. Finiscono cucinando ciò che ha raccolto sul falò. La maggior parte costa meno di un antipasto d'alta cucina.",
+      "cta": "Sfoglia le passeggiate guidate"
+    }
+  },
+  "foodTours": {
+    "title": "Tour gastronomici nella Lapponia finlandese | LaplandFood",
+    "description": "Esperienze culinarie guidate in Lapponia, fattorie di renne, passeggiate di raccolta, affumicatura del pesce, pranzi nella natura e tavoli dello chef. Come prenotare e cosa aspettarsi.",
+    "hero": {
+      "eyebrow": "Pilastro 06 · Tour",
+      "title": "Mangi attraversando",
+      "titleHighlight": "la Lapponia.",
+      "subtitle": "Tre esperienze culinarie prenotabili che vanno oltre un menù degustazione, cultura sami, alta cucina artica e una passeggiata di raccolta guidata che finisce in cena.",
+      "primaryCta": "Sfoglia tutto su GetYourGuide"
+    },
+    "intro": {
+      "lead": "Le esperienze culinarie in Lapponia che valgono i Suoi soldi sono quelle che La mettono di fronte alle persone che fanno questo per vivere.",
+      "p1": "Eviti il trattamento «tour di ristoranti in pullman». I viaggi qui sotto sono in piccoli gruppi, spesso prenotabili direttamente con l'operatore, guidati da raccoglitori sami, chef d'alta cucina o allevatori di renne in attività. Si mangia, ma la cosa più grande è l'accesso, a un branco, alla cucina di uno chef, alla torbiera preferita di un raccoglitore. La maggior parte costa meno di un menù degustazione di Helsinki e dura il doppio.",
+      "p2": "Tre viaggi coprono gran parte di ciò che i visitatori cercano. Il <strong>Viaggio culinario culturale sami</strong> approfondisce l'alimentazione sami, bidos con un allevatore, panificazione tradizionale, sessione di raccolta, contesto culturale. L'<strong>Esperienza d'alta cucina artica</strong> è un'intera giornata intensiva con visita dietro le quinte di cucina, masterclass e cena a più portate con accordi vini, l'equivalente lappone di una giornata culinaria di Copenhagen. La <strong>Spedizione di raccolta selvatica</strong> è il miglior pomeriggio che un principiante possa passare con un raccoglitore sami, imparare l'identificazione sicura, riempire un cesto, poi cucinare il raccolto sul falò.",
+      "p3": "Tutti e tre sono prenotabili tramite GetYourGuide. Mostriamo i risultati di ricerca in tempo reale così Lei vede disponibilità reale e prezzi attuali, gli operatori ruotano, le date cambiano, i prezzi si muovono. Il pulsante \"Verifica disponibilità\" su ogni scheda lancia una ricerca GYG in tempo reale, non una pagina prodotto fissa."
+    },
+    "listKicker": "Tre viaggi che meritano",
+    "listHeadline": "Prenoti uno di questi.",
+    "browseAllLabel": "Vedi tutto su GetYourGuide",
+    "moreLabel": "altri",
+    "checkAvailability": "Verifica disponibilità",
+    "tours": [
+      {
+        "name": "Viaggio culinario culturale sami",
+        "duration": "6 ore",
+        "groupSize": "4–12 persone",
+        "difficulty": "Facile",
+        "price": "da 185 €",
+        "description": "Un'immersione profonda nella cultura culinaria sami. Incontri produttori locali, impari tecniche tradizionali e assaggi sapori autentici direttamente dall'Artico.",
+        "highlights": ["Visita a un allevatore di renne e degustazione di bidos", "Panificazione tradizionale sami", "Raccolta di ingredienti selvatici con guida", "Workshop di cultura alimentare al museo sami", "Visite a produttori artici locali"],
+        "location": "Regione di Inari – Utsjoki",
+        "season": "Giugno – settembre"
+      },
+      {
+        "name": "Esperienza d'alta cucina artica",
+        "duration": "8 ore",
+        "groupSize": "2–8 persone",
+        "difficulty": "Medio",
+        "price": "da 295 €",
+        "description": "Un viaggio esclusivo attraverso i migliori ristoranti della Lapponia. Locali raccomandati Michelin e chef pluripremiati che cucinano con i più puri ingredienti artici.",
+        "highlights": ["Pranzo 3 portate in un ristorante di punta regionale", "Tour dietro le quinte con lo chef", "Masterclass di ingredienti artici", "Dimostrazione di tecnica d'alta cucina", "Cena 5 portate con accordi vini"],
+        "location": "Rovaniemi",
+        "season": "Tutto l'anno"
+      },
+      {
+        "name": "Spedizione di raccolta selvatica",
+        "duration": "4 ore",
+        "groupSize": "6–15 persone",
+        "difficulty": "Medio",
+        "price": "da 95 €",
+        "description": "Raccolta guidata pratica in foresta antica e torbiera. Impari l'identificazione sicura di bacche, funghi ed erbe selvatiche, poi cucini ciò che raccoglie.",
+        "highlights": ["Masterclass di sicurezza funghi", "Raccolta di mirtilli, mirtilli rossi e lamponi artici (in stagione)", "Identificazione delle erbe selvatiche", "Cottura del raccolto sul falò", "Manuale di raccolta lappone da portare a casa"],
+        "location": "Area Rovaniemi / Levi",
+        "season": "Luglio – settembre"
+      }
+    ]
+  },
+  "michelinDining": {
+    "title": "Alta cucina e ristoranti Michelin in Lapponia | LaplandFood",
+    "description": "Dove la guida Michelin presta attenzione nella Lapponia finlandese, Restaurant Aanaar, Tundrea, Trattoria Levi, e le cucine lapponi che valgono una lunga deviazione.",
+    "hero": {
+      "eyebrow": "Pilastro 05 · Michelin",
+      "title": "Michelin",
+      "titleHighlight": "& alta cucina.",
+      "subtitle": "La scena Michelin finlandese a colpo d'occhio, chi è stellato, dove, chi sta spingendo l'alta cucina dentro il Circolo Polare, e come prenotare davvero un tavolo.",
+      "primaryCta": "Dove prenotare in Lapponia",
+      "secondaryCta": "Sale di Helsinki"
+    },
+    "factsKicker": "Lo stato dell'alta cucina in Finlandia",
+    "factsHeadline": "Tre cose da sapere prima.",
+    "factsLeadPrefix": "La Guida Michelin per i paesi nordici si aggiorna ogni anno, per la lista attuale delle stelle controlli sempre",
+    "factsLeadSuffix": ". Il quadro strutturale qui sotto è stabile ed è il giusto punto di partenza per pianificare un viaggio d'alta cucina in Finlandia.",
+    "facts": [
+      { "title": "Helsinki concentra le stelle", "body": "I ristoranti finlandesi referenziati Michelin si concentrano a Helsinki, ogni ristorante finlandese stellato nelle edizioni recenti della Guida Nordica è stato nella capitale. Turku e Tampere sono stati nel mirino degli ispettori ma le stelle vanno e vengono." },
+      { "title": "La Lapponia è ambiziosa", "body": "La Lapponia stessa al momento non ha stelle Michelin, ma i suoi ristoranti premium, Nili, Aanaar, Rakas, stanno spingendo l'aspetto di una serata menù degustazione dentro il Circolo Polare, con ingredienti raccolti che nessuna cucina di Helsinki può eguagliare per freschezza." },
+      { "title": "Le prenotazioni contano", "body": "I fiori all'occhiello lapponi sono piccoli (spesso 30–60 coperti) e i posti al tavolo dello chef si esauriscono per primi. Prenoti il pieno inverno (metà dic → feb) e la finestra del sole di mezzanotte (6 giu → 7 lug) con almeno 6–8 settimane di anticipo. Le sale Michelin di Helsinki hanno regolarmente attese di 4–6 settimane." }
+    ],
+    "helsinki": {
+      "kicker": "Michelin Helsinki",
+      "headline": "Otto sale che meritano una prenotazione a Helsinki.",
+      "lead": "Le attribuzioni di stelle cambiano di anno in anno, verifichi la lista attuale sulla Guida prima di prenotare. Le otto qui sotto sono le sale rimaste nella o vicine alla Guida con costanza e di cui i viaggiatori tornano a parlare. Fascia di prezzo secondo la convenzione Michelin: € (sotto 40 € pp), €€ (40–80), €€€ (80–140), €€€€ (140+).",
+      "ctaHotels": "Hotel a Helsinki",
+      "footnote": "Edito indipendente. Non affiliato alla Guida Michelin. Stelle e Bib Gourmand valgono solo per l'edizione Nordica attuale, controlli guide.michelin.com prima di prenotare.",
+      "rooms": [
+        { "name": "Olo", "where": "Pohjoisesplanadi, Helsinki", "angle": "Istituzione di lungo corso dell'alta cucina. Menù degustazione radicati in ingredienti finlandesi con tecnica nordica classica.", "band": "€€€€" },
+        { "name": "Palace", "where": "10° piano, Eteläranta, vista porto", "angle": "Vista porto di Helsinki d'altri tempi, esecuzione moderna. Il classico sandra (kuha) è la firma.", "band": "€€€€" },
+        { "name": "Demo", "where": "Uudenmaankatu, Helsinki", "angle": "Sala compatta di menù degustazione, guidata dall'ingrediente, spesso citata nella Guida per il rapporto valore/maestria.", "band": "€€€" },
+        { "name": "Grön", "where": "Albertinkatu, Helsinki", "angle": "Menù degustazione vegetale (verdure, pesce, raccolto) con accordo vini stretto. È la più difficile da prenotare in città.", "band": "€€€€" },
+        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Alta cucina d'influenza sami, stesso pedigree di chef di Olo, sala più piccola, più focalizzata.", "band": "€€€€" },
+        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Nordico moderno in una sala residenziale. Spesso elogiato per il menù guidato dall'ingrediente dello chef Sasu Laukkonen.", "band": "€€€€" },
+        { "name": "Finnjävel", "where": "Helsinki", "angle": "Finlandese moderno, riletture dei classici. Meno ovattato degli altri; servizio più teatrale.", "band": "€€€" },
+        { "name": "Ultima", "where": "Helsinki", "angle": "Menù degustazione approvvigionato da una fattoria verticale nel seminterrato. La sala più autenticamente «Helsinki 2026» di questa lista.", "band": "€€€€" }
+      ]
+    },
+    "lapland": {
+      "kicker": "Alta cucina in Lapponia",
+      "headline": "Tre sale da prenotare.",
+      "lead": "Sono le cucine che prendono la cucina abbastanza sul serio da competere con Helsinki sulla maestria del piatto, approvvigionandosi interamente in Lapponia. Nessuna ha una stella Michelin al momento di scrivere, ma in un orizzonte di cinque anni qualunque di esse potrebbe averla.",
+      "labels": { "signature": "Piatti firma", "band": "Fascia di prezzo", "booking": "Prenotazione", "hotelsNearPrefix": "Hotel vicino a" },
+      "rooms": [
+        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, centro di Rovaniemi · 5 min a piedi dalla stazione", "angle": "La sala d'alta cucina più citata della Lapponia. Piatti di radice sami, filetto di renna sous-vide con riduzione di mirtilli è la firma, accanto a un programma sulle bacche selvatiche che si appoggia a ciò che i raccoglitori di Inari hanno portato la mattina. Cucina aperta, interni in legno caldo, 60 coperti.", "signature": "Filetto di renna sous-vide · salmerino artico salmistrato al pino · parfait al lampone artico", "band": "€€€, menù degustazione 68 € · piatti à la carte 28–42 €", "booking": "Prenoti con 3–4 settimane di anticipo in estate / dicembre. Walk-in possibili mar-mer." },
+        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · sul fiume Juutuanjoki", "angle": "La cosa più vicina a un'esperienza di destinazione gastronomica nel cuore della terra sami. Lo chef costruisce i menù attorno alle otto stagioni sami di Inari, mirtilli lacto-fermentati, cuore di renna affumicato, salmerino artico salato a freddo e la carta dei vini è insolitamente profonda per una città di 7.000 abitanti.", "signature": "Menù degustazione 7 portate alle bacche · cuore di renna affumicato · parfait allo sciroppo di betulla", "band": "€€€€, menù degustazione 85 €, con vini in abbinamento 145 €", "booking": "Due turni per sera, 32 coperti totali. Prenoti 6–8 settimane prima in inverno e finestra del sole di mezzanotte." },
+        { "name": "Rakas all'Arctic TreeHouse Hotel", "city": "Rovaniemi · zona Santa Park", "address": "Tarvantie 3, 7 km dal centro · taxi o navetta dell'hotel", "angle": "Sala con tetto in vetro rivolta a nord, totalmente panoramica sulla pineta di abeti, pensata per osservare l'aurora durante il menù degustazione in inverno. Il coregone artico confit sotto olio di erbe selvatiche è la firma della sala, impiattato con microgermogli raccolti e fiori commestibili.", "signature": "Coregone artico confit · trota salmistrata al pino · cupola cioccolato-mirtillo rosso", "band": "€€€€, menù 4 portate 78 € · 7 portate 115 €", "booking": "Gli ospiti dell'hotel hanno priorità. I non ospiti prenotano 4 settimane prima in inverno." }
+      ]
+    },
+    "courseFlow": {
+      "kicker": "Cosa sta davvero pagando",
+      "headline": "Un menù degustazione finlandese, portata per portata.",
+      "lead": "La struttura è coerente sia tra le sale Michelin di Helsinki sia tra le cucine di punta della Lapponia. Conoscere il filo grossolano aiuta a dosare il vino, lasciare spazio per il dolce e non andare nel panico quando arriva il conto.",
+      "items": [
+        { "n": "01", "label": "Bocconcini di benvenuto", "body": "Due o tre piccoli bocconi al tavolo, verdure pickle, pesce affumicato su segale, brodo di erbe in piccolo bicchiere. Imposta il tono della stagione." },
+        { "n": "02", "label": "Antipasto freddo", "body": "Salmerino artico o coregone in qualche forma, salmistrato, affumicato o in tartare. Quasi sempre con un elemento di erbe raccolte." },
+        { "n": "03", "label": "Antipasto caldo", "body": "Piatto di funghi o radici in autunno; piatto guidato da bacche o erbe in estate. Dove gli chef mostrano il loro lavoro di fermentazione." },
+        { "n": "04", "label": "Portata di pesce", "body": "Sandra, trota o luccio, secondo ciò che i pescatori locali hanno portato. Cotto a centro rosa, con salsa al burro o alla panna." },
+        { "n": "05", "label": "Renna o selvaggina", "body": "La proteina principale. Filetto sous-vide, spalla a lunga brasatura o sella affumicata. Mirtillo, mirtillo rosso o ginepro ancorano il piatto." },
+        { "n": "06", "label": "Formaggio (facoltativo)", "body": "Formaggio finlandese stagionato, stile Lappi o Tervaleipäjuusto, con miele-al-catrame o composta di lampone artico." },
+        { "n": "07", "label": "Pre-dolce", "body": "Piccolo pulisci palato, sorbetto alla linfa di betulla, consommé di lampone artico, granita di mirtillo rosso." },
+        { "n": "08", "label": "Dolce", "body": "Parfait al lampone artico o cupola cioccolato-mirtillo rosso sono i due più comuni. Il caffè arriva in un bricco di rame." }
+      ]
+    },
+    "bookingNotes": {
+      "headline": "Quattro cose che i principianti sbagliano.",
+      "lead": "Le cucine lapponi sono indulgenti. Restano piccole sale con servizio guidato dallo chef. Sono le quattro correzioni che diamo a un amico prima della sua prima prenotazione.",
+      "items": [
+        { "label": "Pianifichi almeno 3 ore", "body": "Un menù degustazione lappone completo dura 2,5–3,5 ore. Non prenoti uno spettacolo alle 21 dopo." },
+        { "label": "L'accordo vini paga", "body": "La maggior parte dei fiori all'occhiello lapponi ha un sommelier che sceglie piccoli produttori europei. Gli accordi vanno da 45 a 95 € in più rispetto al menù." },
+        { "label": "Avvisi presto delle allergie", "body": "I menù degustazione sono pre-costruiti e portano ingredienti raccolti complessi. Allergie / vegetariano / vegano: avvisi al momento della prenotazione, non la sera stessa." },
+        { "label": "Smart casual", "body": "Nessun ristorante in Finlandia La rifiuterà in jeans, ma le sale si aspettano un'attenzione. Scarpe da ginnastica e felpa stonano." }
+      ]
+    },
+    "stayNear": {
+      "headline": "Soggiorni vicino alle cucine.",
+      "lead": "Per un viaggio d'alta cucina il piano più pulito è un hotel a 10 minuti a piedi (o breve taxi) da dove mangia. Rovaniemi per Nili / Rakas, Inari per Aanaar.",
+      "ctaRovaniemi": "Hotel vicino a Rovaniemi",
+      "ctaInari": "Hotel vicino a Inari",
+      "tourPrefix": "Vuole una guida che gestisca trasporto, prenotazioni e presentazioni allo chef?",
+      "tourLabel": "Prenoti un tour d'alta cucina artica"
+    }
+  },
+  "about": {
+    "title": "Chi siamo, LaplandFood",
+    "description": "Chi siamo, LaplandFood è scritto da persone che mangiano davvero nella Lapponia finlandese. Standard editoriali, sourcing, disclosure di affiliazione.",
+    "hero": {
+      "kicker": "Chi siamo, LaplandFood",
+      "headline": "Cucina finlandese, scritta dall'interno.",
+      "lead": "LaplandFood è il sito sorella «mappa culturale» nella rete LaplandVibes, edito indipendente sulla cultura gastronomica finlandese, sourcing, ricette sami tradizionali, cucine artiche moderne e dove mangiare davvero in Lapponia."
+    },
+    "why": {
+      "headline": "Perché esiste questo sito.",
+      "p1": "Gran parte di ciò che si scrive sulla cucina lappone in inglese esiste in due registri. C'è il registro brochure, «magici sapori sami sotto il sole di mezzanotte», vago, ansimante, timido sugli ingredienti. E c'è il registro accademico, etnografia rigorosa, completamente referenziata, che nessuno legge sul cellulare prima di prenotare cena.",
+      "p2": "Cerchiamo di occupare la fenditura tra i due. Frasi editoriali sobrie. Ingredienti e ristoranti specifici. Numeri quando i numeri aiutano, quante cooperative di renne, cosa costa davvero un menù degustazione, quando si chiude la finestra del lampone artico e zero numeri quando sarebbero solo riempitivo. Scritto dall'interno del Circolo Polare, non da una scrivania a Londra o Helsinki.",
+      "p3": "L'asticella che ci poniamo: <strong>un amico che visita la Lapponia per la prima volta deve poter leggere tre pagine qui e uscirne con abbastanza contesto da pianificare un vero viaggio gastronomico.</strong> Se una sezione non supera quel test la riscriviamo."
+    },
+    "cover": {
+      "headline": "Cosa copriamo.",
+      "lead": "Sei pilastri. Ciascuno è una pagina profonda che potrebbe reggersi da sola. Insieme formano la guida sul campo che avremmo voluto trovare quando abbiamo iniziato a scrivere su questa regione.",
+      "items": [
+        { "t": "Ingredienti locali", "body": "Cosa cresce, nuota e pascola qui. Renna, lamponi artici, mirtilli, pesce artico, erbe raccolte. Da dove vengono, quando sono al massimo.", "href": "/local-ingredients" },
+        { "t": "Ricette tradizionali", "body": "Bidos, Gahkku, zuppa di pesce sami, kissel di bacche selvatiche, più il contesto culturale che spiega perché sono fatte così.", "href": "/traditional-recipes" },
+        { "t": "Lapponia moderna", "body": "Tecnica New Nordic applicata agli ingredienti lapponi. Sous-vide, fermentazione, salatura a freddo, guarnizione raccolta. Dove andare ad assaggiarla.", "href": "/modern-lapland" },
+        { "t": "Guida alla raccolta", "body": "Cinque alimenti selvatici chiave, sicurezza funghi nel dettaglio, calendario stagionale su 8 mesi e il diritto di accesso che rende tutto legale.", "href": "/foraging-guide" },
+        { "t": "Michelin & alta cucina", "body": "Scena Michelin di Helsinki, tre sale di punta in Lapponia, come si presenta davvero un menù degustazione, come funzionano le prenotazioni.", "href": "/michelin-dining" },
+        { "t": "Tour gastronomici & corsi di cucina", "body": "Le esperienze che vale la pena prenotare, viaggi sami, tour d'alta cucina, passeggiate di raccolta. Selezionate, non esaustive.", "href": "/food-tours" }
+      ]
+    },
+    "principles": {
+      "headline": "Come scegliamo cosa raccomandare.",
+      "lead": "Siamo un editore indipendente. I principi qui sotto sono come ci manteniamo onesti.",
+      "items": [
+        { "t": "Raccomandare come a un amico", "body": "Il filtro più semplice. Ogni ristorante, tour, fornitore di ingredienti e produttore su questo sito è un posto in cui manderemmo un amico. Se non lo faremmo, non va sulla pagina." },
+        { "t": "Concretezza sul vibe", "body": "Un'affermazione come «la migliore alta cucina della Lapponia» è priva di senso senza concretezza. Le diciamo cosa ordinare, quanto costa, quando prenotare, da dove entrare a piedi. Tutto ciò che non possiamo precisare, lo omettiamo." },
+        { "t": "L'affiliazione non cambia l'edito", "body": "Alcuni link di prenotazione ci pagano una commissione se Lei prenota tramite essi. Nessuno di questi link sblocca contenuti, cambia l'ordine delle raccomandazioni né compra un posto in pagina. Gli stessi ristoranti sarebbero in pagina senza alcun programma di affiliazione." },
+        { "t": "Niente statistiche né citazioni false", "body": "Se citiamo un numero, ha una fonte indicabile. Se citiamo uno chef, gli abbiamo parlato. Se siamo incerti su qualcosa, numero attuale di stelle Michelin, anno esatto in cui è nata una tradizione, lo diciamo e rimandiamo alla fonte autorevole." },
+        { "t": "Aggiornare prima di cancellare", "body": "I ristoranti chiudono, gli chef cambiano, i prezzi si muovono. Quando scopriamo che una pagina è sbagliata la aggiorniamo con un timestamp. Non fingiamo che la versione sbagliata non sia mai esistita." }
+      ]
+    },
+    "network": {
+      "kicker": "La rete",
+      "headline": "Dove andare per ciò che questo sito non copre.",
+      "lead": "LaplandFood è il sito mappa culturale. Deliberatamente non è una directory di ristoranti né un motore di prenotazione. I siti gemelli qui sotto prendono il testimone dove questo si ferma:",
+      "diningBody": "Dove <em>prenotare davvero un tavolo</em>. Directory ristorante per ristorante con menù, orari e link di prenotazione diretta. Se un posto è in una lista qui, è su una pagina lì.",
+      "barsBody": "Bar, birrifici, bar di ghiaccio, bar d'hotel, i pub dove i finlandesi bevono davvero. Cultura del bere, orari, cosa servono.",
+      "nightlifeBody": "Lapponia dopocena: DJ, cucine fino a tardi, locali di musica dal vivo, calendario delle feste della notte polare. Dove va la notte.",
+      "footnote": "Il pie di pagina completo in fondo a ogni pagina elenca tutti i siti spoke di LaplandVibes (dove dormire, cose da fare, trasporti, comprensori sciistici, safari in husky, natura, lavorare in Lapponia…)."
+    },
+    "contact": {
+      "headline": "Come contattarci.",
+      "p1Prefix": "Per qualunque richiesta, edito, partnership, stampa, correzioni, contestazioni, scriva a",
+      "p1Suffix": ". Rispondiamo in finlandese o in inglese, di solito entro due giorni lavorativi.",
+      "p2": "<strong>Se nota qualcosa di sbagliato</strong>, un ristorante chiuso, un orario errato, un prezzo che non corrisponde, un fatto sbagliato, ce lo dica. Aggiorniamo più in fretta di quanto pubblichiamo.",
+      "p3Prefix": "Per privacy, termini e politica dei cookie, vedi",
+      "privacyLabel": "Privacy",
+      "termsLabel": "Termini",
+      "cookieLabel": "Politica dei cookie"
+    }
+  },
+  "privacy": { "title": "Informativa sulla privacy | LaplandFood", "description": "Come LaplandFood tratta i Suoi dati." },
+  "terms": { "title": "Termini di utilizzo | LaplandFood", "description": "Termini di utilizzo di LaplandFood." },
+  "cookie": { "title": "Politica dei cookie | LaplandFood", "description": "Come LaplandFood usa i cookie." }
+}

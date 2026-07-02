@@ -20,18 +20,18 @@ export default function Hero() {
         onError={(e) => { e.currentTarget.style.display = 'none' }}
         className="absolute inset-0 w-full h-full object-cover"
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/10 via-transparent to-[#002F6C]/55" />
+      <div className="absolute inset-0 bg-[linear-gradient(to_top,rgba(0,47,108,0.80)_0%,rgba(0,47,108,0.42)_50%,rgba(0,47,108,0.30)_100%)]" />
 
       <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center py-20">
-        <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5">
+        <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
           {t('hero.kicker')}
         </p>
-        <h1 className="font-heading tracking-wide text-6xl sm:text-7xl md:text-8xl lg:text-[7.5rem] xl:text-[9rem] text-white leading-[0.92] mb-7 max-w-5xl">
+        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.92] mb-7 max-w-5xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)]">
           {t('hero.h1Part1')}
           <br />
           <span className="text-vibe-pink drop-shadow-[0_0_40px_rgba(236,72,153,0.5)]">{t('hero.h1Part2')}</span>
         </h1>
-        <p className="text-lg md:text-xl text-white/85 max-w-2xl mb-10 leading-relaxed">
+        <p className="text-lg md:text-xl text-white/95 max-w-2xl mb-10 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
           {t('hero.subhead')}
         </p>
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">

@@ -127,7 +127,7 @@ export default function Home() {
               {pillars.map((p, i) => (
                 <Link key={PILLAR_HREFS[i]} to={to(PILLAR_HREFS[i])} className="group rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden hover:border-vibe-pink/40 hover:shadow-[0_8px_28px_rgba(0,47,108,0.08)] transition-all">
                   <div className="aspect-[16/10] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] relative overflow-hidden">
-                    <img src={PILLAR_IMAGES[i]} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                    <img src={PILLAR_IMAGES[i]} alt={p.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                     <div className="absolute inset-0 bg-gradient-to-tr from-vibe-pink/0 via-transparent to-vibe-pink/10 pointer-events-none" />
                   </div>
                   <div className="p-6">
@@ -150,8 +150,8 @@ export default function Home() {
 
         {/* Culture */}
         <section className="relative bg-[#002F6C] py-20 sm:py-24 text-white overflow-hidden">
-          <img src="/images/culture-band.jpg" alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-25" />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/80 via-[#002F6C]/85 to-[#001F4A]/95" />
+          <img src="/images/culture-band.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-55" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/55 via-[#002F6C]/50 to-[#001F4A]/72" />
           <div className="relative max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-12">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
@@ -179,8 +179,20 @@ export default function Home() {
         {/* Summer band */}
         <section className="relative overflow-hidden">
           <div className="relative py-20 sm:py-28 md:py-32">
-            <img src="/images/midnight-sun-band.jpg" alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-gradient-to-br from-[#F4A93B]/85 via-[#F59E0B]/80 to-[#D97706]/90" />
+            <picture>
+              <source srcSet="/images/midnight-sun-band.avif" type="image/avif" />
+              <source srcSet="/images/midnight-sun-band.webp" type="image/webp" />
+              <img
+                src="/images/midnight-sun-band.webp"
+                alt=""
+                aria-hidden="true"
+                loading="lazy"
+                decoding="async"
+                onError={(e) => { e.currentTarget.style.display = 'none'; }}
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+            </picture>
+            <div className="absolute inset-0 bg-gradient-to-t from-[#5C2E0B]/75 via-[#B45309]/30 to-[#7C2D12]/55" />
             <div className="relative max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
               <p className="text-white/90 text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('home.summer.kicker')}

@@ -73,7 +73,7 @@ export default function ModernLapland() {
               {dishes.map((d, i) => (
                 <article key={d.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={DISH_IMAGES[i]} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <img src={DISH_IMAGES[i]} alt={d.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/40 to-[#002F6C]/85" />
                     <div className="absolute top-4 right-5">
                       <span className="bg-vibe-pink text-white text-xs font-bold px-3 py-1.5 rounded-full">
@@ -87,25 +87,25 @@ export default function ModernLapland() {
                     </div>
                   </div>
                   <div className="p-6 flex flex-col flex-1">
-                    <p className="text-sm text-[#002F6C]/65 mb-3">
+                    <p className="text-sm text-[#002F6C]/75 mb-3">
                       <span className="font-semibold text-[#002F6C]/85">{d.chef}</span> · {d.restaurant}
                     </p>
                     <p className="text-sm text-[#002F6C]/85 leading-relaxed mb-5">{d.description}</p>
-                    <div className="grid grid-cols-3 gap-3 text-xs mt-auto pt-4 border-t border-[#002F6C]/10">
+                    <div className="grid grid-cols-1 min-[420px]:grid-cols-3 gap-3 text-xs mt-auto pt-4 border-t border-[#002F6C]/10">
                       <div>
-                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-1 flex items-center gap-1">
+                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-1 flex items-center gap-1">
                           <Sparkles className="w-3 h-3 text-vibe-pink" /> {t('modernLapland.dishLabels.technique')}
                         </p>
                         <p className="text-[#002F6C]/85 leading-tight">{d.technique}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-1 flex items-center gap-1">
+                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-1 flex items-center gap-1">
                           <Utensils className="w-3 h-3 text-vibe-pink" /> {t('modernLapland.dishLabels.from')}
                         </p>
                         <p className="text-[#002F6C]/85 leading-tight">{d.traditional}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/55 mb-1 flex items-center gap-1">
+                        <p className="text-[10px] uppercase tracking-wider font-semibold text-[#002F6C]/75 mb-1 flex items-center gap-1">
                           <Award className="w-3 h-3 text-vibe-pink" /> {t('modernLapland.dishLabels.twist')}
                         </p>
                         <p className="text-[#002F6C]/85 leading-tight">{d.innovation}</p>

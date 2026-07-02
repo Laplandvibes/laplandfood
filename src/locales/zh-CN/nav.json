@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "首页",
+    "ingredients": "食材",
+    "recipes": "食谱",
+    "modern": "现代料理",
+    "foraging": "野外采集",
+    "michelin": "米其林",
+    "foodTours": "美食之旅",
+    "about": "关于"
+  },
+  "ariaHome": "LaplandFood 首页",
+  "ariaMain": "主导航",
+  "menu": "菜单",
+  "openMenu": "打开菜单",
+  "closeMenu": "关闭菜单"
+}

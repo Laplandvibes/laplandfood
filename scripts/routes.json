@@ -1,0 +1,13 @@
+[
+  { "path": "/", "jsonKey": "home" },
+  { "path": "/local-ingredients", "jsonKey": "localIngredients" },
+  { "path": "/traditional-recipes", "jsonKey": "traditionalRecipes" },
+  { "path": "/modern-lapland", "jsonKey": "modernLapland" },
+  { "path": "/foraging-guide", "jsonKey": "foragingGuide" },
+  { "path": "/food-tours", "jsonKey": "foodTours" },
+  { "path": "/michelin-dining", "jsonKey": "michelinDining" },
+  { "path": "/about", "jsonKey": "about" },
+  { "path": "/privacy", "jsonKey": "privacy", "fallbackTitle": "Privacy Policy | LaplandFood" },
+  { "path": "/terms", "jsonKey": "terms", "fallbackTitle": "Terms of Use | LaplandFood" },
+  { "path": "/cookie-policy", "jsonKey": "cookie", "fallbackTitle": "Cookie Policy | LaplandFood" }
+]

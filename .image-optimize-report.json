@@ -1,0 +1,20 @@
+{
+  "site": "laplandfood-new",
+  "converted": 2,
+  "swapped": 2,
+  "totalBefore": 739383,
+  "totalAfter": 691374,
+  "savedMB": "0.05",
+  "report": [
+    {
+      "file": "public\\images\\hero-ingredients.jpg",
+      "before": 329513,
+      "after": 286742
+    },
+    {
+      "file": "public\\images\\midnight-sun-band.jpg",
+      "before": 409870,
+      "after": 404632
+    }
+  ]
+}

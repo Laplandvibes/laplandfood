@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "Home",
+    "ingredients": "Ingrediënten",
+    "recipes": "Recepten",
+    "modern": "Modern",
+    "foraging": "Verzamelen",
+    "michelin": "Michelin",
+    "foodTours": "Foodtours",
+    "about": "Over ons"
+  },
+  "ariaHome": "LaplandFood home",
+  "ariaMain": "Hoofdnavigatie",
+  "menu": "MENU",
+  "openMenu": "Menu openen",
+  "closeMenu": "Menu sluiten"
+}

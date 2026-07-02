@@ -1,7 +1,20 @@
 {
-  "site": { "name": "LaplandFood", "tagline": "Finnish Lapland's food culture, ingredients, recipes" },
-  "lang": { "currentEN": "EN", "currentFI": "FI", "switchTo": "Switch language" },
-  "cta": { "readMore": "Read more", "viewAll": "View all", "loading": "Loading…", "subscribe": "Subscribe", "close": "Close" },
+  "site": {
+    "name": "LaplandFood",
+    "tagline": "Finnish Lapland's food culture, ingredients, recipes"
+  },
+  "lang": {
+    "currentEN": "EN",
+    "currentFI": "FI",
+    "switchTo": "Switch language"
+  },
+  "cta": {
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "loading": "Loading…",
+    "subscribe": "Subscribe",
+    "close": "Close"
+  },
   "affiliateDisclosure": {
     "page": "This page contains affiliate links. If you book through these links, LaplandVibes may receive a commission at no extra cost to you."
   },
@@ -26,17 +39,17 @@
     },
     "about": {
       "eyebrow": "About LaplandVibes",
-      "body": "The definitive guide to Finnish Lapland — from the revontulet to the midnight sun. Curated experiences, insider tips, and everything you need to plan your Arctic adventure.",
+      "body": "The definitive guide to Finnish Lapland, from the revontulet to the midnight sun. Curated experiences, insider tips, and the practical basics for your Arctic trip.",
       "badge": "Independently maintained · sources cited"
     },
     "spottedError": {
       "title": "Spotted an Error?",
-      "body": "See something that needs fixing? Tell us — we'll correct it immediately.",
+      "body": "See something that needs fixing? Tell us, we'll correct it immediately.",
       "cta": "Report an Error →"
     },
     "partner": {
       "title": "Partner With Us",
-      "body": "Advertise or collaborate across 21+ Lapland sites.",
+      "body": "Advertise or collaborate across 27 Lapland sites.",
       "cta": "Get in Touch →"
     },
     "press": {
@@ -45,13 +58,37 @@
       "cta": "Press Enquiries →"
     },
     "affiliate": "This site contains affiliate links. If you book through these links, LaplandVibes may receive a commission at no extra cost to you.",
-    "copyright": "{{year}} #LaplandVibes — Part of the #LaplandVibes Network",
+    "copyright": "{{year}} #LaplandVibes, Part of the #LaplandVibes Network",
     "websiteBy": "Website by Yrityspaketit.fi",
     "legal": {
       "privacy": "Privacy Policy",
       "cookie": "Cookie Policy",
       "terms": "Terms of Use",
       "contact": "Contact"
+    },
+    "siteLabels": {
+      "hotelDeals": "Hotel Deals",
+      "staysCabins": "Stays & Cabins",
+      "whereToStay": "Where to Stay",
+      "familyFriendly": "Family Friendly",
+      "localFood": "Local Food",
+      "fineDining": "Fine Dining",
+      "barsPubs": "Bars & Pubs",
+      "activities": "Activities",
+      "huskySafaris": "Husky Safaris",
+      "skiResorts": "Ski Resorts",
+      "snowmobileTours": "Snowmobile Tours",
+      "spaWellness": "Spa & Wellness",
+      "nightlife": "Nightlife",
+      "natureParks": "Nature & Parks",
+      "travelGuide": "Travel Guide",
+      "christmas": "Christmas in Lapland",
+      "giftsSouvenirs": "Gifts & Souvenirs",
+      "travelBlog": "Travel Blog",
+      "dealsOffers": "Deals & Offers",
+      "transport": "Transport",
+      "carRental": "Car Rental",
+      "workInLapland": "Work in Lapland"
     }
   }
 }

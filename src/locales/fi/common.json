@@ -1,7 +1,20 @@
 {
-  "site": { "name": "LaplandFood", "tagline": "Suomen Lapin ruokakulttuuri, raaka-aineet ja reseptit" },
-  "lang": { "currentEN": "EN", "currentFI": "FI", "switchTo": "Vaihda kieli" },
-  "cta": { "readMore": "Lue lisää", "viewAll": "Näytä kaikki", "loading": "Ladataan…", "subscribe": "Tilaa", "close": "Sulje" },
+  "site": {
+    "name": "LaplandFood",
+    "tagline": "Suomen Lapin ruokakulttuuri, raaka-aineet ja reseptit"
+  },
+  "lang": {
+    "currentEN": "EN",
+    "currentFI": "FI",
+    "switchTo": "Vaihda kieli"
+  },
+  "cta": {
+    "readMore": "Lue lisää",
+    "viewAll": "Näytä kaikki",
+    "loading": "Ladataan…",
+    "subscribe": "Tilaa",
+    "close": "Sulje"
+  },
   "affiliateDisclosure": {
     "page": "Tämä sivu sisältää kumppanuuslinkkejä. Jos varaat niiden kautta, LaplandVibes voi saada komission ilman lisäkustannuksia sinulle."
   },
@@ -26,17 +39,17 @@
     },
     "about": {
       "eyebrow": "Tietoa LaplandVibesistä",
-      "body": "Kattavin opas Suomen Lappiin — revontulista keskiyön aurinkoon. Valittuja elämyksiä, käytännön vinkkejä ja kaikki, mitä tarvitset arktisen matkasi suunnitteluun.",
+      "body": "Suomen Lapin matkaopas, revontulista keskiyön aurinkoon. Käsin valittuja kohteita, käytännön vinkkejä ja avoimet lähteet.",
       "badge": "Riippumattomasti ylläpidetty · lähteet näkyvillä"
     },
     "spottedError": {
       "title": "Huomasitko virheen?",
-      "body": "Näetkö jotain mikä kaipaa korjausta? Kerro meille — korjaamme heti.",
+      "body": "Jos jokin kaipaa korjausta, kerro meille, fixaamme sen.",
       "cta": "Ilmoita virheestä →"
     },
     "partner": {
       "title": "Yhteistyö",
-      "body": "Mainostaminen tai yhteistyö 21+ Lappi-sivuston verkostossa.",
+      "body": "Mainostaminen tai yhteistyö 27 Lappi-sivuston verkostossa.",
       "cta": "Ota yhteyttä →"
     },
     "press": {
@@ -45,13 +58,37 @@
       "cta": "Lehdistö­tiedustelut →"
     },
     "affiliate": "Tämä sivusto sisältää kumppanuus­linkkejä. Jos varaat niiden kautta, LaplandVibes voi saada komission ilman lisäkustannuksia sinulle.",
-    "copyright": "{{year}} #LaplandVibes — Osa #LaplandVibes-verkostoa",
+    "copyright": "{{year}} #LaplandVibes, Osa #LaplandVibes-verkostoa",
     "websiteBy": "Sivuston toteutus: Yrityspaketit.fi",
     "legal": {
       "privacy": "Tietosuojaseloste",
       "cookie": "Evästekäytäntö",
       "terms": "Käyttöehdot",
       "contact": "Yhteystiedot"
+    },
+    "siteLabels": {
+      "hotelDeals": "Hotellitarjoukset",
+      "staysCabins": "Majoitukset ja mökit",
+      "whereToStay": "Missä yöpyä",
+      "familyFriendly": "Perheille",
+      "localFood": "Paikallinen ruoka",
+      "fineDining": "Hienot ravintolat",
+      "barsPubs": "Baarit ja pubit",
+      "activities": "Aktiviteetit",
+      "huskySafaris": "Huskysafarit",
+      "skiResorts": "Hiihtokeskukset",
+      "snowmobileTours": "Moottorikelkkasafarit",
+      "spaWellness": "Spa ja hyvinvointi",
+      "nightlife": "Yöelämä",
+      "natureParks": "Luonto ja kansallispuistot",
+      "travelGuide": "Matkaopas",
+      "christmas": "Joulu Lapissa",
+      "giftsSouvenirs": "Lahjat ja matkamuistot",
+      "travelBlog": "Matkablogi",
+      "dealsOffers": "Tarjoukset",
+      "transport": "Liikenne",
+      "carRental": "Autovuokraus",
+      "workInLapland": "Töihin Lappiin"
     }
   }
 }

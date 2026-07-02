@@ -106,14 +106,14 @@ export default function MichelinDining() {
                     <h3 className="font-heading tracking-wide text-xl text-[#002F6C]">{r.name}</h3>
                     <span className="text-xs font-bold text-vibe-pink whitespace-nowrap mt-1">{r.band}</span>
                   </div>
-                  <p className="text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/55 flex items-center gap-1 mb-3">
+                  <p className="text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/75 flex items-center gap-1 mb-3">
                     <MapPin className="w-3 h-3" /> {r.where}
                   </p>
                   <p className="text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
                 </div>
               ))}
             </div>
-            <p className="text-center text-xs text-[#002F6C]/55 mt-8 max-w-2xl mx-auto">
+            <p className="text-center text-xs text-[#002F6C]/75 mt-8 max-w-2xl mx-auto">
               {t('michelinDining.helsinki.footnote')}
             </p>
           </div>
@@ -140,7 +140,7 @@ export default function MichelinDining() {
                 return (
                   <article key={r.name} className="flex flex-col rounded-2xl bg-white/5 border border-white/15 overflow-hidden hover:border-vibe-pink/40 transition-all">
                     <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                      <img src={LAPLAND_IMAGES[i]} alt="" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                      <img src={LAPLAND_IMAGES[i]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                       <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/30 to-[#002F6C]/85" />
                       <div className="absolute bottom-4 left-5 right-5">
                         <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
@@ -157,17 +157,17 @@ export default function MichelinDining() {
 
                       <div className="space-y-2 text-xs mb-4">
                         <div>
-                          <p className="text-[10px] uppercase tracking-wider font-semibold text-white/55 mb-0.5 flex items-center gap-1.5">
+                          <p className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5 flex items-center gap-1.5">
                             <Star className="w-3 h-3 text-vibe-pink fill-vibe-pink" /> {t('michelinDining.lapland.labels.signature')}
                           </p>
                           <p className="text-white/80 leading-snug">{r.signature}</p>
                         </div>
                         <div>
-                          <p className="text-[10px] uppercase tracking-wider font-semibold text-white/55 mb-0.5">{t('michelinDining.lapland.labels.band')}</p>
+                          <p className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5">{t('michelinDining.lapland.labels.band')}</p>
                           <p className="text-white/80 leading-snug">{r.band}</p>
                         </div>
                         <div>
-                          <p className="text-[10px] uppercase tracking-wider font-semibold text-white/55 mb-0.5">{t('michelinDining.lapland.labels.booking')}</p>
+                          <p className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5">{t('michelinDining.lapland.labels.booking')}</p>
                           <p className="text-white/80 leading-snug">{r.booking}</p>
                         </div>
                       </div>
