@@ -54,7 +54,7 @@
       { "eyebrow": "Säule 02", "title": "Traditionelle Rezepte", "body": "Bidos-Rentiereintopf, Sámi-Brot, Fischsuppe, Beerenkissel, Rezepte, die Sápmi seit Tausenden von Jahren durch die arktischen Winter getragen haben." },
       { "eyebrow": "Säule 03", "title": "Modernes Lappland", "body": "Wie eine neue Generation von Köchen dieselben Zutaten mit Sous-vide, Fermentation und New-Nordic-Handschrift bearbeitet. Wo Sie das probieren können." },
       { "eyebrow": "Säule 04", "title": "Sammelguide", "body": "Heidelbeere, Preiselbeere, Moltebeere, Pilze, Brennnessel, Mädesüß, wann pflücken, wie erkennen und wie nachhaltig sammeln mit dem Jedermannsrecht." },
-      { "eyebrow": "Säule 05", "title": "Michelin und Fine Dining", "body": "Die finnische Michelin-Szene auf einen Blick, was wo besternt ist und was das Fine Dining nördlich des Polarkreises antreibt." },
+      { "eyebrow": "Säule 05", "title": "Michelin und Fine Dining", "body": "Die finnische Michelin-Szene auf einen Blick: was wo besternt ist und was das Fine Dining nördlich des Polarkreises antreibt." },
       { "eyebrow": "Säule 06", "title": "Kulinarische Touren und Kochschulen", "body": "Sámi-Esstouren, Fine-Dining-Rundgänge, Sammelausflüge, Brauereibesuche, buchbare Esserlebnisse in ganz Lappland." }
     ],
     "cultureKicker": "Warum es so schmeckt",
@@ -94,7 +94,7 @@
       "eyebrow": "Säule 01 · Zutaten",
       "title": "Was hier",
       "titleHighlight": "wächst.",
-      "subtitle": "Sechs Zutaten, die die Vorratskammer Lapplands prägen, woher sie kommen, wann sie am besten sind und wie sie tatsächlich schmecken.",
+      "subtitle": "Sechs Zutaten, die die Vorratskammer Lapplands prägen: woher sie kommen, wann sie am besten sind und wie sie tatsächlich schmecken.",
       "primaryCta": "Sammelguide",
       "secondaryCta": "Rezepte, in denen sie verwendet werden"
     },
@@ -442,7 +442,7 @@
       "eyebrow": "Säule 06 · Touren",
       "title": "Iss Dich",
       "titleHighlight": "nach Lappland.",
-      "subtitle": "Drei buchbare Esserlebnisse, die tiefer gehen als ein Tasting-Menü, Sámi-Kultur, arktisches Fine Dining und ein geführter Sammelausflug mit anschließendem Abendessen.",
+      "subtitle": "Drei buchbare Esserlebnisse, die tiefer gehen als ein Tasting-Menü: Sámi-Kultur, arktisches Fine Dining und ein geführter Sammelausflug mit anschließendem Abendessen.",
       "primaryCta": "Alle über GetYourGuide durchsehen"
     },
     "intro": {
@@ -487,7 +487,7 @@
       "eyebrow": "Säule 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "und Fine Dining.",
-      "subtitle": "Die finnische Michelin-Szene auf einen Blick, was wo besternt ist, was das Fine Dining nördlich des Polarkreises antreibt und wie Sie tatsächlich einen Tisch bekommen.",
+      "subtitle": "Die finnische Michelin-Szene auf einen Blick: was wo besternt ist, was das Fine Dining nördlich des Polarkreises antreibt und wie Sie tatsächlich einen Tisch bekommen.",
       "primaryCta": "Wo in Lappland reservieren",
       "secondaryCta": "Restaurants in Helsinki"
     },
@@ -568,7 +568,7 @@
     "hero": {
       "kicker": "Über LaplandFood",
       "headline": "Finnisches Essen, von innen geschrieben.",
-      "lead": "LaplandFood ist die Kulturkarten-Seite des LaplandVibes-Netzwerks, unabhängige Redaktion zur finnischen Esskultur, zur Herkunft der Zutaten, zu traditionellen Sámi-Rezepten, zur modernen arktischen Küche und dazu, wo in Lappland tatsächlich gegessen wird."
+      "lead": "LaplandFood ist die Kulturkarten-Seite des LaplandVibes-Netzwerks: unabhängige Redaktion zur finnischen Esskultur, zur Herkunft der Zutaten, zu traditionellen Sámi-Rezepten, zur modernen arktischen Küche und dazu, wo in Lappland tatsächlich gegessen wird."
     },
     "why": {
       "headline": "Warum es diese Seite gibt.",

@@ -54,7 +54,7 @@
       { "eyebrow": "Pilar 02", "title": "Receitas tradicionais", "body": "Ensopado de rena bidos, pão sami, sopa de peixe de lago, kissel de frutas silvestres, as receitas que alimentaram a Sápmi pelos invernos árticos por milhares de anos." },
       { "eyebrow": "Pilar 03", "title": "Lapônia moderna", "body": "Como uma nova geração de chefs cozinha os mesmos ingredientes com sous-vide, fermentação e técnica nórdica nova. Onde provar." },
       { "eyebrow": "Pilar 04", "title": "Guia de colheita silvestre", "body": "Mirtilo, airela-vermelha, amora ártica, cogumelos, urtiga, ulmária o que colher e quando, como identificar e como fazer de forma sustentável amparado pelo direito de acesso à natureza." },
-      { "eyebrow": "Pilar 05", "title": "Michelin e alta gastronomia", "body": "A cena Michelin da Finlândia num relance o que tem estrela, onde, e o que está empurrando a alta gastronomia para dentro do Círculo Polar Ártico." },
+      { "eyebrow": "Pilar 05", "title": "Michelin e alta gastronomia", "body": "A cena Michelin da Finlândia num relance: o que tem estrela, onde, e o que está empurrando a alta gastronomia para dentro do Círculo Polar Ártico." },
       { "eyebrow": "Pilar 06", "title": "Tours gastronômicos e aulas de cozinha", "body": "Jornadas gastronômicas samis, tours de alta gastronomia, caminhadas de colheita, visitas a cervejarias, experiências gastronômicas reserváveis por toda a Lapônia." }
     ],
     "cultureKicker": "Por que tem o gosto que tem",
@@ -94,7 +94,7 @@
       "eyebrow": "Pilar 01 · Ingredientes",
       "title": "O que cresce",
       "titleHighlight": "aqui em cima.",
-      "subtitle": "Seis ingredientes que definem a despensa da Lapônia, de onde vêm, quando estão no auge e qual é o gosto real deles.",
+      "subtitle": "Seis ingredientes que definem a despensa da Lapônia: de onde vêm, quando estão no auge e qual é o gosto real deles.",
       "primaryCta": "Guia de colheita",
       "secondaryCta": "Receitas que os usam"
     },
@@ -441,7 +441,7 @@
       "eyebrow": "Pilar 06 · Tours",
       "title": "Coma sua",
       "titleHighlight": "Lapônia.",
-      "subtitle": "Três experiências gastronômicas reserváveis que vão além de um menu degustação, cultura sami, alta gastronomia ártica e uma caminhada de colheita guiada que termina em jantar.",
+      "subtitle": "Três experiências gastronômicas reserváveis que vão além de um menu degustação: cultura sami, alta gastronomia ártica e uma caminhada de colheita guiada que termina em jantar.",
       "primaryCta": "Ver todas no GetYourGuide"
     },
     "intro": {
@@ -486,7 +486,7 @@
       "eyebrow": "Pilar 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "e alta gastronomia.",
-      "subtitle": "A cena Michelin da Finlândia num relance o que tem estrela, onde, o que está empurrando a alta gastronomia para dentro do Círculo Polar Ártico e como de fato reservar uma mesa.",
+      "subtitle": "A cena Michelin da Finlândia num relance: o que tem estrela, onde, o que está empurrando a alta gastronomia para dentro do Círculo Polar Ártico e como de fato reservar uma mesa.",
       "primaryCta": "Onde reservar na Lapônia",
       "secondaryCta": "Salões de Helsinque"
     },
@@ -567,7 +567,7 @@
     "hero": {
       "kicker": "Sobre a LaplandFood",
       "headline": "Comida finlandesa, escrita de dentro.",
-      "lead": "A LaplandFood é o site irmão do mapa cultural na rede LaplandVibes, editorial independente sobre a cultura gastronômica finlandesa, a procedência, as receitas tradicionais samis, as cozinhas árticas modernas e onde comer de verdade na Lapônia."
+      "lead": "A LaplandFood é o site irmão do mapa cultural na rede LaplandVibes: editorial independente sobre a cultura gastronômica finlandesa, a procedência, as receitas tradicionais samis, as cozinhas árticas modernas e onde comer de verdade na Lapônia."
     },
     "why": {
       "headline": "Por que este site existe.",

@@ -94,7 +94,7 @@
       "eyebrow": "Pilari 01 · Raaka-aineet",
       "title": "Mitä täällä",
       "titleHighlight": "kasvaa.",
-      "subtitle": "Kuusi raaka-ainetta, jotka määrittävät Lapin ruokavaraston, mistä ne tulevat, milloin ne ovat huipussaan ja miltä ne oikeasti maistuvat.",
+      "subtitle": "Kuusi raaka-ainetta, jotka määrittävät Lapin ruokavaraston: mistä ne tulevat, milloin ne ovat huipussaan ja miltä ne oikeasti maistuvat.",
       "primaryCta": "Keräilyopas",
       "secondaryCta": "Reseptit, joissa näitä käytetään"
     },
@@ -163,7 +163,7 @@
       "secondaryCta": "Moderni keittiö"
     },
     "intro": {
-      "lead": "Tämän sivun reseptit eivät ole museoarvoa. Niitä yhä kokataan.",
+      "lead": "Tämän sivun reseptit eivät ole museotavaraa. Niitä kokataan yhä.",
       "p1": "Astu saamelaiseen kotiin Inarissa tai Utsjoella tiistai-iltana marraskuussa, ja tuoksuna on <em>bidos</em> liedellä, sama hidas pororuoka, jota perheen mummo kokkasi, samalla tavalla, samoilla paloilla, niin matalalla lämmöllä että kattila tuskin kuiskaa. Se että liesi on nykyisin sähkö ja liha tulee rekisteröidystä paliskunnasta, ei muuta reseptiä. Se muuttaa vähän ajoitusta. Siinä kaikki.",
       "p2": "Juuri tämä jatkuvuus on pointti. Saamelainen keittiö säilyi siellä, missä useimmat esiteolliset arktiset ruokakulttuurit eivät, koska se ei koskaan riippunut tuoduista raaka-aineista maistuakseen omalta itseltään. Poro, järvikala, keräillyt marjat, villiyrtit, ruisjauho, voi, suola, lähes kaikki hankitaan kävelyetäisyydeltä siitä missä se syödään. Kun toimitusketjut katkeavat (sota, pakotteet, pandemia), Lapin keittiöt jatkavat. Tämä on testattu eläväisten ihmisten muistissa.",
       "p3": "Alla olevat neljä reseptiä ovat sisäänkäynnit. <strong>Bidos</strong> on sielun­ruoan proteiiniannos. <strong>Gahkku</strong> on jokapäiväinen leipä. <strong>Sápmi-kalakeitto</strong> käyttää sitä, mitä järvestä saatiin sillä viikolla. <strong>Marjakiisseli</strong> on jälkiruoka, aamiainen ja tapa säilöä kesä. Jos kokkaat vain nämä neljä, olet jo kattanut suuren osan perinteisen saamelais­talouden vuodesta.",
@@ -345,7 +345,7 @@
       "eyebrow": "Pilari 04 · Keräily",
       "title": "Villi",
       "titleHighlight": "ruokavarasto.",
-      "subtitle": "Suomen jokamiehenoikeus sallii kenenkä tahansa kerätä marjoja, sieniä ja villiyrttejä lähes koko maassa. Tässä viisi asiaa, jotka kannattaa tietää ensin.",
+      "subtitle": "Suomen jokamiehenoikeus antaa jokaiselle oikeuden kerätä marjoja, sieniä ja villiyrttejä lähes koko maassa. Tässä viisi asiaa, jotka kannattaa tietää ensin.",
       "primaryCta": "Varaa opastettu retki",
       "secondaryCta": "Miten nämä päätyvät lautaselle"
     },
@@ -442,11 +442,11 @@
       "eyebrow": "Pilari 06 · Retket",
       "title": "Syö tieni",
       "titleHighlight": "Lappiin.",
-      "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät syvemmälle kuin tasting menu, saamelaiskulttuuri, arktinen fine dining ja opastettu keräily, joka päättyy päivälliseen.",
+      "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät tasting menua syvemmälle: saamelainen ruokakulttuuri, arktinen fine dining ja opastettu keräilyretki, joka päättyy päivälliseen.",
       "primaryCta": "Selaa kaikkia GetYourGuidessa"
     },
     "intro": {
-      "lead": "Lapin ruokaelämykset, jotka ovat rahojesi arvoisia, ovat niitä, jotka panevat sinut ihmisten eteen, jotka tekevät tätä elinkeinokseen.",
+      "lead": "Rahansa arvoiset ruokaelämykset Lapissa ovat niitä, joissa pääset niiden ihmisten luo, jotka tekevät tätä työkseen.",
       "p1": "Unohda turistibussin ravintola­kierros. Alla olevat retket ovat pien­ryhmiä, usein varattu suoraan yrittäjältä, ja vetäjinä saamelais­keräilijöitä, fine dining -kokkeja tai työssä olevia poro­paimentajia. Syöt, mutta isompi asia on pääsy, porolaumaan, kokin keittiöön, keräilijän mieleen tärkeimmälle suolle. Useimmat maksavat vähemmän kuin Helsingin tasting menu ja kestävät kaksi kertaa kauemmin.",
       "p2": "Kolme retkeä kattaa suurimman osan siitä mitä matkailijat etsivät. <strong>Saamelaiskulttuurin ruokamatka</strong> menee syvälle saamelais­ruokakulttuuriin, bidos paimentajan kanssa, perinteinen leivän­leipominen, keräily­hetki, kulttuuri­konteksti. <strong>Arktinen fine dining -elämys</strong> on yksi intensiivinen päivä, johon kuuluu kokki­keittiön kierros, kokkaus­masterclass ja monen ruokalajin illallinen viinipariltaan, Kööpenhaminan kulinaarisen päivän Lappi-vastine. <strong>Villi­keräily­retki</strong> on aloittelijalle paras iltapäivä saamelais­keräilijän kanssa, opettele turvallinen tunnistaminen, täytä kori, kokkaa sitten poimittu ruoka nuotiolla.",
       "p3": "Kaikki kolme on varattavissa GetYourGuiden kautta. Tuomme esiin haku­tulokset jokaiselle, jotta näet livenä saatavuuden ja ajankohtaiset hinnat, yrittäjät vaihtuvat, päivämäärät muuttuvat, hinnat liikkuvat. Jokaisen kortin \"Tarkista saatavuus\" -painike ajaa elävän GYG-haun, ei kiinteää tuote­sivua."
@@ -487,7 +487,7 @@
       "eyebrow": "Pilari 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "ja fine dining.",
-      "subtitle": "Suomen Michelin-skene yhdellä silmäyksellä, mikä on tähditetty, missä, mikä työntää fine dingiä napapiirin pohjoispuolelle ja miten oikeasti varata pöytä.",
+      "subtitle": "Suomen Michelin-skene yhdellä silmäyksellä: mikä on tähditetty ja missä, mikä vie fine diningia eteenpäin napapiirin pohjoispuolella ja miten pöytä oikeasti varataan.",
       "primaryCta": "Mistä varata Lapissa",
       "secondaryCta": "Helsingin ravintolat"
     },
@@ -568,7 +568,7 @@
     "hero": {
       "kicker": "Tietoa LaplandFoodista",
       "headline": "Suomalaista ruokaa, sisältäpäin kirjoitettuna.",
-      "lead": "LaplandFood on LaplandVibes-verkoston kulttuurikartta-sivusto, riippumatonta toimitusta suomalaisesta ruokakulttuurista, raaka-aineiden alkuperästä, perinteisistä saamelaisresepteistä, modernista arktisesta keittiöstä ja siitä missä Lapissa oikeasti syödään."
+      "lead": "LaplandFood on LaplandVibes-verkoston kulttuurikarttasivusto: riippumatonta toimitusta suomalaisesta ruokakulttuurista, raaka-aineiden alkuperästä, perinteisistä saamelaisresepteistä, modernista arktisesta keittiöstä ja siitä, missä Lapissa oikeasti syödään."
     },
     "why": {
       "headline": "Miksi tämä sivusto on olemassa.",

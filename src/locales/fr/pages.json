@@ -54,7 +54,7 @@
       { "eyebrow": "Pilier 02", "title": "Recettes traditionnelles", "body": "Ragoût de renne bidos, pain plat sâme, soupe de poisson de lac, kisseli de baies sauvages, les recettes qui ont nourri le Sápmi à travers des hivers arctiques pendant des milliers d'années." },
       { "eyebrow": "Pilier 03", "title": "Laponie moderne", "body": "Comment une nouvelle génération de chefs cuisine les mêmes ingrédients avec le sous-vide, la fermentation et la technique New Nordic. Et où aller les goûter." },
       { "eyebrow": "Pilier 04", "title": "Guide de cueillette", "body": "Myrtille, airelle, mûre arctique, champignons, ortie, reine-des-prés, quoi cueillir quand, comment l'identifier et comment le faire durablement sous le droit d'accès." },
-      { "eyebrow": "Pilier 05", "title": "Michelin & haute gastronomie", "body": "La scène Michelin finlandaise d'un coup d'œil, qui est étoilé, où, et qui pousse la haute gastronomie à l'intérieur du cercle polaire." },
+      { "eyebrow": "Pilier 05", "title": "Michelin & haute gastronomie", "body": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, et qui pousse la haute gastronomie à l'intérieur du cercle polaire." },
       { "eyebrow": "Pilier 06", "title": "Tours gastronomiques & cours de cuisine", "body": "Voyages culinaires sâmes, tours de haute gastronomie, balades de cueillette, visites de brasseries, des expériences culinaires réservables à travers la Laponie." }
     ],
     "cultureKicker": "Pourquoi ça a ce goût",
@@ -94,7 +94,7 @@
       "eyebrow": "Pilier 01 · Ingrédients",
       "title": "Ce qui pousse",
       "titleHighlight": "ici.",
-      "subtitle": "Six ingrédients qui définissent le garde-manger lapon, d'où ils viennent, quand ils sont à leur apogée et quel goût ils ont vraiment.",
+      "subtitle": "Six ingrédients qui définissent le garde-manger lapon : d'où ils viennent, quand ils sont à leur apogée et quel goût ils ont vraiment.",
       "primaryCta": "Guide de cueillette",
       "secondaryCta": "Recettes qui les utilisent"
     },
@@ -441,7 +441,7 @@
       "eyebrow": "Pilier 06 · Tours",
       "title": "Mangez votre chemin",
       "titleHighlight": "à travers la Laponie.",
-      "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation, culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
+      "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation : culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
       "primaryCta": "Tout voir sur GetYourGuide"
     },
     "intro": {
@@ -486,7 +486,7 @@
       "eyebrow": "Pilier 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& haute gastronomie.",
-      "subtitle": "La scène Michelin finlandaise d'un coup d'œil, qui est étoilé, où, qui pousse la haute gastronomie à l'intérieur du cercle polaire, et comment réserver une table.",
+      "subtitle": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, qui pousse la haute gastronomie à l'intérieur du cercle polaire, et comment réserver une table.",
       "primaryCta": "Où réserver en Laponie",
       "secondaryCta": "Salles d'Helsinki"
     },
@@ -567,7 +567,7 @@
     "hero": {
       "kicker": "À propos de LaplandFood",
       "headline": "La cuisine finlandaise, écrite de l'intérieur.",
-      "lead": "LaplandFood est le site « carte culturelle » sœur dans le réseau LaplandVibes, édito indépendant sur la culture culinaire finlandaise, le sourcing, les recettes sâmes traditionnelles, les cuisines arctiques modernes et où manger vraiment en Laponie."
+      "lead": "LaplandFood est le site « carte culturelle » sœur dans le réseau LaplandVibes : édito indépendant sur la culture culinaire finlandaise, le sourcing, les recettes sâmes traditionnelles, les cuisines arctiques modernes et où manger vraiment en Laponie."
     },
     "why": {
       "headline": "Pourquoi ce site existe.",
