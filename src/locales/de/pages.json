@@ -3,7 +3,7 @@
     "kicker": "Finnische Küche aus dem Norden",
     "h1Part1": "WIE FINNLAND",
     "h1Part2": "ISST.",
-    "subhead": "Ein Feldführer zur finnischen Esskultur, woher die Zutaten stammen, wie die Rezepte tatsächlich schmecken und warum Finnland pro Kopf mehr Michelin-Sterne hat als seine Nachbarn.",
+    "subhead": "Ein Feldführer durch Finnlands Esskultur – woher die Zutaten kommen, wie die Rezepte wirklich schmecken und warum Finnlands Michelin-Szene einen Umweg wert ist.",
     "ctaPrimary": "Traditionelle Rezepte entdecken",
     "ctaSecondary": "Was hier wächst"
   },
@@ -304,19 +304,20 @@
     },
     "intro": {
       "lead": "Der Wandel dauerte etwa zehn Jahre. Lapplands Fine Dining wechselte vom „Hotelrestaurant für Touristen mit Rentierpfeffersteak\" zu „kleinen, kochgetriebenen Tasting-Menü-Sälen, die mit Helsinki auf Tellerebene mithalten\".",
-      "p1": "Drei Dinge ließen das geschehen. Erstens die New-Nordic-Bewegung, die Mitte der 2000er bei Noma in Kopenhagen begann und alles, was Skandinavien als peinlich ländlich empfunden hatte, gesammelte Kräuter, geräucherter Fisch, Milchsäurefermentation, langsam gegartes Wild, Hofmilchprodukte, als kultivierte Spitze der Küche neu rahmte. Sobald dieser kulturelle Schutz vorhanden war, bekamen Köche in Lappland, die das ihr ganzes Leben getan hatten, Raum, es ohne Entschuldigung auf einen Fine-Dining-Teller zu legen.",
-      "p2": "Zweitens kam die Technik in den Norden. Sous-vide-Becken wurden billiger, Vakuumbeutel verbreiteten sich, und Zutaten, die früher zu Eintöpfen verkocht wurden (weil es die einzige Möglichkeit war, ein zähes Stück essbar zu machen), konnten nun bei 54 °C auf rosa in der Mitte gegart und als Hauptprotein serviert werden. Das Rentierfilet, ein Stück, das früher dem Festtag vorbehalten war, weil es so leicht zu verderben war, wurde zum Markenzeichen der modernen Küche Lapplands. Nicht weil es Mode ist, sondern weil die Technik endlich die Zutat eingeholt hat.",
-      "p3": "Drittens professionalisierte sich die Lieferkette. Sammler und Kleinfischer begannen, direkt an Restaurants zu verkaufen statt an Großhändler. Sámi-Rentiergenossenschaften zertifizierten einen Teil ihrer Schlachtungen für den Restaurantmarkt. Spezialerzeuger, Birkensaft-Hersteller, Räuchereien, Preiselbeer-Essig-Fermentierer, entstanden in ganz Lappland, um an Köche zu liefern. Ein modernes lappländisches Tasting-Menü kann elf Zutaten auf einem Teller auflisten, und alle stammen aus einem Umkreis von 200 km.",
-      "p4": "Die vier Gerichte unten sind Markenzeichen der besten Restaurants dieses Stils. Unter den Karten folgt ein längerer Text darüber, was New-Nordic-Technik tatsächlich <em>ist</em>, hinter dem Branding und wie sie sich in der lappländischen Küche zeigt."
+      "points": [
+        { "n": "01", "title": "New Nordic gab Rückendeckung", "body": "Als Noma gesammelte Kräuter, Räucherfisch und geschmortes Wild zum anspruchsvollen Ende der Küche erklärte, konnten Lapplands Köche – die das ihr Leben lang getan hatten – es endlich ohne Entschuldigung anrichten." },
+        { "n": "02", "title": "Die Technik kam in den Norden", "body": "Günstige Sous-vide-Geräte befreiten magere Teilstücke vom Schmortopf. Rentierfilet, bei 54 °C rosa gegart, wurde zum Markenzeichen der modernen Lappland-Küche." },
+        { "n": "03", "title": "Die Lieferkette wurde professionell", "body": "Sammler und Kleinfischer verkaufen heute direkt an Restaurants, Spezialproduzenten liefern von Birkensirup bis Preiselbeeressig. Ein Degustationsmenü kann jede Zutat aus einem Umkreis von 200 Kilometern beziehen." }
+      ]
     },
-    "dishesKicker": "Vier Signature-Gerichte",
+    "dishesKicker": "Vier moderne Klassiker",
     "dishesHeadline": "Modernes Lappland auf dem Teller.",
     "dishLabels": { "technique": "Technik", "from": "Basis", "twist": "Wendung" },
     "dishes": [
-      { "name": "Sous-vide-Rentierfilet mit Heidelbeercreme", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Klassisches Rentier bei 54 °C gegart, serviert mit Wildheidelbeersauce und Rote-Bete-Chips.", "technique": "Sous-vide", "traditional": "Traditionell gebratenes Rentier", "innovation": "Präzisionstemperatur und moderne Anrichteweise", "price": "ab 42 €" },
-      { "name": "Arktische Maräne mit Wildkräuteröl", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Süßwassermaräne als Confit, Mädesüß, Beeren-Aïoli und essbare Blüten.", "technique": "Confit und Molekulargastronomie", "traditional": "Geräucherte Maräne", "innovation": "Niedertemperaturgaren und gesammelte Blüten", "price": "ab 38 €" },
-      { "name": "7-Gänge-Wildbeeren-Tasting-Menü", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Eine vollständige Abendreise rund um Lapplands Wildbeeren, vom Amuse-Bouche bis zum Dessert.", "technique": "New Nordic und Fermentation", "traditional": "Beerenkonfitüre und Konserven", "innovation": "Milchsauer fermentierte Beeren und natürliche Säuren", "price": "ab 85 €" },
-      { "name": "Dekonstruierter Bidos mit Knochenmarkstaub", "chef": "Niillas Somby", "restaurant": "Sápmi-Kulturzentrum", "description": "Eine molekulargastronomische Neuinterpretation des klassischen Sámi-Rentiereintopfs.", "technique": "Dekonstruktion und Sphärifizierung", "traditional": "Bidos-Rentiereintopf", "innovation": "Trennen und neu Zusammensetzen der Aromen mit moderner Technik", "price": "ab 45 €" }
+      { "name": "Sous-vide-Rentierfilet, Heidelbeere & Wurzelgemüse", "description": "Der prägende Teller des Stils: mageres Rentierfilet rosa gegart, eine Reduktion wilder Heidelbeeren, Wurzelgemüse in zwei Texturen.", "technique": "Sous-vide", "traditional": "Rentierbraten / poronkäristys", "innovation": "Präzise Temperatur macht das magerste Stück zum Hauptdarsteller" },
+      { "name": "Confit-Maräne mit Wildkräuteröl", "description": "Langsam in Fett gegarte Maräne, vollendet mit Mädesüß- oder Fichtenspitzenöl und etwas Säure aus dem Fermentationsregal.", "technique": "Confit", "traditional": "Geräucherter und gesalzener Seefisch", "innovation": "Niedrige Temperatur hält den zarten Fisch intakt; gesammelte Kräuter statt Dill als Standard" },
+      { "name": "Wildbeeren-Dessertfolge", "description": "Moltebeere, Heidelbeere und Preiselbeere als Abfolge – Parfait, Fruchtleder, fermentiert, gefroren – statt einer Panna cotta mit Marmelade.", "technique": "Fermentation + New-Nordic-Patisserie", "traditional": "Beerenkissel und Marmeladen", "innovation": "Fermentierte Beeren liefern die Säure, die importierte Zitrusfrüchte ersetzt" },
+      { "name": "Bidos, neu interpretiert", "description": "Der samische Festtagseintopf für das Degustationsmenü gedacht: die Brühe geklärt, die Rentierschulter gepresst, das Mark separat serviert.", "technique": "Modernes Anrichten eines Schmorgerichts", "traditional": "Bidos-Rentiereintopf", "innovation": "Gleiche Teilstücke und Aromen, neu als Gänge angerichtet – die Hausversion bleibt unangetastet" }
     ],
     "techniques": {
       "kicker": "Was „New Nordic\" wirklich bedeutet",
@@ -457,33 +458,21 @@
     "checkAvailability": "Verfügbarkeit prüfen",
     "tours": [
       {
-        "name": "Sámi-Kultur-Esstour",
-        "duration": "6 Stunden",
-        "groupSize": "4–12 Personen",
-        "difficulty": "Einfach",
-        "price": "ab 185 €",
+        "name": "Sámi-Kultur-Esstour",
         "description": "Ein Eintauchen in die Sámi-Esskultur. Treffen Sie lokale Erzeuger, lernen Sie traditionelle Techniken und probieren Sie authentische Aromen direkt aus der Arktis.",
         "highlights": ["Besuch bei einem Rentierhirten und Bidos-Verkostung", "Traditionelles Sámi-Brot backen", "Sammeln von Wildzutaten mit dem Guide", "Esskulturwerkstatt im Sámi-Museum", "Besuche bei lokalen arktischen Erzeugern"],
         "location": "Region Inari–Utsjoki",
         "season": "Juni–September"
       },
       {
-        "name": "Arktisches Fine-Dining-Erlebnis",
-        "duration": "8 Stunden",
-        "groupSize": "2–8 Personen",
-        "difficulty": "Mittel",
-        "price": "ab 295 €",
+        "name": "Arktisches Fine-Dining-Erlebnis",
         "description": "Eine exklusive Reise durch Lapplands beste Restaurants. Michelin-empfohlene Häuser und ausgezeichnete Köche, die mit den reinsten arktischen Zutaten arbeiten.",
         "highlights": ["3-Gang-Mittagessen in einem regionalen Spitzenrestaurant", "Küchentour mit dem Chefkoch", "Masterclass „Arktische Zutaten\"", "Demonstration von Fine-Dining-Techniken", "5-Gang-Gourmet-Abendessen mit Weinbegleitung"],
         "location": "Rovaniemi",
         "season": "ganzjährig"
       },
       {
-        "name": "Wildsammel-Tour",
-        "duration": "4 Stunden",
-        "groupSize": "6–15 Personen",
-        "difficulty": "Mittel",
-        "price": "ab 95 €",
+        "name": "Wildsammel-Tour",
         "description": "Geführtes Sammeln in Urwäldern und auf Mooren. Lernen Sie die sichere Bestimmung von Beeren, Pilzen und Wildkräutern und kochen Sie anschließend, was Sie gepflückt haben.",
         "highlights": ["Pilzsicherheits-Masterclass", "Pflücken von Heidelbeere, Preiselbeere und Moltebeere (je nach Saison)", "Bestimmung von Wildkräutern", "Vom-Sammeln-zum-Tisch-Kochen am Lagerfeuer", "Lappland-Sammelguide zum Mitnehmen"],
         "location": "Region Rovaniemi / Levi",

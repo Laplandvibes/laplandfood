@@ -60,8 +60,8 @@ export default function PageHero({
         className="absolute inset-0 w-full h-full object-cover"
       />
       {/* Left scrim so the left-aligned H1 stays legible over any photo; image still shows on the right */}
-      <div className="absolute inset-0 bg-gradient-to-r from-[#001F4A]/85 via-[#002F6C]/45 to-transparent" />
-      <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/55 to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-r from-[#001F4A]/70 via-[#002F6C]/30 to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/40 to-transparent" />
 
       <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center min-h-[60svh] md:min-h-[68svh]">
         <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.95] mb-6 max-w-4xl drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">

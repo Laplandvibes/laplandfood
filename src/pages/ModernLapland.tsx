@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Trans, useTranslation } from 'react-i18next';
+import { useTranslation } from 'react-i18next';
 import { Sparkles, Award, Utensils } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
@@ -9,7 +9,11 @@ import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
 import { useLocale } from '../i18n/useLocale';
 
-interface Dish { name: string; chef: string; restaurant: string; description: string; technique: string; traditional: string; innovation: string; price: string }
+// No chef names, restaurants, or prices on dish cards: these describe the
+// STYLE's recurring plates, not specific restaurant dishes. The old cards
+// attributed invented dishes and prices to real people (ethics fix 2026-07-07).
+interface Dish { name: string; description: string; technique: string; traditional: string; innovation: string }
+interface IntroPoint { n: string; title: string; body: string }
 interface TechItem { title: string; body: string }
 
 const DISH_IMAGES = [
@@ -23,6 +27,7 @@ export default function ModernLapland() {
   const { t } = useTranslation('pages');
   const { to } = useLocale();
   const dishes = (t('modernLapland.dishes', { returnObjects: true }) as Dish[]) || [];
+  const introPoints = (t('modernLapland.intro.points', { returnObjects: true }) as IntroPoint[]) || [];
   const techniques = (t('modernLapland.techniques.items', { returnObjects: true }) as TechItem[]) || [];
 
   return (
@@ -41,19 +46,21 @@ export default function ModernLapland() {
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}
         />
 
-        {/* Long-form intro */}
+        {/* Intro — lead + three compact reason cards. The four-paragraph essay
+            this replaced was a wall of text right under the hero. */}
         <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="prose prose-lg max-w-none text-[#002F6C]/85">
-              <p className="text-xl leading-relaxed font-medium text-[#002F6C] mb-6">
-                {t('modernLapland.intro.lead')}
-              </p>
-              <p className="leading-relaxed mb-5">{t('modernLapland.intro.p1')}</p>
-              <p className="leading-relaxed mb-5">{t('modernLapland.intro.p2')}</p>
-              <p className="leading-relaxed mb-5">{t('modernLapland.intro.p3')}</p>
-              <p className="leading-relaxed">
-                <Trans i18nKey="modernLapland.intro.p4" ns="pages" components={{ em: <em /> }} />
-              </p>
+          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
+            <p className="text-xl sm:text-2xl leading-relaxed font-medium text-[#002F6C] max-w-3xl mb-10">
+              {t('modernLapland.intro.lead')}
+            </p>
+            <div className="grid md:grid-cols-3 gap-5">
+              {introPoints.map(p => (
+                <div key={p.n} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
+                  <p className="font-heading tracking-wide text-3xl text-vibe-pink mb-2">{p.n}</p>
+                  <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{p.title}</h3>
+                  <p className="text-sm text-[#002F6C]/80 leading-relaxed">{p.body}</p>
+                </div>
+              ))}
             </div>
           </div>
         </section>
@@ -74,22 +81,14 @@ export default function ModernLapland() {
                 <article key={d.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={DISH_IMAGES[i]} alt={d.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/40 to-[#002F6C]/85" />
-                    <div className="absolute top-4 right-5">
-                      <span className="bg-vibe-pink text-white text-xs font-bold px-3 py-1.5 rounded-full">
-                        {d.price}
-                      </span>
-                    </div>
+                    <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-4 left-5 right-5">
-                      <h3 className="font-heading tracking-wide text-2xl text-white leading-tight">
+                      <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">
                         {d.name}
                       </h3>
                     </div>
                   </div>
                   <div className="p-6 flex flex-col flex-1">
-                    <p className="text-sm text-[#002F6C]/75 mb-3">
-                      <span className="font-semibold text-[#002F6C]/85">{d.chef}</span> · {d.restaurant}
-                    </p>
                     <p className="text-sm text-[#002F6C]/85 leading-relaxed mb-5">{d.description}</p>
                     <div className="grid grid-cols-1 min-[420px]:grid-cols-3 gap-3 text-xs mt-auto pt-4 border-t border-[#002F6C]/10">
                       <div>

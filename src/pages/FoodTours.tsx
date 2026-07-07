@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { Clock, Users, MapPin, Star, Calendar } from 'lucide-react';
+import { MapPin, Calendar } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import PageHero from '../components/PageHero';
@@ -7,12 +7,11 @@ import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import { gygSearchLink } from '../lib/gyg';
 
+// No prices, durations, group sizes, or ratings on these cards: the CTA is a
+// live GYG SEARCH (operators rotate), so we can't honestly claim any of those
+// numbers. Location + season describe the trip type, which we can stand behind.
 interface Tour {
   name: string;
-  duration: string;
-  groupSize: string;
-  difficulty: string;
-  price: string;
   description: string;
   highlights: string[];
   location: string;
@@ -20,9 +19,9 @@ interface Tour {
 }
 
 const TOUR_META = [
-  { sid: 'tour_sami_culture', searchQuery: 'Sami food culture Lapland', image: '/images/tour-sami-culture.jpg', rating: 4.9 },
-  { sid: 'tour_arctic_fine_dining', searchQuery: 'Lapland fine dining tasting menu', image: '/images/tour-fine-dining.jpg', rating: 4.8 },
-  { sid: 'tour_foraging', searchQuery: 'Lapland foraging tour', image: '/images/tour-foraging.jpg', rating: 4.7 },
+  { sid: 'tour_sami_culture', searchQuery: 'Sami food culture Lapland', image: '/images/tour-sami-culture.jpg' },
+  { sid: 'tour_arctic_fine_dining', searchQuery: 'Lapland fine dining tasting menu', image: '/images/tour-fine-dining.jpg' },
+  { sid: 'tour_foraging', searchQuery: 'Lapland foraging tour', image: '/images/tour-foraging.jpg' },
 ];
 
 const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all');
@@ -84,18 +83,9 @@ export default function FoodTours() {
                   <article key={tour.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                       <img src={meta.image} alt={tour.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                      <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/15 via-[#002F6C]/35 to-[#002F6C]/85" />
-                      <div className="absolute top-4 left-5 right-5 flex items-start justify-between">
-                        <span className="inline-flex items-center gap-1 bg-white/90 backdrop-blur text-[#002F6C] text-xs font-semibold px-3 py-1.5 rounded-full">
-                          <Star className="w-3 h-3 text-vibe-pink fill-vibe-pink" />
-                          {meta.rating}
-                        </span>
-                        <span className="bg-vibe-pink text-white text-xs font-bold px-3 py-1.5 rounded-full">
-                          {tour.price}
-                        </span>
-                      </div>
+                      <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                       <div className="absolute bottom-4 left-5 right-5">
-                        <h3 className="font-heading tracking-wide text-2xl text-white leading-tight">
+                        <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">
                           {tour.name}
                         </h3>
                       </div>
@@ -107,8 +97,6 @@ export default function FoodTours() {
                       </p>
 
                       <div className="grid grid-cols-2 gap-2.5 text-xs mb-4">
-                        <div className="flex items-center gap-1.5"><Clock className="w-3.5 h-3.5 text-vibe-pink flex-shrink-0" /> <span className="text-[#002F6C]/80">{tour.duration}</span></div>
-                        <div className="flex items-center gap-1.5"><Users className="w-3.5 h-3.5 text-vibe-pink flex-shrink-0" /> <span className="text-[#002F6C]/80">{tour.groupSize}</span></div>
                         <div className="flex items-center gap-1.5"><MapPin className="w-3.5 h-3.5 text-vibe-pink flex-shrink-0" /> <span className="text-[#002F6C]/80">{tour.location}</span></div>
                         <div className="flex items-center gap-1.5"><Calendar className="w-3.5 h-3.5 text-vibe-pink flex-shrink-0" /> <span className="text-[#002F6C]/80">{tour.season}</span></div>
                       </div>

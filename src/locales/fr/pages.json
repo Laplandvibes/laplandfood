@@ -3,7 +3,7 @@
     "kicker": "Cuisine du Nord, écrite depuis la Finlande",
     "h1Part1": "LA TABLE",
     "h1Part2": "FINLANDAISE.",
-    "subhead": "Un guide de terrain sur la culture culinaire finlandaise, d'où viennent les ingrédients, ce que valent vraiment les recettes, et pourquoi ce pays dépasse ses voisins en étoiles Michelin par habitant.",
+    "subhead": "Un guide de terrain de la culture culinaire finlandaise : d'où viennent les ingrédients, quel goût ont vraiment les recettes, et pourquoi la scène Michelin du pays vaut le détour.",
     "ctaPrimary": "Voir les recettes traditionnelles",
     "ctaSecondary": "Ce qui pousse ici"
   },
@@ -303,19 +303,20 @@
     },
     "intro": {
       "lead": "Le basculement a pris environ dix ans. La haute gastronomie lapone est passée du « restaurant d'hôtel touristique avec entrecôte de renne au poivre » à « petites salles de menu dégustation menées par un chef qui rivalisent avec Helsinki sur le travail de l'assiette ».",
-      "p1": "Trois choses l'ont permis. D'abord, le mouvement New Nordic lancé à Noma à Copenhague au milieu des années 2000 a reformulé ce que la Scandinavie traitait comme embarrassement rural, herbes cueillies, poisson fumé, lacto-fermentation, gibier mijoté, produits laitiers d'une seule ferme, comme l'extrémité sophistiquée de la cuisine. Une fois cette couverture culturelle obtenue, les chefs lapons qui faisaient ces choses depuis toujours ont eu de la place pour les mettre dans une assiette gastronomique sans se justifier.",
-      "p2": "Deuxièmement, la technique est montée vers le nord. Les circulateurs sous-vide sont devenus moins chers, les sacs sous vide sont devenus standards, et les ingrédients qui étaient traditionnellement trop cuits en ragoût (parce que c'était le seul moyen de rendre un morceau ferme agréable) pouvaient désormais être cuits à cœur rose à 54 °C et servis comme protéine principale. Le filet de renne, un morceau autrefois réservé aux grandes occasions parce qu'il était si facile à rater, est devenu la signature lapone moderne. Pas parce que c'est tendance, mais parce que la technique a enfin rattrapé l'ingrédient.",
-      "p3": "Troisièmement, la chaîne d'approvisionnement s'est professionnalisée. Cueilleurs et petits pêcheurs ont commencé à vendre directement aux restaurants au lieu de passer par des grossistes. Les coopératives sâmes ont certifié des parties de leur abattage pour le commerce de la restauration. Des producteurs spécialisés, fabricants de sirop de bouleau, fumoirs, fermenteurs de vinaigre d'airelle, se sont installés à travers la Laponie pour vendre aux chefs. Un menu dégustation lapon moderne peut lister onze ingrédients dans une assiette et tous être sourcés dans un rayon de 200 kilomètres.",
-      "p4": "Les quatre plats ci-dessous sont des signatures des salles qui font cela le mieux. Sous les fiches, un texte plus long sur ce qu'est <em>vraiment</em> la technique New Nordic, au-delà du label et comment elle se manifeste dans une cuisine lapone."
+      "points": [
+        { "n": "01", "title": "Le New Nordic a ouvert la voie", "body": "Quand Noma a fait des herbes cueillies, du poisson fumé et du gibier mijoté le sommet de la cuisine, les chefs de Laponie — qui faisaient cela depuis toujours — ont enfin pu le dresser sans s'excuser." },
+        { "n": "02", "title": "La technique est montée au nord", "body": "Les thermoplongeurs sous vide bon marché ont libéré les morceaux maigres du ragoût. Le filet de renne, rosé à cœur à 54 °C, est devenu la signature de la cuisine lapone moderne." },
+        { "n": "03", "title": "La filière s'est professionnalisée", "body": "Cueilleurs et petits pêcheurs vendent désormais en direct aux restaurants, et des producteurs spécialisés couvrent tout, du sirop de bouleau au vinaigre d'airelle. Un menu dégustation peut sourcer chaque ingrédient dans un rayon de 200 kilomètres." }
+      ]
     },
-    "dishesKicker": "Quatre plats signatures",
+    "dishesKicker": "Quatre classiques modernes",
     "dishesHeadline": "La Laponie moderne dans l'assiette.",
     "dishLabels": { "technique": "Technique", "from": "Depuis", "twist": "Variation" },
     "dishes": [
-      { "name": "Filet de renne sous-vide & crème de myrtilles", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Renne classique cuit à 54 °C, servi avec sauce de myrtilles sauvages et chips de betterave.", "technique": "Sous-vide", "traditional": "Renne rôti traditionnel", "innovation": "Cuisson à température précise et dressage moderne", "price": "à partir de 42 €" },
-      { "name": "Corégone arctique & huile d'herbes sauvages", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Corégone de lac cuit confit, reine-des-prés, aïoli aux baies et fleurs comestibles.", "technique": "Confit + gastronomie moléculaire", "traditional": "Corégone fumé", "innovation": "Cuisson basse température + fleurs sauvages cueillies", "price": "à partir de 38 €" },
-      { "name": "Menu dégustation 7 services autour des baies sauvages", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Un dîner complet bâti autour des baies sauvages de Laponie, de l'amuse-bouche au dessert.", "technique": "New Nordic + fermentation", "traditional": "Compote et confitures de baies", "innovation": "Baies lacto-fermentées et acidités naturelles", "price": "à partir de 85 €" },
-      { "name": "Bidos déconstruit & poussière de moelle", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "Une relecture en gastronomie moléculaire du ragoût de renne classique sâme.", "technique": "Déconstruction + sphérification", "traditional": "Ragoût de renne bidos", "innovation": "Séparation et réassemblage des saveurs avec technique moderne", "price": "à partir de 45 €" }
+      { "name": "Filet de renne sous vide, myrtille et racine", "description": "L'assiette qui définit le style : filet de renne maigre rosé à cœur, réduction de myrtilles sauvages, légume-racine en deux textures.", "technique": "Sous vide", "traditional": "Renne rôti / poronkäristys", "innovation": "La cuisson de précision fait du morceau le plus maigre la pièce maîtresse" },
+      { "name": "Corégone confit, huile d'herbes sauvages", "description": "Corégone de lac cuit lentement dans la graisse, fini d'une huile de reine-des-prés ou de pousses d'épicéa et d'une note acide de l'étagère à ferments.", "technique": "Confit", "traditional": "Poisson de lac fumé et salé", "innovation": "La basse température préserve un poisson délicat ; les herbes cueillies remplacent l'aneth par défaut" },
+      { "name": "Déclinaison de desserts aux baies sauvages", "description": "Plaquebière, myrtille et airelle en progression — parfait, cuir de fruit, fermenté, glacé — plutôt qu'une panna cotta à la confiture.", "technique": "Fermentation + pâtisserie New Nordic", "traditional": "Kissel et confitures de baies", "innovation": "Les baies lactofermentées apportent l'acidité qui remplace les agrumes importés" },
+      { "name": "Le bidos, réinterprété", "description": "Le ragoût de fête sami pensé pour un menu dégustation : bouillon clarifié, épaule de renne pressée, moelle servie à part.", "technique": "Dressage moderne d'un braisé lent", "traditional": "Ragoût de renne bidos", "innovation": "Mêmes morceaux, mêmes saveurs, redressés en services — la version familiale reste intouchée" }
     ],
     "techniques": {
       "kicker": "Ce que « New Nordic » signifie vraiment",
@@ -456,33 +457,21 @@
     "checkAvailability": "Vérifier la disponibilité",
     "tours": [
       {
-        "name": "Voyage culinaire culturel sâme",
-        "duration": "6 heures",
-        "groupSize": "4–12 personnes",
-        "difficulty": "Facile",
-        "price": "à partir de 185 €",
+        "name": "Voyage culinaire culturel sâme",
         "description": "Une plongée dans la culture culinaire sâme. Rencontrez des producteurs locaux, apprenez des techniques traditionnelles et goûtez des saveurs authentiques directement de l'Arctique.",
         "highlights": ["Visite d'un éleveur de rennes et dégustation de bidos", "Cuisson traditionnelle du pain sâme", "Cueillette guidée d'ingrédients sauvages", "Atelier culturel au musée sâme", "Visites de producteurs arctiques locaux"],
         "location": "Région d'Inari – Utsjoki",
         "season": "Juin – septembre"
       },
       {
-        "name": "Expérience gastronomique arctique",
-        "duration": "8 heures",
-        "groupSize": "2–8 personnes",
-        "difficulty": "Intermédiaire",
-        "price": "à partir de 295 €",
+        "name": "Expérience gastronomique arctique",
         "description": "Un voyage exclusif à travers les meilleures tables de Laponie. Restaurants recommandés Michelin et chefs primés cuisinant avec les ingrédients arctiques les plus purs.",
         "highlights": ["Déjeuner 3 services dans un restaurant phare régional", "Visite des coulisses avec le chef", "Masterclass sur les ingrédients arctiques", "Démonstration de technique gastronomique", "Dîner 5 services avec accords mets-vins"],
         "location": "Rovaniemi",
         "season": "Toute l'année"
       },
       {
-        "name": "Expédition de cueillette sauvage",
-        "duration": "4 heures",
-        "groupSize": "6–15 personnes",
-        "difficulty": "Intermédiaire",
-        "price": "à partir de 95 €",
+        "name": "Expédition de cueillette sauvage",
         "description": "Cueillette guidée pratique en forêt ancienne et tourbière. Apprenez l'identification sûre des baies, champignons et herbes sauvages, puis cuisinez la récolte.",
         "highlights": ["Masterclass de sécurité champignons", "Cueillette de myrtilles, airelles et mûres arctiques (en saison)", "Identification des herbes sauvages", "Cuisson de la récolte au feu de camp", "Livret de cueillette lapone à emporter"],
         "location": "Région de Rovaniemi / Levi",

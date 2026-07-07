@@ -3,7 +3,7 @@
     "kicker": "Comida finlandesa, lá do norte",
     "h1Part1": "COMO A FINLÂNDIA",
     "h1Part2": "COME.",
-    "subhead": "Um guia de campo da cultura gastronômica finlandesa, de onde vêm os ingredientes, qual é o gosto real das receitas e por que o país já tem mais estrelas Michelin per capita do que os vizinhos.",
+    "subhead": "Um guia de campo da cultura gastronômica finlandesa: de onde vêm os ingredientes, qual é o sabor real das receitas e por que a cena Michelin do país vale o desvio.",
     "ctaPrimary": "Conhecer as receitas tradicionais",
     "ctaSecondary": "O que cresce aqui em cima"
   },
@@ -303,19 +303,20 @@
     },
     "intro": {
       "lead": "A virada levou cerca de dez anos. A alta gastronomia da Lapônia passou de \"restaurante de hotel turístico com bife de rena ao molho de pimenta\" para \"pequenos salões de menu degustação liderados por chefs que competem com Helsinque no apuro do prato\".",
-      "p1": "Três coisas fizeram isso acontecer. Primeira, o movimento nórdico novo que começou no Noma, em Copenhague, em meados dos anos 2000, reformulou tudo o que a Escandinávia vinha tratando como vergonhosamente rural, ervas silvestres, peixe defumado, lactofermentação, caça em fogo baixo, laticínios de uma única fazenda, como a ponta sofisticada da cozinha. Com essa cobertura cultural, os chefs da Lapônia que faziam essas coisas a vida toda ganharam espaço para colocá-las num prato de alta gastronomia sem pedir desculpas.",
-      "p2": "Segunda, a técnica chegou ao norte. Os circuladores de sous-vide ficaram mais baratos, os sacos de vácuo viraram padrão, e ingredientes que tradicionalmente eram cozidos demais até virarem ensopado (porque era o único jeito de tornar um corte duro palatável) agora podiam ser cozidos até ficar rosados no centro a 54 °C e servidos como a proteína principal. O filé de rena, um corte que costumava ser reservado para ocasiões especiais por ser tão fácil de estragar, virou a assinatura da Lapônia moderna. Não porque está na moda, mas porque a técnica finalmente alcançou o ingrediente.",
-      "p3": "Terceira, a cadeia de fornecimento se profissionalizou. Coletores e pequenos pescadores passaram a vender direto para os restaurantes, em vez de via atacadistas. As cooperativas samis certificaram parte do abate de renas para o comércio de restaurante. Produtores especializados, fabricantes de xarope de bétula, defumadores, fermentadores de vinagre de airela, se instalaram por toda a Lapônia para vender aos chefs. Um menu degustação da Lapônia moderna pode listar onze ingredientes num prato e ter todos eles obtidos num raio de 200 quilômetros.",
-      "p4": "Os quatro pratos abaixo são assinaturas dos salões que fazem isso melhor. Abaixo dos cartões há um texto mais longo sobre o que a técnica nórdica nova realmente <em>é</em>, para além da marca e como ela aparece numa cozinha da Lapônia."
+      "points": [
+        { "n": "01", "title": "O New Nordic abriu caminho", "body": "Quando o Noma redefiniu ervas colhidas, peixe defumado e caça de cozimento lento como o ápice da culinária, os chefs da Lapônia — que faziam isso a vida toda — finalmente puderam empratar sem pedir desculpas." },
+        { "n": "02", "title": "A técnica veio para o norte", "body": "Circuladores sous-vide baratos libertaram os cortes magros do ensopado. O filé de rena, rosado no centro a 54 °C, virou a assinatura da cozinha lapônica moderna." },
+        { "n": "03", "title": "A cadeia de suprimentos amadureceu", "body": "Coletores e pequenos pescadores agora vendem direto aos restaurantes, e produtores especializados cobrem de xarope de bétula a vinagre de lingonberry. Um menu degustação pode obter cada ingrediente num raio de 200 quilômetros." }
+      ]
     },
-    "dishesKicker": "Quatro pratos-assinatura",
+    "dishesKicker": "Quatro clássicos modernos",
     "dishesHeadline": "A Lapônia moderna no prato.",
     "dishLabels": { "technique": "Técnica", "from": "De", "twist": "Releitura" },
     "dishes": [
-      { "name": "Filé de rena em sous-vide e creme de mirtilo", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Rena clássica cozida a 54 °C, servida com molho de mirtilo silvestre e chips de beterraba.", "technique": "Sous-vide", "traditional": "Rena assada tradicional", "innovation": "Cocção de precisão por temperatura e empratamento moderno", "price": "a partir de € 42" },
-      { "name": "Coregono ártico e óleo de ervas silvestres", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Coregono de lago cozido em confit, ulmária, aïoli de frutas silvestres e flores comestíveis.", "technique": "Confit + gastronomia molecular", "traditional": "Coregono defumado", "innovation": "Cocção em baixa temperatura + flores silvestres colhidas", "price": "a partir de € 38" },
-      { "name": "Menu degustação de frutas silvestres em 7 tempos", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Uma jornada de jantar completa construída em torno das frutas silvestres da Lapônia, do amuse-bouche à sobremesa.", "technique": "Nórdica nova + fermentação", "traditional": "Compota e geleias de frutas", "innovation": "Frutas lactofermentadas e acidezes naturais", "price": "a partir de € 85" },
-      { "name": "Bidos desconstruído e pó de tutano", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "Uma releitura de gastronomia molecular do clássico ensopado de rena sami.", "technique": "Desconstrução + esferificação", "traditional": "Ensopado de rena bidos", "innovation": "Separar e remontar os sabores com técnica moderna", "price": "a partir de € 45" }
+      { "name": "Filé de rena sous-vide, bilberry e raiz", "description": "O prato que define o estilo: filé magro de rena rosado no centro, redução de bilberries silvestres e um legume de raiz em duas texturas.", "technique": "Sous-vide", "traditional": "Rena assada / poronkäristys", "innovation": "A temperatura de precisão transforma o corte mais magro no protagonista" },
+      { "name": "Peixe-branco confitado com azeite de ervas silvestres", "description": "Peixe de lago cozido lentamente na gordura, finalizado com azeite de ulmária ou brotos de abeto e um toque ácido da prateleira de fermentados.", "technique": "Confit", "traditional": "Peixe de lago defumado e salgado", "innovation": "A baixa temperatura preserva um peixe delicado; ervas colhidas substituem o endro padrão" },
+      { "name": "Sequência de sobremesas de frutas silvestres", "description": "Cloudberry, bilberry e lingonberry em progressão — parfait, couro de fruta, fermentada, congelada — em vez de uma panna cotta com geleia.", "technique": "Fermentação + confeitaria New Nordic", "traditional": "Kissel e geleias de frutas", "innovation": "Frutas lactofermentadas trazem a acidez que substitui os cítricos importados" },
+      { "name": "Bidos, reinterpretado", "description": "O ensopado festivo sámi pensado para um menu degustação: caldo clarificado, paleta de rena prensada, tutano servido à parte.", "technique": "Empratamento moderno de um cozido lento", "traditional": "Ensopado bidos de rena", "innovation": "Os mesmos cortes e sabores, reapresentados como etapas — a versão caseira permanece intocada" }
     ],
     "techniques": {
       "kicker": "O que \"nórdico novo\" realmente significa",
@@ -456,33 +457,21 @@
     "checkAvailability": "Ver disponibilidade",
     "tours": [
       {
-        "name": "Jornada Gastronômica da Cultura Sami",
-        "duration": "6 horas",
-        "groupSize": "4–12 pessoas",
-        "difficulty": "Fácil",
-        "price": "a partir de € 185",
+        "name": "Jornada Gastronômica da Cultura Sami",
         "description": "Um mergulho na cultura gastronômica sami. Conheça produtores locais, aprenda técnicas tradicionais e prove sabores autênticos direto do Ártico.",
         "highlights": ["Visitar um pastor de renas e provar o ensopado bidos", "Panificação sami tradicional", "Colheita de ingredientes silvestres com um guia", "Oficina de cultura gastronômica no museu sami", "Visitas a produtores árticos locais"],
         "location": "Região de Inari – Utsjoki",
         "season": "Junho – setembro"
       },
       {
-        "name": "Experiência de Alta Gastronomia Ártica",
-        "duration": "8 horas",
-        "groupSize": "2–8 pessoas",
-        "difficulty": "Médio",
-        "price": "a partir de € 295",
+        "name": "Experiência de Alta Gastronomia Ártica",
         "description": "Uma jornada exclusiva pelos melhores restaurantes da Lapônia. Casas recomendadas pelo Michelin e chefs premiados cozinhando com os ingredientes árticos mais puros.",
         "highlights": ["Almoço de 3 tempos num restaurante-referência da região", "Visita aos bastidores da cozinha com o chef de cozinha", "Masterclass de ingredientes árticos", "Demonstração de técnica de alta gastronomia", "Jantar gourmet de 5 tempos com harmonização de vinhos"],
         "location": "Rovaniemi",
         "season": "O ano todo"
       },
       {
-        "name": "Expedição de Colheita Silvestre",
-        "duration": "4 horas",
-        "groupSize": "6–15 pessoas",
-        "difficulty": "Médio",
-        "price": "a partir de € 95",
+        "name": "Expedição de Colheita Silvestre",
         "description": "Colheita guiada e prática em floresta antiga e pântano. Aprenda a identificar com segurança frutas, cogumelos e ervas silvestres e depois cozinhe o que colher.",
         "highlights": ["Masterclass de segurança com cogumelos", "Colheita de mirtilos, airelas e amoras árticas (na estação)", "Identificação de ervas silvestres", "Sessão de cozinha da floresta ao prato na fogueira", "Guia de colheita da Lapônia para levar para casa"],
         "location": "Região de Rovaniemi / Levi",

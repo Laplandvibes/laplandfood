@@ -3,7 +3,7 @@
     "kicker": "Cocina finlandesa, desde el norte",
     "h1Part1": "CÓMO COME",
     "h1Part2": "FINLANDIA.",
-    "subhead": "Una guía de campo de la cultura gastronómica finlandesa: de dónde vienen los ingredientes, a qué saben de verdad las recetas y por qué el país tiene ya más estrellas Michelin per cápita que sus vecinos.",
+    "subhead": "Una guía de campo de la cultura gastronómica finlandesa: de dónde vienen los ingredientes, a qué saben realmente las recetas y por qué la escena Michelin del país merece un desvío.",
     "ctaPrimary": "Descubrir las recetas tradicionales",
     "ctaSecondary": "Lo que crece aquí arriba"
   },
@@ -303,19 +303,20 @@
     },
     "intro": {
       "lead": "El cambio llevó unos diez años. La alta cocina de Laponia pasó de \"restaurante de hotel turístico con filete de reno a la pimienta\" a \"pequeñas salas de menú degustación dirigidas por chefs que compiten con Helsinki en oficio de plato\".",
-      "p1": "Tres cosas lo hicieron posible. Primera, el movimiento nórdico nuevo que arrancó en el Noma de Copenhague a mediados de los 2000 reformuló todo lo que Escandinavia había tratado como vergonzosamente rural, hierbas silvestres, pescado ahumado, lactofermentación, caza a fuego lento, lácteos de una sola granja, como el extremo sofisticado de la cocina. Una vez que eso tuvo cobertura cultural, los chefs de Laponia que llevaban toda la vida haciendo esas cosas tuvieron margen para ponerlas en un plato de alta cocina sin disculparse.",
-      "p2": "Segunda, la técnica llegó al norte. Los termocirculadores de sous-vide se abarataron, las bolsas de vacío se volvieron estándar, e ingredientes que tradicionalmente se sobrecocinaban hasta convertirlos en estofado (porque era la única forma de hacer comestible un corte duro) podían ahora cocinarse hasta dejarlos rosados en el centro a 54 °C y servirse como proteína estrella. El solomillo de reno, un corte que solía reservarse para ocasiones especiales por lo fácil que era estropearlo, se convirtió en la firma de la Laponia moderna. No porque esté de moda, sino porque la técnica por fin alcanzó al ingrediente.",
-      "p3": "Tercera, la cadena de suministro se profesionalizó. Recolectores y pequeños pescadores empezaron a vender directamente a los restaurantes en vez de a través de mayoristas. Las cooperativas samis certificaron parte de su sacrificio de renos para el comercio de restauración. Productores especializados, fabricantes de sirope de abedul, ahumaderos, fermentadores de vinagre de arándano rojo, se instalaron por toda Laponia para venderles a los chefs. Un menú degustación de la Laponia moderna puede listar once ingredientes en un plato y tenerlos todos obtenidos en un radio de 200 kilómetros.",
-      "p4": "Los cuatro platos de abajo son firmas de las salas que mejor hacen esto. Bajo las fichas hay un texto más largo sobre lo que la técnica nórdica nueva realmente <em>es</em>, más allá de la marca y cómo aparece en una cocina de Laponia."
+      "points": [
+        { "n": "01", "title": "New Nordic dio cobertura", "body": "Cuando Noma elevó las hierbas silvestres, el pescado ahumado y la caza cocinada a fuego lento a la cima de la cocina, los chefs de Laponia — que llevaban toda la vida haciéndolo — pudieron por fin emplatarlo sin pedir perdón." },
+        { "n": "02", "title": "La técnica llegó al norte", "body": "Los circuladores sous-vide baratos liberaron a los cortes magros del guiso. El solomillo de reno, rosado en el centro a 54 °C, se convirtió en la firma de la cocina lapona moderna." },
+        { "n": "03", "title": "La cadena de suministro maduró", "body": "Los recolectores y pequeños pescadores venden ahora directamente a los restaurantes, y los productores especializados cubren desde el sirope de abedul hasta el vinagre de arándano rojo. Un menú degustación puede abastecerse por completo en un radio de 200 kilómetros." }
+      ]
     },
-    "dishesKicker": "Cuatro platos de autor",
+    "dishesKicker": "Cuatro clásicos modernos",
     "dishesHeadline": "La Laponia moderna en el plato.",
     "dishLabels": { "technique": "Técnica", "from": "De", "twist": "Giro" },
     "dishes": [
-      { "name": "Solomillo de reno a baja temperatura y crema de arándano", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Reno clásico cocinado a 54 °C, servido con salsa de arándano silvestre y crujientes de remolacha.", "technique": "Sous-vide", "traditional": "Reno asado tradicional", "innovation": "Cocción de precisión por temperatura y emplatado moderno", "price": "desde 42 €" },
-      { "name": "Corégono ártico y aceite de hierbas silvestres", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Corégono de lago cocinado en confit, ulmaria, alioli de bayas y flores comestibles.", "technique": "Confit + gastronomía molecular", "traditional": "Corégono ahumado", "innovation": "Cocción a baja temperatura + flores silvestres recolectadas", "price": "desde 38 €" },
-      { "name": "Menú degustación de bayas silvestres en 7 pases", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Un viaje de cena completo construido en torno a las bayas silvestres de Laponia, del aperitivo al postre.", "technique": "Nórdica nueva + fermentación", "traditional": "Compota y mermeladas de bayas", "innovation": "Bayas lactofermentadas y acideces naturales", "price": "desde 85 €" },
-      { "name": "Bidos deconstruido y polvo de tuétano", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "Una reinvención de gastronomía molecular del clásico estofado de reno sami.", "technique": "Deconstrucción + esferificación", "traditional": "Estofado de reno bidos", "innovation": "Separar y reensamblar los sabores con técnica moderna", "price": "desde 45 €" }
+      { "name": "Solomillo de reno sous-vide, arándano y raíz", "description": "El plato que define el estilo: solomillo magro de reno rosado en el centro, una reducción de arándanos silvestres y una hortaliza de raíz en dos texturas.", "technique": "Sous-vide", "traditional": "Reno asado / poronkäristys", "innovation": "La temperatura de precisión convierte el corte más magro en el protagonista" },
+      { "name": "Corégono confitado con aceite de hierbas silvestres", "description": "Corégono de lago cocinado lentamente en grasa, terminado con aceite de reina de los prados o brotes de abeto y un toque ácido del estante de fermentados.", "technique": "Confitado", "traditional": "Pescado de lago ahumado y salado", "innovation": "La baja temperatura mantiene intacto un pescado delicado; las hierbas silvestres sustituyen al eneldo por defecto" },
+      { "name": "Secuencia de postres de bayas silvestres", "description": "Mora de los pantanos, arándano y arándano rojo servidos en progresión — parfait, cuero de fruta, fermentado, helado — en lugar de una panna cotta con mermelada.", "technique": "Fermentación + repostería New Nordic", "traditional": "Kissel y mermeladas de bayas", "innovation": "Las bayas lactofermentadas aportan la acidez que sustituye a los cítricos importados" },
+      { "name": "Bidos, reinterpretado", "description": "El guiso festivo sami pensado para un menú degustación: el caldo clarificado, la paletilla de reno prensada, el tuétano aparte.", "technique": "Emplatado moderno de un estofado lento", "traditional": "Guiso bidos de reno", "innovation": "Los mismos cortes y sabores, replanteados como pases — la versión casera queda intacta" }
     ],
     "techniques": {
       "kicker": "Qué significa de verdad \"nórdico nuevo\"",
@@ -456,33 +457,21 @@
     "checkAvailability": "Ver disponibilidad",
     "tours": [
       {
-        "name": "Viaje gastronómico por la cultura sami",
-        "duration": "6 horas",
-        "groupSize": "4–12 personas",
-        "difficulty": "Fácil",
-        "price": "desde 185 €",
+        "name": "Viaje gastronómico por la cultura sami",
         "description": "Una inmersión en la cultura gastronómica sami. Conoce a productores locales, aprende técnicas tradicionales y prueba sabores auténticos directos del Ártico.",
         "highlights": ["Visitar a un pastor de renos y probar el estofado bidos", "Horneado de pan sami tradicional", "Recolección de ingredientes silvestres con un guía", "Taller de cultura gastronómica en el museo sami", "Visitas a productores árticos locales"],
         "location": "Región de Inari – Utsjoki",
         "season": "Junio – septiembre"
       },
       {
-        "name": "Experiencia de alta cocina ártica",
-        "duration": "8 horas",
-        "groupSize": "2–8 personas",
-        "difficulty": "Media",
-        "price": "desde 295 €",
+        "name": "Experiencia de alta cocina ártica",
         "description": "Un viaje exclusivo por los mejores restaurantes de Laponia. Locales recomendados por Michelin y chefs premiados cocinando con los ingredientes árticos más puros.",
         "highlights": ["Almuerzo de 3 platos en un restaurante de referencia de la región", "Visita a la trastienda de la cocina con el chef de cocina", "Clase magistral de ingredientes árticos", "Demostración de técnica de alta cocina", "Cena gourmet de 5 platos con maridaje de vinos"],
         "location": "Rovaniemi",
         "season": "Todo el año"
       },
       {
-        "name": "Expedición de recolección silvestre",
-        "duration": "4 horas",
-        "groupSize": "6–15 personas",
-        "difficulty": "Media",
-        "price": "desde 95 €",
+        "name": "Expedición de recolección silvestre",
         "description": "Recolección guiada y práctica en bosque maduro y turbera. Aprende a identificar con seguridad bayas, setas y hierbas silvestres, y luego cocina lo que recojas.",
         "highlights": ["Clase magistral de seguridad con setas", "Recogida de arándanos, arándanos rojos y moras árticas (en temporada)", "Identificación de hierbas silvestres", "Sesión de cocina del bosque al plato sobre hoguera", "Guía de recolección de Laponia para llevar a casa"],
         "location": "Zona de Rovaniemi / Levi",

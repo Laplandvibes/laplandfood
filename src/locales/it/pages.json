@@ -3,7 +3,7 @@
     "kicker": "Cucina del Nord, scritta dalla Finlandia",
     "h1Part1": "COME MANGIA",
     "h1Part2": "LA FINLANDIA.",
-    "subhead": "Una guida sul campo alla cultura gastronomica finlandese, da dove vengono gli ingredienti, che sapore hanno davvero le ricette e perché il paese ha oggi più stelle Michelin pro capite dei vicini.",
+    "subhead": "Una guida sul campo alla cultura gastronomica finlandese: da dove arrivano gli ingredienti, che sapore hanno davvero le ricette e perché la scena Michelin del paese merita una deviazione.",
     "ctaPrimary": "Esplora le ricette tradizionali",
     "ctaSecondary": "Cosa cresce quassù"
   },
@@ -303,19 +303,20 @@
     },
     "intro": {
       "lead": "Il passaggio è durato circa dieci anni. L'alta cucina lappone è passata da \"ristorante d'hotel turistico con bistecca di renna al pepe\" a \"piccole sale di menù degustazione guidate dallo chef che competono con Helsinki sulla maestria del piatto\".",
-      "p1": "Tre cose lo hanno reso possibile. Primo, il movimento New Nordic iniziato a Noma a Copenhagen a metà anni 2000 ha riformulato tutto ciò che la Scandinavia trattava come imbarazzantemente rurale, erbe raccolte, pesce affumicato, lacto-fermentazione, selvaggina a lunga cottura, latticini da una sola fattoria, come l'estremità sofisticata della cucina. Una volta ottenuta quella copertura culturale, gli chef lapponi che facevano quelle cose da sempre hanno avuto spazio per metterle in un piatto d'alta cucina senza scuse.",
-      "p2": "Secondo, la tecnica è salita a nord. I circolatori sous-vide sono diventati più economici, i sacchetti sottovuoto sono diventati standard, e gli ingredienti che tradizionalmente erano stracotti in stufato (perché era l'unico modo per rendere un taglio duro mangiabile) ora si possono cuocere a centro rosa a 54 °C e servire come proteina principale. Il filetto di renna, un taglio un tempo riservato alle occasioni speciali perché tanto facile da rovinare, è diventato la firma moderna lappone. Non perché sia di moda, ma perché la tecnica ha finalmente raggiunto l'ingrediente.",
-      "p3": "Terzo, la filiera si è professionalizzata. Raccoglitori e piccoli pescatori hanno iniziato a vendere direttamente ai ristoranti invece che tramite grossisti. Le cooperative sami hanno certificato parti della loro macellazione per il commercio della ristorazione. Produttori specializzati, sciroppifici di betulla, affumicatoi, fermentatori di aceto di mirtillo rosso, si sono installati in Lapponia per vendere agli chef. Un menù degustazione moderno lappone può elencare undici ingredienti in un piatto e averli tutti reperiti entro 200 chilometri.",
-      "p4": "I quattro piatti qui sotto sono firme delle sale che fanno questo meglio di tutti. Sotto le schede c'è un pezzo più lungo su cosa <em>sia</em> davvero la tecnica New Nordic, al di là del brand e come si manifesta in una cucina lappone."
+      "points": [
+        { "n": "01", "title": "Il New Nordic ha dato copertura", "body": "Quando il Noma ha elevato erbe raccolte, pesce affumicato e selvaggina a cottura lenta a vertice della cucina, gli chef della Lapponia — che lo facevano da una vita — hanno potuto finalmente impiattarlo senza scusarsi." },
+        { "n": "02", "title": "La tecnica è arrivata al nord", "body": "I roner sous-vide economici hanno liberato i tagli magri dallo stufato. Il filetto di renna, rosa al cuore a 54 °C, è diventato la firma della cucina lappone moderna." },
+        { "n": "03", "title": "La filiera è maturata", "body": "Raccoglitori e piccoli pescatori vendono ora direttamente ai ristoranti, e produttori specializzati coprono tutto, dallo sciroppo di betulla all'aceto di mirtillo rosso. Un menu degustazione può approvvigionarsi interamente entro 200 chilometri." }
+      ]
     },
-    "dishesKicker": "Quattro piatti firma",
+    "dishesKicker": "Quattro classici moderni",
     "dishesHeadline": "La Lapponia moderna nel piatto.",
     "dishLabels": { "technique": "Tecnica", "from": "Da", "twist": "Variante" },
     "dishes": [
-      { "name": "Filetto di renna sous-vide & crema di mirtilli", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Renna classica cotta a 54 °C, servita con salsa di mirtilli selvatici e chips di barbabietola.", "technique": "Sous-vide", "traditional": "Renna arrostita tradizionale", "innovation": "Cottura a temperatura precisa e impiattamento moderno", "price": "da 42 €" },
-      { "name": "Coregone artico & olio di erbe selvatiche", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Coregone di lago cotto confit, olmaria, aïoli di bacche e fiori commestibili.", "technique": "Confit + gastronomia molecolare", "traditional": "Coregone affumicato", "innovation": "Cottura a bassa temperatura + fiori selvatici raccolti", "price": "da 38 €" },
-      { "name": "Menù degustazione 7 portate alle bacche selvatiche", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Un viaggio completo costruito attorno alle bacche selvatiche della Lapponia, dall'amuse-bouche al dessert.", "technique": "New Nordic + fermentazione", "traditional": "Composte e marmellate di bacche", "innovation": "Bacche lacto-fermentate e acidità naturali", "price": "da 85 €" },
-      { "name": "Bidos decostruito & polvere di midollo", "chef": "Niillas Somby", "restaurant": "Sápmi Cultural Center", "description": "Una reinterpretazione in gastronomia molecolare del classico stufato di renna sami.", "technique": "Decostruzione + sferificazione", "traditional": "Stufato di renna bidos", "innovation": "Separare e riassemblare i sapori con tecnica moderna", "price": "da 45 €" }
+      { "name": "Filetto di renna sous-vide, mirtillo e radice", "description": "Il piatto che definisce lo stile: filetto magro di renna rosa al cuore, una riduzione di mirtilli selvatici, un ortaggio da radice in due consistenze.", "technique": "Sous-vide", "traditional": "Renna arrosto / poronkäristys", "innovation": "La temperatura di precisione trasforma il taglio più magro nel protagonista" },
+      { "name": "Coregone confit con olio alle erbe selvatiche", "description": "Coregone di lago cotto lentamente nel grasso, rifinito con olio di olmaria o germogli di abete e una nota acida dallo scaffale delle fermentazioni.", "technique": "Confit", "traditional": "Pesce di lago affumicato e salato", "innovation": "La bassa temperatura preserva un pesce delicato; le erbe raccolte sostituiscono l'aneto di default" },
+      { "name": "Sequenza di dessert ai frutti di bosco", "description": "Camemoro, mirtillo e mirtillo rosso in progressione — parfait, cuoio di frutta, fermentato, gelato — invece di una panna cotta con marmellata.", "technique": "Fermentazione + pasticceria New Nordic", "traditional": "Kissel e marmellate di bacche", "innovation": "Le bacche lattofermentate danno l'acidità che sostituisce gli agrumi d'importazione" },
+      { "name": "Il bidos, reinterpretato", "description": "Lo stufato sami delle feste ripensato per il menu degustazione: brodo chiarificato, spalla di renna pressata, midollo servito a parte.", "technique": "Impiattamento moderno di un brasato lento", "traditional": "Stufato di renna bidos", "innovation": "Stessi tagli e stessi sapori, riproposti come portate — la versione di casa resta intatta" }
     ],
     "techniques": {
       "kicker": "Cosa significa davvero \"New Nordic\"",
@@ -456,33 +457,21 @@
     "checkAvailability": "Verifica disponibilità",
     "tours": [
       {
-        "name": "Viaggio culinario culturale sami",
-        "duration": "6 ore",
-        "groupSize": "4–12 persone",
-        "difficulty": "Facile",
-        "price": "da 185 €",
+        "name": "Viaggio culinario culturale sami",
         "description": "Un'immersione profonda nella cultura culinaria sami. Incontri produttori locali, impari tecniche tradizionali e assaggi sapori autentici direttamente dall'Artico.",
         "highlights": ["Visita a un allevatore di renne e degustazione di bidos", "Panificazione tradizionale sami", "Raccolta di ingredienti selvatici con guida", "Workshop di cultura alimentare al museo sami", "Visite a produttori artici locali"],
         "location": "Regione di Inari – Utsjoki",
         "season": "Giugno – settembre"
       },
       {
-        "name": "Esperienza d'alta cucina artica",
-        "duration": "8 ore",
-        "groupSize": "2–8 persone",
-        "difficulty": "Medio",
-        "price": "da 295 €",
+        "name": "Esperienza d'alta cucina artica",
         "description": "Un viaggio esclusivo attraverso i migliori ristoranti della Lapponia. Locali raccomandati Michelin e chef pluripremiati che cucinano con i più puri ingredienti artici.",
         "highlights": ["Pranzo 3 portate in un ristorante di punta regionale", "Tour dietro le quinte con lo chef", "Masterclass di ingredienti artici", "Dimostrazione di tecnica d'alta cucina", "Cena 5 portate con accordi vini"],
         "location": "Rovaniemi",
         "season": "Tutto l'anno"
       },
       {
-        "name": "Spedizione di raccolta selvatica",
-        "duration": "4 ore",
-        "groupSize": "6–15 persone",
-        "difficulty": "Medio",
-        "price": "da 95 €",
+        "name": "Spedizione di raccolta selvatica",
         "description": "Raccolta guidata pratica in foresta antica e torbiera. Impari l'identificazione sicura di bacche, funghi ed erbe selvatiche, poi cucini ciò che raccoglie.",
         "highlights": ["Masterclass di sicurezza funghi", "Raccolta di mirtilli, mirtilli rossi e lamponi artici (in stagione)", "Identificazione delle erbe selvatiche", "Cottura del raccolto sul falò", "Manuale di raccolta lappone da portare a casa"],
         "location": "Area Rovaniemi / Levi",

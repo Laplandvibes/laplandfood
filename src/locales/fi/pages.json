@@ -3,7 +3,7 @@
     "kicker": "Suomalaista ruokaa pohjoisesta",
     "h1Part1": "Pohjoisen puhtaat",
     "h1Part2": "maut.",
-    "subhead": "Kenttäopas suomalaiseen ruokakulttuuriin, mistä raaka-aineet tulevat, miltä reseptit oikeasti maistuvat ja miksi Suomella on per asukas enemmän Michelin-tähtiä kuin naapureillaan.",
+    "subhead": "Kenttäopas suomalaiseen ruokakulttuuriin, mistä raaka-aineet tulevat, miltä reseptit oikeasti maistuvat ja miksi Suomen Michelin-skene on kiertotien arvoinen.",
     "ctaPrimary": "Selaa perinnereseptejä",
     "ctaSecondary": "Mitä täällä kasvaa"
   },
@@ -304,19 +304,20 @@
     },
     "intro": {
       "lead": "Muutos kesti noin kymmenen vuotta. Lapin fine dining siirtyi \"hotellin matkailuravintolasta poropippuripihvineen\" \"pieniin kokkivetoisiin tasting menu -saleihin, jotka kilpailevat Helsingin kanssa lautastyön tasolla\".",
-      "p1": "Kolme asiaa sai sen tapahtumaan. Ensiksi New Nordic -liike, joka alkoi Kööpenhaminan Nomassa 2000-luvun puolivälissä, kehysti uudelleen kaiken sen, mitä Skandinavia oli pitänyt nolostuttavasti maaseutu­maisena, keräillyt yrtit, savustettu kala, lakto-fermentointi, hidas riista, yhden tilan maitotuotteet, keittiön hienostuneeksi yläpääksi. Kun kulttuurinen suoja oli olemassa, Lapin kokit, jotka olivat tehneet näitä asioita koko elämänsä, saivat tilaa laittaa ne fine dining -lautaselle ilman anteeksi­pyytelyä.",
-      "p2": "Toiseksi tekniikka tuli pohjoiseen. Sous vide -kiertimet halpenivat, vakuumipussit yleistyivät, ja raaka-aineet, jotka aiemmin keitettiin yli muhennoksiksi (koska se oli ainoa tapa saada sitkeästä palasta syötävää), pystyttiin nyt kypsentämään keskelle vaaleanpunaiseksi 54 °C:ssa ja tarjoamaan päärooli­proteiinina. Poronfilee, pala, joka oli ennen varattu juhlaa varten koska sen pilaaminen oli niin helppoa, nousi Lapin modernin keittiön tunnukseksi. Ei siksi että se on muotia, vaan siksi että tekniikka vihdoin saavutti raaka-aineen.",
-      "p3": "Kolmanneksi toimitusketju ammattimaistui. Keräilijät ja pien­kalastajat alkoivat myydä suoraan ravintoloille tukku­liikkeiden sijaan. Saamelais­paliskunnat sertifioivat osan poro­teurastuksestaan ravintola­kauppaan. Erikois­tuottajat, koivunmahlan tekijät, savustamot, puolukka­etikan fermentoijat, perustettiin ympäri Lappia myymään kokeille. Modernin Lapin tasting menu voi listata yksitoista raaka-ainetta lautasella, ja kaikki tulevat 200 km:n säteeltä.",
-      "p4": "Alla olevat neljä annosta ovat tunnusmerkkejä parhaista tämän tyylin ravintoloista. Korttien alla on pidempi kirjoitus siitä, mitä New Nordic -tekniikka oikeasti <em>on</em>, brändin takana ja miten se näkyy Lapin keittiössä."
+      "points": [
+        { "n": "01", "title": "New Nordic antoi suojan", "body": "Kun Noma nosti keräillyt yrtit, savukalan ja hitaasti kypsennetyn riistan keittiön hienostuneeksi kärjeksi, Lapin kokit — jotka olivat tehneet näitä koko ikänsä — saivat vihdoin laittaa ne lautaselle ilman anteeksipyytelyä." },
+        { "n": "02", "title": "Tekniikka tuli pohjoiseen", "body": "Edulliset sous vide -kiertimet vapauttivat vähärasvaiset palat muhennoskohtalolta. Keskeltä vaaleanpunainen, 54-asteinen poronfilee nousi modernin lappilaisen keittiön tunnukseksi." },
+        { "n": "03", "title": "Toimitusketju ammattimaistui", "body": "Keräilijät ja pienkalastajat myyvät nyt suoraan ravintoloille, ja erikoistuottajat kattavat kaiken koivunmahlasta puolukkaetikkaan. Tasting menu voi hankkia jokaisen raaka-aineen 200 kilometrin säteeltä." }
+      ]
     },
-    "dishesKicker": "Neljä tunnus­annosta",
+    "dishesKicker": "Neljä modernia klassikkoa",
     "dishesHeadline": "Moderni Lappi lautasella.",
     "dishLabels": { "technique": "Tekniikka", "from": "Pohjana", "twist": "Käänne" },
     "dishes": [
-      { "name": "Sous vide -poronfilee ja mustikkakerma", "chef": "Sami Tallberg", "restaurant": "Ravintola Nili, Rovaniemi", "description": "Klassinen poro kypsennettynä 54 °C:een, tarjoiltuna villin mustikan kastikkeen ja punajuuri­sirujen kanssa.", "technique": "Sous vide", "traditional": "Perinteinen paahdettu poro", "innovation": "Tarkkuuslämpötila ja moderni asettelu", "price": "alkaen 42 €" },
-      { "name": "Arktinen siika ja villiyrttiöljy", "chef": "Marja Vuorilehto", "restaurant": "Arctic TreeHouse Hotel", "description": "Järvisiika confit-tyylillä, mesiangervoa, marja-aïoli ja syötäviä kukkia.", "technique": "Confit + molekyyligastronomia", "traditional": "Savustettu siika", "innovation": "Matalalämpö­kypsennys + keräillyt kukat", "price": "alkaen 38 €" },
-      { "name": "7 ruokalajin villi­marja­tasting menu", "chef": "Petteri Luoto", "restaurant": "Restaurant Aanaar, Inari", "description": "Täysi illallismatka Lapin villi­marjojen ympärille, alku­pala­annoksesta jälkiruokaan.", "technique": "New Nordic + fermentointi", "traditional": "Marjahillo ja säilykkeet", "innovation": "Lakto-fermentoidut marjat ja luonnolliset hapokkuudet", "price": "alkaen 85 €" },
-      { "name": "Dekonstruoitu bidos ja luuydin­pöly", "chef": "Niillas Somby", "restaurant": "Sápmi-kulttuurikeskus", "description": "Klassisen saamelaisen poromuhennoksen molekyyligastronominen uudelleen­tulkinta.", "technique": "Dekonstruktio + sferifiointi", "traditional": "Bidos-poromuhennos", "innovation": "Makujen erottelu ja kokoaminen modernilla tekniikalla", "price": "alkaen 45 €" }
+      { "name": "Sous vide -poronfilee, mustikka ja juures", "description": "Tyylisuunnan määrittävä lautanen: keskeltä vaaleanpunainen poronfilee, metsämustikkakastike ja juures kahdessa tekstuurissa.", "technique": "Sous vide", "traditional": "Paistettu poro / poronkäristys", "innovation": "Tarkka lämpötila nostaa vähärasvaisimman palan pääosaan" },
+      { "name": "Confit-siika ja villiyrttiöljy", "description": "Rasvassa hitaasti kypsennetty siika, viimeisteltynä mesiangervo- tai kuusenkerkkäöljyllä ja jollakin kirpeällä fermentointihyllyltä.", "technique": "Confit", "traditional": "Savustettu ja suolattu järvikala", "innovation": "Matala lämpötila pitää hauraan kalan ehjänä; keräily-yrtit korvaavat tillin oletuksena" },
+      { "name": "Metsämarjajälkiruokien sarja", "description": "Hilla, mustikka ja puolukka etenevänä sarjana — parfee, marjanahka, fermentoitu, jäädytetty — yhden hillopannacotan sijaan.", "technique": "Fermentointi + New Nordic -jälkiruokatekniikka", "traditional": "Marjakiisseli ja hillot", "innovation": "Fermentoidut marjat tuovat happamuuden, joka korvaa tuontisitrukset" },
+      { "name": "Bidos uudelleen tulkittuna", "description": "Saamelaisten juhlapata tasting menun kielelle: liemi kirkastettuna, poron lapa prässättynä, ydinluu erikseen.", "technique": "Hitaan padan moderni annostelu", "traditional": "Bidos-poropata", "innovation": "Samat palat ja maut uusina annoksina — kotiversio pysyy koskemattomana" }
     ],
     "techniques": {
       "kicker": "Mitä \"New Nordic\" oikeasti tarkoittaa",
@@ -457,33 +458,21 @@
     "checkAvailability": "Tarkista saatavuus",
     "tours": [
       {
-        "name": "Saamelaiskulttuurin ruokamatka",
-        "duration": "6 tuntia",
-        "groupSize": "4–12 henkilöä",
-        "difficulty": "Helppo",
-        "price": "alkaen 185 €",
+        "name": "Saamelaiskulttuurin ruokamatka",
         "description": "Tutustu saamelaiseen ruokakulttuuriin. Tapaa paikallisia tuottajia, opi perinne­tekniikoita ja maista aitoja makuja suoraan arktiselta alueelta.",
         "highlights": ["Vierailu poro­paimentajan luona ja bidos-muhennoksen maistelu", "Perinteinen saamelais­leivän leipominen", "Villi­raaka-aineiden keräily oppaan kanssa", "Saamelais­museon ruokakulttuuri­työpaja", "Vierailut paikallisille arktisille tuottajille"],
         "location": "Inari–Utsjoki -alue",
         "season": "kesä–syyskuu"
       },
       {
-        "name": "Arktinen fine dining -elämys",
-        "duration": "8 tuntia",
-        "groupSize": "2–8 henkilöä",
-        "difficulty": "Keskitaso",
-        "price": "alkaen 295 €",
+        "name": "Arktinen fine dining -elämys",
         "description": "Ekslusiivinen matka Lapin parhaiden ravintoloiden läpi. Michelin-suositeltuja paikkoja ja palkittuja kokkeja, jotka käyttävät puhtaimpia arktisia raaka-aineita.",
         "highlights": ["3 ruokalajin lounas alueellisessa lippu­laiva­ravintolassa", "Kokki­keittiön kierros pää­kokin kanssa", "Arktiset raaka-aineet -masterclass", "Fine dining -tekniikan demonstraatio", "5 ruokalajin gourmet-illallinen viini­pariin kanssa"],
         "location": "Rovaniemi",
         "season": "ympäri vuoden"
       },
       {
-        "name": "Villi­keräilyretki",
-        "duration": "4 tuntia",
-        "groupSize": "6–15 henkilöä",
-        "difficulty": "Keskitaso",
-        "price": "alkaen 95 €",
+        "name": "Villi­keräilyretki",
         "description": "Käden­ojennuksin opastettua keräilyä ikimetsässä ja suolla. Opi turvallinen marjojen, sienien ja villiyrttien tunnistus, kokkaa sitten poimimasi ruoka.",
         "highlights": ["Sienien turvallisuus­masterclass", "Mustikan, puolukan ja hillan poiminta (sesongin mukaan)", "Villi­yrttien tunnistus", "Keräily–pöytä -kokkaus­hetki nuotiolla", "Mukaan annettava Lapin keräilyopas"],
         "location": "Rovaniemi / Levin alue",

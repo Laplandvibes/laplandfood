@@ -143,8 +143,8 @@ export default function Home() {
 
         {/* Culture */}
         <section className="relative bg-[#002F6C] py-20 sm:py-24 text-white overflow-hidden">
-          <img src="/images/culture-band.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-55" />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/55 via-[#002F6C]/50 to-[#001F4A]/72" />
+          <img src="/images/culture-band.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-70" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/40 via-[#002F6C]/35 to-[#001F4A]/60" />
           <div className="relative max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-12">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
