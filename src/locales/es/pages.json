@@ -71,6 +71,20 @@
       "headline": "La ventana gastronómica del sol de medianoche.",
       "lead": "Las moras árticas maduran, el pescado de lago alcanza su punto álgido, los huertos de hierbas estallan y el sol no se pone. Durante cuatro semanas, las cocinas de Laponia cambian la contundencia del invierno por el producto más ligero y luminoso del año. Si solo vienes una vez, ven ahora.",
       "cta": "Qué hay de temporada →"
+    },
+    "faq": {
+      "eyebrow": "Conviene saber",
+      "headline": "Las preguntas que todos hacen primero.",
+      "lead": "Respuestas breves, cada una con enlace a la página que profundiza.",
+      "stillPrefix": "¿Te queda alguna duda? Escríbenos a ",
+      "stillSuffix": " — respondemos.",
+      "items": [
+        { "question": "¿Cómo es la comida tradicional finlandesa?", "answer": "La cocina tradicional finlandesa se basa en lo que crece, nada o pasta cerca de casa: pan de centeno, pescado de agua dulce, reno, bayas silvestres como el arándano, el arándano rojo y la mora de los pantanos, setas recolectadas y lácteos. Es una cocina de temporada, poco condimentada y centrada en el ingrediente más que en la técnica." },
+        { "question": "¿Hay restaurantes con estrella Michelin en Finlandia?", "answer": "Sí. La Guía Michelin cubre Finlandia, y los restaurantes con estrella de las últimas ediciones nórdicas han estado todos en Helsinki. Laponia no tiene actualmente ninguna estrella, pero sus cocinas insignia — Nili, Aanaar, Rakas — están impulsando el menú degustación dentro del Círculo Polar Ártico. La lista de estrellas cambia cada año: consulta la guía vigente antes de reservar." },
+        { "question": "¿Qué es la comida sami?", "answer": "La comida sami es la cocina indígena de Sápmi, la región que abarca el norte de Finlandia, Suecia, Noruega y Rusia. Gira en torno al reno — se aprovecha cada parte —, el pescado ártico, las bayas y hierbas silvestres y las cocciones lentas como el guiso bidos. Las recetas siguen el calendario sami de ocho estaciones." },
+        { "question": "¿Pueden los visitantes recolectar bayas y setas en Finlandia?", "answer": "Sí. El derecho de acceso universal finlandés (jokamiehenoikeus) permite a cualquiera — ciudadano o visitante — recoger bayas, setas y hierbas silvestres en casi cualquier terreno, incluidos los bosques privados. Eso sí, aprende a identificar las setas antes: en los bosques finlandeses crecen especies mortales como la oronja verde. Para la primera vez, un paseo de recolección guiado es la entrada más segura." },
+        { "question": "¿Cuándo es la temporada de la mora de los pantanos en Laponia?", "answer": "Aproximadamente de mediados de julio a mediados de agosto, con una ventana intensa de recolección de unas tres semanas según la turbera. La mora de los pantanos solo crece en turberas árticas frías y se resiste al cultivo: por eso es la baya silvestre más apreciada — y más cara — de Laponia." }
+      ]
     }
   },
   "localIngredients": {

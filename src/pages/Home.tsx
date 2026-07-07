@@ -6,6 +6,7 @@ import Hero from '../components/Hero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SisterSiteCTAs from '../components/SisterSiteCTAs';
+import FAQ, { type FAQItem } from '../components/FAQ';
 import { ArrowRight } from 'lucide-react';
 import { useLocale } from '../i18n/useLocale';
 
@@ -15,7 +16,11 @@ interface CulturePoint { n: string; title: string; body: string }
 const PILLAR_HREFS = ['/local-ingredients', '/traditional-recipes', '/modern-lapland', '/foraging-guide', '/michelin-dining', '/food-tours'];
 const PILLAR_IMAGES = ['/images/card-ingredients.jpg', '/images/card-recipes.jpg', '/images/card-modern.jpg', '/images/card-foraging.jpg', '/images/card-michelin.jpg', '/images/card-tours.jpg'];
 
-const homeSchema = {
+// FAQPage entries are generated from the same localized home.faq.items the
+// visible <FAQ /> accordion renders — Google requires schema Q&A to match
+// on-page content, so the two must never diverge. inLanguage per node is
+// injected by <SEO /> from the active locale.
+const buildHomeSchema = (faqItems: FAQItem[]) => ({
   '@context': 'https://schema.org',
   '@graph': [{
     '@type': 'Organization',
@@ -34,47 +39,33 @@ const homeSchema = {
     '@type': 'WebSite',
     name: 'LaplandFood',
     url: 'https://laplandfood.com',
-    inLanguage: 'en',
     publisher: {
       '@type': 'Organization',
       name: 'Lapeso Oy'
     }
   }, {
     '@type': 'FAQPage',
-    mainEntity: [{
+    mainEntity: faqItems.map(f => ({
       '@type': 'Question',
-      name: 'What is traditional Finnish food like?',
+      name: f.question,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Traditional Finnish food is built on what grows, swims, or grazes within walking distance: rye bread, fresh-water fish, reindeer, wild berries (bilberry, lingonberry, cloudberry), foraged mushrooms, dairy, and rye in many forms. The cuisine is seasonal, lightly seasoned, and centred on the ingredient rather than the technique.'
+        text: f.answer
       }
-    }, {
-      '@type': 'Question',
-      name: 'Does Finland have Michelin-star restaurants?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. The Michelin Guide covers Finland and lists multiple starred restaurants — most concentrated in Helsinki, with a growing fine-dining scene in Turku, Tampere, and Lapland. Per capita, Finland punches above its weight in the Nordics.'
-      }
-    }, {
-      '@type': 'Question',
-      name: 'What is Sami food?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Sami food is the indigenous cuisine of Sápmi (northern Finland, Sweden, Norway, Russia). It centres on reindeer (every part used), Arctic fish, foraged berries and herbs, and slow-cooking methods like bidos stew. Recipes are seasonal and tied to the eight-season Sami calendar.'
-      }
-    }]
+    }))
   }]
-};
+});
 
 export default function Home() {
   const { t } = useTranslation('pages');
   const { to } = useLocale();
   const pillars = (t('home.pillars', { returnObjects: true }) as Pillar[]) || [];
   const culturePoints = (t('home.culture', { returnObjects: true }) as CulturePoint[]) || [];
+  const faqItems = (t('home.faq.items', { returnObjects: true }) as FAQItem[]) || [];
 
   return (
     <>
-      <SEO titleKey="home.title" descriptionKey="home.description" path={'/'} schema={homeSchema} />
+      <SEO titleKey="home.title" descriptionKey="home.description" path={'/'} schema={buildHomeSchema(faqItems)} />
       <div className="min-h-screen bg-white">
         <Nav />
         <Hero />
@@ -123,23 +114,25 @@ export default function Home() {
                 {t('home.pillarsLead')}
               </p>
             </div>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {/* 2-col compact tiles on mobile (image + title) so the pillar row
+                isn't an endless single-column scroll; full cards with body sm+. */}
+            <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
               {pillars.map((p, i) => (
-                <Link key={PILLAR_HREFS[i]} to={to(PILLAR_HREFS[i])} className="group rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden hover:border-vibe-pink/40 hover:shadow-[0_8px_28px_rgba(0,47,108,0.08)] transition-all">
-                  <div className="aspect-[16/10] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] relative overflow-hidden">
+                <Link key={PILLAR_HREFS[i]} to={to(PILLAR_HREFS[i])} className="group rounded-xl sm:rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden hover:border-vibe-pink/40 hover:shadow-[0_8px_28px_rgba(0,47,108,0.08)] transition-all">
+                  <div className="aspect-[4/3] sm:aspect-[16/10] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] relative overflow-hidden">
                     <img src={PILLAR_IMAGES[i]} alt={p.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                     <div className="absolute inset-0 bg-gradient-to-tr from-vibe-pink/0 via-transparent to-vibe-pink/10 pointer-events-none" />
                   </div>
-                  <div className="p-6">
-                    <p className="text-vibe-pink text-xs font-semibold tracking-[0.18em] uppercase mb-2">
+                  <div className="p-3 sm:p-6">
+                    <p className="text-vibe-pink text-[10px] sm:text-xs font-semibold tracking-[0.18em] uppercase mb-1 sm:mb-2">
                       {p.eyebrow}
                     </p>
-                    <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 group-hover:text-vibe-pink transition-colors">
+                    <h3 className="font-heading tracking-wide text-base sm:text-2xl text-[#002F6C] mb-1 sm:mb-2 leading-tight group-hover:text-vibe-pink transition-colors">
                       {p.title}
                     </h3>
-                    <p className="text-sm text-[#002F6C]/70 leading-relaxed">{p.body}</p>
-                    <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-vibe-pink">
-                      {t('home.readLabel')} <ArrowRight className="w-4 h-4" />
+                    <p className="hidden sm:block text-sm text-[#002F6C]/70 leading-relaxed">{p.body}</p>
+                    <span className="mt-2 sm:mt-4 inline-flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-vibe-pink">
+                      {t('home.readLabel')} <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
                     </span>
                   </div>
                 </Link>
@@ -209,6 +202,8 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        <FAQ />
 
         <SisterSiteCTAs />
 

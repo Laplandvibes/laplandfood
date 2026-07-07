@@ -71,6 +71,20 @@
       "headline": "La finestra gastronomica del sole di mezzanotte.",
       "lead": "I lamponi artici maturano, il pesce di lago tocca il picco, gli orti d'erbe esplodono e il sole non tramonta. Per quattro settimane le cucine lapponi sostituiscono le conserve invernali con i prodotti più leggeri e luminosi dell'anno. Se viene una volta sola, venga adesso.",
       "cta": "Cosa è di stagione →"
+    },
+    "faq": {
+      "eyebrow": "Buono a sapersi",
+      "headline": "Le domande che tutti fanno per prime.",
+      "lead": "Risposte brevi, ognuna con il link alla pagina che approfondisce.",
+      "stillPrefix": "Hai ancora un dubbio? Scrivici a ",
+      "stillSuffix": " — rispondiamo.",
+      "items": [
+        { "question": "Com’è il cibo tradizionale finlandese?", "answer": "La cucina tradizionale finlandese si fonda su ciò che cresce, nuota o pascola nei dintorni: pane di segale, pesce d’acqua dolce, renna, bacche selvatiche come mirtillo, mirtillo rosso e camemoro, funghi raccolti nel bosco e latticini. È una cucina stagionale, poco speziata, centrata sull’ingrediente più che sulla tecnica." },
+        { "question": "In Finlandia ci sono ristoranti stellati Michelin?", "answer": "Sì. La Guida Michelin copre la Finlandia e i ristoranti stellati delle ultime edizioni nordiche sono stati tutti a Helsinki. La Lapponia oggi non ha stelle, ma le sue cucine di punta — Nili, Aanaar, Rakas — stanno spingendo il menu degustazione oltre il Circolo Polare Artico. Le stelle cambiano ogni anno: verifica la guida aggiornata prima di prenotare." },
+        { "question": "Che cos’è il cibo sami?", "answer": "Il cibo sami è la cucina indigena del Sápmi, la regione che attraversa il nord di Finlandia, Svezia, Norvegia e Russia. Ruota attorno alla renna — di cui si usa ogni parte —, al pesce artico, a bacche ed erbe raccolte e a cotture lente come lo stufato bidos. Le ricette seguono il calendario sami a otto stagioni." },
+        { "question": "I visitatori possono raccogliere bacche e funghi in Finlandia?", "answer": "Sì. Il diritto di accesso alla natura finlandese (jokamiehenoikeus) consente a chiunque — residente o visitatore — di raccogliere bacche, funghi ed erbe selvatiche quasi ovunque, boschi privati compresi. Prima di raccogliere, però, impara a riconoscere i funghi: nei boschi finlandesi crescono specie letali come l’amanita falloide. Per la prima volta, un’escursione guidata di raccolta è l’ingresso più sicuro." },
+        { "question": "Quando è la stagione del camemoro in Lapponia?", "answer": "Indicativamente da metà luglio a metà agosto, con una finestra intensa di raccolta di circa tre settimane a seconda della torbiera. Il camemoro cresce solo nelle fredde torbiere artiche e resiste alla coltivazione: per questo è la bacca selvatica più pregiata — e più cara — della Lapponia." }
+      ]
     }
   },
   "localIngredients": {

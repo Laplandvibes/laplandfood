@@ -71,6 +71,20 @@
       "headline": "La fenêtre culinaire du soleil de minuit.",
       "lead": "Les mûres arctiques mûrissent, le poisson de lac est au sommet, les jardins d'herbes explosent et le soleil ne se couche plus. Pendant quatre semaines, les cuisines lapones échangent les conserves d'hiver contre les produits les plus légers et les plus lumineux de l'année. Si vous ne venez qu'une fois, c'est maintenant.",
       "cta": "Ce qui est de saison →"
+    },
+    "faq": {
+      "eyebrow": "Bon à savoir",
+      "headline": "Les questions qu’on nous pose en premier.",
+      "lead": "Des réponses courtes, chacune reliée à la page pilier qui approfondit.",
+      "stillPrefix": "Une question encore ? Écrivez-nous à ",
+      "stillSuffix": " — nous répondons.",
+      "items": [
+        { "question": "À quoi ressemble la cuisine traditionnelle finlandaise ?", "answer": "La cuisine traditionnelle finlandaise repose sur ce qui pousse, nage ou pâture à proximité : pain de seigle, poisson d’eau douce, renne, baies sauvages comme la myrtille, l’airelle rouge et la plaquebière, champignons cueillis et produits laitiers. Une cuisine de saison, peu assaisonnée, centrée sur l’ingrédient plutôt que sur la technique." },
+        { "question": "Y a-t-il des restaurants étoilés Michelin en Finlande ?", "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses cuisines phares — Nili, Aanaar, Rakas — font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver." },
+        { "question": "Qu’est-ce que la cuisine samie ?", "answer": "La cuisine samie est la cuisine autochtone du Sápmi, la région qui s’étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Elle s’articule autour du renne — dont chaque partie est utilisée —, du poisson arctique, des baies et herbes cueillies, et des cuissons lentes comme le ragoût bidos. Les recettes suivent le calendrier sami à huit saisons." },
+        { "question": "Les visiteurs peuvent-ils cueillir baies et champignons en Finlande ?", "answer": "Oui. Le droit d’accès à la nature finlandais (jokamiehenoikeus) permet à chacun — habitant ou visiteur — de cueillir baies, champignons et herbes sauvages sur la plupart des terres, forêts privées comprises. Apprenez toutefois à identifier les champignons avant de cueillir : des espèces mortelles comme l’amanite phalloïde poussent dans les forêts finlandaises. Pour une première fois, une sortie de cueillette guidée est l’entrée la plus sûre." },
+        { "question": "Quand a lieu la saison de la plaquebière en Laponie ?", "answer": "Environ de la mi-juillet à la mi-août, avec une fenêtre intensive de cueillette d’environ trois semaines selon la tourbière. La plaquebière ne pousse que dans les tourbières arctiques froides et résiste à la culture : c’est pourquoi elle est la baie sauvage la plus prisée — et la plus chère — de Laponie." }
+      ]
     }
   },
   "localIngredients": {

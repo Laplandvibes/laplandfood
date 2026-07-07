@@ -71,6 +71,20 @@
       "headline": "A janela gastronômica do sol da meia-noite.",
       "lead": "As amoras árticas amadurecem, o peixe de lago atinge o auge, os canteiros de ervas explodem e o sol não se põe. Por quatro semanas, as cozinhas da Lapônia trocam o reforço pesado do inverno pelo produto mais leve e luminoso do ano. Se você vier só uma vez, venha agora.",
       "cta": "O que está na estação →"
+    },
+    "faq": {
+      "eyebrow": "Bom saber",
+      "headline": "As perguntas que todo mundo faz primeiro.",
+      "lead": "Respostas curtas, cada uma com link para a página que aprofunda o tema.",
+      "stillPrefix": "Ficou alguma dúvida? Escreva para ",
+      "stillSuffix": " — a gente responde.",
+      "items": [
+        { "question": "Como é a comida tradicional finlandesa?", "answer": "A cozinha tradicional finlandesa se apoia no que cresce, nada ou pasta por perto: pão de centeio, peixe de água doce, rena, frutas silvestres como bilberry, lingonberry e cloudberry, cogumelos colhidos na floresta e laticínios. É uma cozinha sazonal, de temperos leves, centrada no ingrediente e não na técnica." },
+        { "question": "A Finlândia tem restaurantes com estrela Michelin?", "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas suas cozinhas de ponta — Nili, Aanaar, Rakas — estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar." },
+        { "question": "O que é a comida sámi?", "answer": "A comida sámi é a cozinha indígena de Sápmi, região que atravessa o norte da Finlândia, Suécia, Noruega e Rússia. Gira em torno da rena — cada parte é aproveitada —, do peixe ártico, de frutas e ervas colhidas e de cozimentos lentos como o ensopado bidos. As receitas seguem o calendário sámi de oito estações." },
+        { "question": "Visitantes podem colher frutas e cogumelos na Finlândia?", "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa — moradora ou visitante — colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a cicuta-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura." },
+        { "question": "Quando é a temporada de cloudberry na Lapônia?", "answer": "Mais ou menos de meados de julho a meados de agosto, com uma janela intensa de colheita de cerca de três semanas, dependendo da turfeira. A cloudberry só cresce em turfeiras árticas frias e resiste ao cultivo — por isso é a fruta silvestre mais valorizada, e mais cara, da Lapônia." }
+      ]
     }
   },
   "localIngredients": {

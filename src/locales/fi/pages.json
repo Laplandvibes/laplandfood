@@ -71,6 +71,20 @@
       "headline": "Keskiyön auringon ruokaikkuna.",
       "lead": "Hilla kypsyy, järvikala on huipussaan, yrttipenkit räjähtävät kukkaan eikä aurinko laske. Neljäksi viikoksi Lapin keittiöt vaihtavat raskaan talven kevyimpään ja kirkkaimpaan tuoresatoonsa. Jos tulet vain kerran, tule nyt.",
       "cta": "Mitä on sesongissa →"
+    },
+    "faq": {
+      "eyebrow": "Hyvä tietää",
+      "headline": "Kysytyimmät kysymykset.",
+      "lead": "Lyhyet vastaukset — jokaisesta linkki syvemmälle vievälle pilarisivulle.",
+      "stillPrefix": "Jäikö jokin mietityttämään? Kirjoita meille: ",
+      "stillSuffix": " — vastaamme.",
+      "items": [
+        { "question": "Millaista perinteinen suomalainen ruoka on?", "answer": "Perinteinen suomalainen ruoka rakentuu sen varaan, mitä lähiympäristössä kasvaa, ui tai laiduntaa: ruisleipä, järvikala, poro, metsämarjat kuten mustikka, puolukka ja hilla, sienet ja maitotuotteet. Keittiö on sesonkien mukainen, kevyesti maustettu, ja raaka-aine on tekniikkaa tärkeämpi." },
+        { "question": "Onko Suomessa Michelin-tähtiravintoloita?", "answer": "Kyllä. Michelin-opas kattaa Suomen, ja viime vuosien Pohjoismaiden oppaissa kaikki Suomen tähtiravintolat ovat olleet Helsingissä. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt — Nili, Aanaar, Rakas — vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta." },
+        { "question": "Mitä on saamelainen ruoka?", "answer": "Saamelainen ruoka on Saamenmaan eli Sápmin — Pohjois-Suomen, Ruotsin, Norjan ja Venäjän — alkuperäiskansan keittiötä. Sen ytimessä ovat poro, josta käytetään kaikki osat, arktiset kalat, kerätyt marjat ja yrtit sekä hitaat kypsennystavat kuten bidos-pata. Reseptit seuraavat saamelaisten kahdeksan vuodenajan kalenteria." },
+        { "question": "Saavatko matkailijat poimia marjoja ja sieniä Suomessa?", "answer": "Kyllä. Jokamiehenoikeus antaa jokaiselle — myös vierailijalle — luvan poimia marjoja, sieniä ja luonnonyrttejä lähes kaikkialla, myös yksityismetsissä. Opettele kuitenkin sienten tunnistus ennen poimimista: Suomen metsissä kasvaa tappavan myrkyllisiä lajeja kuten kavalakärpässieni ja valkokärpässieni. Ensikertalaiselle opastettu sieniretki on turvallisin tapa aloittaa." },
+        { "question": "Milloin on hillasesonki Lapissa?", "answer": "Suunnilleen heinäkuun puolivälistä elokuun puoliväliin, ja kiihkein poimintajakso kestää noin kolme viikkoa suosta riippuen. Hilla kasvaa vain kylmillä arktisilla soilla eikä taivu viljelyyn — siksi se on Lapin arvostetuin ja kallein luonnonmarja." }
+      ]
     }
   },
   "localIngredients": {

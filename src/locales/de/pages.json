@@ -71,6 +71,20 @@
       "headline": "Das Geschmacksfenster der Mitternachtssonne.",
       "lead": "Die Moltebeere reift, der Süßwasserfisch ist auf dem Höhepunkt, die Kräuterbeete explodieren und die Sonne geht nicht unter. Für vier Wochen tauschen die Küchen Lapplands den schweren Winter gegen ihre leichteste und klarste Frische ein. Wenn Sie nur einmal kommen, kommen Sie jetzt.",
       "cta": "Was in der Saison ist →"
+    },
+    "faq": {
+      "eyebrow": "Gut zu wissen",
+      "headline": "Die häufigsten Fragen.",
+      "lead": "Kurze Antworten — jede verlinkt auf die Themenseite, die in die Tiefe geht.",
+      "stillPrefix": "Noch eine Frage offen? Schreiben Sie an ",
+      "stillSuffix": " — wir antworten.",
+      "items": [
+        { "question": "Wie schmeckt traditionelles finnisches Essen?", "answer": "Traditionelle finnische Küche baut auf dem auf, was in unmittelbarer Nähe wächst, schwimmt oder weidet: Roggenbrot, Süßwasserfisch, Rentier, Wildbeeren wie Heidelbeere, Preiselbeere und Moltebeere, gesammelte Pilze und Milchprodukte. Die Küche ist saisonal, dezent gewürzt und stellt die Zutat über die Technik." },
+        { "question": "Gibt es in Finnland Michelin-Sterne-Restaurants?", "answer": "Ja. Der Guide Michelin bewertet Finnland, und die Sterne-Restaurants der letzten Nordic-Ausgaben lagen alle in Helsinki. Lappland selbst hält derzeit keinen Stern, doch seine Vorzeigeküchen — Nili, Aanaar, Rakas — treiben das Degustationsmenü nördlich des Polarkreises voran. Die Sterneliste ändert sich jährlich; prüfen Sie vor der Reservierung den aktuellen Guide." },
+        { "question": "Was ist samische Küche?", "answer": "Samische Küche ist die indigene Küche Sápmis, der Region im Norden Finnlands, Schwedens, Norwegens und Russlands. Im Zentrum stehen das Rentier — jedes Teil wird verwertet —, arktischer Fisch, gesammelte Beeren und Kräuter sowie langsames Garen wie beim Bidos-Eintopf. Die Rezepte folgen dem samischen Kalender mit acht Jahreszeiten." },
+        { "question": "Dürfen Besucher in Finnland Beeren und Pilze sammeln?", "answer": "Ja. Das finnische Jedermannsrecht (jokamiehenoikeus) erlaubt jedem — auch Gästen —, auf fast allem Land Beeren, Pilze und Wildkräuter zu sammeln, selbst in Privatwäldern. Lernen Sie aber vorher die Pilzbestimmung: In finnischen Wäldern wachsen tödliche Arten wie der Grüne Knollenblätterpilz. Für das erste Mal ist eine geführte Sammelwanderung der sicherste Einstieg." },
+        { "question": "Wann ist Moltebeeren-Saison in Lappland?", "answer": "Etwa Mitte Juli bis Mitte August, mit einem intensiven Pflückfenster von rund drei Wochen je nach Moor. Moltebeeren wachsen nur in kalten arktischen Torfmooren und widersetzen sich dem Anbau — deshalb sind sie die begehrteste und teuerste Wildbeere Lapplands." }
+      ]
     }
   },
   "localIngredients": {

@@ -71,6 +71,20 @@
       "headline": "Het middernachtzon-eetvenster.",
       "lead": "Kruipbramen rijpen, meervis is op zijn top, de kruidentuinen barsten en de zon gaat niet onder. Vier weken lang ruilen Laplandse keukens hun zware winterinmaak voor de lichtste, helderste producten van het jaar. Komt u maar één keer, kom dan nu.",
       "cta": "Wat is in seizoen →"
+    },
+    "faq": {
+      "eyebrow": "Goed om te weten",
+      "headline": "De vragen die iedereen eerst stelt.",
+      "lead": "Korte antwoorden, elk met een link naar de pagina die de diepte ingaat.",
+      "stillPrefix": "Nog iets onduidelijk? Mail ons op ",
+      "stillSuffix": " — we antwoorden.",
+      "items": [
+        { "question": "Hoe smaakt traditioneel Fins eten?", "answer": "De traditionele Finse keuken is gebouwd op wat dichtbij groeit, zwemt of graast: roggebrood, zoetwatervis, rendier, wilde bessen zoals bosbes, vossenbes en kruipbraam, geplukte paddenstoelen en zuivel. De keuken is seizoensgebonden, licht gekruid en draait om het ingrediënt, niet om de techniek." },
+        { "question": "Heeft Finland restaurants met een Michelinster?", "answer": "Ja. De Michelingids beoordeelt Finland, en de sterrenrestaurants in de recente Nordic-edities lagen allemaal in Helsinki. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens — Nili, Aanaar, Rakas — tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; check de actuele gids voordat je reserveert." },
+        { "question": "Wat is Samisch eten?", "answer": "Samisch eten is de inheemse keuken van Sápmi, de regio die zich uitstrekt over Noord-Finland, Zweden, Noorwegen en Rusland. Centraal staan het rendier — elk deel wordt gebruikt —, Arctische vis, geplukte bessen en kruiden en langzame bereidingen zoals de bidos-stoofpot. De recepten volgen de Samische kalender met acht seizoenen." },
+        { "question": "Mogen bezoekers in Finland bessen en paddenstoelen plukken?", "answer": "Ja. Het Finse allemansrecht (jokamiehenoikeus) laat iedereen — inwoner of bezoeker — bessen, paddenstoelen en wilde kruiden plukken op vrijwel alle grond, ook in privébossen. Leer wel eerst paddenstoelen herkennen: in Finse bossen groeien dodelijke soorten zoals de groene knolamaniet. Voor de eerste keer is een begeleide plukwandeling de veiligste start." },
+        { "question": "Wanneer is het kruipbraamseizoen in Lapland?", "answer": "Grofweg van half juli tot half augustus, met een intensief plukvenster van zo’n drie weken, afhankelijk van het veen. Kruipbramen groeien alleen in koude Arctische veengebieden en laten zich nauwelijks kweken — daarom zijn ze de meest begeerde en duurste wilde bes van Lapland." }
+      ]
     }
   },
   "localIngredients": {

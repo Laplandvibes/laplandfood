@@ -71,6 +71,20 @@
       "headline": "The midnight-sun food window.",
       "lead": "Cloudberries ripen, lake fish hit peak, the herb beds explode, and the sun never sets. For four weeks Lapland's kitchens swap heavy winter bracing for the lightest, brightest produce of the year. If you only come once, come now.",
       "cta": "What's in season →"
+    },
+    "faq": {
+      "eyebrow": "Good to know",
+      "headline": "The questions everyone asks first.",
+      "lead": "Quick answers, each linking to the pillar page that goes deeper.",
+      "stillPrefix": "Still wondering about something? Write to ",
+      "stillSuffix": " — we answer.",
+      "items": [
+        { "question": "What is traditional Finnish food like?", "answer": "Traditional Finnish food is built on what grows, swims, or grazes within walking distance: rye bread, freshwater fish, reindeer, wild berries like bilberry, lingonberry and cloudberry, foraged mushrooms, and dairy. The cuisine is seasonal, lightly seasoned, and centred on the ingredient rather than the technique." },
+        { "question": "Does Finland have Michelin-starred restaurants?", "answer": "Yes. The Michelin Guide covers Finland, and the starred restaurants in recent Nordic editions have all been in Helsinki. Lapland itself does not currently hold a star, but its flagship kitchens — Nili, Aanaar, Rakas — are pushing tasting-menu dining inside the Arctic Circle. Star lists change every year, so check the current Guide before booking." },
+        { "question": "What is Sami food?", "answer": "Sami food is the indigenous cuisine of Sápmi, the region spanning northern Finland, Sweden, Norway and Russia. It centres on reindeer — every part used — Arctic fish, foraged berries and herbs, and slow-cooking methods like bidos stew. Recipes are seasonal and tied to the eight-season Sami calendar." },
+        { "question": "Can visitors forage berries and mushrooms in Finland?", "answer": "Yes. Finland's everyman's right (jokamiehenoikeus) lets anyone, citizen or visitor, pick berries, mushrooms and wild herbs on most land, including private forest. Learn mushroom identification before picking, though — deadly species like the death cap and destroying angel grow in Finnish forests. For a first time, a guided foraging walk is the safest way in." },
+        { "question": "When is cloudberry season in Lapland?", "answer": "Roughly mid-July to mid-August, with an intense picking window of about three weeks depending on the bog. Cloudberries grow only in cold Arctic peat bogs and resist cultivation, which is why they are the most prized — and most expensive — wild berry in Lapland." }
+      ]
     }
   },
   "localIngredients": {
