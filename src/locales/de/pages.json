@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "Lapplands Vorratskammer ist kurz. Darin liegt ihre Kraft.",
-      "p1": "Sie können jede prägende Zutat der lappländischen Küche an den Fingern einer Hand aufzählen, Rentier, Süßwasserfisch, gesammelte Beeren, gesammelte Pilze, wilde Kräuter, Milchprodukte. Es gibt keine versteckte 30. Zutat, die die Küche aufschließen würde. Die Kunst liegt darin, was die Menschen über Tausende von arktischen Wintern hinweg aus dieser kleinen Palette zu machen gelernt haben: trocknen, räuchern, fermentieren, in Salz einlegen, lange schmoren, bis in den März hinein ohne Kühlschrank haltbar machen.",
-      "p2": "Fast alle Zutaten in den Karten unten sind wild. Das unterscheidet die lappländische Küche von fast allen anderen Esskulturen Europas. Rentiere werden technisch gesehen gehütet, aber sie leben in Zehntausenden Quadratkilometern unbezäunter Wildnis; die Aufgabe des Hirten ist es, sie zu zählen, nicht zu füttern. Beeren und Pilze lassen sich in Lappland nicht kommerziell anbauen, das Klima ist zu kurz und zu feucht, daher ist das gesamte Angebot gesammelt. Süßwasserfische werden mit einer einzigen Angel gefangen, oft durch das Eis. Die Lieferkette vom Waldboden auf den Teller ist manchmal buchstäblich nur wenige Stunden lang.",
-      "p3": "Das hat Folgen für den Geschmack. Wilde Zutaten variieren von Jahr zu Jahr und von Ort zu Ort auf eine Weise, wie es Kulturpflanzen nicht tun. Eine Moltebeere aus dem Moor oberhalb von Inari schmeckt anders als eine 80 km südlicher über Saariselkä, andere Säure, anderer Zucker, anderes Aroma. Ein Rentier, das den Herbst auf der Flechtentundra oberhalb von Utsjoki verbracht hat, schmeckt anders als eines, das in der Nähe von Rovaniemi Pilze gefressen hat. Sámi-Köche und Hausköche haben dies immer als Vorteil betrachtet: Man kocht nach dem, was die Zutat dieses Jahr macht, nicht nach einem festen Rezept.",
-      "p4": "Die sechs Zutatenkarten unten sind die Grundlage. Darunter folgen längere Essays zu den dreien, nach denen Reisende am meisten fragen, Rentier (Lieferkette, Ethik, Stücke), Moltebeere (warum niemand sie anbauen kann und was das für den Preis bedeutet) und Süßwasserfisch (die Rolle des Eisangelns im Winter). Am Ende ein Abschnitt zum Jedermannsrecht, das die gesamte Vorratskammer rechtlich und kulturell zusammenhält."
+      "points": [
+        { "n": "01", "title": "Sechs Zutaten, eine Hand", "body": "Rentier, Seefisch, gesammelte Beeren und Pilze, Wildkräuter, Milchprodukte — das ist die ganze Vorratskammer. Eine versteckte 30. Zutat gibt es nicht; die Kunst liegt darin, was man mit diesen sechs zu tun gelernt hat." },
+        { "n": "02", "title": "Fast alles ist wild", "body": "Das unterscheidet Lappland von fast jeder anderen Esskultur Europas. Selbst die Rentiere leben auf Zehntausenden Quadratkilometern offener Wildnis." },
+        { "n": "03", "title": "Wild heißt Jahrgänge", "body": "Wilde Zutaten schwanken von Jahr zu Jahr und Ort zu Ort, wie es Kultiviertes nie tut — Moltebeeren aus einem Moor bei Inari schmecken anders als solche, die 80 Kilometer weiter südlich gepflückt wurden." }
+      ]
     },
     "ingredients": [
       { "name": "Rentier und Wild", "season": "Ganzjährig · am besten Okt.–März", "description": "Das Herz der arktischen Küche. Freilaufendes Rentier wächst in reiner Wildnis auf, seit Jahrtausenden das wichtigste Protein der Sámi-Kultur.", "nutritional": "Viel Eiweiß, wenig Fett, Vitamin B12 und Eisen", "uses": "Grillen, Trocknen, Räuchern, langsames Schmoren" },
@@ -164,10 +165,11 @@
     },
     "intro": {
       "lead": "Die Rezepte auf dieser Seite sind keine Museumsstücke. Sie werden immer noch gekocht.",
-      "p1": "Treten Sie an einem Dienstagabend im November in ein Sámi-Haus in Inari oder Utsjoki, und es duftet nach <em>bidos</em> auf dem Herd, dasselbe langsame Rentiergericht, das die Großmutter der Familie gekocht hat, auf dieselbe Weise, mit denselben Stücken, bei so niedriger Hitze, dass der Topf kaum flüstert. Dass der Herd heute elektrisch ist und das Fleisch aus einer registrierten Genossenschaft kommt, ändert das Rezept nicht. Es ändert ein wenig das Timing. Mehr nicht.",
-      "p2": "Genau diese Kontinuität ist der Punkt. Die Sámi-Küche hat überlebt, wo die meisten vorindustriellen arktischen Esskulturen das nicht taten, weil sie nie auf importierte Zutaten angewiesen war, um nach sich selbst zu schmecken. Rentier, Süßwasserfisch, gesammelte Beeren, Wildkräuter, Roggenmehl, Butter, Salz, fast alles wird in Gehweite vom Ort des Verzehrs bezogen. Wenn Lieferketten brechen (Krieg, Sanktionen, Pandemie), kochen die Küchen Lapplands weiter. Das ist im Gedächtnis lebender Menschen getestet worden.",
-      "p3": "Die vier Rezepte unten sind die Einstiege. <strong>Bidos</strong> ist die Eiweißportion des Seelenfutters. <strong>Gahkku</strong> ist das tägliche Brot. <strong>Sápmi-Fischsuppe</strong> verwendet das, was in dieser Woche aus dem See kam. <strong>Beerenkissel</strong> ist Dessert, Frühstück und eine Art, den Sommer zu konservieren. Wer nur diese vier kocht, hat bereits einen großen Teil des Jahresablaufs traditioneller Sámi-Haushalte abgedeckt.",
-      "p4": "Lesen Sie zuerst den kulturellen Kontext. Die Rezepte öffnen sich dann besser, vor allem die Tatsache, dass in manchen „Salz nach Geschmack\" statt in Gramm steht (in einer richtigen Sámi-Küche wurde Salz nach dem dosiert, was der Haushalt im Herbst aus dem Süden gekauft hatte). Unter den Rezepten finden Sie die acht Sámi-Jahreszeiten im Detail, die moderne Wiederbelebung der Sámi-Küche und vier traditionelle Garmethoden, die nach wie vor in den Fine-Dining-Küchen Lapplands zu sehen sind."
+      "points": [
+        { "n": "01", "title": "Wird noch jeden Dienstag gekocht", "body": "Betreten Sie im November ein samisches Zuhause in Inari oder Utsjoki, und auf dem Herd steht Bidos — derselbe langsam geschmorte Rentiereintopf, den die Großmutter kochte, mit denselben Teilstücken, bei derselben kaum flüsternden Hitze." },
+        { "n": "02", "title": "Überlebte aus eigener Vorratskammer", "body": "Die samische Küche überdauerte die meisten vorindustriellen arktischen Esskulturen, weil sie nie Importe brauchte, um nach sich selbst zu schmecken: Rentier, Seefisch, Beeren, Wildkräuter, Roggen, Butter, Salz." },
+        { "n": "03", "title": "Vier Einstiege", "body": "Bidos ist das Soulfood-Proteingericht, Gahkku das tägliche Brot, Sápmi-Fischsuppe das, was der See in jener Woche gab, und Wildbeeren-Kissel die Art, den Sommer haltbar zu machen." }
+      ]
     },
     "context": {
       "kicker": "Die Weisheit der Sámi-Esskultur",
@@ -351,10 +353,11 @@
     },
     "intro": {
       "lead": "Sammeln ist in Finnland nichts Besonderes. Es ist eine alltägliche Sommerbeschäftigung für etwa 40 % der Bevölkerung.",
-      "p1": "Diese Zahl, aus den jüngsten Haushaltsumfragen des Naturresourceninstituts Finnlands (Luke), ist eine strukturelle Tatsache, die man vor dem Rest dieser Seite kennen sollte. Beeren- und Pilzpflücken ist keine kleine Subkultur, es ist eine Mainstream-Aktivität, die Stadt und Land, Alter und Einkommen verbindet. Menschen sprechen über ihr bestes Moor, wie andere Länder über ihren besten Fischhändler sprechen. Es gibt ein nationales Vokabular dafür.",
-      "p2": "Der rechtliche Rahmen, der das ermöglicht, ist das <em>jokamiehenoikeus</em> (Jedermannsrecht), ein jahrhundertealter, im modernen finnischen Recht kodifizierter Grundsatz, nach dem jeder (Einwohner oder Besucher) auf den meisten Flächen Finnlands wandern, schwimmen, campen und sammeln darf, unabhängig vom Eigentümer. Es ist keine Duldung und keine Sitte. Es ist ein gesetzlich verbrieftes Recht. Ein Eigentümer kann Sie rechtlich nicht aus einem Wald verweisen, in dem Sie Beeren pflücken, solange Sie nichts beschädigen und nicht im unmittelbaren Hofbereich eines Hauses sind.",
-      "p3": "Das verändert die Art, wie Sammeln funktioniert. Sie brauchen keine Erlaubnis. Sie brauchen keinen Grundbesitzer. Sie können von der Straße in den Wald treten und pflücken. Die Grenzen sind ethisch (nicht überpflücken, die Pflanze nicht beschädigen) und praktisch (wissen Sie, was Sie pflücken), nicht rechtlich.",
-      "p4": "Diese Seite deckt die Praxis ab. Die fünf am häufigsten gesammelten Wildnahrungsmittel Lapplands mit ordentlichen Bestimmungsmerkmalen. Ein Abschnitt zur Pilzsicherheit, den Sie vor dem ersten Sammeln lesen müssen. Ein Saisonkalender. Die Regeln des Jedermannsrechts im Detail. Und der Grund, warum eine geführte Tour beim ersten Mal lohnt, auch wenn Sie nie wieder einen Guide brauchen werden."
+      "points": [
+        { "n": "01", "title": "Mainstream, keine Nische", "body": "Rund 40 % der Finnen sammeln — die Zahl stammt aus den Haushaltsbefragungen des Natural Resources Institute Finland (Luke) und gilt quer durch Stadt und Land, Alter und Einkommen." },
+        { "n": "02", "title": "Jedermannsrecht", "body": "Das im finnischen Recht verankerte jokamiehenoikeus erlaubt jedem — Einheimischen wie Gästen — auf den meisten Flächen zu gehen, zu zelten und zu sammeln, egal wem das Land gehört." },
+        { "n": "03", "title": "Keine Genehmigung, kein Grundbesitzer", "body": "Sie können von der Straße in den Wald treten und pflücken. Die Grenzen sind ethisch (nicht überernten, Pflanzen nicht beschädigen) und praktisch (wissen, was man pflückt) — nicht rechtlich." }
+      ]
     },
     "alert": {
       "kicker": "Lesen Sie das zuerst",
@@ -447,9 +450,11 @@
     },
     "intro": {
       "lead": "Die Lappland-Esserlebnisse, die ihr Geld wert sind, sind die, die Sie vor Menschen bringen, die das hier tatsächlich beruflich machen.",
-      "p1": "Vergessen Sie die Restauranttour aus dem Touristenbus. Die Touren unten sind kleine Gruppen, oft direkt beim Anbieter gebucht, geführt von Sámi-Sammlern, Fine-Dining-Köchen oder aktiven Rentierhirten. Sie essen, aber das Größere ist der Zugang, zur Rentierherde, in die Küche des Kochs, in den Kopf des Sammlers zum wichtigsten Moor. Die meisten kosten weniger als ein Tasting-Menü in Helsinki und dauern doppelt so lang.",
-      "p2": "Die drei Touren decken das ab, wonach die meisten Reisenden suchen. <strong>Die Sámi-Kultur-Esstour</strong> geht tief in die Sámi-Esskultur, Bidos beim Hirten, traditionelles Brotbacken, eine Sammelzeit, kultureller Kontext. <strong>Das arktische Fine-Dining-Erlebnis</strong> ist ein intensiver Tag, mit Küchentour, Kochmasterclass und einem mehrgängigen Abendessen mit Weinbegleitung, das Lappland-Gegenstück zu einem kulinarischen Tag in Kopenhagen. <strong>Die Wildsammel-Tour</strong> ist der beste Nachmittag für Anfänger mit einem Sámi-Sammler, sichere Bestimmung lernen, den Korb füllen, dann das Gesammelte am Lagerfeuer kochen.",
-      "p3": "Alle drei sind über GetYourGuide buchbar. Wir blenden die Suchergebnisse für jede Tour live ein, damit Sie aktuelle Verfügbarkeit und Preise sehen, Anbieter wechseln, Daten verschieben sich, Preise bewegen sich. Der Button „Verfügbarkeit prüfen\" auf jeder Karte startet eine Live-GYG-Suche, keine starre Produktseite."
+      "points": [
+        { "n": "01", "title": "Kleine Gruppen, direkt gebucht", "body": "Vergessen Sie die Restaurant-Tour im Reisebus: Die Trips unten sind Kleingruppen und werden oft direkt beim Veranstalter gebucht." },
+        { "n": "02", "title": "Geführt von Menschen, die davon leben", "body": "Samische Sammler, Fine-Dining-Köche, aktive Rentierhirten. Man isst gut, aber das eigentliche Produkt ist Zugang — zur Herde, zur Küche, zum Lieblingsmoor eines Sammlers." },
+        { "n": "03", "title": "Live-Preise statt Prospektpreise", "body": "Jede Karte führt zu einer Live-Suche auf GetYourGuide, nicht zu einer festen Produktseite: Veranstalter wechseln, Termine und Preise bewegen sich — Sie sehen immer die aktuelle Verfügbarkeit." }
+      ]
     },
     "listKicker": "Drei Touren, die sich lohnen",
     "listHeadline": "Buchen Sie eine davon.",

@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "A despensa da Lapônia é curta. É essa a sua força.",
-      "p1": "Você consegue listar nos dedos de uma mão todos os ingredientes que definem a cozinha da Lapônia, rena, peixe de lago, frutas silvestres colhidas, cogumelos silvestres, ervas silvestres, laticínios. Não há um trigésimo ingrediente escondido que destrave a cozinha. A habilidade está no que as pessoas aprenderam a fazer com uma paleta curta ao longo de mil anos de invernos árticos: como secar, defumar, fermentar, conservar por lactofermentação, cozinhar em fogo baixo, fazer durar até março sem geladeira.",
-      "p2": "Quase tudo nos cartões abaixo é silvestre. Isso distingue a cozinha da Lapônia de quase qualquer outra cultura gastronômica da Europa. As renas são tecnicamente criadas em manejo, mas vivem em dezenas de milhares de quilômetros quadrados de natureza sem cercas; o trabalho do pastor é acompanhá-las, não alimentá-las. Frutas silvestres e cogumelos não podem ser cultivados comercialmente na Lapônia o clima é curto e úmido demais, então todo o fornecimento é de colheita. O peixe de lago é pescado uma vara por vez, muitas vezes através do gelo. A cadeia do chão da floresta até o prato às vezes dura literalmente poucas horas.",
-      "p3": "Isso tem consequências para o sabor. Ingredientes silvestres variam de ano para ano e de lugar para lugar de um jeito que os cultivados não variam. As amoras árticas de um pântano acima de Inari têm gosto diferente das amoras 80 quilômetros ao sul, acima de Saariselkä, outra acidez, outro açúcar, outro perfume. Uma rena que passou o outono no platô de líquens acima de Utsjoki tem gosto diferente de uma que pastou brotos de cogumelos perto de Rovaniemi. Chefs e cozinheiros samis sempre trataram isso como um recurso: você cozinha em torno do que o ingrediente está fazendo neste ano, não de uma receita fixa.",
-      "p4": "Os seis cartões de ingredientes abaixo são o alicerce. Abaixo deles você encontra ensaios mais longos sobre os três que os visitantes mais perguntam, a rena (a cadeia de fornecimento, a ética, os cortes), as amoras árticas (por que ninguém consegue cultivá-las e o que isso significa para o preço) e o peixe de lago (o papel da pesca no gelo no inverno). E, por fim, uma seção sobre o direito de acesso à natureza, que amarra toda essa despensa legal e culturalmente."
+      "points": [
+        { "n": "01", "title": "Seis ingredientes, uma mão", "body": "Rena, peixe de lago, frutas e cogumelos colhidos, ervas silvestres, laticínios: essa é toda a despensa. Não há um 30º ingrediente escondido; a habilidade está no que se aprendeu a fazer com esses seis." },
+        { "n": "02", "title": "Quase tudo é silvestre", "body": "Isso separa a Lapônia de quase toda outra cultura gastronômica da Europa. Até as renas vivem em dezenas de milhares de quilômetros quadrados de natureza sem cercas." },
+        { "n": "03", "title": "Silvestre significa safras", "body": "Ingredientes silvestres variam de ano a ano e de lugar a lugar como os cultivados nunca variam: as cloudberries de uma turfeira em Inari têm gosto diferente das colhidas 80 quilômetros ao sul." }
+      ]
     },
     "ingredients": [
       { "name": "Rena e caça", "season": "O ano todo · melhor de out. a mar.", "description": "O coração da cozinha ártica. Renas em liberdade criadas em natureza intocada, a proteína mais importante da cultura sami há milhares de anos.", "nutritional": "Rica em proteína, baixa em gordura, rica em B12 e ferro", "uses": "Na grelha, secagem, defumação, ensopados em fogo baixo" },
@@ -163,10 +164,11 @@
     },
     "intro": {
       "lead": "As receitas desta página não são herança no sentido de museu lacrado. Elas ainda são cozinhadas.",
-      "p1": "Entre numa casa sami em Inari ou Utsjoki numa terça-feira de novembro e você vai sentir o cheiro do <em>bidos</em> no fogão o mesmo ensopado de rena em fogo baixo que a avó da família cozinhava, feito do mesmo jeito, com os mesmos cortes, num fogo tão baixo que a panela mal sussurra. O fato de o fogão ser hoje elétrico e a carne vir de um rebanho cooperativo registrado não muda a receita. Muda um pouco o tempo. É só isso.",
-      "p2": "Essa continuidade é o ponto. A cozinha sami sobreviveu onde a maioria das culturas gastronômicas árticas pré-industriais não sobreviveu, porque nunca dependeu de ingredientes importados para ter gosto de si mesma. Rena, peixe de lago, frutas silvestres, ervas silvestres, farinha de centeio, manteiga, sal, quase tudo vem de uma distância caminhável de onde é comido. Quando as cadeias de fornecimento quebram (guerra, sanções, pandemia), as cozinhas da Lapônia continuam funcionando. Isso já foi testado na memória recente.",
-      "p3": "As quatro receitas abaixo são os pontos de entrada. O <strong>bidos</strong> é o prato proteico que conforta a alma. O <strong>gahkku</strong> é o pão de cada dia. A <strong>sopa de peixe da Sápmi</strong> usa o que saiu do lago naquela semana. O <strong>kissel de frutas silvestres</strong> é sobremesa, café da manhã e um jeito de conservar o verão. Se você cozinhar só essas quatro, já cobriu a maior parte do ano de uma casa tradicional da Sápmi.",
-      "p4": "Leia primeiro o contexto cultural. As receitas farão mais sentido, em particular por que algumas pedem \"sal a gosto\" em vez de um número de gramas (porque numa cozinha sami de verdade o sal era racionado pelo que a casa tinha comprado no sul naquele outono). Abaixo das receitas você encontra as oito estações samis em detalhe, o renascimento da cozinha sami moderna e os quatro métodos de cocção tradicionais que ainda aparecem nas cozinhas de alta gastronomia por toda a Lapônia."
+      "points": [
+        { "n": "01", "title": "Ainda se cozinha toda terça", "body": "Entre numa casa sámi em Inari ou Utsjoki em novembro e o bidos estará no fogo: o mesmo ensopado de rena cozido devagar que a avó fazia, com os mesmos cortes, no mesmo fogo que mal sussurra." },
+        { "n": "02", "title": "Sobreviveu com a própria despensa", "body": "A cozinha sámi sobreviveu à maioria das culturas alimentares árticas pré-industriais porque nunca precisou de importações para ter o próprio gosto: rena, peixe de lago, frutas, ervas silvestres, centeio, manteiga, sal." },
+        { "n": "03", "title": "Quatro portas de entrada", "body": "O bidos é o prato de proteína da alma, o gahkku o pão de cada dia, a sopa de peixe de Sápmi o que o lago deu naquela semana, e o kissel de frutas silvestres o jeito de conservar o verão." }
+      ]
     },
     "context": {
       "kicker": "A sabedoria da cultura gastronômica sami",
@@ -350,10 +352,11 @@
     },
     "intro": {
       "lead": "Colher na Finlândia não é excêntrico. É uma atividade rotineira de verão para cerca de 40% da população.",
-      "p1": "Esse número, das pesquisas domiciliares mais recentes do Instituto de Recursos Naturais da Finlândia (Luke), é o fato estrutural que você precisa saber antes de ler qualquer outra coisa desta página. Colher frutas e cogumelos não é uma subcultura de nicho, é uma atividade finlandesa do dia a dia que atravessa cidade e campo, idade e renda. As pessoas falam do seu melhor pântano como em outros países se fala do melhor peixeiro. Há um vocabulário nacional para isso.",
-      "p2": "O arcabouço legal que torna isso possível é o <em>jokamiehenoikeus</em>, \"direito de acesso à natureza\" o princípio secular, codificado na lei finlandesa moderna, segundo o qual qualquer pessoa (cidadão ou visitante) pode caminhar pela maior parte das terras da Finlândia, nadar a partir delas, acampar nelas e colher nelas, não importa de quem seja a propriedade. Isso não é uma tolerância nem um costume. É um direito legal. O proprietário não pode legalmente mandar você sair de uma floresta em que está colhendo frutas, desde que você não danifique nada e não esteja dentro da área imediata do quintal de uma casa.",
-      "p3": "Isso muda o funcionamento da colheita. Você não precisa de permissão. Não precisa conhecer o proprietário. Pode sair da estrada para a floresta e colher. As restrições são éticas (não colha em excesso, não danifique a planta) e práticas (saiba o que está colhendo), não legais.",
-      "p4": "Esta página cobre o lado prático. Os cinco alimentos silvestres mais colhidos da Lapônia com notas de identificação adequadas. A seção de segurança com cogumelos que você precisa ler antes de colher o primeiro. Um calendário de colheita estação por estação. As regras do direito de acesso à natureza em detalhe. E os motivos para reservar uma caminhada guiada na sua primeira vez, mesmo que você nunca pretenda precisar de um guia de novo."
+      "points": [
+        { "n": "01", "title": "Corrente principal, não nicho", "body": "Cerca de 40 % dos finlandeses coletam — o número vem das pesquisas domiciliares do Instituto de Recursos Naturais da Finlândia (Luke) e atravessa cidade e campo, idade e renda." },
+        { "n": "02", "title": "Direito de todos", "body": "O jokamiehenoikeus, codificado na lei finlandesa, permite a qualquer pessoa — moradora ou visitante — caminhar, acampar e coletar na maior parte das terras, seja de quem for." },
+        { "n": "03", "title": "Sem licença, sem dono da terra", "body": "Você pode sair da estrada, entrar na floresta e colher. Os limites são éticos (não colher demais, não danificar as plantas) e práticos (saber o que está colhendo) — não legais." }
+      ]
     },
     "alert": {
       "kicker": "Leia isto primeiro",
@@ -446,9 +449,11 @@
     },
     "intro": {
       "lead": "As experiências gastronômicas da Lapônia que valem o seu dinheiro são aquelas que colocam você diante das pessoas que realmente vivem disso.",
-      "p1": "Pule o tratamento de tour-de-restaurantes-de-ônibus. Os passeios abaixo são em grupo pequeno, muitas vezes reservados direto com o operador, e conduzidos por coletores samis, chefs de alta gastronomia ou pastores de renas em atividade. Você come, mas o que importa mais é o acesso, a um rebanho, à cozinha de um chef, ao pântano favorito de um coletor. A maioria custa menos que um menu degustação de Helsinque e dura o dobro.",
-      "p2": "Três passeios cobrem a maior parte do que os visitantes procuram. A <strong>Jornada Gastronômica da Cultura Sami</strong> mergulha fundo nas tradições alimentares samis, bidos com um pastor, panificação tradicional, uma sessão de colheita, o contexto cultural. A <strong>Experiência de Alta Gastronomia Ártica</strong> é um único dia intensivo que garante uma visita aos bastidores da cozinha, uma masterclass de cozinha e um jantar de vários tempos com harmonização o equivalente lapão de um dia gastronômico de Copenhague. A <strong>Expedição de Colheita Silvestre</strong> é a melhor tarde que um iniciante pode passar com um coletor sami, aprenda a identificar com segurança, encha um cesto e depois cozinhe o que colheu numa fogueira.",
-      "p3": "Os três podem ser reservados pelo GetYourGuide. Mostramos os resultados de busca de cada um para que você veja a disponibilidade ao vivo e os preços atuais, os operadores mudam, as datas mudam, os preços oscilam. O botão \"Ver disponibilidade\" em cada cartão dispara uma busca ao vivo no GYG, não uma página de produto fixa."
+      "points": [
+        { "n": "01", "title": "Grupos pequenos, reserva direta", "body": "Esqueça o tour de restaurantes de ônibus: as viagens abaixo são em grupos pequenos e muitas vezes reservadas direto com o operador." },
+        { "n": "02", "title": "Guiadas por quem vive disso", "body": "Coletores sámi, chefs de alta gastronomia, pastores de renas na ativa. Come-se bem, mas o verdadeiro produto é o acesso — a um rebanho, a uma cozinha, à turfeira favorita de um coletor." },
+        { "n": "03", "title": "Preços ao vivo, não de folheto", "body": "Cada card leva a uma busca ao vivo no GetYourGuide, não a uma página de produto fixa: operadores mudam, datas e preços variam — você sempre vê a disponibilidade atual." }
+      ]
     },
     "listKicker": "Três passeios que valem a pena",
     "listHeadline": "Reserve um destes.",

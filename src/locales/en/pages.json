@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "The Lapland pantry is short. That is its strength.",
-      "p1": "You can list every ingredient that defines Lapland cooking on one hand of fingers, reindeer, lake fish, foraged berries, foraged mushrooms, wild herbs, dairy. There is no hidden 30th ingredient that unlocks the cuisine. The skill is in what people learned to do with a small palette over a thousand years of Arctic winters: how to dry it, smoke it, ferment it, lacto-pickle it, slow-cook it, get it through to March without a refrigerator.",
-      "p2": "Almost everything on the cards below is wild. That distinguishes Lapland cuisine from almost every other food culture in Europe. Reindeer are technically herded, but they live on tens of thousands of square kilometres of unfenced wilderness; the herder's job is to keep track of them, not feed them. Berries and mushrooms cannot be cultivated commercially in Lapland, the climate is too short and too wet, so the entire supply is foraged. Lake fish are caught one rod at a time, often through ice. The supply chain from forest floor to plate is sometimes literally a few hours.",
-      "p3": "That has consequences for flavour. Wild ingredients vary year to year and place to place in a way cultivated ones don't. The cloudberries from a bog above Inari taste different from cloudberries 80 kilometres south above Saariselkä, different acidity, different sugar, different perfume. A reindeer that spent the autumn on the lichen plateau above Utsjoki tastes different from one that grazed mushroom flushes near Rovaniemi. Sami chefs and home cooks have always treated this as a feature: you cook around what the ingredient is doing this year, not a fixed recipe.",
-      "p4": "The six ingredient cards below are the foundation. Below them you'll find longer essays on the three that visitors most often ask about, reindeer (the supply chain, the ethics, the cuts), cloudberries (why nobody can farm them and what that means for price), and lake fish (the role of ice fishing in winter). Then a final section on the everyman's right that ties this whole pantry together legally and culturally."
+      "points": [
+        { "n": "01", "title": "Six ingredients, one hand", "body": "Reindeer, lake fish, foraged berries, foraged mushrooms, wild herbs, dairy — that is the whole pantry. There is no hidden 30th ingredient; the skill is in what people learned to do with these six." },
+        { "n": "02", "title": "Almost everything is wild", "body": "That separates Lapland from nearly every other food culture in Europe. Even the reindeer live on tens of thousands of square kilometres of unfenced wilderness." },
+        { "n": "03", "title": "Wild means vintages", "body": "Wild ingredients vary by year and by place in a way cultivated ones never do — cloudberries from a bog above Inari taste different from ones picked 80 kilometres south." }
+      ]
     },
     "ingredients": [
       { "name": "Reindeer & Venison", "season": "Year-round · best Oct–Mar", "description": "The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness, the most important protein in Sami culture for thousands of years.", "nutritional": "High protein, low fat, rich in B12 and iron", "uses": "Grilling, drying, smoking, slow-cooked stews" },
@@ -163,10 +164,11 @@
     },
     "intro": {
       "lead": "The recipes on this page are not heritage in the sealed-museum sense. They are still cooked.",
-      "p1": "Walk into a Sami home in Inari or Utsjoki on a Tuesday in November and you will smell <em>bidos</em> on the stove, the same slow-braised reindeer stew the family grandmother cooked, made the same way, with the same cuts, on a heat low enough that the pot barely whispers. The fact that the stove is now electric and the meat comes from a registered cooperative herd does not change the recipe. It changes the timing slightly. That is all.",
-      "p2": "That continuity is the point. Sami cuisine survived where most pre-industrial Arctic food cultures did not, because it never depended on imported ingredients to taste like itself. Reindeer, lake fish, foraged berries, wild herbs, rye flour, butter, salt, almost everything is sourced within walking distance of where it is eaten. When supply chains break (war, sanctions, pandemic), Lapland's kitchens keep going. That has been tested in living memory.",
-      "p3": "The four recipes below are the entry points. <strong>Bidos</strong> is the soul-food protein dish. <strong>Gahkku</strong> is the daily bread. <strong>Sápmi fish soup</strong> uses what came out of the lake that week. <strong>Wild-berry kissel</strong> is dessert and breakfast and a way to preserve the summer. If you cook only these four, you have already covered most of the year of a traditional Sápmi household.",
-      "p4": "Read the cultural context first. The recipes will make more sense, particularly why some of them call for \"salt to taste\" rather than a number of grams (because in a real Sami kitchen, salt was rationed by what the household had bought down south that autumn). Below the recipes you'll find the eight Sami seasons in detail, the modern Sami food revival, and the four traditional cooking methods that still show up in fine-dining kitchens across Lapland."
+      "points": [
+        { "n": "01", "title": "Cooked every Tuesday", "body": "Walk into a Sami home in Inari or Utsjoki in November and bidos is on the stove — the same slow-braised reindeer stew the family grandmother made, with the same cuts, at the same barely-whispering heat." },
+        { "n": "02", "title": "Survived on its own larder", "body": "Sami cuisine outlived most pre-industrial Arctic food cultures because it never needed imports to taste like itself: reindeer, lake fish, berries, wild herbs, rye, butter, salt." },
+        { "n": "03", "title": "Four entry points", "body": "Bidos is the soul-food protein dish, gahkku the daily bread, Sápmi fish soup whatever the lake gave that week, and wild-berry kissel the way summer is preserved." }
+      ]
     },
     "context": {
       "kicker": "The wisdom of Sami food culture",
@@ -350,10 +352,11 @@
     },
     "intro": {
       "lead": "Foraging in Finland is not eccentric. It is a routine summer activity for around 40 % of the population.",
-      "p1": "That number, from the most recent Natural Resources Institute Finland (Luke) household surveys, is the structural fact you need before reading anything else on this page. Picking berries and mushrooms isn't a niche subculture, it is a mainstream Finnish activity that cuts across cities and countryside, age, and income. People talk about their best bog the way other countries talk about their best fishmonger. There is a national vocabulary for it.",
-      "p2": "The legal framework that makes this possible is <em>jokamiehenoikeus</em>, \"everyman's right\", the centuries-old principle, codified in modern Finnish law, that anyone (citizen or visitor) may walk on, swim from, camp on, and forage from most land in Finland regardless of who owns it. This is not a tolerance or a custom. It is a legal right. The owner cannot legally tell you to leave a forest you are picking berries in, as long as you are not damaging anything and you are not within the immediate yard area of a house.",
-      "p3": "That changes how foraging works. You do not need permission. You do not need to know the landowner. You can step off a road into the forest and pick. The constraints are ethical (don't over-harvest, don't damage the plant) and practical (know what you're picking), not legal.",
-      "p4": "This page covers the practical side. The five most-picked wild foods in Lapland with proper identification notes. The mushroom-safety section you must read before picking your first one. A season-by-season foraging calendar. The everyman's-right rules in detail. And the case for booking a guided walk for your first time even if you never plan to need a guide again."
+      "points": [
+        { "n": "01", "title": "Mainstream, not niche", "body": "Around 40 % of Finns forage — the number comes from Natural Resources Institute Finland (Luke) household surveys, and it cuts across city and countryside, age and income." },
+        { "n": "02", "title": "Everyman’s right", "body": "Jokamiehenoikeus, codified in Finnish law, lets anyone — citizen or visitor — walk, camp and forage on most land regardless of who owns it." },
+        { "n": "03", "title": "No permits, no landowner", "body": "You can step off the road into the forest and pick. The limits are ethical (don’t over-harvest, don’t damage plants) and practical (know what you’re picking) — not legal." }
+      ]
     },
     "alert": {
       "kicker": "Read this first",
@@ -446,9 +449,11 @@
     },
     "intro": {
       "lead": "The food experiences in Lapland that are worth your money are the ones that put you in front of the people who actually do this for a living.",
-      "p1": "Skip the restaurant-tour-with-a-coach treatment. The trips below are small-group, often booked direct with the operator, and led by Sami foragers, fine-dining chefs, or working reindeer herders. You eat, but the bigger thing is access, to a herd, to a chef's kitchen, to a forager's favourite bog. Most cost less than a Helsinki tasting menu and last twice as long.",
-      "p2": "Three trips cover most of what visitors look for. The <strong>Sami Culture Food Journey</strong> goes deep on Sami foodways, bidos with a herder, traditional bread baking, a foraging session, the cultural context. The <strong>Arctic Fine-Dining Experience</strong> is a single intensive day that gets you a back-of-house kitchen tour, a cooking masterclass, and a multi-course dinner with wine pairing, the full Lapland equivalent of a Copenhagen culinary day. The <strong>Wild Foraging Expedition</strong> is the single best afternoon a beginner can spend with a Sami forager, learn safe identification, fill a basket, then cook what you picked over a campfire.",
-      "p3": "All three are bookable through GetYourGuide. We surface the search results for each so you see live availability and current prices, operators rotate, dates change, prices shift. The \"Check availability\" button on each card runs a live GYG search, not a fixed product page."
+      "points": [
+        { "n": "01", "title": "Small groups, booked direct", "body": "Skip the restaurant-tour-with-a-coach treatment: the trips below are small-group and often booked directly with the operator." },
+        { "n": "02", "title": "Led by people who live this", "body": "Sami foragers, fine-dining chefs, working reindeer herders. You eat well, but the real product is access — to a herd, a kitchen, a forager’s favourite bog." },
+        { "n": "03", "title": "Live prices, not brochure prices", "body": "Every card links to a live GetYourGuide search, not a fixed product page: operators rotate, dates change and prices shift, so you always see current availability." }
+      ]
     },
     "listKicker": "Three trips worth taking",
     "listHeadline": "Book one of these.",

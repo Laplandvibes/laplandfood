@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "La despensa de Laponia es corta. Esa es su fuerza.",
-      "p1": "Puedes enumerar con los dedos de una mano todos los ingredientes que definen la cocina de Laponia, reno, pescado de lago, bayas silvestres, setas silvestres, hierbas silvestres, lácteos. No hay un trigésimo ingrediente oculto que destrabe la cocina. La habilidad está en lo que la gente aprendió a hacer con una paleta corta a lo largo de mil años de inviernos árticos: cómo secarlo, ahumarlo, fermentarlo, encurtirlo por lactofermentación, cocinarlo a fuego lento, conseguir que llegue hasta marzo sin nevera.",
-      "p2": "Casi todo lo que aparece en las fichas de abajo es silvestre. Eso distingue la cocina de Laponia de casi cualquier otra cultura gastronómica de Europa. Los renos están técnicamente pastoreados, pero viven en decenas de miles de kilómetros cuadrados de naturaleza sin vallar; el trabajo del pastor es seguirles la pista, no darles de comer. Las bayas y las setas no se pueden cultivar comercialmente en Laponia, el clima es demasiado corto y demasiado húmedo, así que todo el suministro es recolectado. El pescado de lago se captura caña a caña, a menudo a través del hielo. La cadena que va del suelo del bosque al plato a veces dura literalmente unas pocas horas.",
-      "p3": "Eso tiene consecuencias en el sabor. Los ingredientes silvestres varían de un año a otro y de un lugar a otro de un modo que los cultivados no. Las moras árticas de una turbera por encima de Inari saben distinto de las moras árticas 80 kilómetros más al sur, sobre Saariselkä, distinta acidez, distinto azúcar, distinto perfume. Un reno que pasó el otoño en la meseta de líquenes sobre Utsjoki sabe distinto de uno que pastó brotes de setas cerca de Rovaniemi. Los chefs y los cocineros samis siempre lo han tratado como una virtud: cocinas en torno a lo que el ingrediente está haciendo este año, no según una receta fija.",
-      "p4": "Las seis fichas de ingredientes de abajo son el cimiento. Debajo encontrarás ensayos más largos sobre los tres que los visitantes preguntan con más frecuencia, el reno (la cadena de suministro, la ética, los cortes), las moras árticas (por qué nadie puede cultivarlas y qué significa eso para el precio) y el pescado de lago (el papel de la pesca en hielo en invierno). Y luego una sección final sobre el derecho de acceso a la naturaleza, que ata legal y culturalmente toda esta despensa."
+      "points": [
+        { "n": "01", "title": "Seis ingredientes, una mano", "body": "Reno, pescado de lago, bayas y setas silvestres, hierbas y lácteos: esa es toda la despensa. No hay un ingrediente número 30 escondido; la destreza está en lo que se aprendió a hacer con estos seis." },
+        { "n": "02", "title": "Casi todo es silvestre", "body": "Eso separa a Laponia de casi cualquier otra cultura gastronómica de Europa. Hasta los renos viven en decenas de miles de kilómetros cuadrados de naturaleza sin vallar." },
+        { "n": "03", "title": "Silvestre significa añadas", "body": "Los ingredientes silvestres varían según el año y el lugar como nunca lo hacen los cultivados: las moras de los pantanos de Inari saben distinto de las recogidas 80 kilómetros al sur." }
+      ]
     },
     "ingredients": [
       { "name": "Reno y caza", "season": "Todo el año · mejor de oct. a mar.", "description": "El corazón de la cocina ártica. Renos en libertad criados en naturaleza intacta, la proteína más importante de la cultura sami desde hace miles de años.", "nutritional": "Rico en proteínas, bajo en grasa, abundante en B12 y hierro", "uses": "A la parrilla, secado, ahumado, en estofados a fuego lento" },
@@ -163,10 +164,11 @@
     },
     "intro": {
       "lead": "Las recetas de esta página no son herencia en el sentido de museo precintado. Se siguen cocinando.",
-      "p1": "Entra en una casa sami de Inari o Utsjoki un martes de noviembre y olerás el <em>bidos</em> en el fogón, el mismo estofado de reno a fuego lento que cocinaba la abuela de la familia, hecho de la misma manera, con los mismos cortes, a un fuego tan bajo que la olla apenas susurra. El hecho de que el fogón sea ahora eléctrico y la carne venga de un rebaño cooperativo registrado no cambia la receta. Cambia un poco los tiempos. Eso es todo.",
-      "p2": "Esa continuidad es lo importante. La cocina sami sobrevivió donde la mayoría de las culturas gastronómicas árticas preindustriales no lo hicieron, porque nunca dependió de ingredientes importados para saber a sí misma. Reno, pescado de lago, bayas silvestres, hierbas silvestres, harina de centeno, mantequilla, sal, casi todo se obtiene a una distancia caminable de donde se come. Cuando las cadenas de suministro se rompen (guerra, sanciones, pandemia), las cocinas de Laponia siguen funcionando. Eso se ha puesto a prueba en la memoria reciente.",
-      "p3": "Las cuatro recetas de abajo son los puntos de entrada. El <strong>bidos</strong> es el plato proteico reconfortante. El <strong>gahkku</strong> es el pan de cada día. La <strong>sopa de pescado de Sápmi</strong> usa lo que salió del lago esa semana. El <strong>kissel de bayas silvestres</strong> es postre, desayuno y una forma de conservar el verano. Si solo cocinas estas cuatro, ya has cubierto la mayor parte del año de una casa tradicional de Sápmi.",
-      "p4": "Lee primero el contexto cultural. Las recetas tendrán más sentido en particular por qué algunas piden \"sal al gusto\" en lugar de un número de gramos (porque en una cocina sami de verdad la sal se racionaba según lo que la casa hubiera comprado en el sur ese otoño). Bajo las recetas encontrarás las ocho estaciones samis en detalle, el renacimiento de la cocina sami moderna y los cuatro métodos de cocción tradicionales que siguen apareciendo en las cocinas de alta gastronomía por toda Laponia."
+      "points": [
+        { "n": "01", "title": "Se sigue cocinando cada martes", "body": "Entra en un hogar sami de Inari o Utsjoki en noviembre y habrá bidos en el fuego: el mismo guiso de reno a fuego lento que hacía la abuela, con los mismos cortes y el mismo calor apenas susurrante." },
+        { "n": "02", "title": "Sobrevivió con su propia despensa", "body": "La cocina sami sobrevivió a la mayoría de las culturas gastronómicas árticas preindustriales porque nunca necesitó importaciones para saber a sí misma: reno, pescado de lago, bayas, hierbas silvestres, centeno, mantequilla, sal." },
+        { "n": "03", "title": "Cuatro puertas de entrada", "body": "El bidos es el plato de proteína del alma, el gahkku el pan de cada día, la sopa de pescado de Sápmi lo que dio el lago esa semana, y el kissel de bayas la manera de conservar el verano." }
+      ]
     },
     "context": {
       "kicker": "La sabiduría de la cultura gastronómica sami",
@@ -350,10 +352,11 @@
     },
     "intro": {
       "lead": "Recolectar en Finlandia no es excéntrico. Es una actividad veraniega rutinaria para alrededor del 40 % de la población.",
-      "p1": "Esa cifra, de las encuestas a hogares más recientes del Instituto de Recursos Naturales de Finlandia (Luke), es el hecho estructural que necesitas antes de leer cualquier otra cosa de esta página. Recoger bayas y setas no es una subcultura de nicho, es una actividad finlandesa mayoritaria que atraviesa ciudad y campo, edad e ingresos. La gente habla de su mejor turbera como en otros países se habla de su mejor pescadero. Existe un vocabulario nacional para ello.",
-      "p2": "El marco legal que lo hace posible es el <em>jokamiehenoikeus</em>, \"el derecho de acceso a la naturaleza\", el principio de siglos de antigüedad, codificado en la ley finlandesa moderna, según el cual cualquiera (ciudadano o visitante) puede caminar por la mayoría del territorio de Finlandia, bañarse desde él, acampar en él y recolectar en él, sea de quien sea la propiedad. Esto no es una tolerancia ni una costumbre. Es un derecho legal. El propietario no puede echarte legalmente de un bosque en el que estás recogiendo bayas, siempre que no dañes nada y no estés dentro de la zona inmediata del jardín de una casa.",
-      "p3": "Eso cambia cómo funciona la recolección. No necesitas permiso. No necesitas conocer al propietario. Puedes salir de la carretera al bosque y recoger. Las restricciones son éticas (no sobreexplotar, no dañar la planta) y prácticas (saber qué estás recogiendo), no legales.",
-      "p4": "Esta página cubre el lado práctico. Los cinco alimentos silvestres más recolectados de Laponia con sus notas de identificación. La sección de seguridad con setas que debes leer antes de recoger tu primera. Un calendario de recolección estación por estación. Las reglas del derecho de acceso a la naturaleza en detalle. Y los motivos para reservar un paseo guiado tu primera vez aunque nunca pienses volver a necesitar un guía."
+      "points": [
+        { "n": "01", "title": "Corriente principal, no nicho", "body": "Alrededor del 40 % de los finlandeses recolecta: la cifra procede de las encuestas de hogares del Instituto de Recursos Naturales de Finlandia (Luke) y atraviesa ciudad y campo, edad e ingresos." },
+        { "n": "02", "title": "Derecho de acceso universal", "body": "El jokamiehenoikeus, recogido en la ley finlandesa, permite a cualquiera — ciudadano o visitante — caminar, acampar y recolectar en la mayoría de los terrenos, sea de quien sea la tierra." },
+        { "n": "03", "title": "Sin permisos, sin propietario", "body": "Puedes salir de la carretera al bosque y recoger. Los límites son éticos (no sobreexplotar, no dañar las plantas) y prácticos (saber qué recoges), no legales." }
+      ]
     },
     "alert": {
       "kicker": "Lee esto primero",
@@ -446,9 +449,11 @@
     },
     "intro": {
       "lead": "Las experiencias gastronómicas de Laponia que merecen tu dinero son las que te ponen delante de la gente que de verdad se dedica a esto.",
-      "p1": "Sáltate el trato de tour-de-restaurantes-en-autocar. Los viajes de abajo son de grupo reducido, a menudo reservados directamente con el operador, y dirigidos por recolectores samis, chefs de alta cocina o pastores de renos en activo. Comes, pero lo importante es el acceso, a un rebaño, a la cocina de un chef, a la turbera favorita de un recolector. La mayoría cuesta menos que un menú degustación de Helsinki y dura el doble.",
-      "p2": "Tres viajes cubren la mayor parte de lo que buscan los visitantes. El <strong>Viaje gastronómico por la cultura sami</strong> profundiza en las tradiciones culinarias samis, bidos con un pastor, horneado de pan tradicional, una sesión de recolección, el contexto cultural. La <strong>Experiencia de alta cocina ártica</strong> es un único día intensivo que te consigue una visita a la trastienda de la cocina, una clase magistral de cocina y una cena de varios platos con maridaje, el equivalente lapón de una jornada gastronómica de Copenhague. La <strong>Expedición de recolección silvestre</strong> es la mejor tarde que un principiante puede pasar con un recolector sami, aprende identificación segura, llena un cesto y luego cocina lo que has recogido en una hoguera.",
-      "p3": "Los tres se pueden reservar a través de GetYourGuide. Mostramos los resultados de búsqueda de cada uno para que veas la disponibilidad en directo y los precios actuales, los operadores rotan, las fechas cambian, los precios varían. El botón \"Ver disponibilidad\" de cada ficha lanza una búsqueda en directo en GYG, no una página de producto fija."
+      "points": [
+        { "n": "01", "title": "Grupos pequeños, reserva directa", "body": "Olvida el tour de restaurantes en autocar: los viajes de abajo son de grupo pequeño y a menudo se reservan directamente con el operador." },
+        { "n": "02", "title": "Guiados por quienes viven de esto", "body": "Recolectores sami, chefs de alta cocina, pastores de renos en activo. Se come bien, pero el verdadero producto es el acceso: a una manada, a una cocina, a la turbera favorita de un recolector." },
+        { "n": "03", "title": "Precios en vivo, no de folleto", "body": "Cada tarjeta enlaza a una búsqueda en vivo de GetYourGuide, no a una página de producto fija: los operadores rotan, las fechas y los precios cambian, así que siempre ves la disponibilidad actual." }
+      ]
     },
     "listKicker": "Tres viajes que vale la pena hacer",
     "listHeadline": "Reserva uno de estos.",

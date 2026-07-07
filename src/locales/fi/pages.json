@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "Lapin ruokavarasto on lyhyt. Siinä on sen voima.",
-      "p1": "Voit luetella jokaisen Lapin keittiön määrittävän raaka-aineen yhden käden sormilla, poro, järvikala, keräillyt marjat, keräillyt sienet, villiyrtit, maitotuotteet. Mitään piilotettua 30. raaka-ainetta, joka avaisi keittiön, ei ole. Taito on siinä, mitä ihmiset oppivat tekemään pienestä paletista tuhansien arktisten talvien aikana: miten kuivata, savustaa, fermentoida, suolakurkutaa, hauduttaa pitkään, säilyttää maaliskuuhun ilman jääkaappia.",
-      "p2": "Lähes kaikki alla olevien korttien raaka-aineista on villiä. Tämä erottaa Lapin keittiön lähes kaikista muista Euroopan ruokakulttuureista. Porot ovat teknisesti paimennettuja, mutta ne elävät kymmenissä tuhansissa neliökilometreissä aitaamatonta erämaata; paimentajan tehtävä on pitää kirjaa niistä, ei ruokkia. Marjoja ja sieniä ei voi viljellä kaupallisesti Lapissa, ilmasto on liian lyhyt ja liian kostea, joten koko tarjonta on keräiltyä. Järvikalat pyydetään yksi vapa kerrallaan, usein jään läpi. Toimitusketju metsänpohjasta lautaselle on joskus kirjaimellisesti muutaman tunnin mittainen.",
-      "p3": "Sillä on seurauksensa makuun. Villit raaka-aineet vaihtelevat vuodesta ja paikasta toiseen tavalla, jolla viljellyt eivät vaihtele. Inarin yläpuolisen suon hilla maistuu erilaiselta kuin 80 km etelämpänä Saariselän yllä, eri happo, eri sokeri, eri tuoksu. Utsjoen yläpuolisella jäkäläylängöllä syksyn viettänyt poro maistuu erilaiselta kuin Rovaniemen lähellä sieniä syöneestä. Saamelaiskokit ja kotikokit ovat aina pitäneet tätä etuna: kokkaat sen mukaan, mitä raaka-aine tekee tänä vuonna, ei kiinteällä reseptillä.",
-      "p4": "Alla olevat kuusi raaka-ainekorttia ovat pohja. Niiden alla on pidempiä esseitä kolmesta, joista vierailijat eniten kysyvät, porosta (toimitusketju, etiikka, palat), hillasta (miksei kukaan voi viljellä sitä ja mitä se tarkoittaa hinnalle) ja järvikalasta (pilkkimisen rooli talvella). Lopussa osio jokamiehenoikeudesta, joka sitoo koko ruokavaraston yhteen oikeudellisesti ja kulttuurisesti."
+      "points": [
+        { "n": "01", "title": "Kuusi raaka-ainetta, yksi käsi", "body": "Poro, järvikala, metsämarjat, sienet, villiyrtit ja maitotuotteet — siinä koko ruokavarasto. Piilotettua 30. raaka-ainetta ei ole; taito on siinä, mitä näillä kuudella on opittu tekemään." },
+        { "n": "02", "title": "Lähes kaikki on villiä", "body": "Se erottaa Lapin melkein kaikista muista Euroopan ruokakulttuureista. Porotkin elävät kymmenien tuhansien neliökilometrien aitaamattomassa erämaassa." },
+        { "n": "03", "title": "Villi tarkoittaa vuosikertoja", "body": "Villit raaka-aineet vaihtelevat vuodesta ja paikasta toiseen tavalla, jota viljellyt eivät tunne — Inarin suon hillat maistuvat erilaisilta kuin 80 kilometriä etelämpää poimitut." }
+      ]
     },
     "ingredients": [
       { "name": "Poro ja riista", "season": "Ympäri vuoden · paras loka–maalis", "description": "Arktisen keittiön sydän. Vapaana liikkuva poro kasvaa puhtaassa erämaassa, saamelaisen kulttuurin tärkein proteiini tuhansien vuosien ajan.", "nutritional": "Runsaasti proteiinia, vähän rasvaa, B12-vitamiinia ja rautaa", "uses": "Grillaus, kuivaus, savustus, hidasta haudutusta" },
@@ -164,10 +165,11 @@
     },
     "intro": {
       "lead": "Tämän sivun reseptit eivät ole museotavaraa. Niitä kokataan yhä.",
-      "p1": "Astu saamelaiseen kotiin Inarissa tai Utsjoella tiistai-iltana marraskuussa, ja tuoksuna on <em>bidos</em> liedellä, sama hidas pororuoka, jota perheen mummo kokkasi, samalla tavalla, samoilla paloilla, niin matalalla lämmöllä että kattila tuskin kuiskaa. Se että liesi on nykyisin sähkö ja liha tulee rekisteröidystä paliskunnasta, ei muuta reseptiä. Se muuttaa vähän ajoitusta. Siinä kaikki.",
-      "p2": "Juuri tämä jatkuvuus on pointti. Saamelainen keittiö säilyi siellä, missä useimmat esiteolliset arktiset ruokakulttuurit eivät, koska se ei koskaan riippunut tuoduista raaka-aineista maistuakseen omalta itseltään. Poro, järvikala, keräillyt marjat, villiyrtit, ruisjauho, voi, suola, lähes kaikki hankitaan kävelyetäisyydeltä siitä missä se syödään. Kun toimitusketjut katkeavat (sota, pakotteet, pandemia), Lapin keittiöt jatkavat. Tämä on testattu eläväisten ihmisten muistissa.",
-      "p3": "Alla olevat neljä reseptiä ovat sisäänkäynnit. <strong>Bidos</strong> on sielun­ruoan proteiiniannos. <strong>Gahkku</strong> on jokapäiväinen leipä. <strong>Sápmi-kalakeitto</strong> käyttää sitä, mitä järvestä saatiin sillä viikolla. <strong>Marjakiisseli</strong> on jälkiruoka, aamiainen ja tapa säilöä kesä. Jos kokkaat vain nämä neljä, olet jo kattanut suuren osan perinteisen saamelais­talouden vuodesta.",
-      "p4": "Lue kulttuuri­konteksti ensin. Reseptit avautuvat paremmin, etenkin se, miksi joissakin sanotaan \"suolaa maun mukaan\" eikä grammoissa (oikeassa saamelaiskeittiössä suola annosteltiin sen mukaan, paljonko taloudessa oli sitä syksyllä etelästä ostettu). Reseptien alta löydät kahdeksan saamelaista vuodenaikaa yksityiskohtaisesti, modernin saamelais­ruoan elpymisen ja neljä perinteistä kokkausmenetelmää, jotka näkyvät yhä Lapin fine dining -keittiöissä."
+      "points": [
+        { "n": "01", "title": "Kokataan yhä tiistaisin", "body": "Astu saamelaiskotiin Inarissa tai Utsjoella marraskuussa, ja liedellä on bidos — sama hitaasti haudutettu poropata, jonka perheen mummo teki, samoilla paloilla ja samalla hiljaa hymisevällä lämmöllä." },
+        { "n": "02", "title": "Selvisi omalla varastollaan", "body": "Saamelaiskeittiö eli yli useimpien esiteollisten arktisten ruokakulttuurien, koska se ei koskaan tarvinnut tuontitavaraa maistuakseen omaltaan: poro, järvikala, marjat, villiyrtit, ruis, voi, suola." },
+        { "n": "03", "title": "Neljä sisäänkäyntiä", "body": "Bidos on sielunruoka, gahkku jokapäiväinen leipä, Sápmi-kalakeitto se mitä järvi sinä viikkona antoi, ja marjakiisseli tapa säilöä kesä." }
+      ]
     },
     "context": {
       "kicker": "Saamelaisen ruokakulttuurin viisaus",
@@ -351,10 +353,11 @@
     },
     "intro": {
       "lead": "Keräily Suomessa ei ole erikoista. Se on rutiininomainen kesäharrastus noin 40 %:lle väestöstä.",
-      "p1": "Tämä luku, viimeisimmistä Luonnonvarakeskuksen (Luke) kotitalouskyselyistä, on rakenteellinen tosiasia, joka kannattaa tietää ennen muiden tämän sivun lukemista. Marjojen ja sienien poiminta ei ole pieni alakulttuuri, se on valtavirran suomalainen toiminta, joka leikkaa kaupungin ja maaseudun, iän ja tulot. Ihmiset puhuvat parhaasta suostaan kuten muut maat puhuvat parhaasta kalakauppiaastaan. Sille on kansallinen sanasto.",
-      "p2": "Lakikehys, joka tämän mahdollistaa, on <em>jokamiehenoikeus</em>, vuosi­satoja vanha, modernissa Suomen laissa kodifioitu periaate, jonka mukaan kuka tahansa (kansalainen tai vierailija) saa kävellä, uida, leiriytyä ja kerätä useimmilta Suomen mailta omistajasta riippumatta. Se ei ole suvaitsevaisuus tai tapa. Se on lakimääräinen oikeus. Omistaja ei voi laillisesti käskeä sinua poistumaan metsästä, jossa poimit marjoja, kunhan et vahingoita mitään etkä ole talon välittömällä piha-alueella.",
-      "p3": "Se muuttaa tapaa, jolla keräily toimii. Et tarvitse lupaa. Et tarvitse maanomistajaa. Voit astua tieltä metsään ja poimia. Rajoitukset ovat eettisiä (älä ylikerää, älä vahingoita kasvia) ja käytännöllisiä (tunne mitä poimit), eivät lakimääräisiä.",
-      "p4": "Tämä sivu kattaa käytännön. Lapin viisi eniten poimittua villiruokaa kunnollisilla tunnistus­merkinnöillä. Sienien turvallisuus­osio, joka pitää lukea ennen ensimmäistä poimintaa. Vuoden­aikakohtainen keräily­kalenteri. Jokamiehen­oikeuden säännöt yksityiskohtaisesti. Ja perustelut sille, miksi varaisit opastetun retken ensimmäiselle keräily­kerralle, vaikka et koskaan suunnittelisi tarvitsevasi opasta uudelleen."
+      "points": [
+        { "n": "01", "title": "Valtavirtaa, ei alakulttuuria", "body": "Noin 40 % suomalaisista kerää — luku on Luonnonvarakeskuksen (Luke) kotitalouskyselyistä, ja se leikkaa kaupungin ja maaseudun, iän ja tulot." },
+        { "n": "02", "title": "Jokamiehenoikeus", "body": "Suomen lakiin kirjattu periaate antaa jokaiselle — kansalaiselle ja vierailijalle — oikeuden kulkea, leiriytyä ja kerätä useimmilla mailla omistajasta riippumatta." },
+        { "n": "03", "title": "Ei lupia, ei maanomistajaa", "body": "Voit astua tieltä metsään ja poimia. Rajat ovat eettisiä (älä ylikerää, älä vahingoita kasveja) ja käytännöllisiä (tunne mitä poimit) — eivät lakimääräisiä." }
+      ]
     },
     "alert": {
       "kicker": "Lue tämä ensin",
@@ -447,9 +450,11 @@
     },
     "intro": {
       "lead": "Rahansa arvoiset ruokaelämykset Lapissa ovat niitä, joissa pääset niiden ihmisten luo, jotka tekevät tätä työkseen.",
-      "p1": "Unohda turistibussin ravintola­kierros. Alla olevat retket ovat pien­ryhmiä, usein varattu suoraan yrittäjältä, ja vetäjinä saamelais­keräilijöitä, fine dining -kokkeja tai työssä olevia poro­paimentajia. Syöt, mutta isompi asia on pääsy, porolaumaan, kokin keittiöön, keräilijän mieleen tärkeimmälle suolle. Useimmat maksavat vähemmän kuin Helsingin tasting menu ja kestävät kaksi kertaa kauemmin.",
-      "p2": "Kolme retkeä kattaa suurimman osan siitä mitä matkailijat etsivät. <strong>Saamelaiskulttuurin ruokamatka</strong> menee syvälle saamelais­ruokakulttuuriin, bidos paimentajan kanssa, perinteinen leivän­leipominen, keräily­hetki, kulttuuri­konteksti. <strong>Arktinen fine dining -elämys</strong> on yksi intensiivinen päivä, johon kuuluu kokki­keittiön kierros, kokkaus­masterclass ja monen ruokalajin illallinen viinipariltaan, Kööpenhaminan kulinaarisen päivän Lappi-vastine. <strong>Villi­keräily­retki</strong> on aloittelijalle paras iltapäivä saamelais­keräilijän kanssa, opettele turvallinen tunnistaminen, täytä kori, kokkaa sitten poimittu ruoka nuotiolla.",
-      "p3": "Kaikki kolme on varattavissa GetYourGuiden kautta. Tuomme esiin haku­tulokset jokaiselle, jotta näet livenä saatavuuden ja ajankohtaiset hinnat, yrittäjät vaihtuvat, päivämäärät muuttuvat, hinnat liikkuvat. Jokaisen kortin \"Tarkista saatavuus\" -painike ajaa elävän GYG-haun, ei kiinteää tuote­sivua."
+      "points": [
+        { "n": "01", "title": "Pienryhmiä, suoraan yrittäjältä", "body": "Unohda bussilastillinen ravintolakierros: alla olevat retket ovat pienryhmiä, ja ne varataan usein suoraan järjestäjältä." },
+        { "n": "02", "title": "Vetäjinä ne, jotka elävät tästä", "body": "Saamelaiskeräilijöitä, fine dining -kokkeja, työtään tekeviä poronhoitajia. Syöt hyvin, mutta varsinainen tuote on pääsy — tokan luo, keittiöön, keräilijän omalle suolle." },
+        { "n": "03", "title": "Livehinnat, ei esitehintoja", "body": "Jokainen kortti vie GetYourGuiden livehakuun, ei kiinteälle tuotesivulle: järjestäjät vaihtuvat, päivämäärät ja hinnat elävät, joten näet aina ajantasaisen saatavuuden." }
+      ]
     },
     "listKicker": "Kolme retkeä jotka kannattaa tehdä",
     "listHeadline": "Varaa yksi näistä.",

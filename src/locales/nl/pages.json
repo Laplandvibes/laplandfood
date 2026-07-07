@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "De Laplandse voorraadkast is kort. Dat is zijn kracht.",
-      "p1": "U kunt elk ingrediënt dat de Laplandse keuken definieert op één hand opnoemen, rendier, meervis, geplukte bessen, geplukte paddenstoelen, wilde kruiden, zuivel. Er is geen verborgen dertigste ingrediënt dat de keuken ontgrendelt. De vaardigheid zit in wat mensen leerden doen met een klein palet over duizend jaar Arctische winters: hoe te drogen, roken, fermenteren, lacto-zouten, langzaam te garen en het tot maart vol te houden zonder koelkast.",
-      "p2": "Bijna alles op de kaarten hieronder is wild. Dat onderscheidt de Laplandse keuken van bijna elke andere eetcultuur in Europa. Rendieren worden technisch geherderd, maar ze leven op tienduizenden vierkante kilometers onomheinde wildernis; de taak van de herder is ze volgen, niet ze te voeren. Bessen en paddenstoelen kunnen in Lapland niet commercieel worden geteeld, het klimaat is te kort en te nat, dus de hele aanvoer komt uit het plukken. Meervissen worden één voor één gevangen, vaak door het ijs. De keten van bosbodem naar bord is soms letterlijk een paar uur.",
-      "p3": "Dat heeft gevolgen voor de smaak. Wilde ingrediënten variëren van jaar tot jaar en van plek tot plek op een manier waarop gekweekte dat niet doen. De kruipbramen van een ven boven Inari smaken anders dan kruipbramen 80 km zuidelijker boven Saariselkä, andere zuren, andere suiker, ander parfum. Een rendier dat de herfst op het korstmosplateau boven Utsjoki doorbracht smaakt anders dan eentje dat paddenstoelvluchten bij Rovaniemi greep. Samische koks en thuiskoks hebben dat altijd als een pluspunt behandeld: u kookt rond wat het ingrediënt dit jaar doet, niet rond een vast recept.",
-      "p4": "De zes ingrediëntenkaarten hieronder vormen het fundament. Daaronder vindt u langere essays over de drie waar bezoekers het vaakst naar vragen, rendier (de keten, de ethiek, de delen), kruipbraam (waarom niemand het kan telen en wat dat betekent voor de prijs) en meervis (de rol van ijsvissen in de winter). Als laatste een sectie over het toegangsrecht dat deze hele voorraadkast juridisch en cultureel verbindt."
+      "points": [
+        { "n": "01", "title": "Zes ingrediënten, één hand", "body": "Rendier, meervis, geplukte bessen en paddenstoelen, wilde kruiden, zuivel — dat is de hele voorraadkast. Er is geen verborgen dertigste ingrediënt; het vakmanschap zit in wat men met deze zes heeft leren doen." },
+        { "n": "02", "title": "Bijna alles is wild", "body": "Dat onderscheidt Lapland van vrijwel elke andere eetcultuur in Europa. Zelfs de rendieren leven op tienduizenden vierkante kilometers onafgerasterde wildernis." },
+        { "n": "03", "title": "Wild betekent jaargangen", "body": "Wilde ingrediënten verschillen per jaar en per plek zoals gekweekte dat nooit doen — kruipbramen uit een veen bij Inari smaken anders dan die 80 kilometer zuidelijker." }
+      ]
     },
     "ingredients": [
       { "name": "Rendier & wild", "season": "Het hele jaar · beste okt–mrt", "description": "Het hart van de Arctische keuken. Vrij rondtrekkende rendieren, opgegroeid in ongerepte wildernis, de belangrijkste eiwitbron van de Samische cultuur al duizenden jaren.", "nutritional": "Hoog eiwit, laag vet, rijk aan B12 en ijzer", "uses": "Grillen, drogen, roken, langzaam gestoofde stoofschotels" },
@@ -163,10 +164,11 @@
     },
     "intro": {
       "lead": "De recepten op deze pagina zijn geen erfgoed in de museale zin. Ze worden nog steeds gekookt.",
-      "p1": "Loop op een dinsdag in november een Samisch huis in Inari of Utsjoki binnen en u ruikt <em>bidos</em> op het fornuis, dezelfde langzaam gesudderde rendierstoofpot die de oma kookte, op dezelfde manier, met dezelfde delen, op een vuur zo laag dat de pan nauwelijks fluistert. Dat het fornuis nu elektrisch is en het vlees van een geregistreerde coöperatieve kudde komt, verandert het recept niet. Het verandert de timing iets. Meer niet.",
-      "p2": "Die continuïteit is het punt. De Samische keuken overleefde waar de meeste pre-industriële Arctische eetculturen dat niet deden, omdat hij nooit afhankelijk was van geïmporteerde ingrediënten om naar zichzelf te smaken. Rendier, meervis, geplukte bessen, wilde kruiden, roggemeel, boter, zout, bijna alles komt op loopafstand van waar het gegeten wordt. Wanneer aanvoerketens breken (oorlog, sancties, pandemie) blijven Laplandse keukens doordraaien. Dat is in het levende geheugen getest.",
-      "p3": "De vier recepten hieronder zijn de instappunten. <strong>Bidos</strong> is het soul-food-eiwitgerecht. <strong>Gahkku</strong> is het dagelijks brood. <strong>De Samische vissoep</strong> gebruikt wat die week uit het meer kwam. <strong>De wilde bessen-kissel</strong> is dessert en ontbijt en een manier om de zomer te bewaren. Kookt u alleen deze vier, dan heeft u het grootste deel van het jaar van een traditioneel Sápmi-huishouden al gedekt.",
-      "p4": "Lees eerst de culturele context. De recepten krijgen meer betekenis, zeker waarom sommige om \"zout naar smaak\" vragen in plaats van een aantal gram (omdat in een echte Samische keuken het zout werd gerantsoeneerd naar wat het huishouden die herfst in het zuiden had ingeslagen). Onder de recepten vindt u de acht Samische seizoenen in detail, de moderne Samische voedselrevival en de vier traditionele kookmethodes die nog steeds opduiken in Laplands fine-diningkeukens."
+      "points": [
+        { "n": "01", "title": "Wordt nog elke dinsdag gekookt", "body": "Stap in november een Samisch huis in Inari of Utsjoki binnen en op het fornuis staat bidos — dezelfde langzaam gestoofde rendierstoofpot die grootmoeder maakte, met dezelfde delen, op hetzelfde nauwelijks fluisterende vuur." },
+        { "n": "02", "title": "Overleefde op eigen voorraad", "body": "De Samische keuken overleefde de meeste pre-industriële Arctische eetculturen omdat ze nooit import nodig had om naar zichzelf te smaken: rendier, meervis, bessen, wilde kruiden, rogge, boter, zout." },
+        { "n": "03", "title": "Vier ingangen", "body": "Bidos is het soulfood-eiwitgerecht, gahkku het dagelijkse brood, Sápmi-vissoep wat het meer die week gaf, en wildebessenkissel de manier om de zomer te bewaren." }
+      ]
     },
     "context": {
       "kicker": "De wijsheid van de Samische eetcultuur",
@@ -350,10 +352,11 @@
     },
     "intro": {
       "lead": "Plukken in Finland is niet excentriek. Het is een routinematige zomeractiviteit voor ongeveer 40 % van de bevolking.",
-      "p1": "Dat getal, uit de meest recente onderzoeken naar huishoudens van het Finse Natural Resources Institute (Luke), is het structurele feit dat u moet kennen voordat u iets anders op deze pagina leest. Bessen en paddenstoelen plukken is geen niche-subcultuur, het is een Finse mainstream-activiteit die steden en platteland, leeftijd en inkomen doorsnijdt. Mensen praten over hun beste ven zoals andere landen over hun beste visboer. Er bestaat een nationale woordenschat voor.",
-      "p2": "Het juridische kader dat dit mogelijk maakt is <em>jokamiehenoikeus</em>, \"toegangsrecht\", een eeuwenoud principe, vastgelegd in het moderne Finse recht, dat iedereen (burger of bezoeker) toestaat te wandelen, te zwemmen, te kamperen en te plukken op de meeste grond in Finland, ongeacht wie de eigenaar is. Dit is geen gedoogcultuur of gewoonte. Het is een wettelijk recht. De eigenaar kan u juridisch niet vertellen weg te gaan uit een bos waarin u bessen plukt, zolang u niets beschadigt en niet binnen de directe erfgrenzen van een huis komt.",
-      "p3": "Dat verandert hoe plukken werkt. U heeft geen toestemming nodig. U hoeft de eigenaar niet te kennen. U kunt van een weg het bos in stappen en plukken. De beperkingen zijn ethisch (niet overoogsten, plant niet beschadigen) en praktisch (weten wat u plukt), niet juridisch.",
-      "p4": "Deze pagina behandelt de praktische kant. De vijf meest geplukte wilde voedingsmiddelen in Lapland met identificatie-aantekeningen. De paddenstoelveiligheidssectie die u moet lezen voordat u uw eerste plukt. Een seizoenskalender. De regels van het toegangsrecht in detail. En het pleidooi om een begeleide wandeling te boeken voor uw eerste keer, ook als u nooit van plan bent een gids nodig te hebben."
+      "points": [
+        { "n": "01", "title": "Mainstream, geen niche", "body": "Zo’n 40 % van de Finnen plukt — het cijfer komt uit de huishoudenquêtes van het Natural Resources Institute Finland (Luke) en loopt dwars door stad en platteland, leeftijd en inkomen." },
+        { "n": "02", "title": "Allemansrecht", "body": "Het in de Finse wet vastgelegde jokamiehenoikeus laat iedereen — inwoner of bezoeker — wandelen, kamperen en plukken op de meeste grond, van wie die ook is." },
+        { "n": "03", "title": "Geen vergunning, geen grondeigenaar", "body": "Je kunt van de weg het bos in stappen en plukken. De grenzen zijn ethisch (niet overplukken, planten niet beschadigen) en praktisch (weten wat je plukt) — niet juridisch." }
+      ]
     },
     "alert": {
       "kicker": "Lees dit eerst",
@@ -446,9 +449,11 @@
     },
     "intro": {
       "lead": "De eetbelevingen in Lapland die uw geld waard zijn, zijn die welke u oog in oog brengen met de mensen die dit echt voor de kost doen.",
-      "p1": "Sla de tour-met-touringcar-aanpak over. De trips hieronder zijn in kleine groepen, vaak rechtstreeks bij de aanbieder geboekt, geleid door Samische plukkers, fine-diningkoks of actieve rendierherders. U eet, maar het grotere ding is toegang, tot een kudde, tot een koks-keuken, tot het lievelingsven van een plukker. De meeste kosten minder dan een Helsinki-proefmenu en duren twee keer zo lang.",
-      "p2": "Drie reizen dekken het meeste wat bezoekers zoeken. De <strong>Samische cultuur-foodreis</strong> gaat de diepte in op Samische voedingsgewoonten, bidos met een herder, traditioneel brood bakken, een plukmoment, de culturele context. De <strong>Arctische fine-dining-beleving</strong> is één intensieve dag met een rondleiding achter de keuken, een masterclass en een meergangendiner met wijnarrangement, het Laplandse equivalent van een Kopenhaagse culinaire dag. De <strong>Wilde plukexpeditie</strong> is de beste middag die een beginner met een Samische plukker kan doorbrengen, veilige identificatie leren, een mand vullen, daarna de pluk boven een kampvuur koken.",
-      "p3": "Alle drie zijn boekbaar via GetYourGuide. Wij tonen live zoekresultaten zodat u actuele beschikbaarheid en prijzen ziet, aanbieders rouleren, data veranderen, prijzen schuiven. De \"Beschikbaarheid controleren\"-knop op elke kaart start een live GYG-zoekopdracht, geen vaste productpagina."
+      "points": [
+        { "n": "01", "title": "Kleine groepen, direct geboekt", "body": "Vergeet de restauranttour per touringcar: de trips hieronder zijn kleine groepen en worden vaak rechtstreeks bij de aanbieder geboekt." },
+        { "n": "02", "title": "Geleid door mensen die hiervan leven", "body": "Samische plukkers, fine-dining-chefs, werkende rendierhoeders. Je eet goed, maar het echte product is toegang — tot een kudde, een keuken, het favoriete veen van een plukker." },
+        { "n": "03", "title": "Live prijzen, geen brochureprijzen", "body": "Elke kaart linkt naar een live GetYourGuide-zoekopdracht, geen vaste productpagina: aanbieders wisselen, data en prijzen bewegen — je ziet altijd de actuele beschikbaarheid." }
+      ]
     },
     "listKicker": "Drie reizen die de moeite waard zijn",
     "listHeadline": "Boek er een.",

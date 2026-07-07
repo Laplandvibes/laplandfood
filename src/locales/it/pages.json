@@ -100,10 +100,11 @@
     },
     "intro": {
       "lead": "La dispensa lappone è corta. È la sua forza.",
-      "p1": "Si possono elencare tutti gli ingredienti che definiscono la cucina lappone sulle dita di una mano, renna, pesce di lago, bacche raccolte, funghi raccolti, erbe selvatiche, latticini. Non c'è un trentesimo ingrediente nascosto che sblocchi la cucina. L'abilità sta in ciò che la gente ha imparato a fare con una piccola tavolozza in mille anni di inverni artici: come essiccare, affumicare, fermentare, lacto-mettere in salamoia, cuocere lentamente, far arrivare il prodotto fino a marzo senza frigorifero.",
-      "p2": "Quasi tutto ciò che si trova nelle schede qui sotto è selvatico. È ciò che distingue la cucina lappone da quasi ogni altra cultura gastronomica europea. Le renne sono tecnicamente allevate, ma vivono su decine di migliaia di chilometri quadrati di natura non recintata; il compito dell'allevatore è seguirle, non nutrirle. Bacche e funghi non si possono coltivare commercialmente in Lapponia, il clima è troppo breve e troppo umido, quindi tutto l'approvvigionamento è da raccolta. I pesci di lago si pescano uno alla volta, spesso attraverso il ghiaccio. La filiera dal sottobosco al piatto è a volte letteralmente di poche ore.",
-      "p3": "Ciò ha conseguenze sul sapore. Gli ingredienti selvatici variano di anno in anno e di luogo in luogo in un modo in cui i coltivati non lo fanno. I lamponi artici da una torbiera sopra Inari hanno un sapore diverso dai lamponi artici 80 chilometri più a sud sopra Saariselkä, acidità diversa, zucchero diverso, profumo diverso. Una renna che ha passato l'autunno sull'altopiano di licheni sopra Utsjoki ha un sapore diverso da una che ha brucato i funghi vicino a Rovaniemi. Gli chef e i cuochi sami hanno sempre trattato questo come un pregio: si cucina attorno a ciò che l'ingrediente sta facendo quell'anno, non attorno a una ricetta fissa.",
-      "p4": "Le sei schede ingrediente qui sotto sono la base. Più in basso trova saggi più lunghi sui tre temi che i visitatori chiedono di più, renna (filiera, etica, tagli), lampone artico (perché nessuno può coltivarlo e cosa significa per il prezzo) e pesce di lago (il ruolo della pesca sotto il ghiaccio in inverno). Infine una sezione sul diritto di accesso che lega tutta questa dispensa giuridicamente e culturalmente."
+      "points": [
+        { "n": "01", "title": "Sei ingredienti, una mano", "body": "Renna, pesce di lago, bacche e funghi raccolti, erbe selvatiche, latticini: ecco tutta la dispensa. Non c’è un trentesimo ingrediente nascosto; l’abilità sta in ciò che si è imparato a fare con questi sei." },
+        { "n": "02", "title": "Quasi tutto è selvatico", "body": "È questo che distingue la Lapponia da quasi ogni altra cultura gastronomica d’Europa. Persino le renne vivono su decine di migliaia di chilometri quadrati di natura senza recinzioni." },
+        { "n": "03", "title": "Selvatico significa annate", "body": "Gli ingredienti selvatici variano di anno in anno e di luogo in luogo come i coltivati non fanno mai: i camemori di una torbiera sopra Inari hanno un sapore diverso da quelli raccolti 80 chilometri più a sud." }
+      ]
     },
     "ingredients": [
       { "name": "Renna & selvaggina", "season": "Tutto l'anno · meglio da ott a mar", "description": "Il cuore della cucina artica. Renne in libertà allevate in natura incontaminata, la proteina più importante della cultura sami da migliaia di anni.", "nutritional": "Ricca di proteine, povera di grassi, ricca di B12 e ferro", "uses": "Griglia, essiccazione, affumicatura, stufati lenti" },
@@ -163,10 +164,11 @@
     },
     "intro": {
       "lead": "Le ricette di questa pagina non sono patrimonio in senso museale. Si cucinano ancora.",
-      "p1": "Entri in una casa sami a Inari o Utsjoki un martedì di novembre e sentirà il <em>bidos</em> sul fornello, lo stesso stufato di renna a lunga cottura che cucinava la nonna, fatto allo stesso modo, con gli stessi tagli, a un fuoco così basso che la pentola sussurra appena. Il fatto che il fornello sia ora elettrico e la carne provenga da un branco cooperativo registrato non cambia la ricetta. Cambia leggermente i tempi. Tutto qui.",
-      "p2": "Quella continuità è il punto. La cucina sami è sopravvissuta là dove la maggior parte delle culture gastronomiche artiche preindustriali non l'ha fatto, perché non ha mai dipeso da ingredienti importati per avere il proprio sapore. Renna, pesce di lago, bacche raccolte, erbe selvatiche, farina di segale, burro, sale, quasi tutto si reperisce a distanza di passeggiata da dove si mangia. Quando le filiere si rompono (guerra, sanzioni, pandemia), le cucine lapponi continuano. Lo si è visto a memoria d'uomo.",
-      "p3": "Le quattro ricette qui sotto sono i punti d'ingresso. <strong>Il bidos</strong> è il piatto proteico dell'anima. <strong>Il gahkku</strong> è il pane quotidiano. <strong>La zuppa di pesce sápmi</strong> usa ciò che è uscito dal lago quella settimana. <strong>Il kissel di bacche selvatiche</strong> è dolce e colazione e un modo di conservare l'estate. Se cucina solo queste quattro, ha già coperto la maggior parte dell'anno di una casa tradizionale del Sápmi.",
-      "p4": "Legga prima il contesto culturale. Le ricette avranno più senso, in particolare perché alcune chiedono « sale quanto basta » invece di un numero di grammi (perché in una vera cucina sami il sale era razionato in base a ciò che la famiglia aveva acquistato al sud quell'autunno). Sotto le ricette troverà le otto stagioni sami in dettaglio, il revival moderno della cucina sami e i quattro metodi tradizionali di cottura che compaiono ancora nelle cucine d'alta gastronomia di Lapponia."
+      "points": [
+        { "n": "01", "title": "Si cucina ancora ogni martedì", "body": "Entrate in una casa sami a Inari o Utsjoki a novembre e sul fuoco c’è il bidos — lo stesso stufato di renna a cottura lenta che faceva la nonna, con gli stessi tagli, allo stesso calore che sussurra appena." },
+        { "n": "02", "title": "Sopravvissuta con la propria dispensa", "body": "La cucina sami è sopravvissuta alla maggior parte delle culture gastronomiche artiche preindustriali perché non ha mai avuto bisogno di importazioni per sapere di sé: renna, pesce di lago, bacche, erbe selvatiche, segale, burro, sale." },
+        { "n": "03", "title": "Quattro porte d’ingresso", "body": "Il bidos è il piatto proteico dell’anima, il gahkku il pane quotidiano, la zuppa di pesce del Sápmi ciò che il lago ha dato quella settimana, e il kissel di bacche il modo di conservare l’estate." }
+      ]
     },
     "context": {
       "kicker": "La saggezza della cultura culinaria sami",
@@ -350,10 +352,11 @@
     },
     "intro": {
       "lead": "La raccolta in Finlandia non è una stranezza. È un'attività estiva di routine per circa il 40 % della popolazione.",
-      "p1": "Quel numero, dalle più recenti indagini sulle famiglie dell'Istituto finlandese delle risorse naturali (Luke), è il fatto strutturale da conoscere prima di leggere qualunque altra cosa su questa pagina. Raccogliere bacche e funghi non è una sottocultura di nicchia, è un'attività finlandese mainstream che attraversa città e campagna, età e reddito. La gente parla della propria torbiera migliore come in altri paesi si parla del miglior pescivendolo. Esiste un vocabolario nazionale per questo.",
-      "p2": "Il quadro legale che lo rende possibile è il <em>jokamiehenoikeus</em>, \"diritto di accesso\", principio plurisecolare, codificato nel diritto finlandese moderno, secondo cui chiunque (cittadino o visitatore) può camminare, nuotare, accamparsi e raccogliere sulla maggior parte dei terreni in Finlandia indipendentemente da chi ne sia proprietario. Non è una tolleranza o un'usanza. È un diritto legale. Il proprietario non può legalmente farLa uscire da un bosco in cui sta raccogliendo bacche, fintanto che non danneggia nulla e non si trova nell'immediata pertinenza di una casa.",
-      "p3": "Questo cambia il funzionamento della raccolta. Non serve permesso. Non serve conoscere il proprietario. Può uscire da una strada nel bosco e raccogliere. I vincoli sono etici (non raccogliere troppo, non danneggiare la pianta) e pratici (sapere cosa raccoglie), non legali.",
-      "p4": "Questa pagina copre il lato pratico. I cinque alimenti selvatici più raccolti in Lapponia con note di identificazione. La sezione sulla sicurezza dei funghi che deve leggere prima di raccogliere il primo. Un calendario stagione per stagione. Le regole del diritto di accesso in dettaglio. E il motivo per prenotare una passeggiata guidata la prima volta anche se non pensa di averne più bisogno."
+      "points": [
+        { "n": "01", "title": "Mainstream, non nicchia", "body": "Circa il 40 % dei finlandesi raccoglie — il dato viene dalle indagini sulle famiglie del Natural Resources Institute Finland (Luke) e attraversa città e campagna, età e reddito." },
+        { "n": "02", "title": "Diritto di accesso alla natura", "body": "Il jokamiehenoikeus, codificato nella legge finlandese, permette a chiunque — residente o visitatore — di camminare, campeggiare e raccogliere sulla maggior parte dei terreni, chiunque ne sia il proprietario." },
+        { "n": "03", "title": "Niente permessi, niente proprietario", "body": "Si può lasciare la strada, entrare nel bosco e raccogliere. I limiti sono etici (non raccogliere troppo, non danneggiare le piante) e pratici (sapere cosa si raccoglie) — non legali." }
+      ]
     },
     "alert": {
       "kicker": "Legga prima questo",
@@ -446,9 +449,11 @@
     },
     "intro": {
       "lead": "Le esperienze culinarie in Lapponia che valgono i Suoi soldi sono quelle che La mettono di fronte alle persone che fanno questo per vivere.",
-      "p1": "Eviti il trattamento «tour di ristoranti in pullman». I viaggi qui sotto sono in piccoli gruppi, spesso prenotabili direttamente con l'operatore, guidati da raccoglitori sami, chef d'alta cucina o allevatori di renne in attività. Si mangia, ma la cosa più grande è l'accesso, a un branco, alla cucina di uno chef, alla torbiera preferita di un raccoglitore. La maggior parte costa meno di un menù degustazione di Helsinki e dura il doppio.",
-      "p2": "Tre viaggi coprono gran parte di ciò che i visitatori cercano. Il <strong>Viaggio culinario culturale sami</strong> approfondisce l'alimentazione sami, bidos con un allevatore, panificazione tradizionale, sessione di raccolta, contesto culturale. L'<strong>Esperienza d'alta cucina artica</strong> è un'intera giornata intensiva con visita dietro le quinte di cucina, masterclass e cena a più portate con accordi vini, l'equivalente lappone di una giornata culinaria di Copenhagen. La <strong>Spedizione di raccolta selvatica</strong> è il miglior pomeriggio che un principiante possa passare con un raccoglitore sami, imparare l'identificazione sicura, riempire un cesto, poi cucinare il raccolto sul falò.",
-      "p3": "Tutti e tre sono prenotabili tramite GetYourGuide. Mostriamo i risultati di ricerca in tempo reale così Lei vede disponibilità reale e prezzi attuali, gli operatori ruotano, le date cambiano, i prezzi si muovono. Il pulsante \"Verifica disponibilità\" su ogni scheda lancia una ricerca GYG in tempo reale, non una pagina prodotto fissa."
+      "points": [
+        { "n": "01", "title": "Piccoli gruppi, prenotazione diretta", "body": "Dimenticate il giro dei ristoranti in pullman: le esperienze qui sotto sono in piccoli gruppi e spesso si prenotano direttamente dall’operatore." },
+        { "n": "02", "title": "Guidate da chi ci vive", "body": "Raccoglitori sami, chef di alta cucina, allevatori di renne in attività. Si mangia bene, ma il vero prodotto è l’accesso — a una mandria, a una cucina, alla torbiera preferita di un raccoglitore." },
+        { "n": "03", "title": "Prezzi live, non da catalogo", "body": "Ogni scheda porta a una ricerca live su GetYourGuide, non a una pagina prodotto fissa: gli operatori ruotano, date e prezzi cambiano — vedete sempre la disponibilità attuale." }
+      ]
     },
     "listKicker": "Tre viaggi che meritano",
     "listHeadline": "Prenoti uno di questi.",

@@ -3,6 +3,7 @@ import { Trans, useTranslation } from 'react-i18next';
 import { Clock, Users, Flame, ChefHat, ArrowRight } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
+import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -58,24 +59,7 @@ export default function TraditionalRecipes() {
           secondaryCta={{ label: t('traditionalRecipes.hero.secondaryCta'), href: to('/modern-lapland') }}
         />
 
-        {/* Long-form intro */}
-        <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="prose prose-lg max-w-none text-[#002F6C]/85">
-              <p className="text-xl leading-relaxed font-medium text-[#002F6C] mb-6">
-                {t('traditionalRecipes.intro.lead')}
-              </p>
-              <p className="leading-relaxed mb-5">
-                <Trans i18nKey="traditionalRecipes.intro.p1" ns="pages" components={{ em: <em /> }} />
-              </p>
-              <p className="leading-relaxed mb-5">{t('traditionalRecipes.intro.p2')}</p>
-              <p className="leading-relaxed mb-5">
-                <Trans i18nKey="traditionalRecipes.intro.p3" ns="pages" components={{ strong: <strong /> }} />
-              </p>
-              <p className="leading-relaxed">{t('traditionalRecipes.intro.p4')}</p>
-            </div>
-          </div>
-        </section>
+        <IntroPoints sectionKey="traditionalRecipes" />
 
         {/* Cultural context */}
         <section className="bg-white py-16 sm:py-20">

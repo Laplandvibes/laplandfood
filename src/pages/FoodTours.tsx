@@ -2,6 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { MapPin, Calendar } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
+import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -45,19 +46,7 @@ export default function FoodTours() {
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true }}
         />
 
-        {/* Long-form intro */}
-        <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="prose prose-lg max-w-none text-[#002F6C]/85">
-              <p className="text-xl leading-relaxed font-medium text-[#002F6C] mb-6">
-                {t('foodTours.intro.lead')}
-              </p>
-              <p className="leading-relaxed mb-5">{t('foodTours.intro.p1')}</p>
-              <p className="leading-relaxed mb-5" dangerouslySetInnerHTML={{ __html: t('foodTours.intro.p2') }} />
-              <p className="leading-relaxed">{t('foodTours.intro.p3')}</p>
-            </div>
-          </div>
-        </section>
+        <IntroPoints sectionKey="foodTours" />
 
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">

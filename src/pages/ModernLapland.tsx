@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { Sparkles, Award, Utensils } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
+import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -13,7 +14,6 @@ import { useLocale } from '../i18n/useLocale';
 // STYLE's recurring plates, not specific restaurant dishes. The old cards
 // attributed invented dishes and prices to real people (ethics fix 2026-07-07).
 interface Dish { name: string; description: string; technique: string; traditional: string; innovation: string }
-interface IntroPoint { n: string; title: string; body: string }
 interface TechItem { title: string; body: string }
 
 const DISH_IMAGES = [
@@ -27,7 +27,6 @@ export default function ModernLapland() {
   const { t } = useTranslation('pages');
   const { to } = useLocale();
   const dishes = (t('modernLapland.dishes', { returnObjects: true }) as Dish[]) || [];
-  const introPoints = (t('modernLapland.intro.points', { returnObjects: true }) as IntroPoint[]) || [];
   const techniques = (t('modernLapland.techniques.items', { returnObjects: true }) as TechItem[]) || [];
 
   return (
@@ -46,24 +45,7 @@ export default function ModernLapland() {
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}
         />
 
-        {/* Intro — lead + three compact reason cards. The four-paragraph essay
-            this replaced was a wall of text right under the hero. */}
-        <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
-            <p className="text-xl sm:text-2xl leading-relaxed font-medium text-[#002F6C] max-w-3xl mb-10">
-              {t('modernLapland.intro.lead')}
-            </p>
-            <div className="grid md:grid-cols-3 gap-5">
-              {introPoints.map(p => (
-                <div key={p.n} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
-                  <p className="font-heading tracking-wide text-3xl text-vibe-pink mb-2">{p.n}</p>
-                  <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{p.title}</h3>
-                  <p className="text-sm text-[#002F6C]/80 leading-relaxed">{p.body}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+        <IntroPoints sectionKey="modernLapland" />
 
         {/* Signature dishes */}
         <section className="bg-white py-16 sm:py-20">

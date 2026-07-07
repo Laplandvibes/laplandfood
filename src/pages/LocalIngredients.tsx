@@ -3,6 +3,7 @@ import { Trans, useTranslation } from 'react-i18next';
 import { Leaf, Thermometer } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
+import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -40,28 +41,7 @@ export default function LocalIngredients() {
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}
         />
 
-        {/* Long-form intro */}
-        <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="prose prose-lg max-w-none text-[#002F6C]/85">
-              <p className="text-xl leading-relaxed font-medium text-[#002F6C] mb-6">
-                {t('localIngredients.intro.lead')}
-              </p>
-              <p className="leading-relaxed mb-5">
-                {t('localIngredients.intro.p1')}
-              </p>
-              <p className="leading-relaxed mb-5">
-                {t('localIngredients.intro.p2')}
-              </p>
-              <p className="leading-relaxed mb-5">
-                {t('localIngredients.intro.p3')}
-              </p>
-              <p className="leading-relaxed">
-                {t('localIngredients.intro.p4')}
-              </p>
-            </div>
-          </div>
-        </section>
+        <IntroPoints sectionKey="localIngredients" />
 
         {/* Ingredient cards */}
         <section className="bg-white py-16 sm:py-20">
