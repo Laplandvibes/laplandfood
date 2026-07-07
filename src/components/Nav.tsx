@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { Menu, X } from 'lucide-react'
 import LanguageSwitcher from '../i18n/LanguageSwitcher'
+import EcosystemMenu from '../../../shared/EcosystemMenu'
 import { useLocale } from '../i18n/useLocale'
 
 const links = [
@@ -20,7 +21,7 @@ export default function Nav() {
   const [open, setOpen] = useState(false)
   const location = useLocation()
   const { t } = useTranslation('nav')
-  const { to, pathWithoutLocale } = useLocale()
+  const { to, pathWithoutLocale, locale } = useLocale()
 
   useEffect(() => {
     setOpen(false)
@@ -33,21 +34,24 @@ export default function Nav() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#002F6C] border-b border-white/20">
-      <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
-        <Link to={to('/')} aria-label={t('ariaHome')}>
-          <span className="font-heading tracking-wide text-2xl md:text-3xl">
-            <span className="text-vibe-pink drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">#</span>
-            <span className="text-white">LAPLAND</span>
-            <span className="text-vibe-pink">FOOD</span>
-          </span>
-        </Link>
+      <div className="max-w-screen-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3">
+        <div className="flex items-center gap-3 sm:gap-5 shrink-0">
+          <EcosystemMenu lang={locale} currentDomain="laplandfood.com" />
+          <Link to={to('/')} aria-label={t('ariaHome')}>
+            <span className="font-heading tracking-wide text-xl md:text-2xl">
+              <span className="text-vibe-pink drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">#</span>
+              <span className="text-white">LAPLAND</span>
+              <span className="text-vibe-pink">FOOD</span>
+            </span>
+          </Link>
+        </div>
 
-        <div className="hidden lg:flex items-center gap-1">
+        <div className="hidden xl:flex items-center gap-0.5">
           {links.map((link) => (
             <Link
               key={link.to}
               to={to(link.to)}
-              className={`px-3 py-2 text-sm transition-colors duration-200 rounded-md ${
+              className={`px-3 py-2 text-sm whitespace-nowrap transition-colors duration-200 rounded-md ${
                 isActive(link.to)
                   ? 'text-white font-bold'
                   : 'text-white/80 hover:text-white font-medium'
@@ -60,7 +64,7 @@ export default function Nav() {
         </div>
 
         <button
-          className="lg:hidden p-2 text-white min-w-11 min-h-11 flex items-center justify-center"
+          className="xl:hidden p-2 text-white min-w-11 min-h-11 flex items-center justify-center"
           onClick={() => setOpen(!open)}
           aria-label={open ? t('closeMenu') : t('openMenu')}
         >
@@ -69,7 +73,7 @@ export default function Nav() {
       </div>
 
       {open && (
-        <div className="lg:hidden bg-[#002F6C] border-t border-white/20">
+        <div className="xl:hidden bg-[#002F6C] border-t border-white/20">
           <div className="px-4 py-4 flex flex-col gap-1">
             {links.map((link) => (
               <Link
