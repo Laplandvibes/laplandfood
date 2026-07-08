@@ -10,10 +10,12 @@ import { trackHubClick } from '../lib/analytics'
  */
 interface Sibling { title: string; eyebrow: string; body: string }
 
+// DEEP pages that deliver each card's promise ("Book a table" / "Find a bar" /
+// "After-dinner"), NOT the sibling homepage (Vesa 2026-07-08). Verified live 200.
 const SIBLING_HREFS = [
-  'https://laplanddining.com',
-  'https://laplandbars.com',
-  'https://laplandnightlife.com',
+  'https://laplanddining.com/restaurants/',
+  'https://laplandbars.com/bars/',
+  'https://laplandnightlife.com/nightclubs/',
 ]
 
 export default function SisterSiteCTAs() {
