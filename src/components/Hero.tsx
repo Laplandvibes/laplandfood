@@ -20,7 +20,11 @@ export default function Hero() {
         onError={(e) => { e.currentTarget.style.display = 'none' }}
         className="absolute inset-0 w-full h-full object-cover"
       />
-      <div className="absolute inset-0 bg-[linear-gradient(to_top,rgba(0,47,108,0.80)_0%,rgba(0,47,108,0.42)_50%,rgba(0,47,108,0.30)_100%)]" />
+      {/* Lighter, warmer-neutral scrim: enough for text contrast at the centre,
+          but lets the campfire/pot warmth read instead of a flat blue wash.
+          Radial darkens behind the text; vertical only anchors the CTAs. */}
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_68%_62%_at_50%_48%,rgba(0,21,40,0.58)_0%,rgba(0,21,40,0.15)_72%,transparent_100%)]" />
+      <div className="absolute inset-0 bg-[linear-gradient(to_top,rgba(0,21,40,0.52)_0%,rgba(0,21,40,0.10)_45%,transparent_78%)]" />
 
       <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center py-20">
         <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
