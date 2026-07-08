@@ -576,9 +576,8 @@
     },
     "why": {
       "headline": "Pourquoi ce site existe.",
-      "p1": "L'essentiel de ce qui est écrit sur la cuisine lapone en anglais existe dans deux registres. Il y a le registre brochure, « saveurs sâmes magiques sous le soleil de minuit », vague, essoufflé, timide sur les ingrédients. Et il y a le registre académique, ethnographie soigneuse, entièrement référencée, que personne ne lit sur un téléphone avant de réserver le dîner.",
-      "p2": "Nous essayons d'occuper l'entre-deux. Phrases éditoriales sobres. Ingrédients et restaurants précis. Des chiffres quand les chiffres aident, combien de coopératives de rennes, ce que coûte vraiment un menu dégustation, quand se ferme la fenêtre des mûres arctiques et aucun chiffre quand ils ne seraient que remplissage. Écrit depuis l'intérieur du cercle polaire, pas depuis un bureau à Londres ou Helsinki.",
-      "p3": "La barre que nous nous fixons : <strong>un ami qui visite la Laponie pour la première fois doit pouvoir lire trois pages ici et repartir avec assez de contexte pour planifier un vrai voyage culinaire.</strong> Si une section ne passe pas ce test, on la réécrit."
+      "p1": "La plupart de ce qui s’écrit en anglais sur la cuisine lapone tombe dans l’un de deux extrêmes : la prose de brochure (\"saveurs samies magiques sous le soleil de minuit\") ou l’ethnographie universitaire entièrement sourcée que personne ne lit avant de réserver une table. Nous visons l’entre-deux : des phrases simples, des ingrédients précis et des restaurants précis, des chiffres seulement quand ils aident, écrit depuis le nord du cercle polaire et non depuis un bureau à Londres.",
+      "p3": "La barre que nous nous fixons : <strong>un ami qui arrive en Laponie pour la première fois devrait pouvoir lire trois pages ici et repartir avec de quoi planifier un vrai voyage culinaire.</strong> Si une section échoue à ce test, nous la réécrivons."
     },
     "cover": {
       "headline": "Ce que nous couvrons.",

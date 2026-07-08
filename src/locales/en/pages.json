@@ -576,9 +576,8 @@
     },
     "why": {
       "headline": "Why this site exists.",
-      "p1": "Most of what is written about Lapland food in English exists in two registers. There is the brochure register, \"magical Sami flavours under the midnight sun,\" vague, breathless, ingredient-shy. And there is the academic register, careful, fully-referenced ethnography that nobody reads on a phone before booking dinner.",
-      "p2": "We try to occupy the gap. Plain editorial sentences. Specific ingredients and specific restaurants. Numbers where numbers help, how many reindeer cooperatives, what a tasting menu actually costs, when the cloudberry window closes and no numbers at all when they would just be filler. Written from inside the Arctic Circle, not from a desk in London or Helsinki.",
-      "p3": "The bar we hold ourselves to: <strong>a friend visiting Lapland for the first time should be able to read three pages here and leave with enough context to plan a real food trip.</strong> If a section doesn't pass that test we rewrite it."
+      "p1": "Most English-language writing about Lapland food sits at one of two extremes: airy brochure copy (\"magical Sami flavours under the midnight sun\") or fully-footnoted academic ethnography nobody reads before booking dinner. We aim for the gap between them — plain sentences, specific ingredients and specific restaurants, numbers only where numbers help, written from north of the Arctic Circle rather than a desk in London.",
+      "p3": "The bar we hold ourselves to: <strong>a friend arriving in Lapland for the first time should be able to read three pages here and leave with enough to plan a real food trip.</strong> If a section fails that test, we rewrite it."
     },
     "cover": {
       "headline": "What we cover.",

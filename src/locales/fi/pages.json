@@ -577,9 +577,8 @@
     },
     "why": {
       "headline": "Miksi tämä sivusto on olemassa.",
-      "p1": "Suurin osa Lapin ruoasta englanniksi kirjoitetusta löytyy kahdessa rekisterissä. On esiterekisteri, \"taianomaisia saamelaisia makuja keskiyön auringon alla\", epämääräinen, hengästynyt, raaka-aineita karttava. Ja akateeminen rekisteri, huolellinen, täysin lähteistetty etnografia, jota kukaan ei lue puhelimelta ennen päivällisen varaamista.",
-      "p2": "Pyrimme täyttämään välin. Yksin­kertaisia toimitus­lauseita. Tarkkoja raaka-aineita ja tarkkoja ravintoloita. Numeroita silloin kun numerot auttavat, montako paliskuntaa on, mitä tasting menu oikeasti maksaa, milloin hilla­ikkuna sulkeutuu, eikä numeroita silloin kun ne olisivat täytettä. Kirjoitettu napa­piirin pohjois­puolelta, ei pöydän takaa Lontoossa tai Helsingissä.",
-      "p3": "Rima, jonka pidämme itsellemme: <strong>ystävän, joka tulee Lappiin ensimmäistä kertaa, pitäisi pystyä lukemaan kolme sivua täältä ja lähteä riittävällä ymmärryksellä suunnitellakseen oikean ruoka­matkan.</strong> Jos osio ei läpäise tätä testiä, kirjoitamme sen uudelleen."
+      "p1": "Suurin osa Lapin ruoasta englanniksi kirjoitetusta osuu jompaankumpaan ääripäähän: ilmavaan esitekopioon (\"taianomaisia saamelaisia makuja keskiyön auringon alla\") tai täysin lähteistettyyn akateemiseen etnografiaan, jota kukaan ei lue puhelimelta ennen pöydän varaamista. Me pyrimme väliin — yksinkertaisia lauseita, tarkkoja raaka-aineita ja tarkkoja ravintoloita, numeroita vain silloin kun ne auttavat, kirjoitettuna napapiirin pohjoispuolelta eikä pöydän takaa Lontoossa.",
+      "p3": "Rima, jonka pidämme itsellemme: <strong>ensimmäistä kertaa Lappiin tulevan ystävän pitäisi pystyä lukemaan täältä kolme sivua ja lähteä riittävällä ymmärryksellä suunnitellakseen oikean ruokamatkan.</strong> Jos osio ei läpäise tätä testiä, kirjoitamme sen uudelleen."
     },
     "cover": {
       "headline": "Mitä käsittelemme.",

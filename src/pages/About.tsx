@@ -43,7 +43,6 @@ export default function About() {
             </h2>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
               <p className="leading-relaxed mb-5">{t('about.why.p1')}</p>
-              <p className="leading-relaxed mb-5">{t('about.why.p2')}</p>
               <p className="leading-relaxed">
                 <Trans i18nKey="about.why.p3" ns="pages" components={{ strong: <strong /> }} />
               </p>
