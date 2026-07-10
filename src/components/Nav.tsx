@@ -63,13 +63,16 @@ export default function Nav() {
           <LanguageSwitcher className="ml-2" />
         </div>
 
-        <button
-          className="xl:hidden p-2 text-white min-w-11 min-h-11 flex items-center justify-center"
-          onClick={() => setOpen(!open)}
-          aria-label={open ? t('closeMenu') : t('openMenu')}
-        >
-          {open ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
-        </button>
+        <div className="xl:hidden flex items-center gap-1.5 shrink-0">
+          <LanguageSwitcher />
+          <button
+            className="p-2 text-white min-w-11 min-h-11 flex items-center justify-center"
+            onClick={() => setOpen(!open)}
+            aria-label={open ? t('closeMenu') : t('openMenu')}
+          >
+            {open ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+          </button>
+        </div>
       </div>
 
       {open && (
@@ -88,7 +91,6 @@ export default function Nav() {
                 {t(`links.${link.key}`)}
               </Link>
             ))}
-            <div className="px-4 py-3"><LanguageSwitcher /></div>
           </div>
         </div>
       )}
