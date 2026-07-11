@@ -9,6 +9,8 @@ import SisterSiteCTAs from '../components/SisterSiteCTAs';
 import FAQ, { type FAQItem } from '../components/FAQ';
 import { ArrowRight } from 'lucide-react';
 import { useLocale } from '../i18n/useLocale';
+import HomeAdSlots, { MainPartnerBanner } from '../../../shared/HomeAdSlots';
+import { AD_SLOTS } from '../data/adSlots';
 
 interface Pillar { eyebrow: string; title: string; body: string }
 interface CulturePoint { n: string; title: string; body: string }
@@ -58,7 +60,7 @@ const buildHomeSchema = (faqItems: FAQItem[]) => ({
 
 export default function Home() {
   const { t } = useTranslation('pages');
-  const { to } = useLocale();
+  const { to, locale } = useLocale();
   const pillars = (t('home.pillars', { returnObjects: true }) as Pillar[]) || [];
   const culturePoints = (t('home.culture', { returnObjects: true }) as CulturePoint[]) || [];
   const faqItems = (t('home.faq.items', { returnObjects: true }) as FAQItem[]) || [];
@@ -69,6 +71,10 @@ export default function Home() {
       <div className="min-h-screen bg-white">
         <Nav />
         <Hero />
+
+        {/* PÄÄKUMPPANI-banneri heti heron alla — sivun paras mainospaikka,
+            tyhjänä kompakti house-ad → LV Media -portaali */}
+        <MainPartnerBanner config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
 
         {/* Intro band */}
         <section className="bg-white py-16 sm:py-20">
@@ -99,6 +105,10 @@ export default function Home() {
             </p>
           </div>
         </section>
+
+        {/* Kumppaniosio ylhäällä (jaettu malli): kakkospääkumppani + 6
+            premium-paikkaa — pääkumppanit eivät näy vierekkäin (banneri ↑) */}
+        <HomeAdSlots config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
 
         {/* Pillar grid */}
         <section className="bg-[#F8FAFC] py-20 sm:py-24">
