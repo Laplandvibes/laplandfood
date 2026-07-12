@@ -14,6 +14,7 @@ const About = lazy(() => import('./pages/About'))
 const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'))
 const Terms = lazy(() => import('./pages/Terms'))
 const CookiePolicy = lazy(() => import('./pages/CookiePolicy'))
+const NotFound = lazy(() => import('./pages/NotFound'))
 import { useLocale } from './i18n/useLocale'
 import LocaleAutoRedirect from './i18n/LocaleAutoRedirect'
 import { useTranslation } from 'react-i18next'
@@ -59,7 +60,7 @@ export default function App() {
         {ROUTES.map(({ path, element }) => (
           <Route key={path} path={path} element={element} />
         ))}
-        <Route path="*" element={<Home />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       </Suspense>
       <LocalisedCookieBanner />
