@@ -18,7 +18,7 @@ export default function Footer() {
     { name: tx('footer.foodPillars.fineDining')  ?? 'Fine Dining',  href: 'https://laplanddining.com' },
     { name: tx('footer.foodPillars.barsPubs')    ?? 'Bars & Pubs',  href: 'https://laplandbars.com' },
     { name: tx('footer.foodPillars.nightlife')   ?? 'Nightlife',    href: 'https://laplandnightlife.com' },
-    { name: tx('footer.foodPillars.thingsToDo')  ?? 'Things to Do', href: 'https://laplandactivities.online' },
+    { name: tx('footer.foodPillars.thingsToDo')  ?? 'Things to Do', href: 'https://laplandactivities.fi' },
     { name: tx('footer.foodPillars.stays')       ?? 'Where to Stay',href: 'https://laplandstays.com' },
     { name: tx('footer.foodPillars.travelGuide') ?? 'Travel Guide', href: 'https://laplandvisit.com' },
   ]
