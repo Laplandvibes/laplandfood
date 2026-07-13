@@ -1,0 +1,94 @@
+{
+  "site": {
+    "name": "LaplandFood",
+    "tagline": "Finska Lapplands matkultur, råvaror och recept"
+  },
+  "lang": {
+    "currentEN": "EN",
+    "currentFI": "FI",
+    "switchTo": "Byt språk"
+  },
+  "cta": {
+    "readMore": "Läs mer",
+    "viewAll": "Visa alla",
+    "loading": "Laddar…",
+    "subscribe": "Prenumerera",
+    "close": "Stäng"
+  },
+  "affiliateDisclosure": {
+    "page": "Den här sidan innehåller affiliatelänkar. Om du bokar via dem kan LaplandVibes få provision utan att det kostar dig något extra."
+  },
+  "footer": {
+    "networkBadge": "Nätverket för finska Lappland",
+    "tagline": "Den ledande digitala guiden för resor i finska Lappland.",
+    "groups": {
+      "stay": "Bo",
+      "eatDrink": "Äta och dricka",
+      "do": "Göra",
+      "explore": "Upptäck",
+      "essentials": "Praktiskt"
+    },
+    "travelGuideKicker": "Reseguide för Lappland",
+    "foodPillars": {
+      "fineDining": "Fine dining",
+      "barsPubs": "Barer och pubar",
+      "nightlife": "Nöjesliv",
+      "thingsToDo": "Att göra",
+      "stays": "Var du bor",
+      "travelGuide": "Reseguide"
+    },
+    "about": {
+      "eyebrow": "Om LaplandVibes",
+      "body": "Den ledande guiden till finska Lappland, från norrskenet till midnattssolen. Utvalda upplevelser, insidertips och det praktiska du behöver för din resa i Arktis.",
+      "badge": "Oberoende underhållen · källor angivna"
+    },
+    "spottedError": {
+      "title": "Hittade du ett fel?",
+      "body": "Ser du något som behöver rättas? Säg till, så fixar vi det direkt.",
+      "cta": "Rapportera ett fel →"
+    },
+    "partner": {
+      "title": "Samarbeta med oss",
+      "body": "Annonsera eller samarbeta på 27 Lapplandssajter.",
+      "cta": "Hör av dig →"
+    },
+    "press": {
+      "title": "Press och media",
+      "body": "Redaktionella samarbeten och presskit.",
+      "cta": "Pressförfrågningar →"
+    },
+    "affiliate": "Den här sajten innehåller affiliatelänkar. Om du bokar via dem kan LaplandVibes få provision utan att det kostar dig något extra.",
+    "copyright": "{{year}} #LaplandVibes, en del av #LaplandVibes-nätverket",
+    "websiteBy": "Webbplats av Yrityspaketit.fi",
+    "legal": {
+      "privacy": "Integritetspolicy",
+      "cookie": "Cookiepolicy",
+      "terms": "Användarvillkor",
+      "contact": "Kontakt"
+    },
+    "siteLabels": {
+      "hotelDeals": "Hotellerbjudanden",
+      "staysCabins": "Boenden och stugor",
+      "whereToStay": "Var du bor",
+      "familyFriendly": "Familjevänligt",
+      "localFood": "Lokal mat",
+      "fineDining": "Fine dining",
+      "barsPubs": "Barer och pubar",
+      "activities": "Aktiviteter",
+      "huskySafaris": "Huskysafari",
+      "skiResorts": "Skidorter",
+      "snowmobileTours": "Skotersafari",
+      "spaWellness": "Spa och wellness",
+      "nightlife": "Nöjesliv",
+      "natureParks": "Natur och nationalparker",
+      "travelGuide": "Reseguide",
+      "christmas": "Jul i Lappland",
+      "giftsSouvenirs": "Presenter och souvenirer",
+      "travelBlog": "Reseblogg",
+      "dealsOffers": "Erbjudanden",
+      "transport": "Transport",
+      "carRental": "Hyrbil",
+      "workInLapland": "Jobba i Lappland"
+    }
+  }
+}

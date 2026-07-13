@@ -5,9 +5,9 @@
     <script>
       (function () {
         try {
-          var T = {"en":"LaplandFood — How Finland Eats: Ingredients, Recipes, Michelin & Food Tours","fi":"LaplandFood — Suomen ruoka: raaka-aineet, reseptit, Michelin ja ruokakierroksia","de":"LaplandFood — Wie Finnland isst: Zutaten, Rezepte, Michelin & Foodtouren","ja":"LaplandFood — フィンランドの食: 食材、レシピ、ミシュランとフードツアー","es":"LaplandFood — la comida en Finlandia: ingredientes, recetas, Michelin y tours gastronómicos","pt-br":"LaplandFood — como a Finlândia come: ingredientes, receitas, Michelin e tours gastronômicos","zh-cn":"LaplandFood — 芬兰美食: 食材、食谱、米其林与美食之旅","kr":"LaplandFood — 핀란드의 음식: 재료, 레시피, 미슐랭과 푸드 투어","fr":"LaplandFood — comment la Finlande mange : ingrédients, recettes, Michelin et tours gastronomiques","it":"LaplandFood — come mangia la Finlandia: ingredienti, ricette, Michelin e tour gastronomici","nl":"LaplandFood — hoe Finland eet: ingrediënten, recepten, Michelin en culinaire tours"};
+          var T = {"en":"LaplandFood — How Finland Eats: Ingredients, Recipes, Michelin & Food Tours","fi":"LaplandFood — Suomen ruoka: raaka-aineet, reseptit, Michelin ja ruokakierroksia","de":"LaplandFood — Wie Finnland isst: Zutaten, Rezepte, Michelin & Foodtouren","ja":"LaplandFood — フィンランドの食: 食材、レシピ、ミシュランとフードツアー","es":"LaplandFood — la comida en Finlandia: ingredientes, recetas, Michelin y tours gastronómicos","pt-br":"LaplandFood — como a Finlândia come: ingredientes, receitas, Michelin e tours gastronômicos","zh-cn":"LaplandFood — 芬兰美食: 食材、食谱、米其林与美食之旅","kr":"LaplandFood — 핀란드의 음식: 재료, 레시피, 미슐랭과 푸드 투어","fr":"LaplandFood — comment la Finlande mange : ingrédients, recettes, Michelin et tours gastronomiques","it":"LaplandFood — come mangia la Finlandia: ingredienti, ricette, Michelin e tour gastronomici","nl":"LaplandFood — hoe Finland eet: ingrediënten, recepten, Michelin en culinaire tours","sv":"LaplandFood — så äter Finland: råvaror, recept, Michelin och matturer"};
           var path = location.pathname || '/';
-          var map = { fi: 'fi', de: 'de', ja: 'ja', es: 'es', br: 'pt-br', cn: 'zh-cn', kr: 'kr', fr: 'fr', it: 'it', nl: 'nl' };
+          var map = { fi: 'fi', de: 'de', ja: 'ja', es: 'es', br: 'pt-br', cn: 'zh-cn', kr: 'kr', fr: 'fr', it: 'it', nl: 'nl', sv: 'sv' };
           var loc = 'en';
           for (var p in map) {
             if (path === '/' + p || path.indexOf('/' + p + '/') === 0) { loc = map[p]; break; }
@@ -23,12 +23,12 @@
         try {
           var path = location.pathname || '/';
           // Already on a locale prefix? — never override
-          var prefixes = ['/fi','/de','/ja','/es','/br','/cn','/kr','/fr','/it','/nl'];
+          var prefixes = ['/fi','/de','/ja','/es','/br','/cn','/kr','/fr','/it','/nl','/sv'];
           for (var i = 0; i < prefixes.length; i++) {
             if (path === prefixes[i] || path.indexOf(prefixes[i] + '/') === 0) return;
           }
           // Only redirect from bare root or sub-pages without a locale prefix
-          var map = { fi: 'fi', de: 'de', ja: 'ja', es: 'es', 'pt-br': 'br', 'zh-cn': 'cn', ko: 'kr', fr: 'fr', it: 'it', nl: 'nl' };
+          var map = { fi: 'fi', de: 'de', ja: 'ja', es: 'es', 'pt-br': 'br', 'zh-cn': 'cn', ko: 'kr', fr: 'fr', it: 'it', nl: 'nl', sv: 'sv' };
           var stored = null;
           try { stored = localStorage.getItem('lv_locale_choice'); } catch (e) {}
           var target = null;
@@ -52,6 +52,7 @@
               if (l.indexOf('fr') === 0) { target = '/fr'; break; }
               if (l.indexOf('it') === 0) { target = '/it'; break; }
               if (l.indexOf('nl') === 0) { target = '/nl'; break; }
+              if (l.indexOf('sv') === 0) { target = '/sv'; break; }
             }
           }
           if (!target) return;

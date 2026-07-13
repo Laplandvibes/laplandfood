@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "Hem",
+    "ingredients": "Råvaror",
+    "recipes": "Recept",
+    "modern": "Modernt",
+    "foraging": "Plockning",
+    "michelin": "Michelin",
+    "foodTours": "Matturer",
+    "about": "Om oss"
+  },
+  "ariaHome": "LaplandFood-startsida",
+  "ariaMain": "Huvudnavigering",
+  "menu": "MENY",
+  "openMenu": "Öppna menyn",
+  "closeMenu": "Stäng menyn"
+}

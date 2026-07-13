@@ -25,6 +25,7 @@ const SITE_NAME = 'LaplandFood';
 const OG_LOCALE: Record<Locale, string> = {
   en: 'en_US', fi: 'fi_FI', de: 'de_DE', ja: 'ja_JP', es: 'es_ES',
   'pt-BR': 'pt_BR', 'zh-CN': 'zh_CN', ko: 'ko_KR', fr: 'fr_FR', it: 'it_IT', nl: 'nl_NL',
+  sv: 'sv_SE',
 };
 
 function injectInLanguage(node: unknown, bcp47: string): unknown {

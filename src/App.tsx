@@ -26,7 +26,7 @@ function LocalisedCookieBanner() {
   return <CookieBanner lang={i18n.language} />
 }
 
-const PREFIXES = ['', '/fi', '/de', '/ja', '/es', '/br', '/cn', '/kr', '/fr', '/it', '/nl'];
+const PREFIXES = ['', '/fi', '/de', '/ja', '/es', '/br', '/cn', '/kr', '/fr', '/it', '/nl', '/sv'];
 const PAGES: { path: string; element: React.ReactNode }[] = [
   { path: '/', element: <Home /> },
   { path: '/local-ingredients', element: <LocalIngredients /> },
