@@ -49,6 +49,12 @@
     "pillarsHeadline": "Commencez ici.",
     "pillarsLead": "Six cartes de la culture culinaire finlandaise. Choisissez-en une et plongez, chaque page renvoie aux autres.",
     "readLabel": "Lire",
+    "stats": {
+      "ingredients": "Ingrédients sauvages",
+      "recipes": "Recettes traditionnelles",
+      "seasons": "Saisons sames de l’année",
+      "kitchens": "Cuisines phares de Laponie"
+    },
     "pillars": [
       { "eyebrow": "Pilier 01", "title": "Ingrédients locaux", "body": "Ce qui pousse, nage et paît vraiment ici, renne, mûres arctiques, myrtilles, poissons arctiques, herbes cueillies. Saisons, approvisionnement, et pourquoi le goût est ce qu'il est." },
       { "eyebrow": "Pilier 02", "title": "Recettes traditionnelles", "body": "Ragoût de renne bidos, pain plat sâme, soupe de poisson de lac, kisseli de baies sauvages, les recettes qui ont nourri le Sápmi à travers des hivers arctiques pendant des milliers d'années." },

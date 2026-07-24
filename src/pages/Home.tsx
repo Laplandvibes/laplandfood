@@ -65,12 +65,38 @@ export default function Home() {
   const culturePoints = (t('home.culture', { returnObjects: true }) as CulturePoint[]) || [];
   const faqItems = (t('home.faq.items', { returnObjects: true }) as FAQItem[]) || [];
 
+  // Stat tiles use REAL counts derived from the same localized data arrays the
+  // pillar pages render — the numbers can never drift from the actual content.
+  const stats = [
+    { value: ((t('localIngredients.ingredients', { returnObjects: true }) as unknown[]) || []).length, label: t('home.stats.ingredients') },
+    { value: ((t('traditionalRecipes.recipes', { returnObjects: true }) as unknown[]) || []).length, label: t('home.stats.recipes') },
+    { value: ((t('traditionalRecipes.seasons.items', { returnObjects: true }) as unknown[]) || []).length, label: t('home.stats.seasons') },
+    { value: ((t('michelinDining.lapland.rooms', { returnObjects: true }) as unknown[]) || []).length, label: t('home.stats.kitchens') },
+  ].filter(s => s.value > 0);
+
   return (
     <>
       <SEO titleKey="home.title" descriptionKey="home.description" path={'/'} schema={buildHomeSchema(faqItems)} />
       <div className="min-h-screen bg-white">
         <Nav />
         <Hero />
+
+        {/* Stat glass tiles overlapping the hero bottom — real numbers only */}
+        <section aria-label="LaplandFood in numbers" className="relative z-10 -mt-16 md:-mt-20">
+          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
+              {stats.map(s => (
+                <div
+                  key={s.label}
+                  className="rounded-2xl border border-[#002F6C]/10 bg-white/90 backdrop-blur-md p-4 md:p-5 text-center shadow-[0_8px_30px_rgba(0,31,74,0.16)]"
+                >
+                  <p className="font-heading tracking-wide text-4xl md:text-5xl text-vibe-pink leading-none">{s.value}</p>
+                  <p className="mt-2 text-[11px] md:text-xs uppercase tracking-[0.14em] font-semibold text-[#002F6C]/70 leading-snug">{s.label}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
 
         {/* PÄÄKUMPPANI-banneri heti heron alla — sivun paras mainospaikka,
             tyhjänä kompakti house-ad → LV Media -portaali */}

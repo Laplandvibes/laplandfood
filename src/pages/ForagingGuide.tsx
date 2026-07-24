@@ -43,6 +43,7 @@ export default function ForagingGuide() {
           imageAlt="Hand picking ripe cloudberries from a low Arctic bog, soft midnight-sun light from low on the horizon"
           primaryCta={{ label: t('foragingGuide.hero.primaryCta'), href: to('/food-tours') }}
           secondaryCta={{ label: t('foragingGuide.hero.secondaryCta'), href: to('/local-ingredients') }}
+          pills={items.map(it => it.name)}
         />
 
         <IntroPoints sectionKey="foragingGuide" />

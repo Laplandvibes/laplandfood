@@ -49,6 +49,12 @@
     "pillarsHeadline": "Inizi da qui.",
     "pillarsLead": "Sei mappe della cultura gastronomica finlandese. Ne scelga una e vada a fondo, ogni pagina rimanda alle altre.",
     "readLabel": "Leggi",
+    "stats": {
+      "ingredients": "Ingredienti selvatici",
+      "recipes": "Ricette tradizionali",
+      "seasons": "Stagioni sami dell’anno",
+      "kitchens": "Cucine di punta della Lapponia"
+    },
     "pillars": [
       { "eyebrow": "Pilastro 01", "title": "Ingredienti locali", "body": "Cosa cresce, nuota e pascola davvero qui, renna, lamponi artici, mirtilli, pesce artico, erbe raccolte. Stagioni, approvvigionamento e perché il gusto è quello che è." },
       { "eyebrow": "Pilastro 02", "title": "Ricette tradizionali", "body": "Stufato di renna bidos, pane piatto sami, zuppa di pesce di lago, kissel di bacche selvatiche, le ricette che hanno nutrito il Sápmi attraverso gli inverni artici per migliaia di anni." },

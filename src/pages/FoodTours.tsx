@@ -44,6 +44,7 @@ export default function FoodTours() {
           imageUrl="/images/hero-tours.jpg"
           imageAlt="Small group around a campfire in an Arctic forest, cooking foraged mushrooms over a kettle, golden-hour light"
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true }}
+          pills={tours.map(tour => tour.location)}
         />
 
         <IntroPoints sectionKey="foodTours" />

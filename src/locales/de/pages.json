@@ -49,6 +49,12 @@
     "pillarsHeadline": "Fangen Sie hier an.",
     "pillarsLead": "Sechs Karten zur finnischen Esskultur. Wählen Sie eine und arbeiten Sie sich durch, jede Seite verlinkt zu den anderen.",
     "readLabel": "Lesen",
+    "stats": {
+      "ingredients": "Wilde Zutaten im Porträt",
+      "recipes": "Traditionelle Rezepte",
+      "seasons": "Samische Jahreszeiten",
+      "kitchens": "Spitzenküchen in Lappland"
+    },
     "pillars": [
       { "eyebrow": "Säule 01", "title": "Lokale Zutaten", "body": "Was hier tatsächlich wächst, schwimmt und wandert, Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Saisonen, Herkunft und der Grund für den Geschmack." },
       { "eyebrow": "Säule 02", "title": "Traditionelle Rezepte", "body": "Bidos-Rentiereintopf, Sámi-Brot, Fischsuppe, Beerenkissel, Rezepte, die Sápmi seit Tausenden von Jahren durch die arktischen Winter getragen haben." },

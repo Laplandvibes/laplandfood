@@ -49,6 +49,12 @@
     "pillarsHeadline": "Start here.",
     "pillarsLead": "Six maps of Finnish food culture. Pick one and go deep, every page links to the others.",
     "readLabel": "Read",
+    "stats": {
+      "ingredients": "Wild ingredients profiled",
+      "recipes": "Traditional recipes",
+      "seasons": "Sami seasons of the year",
+      "kitchens": "Lapland flagship kitchens"
+    },
     "pillars": [
       { "eyebrow": "Pillar 01", "title": "Local Ingredients", "body": "What actually grows, swims, and grazes here, reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Seasons, sourcing, and why the flavour is what it is." },
       { "eyebrow": "Pillar 02", "title": "Traditional Recipes", "body": "Bidos reindeer stew, Sami flatbread, lake-fish soup, wild-berry kissel, the recipes that fed Sápmi through Arctic winters for thousands of years." },

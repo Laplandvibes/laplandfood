@@ -11,6 +11,8 @@ interface PageHeroProps {
   imageAlt: string
   primaryCta?: { label: string; href: string; external?: boolean }
   secondaryCta?: { label: string; href: string; external?: boolean }
+  /** Fact pills derived from the page's existing localized data (names, places). */
+  pills?: string[]
   children?: ReactNode
 }
 
@@ -18,8 +20,11 @@ interface PageHeroProps {
  * PageHero — top-of-pillar-page hero band for laplandfood.com.
  * Image background + Finland-blue overlay (matches laplandwellness convention).
  * Use min-h with svh so iOS Safari URL-bar dynamics don't crop the H1.
+ * Content is centred below lg (phones/tablets read it as a poster), left-aligned
+ * from lg up where the left scrim keeps the photo visible on the right.
  */
 export default function PageHero({
+  eyebrow,
   title,
   titleHighlight,
   subtitle,
@@ -27,6 +32,7 @@ export default function PageHero({
   imageAlt,
   primaryCta,
   secondaryCta,
+  pills,
   children,
 }: PageHeroProps) {
   const renderCta = (cta: { label: string; href: string; external?: boolean }, primary: boolean) => {
@@ -59,11 +65,18 @@ export default function PageHero({
         onError={(e) => { e.currentTarget.style.display = 'none' }}
         className="absolute inset-0 w-full h-full object-cover"
       />
-      {/* Left scrim so the left-aligned H1 stays legible over any photo; image still shows on the right */}
-      <div className="absolute inset-0 bg-gradient-to-r from-[#001F4A]/70 via-[#002F6C]/30 to-transparent" />
+      {/* Below lg the text is centred, so use an even scrim; from lg the left
+          scrim keeps the left-aligned H1 legible while the photo shows right. */}
+      <div className="absolute inset-0 bg-[#001F4A]/50 lg:hidden" />
+      <div className="absolute inset-0 hidden lg:block bg-gradient-to-r from-[#001F4A]/70 via-[#002F6C]/30 to-transparent" />
       <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/40 to-transparent" />
 
-      <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center min-h-[60svh] md:min-h-[68svh]">
+      <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center items-center text-center lg:items-start lg:text-left min-h-[60svh] md:min-h-[68svh]">
+        {eyebrow && (
+          <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-4 drop-shadow-[0_2px_12px_rgba(0,15,40,0.9)]">
+            {eyebrow}
+          </p>
+        )}
         <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.95] mb-6 max-w-4xl drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">
           {title}{' '}
           {titleHighlight && (
@@ -72,9 +85,22 @@ export default function PageHero({
             </span>
           )}
         </h1>
-        <p className="text-base sm:text-lg md:text-xl text-white/95 max-w-3xl mb-8 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,15,40,0.85)]">
+        <p className="text-base sm:text-lg md:text-xl text-white/95 max-w-3xl mb-6 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,15,40,0.85)]">
           {subtitle}
         </p>
+        {pills && pills.length > 0 && (
+          <div className="flex flex-wrap justify-center lg:justify-start gap-2 mb-8 max-w-3xl">
+            {pills.map(pill => (
+              <span
+                key={pill}
+                className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 backdrop-blur px-3.5 py-1.5 text-xs sm:text-sm text-white/95"
+              >
+                <span className="w-1.5 h-1.5 rounded-full bg-vibe-pink flex-shrink-0" aria-hidden="true" />
+                {pill}
+              </span>
+            ))}
+          </div>
+        )}
         {(primaryCta || secondaryCta) && (
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
             {primaryCta && renderCta(primaryCta, true)}

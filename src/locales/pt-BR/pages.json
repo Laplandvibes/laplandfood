@@ -49,6 +49,12 @@
     "pillarsHeadline": "Comece por aqui.",
     "pillarsLead": "Seis mapas da cultura gastronômica finlandesa. Escolha um e leia a fundo, cada página leva às outras.",
     "readLabel": "Ler",
+    "stats": {
+      "ingredients": "Ingredientes silvestres",
+      "recipes": "Receitas tradicionais",
+      "seasons": "Estações sami do ano",
+      "kitchens": "Cozinhas de destaque da Lapônia"
+    },
     "pillars": [
       { "eyebrow": "Pilar 01", "title": "Ingredientes locais", "body": "O que realmente cresce, nada e pasta aqui, rena, amoras árticas, mirtilos, peixe ártico, ervas silvestres. Estações, procedência e por que o sabor é o que é." },
       { "eyebrow": "Pilar 02", "title": "Receitas tradicionais", "body": "Ensopado de rena bidos, pão sami, sopa de peixe de lago, kissel de frutas silvestres, as receitas que alimentaram a Sápmi pelos invernos árticos por milhares de anos." },

@@ -26,7 +26,8 @@ export default function Hero() {
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_68%_62%_at_50%_48%,rgba(0,21,40,0.58)_0%,rgba(0,21,40,0.15)_72%,transparent_100%)]" />
       <div className="absolute inset-0 bg-[linear-gradient(to_top,rgba(0,21,40,0.52)_0%,rgba(0,21,40,0.10)_45%,transparent_78%)]" />
 
-      <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center py-20">
+      {/* pb clears the stat-tile band that overlaps the hero bottom (-mt on Home) */}
+      <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center pt-20 pb-32 md:pb-36">
         <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
           {t('hero.kicker')}
         </p>

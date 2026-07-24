@@ -49,6 +49,12 @@
     "pillarsHeadline": "Begin hier.",
     "pillarsLead": "Zes kaarten van de Finse eetcultuur. Kies er één en werk u erdoor, elke pagina linkt naar de andere.",
     "readLabel": "Lees",
+    "stats": {
+      "ingredients": "Wilde ingrediënten uitgelicht",
+      "recipes": "Traditionele recepten",
+      "seasons": "Sami-seizoenen",
+      "kitchens": "Topkeukens in Lapland"
+    },
     "pillars": [
       { "eyebrow": "Pijler 01", "title": "Lokale ingrediënten", "body": "Wat hier echt groeit, zwemt en graast, rendier, kruipbramen, blauwe bosbessen, Arctische vis, geplukte kruiden. Seizoenen, herkomst en waarom de smaak is wat hij is." },
       { "eyebrow": "Pijler 02", "title": "Traditionele recepten", "body": "Rendierstoofpot bidos, Samische platbrood, meervissoep, kissel van wilde bessen, de recepten die Sápmi duizenden jaren door Arctische winters voedden." },

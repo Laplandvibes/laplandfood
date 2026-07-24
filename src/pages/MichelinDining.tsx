@@ -8,6 +8,7 @@ import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
 import { useLocale } from '../i18n/useLocale';
+import { withReferral } from '../lib/withReferral';
 
 interface Fact { title: string; body: string }
 interface HelsinkiRoom { name: string; where: string; angle: string; band: string }
@@ -19,6 +20,19 @@ const FACT_ICONS = [Award, Sparkles, ChefHat];
 const NOTE_ICONS = [Clock, Wine, Leaf, Users];
 const LAPLAND_IMAGES = ['/images/restaurant-nili.jpg', '/images/restaurant-aanaar.jpg', '/images/restaurant-rakas.jpg'];
 const LAPLAND_SIDS = ['rovaniemi', 'inari', 'arctic_treehouse'];
+// Index-mapped to michelinDining.helsinki.rooms (Olo, Palace, Demo, Grön,
+// Inari, Ora, Finnjävel, Ultima — same order in all 12 locales). Interior
+// mood shots from the existing batch-4 image set.
+const HELSINKI_IMAGES = [
+  '/images/hki-olo.jpg',
+  '/images/hki-palace.jpg',
+  '/images/hki-demo.jpg',
+  '/images/hki-gron.jpg',
+  '/images/hki-inari.jpg',
+  '/images/hki-ora.jpg',
+  '/images/hki-finnjavel.jpg',
+  '/images/hki-ultima.jpg',
+];
 
 export default function MichelinDining() {
   const { t } = useTranslation('pages');
@@ -43,6 +57,7 @@ export default function MichelinDining() {
           imageAlt="Tasting-menu plating with foraged herbs and gold-rimmed dishware on a dark linen table"
           primaryCta={{ label: t('michelinDining.hero.primaryCta'), href: `${to('/michelin-dining')}#lapland` }}
           secondaryCta={{ label: t('michelinDining.hero.secondaryCta'), href: `${to('/michelin-dining')}#helsinki` }}
+          pills={laplandRooms.map(r => r.name)}
         />
 
         {/* Three structural facts */}
@@ -57,7 +72,7 @@ export default function MichelinDining() {
               </h2>
               <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed">
                 {t('michelinDining.factsLeadPrefix')}{' '}
-                <a className="text-vibe-pink underline-offset-4 hover:underline" href="https://guide.michelin.com/en/fi/restaurants" target="_blank" rel="noopener">
+                <a className="text-vibe-pink underline-offset-4 hover:underline" href={withReferral('https://guide.michelin.com/en/fi/restaurants', 'food_michelin_guide')} target="_blank" rel="noopener">
                   guide.michelin.com
                 </a>
                 {t('michelinDining.factsLeadSuffix')}
@@ -100,16 +115,22 @@ export default function MichelinDining() {
             </div>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-              {helsinkiRooms.map(r => (
-                <div key={r.name} className="rounded-2xl bg-white border border-[#002F6C]/10 p-6">
-                  <div className="flex items-start justify-between gap-2 mb-2">
-                    <h3 className="font-heading tracking-wide text-xl text-[#002F6C]">{r.name}</h3>
-                    <span className="text-xs font-bold text-vibe-pink whitespace-nowrap mt-1">{r.band}</span>
+              {helsinkiRooms.map((r, idx) => (
+                <div key={r.name} className="rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden">
+                  <div className="relative h-36 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
+                    <img src={HELSINKI_IMAGES[idx]} alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.65) 0%, rgba(0,31,74,0.08) 60%)' }} />
+                    <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">{r.name}</h3>
                   </div>
-                  <p className="text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/75 flex items-center gap-1 mb-3">
-                    <MapPin className="w-3 h-3" /> {r.where}
-                  </p>
-                  <p className="text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
+                  <div className="p-5">
+                    <div className="flex items-start justify-between gap-2 mb-2">
+                      <p className="text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/75 flex items-center gap-1">
+                        <MapPin className="w-3 h-3" /> {r.where}
+                      </p>
+                      <span className="text-xs font-bold text-vibe-pink whitespace-nowrap">{r.band}</span>
+                    </div>
+                    <p className="text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
+                  </div>
                 </div>
               ))}
             </div>

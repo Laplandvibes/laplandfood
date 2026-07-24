@@ -49,6 +49,12 @@
     "pillarsHeadline": "Aloita tästä.",
     "pillarsLead": "Kuusi karttaa suomalaiseen ruokakulttuuriin. Valitse yksi ja avaa aihe perusteellisesti, jokainen sivu linkittyy muihin.",
     "readLabel": "Lue",
+    "stats": {
+      "ingredients": "Villiraaka-ainetta esittelyssä",
+      "recipes": "Perinnereseptiä",
+      "seasons": "Saamelaista vuodenaikaa",
+      "kitchens": "Lapin kärkikeittiötä"
+    },
     "pillars": [
       { "eyebrow": "Pilari 01", "title": "Paikalliset raaka-aineet", "body": "Mitä täällä oikeasti kasvaa, ui ja vaeltaa, poro, hilla, mustikka, arktinen kala, keräillyt yrtit. Sesongit, alkuperät ja syyt makuun." },
       { "eyebrow": "Pilari 02", "title": "Perinnereseptit", "body": "Bidos-poromuhennos, saamelainen leipä, kalakeitto, marjakiisseli, reseptit, jotka ravitsivat Sápmin arktiset talvet tuhansien vuosien ajan." },

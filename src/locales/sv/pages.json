@@ -49,6 +49,12 @@
     "pillarsHeadline": "Börja här.",
     "pillarsLead": "Sex kartor över finsk matkultur. Välj en och gå på djupet, varje sida länkar till de andra.",
     "readLabel": "Läs",
+    "stats": {
+      "ingredients": "Vilda råvaror i fokus",
+      "recipes": "Traditionella recept",
+      "seasons": "Samiska årstider",
+      "kitchens": "Toppkök i Lappland"
+    },
     "pillars": [
       { "eyebrow": "Pelare 01", "title": "Lokala råvaror", "body": "Vad som faktiskt växer, simmar och betar här: ren, hjortron, blåbär, arktisk fisk, plockade örter. Säsonger, ursprung och varför smaken är som den är." },
       { "eyebrow": "Pelare 02", "title": "Traditionella recept", "body": "Bidos-rengryta, samiskt tunnbröd, insjöfisksoppa, kräm på vilda bär, recepten som mättade Sápmi genom arktiska vintrar i tusentals år." },

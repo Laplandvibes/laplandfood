@@ -39,6 +39,7 @@ export default function LocalIngredients() {
           imageAlt="Foraged cloudberries, lingonberries, and wild mushrooms arranged on rough birch wood at the edge of an Arctic forest"
           primaryCta={{ label: t('localIngredients.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}
+          pills={ingredients.map(i => i.name)}
         />
 
         <IntroPoints sectionKey="localIngredients" />
@@ -95,6 +96,9 @@ export default function LocalIngredients() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5">
               {t('localIngredients.reindeerDeep.headline')}
             </h2>
+            <div className="relative rounded-2xl overflow-hidden h-52 sm:h-64 md:h-72 mb-8 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+              <img src="/images/lead-reindeer.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+            </div>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
               <p className="leading-relaxed mb-5">
                 <Trans i18nKey="localIngredients.reindeerDeep.p1" ns="pages" components={{ em: <em /> }} />
@@ -118,6 +122,9 @@ export default function LocalIngredients() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5">
               {t('localIngredients.cloudberryDeep.headline')}
             </h2>
+            <div className="relative rounded-2xl overflow-hidden h-52 sm:h-64 md:h-72 mb-8 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+              <img src="/images/lead-cloudberry.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+            </div>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
               <p className="leading-relaxed mb-5">
                 <Trans i18nKey="localIngredients.cloudberryDeep.p1" ns="pages" components={{ em: <em /> }} />
@@ -140,6 +147,9 @@ export default function LocalIngredients() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5">
               {t('localIngredients.fishDeep.headline')}
             </h2>
+            <div className="relative rounded-2xl overflow-hidden h-52 sm:h-64 md:h-72 mb-8 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+              <img src="/images/lead-lake-fish.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+            </div>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
               <p className="leading-relaxed mb-5">
                 <Trans i18nKey="localIngredients.fishDeep.p1" ns="pages" components={{ strong: <strong /> }} />

@@ -23,6 +23,15 @@ const DISH_IMAGES = [
   '/images/dish-deconstructed-bidos.jpg',
 ];
 
+// Index-mapped to modernLapland.techniques.items (same order in all 12 locales).
+const TECH_IMAGES = [
+  '/images/tech-lacto.jpg',
+  '/images/tech-sous-vide.jpg',
+  '/images/tech-cold-curing.jpg',
+  '/images/tech-foraged-garnish.jpg',
+  '/images/tech-whole-ingredient.jpg',
+];
+
 export default function ModernLapland() {
   const { t } = useTranslation('pages');
   const { to } = useLocale();
@@ -43,6 +52,7 @@ export default function ModernLapland() {
           imageAlt="Plated tasting-menu dish of pink-cooked reindeer, foraged herbs, and bilberry reduction on a slate plate"
           primaryCta={{ label: t('modernLapland.hero.primaryCta'), href: to('/michelin-dining') }}
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}
+          pills={techniques.map(item => item.title)}
         />
 
         <IntroPoints sectionKey="modernLapland" />
@@ -99,23 +109,31 @@ export default function ModernLapland() {
           </div>
         </section>
 
-        {/* Techniques */}
+        {/* Techniques — image-topped cards (images from the existing batch-5 set) */}
         <section className="bg-[#F8FAFC] py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-              {t('modernLapland.techniques.kicker')}
-            </p>
-            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5">
-              {t('modernLapland.techniques.headline')}
-            </h2>
-            <div className="prose prose-lg max-w-none text-[#002F6C]/85 mb-8">
-              <p className="leading-relaxed">{t('modernLapland.techniques.lead')}</p>
+          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
+            <div className="max-w-3xl">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                {t('modernLapland.techniques.kicker')}
+              </p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5">
+                {t('modernLapland.techniques.headline')}
+              </h2>
+              <div className="prose prose-lg max-w-none text-[#002F6C]/85 mb-8">
+                <p className="leading-relaxed">{t('modernLapland.techniques.lead')}</p>
+              </div>
             </div>
-            <div className="space-y-5">
-              {techniques.map(tech => (
-                <div key={tech.title} className="rounded-2xl bg-white border border-[#002F6C]/10 p-6 sm:p-7">
-                  <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2">{tech.title}</h3>
-                  <p className="text-sm sm:text-base text-[#002F6C]/80 leading-relaxed">{tech.body}</p>
+            <div className="grid md:grid-cols-2 gap-5">
+              {techniques.map((tech, idx) => (
+                <div key={tech.title} className={`rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden ${idx === techniques.length - 1 && techniques.length % 2 === 1 ? 'md:col-span-2' : ''}`}>
+                  <div className="relative h-40 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
+                    <img src={TECH_IMAGES[idx]} alt={tech.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.08) 60%)' }} />
+                    <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-2xl text-white leading-tight">{tech.title}</h3>
+                  </div>
+                  <div className="p-6 sm:p-7">
+                    <p className="text-sm sm:text-base text-[#002F6C]/80 leading-relaxed">{tech.body}</p>
+                  </div>
                 </div>
               ))}
             </div>

@@ -32,6 +32,18 @@ const articleSchema = {
 
 const CONTEXT_ICONS = [Flame, Clock, Users];
 const RECIPE_IMAGES = ['/images/recipe-bidos.jpg', '/images/recipe-gahkku.jpg', '/images/recipe-fish-soup.jpg', '/images/recipe-kissel.jpg'];
+// Index-mapped to the seasons/methods arrays in locales (same order in all 12).
+const SEASON_IMAGES = [
+  '/images/season-dalvi.jpg',
+  '/images/season-giddadalvi.jpg',
+  '/images/season-gidda.jpg',
+  '/images/season-giddageassi.jpg',
+  '/images/season-geassi.jpg',
+  '/images/season-cakcageassi.jpg',
+  '/images/season-cakca.jpg',
+  '/images/season-cakcadalvi.jpg',
+];
+const METHOD_IMAGES = ['/images/cook-open-fire.jpg', '/images/cook-earth-oven.jpg', '/images/cook-hot-stones.jpg', '/images/cook-smoking.jpg'];
 
 export default function TraditionalRecipes() {
   const { t } = useTranslation('pages');
@@ -57,6 +69,7 @@ export default function TraditionalRecipes() {
           imageAlt="Cast iron pot of reindeer stew bubbling over an open campfire at dusk"
           primaryCta={{ label: t('traditionalRecipes.hero.primaryCta'), href: `${to('/traditional-recipes')}#recipes` }}
           secondaryCta={{ label: t('traditionalRecipes.hero.secondaryCta'), href: to('/modern-lapland') }}
+          pills={recipes.map(r => r.name)}
         />
 
         <IntroPoints sectionKey="traditionalRecipes" />
@@ -221,16 +234,20 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.seasons.p2')}
               </p>
             </div>
-            <div className="grid md:grid-cols-2 gap-5">
-              {seasons.map(s => (
-                <div key={s.sami} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6 sm:p-7">
-                  <div className="flex items-baseline justify-between mb-2">
-                    <h3 className="font-heading tracking-wide text-2xl text-[#002F6C]">
-                      {s.sami} <span className="text-vibe-pink font-semibold text-base">/ {s.en}</span>
+            <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-5">
+              {seasons.map((s, idx) => (
+                <div key={s.sami} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
+                  <div className="relative h-36 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
+                    <img src={SEASON_IMAGES[idx]} alt={`${s.sami} / ${s.en}`} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.10) 60%)' }} />
+                    <span className="absolute top-3 right-4 text-[10px] uppercase tracking-wider font-semibold bg-white/90 text-[#002F6C] px-2.5 py-1 rounded-full">{s.when}</span>
+                    <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-2xl text-white leading-tight">
+                      {s.sami} <span className="text-vibe-pink font-semibold text-sm">/ {s.en}</span>
                     </h3>
-                    <span className="text-xs uppercase tracking-wider font-semibold text-[#002F6C]/60">{s.when}</span>
                   </div>
-                  <p className="text-sm text-[#002F6C]/80 leading-relaxed">{s.body}</p>
+                  <div className="p-5 sm:p-6">
+                    <p className="text-sm text-[#002F6C]/80 leading-relaxed">{s.body}</p>
+                  </div>
                 </div>
               ))}
             </div>
@@ -246,6 +263,9 @@ export default function TraditionalRecipes() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-6">
               {t('traditionalRecipes.revival.headline')}
             </h2>
+            <div className="relative rounded-2xl overflow-hidden h-52 sm:h-64 md:h-72 mb-8 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+              <img src="/images/lead-traditional-recipes.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+            </div>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
               <p className="leading-relaxed mb-5">{t('traditionalRecipes.revival.p1')}</p>
               <p className="leading-relaxed mb-5">{t('traditionalRecipes.revival.p2')}</p>
@@ -278,11 +298,17 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.methods.lead')}
               </p>
             </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-5">
-              {methods.map(m => (
-                <div key={m.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6 text-center">
-                  <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{m.title}</h3>
-                  <p className="text-sm text-[#002F6C]/70">{m.body}</p>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-5">
+              {methods.map((m, idx) => (
+                <div key={m.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden text-center">
+                  <div className="relative h-28 sm:h-32 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
+                    <img src={METHOD_IMAGES[idx]} alt={m.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.55) 0%, rgba(0,31,74,0.05) 60%)' }} />
+                  </div>
+                  <div className="p-4 sm:p-6">
+                    <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{m.title}</h3>
+                    <p className="text-sm text-[#002F6C]/70">{m.body}</p>
+                  </div>
                 </div>
               ))}
             </div>
