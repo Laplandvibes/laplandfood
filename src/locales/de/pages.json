@@ -75,15 +75,15 @@
     "faq": {
       "eyebrow": "Gut zu wissen",
       "headline": "Die häufigsten Fragen.",
-      "lead": "Kurze Antworten — jede verlinkt auf die Themenseite, die in die Tiefe geht.",
+      "lead": "Kurze Antworten: jede verlinkt auf die Themenseite, die in die Tiefe geht.",
       "stillPrefix": "Noch eine Frage offen? Schreiben Sie an ",
-      "stillSuffix": " — wir antworten.",
+      "stillSuffix": ". Wir antworten.",
       "items": [
         { "question": "Wie schmeckt traditionelles finnisches Essen?", "answer": "Traditionelle finnische Küche baut auf dem auf, was in unmittelbarer Nähe wächst, schwimmt oder weidet: Roggenbrot, Süßwasserfisch, Rentier, Wildbeeren wie Heidelbeere, Preiselbeere und Moltebeere, gesammelte Pilze und Milchprodukte. Die Küche ist saisonal, dezent gewürzt und stellt die Zutat über die Technik." },
-        { "question": "Gibt es in Finnland Michelin-Sterne-Restaurants?", "answer": "Ja. Der Guide Michelin bewertet Finnland, und die Sterne-Restaurants der letzten Nordic-Ausgaben lagen alle in Helsinki. Lappland selbst hält derzeit keinen Stern, doch seine Vorzeigeküchen — Nili, Aanaar, Rakas — treiben das Degustationsmenü nördlich des Polarkreises voran. Die Sterneliste ändert sich jährlich; prüfen Sie vor der Reservierung den aktuellen Guide." },
-        { "question": "Was ist samische Küche?", "answer": "Samische Küche ist die indigene Küche Sápmis, der Region im Norden Finnlands, Schwedens, Norwegens und Russlands. Im Zentrum stehen das Rentier — jedes Teil wird verwertet —, arktischer Fisch, gesammelte Beeren und Kräuter sowie langsames Garen wie beim Bidos-Eintopf. Die Rezepte folgen dem samischen Kalender mit acht Jahreszeiten." },
-        { "question": "Dürfen Besucher in Finnland Beeren und Pilze sammeln?", "answer": "Ja. Das finnische Jedermannsrecht (jokamiehenoikeus) erlaubt jedem — auch Gästen —, auf fast allem Land Beeren, Pilze und Wildkräuter zu sammeln, selbst in Privatwäldern. Lernen Sie aber vorher die Pilzbestimmung: In finnischen Wäldern wachsen tödliche Arten wie der Grüne Knollenblätterpilz. Für das erste Mal ist eine geführte Sammelwanderung der sicherste Einstieg." },
-        { "question": "Wann ist Moltebeeren-Saison in Lappland?", "answer": "Etwa Mitte Juli bis Mitte August, mit einem intensiven Pflückfenster von rund drei Wochen je nach Moor. Moltebeeren wachsen nur in kalten arktischen Torfmooren und widersetzen sich dem Anbau — deshalb sind sie die begehrteste und teuerste Wildbeere Lapplands." }
+        { "question": "Gibt es in Finnland Michelin-Sterne-Restaurants?", "answer": "Ja. Der Guide Michelin bewertet Finnland, und die Sterne-Restaurants der letzten Nordic-Ausgaben lagen alle in Helsinki. Lappland selbst hält derzeit keinen Stern, doch seine Vorzeigeküchen, Nili, Aanaar, Rakas, treiben das Degustationsmenü nördlich des Polarkreises voran. Die Sterneliste ändert sich jährlich; prüfen Sie vor der Reservierung den aktuellen Guide." },
+        { "question": "Was ist samische Küche?", "answer": "Samische Küche ist die indigene Küche Sápmis, der Region im Norden Finnlands, Schwedens, Norwegens und Russlands. Im Zentrum stehen das Rentier, jedes Teil wird verwertet, arktischer Fisch, gesammelte Beeren und Kräuter sowie langsames Garen wie beim Bidos-Eintopf. Die Rezepte folgen dem samischen Kalender mit acht Jahreszeiten." },
+        { "question": "Dürfen Besucher in Finnland Beeren und Pilze sammeln?", "answer": "Ja. Das finnische Jedermannsrecht (jokamiehenoikeus) erlaubt jedem, auch Gästen, auf fast allem Land Beeren, Pilze und Wildkräuter zu sammeln, selbst in Privatwäldern. Lernen Sie aber vorher die Pilzbestimmung: In finnischen Wäldern wachsen tödliche Arten wie der Grüne Knollenblätterpilz. Für das erste Mal ist eine geführte Sammelwanderung der sicherste Einstieg." },
+        { "question": "Wann ist Moltebeeren-Saison in Lappland?", "answer": "Etwa Mitte Juli bis Mitte August, mit einem intensiven Pflückfenster von rund drei Wochen je nach Moor. Moltebeeren wachsen nur in kalten arktischen Torfmooren und widersetzen sich dem Anbau, deshalb sind sie die begehrteste und teuerste Wildbeere Lapplands." }
       ]
     }
   },
@@ -101,9 +101,9 @@
     "intro": {
       "lead": "Lapplands Vorratskammer ist kurz. Darin liegt ihre Kraft.",
       "points": [
-        { "n": "01", "title": "Sechs Zutaten, eine Hand", "body": "Rentier, Seefisch, gesammelte Beeren und Pilze, Wildkräuter, Milchprodukte — das ist die ganze Vorratskammer. Eine versteckte 30. Zutat gibt es nicht; die Kunst liegt darin, was man mit diesen sechs zu tun gelernt hat." },
+        { "n": "01", "title": "Sechs Zutaten, eine Hand", "body": "Rentier, Seefisch, gesammelte Beeren und Pilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine versteckte 30. Zutat gibt es nicht; die Kunst liegt darin, was man mit diesen sechs zu tun gelernt hat." },
         { "n": "02", "title": "Fast alles ist wild", "body": "Das unterscheidet Lappland von fast jeder anderen Esskultur Europas. Selbst die Rentiere leben auf Zehntausenden Quadratkilometern offener Wildnis." },
-        { "n": "03", "title": "Wild heißt Jahrgänge", "body": "Wilde Zutaten schwanken von Jahr zu Jahr und Ort zu Ort, wie es Kultiviertes nie tut — Moltebeeren aus einem Moor bei Inari schmecken anders als solche, die 80 Kilometer weiter südlich gepflückt wurden." }
+        { "n": "03", "title": "Wild heißt Jahrgänge", "body": "Wilde Zutaten schwanken von Jahr zu Jahr und Ort zu Ort, wie es Kultiviertes nie tut: Moltebeeren aus einem Moor bei Inari schmecken anders als solche, die 80 Kilometer weiter südlich gepflückt wurden." }
       ]
     },
     "ingredients": [
@@ -166,7 +166,7 @@
     "intro": {
       "lead": "Die Rezepte auf dieser Seite sind keine Museumsstücke. Sie werden immer noch gekocht.",
       "points": [
-        { "n": "01", "title": "Wird noch jeden Dienstag gekocht", "body": "Betreten Sie im November ein samisches Zuhause in Inari oder Utsjoki, und auf dem Herd steht Bidos — derselbe langsam geschmorte Rentiereintopf, den die Großmutter kochte, mit denselben Teilstücken, bei derselben kaum flüsternden Hitze." },
+        { "n": "01", "title": "Wird noch jeden Dienstag gekocht", "body": "Betreten Sie im November ein samisches Zuhause in Inari oder Utsjoki, und auf dem Herd steht Bidos, derselbe langsam geschmorte Rentiereintopf, den die Großmutter kochte, mit denselben Teilstücken, bei derselben kaum flüsternden Hitze." },
         { "n": "02", "title": "Überlebte aus eigener Vorratskammer", "body": "Die samische Küche überdauerte die meisten vorindustriellen arktischen Esskulturen, weil sie nie Importe brauchte, um nach sich selbst zu schmecken: Rentier, Seefisch, Beeren, Wildkräuter, Roggen, Butter, Salz." },
         { "n": "03", "title": "Vier Einstiege", "body": "Bidos ist das Soulfood-Proteingericht, Gahkku das tägliche Brot, Sápmi-Fischsuppe das, was der See in jener Woche gab, und Wildbeeren-Kissel die Art, den Sommer haltbar zu machen." }
       ]
@@ -300,7 +300,7 @@
       "eyebrow": "Säule 03 · Modern",
       "title": "Die neue",
       "titleHighlight": "arktische Küche.",
-      "subtitle": "Die moderne Küche Lapplands nimmt die Zutaten, die die Samen seit tausend Jahren nutzen — Rentier, Seefisch, Wildbeeren und Kräuter — und richtet sie mit New-Nordic-Technik an. Diese Seite erzählt, wie es dazu kam und wo man es schmecken kann.",
+      "subtitle": "Die moderne Küche Lapplands nimmt die Zutaten, die die Samen seit tausend Jahren nutzen, Rentier, Seefisch, Wildbeeren und Kräuter, und richtet sie mit New-Nordic-Technik an. Diese Seite erzählt, wie es dazu kam und wo man es schmecken kann.",
       "primaryCta": "Wo reservieren",
       "secondaryCta": "Traditionelle Rezepte"
     },
@@ -354,9 +354,9 @@
     "intro": {
       "lead": "Sammeln ist in Finnland nichts Besonderes. Es ist eine alltägliche Sommerbeschäftigung für etwa 40 % der Bevölkerung.",
       "points": [
-        { "n": "01", "title": "Mainstream, keine Nische", "body": "Rund 40 % der Finnen sammeln — die Zahl stammt aus den Haushaltsbefragungen des Natural Resources Institute Finland (Luke) und gilt quer durch Stadt und Land, Alter und Einkommen." },
-        { "n": "02", "title": "Jedermannsrecht", "body": "Das im finnischen Recht verankerte jokamiehenoikeus erlaubt jedem — Einheimischen wie Gästen — auf den meisten Flächen zu gehen, zu zelten und zu sammeln, egal wem das Land gehört." },
-        { "n": "03", "title": "Keine Genehmigung, kein Grundbesitzer", "body": "Sie können von der Straße in den Wald treten und pflücken. Die Grenzen sind ethisch (nicht überernten, Pflanzen nicht beschädigen) und praktisch (wissen, was man pflückt) — nicht rechtlich." }
+        { "n": "01", "title": "Mainstream, keine Nische", "body": "Rund 40 % der Finnen sammeln: die Zahl stammt aus den Haushaltsbefragungen des Natural Resources Institute Finland (Luke) und gilt quer durch Stadt und Land, Alter und Einkommen." },
+        { "n": "02", "title": "Jedermannsrecht", "body": "Das im finnischen Recht verankerte jokamiehenoikeus erlaubt jedem, Einheimischen wie Gästen, auf den meisten Flächen zu gehen, zu zelten und zu sammeln, egal wem das Land gehört." },
+        { "n": "03", "title": "Keine Genehmigung, kein Grundbesitzer", "body": "Sie können von der Straße in den Wald treten und pflücken. Die Grenzen sind ethisch (nicht überernten, Pflanzen nicht beschädigen) und praktisch (wissen, was man pflückt), nicht rechtlich." }
       ]
     },
     "alert": {
@@ -452,8 +452,8 @@
       "lead": "Die Lappland-Esserlebnisse, die ihr Geld wert sind, sind die, die Sie vor Menschen bringen, die das hier tatsächlich beruflich machen.",
       "points": [
         { "n": "01", "title": "Kleine Gruppen, direkt gebucht", "body": "Vergessen Sie die Restaurant-Tour im Reisebus: Die Trips unten sind Kleingruppen und werden oft direkt beim Veranstalter gebucht." },
-        { "n": "02", "title": "Geführt von Menschen, die davon leben", "body": "Samische Sammler, Fine-Dining-Köche, aktive Rentierhirten. Man isst gut, aber das eigentliche Produkt ist Zugang — zur Herde, zur Küche, zum Lieblingsmoor eines Sammlers." },
-        { "n": "03", "title": "Live-Preise statt Prospektpreise", "body": "Jede Karte führt zu einer Live-Suche auf GetYourGuide, nicht zu einer festen Produktseite: Veranstalter wechseln, Termine und Preise bewegen sich — Sie sehen immer die aktuelle Verfügbarkeit." }
+        { "n": "02", "title": "Geführt von Menschen, die davon leben", "body": "Samische Sammler, Fine-Dining-Köche, aktive Rentierhirten. Man isst gut, aber das eigentliche Produkt ist Zugang: zur Herde, zur Küche, zum Lieblingsmoor eines Sammlers." },
+        { "n": "03", "title": "Live-Preise statt Prospektpreise", "body": "Jede Karte führt zu einer Live-Suche auf GetYourGuide, nicht zu einer festen Produktseite: Veranstalter wechseln, Termine und Preise bewegen sich; Sie sehen immer die aktuelle Verfügbarkeit." }
       ]
     },
     "listKicker": "Drei Touren, die sich lohnen",
@@ -577,7 +577,7 @@
     },
     "why": {
       "headline": "Warum es diese Seite gibt.",
-      "p1": "Das meiste, was auf Englisch über Lapplands Küche geschrieben wird, liegt an einem von zwei Extremen: luftige Prospektsprache (\"magische samische Aromen unter der Mitternachtssonne\") oder komplett belegte akademische Ethnografie, die niemand liest, bevor er einen Tisch bucht. Wir zielen auf die Lücke dazwischen — klare Sätze, konkrete Zutaten und konkrete Restaurants, Zahlen nur, wo Zahlen helfen, geschrieben nördlich des Polarkreises statt an einem Schreibtisch in London.",
+      "p1": "Das meiste, was auf Englisch über Lapplands Küche geschrieben wird, liegt an einem von zwei Extremen: luftige Prospektsprache (\"magische samische Aromen unter der Mitternachtssonne\") oder komplett belegte akademische Ethnografie, die niemand liest, bevor er einen Tisch bucht. Wir zielen auf die Lücke dazwischen: klare Sätze, konkrete Zutaten und konkrete Restaurants, Zahlen nur, wo Zahlen helfen, geschrieben nördlich des Polarkreises statt an einem Schreibtisch in London.",
       "p3": "Der Maßstab, den wir an uns anlegen: <strong>Ein Freund, der zum ersten Mal nach Lappland kommt, sollte drei Seiten hier lesen und mit genug Wissen losziehen können, um eine echte Food-Reise zu planen.</strong> Besteht ein Abschnitt diesen Test nicht, schreiben wir ihn neu."
     },
     "cover": {

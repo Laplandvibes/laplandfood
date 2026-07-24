@@ -77,13 +77,13 @@
       "headline": "Frågorna alla ställer först.",
       "lead": "Snabba svar, vart och ett länkat till pelarsidan som går djupare.",
       "stillPrefix": "Undrar du fortfarande över något? Skriv till ",
-      "stillSuffix": " — vi svarar.",
+      "stillSuffix": ". Vi svarar.",
       "items": [
         { "question": "Hur är traditionell finsk mat?", "answer": "Traditionell finsk mat bygger på det som växer, simmar eller betar inom gångavstånd: rågbröd, insjöfisk, ren, vilda bär som blåbär, lingon och hjortron, plockad svamp och mejeriprodukter. Köket är säsongsbetonat, lätt kryddat och byggt kring råvaran snarare än tekniken." },
-        { "question": "Har Finland restauranger med Michelin-stjärnor?", "answer": "Ja. Michelinguiden täcker Finland, och de stjärnmärkta restaurangerna i de senaste nordiska utgåvorna har alla legat i Helsingfors. Lappland självt har för närvarande ingen stjärna, men dess flaggskeppskök — Nili, Aanaar, Rakas — driver avsmakningsmenyer norr om polcirkeln. Stjärnlistorna ändras varje år, så kolla den aktuella guiden innan du bokar." },
-        { "question": "Vad är samisk mat?", "answer": "Samisk mat är urfolksköket i Sápmi, regionen som sträcker sig över norra Finland, Sverige, Norge och Ryssland. Det kretsar kring renen — varje del används — arktisk fisk, plockade bär och örter samt långsamma tillagningsmetoder som bidos-gryta. Recepten är säsongsbetonade och knutna till den samiska kalenderns åtta årstider." },
-        { "question": "Får besökare plocka bär och svamp i Finland?", "answer": "Ja. Finlands allemansrätt (jokamiehenoikeus) låter vem som helst, medborgare eller besökare, plocka bär, svamp och vilda örter på nästan all mark, inklusive privat skog. Lär dig känna igen svamp innan du plockar, dock — dödliga arter som lömsk flugsvamp och vit flugsvamp växer i finska skogar. För första gången är en guidad plockningsvandring det säkraste sättet." },
-        { "question": "När är hjortronsäsongen i Lappland?", "answer": "Ungefär från mitten av juli till mitten av augusti, med ett intensivt plockningsfönster på cirka tre veckor beroende på myren. Hjortron växer bara på kalla arktiska torvmyrar och går inte att odla, vilket är varför de är det mest eftertraktade — och dyraste — vilda bäret i Lappland." }
+        { "question": "Har Finland restauranger med Michelin-stjärnor?", "answer": "Ja. Michelinguiden täcker Finland, och de stjärnmärkta restaurangerna i de senaste nordiska utgåvorna har alla legat i Helsingfors. Lappland självt har för närvarande ingen stjärna, men dess flaggskeppskök, Nili, Aanaar, Rakas, driver avsmakningsmenyer norr om polcirkeln. Stjärnlistorna ändras varje år, så kolla den aktuella guiden innan du bokar." },
+        { "question": "Vad är samisk mat?", "answer": "Samisk mat är urfolksköket i Sápmi, regionen som sträcker sig över norra Finland, Sverige, Norge och Ryssland. Det kretsar kring renen, varje del används, arktisk fisk, plockade bär och örter samt långsamma tillagningsmetoder som bidos-gryta. Recepten är säsongsbetonade och knutna till den samiska kalenderns åtta årstider." },
+        { "question": "Får besökare plocka bär och svamp i Finland?", "answer": "Ja. Finlands allemansrätt (jokamiehenoikeus) låter vem som helst, medborgare eller besökare, plocka bär, svamp och vilda örter på nästan all mark, inklusive privat skog. Lär dig känna igen svamp innan du plockar, dock: dödliga arter som lömsk flugsvamp och vit flugsvamp växer i finska skogar. För första gången är en guidad plockningsvandring det säkraste sättet." },
+        { "question": "När är hjortronsäsongen i Lappland?", "answer": "Ungefär från mitten av juli till mitten av augusti, med ett intensivt plockningsfönster på cirka tre veckor beroende på myren. Hjortron växer bara på kalla arktiska torvmyrar och går inte att odla, vilket är varför de är det mest eftertraktade, och dyraste, vilda bäret i Lappland." }
       ]
     }
   },
@@ -101,9 +101,9 @@
     "intro": {
       "lead": "Lapplands skafferi är kort. Det är dess styrka.",
       "points": [
-        { "n": "01", "title": "Sex råvaror, en hand", "body": "Ren, insjöfisk, plockade bär, plockad svamp, vilda örter, mejeriprodukter — det är hela skafferiet. Det finns ingen dold trettionde råvara; skickligheten ligger i vad människor lärde sig göra med dessa sex." },
+        { "n": "01", "title": "Sex råvaror, en hand", "body": "Ren, insjöfisk, plockade bär, plockad svamp, vilda örter, mejeriprodukter: det är hela skafferiet. Det finns ingen dold trettionde råvara; skickligheten ligger i vad människor lärde sig göra med dessa sex." },
         { "n": "02", "title": "Nästan allt är vilt", "body": "Det skiljer Lappland från nästan alla andra matkulturer i Europa. Till och med renarna lever på tiotusentals kvadratkilometer ostängslad vildmark." },
-        { "n": "03", "title": "Vilt betyder årgångar", "body": "Vilda råvaror varierar mellan år och plats på ett sätt som odlade aldrig gör — hjortron från en myr ovanför Inari smakar annorlunda än de som plockats 80 kilometer längre söderut." }
+        { "n": "03", "title": "Vilt betyder årgångar", "body": "Vilda råvaror varierar mellan år och plats på ett sätt som odlade aldrig gör. Hjortron från en myr ovanför Inari smakar annorlunda än de som plockats 80 kilometer längre söderut." }
       ]
     },
     "ingredients": [
@@ -165,7 +165,7 @@
     "intro": {
       "lead": "Recepten på den här sidan är inte arv i museimonter-mening. De lagas fortfarande.",
       "points": [
-        { "n": "01", "title": "Lagas varje tisdag", "body": "Kliv in i ett samiskt hem i Inari eller Utsjoki i november och bidos står på spisen — samma långkokta rengryta som familjens mormor gjorde, med samma köttbitar, på samma knappt viskande värme." },
+        { "n": "01", "title": "Lagas varje tisdag", "body": "Kliv in i ett samiskt hem i Inari eller Utsjoki i november och bidos står på spisen, samma långkokta rengryta som familjens mormor gjorde, med samma köttbitar, på samma knappt viskande värme." },
         { "n": "02", "title": "Överlevde på sitt eget skafferi", "body": "Det samiska köket överlevde de flesta förindustriella arktiska matkulturer eftersom det aldrig behövde import för att smaka som sig självt: ren, insjöfisk, bär, vilda örter, råg, smör, salt." },
         { "n": "03", "title": "Fyra ingångar", "body": "Bidos är själsmatens proteinrätt, gahkku det dagliga brödet, Sápmi-fisksoppa det sjön gav den veckan, och kräm på vilda bär det sätt sommaren bevaras på." }
       ]
@@ -299,12 +299,12 @@
       "eyebrow": "Pelare 03 · Modernt",
       "title": "Det nya",
       "titleHighlight": "arktiska köket.",
-      "subtitle": "Modern Lapplandsmatlagning tar råvarorna samerna använt i tusen år — ren, insjöfisk, vilda bär och örter — och lägger upp dem med nynordisk teknik. Den här sidan berättar hur det gick till, och var du kan smaka på det.",
+      "subtitle": "Modern Lapplandsmatlagning tar råvarorna samerna använt i tusen år, ren, insjöfisk, vilda bär och örter, och lägger upp dem med nynordisk teknik. Den här sidan berättar hur det gick till, och var du kan smaka på det.",
       "primaryCta": "Var du bokar",
       "secondaryCta": "De traditionella recepten"
     },
     "intro": {
-      "lead": "I början av 2010-talet innebar en restaurangmiddag i Lappland fortfarande en matsal på ett turisthotell och en renpepparbiff. På ungefär tio år växte små kockledda avsmakningsrestauranger fram i dess ställe — kök som konkurrerar med Helsingfors på hantverket på tallriken. Tre saker gjorde det möjligt:",
+      "lead": "I början av 2010-talet innebar en restaurangmiddag i Lappland fortfarande en matsal på ett turisthotell och en renpepparbiff. På ungefär tio år växte små kockledda avsmakningsrestauranger fram i dess ställe, kök som konkurrerar med Helsingfors på hantverket på tallriken. Tre saker gjorde det möjligt:",
       "points": [
         { "n": "01", "title": "Det nynordiska gav täckmantel", "body": "När Noma omdefinierade plockade örter, rökt fisk och långkokt vilt som kökets sofistikerade ände kunde kockar i Lappland som gjort de sakerna hela livet äntligen lägga upp dem utan ursäkt." },
         { "n": "02", "title": "Tekniken kom norrut", "body": "Billiga sous vide-cirkulatorer gjorde att magra köttbitar inte längre behövde grytas. Renfilé, tillagad rosa i mitten vid 54 °C, blev det moderna Lapplandskökets signaturrätt." },
@@ -317,8 +317,8 @@
     "dishes": [
       { "name": "Sous vide-renfilé, blåbär och rotfrukt", "description": "Stilens signaturtallrik: mager renfilé tillagad rosa i mitten, en reduktion på vilda blåbär och en rotfrukt i två konsistenser.", "technique": "Sous vide", "traditional": "Stekt ren / poronkäristys", "innovation": "Exakt temperatur gör den magraste biten till huvudproteinet" },
       { "name": "Confiterad arktisk sik och vildörtolja", "description": "Insjösik långsamt tillagad i fett, avslutad med en olja på älggräs eller granskott och något syrligt från fermenteringshyllan.", "technique": "Confit", "traditional": "Rökt och saltad insjöfisk", "innovation": "Låg temperatur håller en känslig fisk hel; plockade örter ersätter standarddillen" },
-      { "name": "Avsmakning av vilda bär till efterrätt", "description": "Hjortron, blåbär och lingon serverade som en följd — parfait, fruktläder, fermenterat, fryst — istället för en enda pannacotta med sylt på.", "technique": "Fermentering + nynordiskt bakverk", "traditional": "Bärkräm och sylt", "innovation": "Mjölksyrade bär ger syran som ersätter importerad citrus" },
-      { "name": "Bidos, nytolkad", "description": "Den samiska festgrytan omtänkt för en avsmakningsmeny: buljongen klarad, renbogen pressad, märgen serverad vid sidan.", "technique": "Modern uppläggning av en långbräsering", "traditional": "Bidos-rengryta", "innovation": "Samma köttbitar och smaker upplagda som rätter — hemmaversionen förblir orörd" }
+      { "name": "Avsmakning av vilda bär till efterrätt", "description": "Hjortron, blåbär och lingon serverade som en följd, parfait, fruktläder, fermenterat, fryst, istället för en enda pannacotta med sylt på.", "technique": "Fermentering + nynordiskt bakverk", "traditional": "Bärkräm och sylt", "innovation": "Mjölksyrade bär ger syran som ersätter importerad citrus" },
+      { "name": "Bidos, nytolkad", "description": "Den samiska festgrytan omtänkt för en avsmakningsmeny: buljongen klarad, renbogen pressad, märgen serverad vid sidan.", "technique": "Modern uppläggning av en långbräsering", "traditional": "Bidos-rengryta", "innovation": "Samma köttbitar och smaker upplagda som rätter; hemmaversionen förblir orörd" }
     ],
     "techniques": {
       "kicker": "Vad \"nynordiskt\" faktiskt betyder",
@@ -353,9 +353,9 @@
     "intro": {
       "lead": "Att plocka i naturen är inget udda i Finland. Det är en vanlig sommaraktivitet för omkring 40 % av befolkningen.",
       "points": [
-        { "n": "01", "title": "Vanligt, inte smalt", "body": "Omkring 40 % av finländarna plockar — siffran kommer från hushållsundersökningar av Naturresursinstitutet (Luke), och den går tvärs över stad och landsbygd, ålder och inkomst." },
-        { "n": "02", "title": "Allemansrätten", "body": "Jokamiehenoikeus, inskriven i finsk lag, låter vem som helst — medborgare eller besökare — vandra, tälta och plocka på nästan all mark oavsett vem som äger den." },
-        { "n": "03", "title": "Inga tillstånd, ingen markägare", "body": "Du kan kliva av vägen in i skogen och plocka. Gränserna är etiska (överplocka inte, skada inte växterna) och praktiska (vet vad du plockar) — inte juridiska." }
+        { "n": "01", "title": "Vanligt, inte smalt", "body": "Omkring 40 % av finländarna plockar. Siffran kommer från hushållsundersökningar av Naturresursinstitutet (Luke), och den går tvärs över stad och landsbygd, ålder och inkomst." },
+        { "n": "02", "title": "Allemansrätten", "body": "Jokamiehenoikeus, inskriven i finsk lag, låter vem som helst, medborgare eller besökare, vandra, tälta och plocka på nästan all mark oavsett vem som äger den." },
+        { "n": "03", "title": "Inga tillstånd, ingen markägare", "body": "Du kan kliva av vägen in i skogen och plocka. Gränserna är etiska (överplocka inte, skada inte växterna) och praktiska (vet vad du plockar), inte juridiska." }
       ]
     },
     "alert": {
@@ -451,7 +451,7 @@
       "lead": "Matupplevelserna i Lappland som är värda dina pengar är de som placerar dig framför människorna som faktiskt gör det här för sitt levebröd.",
       "points": [
         { "n": "01", "title": "Små grupper, bokade direkt", "body": "Hoppa över restaurangturen-med-buss: turerna nedan är i små grupper och bokas ofta direkt hos arrangören." },
-        { "n": "02", "title": "Ledda av människor som lever detta", "body": "Samiska plockare, fine dining-kockar, arbetande renskötare. Du äter gott, men den verkliga varan är tillgång — till en renhjord, ett kök, en plockares favoritmyr." },
+        { "n": "02", "title": "Ledda av människor som lever detta", "body": "Samiska plockare, fine dining-kockar, arbetande renskötare. Du äter gott, men den verkliga varan är tillgång: till en renhjord, ett kök, en plockares favoritmyr." },
         { "n": "03", "title": "Livepriser, inte broschyrpriser", "body": "Varje kort länkar till en livesökning på GetYourGuide, inte en fast produktsida: arrangörer byts ut, datum ändras och priser skiftar, så du ser alltid aktuell tillgänglighet." }
       ]
     },
@@ -576,7 +576,7 @@
     },
     "why": {
       "headline": "Varför den här sajten finns.",
-      "p1": "Det mesta som skrivs på engelska om Lapplandsmat hamnar i en av två ytterligheter: luftig broschyrtext (\"magiska samiska smaker under midnattssolen\") eller helt fotnotstyngd akademisk etnografi som ingen läser innan de bokar middag. Vi siktar på mellanrummet — enkla meningar, specifika råvaror och specifika restauranger, siffror bara där siffror hjälper, skrivet norr om polcirkeln snarare än vid ett skrivbord i London.",
+      "p1": "Det mesta som skrivs på engelska om Lapplandsmat hamnar i en av två ytterligheter: luftig broschyrtext (\"magiska samiska smaker under midnattssolen\") eller helt fotnotstyngd akademisk etnografi som ingen läser innan de bokar middag. Vi siktar på mellanrummet: enkla meningar, specifika råvaror och specifika restauranger, siffror bara där siffror hjälper, skrivet norr om polcirkeln snarare än vid ett skrivbord i London.",
       "p3": "Ribban vi håller oss till: <strong>en vän som kommer till Lappland för första gången ska kunna läsa tre sidor här och gå därifrån med tillräckligt för att planera en riktig matresa.</strong> Om ett avsnitt inte klarar det testet skriver vi om det."
     },
     "cover": {

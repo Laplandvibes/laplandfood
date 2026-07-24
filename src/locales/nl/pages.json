@@ -77,13 +77,13 @@
       "headline": "De vragen die iedereen eerst stelt.",
       "lead": "Korte antwoorden, elk met een link naar de pagina die de diepte ingaat.",
       "stillPrefix": "Nog iets onduidelijk? Mail ons op ",
-      "stillSuffix": " — we antwoorden.",
+      "stillSuffix": ". We antwoorden.",
       "items": [
         { "question": "Hoe smaakt traditioneel Fins eten?", "answer": "De traditionele Finse keuken is gebouwd op wat dichtbij groeit, zwemt of graast: roggebrood, zoetwatervis, rendier, wilde bessen zoals bosbes, vossenbes en kruipbraam, geplukte paddenstoelen en zuivel. De keuken is seizoensgebonden, licht gekruid en draait om het ingrediënt, niet om de techniek." },
-        { "question": "Heeft Finland restaurants met een Michelinster?", "answer": "Ja. De Michelingids beoordeelt Finland, en de sterrenrestaurants in de recente Nordic-edities lagen allemaal in Helsinki. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens — Nili, Aanaar, Rakas — tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; check de actuele gids voordat je reserveert." },
-        { "question": "Wat is Samisch eten?", "answer": "Samisch eten is de inheemse keuken van Sápmi, de regio die zich uitstrekt over Noord-Finland, Zweden, Noorwegen en Rusland. Centraal staan het rendier — elk deel wordt gebruikt —, Arctische vis, geplukte bessen en kruiden en langzame bereidingen zoals de bidos-stoofpot. De recepten volgen de Samische kalender met acht seizoenen." },
-        { "question": "Mogen bezoekers in Finland bessen en paddenstoelen plukken?", "answer": "Ja. Het Finse allemansrecht (jokamiehenoikeus) laat iedereen — inwoner of bezoeker — bessen, paddenstoelen en wilde kruiden plukken op vrijwel alle grond, ook in privébossen. Leer wel eerst paddenstoelen herkennen: in Finse bossen groeien dodelijke soorten zoals de groene knolamaniet. Voor de eerste keer is een begeleide plukwandeling de veiligste start." },
-        { "question": "Wanneer is het kruipbraamseizoen in Lapland?", "answer": "Grofweg van half juli tot half augustus, met een intensief plukvenster van zo’n drie weken, afhankelijk van het veen. Kruipbramen groeien alleen in koude Arctische veengebieden en laten zich nauwelijks kweken — daarom zijn ze de meest begeerde en duurste wilde bes van Lapland." }
+        { "question": "Heeft Finland restaurants met een Michelinster?", "answer": "Ja. De Michelingids beoordeelt Finland, en de sterrenrestaurants in de recente Nordic-edities lagen allemaal in Helsinki. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens, Nili, Aanaar, Rakas, tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; check de actuele gids voordat je reserveert." },
+        { "question": "Wat is Samisch eten?", "answer": "Samisch eten is de inheemse keuken van Sápmi, de regio die zich uitstrekt over Noord-Finland, Zweden, Noorwegen en Rusland. Centraal staan het rendier, elk deel wordt gebruikt, Arctische vis, geplukte bessen en kruiden en langzame bereidingen zoals de bidos-stoofpot. De recepten volgen de Samische kalender met acht seizoenen." },
+        { "question": "Mogen bezoekers in Finland bessen en paddenstoelen plukken?", "answer": "Ja. Het Finse allemansrecht (jokamiehenoikeus) laat iedereen, inwoner of bezoeker, bessen, paddenstoelen en wilde kruiden plukken op vrijwel alle grond, ook in privébossen. Leer wel eerst paddenstoelen herkennen: in Finse bossen groeien dodelijke soorten zoals de groene knolamaniet. Voor de eerste keer is een begeleide plukwandeling de veiligste start." },
+        { "question": "Wanneer is het kruipbraamseizoen in Lapland?", "answer": "Grofweg van half juli tot half augustus, met een intensief plukvenster van zo’n drie weken, afhankelijk van het veen. Kruipbramen groeien alleen in koude Arctische veengebieden en laten zich nauwelijks kweken. Daarom zijn ze de meest begeerde en duurste wilde bes van Lapland." }
       ]
     }
   },
@@ -101,9 +101,9 @@
     "intro": {
       "lead": "De Laplandse voorraadkast is kort. Dat is zijn kracht.",
       "points": [
-        { "n": "01", "title": "Zes ingrediënten, één hand", "body": "Rendier, meervis, geplukte bessen en paddenstoelen, wilde kruiden, zuivel — dat is de hele voorraadkast. Er is geen verborgen dertigste ingrediënt; het vakmanschap zit in wat men met deze zes heeft leren doen." },
+        { "n": "01", "title": "Zes ingrediënten, één hand", "body": "Rendier, meervis, geplukte bessen en paddenstoelen, wilde kruiden, zuivel: dat is de hele voorraadkast. Er is geen verborgen dertigste ingrediënt; het vakmanschap zit in wat men met deze zes heeft leren doen." },
         { "n": "02", "title": "Bijna alles is wild", "body": "Dat onderscheidt Lapland van vrijwel elke andere eetcultuur in Europa. Zelfs de rendieren leven op tienduizenden vierkante kilometers onafgerasterde wildernis." },
-        { "n": "03", "title": "Wild betekent jaargangen", "body": "Wilde ingrediënten verschillen per jaar en per plek zoals gekweekte dat nooit doen — kruipbramen uit een veen bij Inari smaken anders dan die 80 kilometer zuidelijker." }
+        { "n": "03", "title": "Wild betekent jaargangen", "body": "Wilde ingrediënten verschillen per jaar en per plek zoals gekweekte dat nooit doen. Kruipbramen uit een veen bij Inari smaken anders dan die 80 kilometer zuidelijker." }
       ]
     },
     "ingredients": [
@@ -165,7 +165,7 @@
     "intro": {
       "lead": "De recepten op deze pagina zijn geen erfgoed in de museale zin. Ze worden nog steeds gekookt.",
       "points": [
-        { "n": "01", "title": "Wordt nog elke dinsdag gekookt", "body": "Stap in november een Samisch huis in Inari of Utsjoki binnen en op het fornuis staat bidos — dezelfde langzaam gestoofde rendierstoofpot die grootmoeder maakte, met dezelfde delen, op hetzelfde nauwelijks fluisterende vuur." },
+        { "n": "01", "title": "Wordt nog elke dinsdag gekookt", "body": "Stap in november een Samisch huis in Inari of Utsjoki binnen en op het fornuis staat bidos, dezelfde langzaam gestoofde rendierstoofpot die grootmoeder maakte, met dezelfde delen, op hetzelfde nauwelijks fluisterende vuur." },
         { "n": "02", "title": "Overleefde op eigen voorraad", "body": "De Samische keuken overleefde de meeste pre-industriële Arctische eetculturen omdat ze nooit import nodig had om naar zichzelf te smaken: rendier, meervis, bessen, wilde kruiden, rogge, boter, zout." },
         { "n": "03", "title": "Vier ingangen", "body": "Bidos is het soulfood-eiwitgerecht, gahkku het dagelijkse brood, Sápmi-vissoep wat het meer die week gaf, en wildebessenkissel de manier om de zomer te bewaren." }
       ]
@@ -299,14 +299,14 @@
       "eyebrow": "Pijler 03 · Modern",
       "title": "De nieuwe",
       "titleHighlight": "Arctische keuken.",
-      "subtitle": "De moderne keuken van Lapland neemt de ingrediënten die de Samen al duizend jaar gebruiken — rendier, meervis, wilde bessen en kruiden — en maakt ze op met New Nordic-techniek. Deze pagina vertelt hoe dat gebeurde en waar je het proeft.",
+      "subtitle": "De moderne keuken van Lapland neemt de ingrediënten die de Samen al duizend jaar gebruiken, rendier, meervis, wilde bessen en kruiden, en maakt ze op met New Nordic-techniek. Deze pagina vertelt hoe dat gebeurde en waar je het proeft.",
       "primaryCta": "Waar boeken",
       "secondaryCta": "De traditionele recepten"
     },
     "intro": {
-      "lead": "Begin jaren 2010 betekende uit eten in Lapland nog het restaurant van een toeristenhotel en een rendierpepersteak. In zo’n tien jaar groeiden daar kleine, door chefs geleide degustatiezalen voor in de plaats — keukens die qua bordwerk met Helsinki wedijveren. Drie dingen maakten dat mogelijk:",
+      "lead": "Begin jaren 2010 betekende uit eten in Lapland nog het restaurant van een toeristenhotel en een rendierpepersteak. In zo’n tien jaar groeiden daar kleine, door chefs geleide degustatiezalen voor in de plaats, keukens die qua bordwerk met Helsinki wedijveren. Drie dingen maakten dat mogelijk:",
       "points": [
-        { "n": "01", "title": "New Nordic gaf rugdekking", "body": "Toen Noma geplukte kruiden, gerookte vis en langzaam gegaard wild tot de top van de keuken verhief, konden Laplandse koks — die dit al hun hele leven deden — het eindelijk zonder excuses op het bord leggen." },
+        { "n": "01", "title": "New Nordic gaf rugdekking", "body": "Toen Noma geplukte kruiden, gerookte vis en langzaam gegaard wild tot de top van de keuken verhief, konden Laplandse koks, die dit al hun hele leven deden, het eindelijk zonder excuses op het bord leggen." },
         { "n": "02", "title": "De techniek kwam naar het noorden", "body": "Goedkope sous-vide-circulators bevrijdden magere delen van de stoofpot. Rendierfilet, rosé gegaard op 54 °C, werd het handelsmerk van de moderne Laplandse keuken." },
         { "n": "03", "title": "De keten werd professioneel", "body": "Plukkers en kleine vissers leveren nu rechtstreeks aan restaurants, en specialistische producenten dekken alles van berkensiroop tot vossenbessenazijn. Een degustatiemenu kan elk ingrediënt binnen 200 kilometer sourcen." }
       ]
@@ -317,8 +317,8 @@
     "dishes": [
       { "name": "Sous-vide rendierfilet, bosbes en knol", "description": "Het bord dat de stijl definieert: magere rendierfilet rosé gegaard, een reductie van wilde bosbessen, knolgroente in twee texturen.", "technique": "Sous-vide", "traditional": "Gebraden rendier / poronkäristys", "innovation": "Precisietemperatuur maakt van het magerste deel de hoofdrol" },
       { "name": "Gekonfijte marene met wildekruidenolie", "description": "Meervis langzaam in vet gegaard, afgemaakt met olie van moerasspirea of sparrentoppen en iets zuurs van de fermentatieplank.", "technique": "Konfijten", "traditional": "Gerookte en gezouten meervis", "innovation": "Lage temperatuur houdt een delicate vis intact; geplukte kruiden vervangen dille als standaard" },
-      { "name": "Wildebessendessertreeks", "description": "Kruipbraam, bosbes en vossenbes als opeenvolging — parfait, fruitleer, gefermenteerd, bevroren — in plaats van één panna cotta met jam.", "technique": "Fermentatie + New Nordic-patisserie", "traditional": "Bessenkissel en jam", "innovation": "Gelactofermenteerde bessen leveren het zuur dat geïmporteerde citrus vervangt" },
-      { "name": "Bidos, opnieuw gedacht", "description": "De Samische feeststoofpot vertaald naar een degustatiemenu: de bouillon geklaard, de rendierschouder geperst, het merg apart geserveerd.", "technique": "Modern opmaken van een stoofschotel", "traditional": "Bidos-rendierstoofpot", "innovation": "Dezelfde delen en smaken, opnieuw opgemaakt als gangen — de huisversie blijft onaangeroerd" }
+      { "name": "Wildebessendessertreeks", "description": "Kruipbraam, bosbes en vossenbes als opeenvolging, parfait, fruitleer, gefermenteerd, bevroren, in plaats van één panna cotta met jam.", "technique": "Fermentatie + New Nordic-patisserie", "traditional": "Bessenkissel en jam", "innovation": "Gelactofermenteerde bessen leveren het zuur dat geïmporteerde citrus vervangt" },
+      { "name": "Bidos, opnieuw gedacht", "description": "De Samische feeststoofpot vertaald naar een degustatiemenu: de bouillon geklaard, de rendierschouder geperst, het merg apart geserveerd.", "technique": "Modern opmaken van een stoofschotel", "traditional": "Bidos-rendierstoofpot", "innovation": "Dezelfde delen en smaken, opnieuw opgemaakt als gangen; de huisversie blijft onaangeroerd" }
     ],
     "techniques": {
       "kicker": "Wat \"New Nordic\" eigenlijk betekent",
@@ -353,9 +353,9 @@
     "intro": {
       "lead": "Plukken in Finland is niet excentriek. Het is een routinematige zomeractiviteit voor ongeveer 40 % van de bevolking.",
       "points": [
-        { "n": "01", "title": "Mainstream, geen niche", "body": "Zo’n 40 % van de Finnen plukt — het cijfer komt uit de huishoudenquêtes van het Natural Resources Institute Finland (Luke) en loopt dwars door stad en platteland, leeftijd en inkomen." },
-        { "n": "02", "title": "Allemansrecht", "body": "Het in de Finse wet vastgelegde jokamiehenoikeus laat iedereen — inwoner of bezoeker — wandelen, kamperen en plukken op de meeste grond, van wie die ook is." },
-        { "n": "03", "title": "Geen vergunning, geen grondeigenaar", "body": "Je kunt van de weg het bos in stappen en plukken. De grenzen zijn ethisch (niet overplukken, planten niet beschadigen) en praktisch (weten wat je plukt) — niet juridisch." }
+        { "n": "01", "title": "Mainstream, geen niche", "body": "Zo’n 40 % van de Finnen plukt. Het cijfer komt uit de huishoudenquêtes van het Natural Resources Institute Finland (Luke) en loopt dwars door stad en platteland, leeftijd en inkomen." },
+        { "n": "02", "title": "Allemansrecht", "body": "Het in de Finse wet vastgelegde jokamiehenoikeus laat iedereen, inwoner of bezoeker, wandelen, kamperen en plukken op de meeste grond, van wie die ook is." },
+        { "n": "03", "title": "Geen vergunning, geen grondeigenaar", "body": "Je kunt van de weg het bos in stappen en plukken. De grenzen zijn ethisch (niet overplukken, planten niet beschadigen) en praktisch (weten wat je plukt), niet juridisch." }
       ]
     },
     "alert": {
@@ -451,8 +451,8 @@
       "lead": "De eetbelevingen in Lapland die uw geld waard zijn, zijn die welke u oog in oog brengen met de mensen die dit echt voor de kost doen.",
       "points": [
         { "n": "01", "title": "Kleine groepen, direct geboekt", "body": "Vergeet de restauranttour per touringcar: de trips hieronder zijn kleine groepen en worden vaak rechtstreeks bij de aanbieder geboekt." },
-        { "n": "02", "title": "Geleid door mensen die hiervan leven", "body": "Samische plukkers, fine-dining-chefs, werkende rendierhoeders. Je eet goed, maar het echte product is toegang — tot een kudde, een keuken, het favoriete veen van een plukker." },
-        { "n": "03", "title": "Live prijzen, geen brochureprijzen", "body": "Elke kaart linkt naar een live GetYourGuide-zoekopdracht, geen vaste productpagina: aanbieders wisselen, data en prijzen bewegen — je ziet altijd de actuele beschikbaarheid." }
+        { "n": "02", "title": "Geleid door mensen die hiervan leven", "body": "Samische plukkers, fine-dining-chefs, werkende rendierhoeders. Je eet goed, maar het echte product is toegang: tot een kudde, een keuken, het favoriete veen van een plukker." },
+        { "n": "03", "title": "Live prijzen, geen brochureprijzen", "body": "Elke kaart linkt naar een live GetYourGuide-zoekopdracht, geen vaste productpagina: aanbieders wisselen, data en prijzen bewegen; je ziet altijd de actuele beschikbaarheid." }
       ]
     },
     "listKicker": "Drie reizen die de moeite waard zijn",
@@ -576,7 +576,7 @@
     },
     "why": {
       "headline": "Waarom deze site bestaat.",
-      "p1": "Het meeste dat in het Engels over Laplands eten wordt geschreven, zit op een van twee extremen: luchtige brochuretaal (\"magische Samische smaken onder de middernachtzon\") of volledig van voetnoten voorziene academische etnografie die niemand leest voordat hij een tafel boekt. Wij mikken op het gat ertussen — heldere zinnen, concrete ingrediënten en concrete restaurants, cijfers alleen waar ze helpen, geschreven vanuit het noorden van de poolcirkel en niet vanachter een bureau in Londen.",
+      "p1": "Het meeste dat in het Engels over Laplands eten wordt geschreven, zit op een van twee extremen: luchtige brochuretaal (\"magische Samische smaken onder de middernachtzon\") of volledig van voetnoten voorziene academische etnografie die niemand leest voordat hij een tafel boekt. Wij mikken op het gat ertussen: heldere zinnen, concrete ingrediënten en concrete restaurants, cijfers alleen waar ze helpen, geschreven vanuit het noorden van de poolcirkel en niet vanachter een bureau in Londen.",
       "p3": "De lat die we onszelf opleggen: <strong>een vriend die voor het eerst in Lapland aankomt, zou hier drie pagina’s moeten kunnen lezen en met genoeg vertrekken om een echte foodtrip te plannen.</strong> Zakt een sectie voor die test, dan schrijven we hem opnieuw."
     },
     "cover": {

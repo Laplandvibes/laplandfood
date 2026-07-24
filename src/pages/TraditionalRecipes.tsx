@@ -18,7 +18,7 @@ interface MethodItem { title: string; body: string }
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
-  headline: 'Traditional Sami Recipes — Authentic Lapland Food Culture',
+  headline: 'Traditional Sami Recipes: Authentic Lapland Food Culture',
   about: 'Sami cuisine, traditional Finnish Lapland recipes',
   publisher: { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' },
   inLanguage: 'en'

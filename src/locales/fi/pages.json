@@ -75,15 +75,15 @@
     "faq": {
       "eyebrow": "Hyvä tietää",
       "headline": "Kysytyimmät kysymykset.",
-      "lead": "Lyhyet vastaukset — jokaisesta linkki syvemmälle vievälle pilarisivulle.",
+      "lead": "Lyhyet vastaukset: jokaisesta linkki syvemmälle vievälle pilarisivulle.",
       "stillPrefix": "Jäikö jokin mietityttämään? Kirjoita meille: ",
-      "stillSuffix": " — vastaamme.",
+      "stillSuffix": ". Vastaamme.",
       "items": [
         { "question": "Millaista perinteinen suomalainen ruoka on?", "answer": "Perinteinen suomalainen ruoka rakentuu sen varaan, mitä lähiympäristössä kasvaa, ui tai laiduntaa: ruisleipä, järvikala, poro, metsämarjat kuten mustikka, puolukka ja hilla, sienet ja maitotuotteet. Keittiö on sesonkien mukainen, kevyesti maustettu, ja raaka-aine on tekniikkaa tärkeämpi." },
-        { "question": "Onko Suomessa Michelin-tähtiravintoloita?", "answer": "Kyllä. Michelin-opas kattaa Suomen, ja viime vuosien Pohjoismaiden oppaissa kaikki Suomen tähtiravintolat ovat olleet Helsingissä. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt — Nili, Aanaar, Rakas — vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta." },
-        { "question": "Mitä on saamelainen ruoka?", "answer": "Saamelainen ruoka on Saamenmaan eli Sápmin — Pohjois-Suomen, Ruotsin, Norjan ja Venäjän — alkuperäiskansan keittiötä. Sen ytimessä ovat poro, josta käytetään kaikki osat, arktiset kalat, kerätyt marjat ja yrtit sekä hitaat kypsennystavat kuten bidos-pata. Reseptit seuraavat saamelaisten kahdeksan vuodenajan kalenteria." },
-        { "question": "Saavatko matkailijat poimia marjoja ja sieniä Suomessa?", "answer": "Kyllä. Jokamiehenoikeus antaa jokaiselle — myös vierailijalle — luvan poimia marjoja, sieniä ja luonnonyrttejä lähes kaikkialla, myös yksityismetsissä. Opettele kuitenkin sienten tunnistus ennen poimimista: Suomen metsissä kasvaa tappavan myrkyllisiä lajeja kuten kavalakärpässieni ja valkokärpässieni. Ensikertalaiselle opastettu sieniretki on turvallisin tapa aloittaa." },
-        { "question": "Milloin on hillasesonki Lapissa?", "answer": "Suunnilleen heinäkuun puolivälistä elokuun puoliväliin, ja kiihkein poimintajakso kestää noin kolme viikkoa suosta riippuen. Hilla kasvaa vain kylmillä arktisilla soilla eikä taivu viljelyyn — siksi se on Lapin arvostetuin ja kallein luonnonmarja." }
+        { "question": "Onko Suomessa Michelin-tähtiravintoloita?", "answer": "Kyllä. Michelin-opas kattaa Suomen, ja viime vuosien Pohjoismaiden oppaissa kaikki Suomen tähtiravintolat ovat olleet Helsingissä. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt, Nili, Aanaar, Rakas, vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta." },
+        { "question": "Mitä on saamelainen ruoka?", "answer": "Saamelainen ruoka on Saamenmaan eli Sápmin, Pohjois-Suomen, Ruotsin, Norjan ja Venäjän, alkuperäiskansan keittiötä. Sen ytimessä ovat poro, josta käytetään kaikki osat, arktiset kalat, kerätyt marjat ja yrtit sekä hitaat kypsennystavat kuten bidos-pata. Reseptit seuraavat saamelaisten kahdeksan vuodenajan kalenteria." },
+        { "question": "Saavatko matkailijat poimia marjoja ja sieniä Suomessa?", "answer": "Kyllä. Jokamiehenoikeus antaa jokaiselle, myös vierailijalle, luvan poimia marjoja, sieniä ja luonnonyrttejä lähes kaikkialla, myös yksityismetsissä. Opettele kuitenkin sienten tunnistus ennen poimimista: Suomen metsissä kasvaa tappavan myrkyllisiä lajeja kuten kavalakärpässieni ja valkokärpässieni. Ensikertalaiselle opastettu sieniretki on turvallisin tapa aloittaa." },
+        { "question": "Milloin on hillasesonki Lapissa?", "answer": "Suunnilleen heinäkuun puolivälistä elokuun puoliväliin, ja kiihkein poimintajakso kestää noin kolme viikkoa suosta riippuen. Hilla kasvaa vain kylmillä arktisilla soilla eikä taivu viljelyyn. Siksi se on Lapin arvostetuin ja kallein luonnonmarja." }
       ]
     }
   },
@@ -101,9 +101,9 @@
     "intro": {
       "lead": "Lapin ruokavarasto on lyhyt. Siinä on sen voima.",
       "points": [
-        { "n": "01", "title": "Kuusi raaka-ainetta, yksi käsi", "body": "Poro, järvikala, metsämarjat, sienet, villiyrtit ja maitotuotteet — siinä koko ruokavarasto. Piilotettua 30. raaka-ainetta ei ole; taito on siinä, mitä näillä kuudella on opittu tekemään." },
+        { "n": "01", "title": "Kuusi raaka-ainetta, yksi käsi", "body": "Poro, järvikala, metsämarjat, sienet, villiyrtit ja maitotuotteet: siinä koko ruokavarasto. Piilotettua 30. raaka-ainetta ei ole; taito on siinä, mitä näillä kuudella on opittu tekemään." },
         { "n": "02", "title": "Lähes kaikki on villiä", "body": "Se erottaa Lapin melkein kaikista muista Euroopan ruokakulttuureista. Porotkin elävät kymmenien tuhansien neliökilometrien aitaamattomassa erämaassa." },
-        { "n": "03", "title": "Villi tarkoittaa vuosikertoja", "body": "Villit raaka-aineet vaihtelevat vuodesta ja paikasta toiseen tavalla, jota viljellyt eivät tunne — Inarin suon hillat maistuvat erilaisilta kuin 80 kilometriä etelämpää poimitut." }
+        { "n": "03", "title": "Villi tarkoittaa vuosikertoja", "body": "Villit raaka-aineet vaihtelevat vuodesta ja paikasta toiseen tavalla, jota viljellyt eivät tunne: Inarin suon hillat maistuvat erilaisilta kuin 80 kilometriä etelämpää poimitut." }
       ]
     },
     "ingredients": [
@@ -166,7 +166,7 @@
     "intro": {
       "lead": "Tämän sivun reseptit eivät ole museotavaraa. Niitä kokataan yhä.",
       "points": [
-        { "n": "01", "title": "Kokataan yhä tiistaisin", "body": "Astu saamelaiskotiin Inarissa tai Utsjoella marraskuussa, ja liedellä on bidos — sama hitaasti haudutettu poropata, jonka perheen mummo teki, samoilla paloilla ja samalla hiljaa hymisevällä lämmöllä." },
+        { "n": "01", "title": "Kokataan yhä tiistaisin", "body": "Astu saamelaiskotiin Inarissa tai Utsjoella marraskuussa, ja liedellä on bidos, sama hitaasti haudutettu poropata, jonka perheen mummo teki, samoilla paloilla ja samalla hiljaa hymisevällä lämmöllä." },
         { "n": "02", "title": "Selvisi omalla varastollaan", "body": "Saamelaiskeittiö eli yli useimpien esiteollisten arktisten ruokakulttuurien, koska se ei koskaan tarvinnut tuontitavaraa maistuakseen omaltaan: poro, järvikala, marjat, villiyrtit, ruis, voi, suola." },
         { "n": "03", "title": "Neljä sisäänkäyntiä", "body": "Bidos on sielunruoka, gahkku jokapäiväinen leipä, Sápmi-kalakeitto se mitä järvi sinä viikkona antoi, ja marjakiisseli tapa säilöä kesä." }
       ]
@@ -300,14 +300,14 @@
       "eyebrow": "Pilari 03 · Moderni",
       "title": "Uusi",
       "titleHighlight": "arktinen keittiö.",
-      "subtitle": "Lapin moderni keittiö ottaa raaka-aineet, joita saamelaiset ovat käyttäneet tuhat vuotta — poron, järvikalan, metsämarjat ja villiyrtit — ja kattaa ne lautaselle New Nordic -tekniikalla. Tämä sivu kertoo, miten se tapahtui ja missä sen voi maistaa.",
+      "subtitle": "Lapin moderni keittiö ottaa raaka-aineet, joita saamelaiset ovat käyttäneet tuhat vuotta, poron, järvikalan, metsämarjat ja villiyrtit, ja kattaa ne lautaselle New Nordic -tekniikalla. Tämä sivu kertoo, miten se tapahtui ja missä sen voi maistaa.",
       "primaryCta": "Mistä varata",
       "secondaryCta": "Perinnereseptit"
     },
     "intro": {
       "lead": "Vielä 2010-luvun alussa ravintolaillallinen Lapissa tarkoitti hotellin matkailuravintolaa ja poropippuripihviä. Noin kymmenessä vuodessa tilalle kasvoivat pienet kokkivetoiset tasting menu -salit, jotka kilpailevat lautastyössä Helsingin kanssa. Kolme asiaa teki muutoksen mahdolliseksi:",
       "points": [
-        { "n": "01", "title": "New Nordic antoi suojan", "body": "Kun Noma nosti keräillyt yrtit, savukalan ja hitaasti kypsennetyn riistan keittiön hienostuneeksi kärjeksi, Lapin kokit — jotka olivat tehneet näitä koko ikänsä — saivat vihdoin laittaa ne lautaselle ilman anteeksipyytelyä." },
+        { "n": "01", "title": "New Nordic antoi suojan", "body": "Kun Noma nosti keräillyt yrtit, savukalan ja hitaasti kypsennetyn riistan keittiön hienostuneeksi kärjeksi, Lapin kokit, jotka olivat tehneet näitä koko ikänsä, saivat vihdoin laittaa ne lautaselle ilman anteeksipyytelyä." },
         { "n": "02", "title": "Tekniikka tuli pohjoiseen", "body": "Edulliset sous vide -kiertimet vapauttivat vähärasvaiset palat muhennoskohtalolta. Keskeltä vaaleanpunainen, 54-asteinen poronfilee nousi modernin lappilaisen keittiön tunnukseksi." },
         { "n": "03", "title": "Toimitusketju ammattimaistui", "body": "Keräilijät ja pienkalastajat myyvät nyt suoraan ravintoloille, ja erikoistuottajat kattavat kaiken koivunmahlasta puolukkaetikkaan. Tasting menu voi hankkia jokaisen raaka-aineen 200 kilometrin säteeltä." }
       ]
@@ -318,8 +318,8 @@
     "dishes": [
       { "name": "Sous vide -poronfilee, mustikka ja juures", "description": "Tyylisuunnan määrittävä lautanen: keskeltä vaaleanpunainen poronfilee, metsämustikkakastike ja juures kahdessa tekstuurissa.", "technique": "Sous vide", "traditional": "Paistettu poro / poronkäristys", "innovation": "Tarkka lämpötila nostaa vähärasvaisimman palan pääosaan" },
       { "name": "Confit-siika ja villiyrttiöljy", "description": "Rasvassa hitaasti kypsennetty siika, viimeisteltynä mesiangervo- tai kuusenkerkkäöljyllä ja jollakin kirpeällä fermentointihyllyltä.", "technique": "Confit", "traditional": "Savustettu ja suolattu järvikala", "innovation": "Matala lämpötila pitää hauraan kalan ehjänä; keräily-yrtit korvaavat tillin oletuksena" },
-      { "name": "Metsämarjajälkiruokien sarja", "description": "Hilla, mustikka ja puolukka etenevänä sarjana — parfee, marjanahka, fermentoitu, jäädytetty — yhden hillopannacotan sijaan.", "technique": "Fermentointi + New Nordic -jälkiruokatekniikka", "traditional": "Marjakiisseli ja hillot", "innovation": "Fermentoidut marjat tuovat happamuuden, joka korvaa tuontisitrukset" },
-      { "name": "Bidos uudelleen tulkittuna", "description": "Saamelaisten juhlapata tasting menun kielelle: liemi kirkastettuna, poron lapa prässättynä, ydinluu erikseen.", "technique": "Hitaan padan moderni annostelu", "traditional": "Bidos-poropata", "innovation": "Samat palat ja maut uusina annoksina — kotiversio pysyy koskemattomana" }
+      { "name": "Metsämarjajälkiruokien sarja", "description": "Hilla, mustikka ja puolukka etenevänä sarjana, parfee, marjanahka, fermentoitu, jäädytetty, yhden hillopannacotan sijaan.", "technique": "Fermentointi + New Nordic -jälkiruokatekniikka", "traditional": "Marjakiisseli ja hillot", "innovation": "Fermentoidut marjat tuovat happamuuden, joka korvaa tuontisitrukset" },
+      { "name": "Bidos uudelleen tulkittuna", "description": "Saamelaisten juhlapata tasting menun kielelle: liemi kirkastettuna, poron lapa prässättynä, ydinluu erikseen.", "technique": "Hitaan padan moderni annostelu", "traditional": "Bidos-poropata", "innovation": "Samat palat ja maut uusina annoksina: kotiversio pysyy koskemattomana" }
     ],
     "techniques": {
       "kicker": "Mitä \"New Nordic\" oikeasti tarkoittaa",
@@ -354,9 +354,9 @@
     "intro": {
       "lead": "Keräily Suomessa ei ole erikoista. Se on rutiininomainen kesäharrastus noin 40 %:lle väestöstä.",
       "points": [
-        { "n": "01", "title": "Valtavirtaa, ei alakulttuuria", "body": "Noin 40 % suomalaisista kerää — luku on Luonnonvarakeskuksen (Luke) kotitalouskyselyistä, ja se leikkaa kaupungin ja maaseudun, iän ja tulot." },
-        { "n": "02", "title": "Jokamiehenoikeus", "body": "Suomen lakiin kirjattu periaate antaa jokaiselle — kansalaiselle ja vierailijalle — oikeuden kulkea, leiriytyä ja kerätä useimmilla mailla omistajasta riippumatta." },
-        { "n": "03", "title": "Ei lupia, ei maanomistajaa", "body": "Voit astua tieltä metsään ja poimia. Rajat ovat eettisiä (älä ylikerää, älä vahingoita kasveja) ja käytännöllisiä (tunne mitä poimit) — eivät lakimääräisiä." }
+        { "n": "01", "title": "Valtavirtaa, ei alakulttuuria", "body": "Noin 40 % suomalaisista kerää: luku on Luonnonvarakeskuksen (Luke) kotitalouskyselyistä, ja se leikkaa kaupungin ja maaseudun, iän ja tulot." },
+        { "n": "02", "title": "Jokamiehenoikeus", "body": "Suomen lakiin kirjattu periaate antaa jokaiselle, kansalaiselle ja vierailijalle, oikeuden kulkea, leiriytyä ja kerätä useimmilla mailla omistajasta riippumatta." },
+        { "n": "03", "title": "Ei lupia, ei maanomistajaa", "body": "Voit astua tieltä metsään ja poimia. Rajat ovat eettisiä (älä ylikerää, älä vahingoita kasveja) ja käytännöllisiä (tunne mitä poimit), eivät lakimääräisiä." }
       ]
     },
     "alert": {
@@ -452,7 +452,7 @@
       "lead": "Rahansa arvoiset ruokaelämykset Lapissa ovat niitä, joissa pääset niiden ihmisten luo, jotka tekevät tätä työkseen.",
       "points": [
         { "n": "01", "title": "Pienryhmiä, suoraan yrittäjältä", "body": "Unohda bussilastillinen ravintolakierros: alla olevat retket ovat pienryhmiä, ja ne varataan usein suoraan järjestäjältä." },
-        { "n": "02", "title": "Vetäjinä ne, jotka elävät tästä", "body": "Saamelaiskeräilijöitä, fine dining -kokkeja, työtään tekeviä poronhoitajia. Syöt hyvin, mutta varsinainen tuote on pääsy — tokan luo, keittiöön, keräilijän omalle suolle." },
+        { "n": "02", "title": "Vetäjinä ne, jotka elävät tästä", "body": "Saamelaiskeräilijöitä, fine dining -kokkeja, työtään tekeviä poronhoitajia. Syöt hyvin, mutta varsinainen tuote on pääsy: tokan luo, keittiöön, keräilijän omalle suolle." },
         { "n": "03", "title": "Livehinnat, ei esitehintoja", "body": "Jokainen kortti vie GetYourGuiden livehakuun, ei kiinteälle tuotesivulle: järjestäjät vaihtuvat, päivämäärät ja hinnat elävät, joten näet aina ajantasaisen saatavuuden." }
       ]
     },
@@ -577,7 +577,7 @@
     },
     "why": {
       "headline": "Miksi tämä sivusto on olemassa.",
-      "p1": "Suurin osa Lapin ruoasta englanniksi kirjoitetusta osuu jompaankumpaan ääripäähän: ilmavaan esitekopioon (\"taianomaisia saamelaisia makuja keskiyön auringon alla\") tai täysin lähteistettyyn akateemiseen etnografiaan, jota kukaan ei lue puhelimelta ennen pöydän varaamista. Me pyrimme väliin — yksinkertaisia lauseita, tarkkoja raaka-aineita ja tarkkoja ravintoloita, numeroita vain silloin kun ne auttavat, kirjoitettuna napapiirin pohjoispuolelta eikä pöydän takaa Lontoossa.",
+      "p1": "Suurin osa Lapin ruoasta englanniksi kirjoitetusta osuu jompaankumpaan ääripäähän: ilmavaan esitekopioon (\"taianomaisia saamelaisia makuja keskiyön auringon alla\") tai täysin lähteistettyyn akateemiseen etnografiaan, jota kukaan ei lue puhelimelta ennen pöydän varaamista. Me pyrimme väliin: yksinkertaisia lauseita, tarkkoja raaka-aineita ja tarkkoja ravintoloita, numeroita vain silloin kun ne auttavat, kirjoitettuna napapiirin pohjoispuolelta eikä pöydän takaa Lontoossa.",
       "p3": "Rima, jonka pidämme itsellemme: <strong>ensimmäistä kertaa Lappiin tulevan ystävän pitäisi pystyä lukemaan täältä kolme sivua ja lähteä riittävällä ymmärryksellä suunnitellakseen oikean ruokamatkan.</strong> Jos osio ei läpäise tätä testiä, kirjoitamme sen uudelleen."
     },
     "cover": {

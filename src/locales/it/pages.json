@@ -77,13 +77,13 @@
       "headline": "Le domande che tutti fanno per prime.",
       "lead": "Risposte brevi, ognuna con il link alla pagina che approfondisce.",
       "stillPrefix": "Hai ancora un dubbio? Scrivici a ",
-      "stillSuffix": " — rispondiamo.",
+      "stillSuffix": ". Rispondiamo.",
       "items": [
         { "question": "Com’è il cibo tradizionale finlandese?", "answer": "La cucina tradizionale finlandese si fonda su ciò che cresce, nuota o pascola nei dintorni: pane di segale, pesce d’acqua dolce, renna, bacche selvatiche come mirtillo, mirtillo rosso e camemoro, funghi raccolti nel bosco e latticini. È una cucina stagionale, poco speziata, centrata sull’ingrediente più che sulla tecnica." },
-        { "question": "In Finlandia ci sono ristoranti stellati Michelin?", "answer": "Sì. La Guida Michelin copre la Finlandia e i ristoranti stellati delle ultime edizioni nordiche sono stati tutti a Helsinki. La Lapponia oggi non ha stelle, ma le sue cucine di punta — Nili, Aanaar, Rakas — stanno spingendo il menu degustazione oltre il Circolo Polare Artico. Le stelle cambiano ogni anno: verifica la guida aggiornata prima di prenotare." },
-        { "question": "Che cos’è il cibo sami?", "answer": "Il cibo sami è la cucina indigena del Sápmi, la regione che attraversa il nord di Finlandia, Svezia, Norvegia e Russia. Ruota attorno alla renna — di cui si usa ogni parte —, al pesce artico, a bacche ed erbe raccolte e a cotture lente come lo stufato bidos. Le ricette seguono il calendario sami a otto stagioni." },
-        { "question": "I visitatori possono raccogliere bacche e funghi in Finlandia?", "answer": "Sì. Il diritto di accesso alla natura finlandese (jokamiehenoikeus) consente a chiunque — residente o visitatore — di raccogliere bacche, funghi ed erbe selvatiche quasi ovunque, boschi privati compresi. Prima di raccogliere, però, impara a riconoscere i funghi: nei boschi finlandesi crescono specie letali come l’amanita falloide. Per la prima volta, un’escursione guidata di raccolta è l’ingresso più sicuro." },
-        { "question": "Quando è la stagione del camemoro in Lapponia?", "answer": "Indicativamente da metà luglio a metà agosto, con una finestra intensa di raccolta di circa tre settimane a seconda della torbiera. Il camemoro cresce solo nelle fredde torbiere artiche e resiste alla coltivazione: per questo è la bacca selvatica più pregiata — e più cara — della Lapponia." }
+        { "question": "In Finlandia ci sono ristoranti stellati Michelin?", "answer": "Sì. La Guida Michelin copre la Finlandia e i ristoranti stellati delle ultime edizioni nordiche sono stati tutti a Helsinki. La Lapponia oggi non ha stelle, ma le sue cucine di punta, Nili, Aanaar, Rakas, stanno spingendo il menu degustazione oltre il Circolo Polare Artico. Le stelle cambiano ogni anno: verifica la guida aggiornata prima di prenotare." },
+        { "question": "Che cos’è il cibo sami?", "answer": "Il cibo sami è la cucina indigena del Sápmi, la regione che attraversa il nord di Finlandia, Svezia, Norvegia e Russia. Ruota attorno alla renna, di cui si usa ogni parte, al pesce artico, a bacche ed erbe raccolte e a cotture lente come lo stufato bidos. Le ricette seguono il calendario sami a otto stagioni." },
+        { "question": "I visitatori possono raccogliere bacche e funghi in Finlandia?", "answer": "Sì. Il diritto di accesso alla natura finlandese (jokamiehenoikeus) consente a chiunque, residente o visitatore, di raccogliere bacche, funghi ed erbe selvatiche quasi ovunque, boschi privati compresi. Prima di raccogliere, però, impara a riconoscere i funghi: nei boschi finlandesi crescono specie letali come l’amanita falloide. Per la prima volta, un’escursione guidata di raccolta è l’ingresso più sicuro." },
+        { "question": "Quando è la stagione del camemoro in Lapponia?", "answer": "Indicativamente da metà luglio a metà agosto, con una finestra intensa di raccolta di circa tre settimane a seconda della torbiera. Il camemoro cresce solo nelle fredde torbiere artiche e resiste alla coltivazione: per questo è la bacca selvatica più pregiata, e più cara, della Lapponia." }
       ]
     }
   },
@@ -165,7 +165,7 @@
     "intro": {
       "lead": "Le ricette di questa pagina non sono patrimonio in senso museale. Si cucinano ancora.",
       "points": [
-        { "n": "01", "title": "Si cucina ancora ogni martedì", "body": "Entrate in una casa sami a Inari o Utsjoki a novembre e sul fuoco c’è il bidos — lo stesso stufato di renna a cottura lenta che faceva la nonna, con gli stessi tagli, allo stesso calore che sussurra appena." },
+        { "n": "01", "title": "Si cucina ancora ogni martedì", "body": "Entrate in una casa sami a Inari o Utsjoki a novembre e sul fuoco c’è il bidos, lo stesso stufato di renna a cottura lenta che faceva la nonna, con gli stessi tagli, allo stesso calore che sussurra appena." },
         { "n": "02", "title": "Sopravvissuta con la propria dispensa", "body": "La cucina sami è sopravvissuta alla maggior parte delle culture gastronomiche artiche preindustriali perché non ha mai avuto bisogno di importazioni per sapere di sé: renna, pesce di lago, bacche, erbe selvatiche, segale, burro, sale." },
         { "n": "03", "title": "Quattro porte d’ingresso", "body": "Il bidos è il piatto proteico dell’anima, il gahkku il pane quotidiano, la zuppa di pesce del Sápmi ciò che il lago ha dato quella settimana, e il kissel di bacche il modo di conservare l’estate." }
       ]
@@ -299,14 +299,14 @@
       "eyebrow": "Pilastro 03 · Moderna",
       "title": "La nuova",
       "titleHighlight": "cucina artica.",
-      "subtitle": "La cucina moderna della Lapponia prende gli ingredienti che i sami usano da mille anni — renna, pesce di lago, bacche ed erbe selvatiche — e li impiatta con tecnica New Nordic. Questa pagina racconta com’è successo e dove assaggiarla.",
+      "subtitle": "La cucina moderna della Lapponia prende gli ingredienti che i sami usano da mille anni, renna, pesce di lago, bacche ed erbe selvatiche, e li impiatta con tecnica New Nordic. Questa pagina racconta com’è successo e dove assaggiarla.",
       "primaryCta": "Dove prenotare",
       "secondaryCta": "Le ricette tradizionali"
     },
     "intro": {
       "lead": "All’inizio degli anni 2010 una cena al ristorante in Lapponia significava ancora la sala di un hotel turistico e una bistecca di renna al pepe. In circa dieci anni al suo posto sono cresciute piccole sale degustazione guidate dagli chef, che competono con Helsinki sull’impiattamento. Tre cose l’hanno reso possibile:",
       "points": [
-        { "n": "01", "title": "Il New Nordic ha dato copertura", "body": "Quando il Noma ha elevato erbe raccolte, pesce affumicato e selvaggina a cottura lenta a vertice della cucina, gli chef della Lapponia — che lo facevano da una vita — hanno potuto finalmente impiattarlo senza scusarsi." },
+        { "n": "01", "title": "Il New Nordic ha dato copertura", "body": "Quando il Noma ha elevato erbe raccolte, pesce affumicato e selvaggina a cottura lenta a vertice della cucina, gli chef della Lapponia, che lo facevano da una vita, hanno potuto finalmente impiattarlo senza scusarsi." },
         { "n": "02", "title": "La tecnica è arrivata al nord", "body": "I roner sous-vide economici hanno liberato i tagli magri dallo stufato. Il filetto di renna, rosa al cuore a 54 °C, è diventato la firma della cucina lappone moderna." },
         { "n": "03", "title": "La filiera è maturata", "body": "Raccoglitori e piccoli pescatori vendono ora direttamente ai ristoranti, e produttori specializzati coprono tutto, dallo sciroppo di betulla all'aceto di mirtillo rosso. Un menu degustazione può approvvigionarsi interamente entro 200 chilometri." }
       ]
@@ -317,8 +317,8 @@
     "dishes": [
       { "name": "Filetto di renna sous-vide, mirtillo e radice", "description": "Il piatto che definisce lo stile: filetto magro di renna rosa al cuore, una riduzione di mirtilli selvatici, un ortaggio da radice in due consistenze.", "technique": "Sous-vide", "traditional": "Renna arrosto / poronkäristys", "innovation": "La temperatura di precisione trasforma il taglio più magro nel protagonista" },
       { "name": "Coregone confit con olio alle erbe selvatiche", "description": "Coregone di lago cotto lentamente nel grasso, rifinito con olio di olmaria o germogli di abete e una nota acida dallo scaffale delle fermentazioni.", "technique": "Confit", "traditional": "Pesce di lago affumicato e salato", "innovation": "La bassa temperatura preserva un pesce delicato; le erbe raccolte sostituiscono l'aneto di default" },
-      { "name": "Sequenza di dessert ai frutti di bosco", "description": "Camemoro, mirtillo e mirtillo rosso in progressione — parfait, cuoio di frutta, fermentato, gelato — invece di una panna cotta con marmellata.", "technique": "Fermentazione + pasticceria New Nordic", "traditional": "Kissel e marmellate di bacche", "innovation": "Le bacche lattofermentate danno l'acidità che sostituisce gli agrumi d'importazione" },
-      { "name": "Il bidos, reinterpretato", "description": "Lo stufato sami delle feste ripensato per il menu degustazione: brodo chiarificato, spalla di renna pressata, midollo servito a parte.", "technique": "Impiattamento moderno di un brasato lento", "traditional": "Stufato di renna bidos", "innovation": "Stessi tagli e stessi sapori, riproposti come portate — la versione di casa resta intatta" }
+      { "name": "Sequenza di dessert ai frutti di bosco", "description": "Camemoro, mirtillo e mirtillo rosso in progressione, parfait, cuoio di frutta, fermentato, gelato, invece di una panna cotta con marmellata.", "technique": "Fermentazione + pasticceria New Nordic", "traditional": "Kissel e marmellate di bacche", "innovation": "Le bacche lattofermentate danno l'acidità che sostituisce gli agrumi d'importazione" },
+      { "name": "Il bidos, reinterpretato", "description": "Lo stufato sami delle feste ripensato per il menu degustazione: brodo chiarificato, spalla di renna pressata, midollo servito a parte.", "technique": "Impiattamento moderno di un brasato lento", "traditional": "Stufato di renna bidos", "innovation": "Stessi tagli e stessi sapori, riproposti come portate; la versione di casa resta intatta" }
     ],
     "techniques": {
       "kicker": "Cosa significa davvero \"New Nordic\"",
@@ -353,9 +353,9 @@
     "intro": {
       "lead": "La raccolta in Finlandia non è una stranezza. È un'attività estiva di routine per circa il 40 % della popolazione.",
       "points": [
-        { "n": "01", "title": "Mainstream, non nicchia", "body": "Circa il 40 % dei finlandesi raccoglie — il dato viene dalle indagini sulle famiglie del Natural Resources Institute Finland (Luke) e attraversa città e campagna, età e reddito." },
-        { "n": "02", "title": "Diritto di accesso alla natura", "body": "Il jokamiehenoikeus, codificato nella legge finlandese, permette a chiunque — residente o visitatore — di camminare, campeggiare e raccogliere sulla maggior parte dei terreni, chiunque ne sia il proprietario." },
-        { "n": "03", "title": "Niente permessi, niente proprietario", "body": "Si può lasciare la strada, entrare nel bosco e raccogliere. I limiti sono etici (non raccogliere troppo, non danneggiare le piante) e pratici (sapere cosa si raccoglie) — non legali." }
+        { "n": "01", "title": "Mainstream, non nicchia", "body": "Circa il 40 % dei finlandesi raccoglie. Il dato viene dalle indagini sulle famiglie del Natural Resources Institute Finland (Luke) e attraversa città e campagna, età e reddito." },
+        { "n": "02", "title": "Diritto di accesso alla natura", "body": "Il jokamiehenoikeus, codificato nella legge finlandese, permette a chiunque, residente o visitatore, di camminare, campeggiare e raccogliere sulla maggior parte dei terreni, chiunque ne sia il proprietario." },
+        { "n": "03", "title": "Niente permessi, niente proprietario", "body": "Si può lasciare la strada, entrare nel bosco e raccogliere. I limiti sono etici (non raccogliere troppo, non danneggiare le piante) e pratici (sapere cosa si raccoglie), non legali." }
       ]
     },
     "alert": {
@@ -451,8 +451,8 @@
       "lead": "Le esperienze culinarie in Lapponia che valgono i Suoi soldi sono quelle che La mettono di fronte alle persone che fanno questo per vivere.",
       "points": [
         { "n": "01", "title": "Piccoli gruppi, prenotazione diretta", "body": "Dimenticate il giro dei ristoranti in pullman: le esperienze qui sotto sono in piccoli gruppi e spesso si prenotano direttamente dall’operatore." },
-        { "n": "02", "title": "Guidate da chi ci vive", "body": "Raccoglitori sami, chef di alta cucina, allevatori di renne in attività. Si mangia bene, ma il vero prodotto è l’accesso — a una mandria, a una cucina, alla torbiera preferita di un raccoglitore." },
-        { "n": "03", "title": "Prezzi live, non da catalogo", "body": "Ogni scheda porta a una ricerca live su GetYourGuide, non a una pagina prodotto fissa: gli operatori ruotano, date e prezzi cambiano — vedete sempre la disponibilità attuale." }
+        { "n": "02", "title": "Guidate da chi ci vive", "body": "Raccoglitori sami, chef di alta cucina, allevatori di renne in attività. Si mangia bene, ma il vero prodotto è l’accesso: a una mandria, a una cucina, alla torbiera preferita di un raccoglitore." },
+        { "n": "03", "title": "Prezzi live, non da catalogo", "body": "Ogni scheda porta a una ricerca live su GetYourGuide, non a una pagina prodotto fissa: gli operatori ruotano, date e prezzi cambiano; vedete sempre la disponibilità attuale." }
       ]
     },
     "listKicker": "Tre viaggi che meritano",

@@ -77,13 +77,13 @@
       "headline": "Les questions qu’on nous pose en premier.",
       "lead": "Des réponses courtes, chacune reliée à la page pilier qui approfondit.",
       "stillPrefix": "Une question encore ? Écrivez-nous à ",
-      "stillSuffix": " — nous répondons.",
+      "stillSuffix": ". Nous répondons.",
       "items": [
         { "question": "À quoi ressemble la cuisine traditionnelle finlandaise ?", "answer": "La cuisine traditionnelle finlandaise repose sur ce qui pousse, nage ou pâture à proximité : pain de seigle, poisson d’eau douce, renne, baies sauvages comme la myrtille, l’airelle rouge et la plaquebière, champignons cueillis et produits laitiers. Une cuisine de saison, peu assaisonnée, centrée sur l’ingrédient plutôt que sur la technique." },
-        { "question": "Y a-t-il des restaurants étoilés Michelin en Finlande ?", "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses cuisines phares — Nili, Aanaar, Rakas — font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver." },
-        { "question": "Qu’est-ce que la cuisine samie ?", "answer": "La cuisine samie est la cuisine autochtone du Sápmi, la région qui s’étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Elle s’articule autour du renne — dont chaque partie est utilisée —, du poisson arctique, des baies et herbes cueillies, et des cuissons lentes comme le ragoût bidos. Les recettes suivent le calendrier sami à huit saisons." },
-        { "question": "Les visiteurs peuvent-ils cueillir baies et champignons en Finlande ?", "answer": "Oui. Le droit d’accès à la nature finlandais (jokamiehenoikeus) permet à chacun — habitant ou visiteur — de cueillir baies, champignons et herbes sauvages sur la plupart des terres, forêts privées comprises. Apprenez toutefois à identifier les champignons avant de cueillir : des espèces mortelles comme l’amanite phalloïde poussent dans les forêts finlandaises. Pour une première fois, une sortie de cueillette guidée est l’entrée la plus sûre." },
-        { "question": "Quand a lieu la saison de la plaquebière en Laponie ?", "answer": "Environ de la mi-juillet à la mi-août, avec une fenêtre intensive de cueillette d’environ trois semaines selon la tourbière. La plaquebière ne pousse que dans les tourbières arctiques froides et résiste à la culture : c’est pourquoi elle est la baie sauvage la plus prisée — et la plus chère — de Laponie." }
+        { "question": "Y a-t-il des restaurants étoilés Michelin en Finlande ?", "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses cuisines phares, Nili, Aanaar, Rakas, font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver." },
+        { "question": "Qu’est-ce que la cuisine samie ?", "answer": "La cuisine samie est la cuisine autochtone du Sápmi, la région qui s’étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Elle s’articule autour du renne, dont chaque partie est utilisée, du poisson arctique, des baies et herbes cueillies, et des cuissons lentes comme le ragoût bidos. Les recettes suivent le calendrier sami à huit saisons." },
+        { "question": "Les visiteurs peuvent-ils cueillir baies et champignons en Finlande ?", "answer": "Oui. Le droit d’accès à la nature finlandais (jokamiehenoikeus) permet à chacun, habitant ou visiteur, de cueillir baies, champignons et herbes sauvages sur la plupart des terres, forêts privées comprises. Apprenez toutefois à identifier les champignons avant de cueillir : des espèces mortelles comme l’amanite phalloïde poussent dans les forêts finlandaises. Pour une première fois, une sortie de cueillette guidée est l’entrée la plus sûre." },
+        { "question": "Quand a lieu la saison de la plaquebière en Laponie ?", "answer": "Environ de la mi-juillet à la mi-août, avec une fenêtre intensive de cueillette d’environ trois semaines selon la tourbière. La plaquebière ne pousse que dans les tourbières arctiques froides et résiste à la culture : c’est pourquoi elle est la baie sauvage la plus prisée, et la plus chère, de Laponie." }
       ]
     }
   },
@@ -165,7 +165,7 @@
     "intro": {
       "lead": "Les recettes de cette page ne sont pas du patrimoine au sens du musée fermé. Elles sont toujours cuisinées.",
       "points": [
-        { "n": "01", "title": "Cuisiné encore chaque mardi", "body": "Entrez dans un foyer sami à Inari ou Utsjoki en novembre : le bidos mijote — le même ragoût de renne que faisait la grand-mère, avec les mêmes morceaux, à la même chaleur à peine murmurante." },
+        { "n": "01", "title": "Cuisiné encore chaque mardi", "body": "Entrez dans un foyer sami à Inari ou Utsjoki en novembre : le bidos mijote, le même ragoût de renne que faisait la grand-mère, avec les mêmes morceaux, à la même chaleur à peine murmurante." },
         { "n": "02", "title": "A survécu sur son propre garde-manger", "body": "La cuisine samie a survécu à la plupart des cultures culinaires arctiques préindustrielles parce qu’elle n’a jamais eu besoin d’importations pour avoir son goût : renne, poisson de lac, baies, herbes sauvages, seigle, beurre, sel." },
         { "n": "03", "title": "Quatre portes d’entrée", "body": "Le bidos est le plat-réconfort protéiné, le gahkku le pain quotidien, la soupe de poisson du Sápmi ce que le lac a donné cette semaine-là, et le kissel de baies la façon de conserver l’été." }
       ]
@@ -299,14 +299,14 @@
       "eyebrow": "Pilier 03 · Moderne",
       "title": "La nouvelle",
       "titleHighlight": "cuisine arctique.",
-      "subtitle": "La cuisine moderne de Laponie prend les ingrédients que les Samis utilisent depuis mille ans — renne, poisson de lac, baies et herbes sauvages — et les dresse avec la technique New Nordic. Cette page raconte comment c’est arrivé, et où le goûter.",
+      "subtitle": "La cuisine moderne de Laponie prend les ingrédients que les Samis utilisent depuis mille ans, renne, poisson de lac, baies et herbes sauvages, et les dresse avec la technique New Nordic. Cette page raconte comment c’est arrivé, et où le goûter.",
       "primaryCta": "Où réserver",
       "secondaryCta": "Les recettes traditionnelles"
     },
     "intro": {
-      "lead": "Au début des années 2010, dîner au restaurant en Laponie signifiait encore la salle d’un hôtel touristique et un steak de renne au poivre. En une dizaine d’années, de petites salles de menu dégustation menées par leurs chefs ont grandi à la place — des cuisines qui rivalisent avec Helsinki sur le dressage. Trois choses l’ont rendu possible :",
+      "lead": "Au début des années 2010, dîner au restaurant en Laponie signifiait encore la salle d’un hôtel touristique et un steak de renne au poivre. En une dizaine d’années, de petites salles de menu dégustation menées par leurs chefs ont grandi à la place, des cuisines qui rivalisent avec Helsinki sur le dressage. Trois choses l’ont rendu possible :",
       "points": [
-        { "n": "01", "title": "Le New Nordic a ouvert la voie", "body": "Quand Noma a fait des herbes cueillies, du poisson fumé et du gibier mijoté le sommet de la cuisine, les chefs de Laponie — qui faisaient cela depuis toujours — ont enfin pu le dresser sans s'excuser." },
+        { "n": "01", "title": "Le New Nordic a ouvert la voie", "body": "Quand Noma a fait des herbes cueillies, du poisson fumé et du gibier mijoté le sommet de la cuisine, les chefs de Laponie, qui faisaient cela depuis toujours, ont enfin pu le dresser sans s'excuser." },
         { "n": "02", "title": "La technique est montée au nord", "body": "Les thermoplongeurs sous vide bon marché ont libéré les morceaux maigres du ragoût. Le filet de renne, rosé à cœur à 54 °C, est devenu la signature de la cuisine lapone moderne." },
         { "n": "03", "title": "La filière s'est professionnalisée", "body": "Cueilleurs et petits pêcheurs vendent désormais en direct aux restaurants, et des producteurs spécialisés couvrent tout, du sirop de bouleau au vinaigre d'airelle. Un menu dégustation peut sourcer chaque ingrédient dans un rayon de 200 kilomètres." }
       ]
@@ -317,8 +317,8 @@
     "dishes": [
       { "name": "Filet de renne sous vide, myrtille et racine", "description": "L'assiette qui définit le style : filet de renne maigre rosé à cœur, réduction de myrtilles sauvages, légume-racine en deux textures.", "technique": "Sous vide", "traditional": "Renne rôti / poronkäristys", "innovation": "La cuisson de précision fait du morceau le plus maigre la pièce maîtresse" },
       { "name": "Corégone confit, huile d'herbes sauvages", "description": "Corégone de lac cuit lentement dans la graisse, fini d'une huile de reine-des-prés ou de pousses d'épicéa et d'une note acide de l'étagère à ferments.", "technique": "Confit", "traditional": "Poisson de lac fumé et salé", "innovation": "La basse température préserve un poisson délicat ; les herbes cueillies remplacent l'aneth par défaut" },
-      { "name": "Déclinaison de desserts aux baies sauvages", "description": "Plaquebière, myrtille et airelle en progression — parfait, cuir de fruit, fermenté, glacé — plutôt qu'une panna cotta à la confiture.", "technique": "Fermentation + pâtisserie New Nordic", "traditional": "Kissel et confitures de baies", "innovation": "Les baies lactofermentées apportent l'acidité qui remplace les agrumes importés" },
-      { "name": "Le bidos, réinterprété", "description": "Le ragoût de fête sami pensé pour un menu dégustation : bouillon clarifié, épaule de renne pressée, moelle servie à part.", "technique": "Dressage moderne d'un braisé lent", "traditional": "Ragoût de renne bidos", "innovation": "Mêmes morceaux, mêmes saveurs, redressés en services — la version familiale reste intouchée" }
+      { "name": "Déclinaison de desserts aux baies sauvages", "description": "Plaquebière, myrtille et airelle en progression, parfait, cuir de fruit, fermenté, glacé, plutôt qu'une panna cotta à la confiture.", "technique": "Fermentation + pâtisserie New Nordic", "traditional": "Kissel et confitures de baies", "innovation": "Les baies lactofermentées apportent l'acidité qui remplace les agrumes importés" },
+      { "name": "Le bidos, réinterprété", "description": "Le ragoût de fête sami pensé pour un menu dégustation : bouillon clarifié, épaule de renne pressée, moelle servie à part.", "technique": "Dressage moderne d'un braisé lent", "traditional": "Ragoût de renne bidos", "innovation": "Mêmes morceaux, mêmes saveurs, redressés en services; la version familiale reste intouchée" }
     ],
     "techniques": {
       "kicker": "Ce que « New Nordic » signifie vraiment",
@@ -353,9 +353,9 @@
     "intro": {
       "lead": "La cueillette en Finlande n'a rien d'excentrique. C'est une activité d'été routinière pour environ 40 % de la population.",
       "points": [
-        { "n": "01", "title": "Courant dominant, pas une niche", "body": "Environ 40 % des Finlandais cueillent — le chiffre vient des enquêtes ménages de l’Institut des ressources naturelles de Finlande (Luke) et traverse ville et campagne, âges et revenus." },
-        { "n": "02", "title": "Droit d’accès à la nature", "body": "Le jokamiehenoikeus, inscrit dans la loi finlandaise, permet à chacun — habitant ou visiteur — de marcher, camper et cueillir sur la plupart des terres, quel qu’en soit le propriétaire." },
-        { "n": "03", "title": "Ni permis, ni propriétaire", "body": "On peut quitter la route, entrer dans la forêt et cueillir. Les limites sont éthiques (ne pas surexploiter, ne pas abîmer les plantes) et pratiques (savoir ce qu’on cueille) — pas légales." }
+        { "n": "01", "title": "Courant dominant, pas une niche", "body": "Environ 40 % des Finlandais cueillent. Le chiffre vient des enquêtes ménages de l’Institut des ressources naturelles de Finlande (Luke) et traverse ville et campagne, âges et revenus." },
+        { "n": "02", "title": "Droit d’accès à la nature", "body": "Le jokamiehenoikeus, inscrit dans la loi finlandaise, permet à chacun, habitant ou visiteur, de marcher, camper et cueillir sur la plupart des terres, quel qu’en soit le propriétaire." },
+        { "n": "03", "title": "Ni permis, ni propriétaire", "body": "On peut quitter la route, entrer dans la forêt et cueillir. Les limites sont éthiques (ne pas surexploiter, ne pas abîmer les plantes) et pratiques (savoir ce qu’on cueille), pas légales." }
       ]
     },
     "alert": {
@@ -451,8 +451,8 @@
       "lead": "Les expériences culinaires en Laponie qui valent votre argent sont celles qui vous placent face aux gens qui font cela pour vivre.",
       "points": [
         { "n": "01", "title": "Petits groupes, réservation directe", "body": "Oubliez la tournée des restaurants en autocar : les sorties ci-dessous se font en petit groupe et se réservent souvent directement auprès de l’opérateur." },
-        { "n": "02", "title": "Menées par ceux qui en vivent", "body": "Cueilleurs samis, chefs de haute cuisine, éleveurs de rennes en activité. On mange bien, mais le vrai produit, c’est l’accès — à un troupeau, à une cuisine, à la tourbière favorite d’un cueilleur." },
-        { "n": "03", "title": "Prix en direct, pas de brochure", "body": "Chaque carte renvoie à une recherche GetYourGuide en direct, pas à une fiche produit figée : les opérateurs tournent, les dates et les prix bougent — vous voyez toujours la disponibilité du moment." }
+        { "n": "02", "title": "Menées par ceux qui en vivent", "body": "Cueilleurs samis, chefs de haute cuisine, éleveurs de rennes en activité. On mange bien, mais le vrai produit, c’est l’accès: à un troupeau, à une cuisine, à la tourbière favorite d’un cueilleur." },
+        { "n": "03", "title": "Prix en direct, pas de brochure", "body": "Chaque carte renvoie à une recherche GetYourGuide en direct, pas à une fiche produit figée : les opérateurs tournent, les dates et les prix bougent; vous voyez toujours la disponibilité du moment." }
       ]
     },
     "listKicker": "Trois voyages à faire",

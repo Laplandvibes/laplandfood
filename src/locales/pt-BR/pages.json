@@ -77,13 +77,13 @@
       "headline": "As perguntas que todo mundo faz primeiro.",
       "lead": "Respostas curtas, cada uma com link para a página que aprofunda o tema.",
       "stillPrefix": "Ficou alguma dúvida? Escreva para ",
-      "stillSuffix": " — a gente responde.",
+      "stillSuffix": ". A gente responde.",
       "items": [
         { "question": "Como é a comida tradicional finlandesa?", "answer": "A cozinha tradicional finlandesa se apoia no que cresce, nada ou pasta por perto: pão de centeio, peixe de água doce, rena, frutas silvestres como bilberry, lingonberry e cloudberry, cogumelos colhidos na floresta e laticínios. É uma cozinha sazonal, de temperos leves, centrada no ingrediente e não na técnica." },
-        { "question": "A Finlândia tem restaurantes com estrela Michelin?", "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas suas cozinhas de ponta — Nili, Aanaar, Rakas — estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar." },
-        { "question": "O que é a comida sámi?", "answer": "A comida sámi é a cozinha indígena de Sápmi, região que atravessa o norte da Finlândia, Suécia, Noruega e Rússia. Gira em torno da rena — cada parte é aproveitada —, do peixe ártico, de frutas e ervas colhidas e de cozimentos lentos como o ensopado bidos. As receitas seguem o calendário sámi de oito estações." },
-        { "question": "Visitantes podem colher frutas e cogumelos na Finlândia?", "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa — moradora ou visitante — colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a cicuta-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura." },
-        { "question": "Quando é a temporada de cloudberry na Lapônia?", "answer": "Mais ou menos de meados de julho a meados de agosto, com uma janela intensa de colheita de cerca de três semanas, dependendo da turfeira. A cloudberry só cresce em turfeiras árticas frias e resiste ao cultivo — por isso é a fruta silvestre mais valorizada, e mais cara, da Lapônia." }
+        { "question": "A Finlândia tem restaurantes com estrela Michelin?", "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas suas cozinhas de ponta, Nili, Aanaar, Rakas, estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar." },
+        { "question": "O que é a comida sámi?", "answer": "A comida sámi é a cozinha indígena de Sápmi, região que atravessa o norte da Finlândia, Suécia, Noruega e Rússia. Gira em torno da rena, cada parte é aproveitada, do peixe ártico, de frutas e ervas colhidas e de cozimentos lentos como o ensopado bidos. As receitas seguem o calendário sámi de oito estações." },
+        { "question": "Visitantes podem colher frutas e cogumelos na Finlândia?", "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa, moradora ou visitante, colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a cicuta-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura." },
+        { "question": "Quando é a temporada de cloudberry na Lapônia?", "answer": "Mais ou menos de meados de julho a meados de agosto, com uma janela intensa de colheita de cerca de três semanas, dependendo da turfeira. A cloudberry só cresce em turfeiras árticas frias e resiste ao cultivo, por isso é a fruta silvestre mais valorizada, e mais cara, da Lapônia." }
       ]
     }
   },
@@ -299,14 +299,14 @@
       "eyebrow": "Pilar 03 · Moderno",
       "title": "A nova",
       "titleHighlight": "cozinha ártica.",
-      "subtitle": "A cozinha moderna da Lapônia pega os ingredientes que os sámi usam há mil anos — rena, peixe de lago, frutas e ervas silvestres — e os emprata com técnica New Nordic. Esta página conta como isso aconteceu e onde provar.",
+      "subtitle": "A cozinha moderna da Lapônia pega os ingredientes que os sámi usam há mil anos, rena, peixe de lago, frutas e ervas silvestres, e os emprata com técnica New Nordic. Esta página conta como isso aconteceu e onde provar.",
       "primaryCta": "Onde reservar",
       "secondaryCta": "As receitas tradicionais"
     },
     "intro": {
       "lead": "No início dos anos 2010, jantar num restaurante na Lapônia ainda significava o salão de um hotel turístico e um filé de rena ao molho de pimenta. Em cerca de dez anos, cresceram no lugar pequenas salas de menu degustação lideradas por chefs, que competem com Helsinque no empratamento. Três coisas tornaram isso possível:",
       "points": [
-        { "n": "01", "title": "O New Nordic abriu caminho", "body": "Quando o Noma redefiniu ervas colhidas, peixe defumado e caça de cozimento lento como o ápice da culinária, os chefs da Lapônia — que faziam isso a vida toda — finalmente puderam empratar sem pedir desculpas." },
+        { "n": "01", "title": "O New Nordic abriu caminho", "body": "Quando o Noma redefiniu ervas colhidas, peixe defumado e caça de cozimento lento como o ápice da culinária, os chefs da Lapônia, que faziam isso a vida toda, finalmente puderam empratar sem pedir desculpas." },
         { "n": "02", "title": "A técnica veio para o norte", "body": "Circuladores sous-vide baratos libertaram os cortes magros do ensopado. O filé de rena, rosado no centro a 54 °C, virou a assinatura da cozinha lapônica moderna." },
         { "n": "03", "title": "A cadeia de suprimentos amadureceu", "body": "Coletores e pequenos pescadores agora vendem direto aos restaurantes, e produtores especializados cobrem de xarope de bétula a vinagre de lingonberry. Um menu degustação pode obter cada ingrediente num raio de 200 quilômetros." }
       ]
@@ -317,8 +317,8 @@
     "dishes": [
       { "name": "Filé de rena sous-vide, bilberry e raiz", "description": "O prato que define o estilo: filé magro de rena rosado no centro, redução de bilberries silvestres e um legume de raiz em duas texturas.", "technique": "Sous-vide", "traditional": "Rena assada / poronkäristys", "innovation": "A temperatura de precisão transforma o corte mais magro no protagonista" },
       { "name": "Peixe-branco confitado com azeite de ervas silvestres", "description": "Peixe de lago cozido lentamente na gordura, finalizado com azeite de ulmária ou brotos de abeto e um toque ácido da prateleira de fermentados.", "technique": "Confit", "traditional": "Peixe de lago defumado e salgado", "innovation": "A baixa temperatura preserva um peixe delicado; ervas colhidas substituem o endro padrão" },
-      { "name": "Sequência de sobremesas de frutas silvestres", "description": "Cloudberry, bilberry e lingonberry em progressão — parfait, couro de fruta, fermentada, congelada — em vez de uma panna cotta com geleia.", "technique": "Fermentação + confeitaria New Nordic", "traditional": "Kissel e geleias de frutas", "innovation": "Frutas lactofermentadas trazem a acidez que substitui os cítricos importados" },
-      { "name": "Bidos, reinterpretado", "description": "O ensopado festivo sámi pensado para um menu degustação: caldo clarificado, paleta de rena prensada, tutano servido à parte.", "technique": "Empratamento moderno de um cozido lento", "traditional": "Ensopado bidos de rena", "innovation": "Os mesmos cortes e sabores, reapresentados como etapas — a versão caseira permanece intocada" }
+      { "name": "Sequência de sobremesas de frutas silvestres", "description": "Cloudberry, bilberry e lingonberry em progressão, parfait, couro de fruta, fermentada, congelada, em vez de uma panna cotta com geleia.", "technique": "Fermentação + confeitaria New Nordic", "traditional": "Kissel e geleias de frutas", "innovation": "Frutas lactofermentadas trazem a acidez que substitui os cítricos importados" },
+      { "name": "Bidos, reinterpretado", "description": "O ensopado festivo sámi pensado para um menu degustação: caldo clarificado, paleta de rena prensada, tutano servido à parte.", "technique": "Empratamento moderno de um cozido lento", "traditional": "Ensopado bidos de rena", "innovation": "Os mesmos cortes e sabores, reapresentados como etapas; a versão caseira permanece intocada" }
     ],
     "techniques": {
       "kicker": "O que \"nórdico novo\" realmente significa",
@@ -353,9 +353,9 @@
     "intro": {
       "lead": "Colher na Finlândia não é excêntrico. É uma atividade rotineira de verão para cerca de 40% da população.",
       "points": [
-        { "n": "01", "title": "Corrente principal, não nicho", "body": "Cerca de 40 % dos finlandeses coletam — o número vem das pesquisas domiciliares do Instituto de Recursos Naturais da Finlândia (Luke) e atravessa cidade e campo, idade e renda." },
-        { "n": "02", "title": "Direito de todos", "body": "O jokamiehenoikeus, codificado na lei finlandesa, permite a qualquer pessoa — moradora ou visitante — caminhar, acampar e coletar na maior parte das terras, seja de quem for." },
-        { "n": "03", "title": "Sem licença, sem dono da terra", "body": "Você pode sair da estrada, entrar na floresta e colher. Os limites são éticos (não colher demais, não danificar as plantas) e práticos (saber o que está colhendo) — não legais." }
+        { "n": "01", "title": "Corrente principal, não nicho", "body": "Cerca de 40 % dos finlandeses coletam. O número vem das pesquisas domiciliares do Instituto de Recursos Naturais da Finlândia (Luke) e atravessa cidade e campo, idade e renda." },
+        { "n": "02", "title": "Direito de todos", "body": "O jokamiehenoikeus, codificado na lei finlandesa, permite a qualquer pessoa, moradora ou visitante, caminhar, acampar e coletar na maior parte das terras, seja de quem for." },
+        { "n": "03", "title": "Sem licença, sem dono da terra", "body": "Você pode sair da estrada, entrar na floresta e colher. Os limites são éticos (não colher demais, não danificar as plantas) e práticos (saber o que está colhendo), não legais." }
       ]
     },
     "alert": {
@@ -451,8 +451,8 @@
       "lead": "As experiências gastronômicas da Lapônia que valem o seu dinheiro são aquelas que colocam você diante das pessoas que realmente vivem disso.",
       "points": [
         { "n": "01", "title": "Grupos pequenos, reserva direta", "body": "Esqueça o tour de restaurantes de ônibus: as viagens abaixo são em grupos pequenos e muitas vezes reservadas direto com o operador." },
-        { "n": "02", "title": "Guiadas por quem vive disso", "body": "Coletores sámi, chefs de alta gastronomia, pastores de renas na ativa. Come-se bem, mas o verdadeiro produto é o acesso — a um rebanho, a uma cozinha, à turfeira favorita de um coletor." },
-        { "n": "03", "title": "Preços ao vivo, não de folheto", "body": "Cada card leva a uma busca ao vivo no GetYourGuide, não a uma página de produto fixa: operadores mudam, datas e preços variam — você sempre vê a disponibilidade atual." }
+        { "n": "02", "title": "Guiadas por quem vive disso", "body": "Coletores sámi, chefs de alta gastronomia, pastores de renas na ativa. Come-se bem, mas o verdadeiro produto é o acesso: a um rebanho, a uma cozinha, à turfeira favorita de um coletor." },
+        { "n": "03", "title": "Preços ao vivo, não de folheto", "body": "Cada card leva a uma busca ao vivo no GetYourGuide, não a uma página de produto fixa: operadores mudam, datas e preços variam; você sempre vê a disponibilidade atual." }
       ]
     },
     "listKicker": "Três passeios que valem a pena",
