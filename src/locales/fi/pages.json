@@ -23,7 +23,7 @@
   "sisters": {
     "kicker": "Kun nälkä yllättää",
     "headline": "Syö, juo, valvo myöhään.",
-    "subhead": "LaplandFood on kulttuurikartta. Pöytään, jonka oikeasti varaat, oluseen, jonka oikeasti tilaat, ja paikkoihin, jotka ovat auki keskiyön jälkeen, siirry sisarsivustoille alla.",
+    "subhead": "LaplandFood on kulttuurikartta. Pöytään, jonka oikeasti varaat, olueeseen, jonka oikeasti tilaat, ja paikkoihin, jotka ovat auki keskiyön jälkeen, siirry sisarsivustoille alla.",
     "visitLabel": "Käy",
     "items": [
       { "title": "Varaa pöytä", "eyebrow": "LaplandDining", "body": "Missä Lapissa oikeasti syödään: 60+ huolella koottua ravintolaa menuineen, aukioloineen ja varauslinkkeineen." },
@@ -59,8 +59,8 @@
       { "eyebrow": "Pilari 01", "title": "Paikalliset raaka-aineet", "body": "Mitä täällä oikeasti kasvaa, ui ja vaeltaa, poro, hilla, mustikka, arktinen kala, keräillyt yrtit. Sesongit, alkuperät ja syyt makuun." },
       { "eyebrow": "Pilari 02", "title": "Perinnereseptit", "body": "Bidos-poromuhennos, saamelainen leipä, kalakeitto, marjakiisseli, reseptit, jotka ravitsivat Sápmin arktiset talvet tuhansien vuosien ajan." },
       { "eyebrow": "Pilari 03", "title": "Moderni Lappi", "body": "Miten uusi sukupolvi kokkeja kokkaa samat raaka-aineet sous vide -tekniikalla, fermentoinnilla ja New Nordic -otteella. Missä maistat sen." },
-      { "eyebrow": "Pilari 04", "title": "Keräilyopas", "body": "Mustikka, puolukka, hilla, sienet, nokkonen, mesiangervo, milloin poimit, miten tunnistat ja miten teet sen kestävästi jokamiehenoikeudella." },
-      { "eyebrow": "Pilari 05", "title": "Michelin ja fine dining", "body": "Suomen Michelin-skene yhdellä silmäyksellä, mikä on tähditetty, missä, ja mikä työntää fine dingiä napapiirin pohjoispuolelle." },
+      { "eyebrow": "Pilari 04", "title": "Keräilyopas", "body": "Mustikka, puolukka, hilla, sienet, nokkonen, mesiangervo: milloin poimit, miten tunnistat ja miten teet sen kestävästi jokamiehenoikeudella." },
+      { "eyebrow": "Pilari 05", "title": "Michelin ja fine dining", "body": "Suomen Michelin-skene yhdellä silmäyksellä, mikä on tähditetty, missä ja mikä työntää fine diningia napapiirin pohjoispuolelle." },
       { "eyebrow": "Pilari 06", "title": "Ruokaretket ja kokkikoulut", "body": "Saamelaisia ruokamatkoja, fine dining -kierroksia, keräilyretkiä, panimokäyntejä, varattavissa olevia ruokakokemuksia ympäri Lappia." }
     ],
     "cultureKicker": "Miksi se maistuu juuri tältä",
@@ -127,7 +127,7 @@
       "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille paimentajille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
       "p2": "Lauma on villiä kaikessa muussa paitsi omistuksessa. Porot kulkevat vapaasti valtavilla aitaamattomilla taiga- ja tunturialueilla, syöden mitä löytävät: jäkälää talvella (tämä antaa lihalle sen erityisen puhtaan maun), heinää ja yrttejä kesällä, sieniä syksyllä. Paimentajat seuraavat eläimiä moottorikelkoilla ja mönkijöillä, kokoavat ne kahdesti vuodessa korvamerkintää ja (syksyllä) teurastusvalintaa varten ja päästävät ne sitten taas vapaiksi.",
       "p3": "Teurastus tapahtuu syksyllä, tyypillisesti loka–marraskuussa, kun eläimet ovat huippupainossaan. Jokainen paliskunta pyörittää omaa EU-hyväksyttyä teurastamoaan. Suurin osa lihasta myydään muutaman sadan kilometrin säteellä eläimen elinpaikasta, Lapin ravintoloille, Helsingin ja Etelä-Suomen lihakaupoille ja pieneen mutta vakavaan vientimarkkinaan Keski-Eurooppaan.",
-      "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>fileé</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, siksi se kypsyy tunteja.",
+      "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>fileé</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, ja siksi se kypsyy tunteja.",
       "p5": "Eettisesti vapaa­liikkuva, saamelais­paimennettu poro on yksi eurooppalaisen menun kestävimmistä proteiineista, ei lihotusaltaita, ei antibiootteja, ei suljettua laidunta, alkuperäisruokavalio. Mutkan tuo ilmasto: Lapin talvet kostuvat, lumikertymälle muodostuu jääkerroksia, porot eivät pääse jäkälään, ja jotkin paliskunnat joutuvat täydentämään ruokintaa. Se muuttaa toimitusketjua ja, hitaasti, makua. Tämä on tarina, jota kannattaa seurata seuraavan vuosikymmenen ajan."
     },
     "cloudberryDeep": {
@@ -135,7 +135,7 @@
       "headline": "Marja, jota kukaan ei pysty viljelemään.",
       "p1": "Hilla, <em>luomi</em> pohjoissaameksi, on Lapin arvostetuin villi­marja ja itse­päisin viljelyä vastustanut maailman merkittävistä marjoista. Se kasvaa vain kylmissä, happamissa, vetisissä turvesoissa kapealla pohjoisen pallon­puoliskon vyöhykkeellä: Pohjois-Skandinavia, Suomi, osat Venäjästä, Alaskasta ja Pohjois-Kanadasta. Näiden alueiden sisällä se on yllättävän yleinen. Niiden ulkopuolella se ei kasva.",
       "p2": "Vuosikymmenten maatalous­tutkimus ei ole onnistunut kaupallistamaan sitä. Hillakasvit ovat kaksikotisia (erilliset uros- ja naaras­kasvit), kasvavat erittäin hitaasti, tarvitsevat 6–7 vuotta ensimmäiseen hedelmään edes täydellisissä olosuhteissa, ovat haavoittuvaisia myöhäisille kevätpakkasille, jotka tuhoavat vuoden kukat, ja vaativat kosteuden, valon ja suokemian erityisyhdistelmän, joka on vastustanut kasvi­huone­simulaatiota. Norjalaiset ja suomalaiset tutkijat ovat edistyneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa villisaadosta. Joten koko Suomen tarjonta, hillojen valmistajille, likööri­tuottajille (Lakka), ravintola­keittiöille, on villinä keräiltyä.",
-      "p3": "Siksi tuoreen hillan kilo Rovaniemen torilla heinäkuun lopussa maksaa tyypillisesti 25–50 €, viidestä kymmeneen kertaa enemmän kuin mustikat ja siksi tarjonta romahtaa, jos kevät­pakkaset osuvat viikkoa myöhemmin. Tämä on myös syy siihen, miksi hillaparfait on Lapin fine dining -jälkiruoka. Jokainen kokki haluaa käyttää niitä, kunnes ne loppuvat.",
+      "p3": "Siksi tuoreen hillan kilo Rovaniemen torilla heinäkuun lopussa maksaa tyypillisesti 25–50 €, viidestä kymmeneen kertaa enemmän kuin mustikat, ja siksi tarjonta romahtaa, jos kevät­pakkaset osuvat viikkoa myöhemmin. Tämä on myös syy siihen, miksi hillaparfait on Lapin fine dining -jälkiruoka. Jokainen kokki haluaa käyttää niitä, kunnes ne loppuvat.",
       "p4": "<strong>Poiminta­etiikka:</strong> hilla­kasvit toipuvat hitaasti. Saamelainen periaate ja suomalainen keräily­käytäntö, on poimia vain täysin kypsät marjat, jättää raa'at ja ylikypsät, eikä koskaan riipiä kasvia. Pienellä suolla kilo perheelle riittää.",
       "boldPick": "Poiminta­etiikka:"
     },
@@ -174,7 +174,7 @@
       "points": [
         { "n": "01", "title": "Kokataan yhä tiistaisin", "body": "Astu saamelaiskotiin Inarissa tai Utsjoella marraskuussa, ja liedellä on bidos, sama hitaasti haudutettu poropata, jonka perheen mummo teki, samoilla paloilla ja samalla hiljaa hymisevällä lämmöllä." },
         { "n": "02", "title": "Selvisi omalla varastollaan", "body": "Saamelaiskeittiö eli yli useimpien esiteollisten arktisten ruokakulttuurien, koska se ei koskaan tarvinnut tuontitavaraa maistuakseen omaltaan: poro, järvikala, marjat, villiyrtit, ruis, voi, suola." },
-        { "n": "03", "title": "Neljä sisäänkäyntiä", "body": "Bidos on sielunruoka, gahkku jokapäiväinen leipä, Sápmi-kalakeitto se mitä järvi sinä viikkona antoi, ja marjakiisseli tapa säilöä kesä." }
+        { "n": "03", "title": "Neljä sisäänkäyntiä", "body": "Bidos on sielunruoka, gahkku jokapäiväinen leipä, Sápmi-kalakeitto se, mitä järvi sinä viikkona antoi, ja marjakiisseli tapa säilöä kesä." }
       ]
     },
     "context": {
