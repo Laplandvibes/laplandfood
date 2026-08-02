@@ -1,4 +1,5 @@
 import { lazy, Suspense } from 'react'
+import { AppPromoNudge } from './components/AppPromo'
 import { Routes, Route } from 'react-router-dom'
 import CookieBanner from './components/CookieBanner'
 import NewsletterPopup from './components/NewsletterPopup'
@@ -65,6 +66,7 @@ export default function App() {
       </Suspense>
       <LocalisedCookieBanner />
       <NewsletterPopup />
+      <AppPromoNudge />
     </>
   )
 }

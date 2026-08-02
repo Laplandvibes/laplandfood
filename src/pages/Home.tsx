@@ -11,6 +11,8 @@ import { ArrowRight } from 'lucide-react';
 import { useLocale } from '../i18n/useLocale';
 import HomeAdSlots, { MainPartnerBanner } from '../../../shared/HomeAdSlots';
 import { AD_SLOTS } from '../data/adSlots';
+import GygPicks from '../components/GygPicks';
+import { AppPromoHero } from '../components/AppPromo';
 
 interface Pillar { eyebrow: string; title: string; body: string }
 interface CulturePoint { n: string; title: string; body: string }
@@ -81,6 +83,9 @@ export default function Home() {
         <Nav />
         <Hero />
 
+
+
+
         {/* Stat glass tiles overlapping the hero bottom — real numbers only */}
         <section aria-label="LaplandFood in numbers" className="relative z-10 -mt-16 md:-mt-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
@@ -135,6 +140,10 @@ export default function Home() {
         {/* Kumppaniosio ylhäällä (jaettu malli): kakkospääkumppani + 6
             premium-paikkaa — pääkumppanit eivät näy vierekkäin (banneri ↑) */}
         <HomeAdSlots config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
+
+        {/* Varattavat GYG-tuotteet — korkealla sivulla mutta myytyjen mainospaikkojen ALAPUOLELLA */}
+        <GygPicks />
+
 
         {/* Pillar grid */}
         <section className="bg-[#F8FAFC] py-20 sm:py-24">
@@ -245,8 +254,12 @@ export default function Home() {
 
         <NewsletterSection />
 
+
         <Footer />
       </div>
+    {/* App launch block. Bottom of the page on purpose: the site's own hero is
+        what the search result promised, and this does not get to interrupt it. */}
+    <AppPromoHero />
     </>
   );
 }
