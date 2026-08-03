@@ -1,15 +1,15 @@
 /**
- * GetYourGuide deep-link helper for laplandfood.com.
+ * GetYourGuide deep-link helper for laplandfood.com — Workerin kautta
+ * 2026-08-03 alkaen.
  *
- * Mirrors the laplanddining-new pattern (verified 2026-05-03) because
- * laplandfood and laplanddining surface the same kinds of GYG products
- * (food-and-drink experiences in Finnish Lapland).
- *
- * Background: the `go.laplandvibes.com/go/activities/*` Cloudflare Worker
- * collapses every slug to `getyourguide.com/` (homepage). To preserve user
- * intent AND affiliate attribution we build the direct GYG URL with our
- * `partner_id` baked into the query string. GYG's affiliate system reads
- * `partner_id` from query params — same attribution path, no worker hop.
+ * Tämä tiedosto rakensi aiemmin raakoja getyourguide.com-URLeja perusteella
+ * "Worker collapses every slug to GYG's homepage (2026-05-02)". Väite ei pidä
+ * enää paikkaansa: se oli curl-bot-fallback-artefakti, ja Worker on 2026-08-02
+ * lähtien hoitanut slugin, /s?q=-haun JA kielen polkuprefiksin (`language=`-
+ * parametri → GYG:n `<kieli>-<maa>/`-etuliite, ainoa lokalisointi jota GYG
+ * kunnioittaa — raaka ?language= on GYG:llä no-op). Suora linkitys menettäisi
+ * D1-klikkilokin ja veisi partner_id:n bundleen; Worker injektoi partner_id:n
+ * ja cmp=lv_<domain>_<sid>:n itse.
  *
  * 2026-05-03 (verified): GYG does NOT have category landing pages for
  * `cooking-classes` or `food-tours` slugs on Lapland — both 404. The only
@@ -17,59 +17,43 @@
  * search URLs (`gygSearchLink`) which always render a results page.
  */
 
-const GYG_PARTNER_ID = 'VRMKD7N'
-const SITE_TAG = 'laplandfood'
+import type { Locale } from '../i18n/config'
+
+const GO = 'https://go.laplandvibes.com/go/activities'
 
 /**
- * Build a deep link to a specific GYG product (food tour, cooking class,
- * brewery tour with food, etc.).
- *
- * @param productPath  Full path component after `getyourguide.com/`.
- *                     Format: `{city-slug}-l{cityId}/{product-slug}-t{productId}`.
- *                     Example: `rovaniemi-l2653/lapland-cuisine-cooking-class-t423842`.
- * @param sid          Per-placement campaign tag, e.g. `tour_sami_culture`.
+ * Worker `?language=` codes (same table as shared/gyg/picks.ts). `en` is GYG's
+ * default and needs no param; `de` needs a code here even though the old raw
+ * links didn't send one — they used the getyourguide.de domain instead.
  */
-export function gygDeepLink(productPath: string, sid: string): string {
-  const path = productPath.replace(/^\/+/, '')
-  const url = new URL(`https://www.getyourguide.com/${path}/`)
-  url.searchParams.set('partner_id', GYG_PARTNER_ID)
-  url.searchParams.set('cmp', `lv_${SITE_TAG}_${sid}`)
-  return url.toString()
+export const GYG_WORKER_LANG: Record<Locale, string | undefined> = {
+  en: undefined, fi: 'fi', de: 'de', ja: 'ja', es: 'es', 'pt-BR': 'pt-br',
+  'zh-CN': 'zh', ko: 'ko', fr: 'fr', it: 'it', nl: 'nl', sv: 'sv',
 }
 
-/**
- * Build a deep link to a category-level GYG page. Only `food-and-drink` is
- * a verified-working slug for Lapland and Finnish cities (2026-05-03).
- * Other food-related categories (`cooking-classes`, `food-tours`) 404 on
- * Lapland — use {@link gygSearchLink} for those instead.
- *
- * @param citySlug   GYG city slug + ID, e.g. `lapland-l662`, `rovaniemi-l2653`.
- * @param category   Category path segment. Use `food-and-drink` only.
- * @param sid        Per-placement campaign tag.
- */
+function workerUrl(path: string, params: Record<string, string | undefined>): string {
+  const p = new URLSearchParams()
+  for (const [k, v] of Object.entries(params)) if (v) p.set(k, v)
+  return `${GO}${path ? `/${path}` : ''}?${p.toString()}`
+}
+
+/** Deep link to a specific GYG product (`{city}-l{id}/{slug}-t{id}`). */
+export function gygDeepLink(productPath: string, sid: string, lang: Locale = 'en'): string {
+  const path = productPath.replace(/^\/+/, '').replace(/\/+$/, '')
+  return workerUrl(path, { sid, language: GYG_WORKER_LANG[lang] })
+}
+
+/** Deep link to a category-level GYG page (`food-and-drink` only). */
 export function gygCategoryLink(
   citySlug: string,
   category: 'food-and-drink',
   sid: string,
+  lang: Locale = 'en',
 ): string {
-  const url = new URL(`https://www.getyourguide.com/${citySlug}/${category}/`)
-  url.searchParams.set('partner_id', GYG_PARTNER_ID)
-  url.searchParams.set('cmp', `lv_${SITE_TAG}_${sid}`)
-  return url.toString()
+  return workerUrl(`${citySlug}/${category}`, { sid, language: GYG_WORKER_LANG[lang] })
 }
 
-/**
- * Build a GetYourGuide search URL. Always returns a results page even when
- * no city/category combination matches — safer than gambling on category
- * slugs that may 404 (e.g. `cooking-classes` for Lapland).
- *
- * @param query  Free-text search, e.g. `lapland cooking class`, `rovaniemi food tour`.
- * @param sid    Per-placement campaign tag.
- */
-export function gygSearchLink(query: string, sid: string): string {
-  const url = new URL(`https://www.getyourguide.com/s/`)
-  url.searchParams.set('q', query)
-  url.searchParams.set('partner_id', GYG_PARTNER_ID)
-  url.searchParams.set('cmp', `lv_${SITE_TAG}_${sid}`)
-  return url.toString()
+/** Search link — Worker rakentaa /s?q=-haun (ainoa URL jossa GYG kunnioittaa q:ta). */
+export function gygSearchLink(query: string, sid: string, lang: Locale = 'en'): string {
+  return workerUrl('', { sid, language: GYG_WORKER_LANG[lang], q: query })
 }

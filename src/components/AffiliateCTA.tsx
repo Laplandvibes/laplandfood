@@ -1,5 +1,6 @@
 import type { ReactNode, AnchorHTMLAttributes } from 'react'
 import { useLocale } from '../i18n/useLocale';
+import { GYG_WORKER_LANG } from '../lib/gyg';
 
 /**
  * LaplandVibes affiliate CTA. All affiliate clicks are funnelled through
@@ -58,20 +59,6 @@ const CARS_LANG: Record<_Lang, string> = {
   nl: "nl",
   sv: "sv",
 };
-const GYG_DOMAIN: Record<_Lang, string> = {
-  en: "https://www.getyourguide.com",
-  fi: "https://www.getyourguide.com",
-  de: "https://www.getyourguide.de",
-  ja: "https://www.getyourguide.com",
-  es: "https://www.getyourguide.es",
-  "pt-BR": "https://www.getyourguide.com.br",
-  "zh-CN": "https://www.getyourguide.com",
-  ko: "https://www.getyourguide.com",
-  fr: "https://www.getyourguide.fr",
-  it: "https://www.getyourguide.it",
-  nl: "https://www.getyourguide.nl",
-  sv: "https://www.getyourguide.com",
-};
 
 
 export function buildAffiliateHref({
@@ -82,21 +69,16 @@ export function buildAffiliateHref({
   lang = "en",
 }: Pick<AffiliateCTAProps, 'partner' | 'sid' | 'destination' | 'query'> & { lang?: _Lang }): string {
   if (partner === 'activities') {
-    const path = (destination ?? '').replace(/^\/+/, '').replace(/\/+$/, '')
-    const url = new URL(path ? `${GYG_DOMAIN[lang]}/${path}/` : `${GYG_DOMAIN[lang]}/`)
-    url.searchParams.set('partner_id', 'VRMKD7N')
-    url.searchParams.set('cmp', `lv_laplandfood_${sid}`)
-    if (lang === "fi") url.searchParams.set("language", "fi");
-    if (lang === "ja") url.searchParams.set("language", "ja");
-    if (lang === "es") url.searchParams.set("language", "es");
-    if (lang === "pt-BR") url.searchParams.set("language", "pt");
-    if (lang === "zh-CN") url.searchParams.set("language", "zh");
-    if (lang === "ko") url.searchParams.set("language", "ko");
-    if (lang === "it") url.searchParams.set("language", "it");
-    if (lang === "nl") url.searchParams.set("language", "nl");
-    if (lang === "sv") url.searchParams.set("language", "sv");
-    if (query) for (const [k, v] of Object.entries(query)) if (v) url.searchParams.set(k, v)
-    return url.toString()
+    // Reitittää Workerin kautta 2026-08-03 alkaen. Worker hoitaa slugin,
+    // /s?q=-haun JA kielen polkuprefiksin (raaka ?language= on GYG:llä no-op,
+    // ja vanha getyourguide.de-domain-taulu jätti muut kielet englanniksi).
+    // Suora linkitys menettäisi D1-klikkilokin ja veisi partner_id:n bundleen.
+    const params = new URLSearchParams({ sid });
+    const gygLang = GYG_WORKER_LANG[lang];
+    if (gygLang) params.set('language', gygLang);
+    const path = (destination ?? '').replace(/^\/+/, '').replace(/\/+$/, '');
+    if (query) for (const [k, v] of Object.entries(query)) if (v) params.set(k, v);
+    return `${REDIRECT_HOST}/go/activities${path ? `/${path}` : ''}?${params.toString()}`;
   }
   const params = new URLSearchParams({ sid, ...(query || {}) })
   // 🔴 cars käyttää pickup_location=IATA, EI ss:ää — ss=IATA valuu EB:n

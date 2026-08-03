@@ -9,8 +9,8 @@ interface PageHeroProps {
   subtitle: string
   imageUrl: string
   imageAlt: string
-  primaryCta?: { label: string; href: string; external?: boolean }
-  secondaryCta?: { label: string; href: string; external?: boolean }
+  primaryCta?: { label: string; href: string; external?: boolean; rel?: string }
+  secondaryCta?: { label: string; href: string; external?: boolean; rel?: string }
   /** Fact pills derived from the page's existing localized data (names, places). */
   pills?: string[]
   children?: ReactNode
@@ -35,13 +35,13 @@ export default function PageHero({
   pills,
   children,
 }: PageHeroProps) {
-  const renderCta = (cta: { label: string; href: string; external?: boolean }, primary: boolean) => {
+  const renderCta = (cta: { label: string; href: string; external?: boolean; rel?: string }, primary: boolean) => {
     const cls = primary
       ? 'inline-flex items-center justify-center gap-2 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors text-base shadow-[0_4px_24px_rgba(236,72,153,0.35)]'
       : 'inline-flex items-center justify-center gap-2 bg-white/15 hover:bg-white/25 backdrop-blur text-white font-semibold px-7 py-3.5 rounded-full border border-white/40 transition-colors text-base'
     if (cta.external) {
       return (
-        <a key={cta.label} href={cta.href} target="_blank" rel="noopener" className={cls}>
+        <a key={cta.label} href={cta.href} target="_blank" rel={cta.rel ?? "noopener"} className={cls}>
           {cta.label}
         </a>
       )

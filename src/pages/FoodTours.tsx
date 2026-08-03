@@ -7,6 +7,7 @@ import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import { gygSearchLink } from '../lib/gyg';
+import { useLocale } from '../i18n/useLocale';
 
 // No prices, durations, group sizes, or ratings on these cards: the CTA is a
 // live GYG SEARCH (operators rotate), so we can't honestly claim any of those
@@ -25,10 +26,10 @@ const TOUR_META = [
   { sid: 'tour_foraging', searchQuery: 'Lapland foraging tour', image: '/images/tour-foraging.jpg' },
 ];
 
-const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all');
-
 export default function FoodTours() {
   const { t } = useTranslation('pages');
+  const { locale } = useLocale();
+  const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all', locale);
   const tours = (t('foodTours.tours', { returnObjects: true }) as Tour[]) || [];
 
   return (
@@ -43,7 +44,7 @@ export default function FoodTours() {
           subtitle={t('foodTours.hero.subtitle')}
           imageUrl="/images/hero-tours.jpg"
           imageAlt="Small group around a campfire in an Arctic forest, cooking foraged mushrooms over a kettle, golden-hour light"
-          primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true }}
+          primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true, rel: 'sponsored nofollow noopener' }}
           pills={tours.map(tour => tour.location)}
         />
 
@@ -68,7 +69,7 @@ export default function FoodTours() {
             <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
               {tours.map((tour, i) => {
                 const meta = TOUR_META[i];
-                const href = gygSearchLink(meta.searchQuery, meta.sid);
+                const href = gygSearchLink(meta.searchQuery, meta.sid, locale);
                 return (
                   <article key={tour.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
