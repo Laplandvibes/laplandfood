@@ -1,6 +1,5 @@
 import SharedFooter from '../../../shared/Footer'
 import type { FooterDict } from '../../../shared/Footer'
-import AffiliateDisclosure from './AffiliateDisclosure'
 import { useTranslation } from 'react-i18next'
 import { trackHubClick } from '../lib/analytics'
 
@@ -96,11 +95,11 @@ export default function Footer() {
         onPillarClick={(name) => trackHubClick(name)}
         dict={dict}
       />
-      <div className="bg-[#001F4A] py-3 px-5 sm:px-6 lg:px-12">
-        <div className="max-w-6xl mx-auto">
-          <AffiliateDisclosure variant="light" />
-        </div>
-      </div>
+      {/* Affiliate-ilmoitus tulee JAETUSTA footerista (dictin affiliate-rivi),
+          joka renderoityy jokaisella sivulla. Tama sivustokohtainen kaista
+          renderoi saman ilmoituksen toistamiseen ja viela eri sanamuodolla
+          ("tama sivu" vs jaetun "tama sivusto") — auditti 4.8. Poistettu; vain
+          food ja wellness tekivat nain, muut 25 luottavat jaettuun. */}
     </>
   )
 }
