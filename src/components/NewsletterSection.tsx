@@ -63,7 +63,7 @@ export default function NewsletterSection() {
             </p>
           </div>
         ) : (
-          <FounderByline tone="pink" />
+          <><FounderByline tone="pink" />
           <form onSubmit={onSubmit} className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto">
             <input
               type="email"
@@ -82,7 +82,7 @@ export default function NewsletterSection() {
             >
               {status === 'loading' ? t('newsletter.sending') : t('newsletter.submit')}
             </button>
-          </form>
+          </form></>
         )}
         {status === 'error' && (
           <p className="text-white/90 text-sm mt-4">
