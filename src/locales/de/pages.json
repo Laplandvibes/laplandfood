@@ -9,7 +9,7 @@
   },
   "newsletter": {
     "kicker": "#LaplandVibes-Newsletter",
-    "headline": "Nur wenn etwas Erwähnenswertes auftaucht.",
+    "headline": "Was Lappland gerade isst.",
     "subhead": "Ein Saisonrezept, das einen Versuch wert ist, ein Restaurant, das einen Umweg lohnt, ein Pilz- oder Beerenfenster, das Sie nicht verpassen sollten. Redaktionelle Auswahl, aus Finnland geschrieben.",
     "emailPlaceholder": "sie@beispiel.de",
     "submit": "Abonnieren",
@@ -26,9 +26,21 @@
     "subhead": "LaplandFood ist eine Kulturkarte. Für den Tisch, den Sie tatsächlich reservieren, das Bier, das Sie tatsächlich bestellen, und die Orte, die nach Mitternacht noch offen sind, wechseln Sie zu den Schwesterseiten unten.",
     "visitLabel": "Besuchen",
     "items": [
-      { "title": "Tisch reservieren", "eyebrow": "LaplandDining", "body": "Wo in Lappland tatsächlich gegessen wird: 60+ kuratierte Restaurants mit Menüs, Öffnungszeiten und Reservierungslinks." },
-      { "title": "Bar oder Brauerei finden", "eyebrow": "LaplandBars", "body": "Kleine Brauereien, Eisbars, Hotelbars und Pubs, in die Finnen wirklich gehen, was eingeschenkt wird und wann geöffnet ist." },
-      { "title": "Lapplands Nachtleben", "eyebrow": "LaplandNightlife", "body": "DJs, späte Küchen, Live-Musik-Locations, der Kalender der Polarnacht-Partys, was tun, wenn die Küche schon zu hat." }
+      {
+        "title": "Tisch reservieren",
+        "eyebrow": "LaplandDining",
+        "body": "Wo in Lappland tatsächlich gegessen wird: 60+ kuratierte Restaurants mit Menüs, Öffnungszeiten und Reservierungslinks."
+      },
+      {
+        "title": "Bar oder Brauerei finden",
+        "eyebrow": "LaplandBars",
+        "body": "Kleine Brauereien, Eisbars, Hotelbars und Pubs, in die Finnen wirklich gehen, was eingeschenkt wird und wann geöffnet ist."
+      },
+      {
+        "title": "Lapplands Nachtleben",
+        "eyebrow": "LaplandNightlife",
+        "body": "DJs, späte Küchen, Live-Musik-Locations, der Kalender der Polarnacht-Partys, was tun, wenn die Küche schon zu hat."
+      }
     ]
   },
   "home": {
@@ -56,21 +68,61 @@
       "kitchens": "Spitzenküchen in Lappland"
     },
     "pillars": [
-      { "eyebrow": "Säule 01", "title": "Lokale Zutaten", "body": "Was hier tatsächlich wächst, schwimmt und wandert, Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Saisonen, Herkunft und der Grund für den Geschmack." },
-      { "eyebrow": "Säule 02", "title": "Traditionelle Rezepte", "body": "Bidos-Rentiereintopf, Sámi-Brot, Fischsuppe, Beerenkissel, Rezepte, die Sápmi seit Tausenden von Jahren durch die arktischen Winter getragen haben." },
-      { "eyebrow": "Säule 03", "title": "Modernes Lappland", "body": "Wie eine neue Generation von Köchen dieselben Zutaten mit Sous-vide, Fermentation und New-Nordic-Handschrift bearbeitet. Wo Sie das probieren können." },
-      { "eyebrow": "Säule 04", "title": "Sammelguide", "body": "Heidelbeere, Preiselbeere, Moltebeere, Pilze, Brennnessel, Mädesüß, wann pflücken, wie erkennen und wie nachhaltig sammeln mit dem Jedermannsrecht." },
-      { "eyebrow": "Säule 05", "title": "Michelin und Fine Dining", "body": "Die finnische Michelin-Szene auf einen Blick: was wo besternt ist und was das Fine Dining nördlich des Polarkreises antreibt." },
-      { "eyebrow": "Säule 06", "title": "Kulinarische Touren und Kochschulen", "body": "Sámi-Esstouren, Fine-Dining-Rundgänge, Sammelausflüge, Brauereibesuche, buchbare Esserlebnisse in ganz Lappland." }
+      {
+        "eyebrow": "Säule 01",
+        "title": "Lokale Zutaten",
+        "body": "Was hier tatsächlich wächst, schwimmt und wandert, Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Saisonen, Herkunft und der Grund für den Geschmack."
+      },
+      {
+        "eyebrow": "Säule 02",
+        "title": "Traditionelle Rezepte",
+        "body": "Bidos-Rentiereintopf, Sámi-Brot, Fischsuppe, Beerenkissel, Rezepte, die Sápmi seit Tausenden von Jahren durch die arktischen Winter getragen haben."
+      },
+      {
+        "eyebrow": "Säule 03",
+        "title": "Modernes Lappland",
+        "body": "Wie eine neue Generation von Köchen dieselben Zutaten mit Sous-vide, Fermentation und New-Nordic-Handschrift bearbeitet. Wo Sie das probieren können."
+      },
+      {
+        "eyebrow": "Säule 04",
+        "title": "Sammelguide",
+        "body": "Heidelbeere, Preiselbeere, Moltebeere, Pilze, Brennnessel, Mädesüß, wann pflücken, wie erkennen und wie nachhaltig sammeln mit dem Jedermannsrecht."
+      },
+      {
+        "eyebrow": "Säule 05",
+        "title": "Michelin und Fine Dining",
+        "body": "Die finnische Michelin-Szene auf einen Blick: was wo besternt ist und was das Fine Dining nördlich des Polarkreises antreibt."
+      },
+      {
+        "eyebrow": "Säule 06",
+        "title": "Kulinarische Touren und Kochschulen",
+        "body": "Sámi-Esstouren, Fine-Dining-Rundgänge, Sammelausflüge, Brauereibesuche, buchbare Esserlebnisse in ganz Lappland."
+      }
     ],
     "cultureKicker": "Warum es so schmeckt",
     "cultureHeadline": "Vier Dinge, die finnisches Essen finnisch machen.",
     "cultureLead": "Zieht man die Trends ab, ruht der größte Teil der finnischen Küche auf diesen vier Grundpfeilern. Sie erklären alles, von dem Knäckebrot beim Hotelfrühstück bis zum mit Wacholder gesalzenen Fisch zu Beginn eines Fine-Dining-Menüs.",
     "culture": [
-      { "n": "01", "title": "Acht Jahreszeiten statt vier", "body": "Der Sámi-Kalender teilt das Jahr in acht Jahreszeiten ein. Jede bestimmt, was auf dem Teller liegt, Eisangeln in der Polarnacht, Moltebeerenpflücken unter der Mitternachtssonne, das Sammeln von Pilzen und Kräutern vor dem ersten Frost." },
-      { "n": "02", "title": "Das Jedermannsrecht", "body": "Das finnische Jedermannsrecht erlaubt jedem, Beeren, Pilze und wilde Kräuter auf den meisten Flächen zu sammeln, auch auf privatem Grund. Es ist einer der wenigen rechtlichen Rahmen weltweit, die Wildnahrung als Gemeingut behandeln." },
-      { "n": "03", "title": "Das ganze Tier verwenden", "body": "In der Sámi-Esskultur geht vom Rentier nichts verloren: Fleisch, Mark, Blut, Fett, Haut, Knochen. Die Rezepte entstanden um die Vollverwertung, deshalb verwendet Bidos die zäheren Stücke und deshalb wurden Blutpfannkuchen zu einem finnischen Grundgericht." },
-      { "n": "04", "title": "Sparsam gewürzt, zutatengetrieben", "body": "Finnisches Essen schreit selten. Die Aromen sind Dill, Wacholder, Butter, Salz und die Zutat selbst. Das Kochen ist so aufgebaut, dass die Zutat das Wort führen darf, ein leiser Gegenpol zu den lauteren Küchen weiter südlich." }
+      {
+        "n": "01",
+        "title": "Acht Jahreszeiten statt vier",
+        "body": "Der Sámi-Kalender teilt das Jahr in acht Jahreszeiten ein. Jede bestimmt, was auf dem Teller liegt, Eisangeln in der Polarnacht, Moltebeerenpflücken unter der Mitternachtssonne, das Sammeln von Pilzen und Kräutern vor dem ersten Frost."
+      },
+      {
+        "n": "02",
+        "title": "Das Jedermannsrecht",
+        "body": "Das finnische Jedermannsrecht erlaubt jedem, Beeren, Pilze und wilde Kräuter auf den meisten Flächen zu sammeln, auch auf privatem Grund. Es ist einer der wenigen rechtlichen Rahmen weltweit, die Wildnahrung als Gemeingut behandeln."
+      },
+      {
+        "n": "03",
+        "title": "Das ganze Tier verwenden",
+        "body": "In der Sámi-Esskultur geht vom Rentier nichts verloren: Fleisch, Mark, Blut, Fett, Haut, Knochen. Die Rezepte entstanden um die Vollverwertung, deshalb verwendet Bidos die zäheren Stücke und deshalb wurden Blutpfannkuchen zu einem finnischen Grundgericht."
+      },
+      {
+        "n": "04",
+        "title": "Sparsam gewürzt, zutatengetrieben",
+        "body": "Finnisches Essen schreit selten. Die Aromen sind Dill, Wacholder, Butter, Salz und die Zutat selbst. Das Kochen ist so aufgebaut, dass die Zutat das Wort führen darf, ein leiser Gegenpol zu den lauteren Küchen weiter südlich."
+      }
     ],
     "summer": {
       "kicker": "6.6.–7.7. · 32 Tage Mitternachtssonne",
@@ -85,11 +137,26 @@
       "stillPrefix": "Noch eine Frage offen? Schreiben Sie an ",
       "stillSuffix": ". Wir antworten.",
       "items": [
-        { "question": "Wie schmeckt traditionelles finnisches Essen?", "answer": "Traditionelle finnische Küche baut auf dem auf, was in unmittelbarer Nähe wächst, schwimmt oder weidet: Roggenbrot, Süßwasserfisch, Rentier, Wildbeeren wie Heidelbeere, Preiselbeere und Moltebeere, gesammelte Pilze und Milchprodukte. Die Küche ist saisonal, dezent gewürzt und stellt die Zutat über die Technik." },
-        { "question": "Gibt es in Finnland Michelin-Sterne-Restaurants?", "answer": "Ja. Der Guide Michelin bewertet Finnland, und die Sterne-Restaurants der letzten Nordic-Ausgaben lagen alle in Helsinki. Lappland selbst hält derzeit keinen Stern, doch seine Vorzeigeküchen, Nili, Aanaar, Rakas, treiben das Degustationsmenü nördlich des Polarkreises voran. Die Sterneliste ändert sich jährlich; prüfen Sie vor der Reservierung den aktuellen Guide." },
-        { "question": "Was ist samische Küche?", "answer": "Samische Küche ist die indigene Küche Sápmis, der Region im Norden Finnlands, Schwedens, Norwegens und Russlands. Im Zentrum stehen das Rentier, jedes Teil wird verwertet, arktischer Fisch, gesammelte Beeren und Kräuter sowie langsames Garen wie beim Bidos-Eintopf. Die Rezepte folgen dem samischen Kalender mit acht Jahreszeiten." },
-        { "question": "Dürfen Besucher in Finnland Beeren und Pilze sammeln?", "answer": "Ja. Das finnische Jedermannsrecht (jokamiehenoikeus) erlaubt jedem, auch Gästen, auf fast allem Land Beeren, Pilze und Wildkräuter zu sammeln, selbst in Privatwäldern. Lernen Sie aber vorher die Pilzbestimmung: In finnischen Wäldern wachsen tödliche Arten wie der Grüne Knollenblätterpilz. Für das erste Mal ist eine geführte Sammelwanderung der sicherste Einstieg." },
-        { "question": "Wann ist Moltebeeren-Saison in Lappland?", "answer": "Etwa Mitte Juli bis Mitte August, mit einem intensiven Pflückfenster von rund drei Wochen je nach Moor. Moltebeeren wachsen nur in kalten arktischen Torfmooren und widersetzen sich dem Anbau, deshalb sind sie die begehrteste und teuerste Wildbeere Lapplands." }
+        {
+          "question": "Wie schmeckt traditionelles finnisches Essen?",
+          "answer": "Traditionelle finnische Küche baut auf dem auf, was in unmittelbarer Nähe wächst, schwimmt oder weidet: Roggenbrot, Süßwasserfisch, Rentier, Wildbeeren wie Heidelbeere, Preiselbeere und Moltebeere, gesammelte Pilze und Milchprodukte. Die Küche ist saisonal, dezent gewürzt und stellt die Zutat über die Technik."
+        },
+        {
+          "question": "Gibt es in Finnland Michelin-Sterne-Restaurants?",
+          "answer": "Ja. Der Guide Michelin bewertet Finnland, und die Sterne-Restaurants der letzten Nordic-Ausgaben lagen alle in Helsinki. Lappland selbst hält derzeit keinen Stern, doch seine Vorzeigeküchen, Nili, Aanaar, Rakas, treiben das Degustationsmenü nördlich des Polarkreises voran. Die Sterneliste ändert sich jährlich; prüfen Sie vor der Reservierung den aktuellen Guide."
+        },
+        {
+          "question": "Was ist samische Küche?",
+          "answer": "Samische Küche ist die indigene Küche Sápmis, der Region im Norden Finnlands, Schwedens, Norwegens und Russlands. Im Zentrum stehen das Rentier, jedes Teil wird verwertet, arktischer Fisch, gesammelte Beeren und Kräuter sowie langsames Garen wie beim Bidos-Eintopf. Die Rezepte folgen dem samischen Kalender mit acht Jahreszeiten."
+        },
+        {
+          "question": "Dürfen Besucher in Finnland Beeren und Pilze sammeln?",
+          "answer": "Ja. Das finnische Jedermannsrecht (jokamiehenoikeus) erlaubt jedem, auch Gästen, auf fast allem Land Beeren, Pilze und Wildkräuter zu sammeln, selbst in Privatwäldern. Lernen Sie aber vorher die Pilzbestimmung: In finnischen Wäldern wachsen tödliche Arten wie der Grüne Knollenblätterpilz. Für das erste Mal ist eine geführte Sammelwanderung der sicherste Einstieg."
+        },
+        {
+          "question": "Wann ist Moltebeeren-Saison in Lappland?",
+          "answer": "Etwa Mitte Juli bis Mitte August, mit einem intensiven Pflückfenster von rund drei Wochen je nach Moor. Moltebeeren wachsen nur in kalten arktischen Torfmooren und widersetzen sich dem Anbau, deshalb sind sie die begehrteste und teuerste Wildbeere Lapplands."
+        }
       ]
     }
   },
@@ -107,20 +174,71 @@
     "intro": {
       "lead": "Lapplands Vorratskammer ist kurz. Darin liegt ihre Kraft.",
       "points": [
-        { "n": "01", "title": "Sechs Zutaten, eine Hand", "body": "Rentier, Seefisch, gesammelte Beeren und Pilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine versteckte 30. Zutat gibt es nicht; die Kunst liegt darin, was man mit diesen sechs zu tun gelernt hat." },
-        { "n": "02", "title": "Fast alles ist wild", "body": "Das unterscheidet Lappland von fast jeder anderen Esskultur Europas. Selbst die Rentiere leben auf Zehntausenden Quadratkilometern offener Wildnis." },
-        { "n": "03", "title": "Wild heißt Jahrgänge", "body": "Wilde Zutaten schwanken von Jahr zu Jahr und Ort zu Ort, wie es Kultiviertes nie tut: Moltebeeren aus einem Moor bei Inari schmecken anders als solche, die 80 Kilometer weiter südlich gepflückt wurden." }
+        {
+          "n": "01",
+          "title": "Sechs Zutaten, eine Hand",
+          "body": "Rentier, Seefisch, gesammelte Beeren und Pilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine versteckte 30. Zutat gibt es nicht; die Kunst liegt darin, was man mit diesen sechs zu tun gelernt hat."
+        },
+        {
+          "n": "02",
+          "title": "Fast alles ist wild",
+          "body": "Das unterscheidet Lappland von fast jeder anderen Esskultur Europas. Selbst die Rentiere leben auf Zehntausenden Quadratkilometern offener Wildnis."
+        },
+        {
+          "n": "03",
+          "title": "Wild heißt Jahrgänge",
+          "body": "Wilde Zutaten schwanken von Jahr zu Jahr und Ort zu Ort, wie es Kultiviertes nie tut: Moltebeeren aus einem Moor bei Inari schmecken anders als solche, die 80 Kilometer weiter südlich gepflückt wurden."
+        }
       ]
     },
     "ingredients": [
-      { "name": "Rentier und Wild", "season": "Ganzjährig · am besten Okt.–März", "description": "Das Herz der arktischen Küche. Freilaufendes Rentier wächst in reiner Wildnis auf, seit Jahrtausenden das wichtigste Protein der Sámi-Kultur.", "nutritional": "Viel Eiweiß, wenig Fett, Vitamin B12 und Eisen", "uses": "Grillen, Trocknen, Räuchern, langsames Schmoren" },
-      { "name": "Heidelbeeren und Preiselbeeren", "season": "August–September", "description": "Arktische Superbeeren voller Antioxidantien. Wachsen wild unter der Mitternachtssonne in Fjäll und borealem Wald.", "nutritional": "Antioxidantien, Vitamin C, Ballaststoffe", "uses": "Konfitüren, Säfte, Backen, Trocknen" },
-      { "name": "Waldpilze, Steinpilz und Reizker", "season": "Juli–September", "description": "Das Gold des Waldes aus Lapplands Urwäldern. Traditionell für den Winter getrocknet.", "nutritional": "Eiweiß, Ballaststoffe, Vitamin D", "uses": "Trocknen, Einmachen, Suppen, Saucen" },
-      { "name": "Arktischer Süßwasserfisch", "season": "Ganzjährig · Eisangel-Saison im Winter", "description": "Fisch aus kristallklaren Seen, Maräne, Hecht, Barsch, Forelle. Eisangeln ist eine geliebte Wintertradition in ganz Lappland.", "nutritional": "Omega-3-Fettsäuren, viel Eiweiß, Phosphor", "uses": "Räuchern, Salzen, Grillen, Fischsuppe" },
-      { "name": "Wildkräuter, Mädesüß und Brennnessel", "season": "Juni–August", "description": "Die Kraft der Wildkräuter. Traditionelle Heil- und Speisekräuter, die in der Sámi-Kultur seit Generationen verwendet werden.", "nutritional": "Mineralien, Vitamine, Flavonoide", "uses": "Tee, Salate, Suppen, Trocknen" },
-      { "name": "Moltebeere", "season": "Mitte Juli – Mitte August", "description": "Lapplands goldenes Juwel. Wächst nur in arktischen Mooren und Sümpfen, eine der seltensten und begehrtesten Wildbeeren der Welt.", "nutritional": "Vitamin C, Vitamin E, Omega-3-Fettsäuren", "uses": "Konfitüren, Desserts, Likör, pur" }
+      {
+        "name": "Rentier und Wild",
+        "season": "Ganzjährig · am besten Okt.–März",
+        "description": "Das Herz der arktischen Küche. Freilaufendes Rentier wächst in reiner Wildnis auf, seit Jahrtausenden das wichtigste Protein der Sámi-Kultur.",
+        "nutritional": "Viel Eiweiß, wenig Fett, Vitamin B12 und Eisen",
+        "uses": "Grillen, Trocknen, Räuchern, langsames Schmoren"
+      },
+      {
+        "name": "Heidelbeeren und Preiselbeeren",
+        "season": "August–September",
+        "description": "Arktische Superbeeren voller Antioxidantien. Wachsen wild unter der Mitternachtssonne in Fjäll und borealem Wald.",
+        "nutritional": "Antioxidantien, Vitamin C, Ballaststoffe",
+        "uses": "Konfitüren, Säfte, Backen, Trocknen"
+      },
+      {
+        "name": "Waldpilze, Steinpilz und Reizker",
+        "season": "Juli–September",
+        "description": "Das Gold des Waldes aus Lapplands Urwäldern. Traditionell für den Winter getrocknet.",
+        "nutritional": "Eiweiß, Ballaststoffe, Vitamin D",
+        "uses": "Trocknen, Einmachen, Suppen, Saucen"
+      },
+      {
+        "name": "Arktischer Süßwasserfisch",
+        "season": "Ganzjährig · Eisangel-Saison im Winter",
+        "description": "Fisch aus kristallklaren Seen, Maräne, Hecht, Barsch, Forelle. Eisangeln ist eine geliebte Wintertradition in ganz Lappland.",
+        "nutritional": "Omega-3-Fettsäuren, viel Eiweiß, Phosphor",
+        "uses": "Räuchern, Salzen, Grillen, Fischsuppe"
+      },
+      {
+        "name": "Wildkräuter, Mädesüß und Brennnessel",
+        "season": "Juni–August",
+        "description": "Die Kraft der Wildkräuter. Traditionelle Heil- und Speisekräuter, die in der Sámi-Kultur seit Generationen verwendet werden.",
+        "nutritional": "Mineralien, Vitamine, Flavonoide",
+        "uses": "Tee, Salate, Suppen, Trocknen"
+      },
+      {
+        "name": "Moltebeere",
+        "season": "Mitte Juli – Mitte August",
+        "description": "Lapplands goldenes Juwel. Wächst nur in arktischen Mooren und Sümpfen, eine der seltensten und begehrtesten Wildbeeren der Welt.",
+        "nutritional": "Vitamin C, Vitamin E, Omega-3-Fettsäuren",
+        "uses": "Konfitüren, Desserts, Likör, pur"
+      }
     ],
-    "labels": { "nutrition": "Nährwerte:", "usedIn": "Verwendung:" },
+    "labels": {
+      "nutrition": "Nährwerte:",
+      "usedIn": "Verwendung:"
+    },
     "reindeerDeep": {
       "kicker": "Tiefer Blick · Rentier",
       "headline": "Wie das Rentier auf den Teller in Lappland kommt.",
@@ -172,18 +290,39 @@
     "intro": {
       "lead": "Die Rezepte auf dieser Seite sind keine Museumsstücke. Sie werden immer noch gekocht.",
       "points": [
-        { "n": "01", "title": "Wird noch jeden Dienstag gekocht", "body": "Betreten Sie im November ein samisches Zuhause in Inari oder Utsjoki, und auf dem Herd steht Bidos, derselbe langsam geschmorte Rentiereintopf, den die Großmutter kochte, mit denselben Teilstücken, bei derselben kaum flüsternden Hitze." },
-        { "n": "02", "title": "Überlebte aus eigener Vorratskammer", "body": "Die samische Küche überdauerte die meisten vorindustriellen arktischen Esskulturen, weil sie nie Importe brauchte, um nach sich selbst zu schmecken: Rentier, Seefisch, Beeren, Wildkräuter, Roggen, Butter, Salz." },
-        { "n": "03", "title": "Vier Einstiege", "body": "Bidos ist das Soulfood-Proteingericht, Gahkku das tägliche Brot, Sápmi-Fischsuppe das, was der See in jener Woche gab, und Wildbeeren-Kissel die Art, den Sommer haltbar zu machen." }
+        {
+          "n": "01",
+          "title": "Wird noch jeden Dienstag gekocht",
+          "body": "Betreten Sie im November ein samisches Zuhause in Inari oder Utsjoki, und auf dem Herd steht Bidos, derselbe langsam geschmorte Rentiereintopf, den die Großmutter kochte, mit denselben Teilstücken, bei derselben kaum flüsternden Hitze."
+        },
+        {
+          "n": "02",
+          "title": "Überlebte aus eigener Vorratskammer",
+          "body": "Die samische Küche überdauerte die meisten vorindustriellen arktischen Esskulturen, weil sie nie Importe brauchte, um nach sich selbst zu schmecken: Rentier, Seefisch, Beeren, Wildkräuter, Roggen, Butter, Salz."
+        },
+        {
+          "n": "03",
+          "title": "Vier Einstiege",
+          "body": "Bidos ist das Soulfood-Proteingericht, Gahkku das tägliche Brot, Sápmi-Fischsuppe das, was der See in jener Woche gab, und Wildbeeren-Kissel die Art, den Sommer haltbar zu machen."
+        }
       ]
     },
     "context": {
       "kicker": "Die Weisheit der Sámi-Esskultur",
       "headline": "Warum die Rezepte so sind, wie sie sind.",
       "items": [
-        { "title": "Energieeffizienz", "body": "Rezepte sind so gestaltet, dass sie im rauen arktischen Klima Brennstoff und Zeit minimieren. Langes Schmoren + fettreiches Protein = maximale Kilokalorien aus möglichst wenig Holz." },
-        { "title": "Lange Haltbarkeit", "body": "Gerichte, die ohne Kühlschrank oder Konservierungsstoffe haltbar sind, Trocknen, Räuchern, Fermentieren und Einfrieren im Schnee." },
-        { "title": "Gemeinschaft", "body": "Kochen und Teilen sind ein zentrales soziales Ritual des Sámi-Lebens. Der Topf in der Mitte der Kota ist, wörtlich, das Zentrum." }
+        {
+          "title": "Energieeffizienz",
+          "body": "Rezepte sind so gestaltet, dass sie im rauen arktischen Klima Brennstoff und Zeit minimieren. Langes Schmoren + fettreiches Protein = maximale Kilokalorien aus möglichst wenig Holz."
+        },
+        {
+          "title": "Lange Haltbarkeit",
+          "body": "Gerichte, die ohne Kühlschrank oder Konservierungsstoffe haltbar sind, Trocknen, Räuchern, Fermentieren und Einfrieren im Schnee."
+        },
+        {
+          "title": "Gemeinschaft",
+          "body": "Kochen und Teilen sind ein zentrales soziales Ritual des Sámi-Lebens. Der Topf in der Mitte der Kota ist, wörtlich, das Zentrum."
+        }
       ]
     },
     "sapmi": {
@@ -191,9 +330,18 @@
       "headline": "Sápmi, eine der ältesten Küchen Europas.",
       "lead": "Die Sámi sind das indigene Volk von Sápmi, eine weite arktische Heimat, die sich über Nordfinnland, Schweden, Norwegen und Russland erstreckt. Ihre Küche ist eine der ältesten noch lebendigen Esskulturen Europas, vollständig geformt durch Land, Jahreszeiten und Rentierhaltung.",
       "items": [
-        { "title": "Sápmi, das Heimatland", "body": "Sápmi umfasst über 400 000 km² in vier Staaten. Das finnische Sápmi (das Sámi-Heimatgebiet) ist die nördlichste Region Finnlands, Enontekiö, Inari und Utsjoki." },
-        { "title": "Die Sámi-Sprachen", "body": "Es gibt neun lebende Sámi-Sprachen. Nordsamisch ist die am weitesten verbreitete. Viele traditionelle Rezeptnamen, wie <em>bidos</em> und <em>gahkku</em>, stammen direkt aus dem Nordsamischen." },
-        { "title": "Acht Jahreszeiten statt vier", "body": "Die Sámi-Zeitrechnung teilt das Jahr in acht Jahreszeiten. Jede bestimmt, was auf dem Teller liegt, Eisangeln in der Polarnacht, Moltebeerenpflücken zur Mittsommerzeit, Pilze vor dem ersten Frost." }
+        {
+          "title": "Sápmi, das Heimatland",
+          "body": "Sápmi umfasst über 400 000 km² in vier Staaten. Das finnische Sápmi (das Sámi-Heimatgebiet) ist die nördlichste Region Finnlands, Enontekiö, Inari und Utsjoki."
+        },
+        {
+          "title": "Die Sámi-Sprachen",
+          "body": "Es gibt neun lebende Sámi-Sprachen. Nordsamisch ist die am weitesten verbreitete. Viele traditionelle Rezeptnamen, wie <em>bidos</em> und <em>gahkku</em>, stammen direkt aus dem Nordsamischen."
+        },
+        {
+          "title": "Acht Jahreszeiten statt vier",
+          "body": "Die Sámi-Zeitrechnung teilt das Jahr in acht Jahreszeiten. Jede bestimmt, was auf dem Teller liegt, Eisangeln in der Polarnacht, Moltebeerenpflücken zur Mittsommerzeit, Pilze vor dem ersten Frost."
+        }
       ]
     },
     "recipesKicker": "Authentische Rezepte",
@@ -214,8 +362,26 @@
         "serves": "6–8 Personen",
         "tradition": "Sámi-Erbe",
         "description": "Lange geschmorter Rentiereintopf, seit Jahrhunderten das Seelenfutter der Sámi-Kultur. Schlicht, wärmend und tief nährend.",
-        "ingredients": ["1 kg Rentierfleisch (Schmorfleisch)", "4–5 geschälte Kartoffeln, gewürfelt", "2 Karotten, in Scheiben", "1 Zwiebel, gehackt", "2 EL Butter oder Rentierfett", "Salz und schwarzer Pfeffer nach Geschmack", "Frischer Dill"],
-        "instructions": ["Schneiden Sie das Rentierfleisch in 3–4 cm große Stücke", "Erhitzen Sie das Fett in einem dickwandigen Topf bei mittlerer Hitze", "Braten Sie das Fleisch von allen Seiten gut an", "Geben Sie die Zwiebel dazu und dünsten Sie sie glasig", "Gießen Sie gerade so viel Wasser dazu, dass das Fleisch knapp bedeckt ist", "Schmoren Sie bei niedriger Hitze 2–3 Stunden, bis das Fleisch zart ist", "Geben Sie Kartoffeln und Karotten in der letzten Stunde dazu", "Würzen Sie kräftig mit Salz und Pfeffer", "Mit frischem Dill garnieren und servieren"],
+        "ingredients": [
+          "1 kg Rentierfleisch (Schmorfleisch)",
+          "4–5 geschälte Kartoffeln, gewürfelt",
+          "2 Karotten, in Scheiben",
+          "1 Zwiebel, gehackt",
+          "2 EL Butter oder Rentierfett",
+          "Salz und schwarzer Pfeffer nach Geschmack",
+          "Frischer Dill"
+        ],
+        "instructions": [
+          "Schneiden Sie das Rentierfleisch in 3–4 cm große Stücke",
+          "Erhitzen Sie das Fett in einem dickwandigen Topf bei mittlerer Hitze",
+          "Braten Sie das Fleisch von allen Seiten gut an",
+          "Geben Sie die Zwiebel dazu und dünsten Sie sie glasig",
+          "Gießen Sie gerade so viel Wasser dazu, dass das Fleisch knapp bedeckt ist",
+          "Schmoren Sie bei niedriger Hitze 2–3 Stunden, bis das Fleisch zart ist",
+          "Geben Sie Kartoffeln und Karotten in der letzten Stunde dazu",
+          "Würzen Sie kräftig mit Salz und Pfeffer",
+          "Mit frischem Dill garnieren und servieren"
+        ],
         "tips": "Traditionell wurde das Gericht über offenem Feuer langsam und lange geschmort, Geduld ist die geheime Zutat."
       },
       {
@@ -225,8 +391,23 @@
         "serves": "1 Brot",
         "tradition": "Altes Sámi-Rezept",
         "description": "Schlicht, aber nahrhaft, ein lang haltbares Brot, das Generationen lang die arktischen Wege begleitet hat.",
-        "ingredients": ["500 g Weizenmehl", "250 ml lauwarmes Wasser", "1 TL Salz", "1 TL Zucker", "1 Päckchen Trockenhefe", "2 EL Öl"],
-        "instructions": ["Vermengen Sie alle trockenen Zutaten", "Geben Sie lauwarmes Wasser und Öl dazu", "Kneten Sie alles zu einem glatten Teig", "Lassen Sie ihn 30 Minuten an einem warmen Ort gehen", "Formen Sie ihn zu einem runden Brot", "Backen Sie bei 225 °C für 25–30 Minuten", "Das Brot ist fertig, wenn es beim Klopfen auf den Boden hohl klingt"],
+        "ingredients": [
+          "500 g Weizenmehl",
+          "250 ml lauwarmes Wasser",
+          "1 TL Salz",
+          "1 TL Zucker",
+          "1 Päckchen Trockenhefe",
+          "2 EL Öl"
+        ],
+        "instructions": [
+          "Vermengen Sie alle trockenen Zutaten",
+          "Geben Sie lauwarmes Wasser und Öl dazu",
+          "Kneten Sie alles zu einem glatten Teig",
+          "Lassen Sie ihn 30 Minuten an einem warmen Ort gehen",
+          "Formen Sie ihn zu einem runden Brot",
+          "Backen Sie bei 225 °C für 25–30 Minuten",
+          "Das Brot ist fertig, wenn es beim Klopfen auf den Boden hohl klingt"
+        ],
         "tips": "Traditionell wurde es auf heißen Steinen oder über offenem Feuer gebacken."
       },
       {
@@ -236,8 +417,27 @@
         "serves": "4–6 Personen",
         "tradition": "Arktische Fischereikultur",
         "description": "Eine geliebte Fischsuppe aus reinstem Süßwasserfisch und Wildkräutern, der Geschmack des arktischen Ufers.",
-        "ingredients": ["800 g frischer Süßwasserfisch (Maräne oder Forelle)", "1 Liter Fischfond oder Wasser", "3–4 Kartoffeln, gewürfelt", "1 Karotte, in Scheiben", "1 Zwiebel", "250 ml Sahne", "Frischer Dill", "Salz und weißer Pfeffer"],
-        "instructions": ["Putzen und filetieren Sie den Fisch", "Kochen Sie Kopf und Gräten für den Fond aus", "Sieben Sie den Fond zurück in den Topf", "Geben Sie Kartoffeln und Karotten dazu", "Kochen Sie 15 Minuten", "Fügen Sie die Fischstücke und die Zwiebel hinzu", "Kochen Sie weitere 10 Minuten", "Rühren Sie die Sahne und die Dillstängel ein", "Mit Salz und weißem Pfeffer abschmecken, mit frischem Dill garnieren"],
+        "ingredients": [
+          "800 g frischer Süßwasserfisch (Maräne oder Forelle)",
+          "1 Liter Fischfond oder Wasser",
+          "3–4 Kartoffeln, gewürfelt",
+          "1 Karotte, in Scheiben",
+          "1 Zwiebel",
+          "250 ml Sahne",
+          "Frischer Dill",
+          "Salz und weißer Pfeffer"
+        ],
+        "instructions": [
+          "Putzen und filetieren Sie den Fisch",
+          "Kochen Sie Kopf und Gräten für den Fond aus",
+          "Sieben Sie den Fond zurück in den Topf",
+          "Geben Sie Kartoffeln und Karotten dazu",
+          "Kochen Sie 15 Minuten",
+          "Fügen Sie die Fischstücke und die Zwiebel hinzu",
+          "Kochen Sie weitere 10 Minuten",
+          "Rühren Sie die Sahne und die Dillstängel ein",
+          "Mit Salz und weißem Pfeffer abschmecken, mit frischem Dill garnieren"
+        ],
         "tips": "Alter Trick: Die Dillstängel während des Kochens mitziehen lassen, die frischen Blätter erst zum Schluss."
       },
       {
@@ -247,8 +447,22 @@
         "serves": "4–6 Personen",
         "tradition": "Tradition der Sommerkonservierung",
         "description": "Die klassische Art, Lapplands Wildbeeren zu genießen. Voller Antioxidantien und arktischem Geschmack.",
-        "ingredients": ["500 g Beerenmischung (Heidelbeeren, Preiselbeeren)", "100–150 g Zucker nach Geschmack", "3 EL Kartoffelstärke", "1 Liter Wasser", "Vanillezucker"],
-        "instructions": ["Kochen Sie die Beeren 10 Minuten im Wasser", "Pürieren und nach Belieben durchsieben", "Geben Sie Zucker und Vanillezucker dazu", "Rühren Sie die Kartoffelstärke in kaltes Wasser", "Mischen Sie die Stärke unter den heißen Beerensaft", "Kochen Sie 2–3 Minuten, bis es eindickt", "Warm oder kalt servieren"],
+        "ingredients": [
+          "500 g Beerenmischung (Heidelbeeren, Preiselbeeren)",
+          "100–150 g Zucker nach Geschmack",
+          "3 EL Kartoffelstärke",
+          "1 Liter Wasser",
+          "Vanillezucker"
+        ],
+        "instructions": [
+          "Kochen Sie die Beeren 10 Minuten im Wasser",
+          "Pürieren und nach Belieben durchsieben",
+          "Geben Sie Zucker und Vanillezucker dazu",
+          "Rühren Sie die Kartoffelstärke in kaltes Wasser",
+          "Mischen Sie die Stärke unter den heißen Beerensaft",
+          "Kochen Sie 2–3 Minuten, bis es eindickt",
+          "Warm oder kalt servieren"
+        ],
         "tips": "Traditionell wurde mit wildem Honig statt Zucker gesüßt, probieren Sie beide Varianten."
       }
     ],
@@ -258,14 +472,54 @@
       "p1": "Der Vier-Jahreszeiten-Kalender ist die Voreinstellung des gemäßigten Europas. Die Sámi teilen das Jahr in acht Jahreszeiten, jede an das gebunden, was die Rentiere tun, wie der See aussieht und was im Wald reift. Wenn Sie verstehen möchten, warum die Sámi-Küche so aussieht, wie sie aussieht, fangen Sie hier an.",
       "p2": "Die Namen unten sind die nordsamischen Originale. Die Daten sind Richtwerte, die Jahreszeiten von Sápmi richten sich mehr nach der Phänologie (was das Land tut) als nach dem Kalender.",
       "items": [
-        { "sami": "Dálvi", "en": "Winter", "when": "Dez. – Feb.", "body": "Polarnacht und tiefster Frost. Die Rentiere sind auf den Winterweiden und scharren Flechten unter dem Schnee hervor. Der Haushalt lebt von dem, was im Herbst eingelagert wurde: trocken gepresstes Rentier (suovas), Salzfisch, gefrorene Beeren, Roggenmehl. Bidos ist das alltägliche Abendessen, langsam gegartes fettreiches Protein wärmt." },
-        { "sami": "Giđđadálvi", "en": "Frühwinter", "when": "März – April", "body": "Das Licht kehrt zurück. Das Kalben der Rentiere beginnt; die Hirten ziehen mit der Herde. Das Eisangeln ist auf dem Höhepunkt, die Sonne steht lange genug, um auf dem Eis zu angeln, ohne festzufrieren, und die Fische sind noch unter der dicken Eisdecke. Geräucherte Maräne dominiert. Die Tage werden täglich um 7 Minuten länger." },
-        { "sami": "Giđđa", "en": "Frühling", "when": "Mai", "body": "Die Schneeschmelze. Die Rentiere ziehen zu den Sommerweiden. Erste Birkenblätter und Brennnesseltriebe erscheinen, die ersten frischen Grünpflanzen nach sieben Monaten. Birkensaft wird gezapft und frisch getrunken oder fermentiert. Die ersten Eier der Zugvögel kommen." },
-        { "sami": "Giđđageassi", "en": "Frühsommer", "when": "Juni", "body": "Die erste Hälfte der Mitternachtssonne. Die Rentiere kalben; die Kälber laufen. Das Land ist endlich warm genug für Wildkräuter (Mädesüß, Schafgarbe, Engelwurz). Backwerk ersetzt die Eintöpfe. Frische Milch und Butter kehren von den Fjällweiden zurück." },
-        { "sami": "Geassi", "en": "Sommer", "when": "Juli", "body": "Volle Mitternachtssonne. Die Moltebeerenernte, drei bis sechs Wochen, in denen Familien ganze Abende auf dem Moor verbringen und pflücken. Kräuter werden für den Winter getrocknet; Beeren werden eingekocht, eingefroren oder fermentiert. Tägliches Angeln am See. Die Küche schließt kaum." },
-        { "sami": "Čakčageassi", "en": "Spätsommer", "when": "Aug. – Anfang Sept.", "body": "Heidelbeer- und Preiselbeersaison. Pilze schießen hervor, Steinpilz, Reizker, Pfifferling. Die Tage sind noch lang; die Nächte werden kühler. Die Rentiere haben ihr Höchstgewicht. Die Vorratskammer füllt sich: Konfitüren, Salzfisch, getrocknete Pilze, gefrorene Beeren." },
-        { "sami": "Čakča", "en": "Herbst", "when": "Sept. – Okt.", "body": "Die Schlachtsaison. Die Rentiere werden zusammengetrieben; die Hirten wählen die Tiere für die Winterschlachtung aus. Das Fleisch wird verarbeitet: geräuchert, getrocknet (suovas) und eingefroren. Das ist die Eiweißbank, die sieben Monate halten muss. Der erste Frost macht die Preiselbeeren süßer." },
-        { "sami": "Čakčadálvi", "en": "Spätherbst", "when": "November", "body": "Die Dunkelheit kehrt zurück. Der Schnee senkt sich. Die letzten Konservierungsarbeiten, Salzfisch, Konfitüren in den Vorrat, Bestandskontrolle. Die Küche stützt sich auf Warmes: Eintöpfe, Suppen, geröstetes Roggenbrot, heiße Beerensäfte. Der Bidos-Topf steht an den meisten Tagen auf dem Herd." }
+        {
+          "sami": "Dálvi",
+          "en": "Winter",
+          "when": "Dez. – Feb.",
+          "body": "Polarnacht und tiefster Frost. Die Rentiere sind auf den Winterweiden und scharren Flechten unter dem Schnee hervor. Der Haushalt lebt von dem, was im Herbst eingelagert wurde: trocken gepresstes Rentier (suovas), Salzfisch, gefrorene Beeren, Roggenmehl. Bidos ist das alltägliche Abendessen, langsam gegartes fettreiches Protein wärmt."
+        },
+        {
+          "sami": "Giđđadálvi",
+          "en": "Frühwinter",
+          "when": "März – April",
+          "body": "Das Licht kehrt zurück. Das Kalben der Rentiere beginnt; die Hirten ziehen mit der Herde. Das Eisangeln ist auf dem Höhepunkt, die Sonne steht lange genug, um auf dem Eis zu angeln, ohne festzufrieren, und die Fische sind noch unter der dicken Eisdecke. Geräucherte Maräne dominiert. Die Tage werden täglich um 7 Minuten länger."
+        },
+        {
+          "sami": "Giđđa",
+          "en": "Frühling",
+          "when": "Mai",
+          "body": "Die Schneeschmelze. Die Rentiere ziehen zu den Sommerweiden. Erste Birkenblätter und Brennnesseltriebe erscheinen, die ersten frischen Grünpflanzen nach sieben Monaten. Birkensaft wird gezapft und frisch getrunken oder fermentiert. Die ersten Eier der Zugvögel kommen."
+        },
+        {
+          "sami": "Giđđageassi",
+          "en": "Frühsommer",
+          "when": "Juni",
+          "body": "Die erste Hälfte der Mitternachtssonne. Die Rentiere kalben; die Kälber laufen. Das Land ist endlich warm genug für Wildkräuter (Mädesüß, Schafgarbe, Engelwurz). Backwerk ersetzt die Eintöpfe. Frische Milch und Butter kehren von den Fjällweiden zurück."
+        },
+        {
+          "sami": "Geassi",
+          "en": "Sommer",
+          "when": "Juli",
+          "body": "Volle Mitternachtssonne. Die Moltebeerenernte, drei bis sechs Wochen, in denen Familien ganze Abende auf dem Moor verbringen und pflücken. Kräuter werden für den Winter getrocknet; Beeren werden eingekocht, eingefroren oder fermentiert. Tägliches Angeln am See. Die Küche schließt kaum."
+        },
+        {
+          "sami": "Čakčageassi",
+          "en": "Spätsommer",
+          "when": "Aug. – Anfang Sept.",
+          "body": "Heidelbeer- und Preiselbeersaison. Pilze schießen hervor, Steinpilz, Reizker, Pfifferling. Die Tage sind noch lang; die Nächte werden kühler. Die Rentiere haben ihr Höchstgewicht. Die Vorratskammer füllt sich: Konfitüren, Salzfisch, getrocknete Pilze, gefrorene Beeren."
+        },
+        {
+          "sami": "Čakča",
+          "en": "Herbst",
+          "when": "Sept. – Okt.",
+          "body": "Die Schlachtsaison. Die Rentiere werden zusammengetrieben; die Hirten wählen die Tiere für die Winterschlachtung aus. Das Fleisch wird verarbeitet: geräuchert, getrocknet (suovas) und eingefroren. Das ist die Eiweißbank, die sieben Monate halten muss. Der erste Frost macht die Preiselbeeren süßer."
+        },
+        {
+          "sami": "Čakčadálvi",
+          "en": "Spätherbst",
+          "when": "November",
+          "body": "Die Dunkelheit kehrt zurück. Der Schnee senkt sich. Die letzten Konservierungsarbeiten, Salzfisch, Konfitüren in den Vorrat, Bestandskontrolle. Die Küche stützt sich auf Warmes: Eintöpfe, Suppen, geröstetes Roggenbrot, heiße Beerensäfte. Der Bidos-Topf steht an den meisten Tagen auf dem Herd."
+        }
       ]
     },
     "revival": {
@@ -286,10 +540,22 @@
       "headline": "Vier traditionelle Garmethoden.",
       "lead": "Alle vier sind in den Fine-Dining-Küchen Lapplands noch zu sehen, die Köche verwenden sie, weil sie Aromen erzeugen, die kein modernes Verfahren imitieren kann. Offenes Feuer löst die Maillard-Reaktion bei Temperaturen aus, die Sous-vide nicht erreicht. Heiße Steine backen mit einer besonderen Trockenheit. Erdöfen garen allein durch Restwärme. Räuchern ist auch 2026 noch die einfachste Konservierungsmethode, die Menschen entwickelt haben.",
       "items": [
-        { "title": "Offenes Feuer", "body": "Grillen und Rösten direkt in den Flammen des Feuers" },
-        { "title": "Erdofen", "body": "Langsames Garen unter der Erde in einer Grube" },
-        { "title": "Heiße Steine", "body": "Brot wird auf am Feuer erhitzten Steinen gebacken" },
-        { "title": "Räuchern", "body": "Konservierung von Fleisch und Fisch durch Kalt- oder Heißräuchern" }
+        {
+          "title": "Offenes Feuer",
+          "body": "Grillen und Rösten direkt in den Flammen des Feuers"
+        },
+        {
+          "title": "Erdofen",
+          "body": "Langsames Garen unter der Erde in einer Grube"
+        },
+        {
+          "title": "Heiße Steine",
+          "body": "Brot wird auf am Feuer erhitzten Steinen gebacken"
+        },
+        {
+          "title": "Räuchern",
+          "body": "Konservierung von Fleisch und Fisch durch Kalt- oder Heißräuchern"
+        }
       ]
     },
     "ctaStrip": {
@@ -313,30 +579,85 @@
     "intro": {
       "lead": "Noch Anfang der 2010er bedeutete ein Restaurantabend in Lappland Touristenhotel und Rentierpfeffersteak. In rund zehn Jahren wuchsen an seiner Stelle kleine, kochgeführte Degustationsräume heran, die beim Anrichten mit Helsinki mithalten. Drei Dinge machten das möglich:",
       "points": [
-        { "n": "01", "title": "New Nordic gab Rückendeckung", "body": "Als Noma gesammelte Kräuter, Räucherfisch und geschmortes Wild zum anspruchsvollen Ende der Küche erklärte, konnten Lapplands Köche – die das ihr Leben lang getan hatten – es endlich ohne Entschuldigung anrichten." },
-        { "n": "02", "title": "Die Technik kam in den Norden", "body": "Günstige Sous-vide-Geräte befreiten magere Teilstücke vom Schmortopf. Rentierfilet, bei 54 °C rosa gegart, wurde zum Markenzeichen der modernen Lappland-Küche." },
-        { "n": "03", "title": "Die Lieferkette wurde professionell", "body": "Sammler und Kleinfischer verkaufen heute direkt an Restaurants, Spezialproduzenten liefern von Birkensirup bis Preiselbeeressig. Ein Degustationsmenü kann jede Zutat aus einem Umkreis von 200 Kilometern beziehen." }
-      ]
+        {
+          "n": "01",
+          "title": "New Nordic gab Rückendeckung",
+          "body": "Als Noma gesammelte Kräuter, Räucherfisch und geschmortes Wild zum anspruchsvollen Ende der Küche erklärte, konnten Lapplands Köche – die das ihr Leben lang getan hatten – es endlich ohne Entschuldigung anrichten."
+        },
+        {
+          "n": "02",
+          "title": "Die Technik kam in den Norden",
+          "body": "Günstige Sous-vide-Geräte befreiten magere Teilstücke vom Schmortopf. Rentierfilet, bei 54 °C rosa gegart, wurde zum Markenzeichen der modernen Lappland-Küche."
+        },
+        {
+          "n": "03",
+          "title": "Die Lieferkette wurde professionell",
+          "body": "Sammler und Kleinfischer verkaufen heute direkt an Restaurants, Spezialproduzenten liefern von Birkensirup bis Preiselbeeressig. Ein Degustationsmenü kann jede Zutat aus einem Umkreis von 200 Kilometern beziehen."
+        }
+      ]
     },
     "dishesKicker": "Vier moderne Klassiker",
     "dishesHeadline": "Modernes Lappland auf dem Teller.",
-    "dishLabels": { "technique": "Technik", "from": "Basis", "twist": "Wendung" },
+    "dishLabels": {
+      "technique": "Technik",
+      "from": "Basis",
+      "twist": "Wendung"
+    },
     "dishes": [
-      { "name": "Sous-vide-Rentierfilet, Heidelbeere & Wurzelgemüse", "description": "Der prägende Teller des Stils: mageres Rentierfilet rosa gegart, eine Reduktion wilder Heidelbeeren, Wurzelgemüse in zwei Texturen.", "technique": "Sous-vide", "traditional": "Rentierbraten / poronkäristys", "innovation": "Präzise Temperatur macht das magerste Stück zum Hauptdarsteller" },
-      { "name": "Confit-Maräne mit Wildkräuteröl", "description": "Langsam in Fett gegarte Maräne, vollendet mit Mädesüß- oder Fichtenspitzenöl und etwas Säure aus dem Fermentationsregal.", "technique": "Confit", "traditional": "Geräucherter und gesalzener Seefisch", "innovation": "Niedrige Temperatur hält den zarten Fisch intakt; gesammelte Kräuter statt Dill als Standard" },
-      { "name": "Wildbeeren-Dessertfolge", "description": "Moltebeere, Heidelbeere und Preiselbeere als Abfolge – Parfait, Fruchtleder, fermentiert, gefroren – statt einer Panna cotta mit Marmelade.", "technique": "Fermentation + New-Nordic-Patisserie", "traditional": "Beerenkissel und Marmeladen", "innovation": "Fermentierte Beeren liefern die Säure, die importierte Zitrusfrüchte ersetzt" },
-      { "name": "Bidos, neu interpretiert", "description": "Der samische Festtagseintopf für das Degustationsmenü gedacht: die Brühe geklärt, die Rentierschulter gepresst, das Mark separat serviert.", "technique": "Modernes Anrichten eines Schmorgerichts", "traditional": "Bidos-Rentiereintopf", "innovation": "Gleiche Teilstücke und Aromen, neu als Gänge angerichtet – die Hausversion bleibt unangetastet" }
+      {
+        "name": "Sous-vide-Rentierfilet, Heidelbeere & Wurzelgemüse",
+        "description": "Der prägende Teller des Stils: mageres Rentierfilet rosa gegart, eine Reduktion wilder Heidelbeeren, Wurzelgemüse in zwei Texturen.",
+        "technique": "Sous-vide",
+        "traditional": "Rentierbraten / poronkäristys",
+        "innovation": "Präzise Temperatur macht das magerste Stück zum Hauptdarsteller"
+      },
+      {
+        "name": "Confit-Maräne mit Wildkräuteröl",
+        "description": "Langsam in Fett gegarte Maräne, vollendet mit Mädesüß- oder Fichtenspitzenöl und etwas Säure aus dem Fermentationsregal.",
+        "technique": "Confit",
+        "traditional": "Geräucherter und gesalzener Seefisch",
+        "innovation": "Niedrige Temperatur hält den zarten Fisch intakt; gesammelte Kräuter statt Dill als Standard"
+      },
+      {
+        "name": "Wildbeeren-Dessertfolge",
+        "description": "Moltebeere, Heidelbeere und Preiselbeere als Abfolge – Parfait, Fruchtleder, fermentiert, gefroren – statt einer Panna cotta mit Marmelade.",
+        "technique": "Fermentation + New-Nordic-Patisserie",
+        "traditional": "Beerenkissel und Marmeladen",
+        "innovation": "Fermentierte Beeren liefern die Säure, die importierte Zitrusfrüchte ersetzt"
+      },
+      {
+        "name": "Bidos, neu interpretiert",
+        "description": "Der samische Festtagseintopf für das Degustationsmenü gedacht: die Brühe geklärt, die Rentierschulter gepresst, das Mark separat serviert.",
+        "technique": "Modernes Anrichten eines Schmorgerichts",
+        "traditional": "Bidos-Rentiereintopf",
+        "innovation": "Gleiche Teilstücke und Aromen, neu als Gänge angerichtet – die Hausversion bleibt unangetastet"
+      }
     ],
     "techniques": {
       "kicker": "Was „New Nordic\" wirklich bedeutet",
       "headline": "Fünf Techniken, die Sie auf jedem Tasting-Menü in Lappland sehen.",
       "lead": "„New Nordic\" ist ein Marketingbegriff dafür, was auf dem Teller eine bestimmte Auswahl an Kochtechniken mit bestimmten Zutaten ist. Nehmen Sie das Branding weg, und Sie finden die fünf Dinge unten, sie sind das, was Ihre Speisekarte tut, ob der Koch es nun New Nordic, modernes Sámi, arktische Küche oder schlicht „Abendessen\" nennt.",
       "items": [
-        { "title": "Milchsäurefermentation", "body": "Salz und Zeit verwandeln rohe Gemüse und Beeren in intensiv schmeckende, leicht säuerliche Konserven. Milchsauer fermentierte Heidelbeeren zu einem Fleischgericht sind ein klassischer Lappland-Move, sie schneiden das Fett des Rentiers, wie Kapern Butter schneiden. Suchen Sie auf der Karte nach „fermentiert\" oder „eingelegt\"." },
-        { "title": "Sous-vide", "body": "Garen im Vakuumbeutel in präzise temperiertem Wasser, genau auf den gewünschten Garpunkt. Deshalb ist das Rentierfilet von Rand zu Rand gleichmäßig rosa, ohne grauen Saum. Langsam, präzise und nachsichtig und entscheidend für ein so mageres Stück wie Rentier." },
-        { "title": "Kaltsalzen und Kalträuchern", "body": "Die Salz-Zucker-Beize (graavi) ist jahrhundertealt; der Kaltrauch noch älter. New-Nordic-Küchen verbinden beides. Graavi-Maräne, vier Stunden kaltgeräuchert, ist eine klassische Lappland-Fine-Dining-Vorspeise. Der Fisch ist technisch roh und die Textur seidig." },
-        { "title": "Gesammelte Garnituren", "body": "Wildkräuter und essbare Blüten, deren Frische kein südfinnischer Großhändler erreicht. Wiesenkerbel, Mädesüß-Blüten, Wacholdertriebe, Kieferntriebe, Weidenröschen, Engelwurz, der Sammler in Lappland liefert das Finish des Tellers. Oft am selben Morgen gepflückt." },
-        { "title": "Nose-to-Tail-Verwendung", "body": "Markenzeichen sowohl der Sámi-Küche als auch des New Nordic. Knochenmark als Bindemittel. Fischköpfe für den Fond. Rentierhäute zur Lederei, nicht in den Müll. Restaurants, die das ernst nehmen, kommunizieren es auf der Karte, „von Schnauze bis Schwanz\" und die Rechnung spiegelt das wider." }
+        {
+          "title": "Milchsäurefermentation",
+          "body": "Salz und Zeit verwandeln rohe Gemüse und Beeren in intensiv schmeckende, leicht säuerliche Konserven. Milchsauer fermentierte Heidelbeeren zu einem Fleischgericht sind ein klassischer Lappland-Move, sie schneiden das Fett des Rentiers, wie Kapern Butter schneiden. Suchen Sie auf der Karte nach „fermentiert\" oder „eingelegt\"."
+        },
+        {
+          "title": "Sous-vide",
+          "body": "Garen im Vakuumbeutel in präzise temperiertem Wasser, genau auf den gewünschten Garpunkt. Deshalb ist das Rentierfilet von Rand zu Rand gleichmäßig rosa, ohne grauen Saum. Langsam, präzise und nachsichtig und entscheidend für ein so mageres Stück wie Rentier."
+        },
+        {
+          "title": "Kaltsalzen und Kalträuchern",
+          "body": "Die Salz-Zucker-Beize (graavi) ist jahrhundertealt; der Kaltrauch noch älter. New-Nordic-Küchen verbinden beides. Graavi-Maräne, vier Stunden kaltgeräuchert, ist eine klassische Lappland-Fine-Dining-Vorspeise. Der Fisch ist technisch roh und die Textur seidig."
+        },
+        {
+          "title": "Gesammelte Garnituren",
+          "body": "Wildkräuter und essbare Blüten, deren Frische kein südfinnischer Großhändler erreicht. Wiesenkerbel, Mädesüß-Blüten, Wacholdertriebe, Kieferntriebe, Weidenröschen, Engelwurz, der Sammler in Lappland liefert das Finish des Tellers. Oft am selben Morgen gepflückt."
+        },
+        {
+          "title": "Nose-to-Tail-Verwendung",
+          "body": "Markenzeichen sowohl der Sámi-Küche als auch des New Nordic. Knochenmark als Bindemittel. Fischköpfe für den Fond. Rentierhäute zur Lederei, nicht in den Müll. Restaurants, die das ernst nehmen, kommunizieren es auf der Karte, „von Schnauze bis Schwanz\" und die Rechnung spiegelt das wider."
+        }
       ]
     },
     "stayNear": {
@@ -360,9 +681,21 @@
     "intro": {
       "lead": "Sammeln ist in Finnland nichts Besonderes. Es ist eine alltägliche Sommerbeschäftigung für etwa 40 % der Bevölkerung.",
       "points": [
-        { "n": "01", "title": "Mainstream, keine Nische", "body": "Rund 40 % der Finnen sammeln: die Zahl stammt aus den Haushaltsbefragungen des Natural Resources Institute Finland (Luke) und gilt quer durch Stadt und Land, Alter und Einkommen." },
-        { "n": "02", "title": "Jedermannsrecht", "body": "Das im finnischen Recht verankerte jokamiehenoikeus erlaubt jedem, Einheimischen wie Gästen, auf den meisten Flächen zu gehen, zu zelten und zu sammeln, egal wem das Land gehört." },
-        { "n": "03", "title": "Keine Genehmigung, kein Grundbesitzer", "body": "Sie können von der Straße in den Wald treten und pflücken. Die Grenzen sind ethisch (nicht überernten, Pflanzen nicht beschädigen) und praktisch (wissen, was man pflückt), nicht rechtlich." }
+        {
+          "n": "01",
+          "title": "Mainstream, keine Nische",
+          "body": "Rund 40 % der Finnen sammeln: die Zahl stammt aus den Haushaltsbefragungen des Natural Resources Institute Finland (Luke) und gilt quer durch Stadt und Land, Alter und Einkommen."
+        },
+        {
+          "n": "02",
+          "title": "Jedermannsrecht",
+          "body": "Das im finnischen Recht verankerte jokamiehenoikeus erlaubt jedem, Einheimischen wie Gästen, auf den meisten Flächen zu gehen, zu zelten und zu sammeln, egal wem das Land gehört."
+        },
+        {
+          "n": "03",
+          "title": "Keine Genehmigung, kein Grundbesitzer",
+          "body": "Sie können von der Straße in den Wald treten und pflücken. Die Grenzen sind ethisch (nicht überernten, Pflanzen nicht beschädigen) und praktisch (wissen, was man pflückt), nicht rechtlich."
+        }
       ]
     },
     "alert": {
@@ -377,11 +710,56 @@
       "sustainability": "Nachhaltigkeit"
     },
     "items": [
-      { "name": "Heidelbeere (Vaccinium myrtillus)", "season": "Juli – September", "difficulty": "Einfach", "location": "Trockene Kiefernwälder und Heidelandschaften", "identification": "Niedriger Strauch, ovale Blätter, dunkelblauschwarze Beeren. Färbt Finger und Zunge blau.", "tips": "Höhepunkt Mitte August. Pflücken Sie nur vollreife Beeren.", "safety": "Nicht mit giftigen Verwandten zu verwechseln, sicher zu sammeln.", "sustainability": "Pflücken Sie höchstens die Hälfte der Beeren einer Pflanze." },
-      { "name": "Preiselbeere (Vaccinium vitis-idaea)", "season": "August – Oktober", "difficulty": "Einfach", "location": "Trockene Kiefernwälder und Heidelandschaften", "identification": "Kleiner immergrüner Strauch, glänzende runde Blätter, leuchtend rote Beeren in Trauben.", "tips": "Hält sich gut nach Frost. Auf volle Reife warten.", "safety": "Eindeutig von allen giftigen Beeren unterscheidbar, leicht zu bestimmen.", "sustainability": "Lassen Sie junge und kleine Pflanzen in Ruhe." },
-      { "name": "Moltebeere (Rubus chamaemorus)", "season": "Juli – August", "difficulty": "Mittel", "location": "Moore und Sümpfe", "identification": "Niedrige Pflanze, dreilappige Blätter, eine bernsteinorange Beere pro Stiel.", "tips": "Nur vollreife Beeren pflücken. Verderblich, nach dem Pflücken zügig verarbeiten.", "safety": "Wächst nur auf Moorboden, achten Sie auf den Tritt.", "sustainability": "Arktische Rarität. Nehmen Sie nur, was Sie brauchen." },
-      { "name": "Waldpilze, Steinpilz und Reizker", "season": "Juli – September", "difficulty": "Fortgeschritten", "location": "Alte Fichten- und Mischwälder", "identification": "Steinpilz: brauner Hut, weißer Stiel, schwammartige Unterseite. Reizker: trichterförmig, milchiger Saft beim Anschnitt.", "tips": "Direkt nach dem Pflücken trocknen. Lernen Sie die Bestimmung zuerst zu 100 %.", "safety": "KRITISCH: Vor dem Verzehr stets die Bestimmung absichern.", "sustainability": "Am Stiel abschneiden, das Myzel darunter nicht verletzen." },
-      { "name": "Brennnessel (Urtica dioica)", "season": "Mai – August", "difficulty": "Einfach", "location": "Nährstoffreiche Böden, nahe Gebäuden und Lichtungen", "identification": "Gesägte Blätter, brennt bei Hautkontakt.", "tips": "Junge Triebe pflücken. Die Brennwirkung verschwindet beim Trocknen oder Kochen vollständig.", "safety": "Beim Pflücken Handschuhe tragen.", "sustainability": "Nur die obersten Blätter pflücken, Wurzeln unangetastet lassen." }
+      {
+        "name": "Heidelbeere (Vaccinium myrtillus)",
+        "season": "Juli – September",
+        "difficulty": "Einfach",
+        "location": "Trockene Kiefernwälder und Heidelandschaften",
+        "identification": "Niedriger Strauch, ovale Blätter, dunkelblauschwarze Beeren. Färbt Finger und Zunge blau.",
+        "tips": "Höhepunkt Mitte August. Pflücken Sie nur vollreife Beeren.",
+        "safety": "Nicht mit giftigen Verwandten zu verwechseln, sicher zu sammeln.",
+        "sustainability": "Pflücken Sie höchstens die Hälfte der Beeren einer Pflanze."
+      },
+      {
+        "name": "Preiselbeere (Vaccinium vitis-idaea)",
+        "season": "August – Oktober",
+        "difficulty": "Einfach",
+        "location": "Trockene Kiefernwälder und Heidelandschaften",
+        "identification": "Kleiner immergrüner Strauch, glänzende runde Blätter, leuchtend rote Beeren in Trauben.",
+        "tips": "Hält sich gut nach Frost. Auf volle Reife warten.",
+        "safety": "Eindeutig von allen giftigen Beeren unterscheidbar, leicht zu bestimmen.",
+        "sustainability": "Lassen Sie junge und kleine Pflanzen in Ruhe."
+      },
+      {
+        "name": "Moltebeere (Rubus chamaemorus)",
+        "season": "Juli – August",
+        "difficulty": "Mittel",
+        "location": "Moore und Sümpfe",
+        "identification": "Niedrige Pflanze, dreilappige Blätter, eine bernsteinorange Beere pro Stiel.",
+        "tips": "Nur vollreife Beeren pflücken. Verderblich, nach dem Pflücken zügig verarbeiten.",
+        "safety": "Wächst nur auf Moorboden, achten Sie auf den Tritt.",
+        "sustainability": "Arktische Rarität. Nehmen Sie nur, was Sie brauchen."
+      },
+      {
+        "name": "Waldpilze, Steinpilz und Reizker",
+        "season": "Juli – September",
+        "difficulty": "Fortgeschritten",
+        "location": "Alte Fichten- und Mischwälder",
+        "identification": "Steinpilz: brauner Hut, weißer Stiel, schwammartige Unterseite. Reizker: trichterförmig, milchiger Saft beim Anschnitt.",
+        "tips": "Direkt nach dem Pflücken trocknen. Lernen Sie die Bestimmung zuerst zu 100 %.",
+        "safety": "KRITISCH: Vor dem Verzehr stets die Bestimmung absichern.",
+        "sustainability": "Am Stiel abschneiden, das Myzel darunter nicht verletzen."
+      },
+      {
+        "name": "Brennnessel (Urtica dioica)",
+        "season": "Mai – August",
+        "difficulty": "Einfach",
+        "location": "Nährstoffreiche Böden, nahe Gebäuden und Lichtungen",
+        "identification": "Gesägte Blätter, brennt bei Hautkontakt.",
+        "tips": "Junge Triebe pflücken. Die Brennwirkung verschwindet beim Trocknen oder Kochen vollständig.",
+        "safety": "Beim Pflücken Handschuhe tragen.",
+        "sustainability": "Nur die obersten Blätter pflücken, Wurzeln unangetastet lassen."
+      }
     ],
     "mushroomSafety": {
       "kicker": "Pilzsicherheit",
@@ -404,14 +782,38 @@
       "headline": "Monat für Monat, was im Wald ist.",
       "lead": "Lapplands Sammelfenster ist kurz und intensiv, etwa von Mai bis Ende September. Innerhalb dieser Spanne wechselt etwa alle zwei Wochen das dominierende Ziel. So plant ein örtlicher Sammler seinen Sommer.",
       "items": [
-        { "month": "Mai", "body": "Der Schnee zieht sich zurück. Erste Brennnesseln, erste Birkenblätter, Birkensaft (aus dem Stamm gezapft, frisch getrunken, zu Sirup gekocht oder fermentiert). Kalt, aber das Sammeljahr hat begonnen." },
-        { "month": "Juni", "body": "Wildkräuter im Höchststand, Mädesüß, Schafgarbe, Engelwurz, Sauerampfer. Die ersten frischen Grünpflanzen nach sieben Monaten. Ein Teil der frühen Kräuter wird für den Wintertee getrocknet." },
-        { "month": "Anfang Juli", "body": "Das Kräuterfenster schließt sich; alles steht im vollen Laub. Moorpflanzen blühen, die Moltebeerenblüten haben sich gesetzt. Eine ruhige Phase vor dem Pflück-Sturm." },
-        { "month": "Ende Juli – Anfang August", "body": "Moltebeerensaison, typischerweise ein Fenster von drei Wochen je nach Lage des Moores. Die intensivste Pflückzeit des Jahres. Viele finnische Büros pausieren praktisch." },
-        { "month": "August", "body": "Heidelbeere auf dem Höhepunkt. Erste Preiselbeeren (noch sauer). Erste Pilze, meist zuerst der Pfifferling, dann der Steinpilz. Die langen, hellen Abende machen diesen Monat zum besten Sammeln-und-Kochen-Monat." },
-        { "month": "September", "body": "Preiselbeere wird nach dem ersten Frost süßer. Pilzsaison auf dem Höhepunkt, Steinpilz, Reizker, Pfifferling, Röhrlinge. Die Tage verkürzen sich rasch; Sammler sind ab Sonnenaufgang unterwegs." },
-        { "month": "Oktober", "body": "Die letzten Pilze. Die letzten Preiselbeeren (am besten nach Nachtfrösten). Die letzten Konservierungsarbeiten, Trocknen, Einkochen, Einfrieren. Der Kalender schließt sich praktisch nach dem ersten kräftigen Schneefall." },
-        { "month": "November – April", "body": "Die Ruhezeit des Waldes. Das Sammeln pausiert. Drinnen geht die Arbeit weiter, Konservieren, Räuchern, Trocknen, Fermentieren. Das Eisangeln ersetzt das Sammeln als Quelle für frisches Protein." }
+        {
+          "month": "Mai",
+          "body": "Der Schnee zieht sich zurück. Erste Brennnesseln, erste Birkenblätter, Birkensaft (aus dem Stamm gezapft, frisch getrunken, zu Sirup gekocht oder fermentiert). Kalt, aber das Sammeljahr hat begonnen."
+        },
+        {
+          "month": "Juni",
+          "body": "Wildkräuter im Höchststand, Mädesüß, Schafgarbe, Engelwurz, Sauerampfer. Die ersten frischen Grünpflanzen nach sieben Monaten. Ein Teil der frühen Kräuter wird für den Wintertee getrocknet."
+        },
+        {
+          "month": "Anfang Juli",
+          "body": "Das Kräuterfenster schließt sich; alles steht im vollen Laub. Moorpflanzen blühen, die Moltebeerenblüten haben sich gesetzt. Eine ruhige Phase vor dem Pflück-Sturm."
+        },
+        {
+          "month": "Ende Juli – Anfang August",
+          "body": "Moltebeerensaison, typischerweise ein Fenster von drei Wochen je nach Lage des Moores. Die intensivste Pflückzeit des Jahres. Viele finnische Büros pausieren praktisch."
+        },
+        {
+          "month": "August",
+          "body": "Heidelbeere auf dem Höhepunkt. Erste Preiselbeeren (noch sauer). Erste Pilze, meist zuerst der Pfifferling, dann der Steinpilz. Die langen, hellen Abende machen diesen Monat zum besten Sammeln-und-Kochen-Monat."
+        },
+        {
+          "month": "September",
+          "body": "Preiselbeere wird nach dem ersten Frost süßer. Pilzsaison auf dem Höhepunkt, Steinpilz, Reizker, Pfifferling, Röhrlinge. Die Tage verkürzen sich rasch; Sammler sind ab Sonnenaufgang unterwegs."
+        },
+        {
+          "month": "Oktober",
+          "body": "Die letzten Pilze. Die letzten Preiselbeeren (am besten nach Nachtfrösten). Die letzten Konservierungsarbeiten, Trocknen, Einkochen, Einfrieren. Der Kalender schließt sich praktisch nach dem ersten kräftigen Schneefall."
+        },
+        {
+          "month": "November – April",
+          "body": "Die Ruhezeit des Waldes. Das Sammeln pausiert. Drinnen geht die Arbeit weiter, Konservieren, Räuchern, Trocknen, Fermentieren. Das Eisangeln ersetzt das Sammeln als Quelle für frisches Protein."
+        }
       ]
     },
     "rights": {
@@ -457,9 +859,21 @@
     "intro": {
       "lead": "Die Lappland-Esserlebnisse, die ihr Geld wert sind, sind die, die Sie vor Menschen bringen, die das hier tatsächlich beruflich machen.",
       "points": [
-        { "n": "01", "title": "Kleine Gruppen, direkt gebucht", "body": "Vergessen Sie die Restaurant-Tour im Reisebus: Die Trips unten sind Kleingruppen und werden oft direkt beim Veranstalter gebucht." },
-        { "n": "02", "title": "Geführt von Menschen, die davon leben", "body": "Samische Sammler, Fine-Dining-Köche, aktive Rentierhirten. Man isst gut, aber das eigentliche Produkt ist Zugang: zur Herde, zur Küche, zum Lieblingsmoor eines Sammlers." },
-        { "n": "03", "title": "Live-Preise statt Prospektpreise", "body": "Jede Karte führt zu einer Live-Suche auf GetYourGuide, nicht zu einer festen Produktseite: Veranstalter wechseln, Termine und Preise bewegen sich; Sie sehen immer die aktuelle Verfügbarkeit." }
+        {
+          "n": "01",
+          "title": "Kleine Gruppen, direkt gebucht",
+          "body": "Vergessen Sie die Restaurant-Tour im Reisebus: Die Trips unten sind Kleingruppen und werden oft direkt beim Veranstalter gebucht."
+        },
+        {
+          "n": "02",
+          "title": "Geführt von Menschen, die davon leben",
+          "body": "Samische Sammler, Fine-Dining-Köche, aktive Rentierhirten. Man isst gut, aber das eigentliche Produkt ist Zugang: zur Herde, zur Küche, zum Lieblingsmoor eines Sammlers."
+        },
+        {
+          "n": "03",
+          "title": "Live-Preise statt Prospektpreise",
+          "body": "Jede Karte führt zu einer Live-Suche auf GetYourGuide, nicht zu einer festen Produktseite: Veranstalter wechseln, Termine und Preise bewegen sich; Sie sehen immer die aktuelle Verfügbarkeit."
+        }
       ]
     },
     "listKicker": "Drei Touren, die sich lohnen",
@@ -469,23 +883,41 @@
     "checkAvailability": "Verfügbarkeit prüfen",
     "tours": [
       {
-        "name": "Sámi-Kultur-Esstour",
+        "name": "Sámi-Kultur-Esstour",
         "description": "Ein Eintauchen in die Sámi-Esskultur. Treffen Sie lokale Erzeuger, lernen Sie traditionelle Techniken und probieren Sie authentische Aromen direkt aus der Arktis.",
-        "highlights": ["Besuch bei einem Rentierhirten und Bidos-Verkostung", "Traditionelles Sámi-Brot backen", "Sammeln von Wildzutaten mit dem Guide", "Esskulturwerkstatt im Sámi-Museum", "Besuche bei lokalen arktischen Erzeugern"],
+        "highlights": [
+          "Besuch bei einem Rentierhirten und Bidos-Verkostung",
+          "Traditionelles Sámi-Brot backen",
+          "Sammeln von Wildzutaten mit dem Guide",
+          "Esskulturwerkstatt im Sámi-Museum",
+          "Besuche bei lokalen arktischen Erzeugern"
+        ],
         "location": "Region Inari–Utsjoki",
         "season": "Juni–September"
       },
       {
-        "name": "Arktisches Fine-Dining-Erlebnis",
+        "name": "Arktisches Fine-Dining-Erlebnis",
         "description": "Eine exklusive Reise durch Lapplands beste Restaurants. Michelin-empfohlene Häuser und ausgezeichnete Köche, die mit den reinsten arktischen Zutaten arbeiten.",
-        "highlights": ["3-Gang-Mittagessen in einem regionalen Spitzenrestaurant", "Küchentour mit dem Chefkoch", "Masterclass „Arktische Zutaten\"", "Demonstration von Fine-Dining-Techniken", "5-Gang-Gourmet-Abendessen mit Weinbegleitung"],
+        "highlights": [
+          "3-Gang-Mittagessen in einem regionalen Spitzenrestaurant",
+          "Küchentour mit dem Chefkoch",
+          "Masterclass „Arktische Zutaten\"",
+          "Demonstration von Fine-Dining-Techniken",
+          "5-Gang-Gourmet-Abendessen mit Weinbegleitung"
+        ],
         "location": "Rovaniemi",
         "season": "ganzjährig"
       },
       {
-        "name": "Wildsammel-Tour",
+        "name": "Wildsammel-Tour",
         "description": "Geführtes Sammeln in Urwäldern und auf Mooren. Lernen Sie die sichere Bestimmung von Beeren, Pilzen und Wildkräutern und kochen Sie anschließend, was Sie gepflückt haben.",
-        "highlights": ["Pilzsicherheits-Masterclass", "Pflücken von Heidelbeere, Preiselbeere und Moltebeere (je nach Saison)", "Bestimmung von Wildkräutern", "Vom-Sammeln-zum-Tisch-Kochen am Lagerfeuer", "Lappland-Sammelguide zum Mitnehmen"],
+        "highlights": [
+          "Pilzsicherheits-Masterclass",
+          "Pflücken von Heidelbeere, Preiselbeere und Moltebeere (je nach Saison)",
+          "Bestimmung von Wildkräutern",
+          "Vom-Sammeln-zum-Tisch-Kochen am Lagerfeuer",
+          "Lappland-Sammelguide zum Mitnehmen"
+        ],
         "location": "Region Rovaniemi / Levi",
         "season": "Juli–September"
       }
@@ -507,9 +939,18 @@
     "factsLeadPrefix": "Der Michelin-Guide Nordische Länder wird jährlich aktualisiert, die aktuelle Sterneliste finden Sie stets unter",
     "factsLeadSuffix": ". Das strukturelle Bild unten ist stabil und ein guter Ausgangspunkt für die Planung einer Fine-Dining-Reise nach Finnland.",
     "facts": [
-      { "title": "Die Sterne sind in Helsinki", "body": "Die Michelin-gelisteten Restaurants Finnlands sind in Helsinki konzentriert, jedes in den letzten Jahrgängen des Guides Nordische Länder besternte finnische Restaurant lag in der Hauptstadt. Turku und Tampere stehen auf dem Radar der Inspektoren, aber Sterne kommen und gehen." },
-      { "title": "Lappland strebt ins Fine Dining", "body": "Lappland selbst hat derzeit keinen Michelin-Stern, aber seine Spitzenrestaurants, Nili, Aanaar, Rakas, definieren neu, wie ein Tasting-Menü-Abend nördlich des Polarkreises aussieht, mit gesammelten Zutaten, deren Frische keine Küche in Helsinki erreicht." },
-      { "title": "Reservierungen sind entscheidend", "body": "Lapplands Spitzenhäuser sind klein (oft 30–60 Plätze) und die Plätze am Chef's Table füllen sich zuerst. Reservieren Sie die Hochsaison im Winter (Mitte Dezember → Februar) und das Mitternachtssonnen-Fenster (6.6.–7.7.) mindestens 6–8 Wochen im Voraus. In den Michelin-Sälen Helsinkis liegt die Wartezeit normalerweise bei 4–6 Wochen." }
+      {
+        "title": "Die Sterne sind in Helsinki",
+        "body": "Die Michelin-gelisteten Restaurants Finnlands sind in Helsinki konzentriert, jedes in den letzten Jahrgängen des Guides Nordische Länder besternte finnische Restaurant lag in der Hauptstadt. Turku und Tampere stehen auf dem Radar der Inspektoren, aber Sterne kommen und gehen."
+      },
+      {
+        "title": "Lappland strebt ins Fine Dining",
+        "body": "Lappland selbst hat derzeit keinen Michelin-Stern, aber seine Spitzenrestaurants, Nili, Aanaar, Rakas, definieren neu, wie ein Tasting-Menü-Abend nördlich des Polarkreises aussieht, mit gesammelten Zutaten, deren Frische keine Küche in Helsinki erreicht."
+      },
+      {
+        "title": "Reservierungen sind entscheidend",
+        "body": "Lapplands Spitzenhäuser sind klein (oft 30–60 Plätze) und die Plätze am Chef's Table füllen sich zuerst. Reservieren Sie die Hochsaison im Winter (Mitte Dezember → Februar) und das Mitternachtssonnen-Fenster (6.6.–7.7.) mindestens 6–8 Wochen im Voraus. In den Michelin-Sälen Helsinkis liegt die Wartezeit normalerweise bei 4–6 Wochen."
+      }
     ],
     "helsinki": {
       "kicker": "Michelin in Helsinki",
@@ -518,25 +959,94 @@
       "ctaHotels": "Hotels in Helsinki",
       "footnote": "Unabhängige Redaktion. Keine Verbindung zum Michelin-Guide. Sterne und Bib-Gourmand-Listungen gelten nur entsprechend der aktuellen Ausgabe des Guides Nordische Länder, bitte prüfen Sie guide.michelin.com vor der Reservierung.",
       "rooms": [
-        { "name": "Olo", "where": "Pohjoisesplanadi, Helsinki", "angle": "Langjährige Fine-Dining-Institution. Tasting-Menüs aus finnischen Zutaten mit klassischer nordischer Technik.", "band": "€€€€" },
-        { "name": "Palace", "where": "10. Stock, Eteläranta, Hafenblick", "angle": "Alter Hafenblick Helsinkis, moderne Umsetzung. Das Zandergericht ist ein Markenzeichen.", "band": "€€€€" },
-        { "name": "Demo", "where": "Uudenmaankatu, Helsinki", "angle": "Kleiner Tasting-Menü-Saal, zutatengetrieben, häufig im Guide für sein Preis-Leistungs-Verhältnis genannt.", "band": "€€€" },
-        { "name": "Grön", "where": "Albertinkatu, Helsinki", "angle": "Pflanzenbetontes Tasting-Menü (Gemüse, Fisch, Sammelgut) mit strenger Weinbegleitung. Helsinkis am schnellsten ausgebuchte Adresse.", "band": "€€€€" },
-        { "name": "Inari", "where": "Albertinkatu, Helsinki", "angle": "Fine Dining mit Sámi-Anklang, dieselbe Köche-Schule wie Olo, kleinerer Saal, fokussierter.", "band": "€€€€" },
-        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Modernes Nordisch in einem Wohnviertel-Restaurant. Häufig gelobt für Sasu Laukkonens zutatengetriebenes Menü.", "band": "€€€€" },
-        { "name": "Finnjävel", "where": "Helsinki", "angle": "Modernes Finnisch, neu interpretierte Klassiker. Weniger leise als die anderen; theatralischer im Service.", "band": "€€€" },
-        { "name": "Ultima", "where": "Helsinki", "angle": "Tasting-Menü aus vertikalem Anbau im Keller. Der „Helsinki-2026\"-typischste Saal auf dieser Liste.", "band": "€€€€" }
+        {
+          "name": "Olo",
+          "where": "Pohjoisesplanadi, Helsinki",
+          "angle": "Langjährige Fine-Dining-Institution. Tasting-Menüs aus finnischen Zutaten mit klassischer nordischer Technik.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Palace",
+          "where": "10. Stock, Eteläranta, Hafenblick",
+          "angle": "Alter Hafenblick Helsinkis, moderne Umsetzung. Das Zandergericht ist ein Markenzeichen.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Demo",
+          "where": "Uudenmaankatu, Helsinki",
+          "angle": "Kleiner Tasting-Menü-Saal, zutatengetrieben, häufig im Guide für sein Preis-Leistungs-Verhältnis genannt.",
+          "band": "€€€"
+        },
+        {
+          "name": "Grön",
+          "where": "Albertinkatu, Helsinki",
+          "angle": "Pflanzenbetontes Tasting-Menü (Gemüse, Fisch, Sammelgut) mit strenger Weinbegleitung. Helsinkis am schnellsten ausgebuchte Adresse.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Inari",
+          "where": "Albertinkatu, Helsinki",
+          "angle": "Fine Dining mit Sámi-Anklang, dieselbe Köche-Schule wie Olo, kleinerer Saal, fokussierter.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Ora",
+          "where": "Huvilakatu, Eira",
+          "angle": "Modernes Nordisch in einem Wohnviertel-Restaurant. Häufig gelobt für Sasu Laukkonens zutatengetriebenes Menü.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Finnjävel",
+          "where": "Helsinki",
+          "angle": "Modernes Finnisch, neu interpretierte Klassiker. Weniger leise als die anderen; theatralischer im Service.",
+          "band": "€€€"
+        },
+        {
+          "name": "Ultima",
+          "where": "Helsinki",
+          "angle": "Tasting-Menü aus vertikalem Anbau im Keller. Der „Helsinki-2026\"-typischste Saal auf dieser Liste.",
+          "band": "€€€€"
+        }
       ]
     },
     "lapland": {
       "kicker": "Fine Dining in Lappland",
       "headline": "Drei Restaurants, für die sich die Reservierung lohnt.",
       "lead": "Das sind die Küchen, die das Kochen ernst genug nehmen, um mit Helsinki auf Tellerebene mitzuhalten, während die Zutaten vollständig aus Lappland kommen. Keines hat zum Zeitpunkt dieses Textes einen Michelin-Stern, auf einer Fünf-Jahres-Sicht könnte jedes einen bekommen.",
-      "labels": { "signature": "Signature-Gerichte", "band": "Preisklasse", "booking": "Reservierung", "hotelsNearPrefix": "Hotels:" },
+      "labels": {
+        "signature": "Signature-Gerichte",
+        "band": "Preisklasse",
+        "booking": "Reservierung",
+        "hotelsNearPrefix": "Hotels:"
+      },
       "rooms": [
-        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, Zentrum von Rovaniemi · 5 Minuten zu Fuß vom Bahnhof", "angle": "Lapplands meistgenanntes Fine-Dining-Restaurant. Sámi-geprägte Teller, Sous-vide-Rentierfilet mit Heidelbeerreduktion ist Markenzeichen und ein Wildbeerenprogramm, das auf dem aufbaut, was die Sammler in Inari am selben Morgen gebracht haben. Offene Küche, warmes Holzinterieur, 60 Plätze.", "signature": "Sous-vide-Rentierfilet · in Kiefer gesalzener Saibling · Moltebeerenparfait", "band": "€€€, Tasting-Menü 68 € · Hauptgerichte à la carte 28–42 €", "booking": "3–4 Wochen im Voraus im Sommer und im Dezember reservieren. Walk-in Di–Mi möglich." },
-        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · am Ufer des Juutuanjoki", "angle": "Am nächsten an einem Destination-Dining-Erlebnis tief im Sámi-Land. Der Koch baut das Menü um die acht Sámi-Jahreszeiten Inaris auf, milchsauer fermentierte Heidelbeeren, geräuchertes Rentierherz, kalt gesalzener Saibling und die Weinkarte ist für eine Stadt mit 7 000 Einwohnern ungewöhnlich tief.", "signature": "7-Gänge-Wildbeeren-Tasting · geräuchertes Rentierherz · Birkensirup-Parfait", "band": "€€€€, Tasting-Menü 85 €, mit Weinbegleitung 145 €", "booking": "Zwei Service-Zeiten pro Abend, insgesamt 32 Plätze. 6–8 Wochen im Voraus reservieren, im Winter und im Mitternachtssonnen-Fenster." },
-        { "name": "Rakas im Arctic TreeHouse Hotel", "city": "Rovaniemi · Bereich Santa Park", "address": "Tarvantie 3, 7 km vom Zentrum Rovaniemis · Taxi oder Hoteltransfer", "angle": "Speisesaal mit Glasdach und Panorama nach Norden in den Fichtenwald, so gebaut, dass Sie während des Tasting-Menüs im Winter die Nordlichter beobachten können. Confit-arktische Maräne in Wildkräuteröl ist das Aushängeschild, garniert mit gesammelten Mikrokräutern und essbaren Blüten.", "signature": "Confit-arktische Maräne · in Kiefer gesalzene Forelle · Schokolade-Preiselbeer-Kuppel", "band": "€€€€, 4-Gang-Menü 78 € · 7-Gang-Menü 115 €", "booking": "Hotelgäste haben Vorrang. Andere reservieren 4 Wochen im Voraus im Winter." }
+        {
+          "name": "Ravintola Nili",
+          "city": "Rovaniemi",
+          "address": "Valtakatu 20, Zentrum von Rovaniemi · 5 Minuten zu Fuß vom Bahnhof",
+          "angle": "Lapplands meistgenanntes Fine-Dining-Restaurant. Sámi-geprägte Teller, Sous-vide-Rentierfilet mit Heidelbeerreduktion ist Markenzeichen und ein Wildbeerenprogramm, das auf dem aufbaut, was die Sammler in Inari am selben Morgen gebracht haben. Offene Küche, warmes Holzinterieur, 60 Plätze.",
+          "signature": "Sous-vide-Rentierfilet · in Kiefer gesalzener Saibling · Moltebeerenparfait",
+          "band": "€€€, Tasting-Menü 68 € · Hauptgerichte à la carte 28–42 €",
+          "booking": "3–4 Wochen im Voraus im Sommer und im Dezember reservieren. Walk-in Di–Mi möglich."
+        },
+        {
+          "name": "Restaurant Aanaar",
+          "city": "Inari",
+          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · am Ufer des Juutuanjoki",
+          "angle": "Am nächsten an einem Destination-Dining-Erlebnis tief im Sámi-Land. Der Koch baut das Menü um die acht Sámi-Jahreszeiten Inaris auf, milchsauer fermentierte Heidelbeeren, geräuchertes Rentierherz, kalt gesalzener Saibling und die Weinkarte ist für eine Stadt mit 7 000 Einwohnern ungewöhnlich tief.",
+          "signature": "7-Gänge-Wildbeeren-Tasting · geräuchertes Rentierherz · Birkensirup-Parfait",
+          "band": "€€€€, Tasting-Menü 85 €, mit Weinbegleitung 145 €",
+          "booking": "Zwei Service-Zeiten pro Abend, insgesamt 32 Plätze. 6–8 Wochen im Voraus reservieren, im Winter und im Mitternachtssonnen-Fenster."
+        },
+        {
+          "name": "Rakas im Arctic TreeHouse Hotel",
+          "city": "Rovaniemi · Bereich Santa Park",
+          "address": "Tarvantie 3, 7 km vom Zentrum Rovaniemis · Taxi oder Hoteltransfer",
+          "angle": "Speisesaal mit Glasdach und Panorama nach Norden in den Fichtenwald, so gebaut, dass Sie während des Tasting-Menüs im Winter die Nordlichter beobachten können. Confit-arktische Maräne in Wildkräuteröl ist das Aushängeschild, garniert mit gesammelten Mikrokräutern und essbaren Blüten.",
+          "signature": "Confit-arktische Maräne · in Kiefer gesalzene Forelle · Schokolade-Preiselbeer-Kuppel",
+          "band": "€€€€, 4-Gang-Menü 78 € · 7-Gang-Menü 115 €",
+          "booking": "Hotelgäste haben Vorrang. Andere reservieren 4 Wochen im Voraus im Winter."
+        }
       ]
     },
     "courseFlow": {
@@ -544,24 +1054,68 @@
       "headline": "Ein finnisches Tasting-Menü, Gang für Gang.",
       "lead": "Die Struktur ist in den Michelin-Sälen Helsinkis und in den Spitzenhäusern Lapplands die gleiche. Den groben Ablauf zu kennen hilft, die Weine zu rhythmisieren, Platz für das Dessert zu lassen und beim Anblick der Rechnung nicht zu erstarren.",
       "items": [
-        { "n": "01", "label": "Begrüßungshäppchen", "body": "Zwei oder drei kleine Bissen am Tisch, eingelegtes Gemüse, Räucherfisch auf Roggenbrot, ein Sud aus Sammelkräutern. Setzt den saisonalen Ton." },
-        { "n": "02", "label": "Kalter Auftakt", "body": "Saibling oder Maräne in einer Form, gesalzen, geräuchert oder als Tatar. Fast immer mit Sammelkräutern." },
-        { "n": "03", "label": "Warme Vorspeise", "body": "Pilz- oder Wurzelgericht im Herbst; beeren- oder kräutergetriebener Teller im Sommer. Hier zeigen die Köche ihre Fermentationsarbeit." },
-        { "n": "04", "label": "Fischgang", "body": "Zander, Forelle oder Hecht, je nachdem, was die örtlichen Fischer gebracht haben. Auf rosa in der Mitte gegart mit Butter- oder Sahnesauce." },
-        { "n": "05", "label": "Rentier oder Wild", "body": "Das Hauptprotein. Filet sous-vide, langsam geschmorte Schulter oder geräucherter Sattel. Heidelbeere, Preiselbeere oder Wacholder verankern den Teller." },
-        { "n": "06", "label": "Käse (optional)", "body": "Gereifter finnischer Käse, Lappi oder im Stil von Tervaleipäjuusto, mit Teerhonig oder Moltebeerenkonfitüre." },
-        { "n": "07", "label": "Vor-Dessert", "body": "Ein kleiner Gaumenreiniger, Birkensaft-Sorbet, Moltebeerenconsommé, Preiselbeer-Granita." },
-        { "n": "08", "label": "Dessert", "body": "Moltebeerenparfait oder Schokolade-Preiselbeer-Kuppel sind die beiden häufigsten. Der Kaffee kommt in der Kupferkanne." }
+        {
+          "n": "01",
+          "label": "Begrüßungshäppchen",
+          "body": "Zwei oder drei kleine Bissen am Tisch, eingelegtes Gemüse, Räucherfisch auf Roggenbrot, ein Sud aus Sammelkräutern. Setzt den saisonalen Ton."
+        },
+        {
+          "n": "02",
+          "label": "Kalter Auftakt",
+          "body": "Saibling oder Maräne in einer Form, gesalzen, geräuchert oder als Tatar. Fast immer mit Sammelkräutern."
+        },
+        {
+          "n": "03",
+          "label": "Warme Vorspeise",
+          "body": "Pilz- oder Wurzelgericht im Herbst; beeren- oder kräutergetriebener Teller im Sommer. Hier zeigen die Köche ihre Fermentationsarbeit."
+        },
+        {
+          "n": "04",
+          "label": "Fischgang",
+          "body": "Zander, Forelle oder Hecht, je nachdem, was die örtlichen Fischer gebracht haben. Auf rosa in der Mitte gegart mit Butter- oder Sahnesauce."
+        },
+        {
+          "n": "05",
+          "label": "Rentier oder Wild",
+          "body": "Das Hauptprotein. Filet sous-vide, langsam geschmorte Schulter oder geräucherter Sattel. Heidelbeere, Preiselbeere oder Wacholder verankern den Teller."
+        },
+        {
+          "n": "06",
+          "label": "Käse (optional)",
+          "body": "Gereifter finnischer Käse, Lappi oder im Stil von Tervaleipäjuusto, mit Teerhonig oder Moltebeerenkonfitüre."
+        },
+        {
+          "n": "07",
+          "label": "Vor-Dessert",
+          "body": "Ein kleiner Gaumenreiniger, Birkensaft-Sorbet, Moltebeerenconsommé, Preiselbeer-Granita."
+        },
+        {
+          "n": "08",
+          "label": "Dessert",
+          "body": "Moltebeerenparfait oder Schokolade-Preiselbeer-Kuppel sind die beiden häufigsten. Der Kaffee kommt in der Kupferkanne."
+        }
       ]
     },
     "bookingNotes": {
       "headline": "Vier Dinge, die Anfänger falsch machen.",
       "lead": "Lapplands Küchen sind nachsichtig. Sie sind dennoch kleine Säle mit küchenseitig geführtem Service. Hier vier Korrekturen, die wir einem Freund vor der ersten Reservierung mitgeben.",
       "items": [
-        { "label": "Planen Sie mindestens 3 Stunden ein", "body": "Ein volles Lappland-Tasting-Menü dauert 2,5–3,5 Stunden. Buchen Sie keine 21-Uhr-Vorstellung danach." },
-        { "label": "Die Weinbegleitung lohnt sich", "body": "Die meisten Spitzenhäuser in Lappland haben einen Sommelier, der europäische Weine kleiner Erzeuger auswählt. Die Begleitung kostet 45–95 € zusätzlich zum Menü." },
-        { "label": "Allergien rechtzeitig melden", "body": "Tasting-Menüs werden im Voraus aufgebaut und enthalten komplexe Sammelzutaten. Allergien / vegetarisch / vegan: bei der Reservierung melden, nicht erst am Abend." },
-        { "label": "Smart Casual", "body": "Kein finnisches Restaurant weist Sie in Jeans ab, aber die Säle erwarten ein wenig Aufwand. Turnschuhe und Hoodie fühlen sich unpassend an." }
+        {
+          "label": "Planen Sie mindestens 3 Stunden ein",
+          "body": "Ein volles Lappland-Tasting-Menü dauert 2,5–3,5 Stunden. Buchen Sie keine 21-Uhr-Vorstellung danach."
+        },
+        {
+          "label": "Die Weinbegleitung lohnt sich",
+          "body": "Die meisten Spitzenhäuser in Lappland haben einen Sommelier, der europäische Weine kleiner Erzeuger auswählt. Die Begleitung kostet 45–95 € zusätzlich zum Menü."
+        },
+        {
+          "label": "Allergien rechtzeitig melden",
+          "body": "Tasting-Menüs werden im Voraus aufgebaut und enthalten komplexe Sammelzutaten. Allergien / vegetarisch / vegan: bei der Reservierung melden, nicht erst am Abend."
+        },
+        {
+          "label": "Smart Casual",
+          "body": "Kein finnisches Restaurant weist Sie in Jeans ab, aber die Säle erwarten ein wenig Aufwand. Turnschuhe und Hoodie fühlen sich unpassend an."
+        }
       ]
     },
     "stayNear": {
@@ -590,23 +1144,62 @@
       "headline": "Was wir abdecken.",
       "lead": "Sechs Säulen. Jede ist eine tiefe Seite, die für sich stehen könnte. Zusammen ergeben sie den Feldführer, den wir uns am Anfang gewünscht hätten.",
       "items": [
-        { "t": "Lokale Zutaten", "body": "Was hier wächst, schwimmt und wandert. Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Woher sie kommen, wann sie am besten sind.", "href": "/local-ingredients" },
-        { "t": "Traditionelle Rezepte", "body": "Bidos, Gahkku, Sápmi-Fischsuppe, Beerenkissel, mit dem kulturellen Kontext, der erklärt, warum sie so sind, wie sie sind.", "href": "/traditional-recipes" },
-        { "t": "Modernes Lappland", "body": "New-Nordic-Technik auf Lappland-Zutaten angewendet. Sous-vide, Fermentation, Kaltsalzen, gesammelte Garnituren. Wo Sie das probieren können.", "href": "/modern-lapland" },
-        { "t": "Sammelguide", "body": "Fünf zentrale Wildnahrungen, Pilzsicherheit im Detail, ein 8-Monats-Saisonkalender und das Jedermannsrecht, das das Ganze legalisiert.", "href": "/foraging-guide" },
-        { "t": "Michelin und Fine Dining", "body": "Die Michelin-Szene Helsinkis, die drei Spitzenhäuser Lapplands, wie ein Tasting-Menü wirklich aussieht und wie eine Reservierung funktioniert.", "href": "/michelin-dining" },
-        { "t": "Kulinarische Touren und Kochschulen", "body": "Esserlebnisse, die eine Buchung wert sind, Sámi-Esstouren, Fine-Dining-Rundgänge, Sammeltouren. Kuratiert, nicht vollständig.", "href": "/food-tours" }
+        {
+          "t": "Lokale Zutaten",
+          "body": "Was hier wächst, schwimmt und wandert. Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Woher sie kommen, wann sie am besten sind.",
+          "href": "/local-ingredients"
+        },
+        {
+          "t": "Traditionelle Rezepte",
+          "body": "Bidos, Gahkku, Sápmi-Fischsuppe, Beerenkissel, mit dem kulturellen Kontext, der erklärt, warum sie so sind, wie sie sind.",
+          "href": "/traditional-recipes"
+        },
+        {
+          "t": "Modernes Lappland",
+          "body": "New-Nordic-Technik auf Lappland-Zutaten angewendet. Sous-vide, Fermentation, Kaltsalzen, gesammelte Garnituren. Wo Sie das probieren können.",
+          "href": "/modern-lapland"
+        },
+        {
+          "t": "Sammelguide",
+          "body": "Fünf zentrale Wildnahrungen, Pilzsicherheit im Detail, ein 8-Monats-Saisonkalender und das Jedermannsrecht, das das Ganze legalisiert.",
+          "href": "/foraging-guide"
+        },
+        {
+          "t": "Michelin und Fine Dining",
+          "body": "Die Michelin-Szene Helsinkis, die drei Spitzenhäuser Lapplands, wie ein Tasting-Menü wirklich aussieht und wie eine Reservierung funktioniert.",
+          "href": "/michelin-dining"
+        },
+        {
+          "t": "Kulinarische Touren und Kochschulen",
+          "body": "Esserlebnisse, die eine Buchung wert sind, Sámi-Esstouren, Fine-Dining-Rundgänge, Sammeltouren. Kuratiert, nicht vollständig.",
+          "href": "/food-tours"
+        }
       ]
     },
     "principles": {
       "headline": "Wie wir unsere Empfehlungen wählen.",
       "lead": "Wir sind ein unabhängiger Verlag. Die folgenden Prinzipien halten uns ehrlich.",
       "items": [
-        { "t": "Empfehlen wie an einen Freund", "body": "Der einfachste Filter. Jedes Restaurant, jede Tour, jeder Zutatenlieferant und jeder Erzeuger auf dieser Seite ist einer, an den wir einen Freund schicken würden. Wenn wir das nicht täten, kommt es nicht auf die Seite." },
-        { "t": "Genauigkeit vor Atmosphäre", "body": "Eine Aussage wie „Lapplands bestes Fine Dining\" ist ohne Präzision sinnlos. Wir sagen, was zu bestellen ist, was es kostet, wann reserviert werden muss und wo Sie hingehen. Was wir nicht präzise belegen können, lassen wir weg." },
-        { "t": "Partnerschaft verändert die Redaktion nicht", "body": "Einige Buchungslinks zahlen uns eine Provision, wenn Sie über sie buchen. Keiner dieser Links schaltet Inhalte frei, ändert die Reihenfolge der Empfehlungen oder kauft sich einen Platz auf der Seite. Dieselben Restaurants wären auch ohne Partnerprogramm hier." },
-        { "t": "Keine erfundenen Statistiken, keine erfundenen Zitate", "body": "Wenn wir eine Zahl nennen, gibt es eine Quelle, auf die wir verweisen könnten. Wenn wir einen Koch zitieren, haben wir mit ihm gesprochen. Wenn wir uns bei etwas nicht sicher sind, die aktuelle Zahl der Michelin-Sterne, das genaue Startjahr einer Tradition, sagen wir das und verweisen auf eine maßgebliche Quelle." },
-        { "t": "Aktualisieren statt löschen", "body": "Restaurants schließen, Köche wechseln, Preise bewegen sich. Wenn wir feststellen, dass eine Seite falsch ist, aktualisieren wir sie mit Datumsstempel. Wir tun nicht so, als hätte es die falsche Version nie gegeben." }
+        {
+          "t": "Empfehlen wie an einen Freund",
+          "body": "Der einfachste Filter. Jedes Restaurant, jede Tour, jeder Zutatenlieferant und jeder Erzeuger auf dieser Seite ist einer, an den wir einen Freund schicken würden. Wenn wir das nicht täten, kommt es nicht auf die Seite."
+        },
+        {
+          "t": "Genauigkeit vor Atmosphäre",
+          "body": "Eine Aussage wie „Lapplands bestes Fine Dining\" ist ohne Präzision sinnlos. Wir sagen, was zu bestellen ist, was es kostet, wann reserviert werden muss und wo Sie hingehen. Was wir nicht präzise belegen können, lassen wir weg."
+        },
+        {
+          "t": "Partnerschaft verändert die Redaktion nicht",
+          "body": "Einige Buchungslinks zahlen uns eine Provision, wenn Sie über sie buchen. Keiner dieser Links schaltet Inhalte frei, ändert die Reihenfolge der Empfehlungen oder kauft sich einen Platz auf der Seite. Dieselben Restaurants wären auch ohne Partnerprogramm hier."
+        },
+        {
+          "t": "Keine erfundenen Statistiken, keine erfundenen Zitate",
+          "body": "Wenn wir eine Zahl nennen, gibt es eine Quelle, auf die wir verweisen könnten. Wenn wir einen Koch zitieren, haben wir mit ihm gesprochen. Wenn wir uns bei etwas nicht sicher sind, die aktuelle Zahl der Michelin-Sterne, das genaue Startjahr einer Tradition, sagen wir das und verweisen auf eine maßgebliche Quelle."
+        },
+        {
+          "t": "Aktualisieren statt löschen",
+          "body": "Restaurants schließen, Köche wechseln, Preise bewegen sich. Wenn wir feststellen, dass eine Seite falsch ist, aktualisieren wir sie mit Datumsstempel. Wir tun nicht so, als hätte es die falsche Version nie gegeben."
+        }
       ]
     },
     "network": {
@@ -629,7 +1222,16 @@
       "cookieLabel": "Cookie-Richtlinie"
     }
   },
-  "privacy": { "title": "Datenschutzerklärung | LaplandFood", "description": "Wie LaplandFood Ihre Daten behandelt." },
-  "terms": { "title": "Nutzungsbedingungen | LaplandFood", "description": "Die Nutzungsbedingungen von LaplandFood." },
-  "cookie": { "title": "Cookie-Richtlinie | LaplandFood", "description": "Wie LaplandFood Cookies verwendet." }
+  "privacy": {
+    "title": "Datenschutzerklärung | LaplandFood",
+    "description": "Wie LaplandFood Ihre Daten behandelt."
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen | LaplandFood",
+    "description": "Die Nutzungsbedingungen von LaplandFood."
+  },
+  "cookie": {
+    "title": "Cookie-Richtlinie | LaplandFood",
+    "description": "Wie LaplandFood Cookies verwendet."
+  }
 }

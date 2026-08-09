@@ -9,7 +9,7 @@
   },
   "newsletter": {
     "kicker": "#LaplandVibes nyhetsbrev",
-    "headline": "Bara när det finns något som verkligen är värt att berätta.",
+    "headline": "Vad Lappland äter just nu.",
     "subhead": "Säsongsreceptet värt att prova, restaurangen värd en omväg, plockningsfönstret du inte bör missa. Redaktionella tips skrivna från Finland.",
     "emailPlaceholder": "du@exempel.se",
     "submit": "Prenumerera",
@@ -26,9 +26,21 @@
     "subhead": "LaplandFood är den kulturella kartan. För bordet du faktiskt sätter dig vid, ölen du faktiskt beställer och ställena som håller öppet efter midnatt, gå vidare till systersajterna nedan.",
     "visitLabel": "Besök",
     "items": [
-      { "title": "Boka ett bord", "eyebrow": "LaplandDining", "body": "Var du faktiskt ska äta: över 60 handplockade restauranger i Lappland med menyer, öppettider och direkta bokningslänkar." },
-      { "title": "Hitta en bar eller ett bryggeri", "eyebrow": "LaplandBars", "body": "Mikrobryggerier, isbarer, hotellbarer och de lokala pubar där finnarna faktiskt dricker, med vad de serverar och när de öppnar." },
-      { "title": "Lappland efter middagen", "eyebrow": "LaplandNightlife", "body": "DJ:ar, sena kök, livemusikställen, festkalendern under polarnatten, vad du gör när köket stänger." }
+      {
+        "title": "Boka ett bord",
+        "eyebrow": "LaplandDining",
+        "body": "Var du faktiskt ska äta: över 60 handplockade restauranger i Lappland med menyer, öppettider och direkta bokningslänkar."
+      },
+      {
+        "title": "Hitta en bar eller ett bryggeri",
+        "eyebrow": "LaplandBars",
+        "body": "Mikrobryggerier, isbarer, hotellbarer och de lokala pubar där finnarna faktiskt dricker, med vad de serverar och när de öppnar."
+      },
+      {
+        "title": "Lappland efter middagen",
+        "eyebrow": "LaplandNightlife",
+        "body": "DJ:ar, sena kök, livemusikställen, festkalendern under polarnatten, vad du gör när köket stänger."
+      }
     ]
   },
   "home": {
@@ -56,21 +68,61 @@
       "kitchens": "Toppkök i Lappland"
     },
     "pillars": [
-      { "eyebrow": "Pelare 01", "title": "Lokala råvaror", "body": "Vad som faktiskt växer, simmar och betar här: ren, hjortron, blåbär, arktisk fisk, plockade örter. Säsonger, ursprung och varför smaken är som den är." },
-      { "eyebrow": "Pelare 02", "title": "Traditionella recept", "body": "Bidos-rengryta, samiskt tunnbröd, insjöfisksoppa, kräm på vilda bär, recepten som mättade Sápmi genom arktiska vintrar i tusentals år." },
-      { "eyebrow": "Pelare 03", "title": "Moderna Lappland", "body": "Hur en ny generation kockar lagar samma råvaror med sous vide, fermentering och nynordisk teknik. Var du kan smaka på det." },
-      { "eyebrow": "Pelare 04", "title": "Plockningsguide", "body": "Blåbär, lingon, hjortron, svamp, nässla, älggräs, vad du plockar när, hur du känner igen det och hur du gör det hållbart under allemansrätten." },
-      { "eyebrow": "Pelare 05", "title": "Michelin och fine dining", "body": "Finlands Michelin-scen i korthet: vad som har stjärnor, var, och vad som driver fine dining norr om polcirkeln." },
-      { "eyebrow": "Pelare 06", "title": "Matturer och matlagningskurser", "body": "Samiska matresor, fine dining-turer, plockningsvandringar, bryggeribesök, bokningsbara matupplevelser i hela Lappland." }
+      {
+        "eyebrow": "Pelare 01",
+        "title": "Lokala råvaror",
+        "body": "Vad som faktiskt växer, simmar och betar här: ren, hjortron, blåbär, arktisk fisk, plockade örter. Säsonger, ursprung och varför smaken är som den är."
+      },
+      {
+        "eyebrow": "Pelare 02",
+        "title": "Traditionella recept",
+        "body": "Bidos-rengryta, samiskt tunnbröd, insjöfisksoppa, kräm på vilda bär, recepten som mättade Sápmi genom arktiska vintrar i tusentals år."
+      },
+      {
+        "eyebrow": "Pelare 03",
+        "title": "Moderna Lappland",
+        "body": "Hur en ny generation kockar lagar samma råvaror med sous vide, fermentering och nynordisk teknik. Var du kan smaka på det."
+      },
+      {
+        "eyebrow": "Pelare 04",
+        "title": "Plockningsguide",
+        "body": "Blåbär, lingon, hjortron, svamp, nässla, älggräs, vad du plockar när, hur du känner igen det och hur du gör det hållbart under allemansrätten."
+      },
+      {
+        "eyebrow": "Pelare 05",
+        "title": "Michelin och fine dining",
+        "body": "Finlands Michelin-scen i korthet: vad som har stjärnor, var, och vad som driver fine dining norr om polcirkeln."
+      },
+      {
+        "eyebrow": "Pelare 06",
+        "title": "Matturer och matlagningskurser",
+        "body": "Samiska matresor, fine dining-turer, plockningsvandringar, bryggeribesök, bokningsbara matupplevelser i hela Lappland."
+      }
     ],
     "cultureKicker": "Varför det smakar som det gör",
     "cultureHeadline": "Fyra saker som gör finsk mat finsk.",
     "cultureLead": "Skala bort trenderna och det mesta av det finska köket vilar fortfarande på dessa fyra grunder. De förklarar allt från varför din hotellfrukost har rågknäckebröd till varför en fine dining-avsmakningsmeny börjar med enbärsgravad fisk.",
     "culture": [
-      { "n": "01", "title": "Åtta årstider, inte fyra", "body": "Den samiska kalendern delar året i åtta årstider. Var och en avgör vad som står på bordet: pimpelfiske under polarnatten, hjortronplockning i midnattssolen, svamp- och örtplockning före första frosten." },
-      { "n": "02", "title": "Allemansrätten", "body": "Finlands jokamiehenoikeus låter vem som helst plocka bär, svamp och vilda örter på nästan all mark, privatägd eller inte. Det är ett av få regelverk i världen som behandlar det vilda skafferiet som en gemensam resurs." },
-      { "n": "03", "title": "Hela djuret används", "body": "I samisk matkultur slösas inget på renen bort: kött, märg, blod, fett, skinn, ben. Recepten växte fram kring att ta vara på allt, därför använder bidos segare köttbitar och därför blev blodplättar (verilettut) en finsk basrätt." },
-      { "n": "04", "title": "Lätt kryddat, råvarustyrt", "body": "Finsk mat skriker sällan. Smakerna är dill, enbär, smör, salt och råvaran själv. Matlagningen är byggd för att låta råvaran tala, en stillsam kontrast till de högljuddare köken längre söderut." }
+      {
+        "n": "01",
+        "title": "Åtta årstider, inte fyra",
+        "body": "Den samiska kalendern delar året i åtta årstider. Var och en avgör vad som står på bordet: pimpelfiske under polarnatten, hjortronplockning i midnattssolen, svamp- och örtplockning före första frosten."
+      },
+      {
+        "n": "02",
+        "title": "Allemansrätten",
+        "body": "Finlands jokamiehenoikeus låter vem som helst plocka bär, svamp och vilda örter på nästan all mark, privatägd eller inte. Det är ett av få regelverk i världen som behandlar det vilda skafferiet som en gemensam resurs."
+      },
+      {
+        "n": "03",
+        "title": "Hela djuret används",
+        "body": "I samisk matkultur slösas inget på renen bort: kött, märg, blod, fett, skinn, ben. Recepten växte fram kring att ta vara på allt, därför använder bidos segare köttbitar och därför blev blodplättar (verilettut) en finsk basrätt."
+      },
+      {
+        "n": "04",
+        "title": "Lätt kryddat, råvarustyrt",
+        "body": "Finsk mat skriker sällan. Smakerna är dill, enbär, smör, salt och råvaran själv. Matlagningen är byggd för att låta råvaran tala, en stillsam kontrast till de högljuddare köken längre söderut."
+      }
     ],
     "summer": {
       "kicker": "6 juni–7 juli · 32 dagar av midnattssol",
@@ -85,11 +137,26 @@
       "stillPrefix": "Undrar du fortfarande över något? Skriv till ",
       "stillSuffix": ". Vi svarar.",
       "items": [
-        { "question": "Hur är traditionell finsk mat?", "answer": "Traditionell finsk mat bygger på det som växer, simmar eller betar inom gångavstånd: rågbröd, insjöfisk, ren, vilda bär som blåbär, lingon och hjortron, plockad svamp och mejeriprodukter. Köket är säsongsbetonat, lätt kryddat och byggt kring råvaran snarare än tekniken." },
-        { "question": "Har Finland restauranger med Michelin-stjärnor?", "answer": "Ja. Michelinguiden täcker Finland, och de stjärnmärkta restaurangerna i de senaste nordiska utgåvorna har alla legat i Helsingfors. Lappland självt har för närvarande ingen stjärna, men dess flaggskeppskök, Nili, Aanaar, Rakas, driver avsmakningsmenyer norr om polcirkeln. Stjärnlistorna ändras varje år, så kolla den aktuella guiden innan du bokar." },
-        { "question": "Vad är samisk mat?", "answer": "Samisk mat är urfolksköket i Sápmi, regionen som sträcker sig över norra Finland, Sverige, Norge och Ryssland. Det kretsar kring renen, varje del används, arktisk fisk, plockade bär och örter samt långsamma tillagningsmetoder som bidos-gryta. Recepten är säsongsbetonade och knutna till den samiska kalenderns åtta årstider." },
-        { "question": "Får besökare plocka bär och svamp i Finland?", "answer": "Ja. Finlands allemansrätt (jokamiehenoikeus) låter vem som helst, medborgare eller besökare, plocka bär, svamp och vilda örter på nästan all mark, inklusive privat skog. Lär dig känna igen svamp innan du plockar, dock: dödliga arter som lömsk flugsvamp och vit flugsvamp växer i finska skogar. För första gången är en guidad plockningsvandring det säkraste sättet." },
-        { "question": "När är hjortronsäsongen i Lappland?", "answer": "Ungefär från mitten av juli till mitten av augusti, med ett intensivt plockningsfönster på cirka tre veckor beroende på myren. Hjortron växer bara på kalla arktiska torvmyrar och går inte att odla, vilket är varför de är det mest eftertraktade, och dyraste, vilda bäret i Lappland." }
+        {
+          "question": "Hur är traditionell finsk mat?",
+          "answer": "Traditionell finsk mat bygger på det som växer, simmar eller betar inom gångavstånd: rågbröd, insjöfisk, ren, vilda bär som blåbär, lingon och hjortron, plockad svamp och mejeriprodukter. Köket är säsongsbetonat, lätt kryddat och byggt kring råvaran snarare än tekniken."
+        },
+        {
+          "question": "Har Finland restauranger med Michelin-stjärnor?",
+          "answer": "Ja. Michelinguiden täcker Finland, och de stjärnmärkta restaurangerna i de senaste nordiska utgåvorna har alla legat i Helsingfors. Lappland självt har för närvarande ingen stjärna, men dess flaggskeppskök, Nili, Aanaar, Rakas, driver avsmakningsmenyer norr om polcirkeln. Stjärnlistorna ändras varje år, så kolla den aktuella guiden innan du bokar."
+        },
+        {
+          "question": "Vad är samisk mat?",
+          "answer": "Samisk mat är urfolksköket i Sápmi, regionen som sträcker sig över norra Finland, Sverige, Norge och Ryssland. Det kretsar kring renen, varje del används, arktisk fisk, plockade bär och örter samt långsamma tillagningsmetoder som bidos-gryta. Recepten är säsongsbetonade och knutna till den samiska kalenderns åtta årstider."
+        },
+        {
+          "question": "Får besökare plocka bär och svamp i Finland?",
+          "answer": "Ja. Finlands allemansrätt (jokamiehenoikeus) låter vem som helst, medborgare eller besökare, plocka bär, svamp och vilda örter på nästan all mark, inklusive privat skog. Lär dig känna igen svamp innan du plockar, dock: dödliga arter som lömsk flugsvamp och vit flugsvamp växer i finska skogar. För första gången är en guidad plockningsvandring det säkraste sättet."
+        },
+        {
+          "question": "När är hjortronsäsongen i Lappland?",
+          "answer": "Ungefär från mitten av juli till mitten av augusti, med ett intensivt plockningsfönster på cirka tre veckor beroende på myren. Hjortron växer bara på kalla arktiska torvmyrar och går inte att odla, vilket är varför de är det mest eftertraktade, och dyraste, vilda bäret i Lappland."
+        }
       ]
     }
   },
@@ -107,20 +174,71 @@
     "intro": {
       "lead": "Lapplands skafferi är kort. Det är dess styrka.",
       "points": [
-        { "n": "01", "title": "Sex råvaror, en hand", "body": "Ren, insjöfisk, plockade bär, plockad svamp, vilda örter, mejeriprodukter: det är hela skafferiet. Det finns ingen dold trettionde råvara; skickligheten ligger i vad människor lärde sig göra med dessa sex." },
-        { "n": "02", "title": "Nästan allt är vilt", "body": "Det skiljer Lappland från nästan alla andra matkulturer i Europa. Till och med renarna lever på tiotusentals kvadratkilometer ostängslad vildmark." },
-        { "n": "03", "title": "Vilt betyder årgångar", "body": "Vilda råvaror varierar mellan år och plats på ett sätt som odlade aldrig gör. Hjortron från en myr ovanför Inari smakar annorlunda än de som plockats 80 kilometer längre söderut." }
+        {
+          "n": "01",
+          "title": "Sex råvaror, en hand",
+          "body": "Ren, insjöfisk, plockade bär, plockad svamp, vilda örter, mejeriprodukter: det är hela skafferiet. Det finns ingen dold trettionde råvara; skickligheten ligger i vad människor lärde sig göra med dessa sex."
+        },
+        {
+          "n": "02",
+          "title": "Nästan allt är vilt",
+          "body": "Det skiljer Lappland från nästan alla andra matkulturer i Europa. Till och med renarna lever på tiotusentals kvadratkilometer ostängslad vildmark."
+        },
+        {
+          "n": "03",
+          "title": "Vilt betyder årgångar",
+          "body": "Vilda råvaror varierar mellan år och plats på ett sätt som odlade aldrig gör. Hjortron från en myr ovanför Inari smakar annorlunda än de som plockats 80 kilometer längre söderut."
+        }
       ]
     },
     "ingredients": [
-      { "name": "Ren och vilt", "season": "Året runt · bäst okt–mars", "description": "Hjärtat i det arktiska köket. Fritt strövande ren uppvuxen i orörd vildmark, det viktigaste proteinet i samisk kultur i tusentals år.", "nutritional": "Högt proteininnehåll, låg fetthalt, rikt på B12 och järn", "uses": "Grillning, torkning, rökning, långkokta grytor" },
-      { "name": "Blåbär och lingon", "season": "augusti–september", "description": "Arktiska superbär fyllda med antioxidanter. Vildväxande under midnattssolen på tundran och i den boreala skogen.", "nutritional": "Antioxidanter, C-vitamin, kostfiber", "uses": "Sylt, saft, bakning, torkning" },
-      { "name": "Vild svamp, karljohan och riskor", "season": "juli–september", "description": "Skogens guld från Lapplands urskogar. Torkas traditionellt till vinterförråd.", "nutritional": "Protein, fiber, D-vitamin", "uses": "Torkning, konservering, soppor, såser" },
-      { "name": "Arktisk insjöfisk", "season": "Året runt · pimpelfiske på vintern", "description": "Kristallklar insjöfisk: sik, gädda, abborre, öring. Pimpelfiske är en älskad vintertradition i hela Lappland.", "nutritional": "Omega-3-fettsyror, högt proteininnehåll, fosfor", "uses": "Rökning, saltning, grillning, fisksoppa" },
-      { "name": "Vilda örter, älggräs och nässla", "season": "juni–augusti", "description": "De vilda växternas kraft. Traditionella medicinal- och matörter som använts i samisk kultur i generationer.", "nutritional": "Mineraler, vitaminer, flavonoider", "uses": "Te, sallader, soppor, torkning" },
-      { "name": "Arktiska hjortron", "season": "mitten av juli till mitten av augusti", "description": "Lapplands gyllene juvel. Växer bara på arktiska myrar och kärr, ett av de mest sällsynta och eftertraktade vilda bären i världen.", "nutritional": "C-vitamin, E-vitamin, omega-3-fettsyror", "uses": "Sylt, efterrätter, likör, att äta färska" }
+      {
+        "name": "Ren och vilt",
+        "season": "Året runt · bäst okt–mars",
+        "description": "Hjärtat i det arktiska köket. Fritt strövande ren uppvuxen i orörd vildmark, det viktigaste proteinet i samisk kultur i tusentals år.",
+        "nutritional": "Högt proteininnehåll, låg fetthalt, rikt på B12 och järn",
+        "uses": "Grillning, torkning, rökning, långkokta grytor"
+      },
+      {
+        "name": "Blåbär och lingon",
+        "season": "augusti–september",
+        "description": "Arktiska superbär fyllda med antioxidanter. Vildväxande under midnattssolen på tundran och i den boreala skogen.",
+        "nutritional": "Antioxidanter, C-vitamin, kostfiber",
+        "uses": "Sylt, saft, bakning, torkning"
+      },
+      {
+        "name": "Vild svamp, karljohan och riskor",
+        "season": "juli–september",
+        "description": "Skogens guld från Lapplands urskogar. Torkas traditionellt till vinterförråd.",
+        "nutritional": "Protein, fiber, D-vitamin",
+        "uses": "Torkning, konservering, soppor, såser"
+      },
+      {
+        "name": "Arktisk insjöfisk",
+        "season": "Året runt · pimpelfiske på vintern",
+        "description": "Kristallklar insjöfisk: sik, gädda, abborre, öring. Pimpelfiske är en älskad vintertradition i hela Lappland.",
+        "nutritional": "Omega-3-fettsyror, högt proteininnehåll, fosfor",
+        "uses": "Rökning, saltning, grillning, fisksoppa"
+      },
+      {
+        "name": "Vilda örter, älggräs och nässla",
+        "season": "juni–augusti",
+        "description": "De vilda växternas kraft. Traditionella medicinal- och matörter som använts i samisk kultur i generationer.",
+        "nutritional": "Mineraler, vitaminer, flavonoider",
+        "uses": "Te, sallader, soppor, torkning"
+      },
+      {
+        "name": "Arktiska hjortron",
+        "season": "mitten av juli till mitten av augusti",
+        "description": "Lapplands gyllene juvel. Växer bara på arktiska myrar och kärr, ett av de mest sällsynta och eftertraktade vilda bären i världen.",
+        "nutritional": "C-vitamin, E-vitamin, omega-3-fettsyror",
+        "uses": "Sylt, efterrätter, likör, att äta färska"
+      }
     ],
-    "labels": { "nutrition": "Näring:", "usedIn": "Används i:" },
+    "labels": {
+      "nutrition": "Näring:",
+      "usedIn": "Används i:"
+    },
     "reindeerDeep": {
       "kicker": "Fördjupning · Ren",
       "headline": "Hur en ren hamnar på en tallrik i Lappland.",
@@ -171,18 +289,39 @@
     "intro": {
       "lead": "Recepten på den här sidan är inte arv i museimonter-mening. De lagas fortfarande.",
       "points": [
-        { "n": "01", "title": "Lagas varje tisdag", "body": "Kliv in i ett samiskt hem i Inari eller Utsjoki i november och bidos står på spisen, samma långkokta rengryta som familjens mormor gjorde, med samma köttbitar, på samma knappt viskande värme." },
-        { "n": "02", "title": "Överlevde på sitt eget skafferi", "body": "Det samiska köket överlevde de flesta förindustriella arktiska matkulturer eftersom det aldrig behövde import för att smaka som sig självt: ren, insjöfisk, bär, vilda örter, råg, smör, salt." },
-        { "n": "03", "title": "Fyra ingångar", "body": "Bidos är själsmatens proteinrätt, gahkku det dagliga brödet, Sápmi-fisksoppa det sjön gav den veckan, och kräm på vilda bär det sätt sommaren bevaras på." }
+        {
+          "n": "01",
+          "title": "Lagas varje tisdag",
+          "body": "Kliv in i ett samiskt hem i Inari eller Utsjoki i november och bidos står på spisen, samma långkokta rengryta som familjens mormor gjorde, med samma köttbitar, på samma knappt viskande värme."
+        },
+        {
+          "n": "02",
+          "title": "Överlevde på sitt eget skafferi",
+          "body": "Det samiska köket överlevde de flesta förindustriella arktiska matkulturer eftersom det aldrig behövde import för att smaka som sig självt: ren, insjöfisk, bär, vilda örter, råg, smör, salt."
+        },
+        {
+          "n": "03",
+          "title": "Fyra ingångar",
+          "body": "Bidos är själsmatens proteinrätt, gahkku det dagliga brödet, Sápmi-fisksoppa det sjön gav den veckan, och kräm på vilda bär det sätt sommaren bevaras på."
+        }
       ]
     },
     "context": {
       "kicker": "Visdomen i samisk matkultur",
       "headline": "Varför recepten ser ut som de gör.",
       "items": [
-        { "title": "Energieffektivitet", "body": "Recept utformade för att minimera bränsle och tid i ett hårt arktiskt klimat. Långsam sjudning + fettrikt protein = maximalt antal kilokalorier per vedträ." },
-        { "title": "Lång hållbarhet", "body": "Mat gjord för att hålla utan kylskåp eller konserveringsmedel: torkning, rökning, fermentering och frysning i snön." },
-        { "title": "Gemenskap", "body": "Att laga och dela mat är den centrala sociala ritualen i samiskt liv. Grytan mitt i lávvun (kåtan) är, bokstavligt talat, mittpunkten." }
+        {
+          "title": "Energieffektivitet",
+          "body": "Recept utformade för att minimera bränsle och tid i ett hårt arktiskt klimat. Långsam sjudning + fettrikt protein = maximalt antal kilokalorier per vedträ."
+        },
+        {
+          "title": "Lång hållbarhet",
+          "body": "Mat gjord för att hålla utan kylskåp eller konserveringsmedel: torkning, rökning, fermentering och frysning i snön."
+        },
+        {
+          "title": "Gemenskap",
+          "body": "Att laga och dela mat är den centrala sociala ritualen i samiskt liv. Grytan mitt i lávvun (kåtan) är, bokstavligt talat, mittpunkten."
+        }
       ]
     },
     "sapmi": {
@@ -190,9 +329,18 @@
       "headline": "Sápmi, ett av Europas äldsta kök.",
       "lead": "Samerna är urfolket i Sápmi, ett vidsträckt arktiskt hemland över norra Finland, Sverige, Norge och Ryssland. Deras kök är en av de äldsta levande matkulturerna i Europa, helt formad av landet, årstiderna och renskötsellivet.",
       "items": [
-        { "title": "Sápmi, hemlandet", "body": "Sápmi omfattar över 400 000 km² i fyra länder. Finska Sápmi (Saamelaisten kotiseutualue) är Finlands nordligaste region, kommunerna Enontekiö, Inari och Utsjoki." },
-        { "title": "Samiska språk", "body": "Det finns nio levande samiska språk. Nordsamiska talas av flest. Många traditionella receptnamn, som <em>bidos</em> och <em>gahkku</em>, kommer direkt från nordsamiskan." },
-        { "title": "Åtta årstider, inte fyra", "body": "Samisk tideräkning delar året i åtta årstider. Var och en avgör vad som står på bordet: pimpelfiske under polarnatten, hjortronplockning vid midsommar, svamp före första frosten." }
+        {
+          "title": "Sápmi, hemlandet",
+          "body": "Sápmi omfattar över 400 000 km² i fyra länder. Finska Sápmi (Saamelaisten kotiseutualue) är Finlands nordligaste region, kommunerna Enontekiö, Inari och Utsjoki."
+        },
+        {
+          "title": "Samiska språk",
+          "body": "Det finns nio levande samiska språk. Nordsamiska talas av flest. Många traditionella receptnamn, som <em>bidos</em> och <em>gahkku</em>, kommer direkt från nordsamiskan."
+        },
+        {
+          "title": "Åtta årstider, inte fyra",
+          "body": "Samisk tideräkning delar året i åtta årstider. Var och en avgör vad som står på bordet: pimpelfiske under polarnatten, hjortronplockning vid midsommar, svamp före första frosten."
+        }
       ]
     },
     "recipesKicker": "Autentiska recept",
@@ -213,8 +361,26 @@
         "serves": "6–8 personer",
         "tradition": "Samiskt arv",
         "description": "Långkokt rengryta, den samiska kulturens själsmat i århundraden. Enkel, värmande och djupt närande.",
-        "ingredients": ["1 kg renkött (grytbitar)", "4–5 potatisar, tärnade", "2 morötter, skivade", "1 lök, tärnad", "2 msk smör eller renfett", "Salt och svartpeppar efter smak", "Färsk dill"],
-        "instructions": ["Skär renköttet i 3–4 cm stora bitar", "Hetta upp fettet i en tjockbottnad gryta på medelhög värme", "Bryn köttet ordentligt runt om", "Tillsätt löken och fräs tills den är genomskinlig", "Häll på vatten så det precis täcker köttet", "Sjud på låg värme i 2–3 timmar tills köttet är mört", "Tillsätt potatis och morötter under sista timmen", "Krydda rikligt med salt och peppar", "Garnera med färsk dill och servera"],
+        "ingredients": [
+          "1 kg renkött (grytbitar)",
+          "4–5 potatisar, tärnade",
+          "2 morötter, skivade",
+          "1 lök, tärnad",
+          "2 msk smör eller renfett",
+          "Salt och svartpeppar efter smak",
+          "Färsk dill"
+        ],
+        "instructions": [
+          "Skär renköttet i 3–4 cm stora bitar",
+          "Hetta upp fettet i en tjockbottnad gryta på medelhög värme",
+          "Bryn köttet ordentligt runt om",
+          "Tillsätt löken och fräs tills den är genomskinlig",
+          "Häll på vatten så det precis täcker köttet",
+          "Sjud på låg värme i 2–3 timmar tills köttet är mört",
+          "Tillsätt potatis och morötter under sista timmen",
+          "Krydda rikligt med salt och peppar",
+          "Garnera med färsk dill och servera"
+        ],
         "tips": "Tillagas traditionellt över öppen eld på låg värme under lång tid, tålamod är den hemliga ingrediensen."
       },
       {
@@ -224,8 +390,23 @@
         "serves": "1 bröd",
         "tradition": "Uråldrigt samiskt recept",
         "description": "Enkelt men närande, ett hållbart bröd som gett kraft åt arktiska färder i generationer.",
-        "ingredients": ["500 g vetemjöl", "250 ml ljummet vatten", "1 tsk salt", "1 tsk socker", "1 påse torrjäst", "2 msk olja"],
-        "instructions": ["Blanda alla torra ingredienser", "Tillsätt det ljumma vattnet och oljan", "Knåda till en smidig deg", "Låt jäsa på en varm plats i 30 minuter", "Forma till ett runt bröd", "Grädda i 225 °C i 25–30 minuter", "Brödet är klart när det låter ihåligt när man knackar på det"],
+        "ingredients": [
+          "500 g vetemjöl",
+          "250 ml ljummet vatten",
+          "1 tsk salt",
+          "1 tsk socker",
+          "1 påse torrjäst",
+          "2 msk olja"
+        ],
+        "instructions": [
+          "Blanda alla torra ingredienser",
+          "Tillsätt det ljumma vattnet och oljan",
+          "Knåda till en smidig deg",
+          "Låt jäsa på en varm plats i 30 minuter",
+          "Forma till ett runt bröd",
+          "Grädda i 225 °C i 25–30 minuter",
+          "Brödet är klart när det låter ihåligt när man knackar på det"
+        ],
         "tips": "Gräddas traditionellt på heta stenar eller över öppen lägereld."
       },
       {
@@ -235,8 +416,27 @@
         "serves": "4–6 personer",
         "tradition": "Arktisk fiskekultur",
         "description": "En älskad fisksoppa med den renaste insjöfisken och vilda örter, en smak av den arktiska stranden.",
-        "ingredients": ["800 g färsk insjöfisk (sik eller öring)", "1 liter fiskbuljong eller vatten", "3–4 potatisar, tärnade", "1 morot, skivad", "1 lök", "250 ml grädde", "Färsk dill", "Salt och vitpeppar"],
-        "instructions": ["Rensa och filea fisken", "Sjud fiskhuvud och ben till buljong", "Sila buljongen och häll tillbaka i grytan", "Tillsätt potatis och morötter", "Koka i 15 minuter", "Tillsätt fiskbitar och lök", "Koka i ytterligare 10 minuter", "Rör ner grädde och dillstjälkar", "Krydda med salt och vitpeppar, tillsätt färsk dill vid servering"],
+        "ingredients": [
+          "800 g färsk insjöfisk (sik eller öring)",
+          "1 liter fiskbuljong eller vatten",
+          "3–4 potatisar, tärnade",
+          "1 morot, skivad",
+          "1 lök",
+          "250 ml grädde",
+          "Färsk dill",
+          "Salt och vitpeppar"
+        ],
+        "instructions": [
+          "Rensa och filea fisken",
+          "Sjud fiskhuvud och ben till buljong",
+          "Sila buljongen och häll tillbaka i grytan",
+          "Tillsätt potatis och morötter",
+          "Koka i 15 minuter",
+          "Tillsätt fiskbitar och lök",
+          "Koka i ytterligare 10 minuter",
+          "Rör ner grädde och dillstjälkar",
+          "Krydda med salt och vitpeppar, tillsätt färsk dill vid servering"
+        ],
         "tips": "Gammalt knep: tillsätt dillstjälkar under kokningen, färska blad först allra sist."
       },
       {
@@ -246,8 +446,22 @@
         "serves": "4–6 personer",
         "tradition": "Sommarens konserveringstradition",
         "description": "Det klassiska sättet att njuta av Lapplands vilda bär. Full av antioxidanter och med naturlig arktisk smak.",
-        "ingredients": ["500 g blandade bär (blåbär, lingon)", "100–150 g socker efter smak", "3 msk potatismjöl", "1 liter vatten", "Vaniljsocker"],
-        "instructions": ["Sjud bären i vatten i 10 minuter", "Mixa och sila om du vill", "Tillsätt socker och vaniljsocker", "Blanda potatismjöl med kallt vatten", "Rör ner mjölblandningen i den heta bärvätskan", "Koka 2–3 minuter tills det tjocknar", "Servera varm eller kall"],
+        "ingredients": [
+          "500 g blandade bär (blåbär, lingon)",
+          "100–150 g socker efter smak",
+          "3 msk potatismjöl",
+          "1 liter vatten",
+          "Vaniljsocker"
+        ],
+        "instructions": [
+          "Sjud bären i vatten i 10 minuter",
+          "Mixa och sila om du vill",
+          "Tillsätt socker och vaniljsocker",
+          "Blanda potatismjöl med kallt vatten",
+          "Rör ner mjölblandningen i den heta bärvätskan",
+          "Koka 2–3 minuter tills det tjocknar",
+          "Servera varm eller kall"
+        ],
         "tips": "Sötas traditionellt med vildhonung istället för socker, prova båda sätten."
       }
     ],
@@ -257,14 +471,54 @@
       "p1": "Kalendern med fyra årstider är ett antagande från det tempererade Europa. Samerna delar året i åtta, var och en knuten till vad renarna gör, hur sjön ser ut och vad som är moget i skogen. Vill du förstå varför ett samiskt kök ser ut som det gör, börjar du här.",
       "p2": "Namnen nedan är de nordsamiska originalen. Datumen är ungefärliga, Sápmis årstider styrs mer av fenologi (vad landet gör) än av kalendern.",
       "items": [
-        { "sami": "Dálvi", "en": "Vinter", "when": "dec–feb", "body": "Polarnatt och den djupaste kylan. Renarna är på vinterbetet och skrapar efter lav under snön. Hushållet lever på det som konserverats på hösten: torkad ren (suovas), saltad fisk, frysta bär, rågmjöl. Bidos är vardagsmiddagen, långkokt fettrikt protein som håller folk varma." },
-        { "sami": "Giđđadálvi", "en": "Vårvinter", "when": "mars–apr", "body": "Ljuset kommer tillbaka. Renkalvningen börjar; renskötarna följer med hjorden. Pimpelfisket är som bäst, solen är uppe tillräckligt länge för att fiska på sjön utan att frysa, och fisken är fortfarande under tjock is. Rökt sik dominerar. Dagarna blir 7 minuter längre per dag." },
-        { "sami": "Giđđa", "en": "Vår", "when": "maj", "body": "Snösmältning. Renarna rör sig mot sommarbetet. De första unga björklöven och nässelskotten kommer, de första färska bladen på sju månader. Björksav tappas och dricks antingen färsk eller fermenteras. De första äggen från flyttfåglar dyker upp." },
-        { "sami": "Giđđageassi", "en": "Vårsommar", "when": "juni", "body": "Första halvan av midnattssolen. Renarna föder; kalvarna springer. Marken är äntligen varm nog för vilda örter (älggräs, röllika, kvanne). Bakverk ersätter grytor. Färska mejeriprodukter och smör kommer tillbaka från fjällbetet." },
-        { "sami": "Geassi", "en": "Sommar", "when": "juli", "body": "Full midnattssol. Hjortronskörden, tre till sex veckor då familjer tillbringar hela kvällar med att plocka på myren. Örter torkas för vintern; bär blir sylt, fryses eller fermenteras. Insjöfisket pågår dagligen. Köket stänger nästan aldrig." },
-        { "sami": "Čakčageassi", "en": "Höstsommar", "when": "aug–början av sep", "body": "Blåbärs- och lingonsäsong. Svampen kommer, karljohan, riskor, kantareller. Dagarna är fortfarande långa; nätterna börjar bli svala. Renarna väger som mest. Skafferiet fylls: sylt, saltad fisk, torkad svamp, frysta bär." },
-        { "sami": "Čakča", "en": "Höst", "when": "sep–okt", "body": "Slaktsäsongen. Renarna samlas ihop; renskötarna väljer vilka djur som ska slaktas inför vintern. Köttet bereds: röks, torkas (suovas) och fryses. Detta är proteinbanken som måste räcka i sju månader. De första frosterna gör lingonen sötare." },
-        { "sami": "Čakčadálvi", "en": "Höstvinter", "when": "nov", "body": "Mörkret återvänder. Snön lägger sig. Sista konserveringsarbetet, salta fisk, lägg in sylt, gör inventering. Köket lutar sig mot värmen: grytor, soppor, bakade rågbröd, varm bärsaft. Bidos-grytan står på spisen nästan varje dag." }
+        {
+          "sami": "Dálvi",
+          "en": "Vinter",
+          "when": "dec–feb",
+          "body": "Polarnatt och den djupaste kylan. Renarna är på vinterbetet och skrapar efter lav under snön. Hushållet lever på det som konserverats på hösten: torkad ren (suovas), saltad fisk, frysta bär, rågmjöl. Bidos är vardagsmiddagen, långkokt fettrikt protein som håller folk varma."
+        },
+        {
+          "sami": "Giđđadálvi",
+          "en": "Vårvinter",
+          "when": "mars–apr",
+          "body": "Ljuset kommer tillbaka. Renkalvningen börjar; renskötarna följer med hjorden. Pimpelfisket är som bäst, solen är uppe tillräckligt länge för att fiska på sjön utan att frysa, och fisken är fortfarande under tjock is. Rökt sik dominerar. Dagarna blir 7 minuter längre per dag."
+        },
+        {
+          "sami": "Giđđa",
+          "en": "Vår",
+          "when": "maj",
+          "body": "Snösmältning. Renarna rör sig mot sommarbetet. De första unga björklöven och nässelskotten kommer, de första färska bladen på sju månader. Björksav tappas och dricks antingen färsk eller fermenteras. De första äggen från flyttfåglar dyker upp."
+        },
+        {
+          "sami": "Giđđageassi",
+          "en": "Vårsommar",
+          "when": "juni",
+          "body": "Första halvan av midnattssolen. Renarna föder; kalvarna springer. Marken är äntligen varm nog för vilda örter (älggräs, röllika, kvanne). Bakverk ersätter grytor. Färska mejeriprodukter och smör kommer tillbaka från fjällbetet."
+        },
+        {
+          "sami": "Geassi",
+          "en": "Sommar",
+          "when": "juli",
+          "body": "Full midnattssol. Hjortronskörden, tre till sex veckor då familjer tillbringar hela kvällar med att plocka på myren. Örter torkas för vintern; bär blir sylt, fryses eller fermenteras. Insjöfisket pågår dagligen. Köket stänger nästan aldrig."
+        },
+        {
+          "sami": "Čakčageassi",
+          "en": "Höstsommar",
+          "when": "aug–början av sep",
+          "body": "Blåbärs- och lingonsäsong. Svampen kommer, karljohan, riskor, kantareller. Dagarna är fortfarande långa; nätterna börjar bli svala. Renarna väger som mest. Skafferiet fylls: sylt, saltad fisk, torkad svamp, frysta bär."
+        },
+        {
+          "sami": "Čakča",
+          "en": "Höst",
+          "when": "sep–okt",
+          "body": "Slaktsäsongen. Renarna samlas ihop; renskötarna väljer vilka djur som ska slaktas inför vintern. Köttet bereds: röks, torkas (suovas) och fryses. Detta är proteinbanken som måste räcka i sju månader. De första frosterna gör lingonen sötare."
+        },
+        {
+          "sami": "Čakčadálvi",
+          "en": "Höstvinter",
+          "when": "nov",
+          "body": "Mörkret återvänder. Snön lägger sig. Sista konserveringsarbetet, salta fisk, lägg in sylt, gör inventering. Köket lutar sig mot värmen: grytor, soppor, bakade rågbröd, varm bärsaft. Bidos-grytan står på spisen nästan varje dag."
+        }
       ]
     },
     "revival": {
@@ -285,10 +539,22 @@
       "headline": "Fyra traditionella tillagningsmetoder.",
       "lead": "Alla fyra dyker fortfarande upp i fine dining-kök i hela Lappland, kockar använder dem eftersom de ger smaker som inget modernt kan återskapa. Öppen eld skapar en maillardreaktion vid temperaturer som sous vide inte kommer i närheten av. Heta stenar bakar bröd med en särskild torrhet. Jordugnar bräserar enbart på lagrad värme. Rökning är, år 2026, fortfarande den enklaste konserveringsmetod människan har.",
       "items": [
-        { "title": "Öppen eld", "body": "Grillning och stekning direkt över lägereldens lågor" },
-        { "title": "Jordugn", "body": "Långsam tillagning under jord i gropar" },
-        { "title": "Heta stenar", "body": "Bakning av bröd på eldvärmda flata stenar" },
-        { "title": "Rökning", "body": "Konservering av kött och fisk med kall- eller varmrök" }
+        {
+          "title": "Öppen eld",
+          "body": "Grillning och stekning direkt över lägereldens lågor"
+        },
+        {
+          "title": "Jordugn",
+          "body": "Långsam tillagning under jord i gropar"
+        },
+        {
+          "title": "Heta stenar",
+          "body": "Bakning av bröd på eldvärmda flata stenar"
+        },
+        {
+          "title": "Rökning",
+          "body": "Konservering av kött och fisk med kall- eller varmrök"
+        }
       ]
     },
     "ctaStrip": {
@@ -312,30 +578,85 @@
     "intro": {
       "lead": "I början av 2010-talet innebar en restaurangmiddag i Lappland fortfarande en matsal på ett turisthotell och en renpepparbiff. På ungefär tio år växte små kockledda avsmakningsrestauranger fram i dess ställe, kök som konkurrerar med Helsingfors på hantverket på tallriken. Tre saker gjorde det möjligt:",
       "points": [
-        { "n": "01", "title": "Det nynordiska gav täckmantel", "body": "När Noma omdefinierade plockade örter, rökt fisk och långkokt vilt som kökets sofistikerade ände kunde kockar i Lappland som gjort de sakerna hela livet äntligen lägga upp dem utan ursäkt." },
-        { "n": "02", "title": "Tekniken kom norrut", "body": "Billiga sous vide-cirkulatorer gjorde att magra köttbitar inte längre behövde grytas. Renfilé, tillagad rosa i mitten vid 54 °C, blev det moderna Lapplandskökets signaturrätt." },
-        { "n": "03", "title": "Leveranskedjan mognade", "body": "Plockare och småfiskare säljer nu direkt till restauranger, och specialproducenter täcker allt från björksirap till lingonvinäger. En avsmakningsmeny kan hämta varje råvara inom 200 kilometer." }
+        {
+          "n": "01",
+          "title": "Det nynordiska gav täckmantel",
+          "body": "När Noma omdefinierade plockade örter, rökt fisk och långkokt vilt som kökets sofistikerade ände kunde kockar i Lappland som gjort de sakerna hela livet äntligen lägga upp dem utan ursäkt."
+        },
+        {
+          "n": "02",
+          "title": "Tekniken kom norrut",
+          "body": "Billiga sous vide-cirkulatorer gjorde att magra köttbitar inte längre behövde grytas. Renfilé, tillagad rosa i mitten vid 54 °C, blev det moderna Lapplandskökets signaturrätt."
+        },
+        {
+          "n": "03",
+          "title": "Leveranskedjan mognade",
+          "body": "Plockare och småfiskare säljer nu direkt till restauranger, och specialproducenter täcker allt från björksirap till lingonvinäger. En avsmakningsmeny kan hämta varje råvara inom 200 kilometer."
+        }
       ]
     },
     "dishesKicker": "Fyra moderna klassiker",
     "dishesHeadline": "Moderna Lappland på tallriken.",
-    "dishLabels": { "technique": "Teknik", "from": "Från", "twist": "Twist" },
+    "dishLabels": {
+      "technique": "Teknik",
+      "from": "Från",
+      "twist": "Twist"
+    },
     "dishes": [
-      { "name": "Sous vide-renfilé, blåbär och rotfrukt", "description": "Stilens signaturtallrik: mager renfilé tillagad rosa i mitten, en reduktion på vilda blåbär och en rotfrukt i två konsistenser.", "technique": "Sous vide", "traditional": "Stekt ren / poronkäristys", "innovation": "Exakt temperatur gör den magraste biten till huvudproteinet" },
-      { "name": "Confiterad arktisk sik och vildörtolja", "description": "Insjösik långsamt tillagad i fett, avslutad med en olja på älggräs eller granskott och något syrligt från fermenteringshyllan.", "technique": "Confit", "traditional": "Rökt och saltad insjöfisk", "innovation": "Låg temperatur håller en känslig fisk hel; plockade örter ersätter standarddillen" },
-      { "name": "Avsmakning av vilda bär till efterrätt", "description": "Hjortron, blåbär och lingon serverade som en följd, parfait, fruktläder, fermenterat, fryst, istället för en enda pannacotta med sylt på.", "technique": "Fermentering + nynordiskt bakverk", "traditional": "Bärkräm och sylt", "innovation": "Mjölksyrade bär ger syran som ersätter importerad citrus" },
-      { "name": "Bidos, nytolkad", "description": "Den samiska festgrytan omtänkt för en avsmakningsmeny: buljongen klarad, renbogen pressad, märgen serverad vid sidan.", "technique": "Modern uppläggning av en långbräsering", "traditional": "Bidos-rengryta", "innovation": "Samma köttbitar och smaker upplagda som rätter; hemmaversionen förblir orörd" }
+      {
+        "name": "Sous vide-renfilé, blåbär och rotfrukt",
+        "description": "Stilens signaturtallrik: mager renfilé tillagad rosa i mitten, en reduktion på vilda blåbär och en rotfrukt i två konsistenser.",
+        "technique": "Sous vide",
+        "traditional": "Stekt ren / poronkäristys",
+        "innovation": "Exakt temperatur gör den magraste biten till huvudproteinet"
+      },
+      {
+        "name": "Confiterad arktisk sik och vildörtolja",
+        "description": "Insjösik långsamt tillagad i fett, avslutad med en olja på älggräs eller granskott och något syrligt från fermenteringshyllan.",
+        "technique": "Confit",
+        "traditional": "Rökt och saltad insjöfisk",
+        "innovation": "Låg temperatur håller en känslig fisk hel; plockade örter ersätter standarddillen"
+      },
+      {
+        "name": "Avsmakning av vilda bär till efterrätt",
+        "description": "Hjortron, blåbär och lingon serverade som en följd, parfait, fruktläder, fermenterat, fryst, istället för en enda pannacotta med sylt på.",
+        "technique": "Fermentering + nynordiskt bakverk",
+        "traditional": "Bärkräm och sylt",
+        "innovation": "Mjölksyrade bär ger syran som ersätter importerad citrus"
+      },
+      {
+        "name": "Bidos, nytolkad",
+        "description": "Den samiska festgrytan omtänkt för en avsmakningsmeny: buljongen klarad, renbogen pressad, märgen serverad vid sidan.",
+        "technique": "Modern uppläggning av en långbräsering",
+        "traditional": "Bidos-rengryta",
+        "innovation": "Samma köttbitar och smaker upplagda som rätter; hemmaversionen förblir orörd"
+      }
     ],
     "techniques": {
       "kicker": "Vad \"nynordiskt\" faktiskt betyder",
       "headline": "Fem tekniker som dyker upp på varje avsmakningsmeny i Lappland.",
       "lead": "\"Nynordiskt\" är en marknadsföringsterm för det som på tallriken är en bestämd uppsättning tillagningstekniker tillämpade på en bestämd uppsättning råvaror. Skala bort varumärket och du hittar de fem sakerna nedan, det är vad din meny gör oavsett om kocken kallar det nynordiskt, modernt samiskt, arktiskt kök eller bara middag.",
       "items": [
-        { "title": "Mjölksyrning", "body": "Salt och tid förvandlar råa grönsaker och bär till intensivt smakande, milt syrliga konserver. Mjölksyrade blåbär på en kötträtt är det klassiska Lapplandsgreppet, de skär genom renfettets fyllighet som kapris skär genom smör. Håll utkik efter ord som \"fermenterat\" eller \"inlagt\" på menyn." },
-        { "title": "Sous vide", "body": "Att vakuumförpacka protein och tillaga det i temperaturstyrt vatten till exakt den stekgrad du vill ha. Anledningen till att din renfilé är jämnt rosa från kant till kant utan grå ring runt mitten. Långsamt, exakt och förlåtande och avgörande för en så mager bit som ren." },
-        { "title": "Kallgravning och kallrökning", "body": "Grav med salt och socker (graavi) är hundraårig; kallrök är ännu äldre. Nynordiska kök kombinerar båda. En graavisiika (gravad sik) kallrökt i 4 timmar är den vanligaste fiskförrätten i Lapplands fine dining. Fisken är tekniskt sett rå och konsistensen är silkeslen." },
-        { "title": "Plockad garnering", "body": "Vilda örter och ätbara blommor som ingen kommersiell leverantör i södra Finland kan matcha i färskhet. Harsyra, älggräsblommor, enskott, tallskott, mjölkört, kvanne, Lapplands skog levererar de sista detaljerna på tallriken. Ofta plockade samma morgon." },
-        { "title": "Att använda hela råvaran", "body": "Ett kännetecken för både samisk mat och det nynordiska köket. Benmärg blir redning till sås. Fiskhuvuden blir buljong. Renskinn går till ett garveri, inte en soptunna. Restauranger som tar det på allvar säger det på menyn, \"från nos till svans\" och notan speglar det." }
+        {
+          "title": "Mjölksyrning",
+          "body": "Salt och tid förvandlar råa grönsaker och bär till intensivt smakande, milt syrliga konserver. Mjölksyrade blåbär på en kötträtt är det klassiska Lapplandsgreppet, de skär genom renfettets fyllighet som kapris skär genom smör. Håll utkik efter ord som \"fermenterat\" eller \"inlagt\" på menyn."
+        },
+        {
+          "title": "Sous vide",
+          "body": "Att vakuumförpacka protein och tillaga det i temperaturstyrt vatten till exakt den stekgrad du vill ha. Anledningen till att din renfilé är jämnt rosa från kant till kant utan grå ring runt mitten. Långsamt, exakt och förlåtande och avgörande för en så mager bit som ren."
+        },
+        {
+          "title": "Kallgravning och kallrökning",
+          "body": "Grav med salt och socker (graavi) är hundraårig; kallrök är ännu äldre. Nynordiska kök kombinerar båda. En graavisiika (gravad sik) kallrökt i 4 timmar är den vanligaste fiskförrätten i Lapplands fine dining. Fisken är tekniskt sett rå och konsistensen är silkeslen."
+        },
+        {
+          "title": "Plockad garnering",
+          "body": "Vilda örter och ätbara blommor som ingen kommersiell leverantör i södra Finland kan matcha i färskhet. Harsyra, älggräsblommor, enskott, tallskott, mjölkört, kvanne, Lapplands skog levererar de sista detaljerna på tallriken. Ofta plockade samma morgon."
+        },
+        {
+          "title": "Att använda hela råvaran",
+          "body": "Ett kännetecken för både samisk mat och det nynordiska köket. Benmärg blir redning till sås. Fiskhuvuden blir buljong. Renskinn går till ett garveri, inte en soptunna. Restauranger som tar det på allvar säger det på menyn, \"från nos till svans\" och notan speglar det."
+        }
       ]
     },
     "stayNear": {
@@ -359,9 +680,21 @@
     "intro": {
       "lead": "Att plocka i naturen är inget udda i Finland. Det är en vanlig sommaraktivitet för omkring 40 % av befolkningen.",
       "points": [
-        { "n": "01", "title": "Vanligt, inte smalt", "body": "Omkring 40 % av finländarna plockar. Siffran kommer från hushållsundersökningar av Naturresursinstitutet (Luke), och den går tvärs över stad och landsbygd, ålder och inkomst." },
-        { "n": "02", "title": "Allemansrätten", "body": "Jokamiehenoikeus, inskriven i finsk lag, låter vem som helst, medborgare eller besökare, vandra, tälta och plocka på nästan all mark oavsett vem som äger den." },
-        { "n": "03", "title": "Inga tillstånd, ingen markägare", "body": "Du kan kliva av vägen in i skogen och plocka. Gränserna är etiska (överplocka inte, skada inte växterna) och praktiska (vet vad du plockar), inte juridiska." }
+        {
+          "n": "01",
+          "title": "Vanligt, inte smalt",
+          "body": "Omkring 40 % av finländarna plockar. Siffran kommer från hushållsundersökningar av Naturresursinstitutet (Luke), och den går tvärs över stad och landsbygd, ålder och inkomst."
+        },
+        {
+          "n": "02",
+          "title": "Allemansrätten",
+          "body": "Jokamiehenoikeus, inskriven i finsk lag, låter vem som helst, medborgare eller besökare, vandra, tälta och plocka på nästan all mark oavsett vem som äger den."
+        },
+        {
+          "n": "03",
+          "title": "Inga tillstånd, ingen markägare",
+          "body": "Du kan kliva av vägen in i skogen och plocka. Gränserna är etiska (överplocka inte, skada inte växterna) och praktiska (vet vad du plockar), inte juridiska."
+        }
       ]
     },
     "alert": {
@@ -376,11 +709,56 @@
       "sustainability": "Hållbart"
     },
     "items": [
-      { "name": "Blåbär (Vaccinium myrtillus)", "season": "juli–september", "difficulty": "Lätt", "location": "Torra tallskogar och hedar", "identification": "Låg buske, ovala blad, mörkt blåsvarta bär. Färgar fingrar och tunga blå.", "tips": "Bäst att plocka i mitten av augusti. Plocka bara fullmogna bär.", "safety": "Kan inte förväxlas med giftiga lookalikes, säkert att plocka.", "sustainability": "Plocka inte mer än hälften av bären på en och samma planta." },
-      { "name": "Lingon (Vaccinium vitis-idaea)", "season": "augusti–oktober", "difficulty": "Lätt", "location": "Torra tallskogar och hedar", "identification": "Liten vintergrön buske, blanka runda blad, klarröda bär i klasar.", "tips": "Håller bra efter en frost. Vänta tills de är fullmogna innan du plockar.", "safety": "Skiljer sig från alla giftiga bär, lätt att känna igen.", "sustainability": "Lämna unga och små plantor ifred." },
-      { "name": "Hjortron (Rubus chamaemorus)", "season": "juli–augusti", "difficulty": "Medel", "location": "Myrar och kärr", "identification": "Lågväxande planta, treflikiga blad, ett enda bärnstensorange bär per stjälk.", "tips": "Plocka bara fullmogna bär. Ömtåliga, ta hand om dem snabbt efter plockning.", "safety": "Finns bara i myrterräng, se var du sätter fötterna.", "sustainability": "En arktisk raritet. Ta bara det du behöver." },
-      { "name": "Vild svamp, karljohan och riskor", "season": "juli–september", "difficulty": "Krävande", "location": "Gamla granskogar och blandskog", "identification": "Karljohan: brun hatt, vit fot, svampig undersida. Riska: trattform, mjölkig saft vid snitt.", "tips": "Torka direkt efter plockning. Lär dig artbestämma med 100 % säkerhet först.", "safety": "AVGÖRANDE: bekräfta alltid arten innan du äter någon svamp.", "sustainability": "Skär av vid foten, skada inte mycelet under." },
-      { "name": "Brännässla (Urtica dioica)", "season": "maj–augusti", "difficulty": "Lätt", "location": "Näringsrik jord, nära byggnader och gläntor", "identification": "Sågtandade blad, bränns på bar hud vid beröring.", "tips": "Skörda unga skott. Brännkänslan försvinner helt efter torkning eller kokning.", "safety": "Använd handskar när du plockar.", "sustainability": "Plocka bara de översta bladen, lämna rötterna orörda." }
+      {
+        "name": "Blåbär (Vaccinium myrtillus)",
+        "season": "juli–september",
+        "difficulty": "Lätt",
+        "location": "Torra tallskogar och hedar",
+        "identification": "Låg buske, ovala blad, mörkt blåsvarta bär. Färgar fingrar och tunga blå.",
+        "tips": "Bäst att plocka i mitten av augusti. Plocka bara fullmogna bär.",
+        "safety": "Kan inte förväxlas med giftiga lookalikes, säkert att plocka.",
+        "sustainability": "Plocka inte mer än hälften av bären på en och samma planta."
+      },
+      {
+        "name": "Lingon (Vaccinium vitis-idaea)",
+        "season": "augusti–oktober",
+        "difficulty": "Lätt",
+        "location": "Torra tallskogar och hedar",
+        "identification": "Liten vintergrön buske, blanka runda blad, klarröda bär i klasar.",
+        "tips": "Håller bra efter en frost. Vänta tills de är fullmogna innan du plockar.",
+        "safety": "Skiljer sig från alla giftiga bär, lätt att känna igen.",
+        "sustainability": "Lämna unga och små plantor ifred."
+      },
+      {
+        "name": "Hjortron (Rubus chamaemorus)",
+        "season": "juli–augusti",
+        "difficulty": "Medel",
+        "location": "Myrar och kärr",
+        "identification": "Lågväxande planta, treflikiga blad, ett enda bärnstensorange bär per stjälk.",
+        "tips": "Plocka bara fullmogna bär. Ömtåliga, ta hand om dem snabbt efter plockning.",
+        "safety": "Finns bara i myrterräng, se var du sätter fötterna.",
+        "sustainability": "En arktisk raritet. Ta bara det du behöver."
+      },
+      {
+        "name": "Vild svamp, karljohan och riskor",
+        "season": "juli–september",
+        "difficulty": "Krävande",
+        "location": "Gamla granskogar och blandskog",
+        "identification": "Karljohan: brun hatt, vit fot, svampig undersida. Riska: trattform, mjölkig saft vid snitt.",
+        "tips": "Torka direkt efter plockning. Lär dig artbestämma med 100 % säkerhet först.",
+        "safety": "AVGÖRANDE: bekräfta alltid arten innan du äter någon svamp.",
+        "sustainability": "Skär av vid foten, skada inte mycelet under."
+      },
+      {
+        "name": "Brännässla (Urtica dioica)",
+        "season": "maj–augusti",
+        "difficulty": "Lätt",
+        "location": "Näringsrik jord, nära byggnader och gläntor",
+        "identification": "Sågtandade blad, bränns på bar hud vid beröring.",
+        "tips": "Skörda unga skott. Brännkänslan försvinner helt efter torkning eller kokning.",
+        "safety": "Använd handskar när du plockar.",
+        "sustainability": "Plocka bara de översta bladen, lämna rötterna orörda."
+      }
     ],
     "mushroomSafety": {
       "kicker": "Svampsäkerhet",
@@ -403,14 +781,38 @@
       "headline": "Månad för månad, vad som finns i skogen.",
       "lead": "Lapplands plockningsfönster är kort och intensivt, ungefär maj till slutet av september. Inom det fönstret skiftar det som är i fokus varannan vecka. Det här är kalendern en lokal plockare planerar sommaren efter.",
       "items": [
-        { "month": "maj", "body": "Snön drar sig tillbaka. Första nässlorna, första unga björklöven, björksav (tappad ur stammen och drucken färsk, använd i sirap eller fermenterad). Kallt, men plockningsåret har börjat." },
-        { "month": "juni", "body": "Vilda örter är som bäst, älggräs, röllika, kvanne, syra. De första färska bladen efter sju månader. En del tidiga örter torkas till vinterteer." },
-        { "month": "juli (början)", "body": "Örtfönstret stänger; allt bladar aggressivt. Myrväxterna blommar, hjortronblommorna har satt sig. Det är lugnet före plockningsstormen." },
-        { "month": "juli (slutet)–början av augusti", "body": "Hjortronsäsong, oftast ett fönster på tre veckor beroende på var myren ligger. Årets mest intensiva plockning. Många finska kontor står i praktiken stilla för den." },
-        { "month": "augusti", "body": "Blåbären är som bäst. Första lingonen (fortfarande sura). Första svamparna, kantarellen är oftast först, karljohan tvåa. De ljusa kvällarna gör detta till den bästa månaden för att plocka och laga." },
-        { "month": "september", "body": "Lingonen blir sötare efter första frosten. Svampsäsongen är på topp, karljohan, riskor, kantareller, stensopp. Dagarna kortas snabbt; plockare är ute från soluppgången." },
-        { "month": "oktober", "body": "Sista svamparna. Sista lingonen (nu som bäst efter nattfroster). Sista konserveringsarbetet, torkning, syltning, frysning. Kalendern stänger i praktiken efter första kraftiga snöfallet." },
-        { "month": "november–april", "body": "Skogsvila. Plockningen upphör. Inomhusarbetet, konservering, rökning, torkning, fermentering, tar fart. Pimpelfiske ersätter plockningen som källa till färskt protein." }
+        {
+          "month": "maj",
+          "body": "Snön drar sig tillbaka. Första nässlorna, första unga björklöven, björksav (tappad ur stammen och drucken färsk, använd i sirap eller fermenterad). Kallt, men plockningsåret har börjat."
+        },
+        {
+          "month": "juni",
+          "body": "Vilda örter är som bäst, älggräs, röllika, kvanne, syra. De första färska bladen efter sju månader. En del tidiga örter torkas till vinterteer."
+        },
+        {
+          "month": "juli (början)",
+          "body": "Örtfönstret stänger; allt bladar aggressivt. Myrväxterna blommar, hjortronblommorna har satt sig. Det är lugnet före plockningsstormen."
+        },
+        {
+          "month": "juli (slutet)–början av augusti",
+          "body": "Hjortronsäsong, oftast ett fönster på tre veckor beroende på var myren ligger. Årets mest intensiva plockning. Många finska kontor står i praktiken stilla för den."
+        },
+        {
+          "month": "augusti",
+          "body": "Blåbären är som bäst. Första lingonen (fortfarande sura). Första svamparna, kantarellen är oftast först, karljohan tvåa. De ljusa kvällarna gör detta till den bästa månaden för att plocka och laga."
+        },
+        {
+          "month": "september",
+          "body": "Lingonen blir sötare efter första frosten. Svampsäsongen är på topp, karljohan, riskor, kantareller, stensopp. Dagarna kortas snabbt; plockare är ute från soluppgången."
+        },
+        {
+          "month": "oktober",
+          "body": "Sista svamparna. Sista lingonen (nu som bäst efter nattfroster). Sista konserveringsarbetet, torkning, syltning, frysning. Kalendern stänger i praktiken efter första kraftiga snöfallet."
+        },
+        {
+          "month": "november–april",
+          "body": "Skogsvila. Plockningen upphör. Inomhusarbetet, konservering, rökning, torkning, fermentering, tar fart. Pimpelfiske ersätter plockningen som källa till färskt protein."
+        }
       ]
     },
     "rights": {
@@ -456,9 +858,21 @@
     "intro": {
       "lead": "Matupplevelserna i Lappland som är värda dina pengar är de som placerar dig framför människorna som faktiskt gör det här för sitt levebröd.",
       "points": [
-        { "n": "01", "title": "Små grupper, bokade direkt", "body": "Hoppa över restaurangturen-med-buss: turerna nedan är i små grupper och bokas ofta direkt hos arrangören." },
-        { "n": "02", "title": "Ledda av människor som lever detta", "body": "Samiska plockare, fine dining-kockar, arbetande renskötare. Du äter gott, men den verkliga varan är tillgång: till en renhjord, ett kök, en plockares favoritmyr." },
-        { "n": "03", "title": "Livepriser, inte broschyrpriser", "body": "Varje kort länkar till en livesökning på GetYourGuide, inte en fast produktsida: arrangörer byts ut, datum ändras och priser skiftar, så du ser alltid aktuell tillgänglighet." }
+        {
+          "n": "01",
+          "title": "Små grupper, bokade direkt",
+          "body": "Hoppa över restaurangturen-med-buss: turerna nedan är i små grupper och bokas ofta direkt hos arrangören."
+        },
+        {
+          "n": "02",
+          "title": "Ledda av människor som lever detta",
+          "body": "Samiska plockare, fine dining-kockar, arbetande renskötare. Du äter gott, men den verkliga varan är tillgång: till en renhjord, ett kök, en plockares favoritmyr."
+        },
+        {
+          "n": "03",
+          "title": "Livepriser, inte broschyrpriser",
+          "body": "Varje kort länkar till en livesökning på GetYourGuide, inte en fast produktsida: arrangörer byts ut, datum ändras och priser skiftar, så du ser alltid aktuell tillgänglighet."
+        }
       ]
     },
     "listKicker": "Tre turer värda att göra",
@@ -470,21 +884,39 @@
       {
         "name": "Samisk matkulturresa",
         "description": "En fördjupning i samisk matkultur. Möt lokala producenter, lär dig traditionella tekniker och smaka autentiska smaker direkt från Arktis.",
-        "highlights": ["Besök en renskötare och smaka på bidos-gryta", "Traditionell samisk brödbakning", "Plockning av vilda råvaror med guide", "Matkulturworkshop på samiskt museum", "Besök hos lokala arktiska producenter"],
+        "highlights": [
+          "Besök en renskötare och smaka på bidos-gryta",
+          "Traditionell samisk brödbakning",
+          "Plockning av vilda råvaror med guide",
+          "Matkulturworkshop på samiskt museum",
+          "Besök hos lokala arktiska producenter"
+        ],
         "location": "Regionen Inari–Utsjoki",
         "season": "juni–september"
       },
       {
         "name": "Arktisk fine dining-upplevelse",
         "description": "En exklusiv resa genom Lapplands finaste restauranger. Michelin-rekommenderade ställen och prisbelönta kockar som lagar med de renaste arktiska råvarorna.",
-        "highlights": ["Trerätterslunch på en regional flaggskeppsrestaurang", "Rundtur i köket med köksmästaren", "Masterclass i arktiska råvaror", "Demonstration av fine dining-teknik", "Femrätters gourmetmiddag med vinpaket"],
+        "highlights": [
+          "Trerätterslunch på en regional flaggskeppsrestaurang",
+          "Rundtur i köket med köksmästaren",
+          "Masterclass i arktiska råvaror",
+          "Demonstration av fine dining-teknik",
+          "Femrätters gourmetmiddag med vinpaket"
+        ],
         "location": "Rovaniemi",
         "season": "Året runt"
       },
       {
         "name": "Vild plockningsexpedition",
         "description": "Praktisk guidad plockning i urskog och på myr. Lär dig säker artbestämning av bär, svamp och vilda örter, och laga sedan det du plockar.",
-        "highlights": ["Masterclass i svampsäkerhet", "Plockning av blåbär, lingon och hjortron (i säsong)", "Artbestämning av vilda örter", "Matlagning från plockning till bord över lägereld", "Plockningsguide för Lappland att ta med hem"],
+        "highlights": [
+          "Masterclass i svampsäkerhet",
+          "Plockning av blåbär, lingon och hjortron (i säsong)",
+          "Artbestämning av vilda örter",
+          "Matlagning från plockning till bord över lägereld",
+          "Plockningsguide för Lappland att ta med hem"
+        ],
         "location": "Området Rovaniemi/Levi",
         "season": "juli–september"
       }
@@ -506,9 +938,18 @@
     "factsLeadPrefix": "Michelinguiden för de nordiska länderna uppdateras varje år, för den aktuella stjärnlistan, kolla alltid",
     "factsLeadSuffix": ". Den strukturella bilden nedan är stabil och rätt utgångspunkt om du planerar en fine dining-resa till Finland.",
     "facts": [
-      { "title": "Helsingfors bär stjärnorna", "body": "Finlands Michelin-listade restauranger är koncentrerade till Helsingfors, varje stjärnmärkt finsk restaurang i de senaste utgåvorna av den nordiska guiden har legat i huvudstaden. Åbo och Tammerfors har funnits på inspektörernas radar men stjärnor kommer och går." },
-      { "title": "Lappland är fine dining-ambitiöst", "body": "Lappland självt har för närvarande ingen Michelin-stjärna, men dess premiumrestauranger, Nili, Aanaar, Rakas, driver hur en avsmakningsmenykväll ser ut norr om polcirkeln, med plockade råvaror som inget kök i Helsingfors kan matcha i färskhet." },
-      { "title": "Bordsbokning spelar roll", "body": "Lapplands flaggskepp är små (ofta 30–60 kuvert) och platserna vid kockbordet fylls snabbast. Boka högvintern (mitten av dec → feb) och midnattssolsfönstret (6 juni → 7 juli) minst 6–8 veckor i förväg. Michelin-restaurangerna i Helsingfors har regelbundet 4–6 veckors väntetid." }
+      {
+        "title": "Helsingfors bär stjärnorna",
+        "body": "Finlands Michelin-listade restauranger är koncentrerade till Helsingfors, varje stjärnmärkt finsk restaurang i de senaste utgåvorna av den nordiska guiden har legat i huvudstaden. Åbo och Tammerfors har funnits på inspektörernas radar men stjärnor kommer och går."
+      },
+      {
+        "title": "Lappland är fine dining-ambitiöst",
+        "body": "Lappland självt har för närvarande ingen Michelin-stjärna, men dess premiumrestauranger, Nili, Aanaar, Rakas, driver hur en avsmakningsmenykväll ser ut norr om polcirkeln, med plockade råvaror som inget kök i Helsingfors kan matcha i färskhet."
+      },
+      {
+        "title": "Bordsbokning spelar roll",
+        "body": "Lapplands flaggskepp är små (ofta 30–60 kuvert) och platserna vid kockbordet fylls snabbast. Boka högvintern (mitten av dec → feb) och midnattssolsfönstret (6 juni → 7 juli) minst 6–8 veckor i förväg. Michelin-restaurangerna i Helsingfors har regelbundet 4–6 veckors väntetid."
+      }
     ],
     "helsinki": {
       "kicker": "Michelin i Helsingfors",
@@ -517,25 +958,94 @@
       "ctaHotels": "Hotell i Helsingfors",
       "footnote": "Oberoende redaktionellt innehåll. Inte anslutet till Michelinguiden. Stjärnbeteckningar och Bib Gourmand-listningar gäller endast för den aktuella nordiska guideutgåvan, kolla guide.michelin.com innan du bokar.",
       "rooms": [
-        { "name": "Olo", "where": "Pohjoisesplanadi, Helsingfors", "angle": "En långlivad fine dining-institution. Avsmakningsmenyer med rötter i finska råvaror och klassisk nordisk teknik.", "band": "€€€€" },
-        { "name": "Palace", "where": "10:e våningen, Eteläranta, hamnutsikt", "angle": "Gammaldags hamnutsikt över Helsingfors, modernt utförande. Den klassiska finska fiskrätten (gös, kuha) är signaturen.", "band": "€€€€" },
-        { "name": "Demo", "where": "Uudenmaankatu, Helsingfors", "angle": "En kompakt avsmakningsmenyrestaurang, råvarustyrd, ofta omnämnd i guiden för sitt förhållande mellan pris och skicklighet.", "band": "€€€" },
-        { "name": "Grön", "where": "Albertinkatu, Helsingfors", "angle": "Växtbaserad avsmakningsmeny (grönsaker, fisk, plockat) med ett stramt vinpaket. Bokas ut snabbast i staden.", "band": "€€€€" },
-        { "name": "Inari", "where": "Albertinkatu, Helsingfors", "angle": "Samiskt inspirerad fine dining, samma kockbakgrund som Olo, mindre lokal, mer fokuserad.", "band": "€€€€" },
-        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Modernt nordiskt i en lokal i ett bostadskvarter. Ofta hyllad för kocken Sasu Laukkonens råvarudrivna meny.", "band": "€€€€" },
-        { "name": "Finnjävel", "where": "Helsingfors", "angle": "Modernt finskt, omtänkta klassiker. Mindre dämpat än de andra; mer teatral servering.", "band": "€€€" },
-        { "name": "Ultima", "where": "Helsingfors", "angle": "Avsmakningsmeny med råvaror från en vertikal odling i källaren. Den mest genuint \"Helsingfors 2026\"-restaurangen på listan.", "band": "€€€€" }
+        {
+          "name": "Olo",
+          "where": "Pohjoisesplanadi, Helsingfors",
+          "angle": "En långlivad fine dining-institution. Avsmakningsmenyer med rötter i finska råvaror och klassisk nordisk teknik.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Palace",
+          "where": "10:e våningen, Eteläranta, hamnutsikt",
+          "angle": "Gammaldags hamnutsikt över Helsingfors, modernt utförande. Den klassiska finska fiskrätten (gös, kuha) är signaturen.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Demo",
+          "where": "Uudenmaankatu, Helsingfors",
+          "angle": "En kompakt avsmakningsmenyrestaurang, råvarustyrd, ofta omnämnd i guiden för sitt förhållande mellan pris och skicklighet.",
+          "band": "€€€"
+        },
+        {
+          "name": "Grön",
+          "where": "Albertinkatu, Helsingfors",
+          "angle": "Växtbaserad avsmakningsmeny (grönsaker, fisk, plockat) med ett stramt vinpaket. Bokas ut snabbast i staden.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Inari",
+          "where": "Albertinkatu, Helsingfors",
+          "angle": "Samiskt inspirerad fine dining, samma kockbakgrund som Olo, mindre lokal, mer fokuserad.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Ora",
+          "where": "Huvilakatu, Eira",
+          "angle": "Modernt nordiskt i en lokal i ett bostadskvarter. Ofta hyllad för kocken Sasu Laukkonens råvarudrivna meny.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Finnjävel",
+          "where": "Helsingfors",
+          "angle": "Modernt finskt, omtänkta klassiker. Mindre dämpat än de andra; mer teatral servering.",
+          "band": "€€€"
+        },
+        {
+          "name": "Ultima",
+          "where": "Helsingfors",
+          "angle": "Avsmakningsmeny med råvaror från en vertikal odling i källaren. Den mest genuint \"Helsingfors 2026\"-restaurangen på listan.",
+          "band": "€€€€"
+        }
       ]
     },
     "lapland": {
       "kicker": "Fine dining i Lappland",
       "headline": "Tre restauranger att boka.",
       "lead": "Det här är köken som tar matlagningen tillräckligt allvarligt för att konkurrera med Helsingfors på hantverket på tallriken, samtidigt som de hämtar allt från Lappland. Ingen har en Michelin-stjärna i skrivande stund, men på fem års sikt skulle vilken som helst av dem kunna få det.",
-      "labels": { "signature": "Signaturrätter", "band": "Prisintervall", "booking": "Bokning", "hotelsNearPrefix": "Hotell:" },
+      "labels": {
+        "signature": "Signaturrätter",
+        "band": "Prisintervall",
+        "booking": "Bokning",
+        "hotelsNearPrefix": "Hotell:"
+      },
       "rooms": [
-        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, centrala Rovaniemi · 5 minuters promenad från järnvägsstationen", "angle": "Den mest omnämnda fine dining-restaurangen i Lappland. Samiskt rotade rätter, sous vide-renfilé med blåbärsreduktion är signaturen, vid sidan av ett program på vilda bär som lutar sig mot det plockare i Inari fått in samma morgon. Öppet kök, varm träinredning, 60 kuvert.", "signature": "Sous vide-renfilé · tallgravad röding · hjortronparfait", "band": "€€€, avsmakningsmeny 68 € · à la carte-huvudrätter 28–42 €", "booking": "Boka 3–4 veckor i förväg på sommaren/i december. Drop-in möjligt tis–ons." },
-        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · vid Juutuanjoki-älven", "angle": "Det närmaste en destinationsmiddag djupt inne i sameland. Kocken bygger menyer kring Inaris åtta samiska årstider, mjölksyrade blåbär, rökt renhjärta, kallgravad röding och vinlistan är ovanligt djup för en ort med 7 000 invånare.", "signature": "Avsmakning i 7 rätter på vilda bär · rökt renhjärta · björksirapsparfait", "band": "€€€€, avsmakningsmeny 85 €, med vinpaket 145 €", "booking": "Två sittningar per kväll, 32 kuvert totalt. Boka 6–8 veckor i förväg på vintern och under midnattssolsfönstret." },
-        { "name": "Rakas at Arctic TreeHouse Hotel", "city": "Rovaniemi · vid Santa Park", "address": "Tarvantie 3, 7 km från centrala Rovaniemi · taxi eller hotellets skyttelbuss", "angle": "Matsal med glastak vänd mot norr, helt panoramisk över granskogen, utformad så att du kan se norrskenet under avsmakningsmenyn på vintern. Confiterad arktisk sik under vildörtolja är restaurangens signatur, upplagd med plockade microgreens och ätbara blommor.", "signature": "Confiterad arktisk sik · tallgravad öring · choklad- och lingonkupol", "band": "€€€€, fyrarättersmeny 78 € · sjurättersmeny 115 €", "booking": "Hotellgäster har förtur. Icke-gäster bokar 4 veckor i förväg på vintern." }
+        {
+          "name": "Ravintola Nili",
+          "city": "Rovaniemi",
+          "address": "Valtakatu 20, centrala Rovaniemi · 5 minuters promenad från järnvägsstationen",
+          "angle": "Den mest omnämnda fine dining-restaurangen i Lappland. Samiskt rotade rätter, sous vide-renfilé med blåbärsreduktion är signaturen, vid sidan av ett program på vilda bär som lutar sig mot det plockare i Inari fått in samma morgon. Öppet kök, varm träinredning, 60 kuvert.",
+          "signature": "Sous vide-renfilé · tallgravad röding · hjortronparfait",
+          "band": "€€€, avsmakningsmeny 68 € · à la carte-huvudrätter 28–42 €",
+          "booking": "Boka 3–4 veckor i förväg på sommaren/i december. Drop-in möjligt tis–ons."
+        },
+        {
+          "name": "Restaurant Aanaar",
+          "city": "Inari",
+          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · vid Juutuanjoki-älven",
+          "angle": "Det närmaste en destinationsmiddag djupt inne i sameland. Kocken bygger menyer kring Inaris åtta samiska årstider, mjölksyrade blåbär, rökt renhjärta, kallgravad röding och vinlistan är ovanligt djup för en ort med 7 000 invånare.",
+          "signature": "Avsmakning i 7 rätter på vilda bär · rökt renhjärta · björksirapsparfait",
+          "band": "€€€€, avsmakningsmeny 85 €, med vinpaket 145 €",
+          "booking": "Två sittningar per kväll, 32 kuvert totalt. Boka 6–8 veckor i förväg på vintern och under midnattssolsfönstret."
+        },
+        {
+          "name": "Rakas at Arctic TreeHouse Hotel",
+          "city": "Rovaniemi · vid Santa Park",
+          "address": "Tarvantie 3, 7 km från centrala Rovaniemi · taxi eller hotellets skyttelbuss",
+          "angle": "Matsal med glastak vänd mot norr, helt panoramisk över granskogen, utformad så att du kan se norrskenet under avsmakningsmenyn på vintern. Confiterad arktisk sik under vildörtolja är restaurangens signatur, upplagd med plockade microgreens och ätbara blommor.",
+          "signature": "Confiterad arktisk sik · tallgravad öring · choklad- och lingonkupol",
+          "band": "€€€€, fyrarättersmeny 78 € · sjurättersmeny 115 €",
+          "booking": "Hotellgäster har förtur. Icke-gäster bokar 4 veckor i förväg på vintern."
+        }
       ]
     },
     "courseFlow": {
@@ -543,24 +1053,68 @@
       "headline": "En finsk avsmakningsmeny, rätt för rätt.",
       "lead": "Strukturen är densamma i både Michelin-restaurangerna i Helsingfors och Lapplands flaggskeppskök. Att känna till det ungefärliga flödet hjälper dig att dosera vinet, spara plats till efterrätten och inte få panik när notan kommer.",
       "items": [
-        { "n": "01", "label": "Välkomsttilltugg", "body": "Två eller tre små tilltugg vid bordet, inlagda grönsaker, rökt fisk på råg, en shot buljong på plockade örter. Sätter säsongens ton." },
-        { "n": "02", "label": "Kall öppning", "body": "Röding eller sik i någon form, gravad, rökt eller som tartar. Nästan alltid med ett inslag av plockade örter." },
-        { "n": "03", "label": "Varm förrätt", "body": "Svamp- eller rotfruktsrätt på hösten; bär- eller örtdriven rätt på sommaren. Här visar kockarna upp sitt fermenteringsarbete." },
-        { "n": "04", "label": "Fiskrätt", "body": "Gös, öring eller gädda, beroende på vad de lokala fiskarna fått in. Tillagad rosa i mitten, med en smör- eller gräddsås." },
-        { "n": "05", "label": "Ren eller vilt", "body": "Huvudproteinet. Filé sous vide, långbräserad bog eller rökt sadel. Blåbär, lingon eller enbär förankrar tallriken." },
-        { "n": "06", "label": "Ost (valfritt)", "body": "Lagrad finsk ost, i Lappi- eller Tervaleipäjuusto-stil, med tjärhonung eller hjortronsylt." },
-        { "n": "07", "label": "Fördessert", "body": "En liten gomrensare, björksavssorbet, hjortronconsommé, lingongranité." },
-        { "n": "08", "label": "Efterrätt", "body": "Hjortronparfait eller choklad- och lingonkupol är de två vanligaste. Kaffet kommer i en kopparkittel." }
+        {
+          "n": "01",
+          "label": "Välkomsttilltugg",
+          "body": "Två eller tre små tilltugg vid bordet, inlagda grönsaker, rökt fisk på råg, en shot buljong på plockade örter. Sätter säsongens ton."
+        },
+        {
+          "n": "02",
+          "label": "Kall öppning",
+          "body": "Röding eller sik i någon form, gravad, rökt eller som tartar. Nästan alltid med ett inslag av plockade örter."
+        },
+        {
+          "n": "03",
+          "label": "Varm förrätt",
+          "body": "Svamp- eller rotfruktsrätt på hösten; bär- eller örtdriven rätt på sommaren. Här visar kockarna upp sitt fermenteringsarbete."
+        },
+        {
+          "n": "04",
+          "label": "Fiskrätt",
+          "body": "Gös, öring eller gädda, beroende på vad de lokala fiskarna fått in. Tillagad rosa i mitten, med en smör- eller gräddsås."
+        },
+        {
+          "n": "05",
+          "label": "Ren eller vilt",
+          "body": "Huvudproteinet. Filé sous vide, långbräserad bog eller rökt sadel. Blåbär, lingon eller enbär förankrar tallriken."
+        },
+        {
+          "n": "06",
+          "label": "Ost (valfritt)",
+          "body": "Lagrad finsk ost, i Lappi- eller Tervaleipäjuusto-stil, med tjärhonung eller hjortronsylt."
+        },
+        {
+          "n": "07",
+          "label": "Fördessert",
+          "body": "En liten gomrensare, björksavssorbet, hjortronconsommé, lingongranité."
+        },
+        {
+          "n": "08",
+          "label": "Efterrätt",
+          "body": "Hjortronparfait eller choklad- och lingonkupol är de två vanligaste. Kaffet kommer i en kopparkittel."
+        }
       ]
     },
     "bookingNotes": {
       "headline": "Fyra saker förstagångsbesökare gör fel.",
       "lead": "Lapplandsköken är förlåtande. De är ändå små lokaler med kockledd servering. Det här är de fyra rättelser vi ger en vän inför den första bokningen.",
       "items": [
-        { "label": "Räkna med minst 3 timmar", "body": "En full avsmakningsmeny i Lappland tar 2,5–3,5 timmar. Boka ingen föreställning klockan 21 efteråt." },
-        { "label": "Vinpaket lönar sig", "body": "De flesta av Lapplands flaggskepp har en sommelier som väljer europeiska viner från små producenter. Vinpaket kostar 45–95 € utöver menyn." },
-        { "label": "Berätta om allergier tidigt", "body": "Avsmakningsmenyer är förbestämda och innehåller komplexa plockade råvaror. Allergier / vegetariskt / veganskt: nämn det vid bokningen, inte på kvällen." },
-        { "label": "Ledigt men vårdat", "body": "Ingen restaurang i Finland avvisar dig i jeans, men lokalerna förväntar sig lite ansträngning. Sneakers och luvtröjor känns malplacerade." }
+        {
+          "label": "Räkna med minst 3 timmar",
+          "body": "En full avsmakningsmeny i Lappland tar 2,5–3,5 timmar. Boka ingen föreställning klockan 21 efteråt."
+        },
+        {
+          "label": "Vinpaket lönar sig",
+          "body": "De flesta av Lapplands flaggskepp har en sommelier som väljer europeiska viner från små producenter. Vinpaket kostar 45–95 € utöver menyn."
+        },
+        {
+          "label": "Berätta om allergier tidigt",
+          "body": "Avsmakningsmenyer är förbestämda och innehåller komplexa plockade råvaror. Allergier / vegetariskt / veganskt: nämn det vid bokningen, inte på kvällen."
+        },
+        {
+          "label": "Ledigt men vårdat",
+          "body": "Ingen restaurang i Finland avvisar dig i jeans, men lokalerna förväntar sig lite ansträngning. Sneakers och luvtröjor känns malplacerade."
+        }
       ]
     },
     "stayNear": {
@@ -589,23 +1143,62 @@
       "headline": "Vad vi tar upp.",
       "lead": "Sex pelare. Var och en är en djup sida som skulle kunna stå för sig själv. Tillsammans bildar de fältguiden vi önskar hade funnits när vi började skriva om den här regionen.",
       "items": [
-        { "t": "Lokala råvaror", "body": "Vad som växer, simmar och betar här. Ren, hjortron, blåbär, arktisk fisk, plockade örter. Var de kommer ifrån, när de är som bäst.", "href": "/local-ingredients" },
-        { "t": "Traditionella recept", "body": "Bidos, gahkku, Sápmi-fisksoppa, kräm på vilda bär, plus det kulturella sammanhang som förklarar varför de ser ut som de gör.", "href": "/traditional-recipes" },
-        { "t": "Moderna Lappland", "body": "Nynordisk teknik tillämpad på Lapplands råvaror. Sous vide, fermentering, kallgravning, plockad garnering. Var du kan smaka på det.", "href": "/modern-lapland" },
-        { "t": "Plockningsguide", "body": "Fem centrala vildmatsråvaror, svampsäkerhet i detalj, en säsongskalender över 8 månader och allemansrätten som gör allt lagligt.", "href": "/foraging-guide" },
-        { "t": "Michelin och fine dining", "body": "Helsingfors Michelin-scen, Lapplands tre flaggskeppsrestauranger, hur en avsmakningsmeny faktiskt ser ut, hur bokningen fungerar.", "href": "/michelin-dining" },
-        { "t": "Matturer och matlagningskurser", "body": "Matupplevelserna värda att boka, samiska matresor, fine dining-turer, plockningsvandringar. Utvalda, inte uttömmande.", "href": "/food-tours" }
+        {
+          "t": "Lokala råvaror",
+          "body": "Vad som växer, simmar och betar här. Ren, hjortron, blåbär, arktisk fisk, plockade örter. Var de kommer ifrån, när de är som bäst.",
+          "href": "/local-ingredients"
+        },
+        {
+          "t": "Traditionella recept",
+          "body": "Bidos, gahkku, Sápmi-fisksoppa, kräm på vilda bär, plus det kulturella sammanhang som förklarar varför de ser ut som de gör.",
+          "href": "/traditional-recipes"
+        },
+        {
+          "t": "Moderna Lappland",
+          "body": "Nynordisk teknik tillämpad på Lapplands råvaror. Sous vide, fermentering, kallgravning, plockad garnering. Var du kan smaka på det.",
+          "href": "/modern-lapland"
+        },
+        {
+          "t": "Plockningsguide",
+          "body": "Fem centrala vildmatsråvaror, svampsäkerhet i detalj, en säsongskalender över 8 månader och allemansrätten som gör allt lagligt.",
+          "href": "/foraging-guide"
+        },
+        {
+          "t": "Michelin och fine dining",
+          "body": "Helsingfors Michelin-scen, Lapplands tre flaggskeppsrestauranger, hur en avsmakningsmeny faktiskt ser ut, hur bokningen fungerar.",
+          "href": "/michelin-dining"
+        },
+        {
+          "t": "Matturer och matlagningskurser",
+          "body": "Matupplevelserna värda att boka, samiska matresor, fine dining-turer, plockningsvandringar. Utvalda, inte uttömmande.",
+          "href": "/food-tours"
+        }
       ]
     },
     "principles": {
       "headline": "Hur vi väljer vad vi rekommenderar.",
       "lead": "Vi är en oberoende utgivare. Principerna nedan är hur vi håller det ärligt.",
       "items": [
-        { "t": "Rekommendera som du skulle göra till en vän", "body": "Det enklaste filtret. Varje restaurang, tur, råvaruleverantör och producent på den här sajten är en vi skulle skicka en vän till. Skulle vi inte det, hamnar den inte på sidan." },
-        { "t": "Konkret framför känsla", "body": "Ett påstående som \"den bästa fine diningen i Lappland\" är meningslöst utan detaljer. Vi berättar vad du ska beställa, vad det kostar, när du ska boka, var du går in ifrån. Allt vi inte kan knyta till något konkret lämnar vi bort." },
-        { "t": "Affiliate ändrar inte innehållet", "body": "Vissa bokningslänkar ger oss provision om du bokar via dem. Ingen av de länkarna låser upp innehåll, ändrar ordningen på rekommendationerna eller köper en plats på sidan. Samma restauranger skulle finnas på sidan om inget affiliateprogram fanns." },
-        { "t": "Inga påhittade siffror, inga påhittade citat", "body": "Om vi anger en siffra har den en källa vi kan peka på. Om vi citerar en kock har vi pratat med hen. Om vi är osäkra på något, aktuellt antal Michelin-stjärnor, exakt vilket år en tradition började, säger vi det och länkar till den auktoritativa källan." },
-        { "t": "Uppdatera framför att radera", "body": "Restauranger stänger, kockar flyttar, priser skiftar. När vi upptäcker att en sida är fel uppdaterar vi den med en datumstämpel. Vi låtsas inte att den felaktiga versionen aldrig fanns." }
+        {
+          "t": "Rekommendera som du skulle göra till en vän",
+          "body": "Det enklaste filtret. Varje restaurang, tur, råvaruleverantör och producent på den här sajten är en vi skulle skicka en vän till. Skulle vi inte det, hamnar den inte på sidan."
+        },
+        {
+          "t": "Konkret framför känsla",
+          "body": "Ett påstående som \"den bästa fine diningen i Lappland\" är meningslöst utan detaljer. Vi berättar vad du ska beställa, vad det kostar, när du ska boka, var du går in ifrån. Allt vi inte kan knyta till något konkret lämnar vi bort."
+        },
+        {
+          "t": "Affiliate ändrar inte innehållet",
+          "body": "Vissa bokningslänkar ger oss provision om du bokar via dem. Ingen av de länkarna låser upp innehåll, ändrar ordningen på rekommendationerna eller köper en plats på sidan. Samma restauranger skulle finnas på sidan om inget affiliateprogram fanns."
+        },
+        {
+          "t": "Inga påhittade siffror, inga påhittade citat",
+          "body": "Om vi anger en siffra har den en källa vi kan peka på. Om vi citerar en kock har vi pratat med hen. Om vi är osäkra på något, aktuellt antal Michelin-stjärnor, exakt vilket år en tradition började, säger vi det och länkar till den auktoritativa källan."
+        },
+        {
+          "t": "Uppdatera framför att radera",
+          "body": "Restauranger stänger, kockar flyttar, priser skiftar. När vi upptäcker att en sida är fel uppdaterar vi den med en datumstämpel. Vi låtsas inte att den felaktiga versionen aldrig fanns."
+        }
       ]
     },
     "network": {
@@ -628,7 +1221,16 @@
       "cookieLabel": "Cookiepolicy"
     }
   },
-  "privacy": { "title": "Integritetspolicy | LaplandFood", "description": "Hur LaplandFood hanterar dina uppgifter." },
-  "terms": { "title": "Användarvillkor | LaplandFood", "description": "Användarvillkor för LaplandFood." },
-  "cookie": { "title": "Cookiepolicy | LaplandFood", "description": "Hur LaplandFood använder cookies." }
+  "privacy": {
+    "title": "Integritetspolicy | LaplandFood",
+    "description": "Hur LaplandFood hanterar dina uppgifter."
+  },
+  "terms": {
+    "title": "Användarvillkor | LaplandFood",
+    "description": "Användarvillkor för LaplandFood."
+  },
+  "cookie": {
+    "title": "Cookiepolicy | LaplandFood",
+    "description": "Hur LaplandFood använder cookies."
+  }
 }

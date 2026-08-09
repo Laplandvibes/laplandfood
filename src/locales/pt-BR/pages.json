@@ -9,7 +9,7 @@
   },
   "newsletter": {
     "kicker": "A newsletter da #LaplandVibes",
-    "headline": "Só quando há algo que realmente vale a pena contar.",
+    "headline": "O que a Lapônia está comendo agora.",
     "subhead": "A receita da estação que vale provar, o restaurante que vale o desvio, a janela de colheita que você não deveria perder. Seleção editorial escrita da Finlândia.",
     "emailPlaceholder": "voce@exemplo.com",
     "submit": "Inscrever-se",
@@ -26,9 +26,21 @@
     "subhead": "A LaplandFood é o mapa cultural. Para a mesa em que você realmente vai sentar, o chope que vai de fato pedir e os lugares que ficam abertos depois da meia-noite, vá aos sites irmãos abaixo.",
     "visitLabel": "Visitar",
     "items": [
-      { "title": "Reservar uma mesa", "eyebrow": "LaplandDining", "body": "Onde comer de verdade: mais de 60 restaurantes selecionados por toda a Lapônia, com cardápios, horários e links de reserva diretos." },
-      { "title": "Encontrar um bar ou cervejaria", "eyebrow": "LaplandBars", "body": "Cervejarias artesanais, bares de gelo, bares de hotel e os pubs locais onde os finlandeses realmente bebem, com o que servem e a que horas abrem." },
-      { "title": "A Lapônia depois do jantar", "eyebrow": "LaplandNightlife", "body": "DJs, cozinhas abertas até tarde, casas de música ao vivo, o calendário de festas da noite polar o que fazer quando a cozinha fecha." }
+      {
+        "title": "Reservar uma mesa",
+        "eyebrow": "LaplandDining",
+        "body": "Onde comer de verdade: mais de 60 restaurantes selecionados por toda a Lapônia, com cardápios, horários e links de reserva diretos."
+      },
+      {
+        "title": "Encontrar um bar ou cervejaria",
+        "eyebrow": "LaplandBars",
+        "body": "Cervejarias artesanais, bares de gelo, bares de hotel e os pubs locais onde os finlandeses realmente bebem, com o que servem e a que horas abrem."
+      },
+      {
+        "title": "A Lapônia depois do jantar",
+        "eyebrow": "LaplandNightlife",
+        "body": "DJs, cozinhas abertas até tarde, casas de música ao vivo, o calendário de festas da noite polar o que fazer quando a cozinha fecha."
+      }
     ]
   },
   "home": {
@@ -56,21 +68,61 @@
       "kitchens": "Cozinhas de destaque da Lapônia"
     },
     "pillars": [
-      { "eyebrow": "Pilar 01", "title": "Ingredientes locais", "body": "O que realmente cresce, nada e pasta aqui, rena, amoras árticas, mirtilos, peixe ártico, ervas silvestres. Estações, procedência e por que o sabor é o que é." },
-      { "eyebrow": "Pilar 02", "title": "Receitas tradicionais", "body": "Ensopado de rena bidos, pão sami, sopa de peixe de lago, kissel de frutas silvestres, as receitas que alimentaram a Sápmi pelos invernos árticos por milhares de anos." },
-      { "eyebrow": "Pilar 03", "title": "Lapônia moderna", "body": "Como uma nova geração de chefs cozinha os mesmos ingredientes com sous-vide, fermentação e técnica nórdica nova. Onde provar." },
-      { "eyebrow": "Pilar 04", "title": "Guia de colheita silvestre", "body": "Mirtilo, airela-vermelha, amora ártica, cogumelos, urtiga, ulmária o que colher e quando, como identificar e como fazer de forma sustentável amparado pelo direito de acesso à natureza." },
-      { "eyebrow": "Pilar 05", "title": "Michelin e alta gastronomia", "body": "A cena Michelin da Finlândia num relance: o que tem estrela, onde, e o que está empurrando a alta gastronomia para dentro do Círculo Polar Ártico." },
-      { "eyebrow": "Pilar 06", "title": "Tours gastronômicos e aulas de cozinha", "body": "Jornadas gastronômicas samis, tours de alta gastronomia, caminhadas de colheita, visitas a cervejarias, experiências gastronômicas reserváveis por toda a Lapônia." }
+      {
+        "eyebrow": "Pilar 01",
+        "title": "Ingredientes locais",
+        "body": "O que realmente cresce, nada e pasta aqui, rena, amoras árticas, mirtilos, peixe ártico, ervas silvestres. Estações, procedência e por que o sabor é o que é."
+      },
+      {
+        "eyebrow": "Pilar 02",
+        "title": "Receitas tradicionais",
+        "body": "Ensopado de rena bidos, pão sami, sopa de peixe de lago, kissel de frutas silvestres, as receitas que alimentaram a Sápmi pelos invernos árticos por milhares de anos."
+      },
+      {
+        "eyebrow": "Pilar 03",
+        "title": "Lapônia moderna",
+        "body": "Como uma nova geração de chefs cozinha os mesmos ingredientes com sous-vide, fermentação e técnica nórdica nova. Onde provar."
+      },
+      {
+        "eyebrow": "Pilar 04",
+        "title": "Guia de colheita silvestre",
+        "body": "Mirtilo, airela-vermelha, amora ártica, cogumelos, urtiga, ulmária o que colher e quando, como identificar e como fazer de forma sustentável amparado pelo direito de acesso à natureza."
+      },
+      {
+        "eyebrow": "Pilar 05",
+        "title": "Michelin e alta gastronomia",
+        "body": "A cena Michelin da Finlândia num relance: o que tem estrela, onde, e o que está empurrando a alta gastronomia para dentro do Círculo Polar Ártico."
+      },
+      {
+        "eyebrow": "Pilar 06",
+        "title": "Tours gastronômicos e aulas de cozinha",
+        "body": "Jornadas gastronômicas samis, tours de alta gastronomia, caminhadas de colheita, visitas a cervejarias, experiências gastronômicas reserváveis por toda a Lapônia."
+      }
     ],
     "cultureKicker": "Por que tem o gosto que tem",
     "cultureHeadline": "Quatro coisas que tornam a comida finlandesa finlandesa.",
     "cultureLead": "Tire as modas e quase toda a culinária finlandesa ainda se apoia nestes quatro fundamentos. Eles explicam tudo, do porquê de seu café da manhã de hotel ter pão crocante de centeio ao porquê de um menu degustação de alta gastronomia começar com peixe curado em zimbro.",
     "culture": [
-      { "n": "01", "title": "Oito estações, não quatro", "body": "O calendário sami divide o ano em oito estações. Cada uma define o que vai à mesa, pesca no gelo na noite polar, colheita de amoras árticas sob o sol da meia-noite, coleta de cogumelos e ervas antes da primeira geada." },
-      { "n": "02", "title": "O direito de acesso à natureza", "body": "O jokamiehenoikeus finlandês permite que qualquer pessoa colha frutas silvestres, cogumelos e ervas na maior parte das terras, sejam de propriedade privada ou não. É um dos poucos arcabouços legais do mundo que trata a despensa silvestre como um recurso compartilhado." },
-      { "n": "03", "title": "Aproveitamento integral do animal", "body": "Na cultura gastronômica sami nada da rena é desperdiçado: carne, tutano, sangue, gordura, couro, osso. As receitas evoluíram em torno do aproveitamento total, por isso o bidos usa cortes mais duros e por isso as panquecas de sangue (verilettut) viraram um clássico finlandês." },
-      { "n": "04", "title": "Pouco temperada, guiada pelo ingrediente", "body": "A comida finlandesa raramente grita. Os sabores são endro, zimbro, manteiga, sal e o próprio ingrediente. A cozinha é construída para deixar o ingrediente falar, um contraste silencioso diante das cozinhas mais barulhentas do sul." }
+      {
+        "n": "01",
+        "title": "Oito estações, não quatro",
+        "body": "O calendário sami divide o ano em oito estações. Cada uma define o que vai à mesa, pesca no gelo na noite polar, colheita de amoras árticas sob o sol da meia-noite, coleta de cogumelos e ervas antes da primeira geada."
+      },
+      {
+        "n": "02",
+        "title": "O direito de acesso à natureza",
+        "body": "O jokamiehenoikeus finlandês permite que qualquer pessoa colha frutas silvestres, cogumelos e ervas na maior parte das terras, sejam de propriedade privada ou não. É um dos poucos arcabouços legais do mundo que trata a despensa silvestre como um recurso compartilhado."
+      },
+      {
+        "n": "03",
+        "title": "Aproveitamento integral do animal",
+        "body": "Na cultura gastronômica sami nada da rena é desperdiçado: carne, tutano, sangue, gordura, couro, osso. As receitas evoluíram em torno do aproveitamento total, por isso o bidos usa cortes mais duros e por isso as panquecas de sangue (verilettut) viraram um clássico finlandês."
+      },
+      {
+        "n": "04",
+        "title": "Pouco temperada, guiada pelo ingrediente",
+        "body": "A comida finlandesa raramente grita. Os sabores são endro, zimbro, manteiga, sal e o próprio ingrediente. A cozinha é construída para deixar o ingrediente falar, um contraste silencioso diante das cozinhas mais barulhentas do sul."
+      }
     ],
     "summer": {
       "kicker": "6 de junho – 7 de julho · 32 dias de sol da meia-noite",
@@ -85,11 +137,26 @@
       "stillPrefix": "Ficou alguma dúvida? Escreva para ",
       "stillSuffix": ". A gente responde.",
       "items": [
-        { "question": "Como é a comida tradicional finlandesa?", "answer": "A cozinha tradicional finlandesa se apoia no que cresce, nada ou pasta por perto: pão de centeio, peixe de água doce, rena, frutas silvestres como bilberry, lingonberry e cloudberry, cogumelos colhidos na floresta e laticínios. É uma cozinha sazonal, de temperos leves, centrada no ingrediente e não na técnica." },
-        { "question": "A Finlândia tem restaurantes com estrela Michelin?", "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas suas cozinhas de ponta, Nili, Aanaar, Rakas, estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar." },
-        { "question": "O que é a comida sámi?", "answer": "A comida sámi é a cozinha indígena de Sápmi, região que atravessa o norte da Finlândia, Suécia, Noruega e Rússia. Gira em torno da rena, cada parte é aproveitada, do peixe ártico, de frutas e ervas colhidas e de cozimentos lentos como o ensopado bidos. As receitas seguem o calendário sámi de oito estações." },
-        { "question": "Visitantes podem colher frutas e cogumelos na Finlândia?", "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa, moradora ou visitante, colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a cicuta-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura." },
-        { "question": "Quando é a temporada de cloudberry na Lapônia?", "answer": "Mais ou menos de meados de julho a meados de agosto, com uma janela intensa de colheita de cerca de três semanas, dependendo da turfeira. A cloudberry só cresce em turfeiras árticas frias e resiste ao cultivo, por isso é a fruta silvestre mais valorizada, e mais cara, da Lapônia." }
+        {
+          "question": "Como é a comida tradicional finlandesa?",
+          "answer": "A cozinha tradicional finlandesa se apoia no que cresce, nada ou pasta por perto: pão de centeio, peixe de água doce, rena, frutas silvestres como bilberry, lingonberry e cloudberry, cogumelos colhidos na floresta e laticínios. É uma cozinha sazonal, de temperos leves, centrada no ingrediente e não na técnica."
+        },
+        {
+          "question": "A Finlândia tem restaurantes com estrela Michelin?",
+          "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas suas cozinhas de ponta, Nili, Aanaar, Rakas, estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar."
+        },
+        {
+          "question": "O que é a comida sámi?",
+          "answer": "A comida sámi é a cozinha indígena de Sápmi, região que atravessa o norte da Finlândia, Suécia, Noruega e Rússia. Gira em torno da rena, cada parte é aproveitada, do peixe ártico, de frutas e ervas colhidas e de cozimentos lentos como o ensopado bidos. As receitas seguem o calendário sámi de oito estações."
+        },
+        {
+          "question": "Visitantes podem colher frutas e cogumelos na Finlândia?",
+          "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa, moradora ou visitante, colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a cicuta-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura."
+        },
+        {
+          "question": "Quando é a temporada de cloudberry na Lapônia?",
+          "answer": "Mais ou menos de meados de julho a meados de agosto, com uma janela intensa de colheita de cerca de três semanas, dependendo da turfeira. A cloudberry só cresce em turfeiras árticas frias e resiste ao cultivo, por isso é a fruta silvestre mais valorizada, e mais cara, da Lapônia."
+        }
       ]
     }
   },
@@ -107,20 +174,71 @@
     "intro": {
       "lead": "A despensa da Lapônia é curta. É essa a sua força.",
       "points": [
-        { "n": "01", "title": "Seis ingredientes, uma mão", "body": "Rena, peixe de lago, frutas e cogumelos colhidos, ervas silvestres, laticínios: essa é toda a despensa. Não há um 30º ingrediente escondido; a habilidade está no que se aprendeu a fazer com esses seis." },
-        { "n": "02", "title": "Quase tudo é silvestre", "body": "Isso separa a Lapônia de quase toda outra cultura gastronômica da Europa. Até as renas vivem em dezenas de milhares de quilômetros quadrados de natureza sem cercas." },
-        { "n": "03", "title": "Silvestre significa safras", "body": "Ingredientes silvestres variam de ano a ano e de lugar a lugar como os cultivados nunca variam: as cloudberries de uma turfeira em Inari têm gosto diferente das colhidas 80 quilômetros ao sul." }
+        {
+          "n": "01",
+          "title": "Seis ingredientes, uma mão",
+          "body": "Rena, peixe de lago, frutas e cogumelos colhidos, ervas silvestres, laticínios: essa é toda a despensa. Não há um 30º ingrediente escondido; a habilidade está no que se aprendeu a fazer com esses seis."
+        },
+        {
+          "n": "02",
+          "title": "Quase tudo é silvestre",
+          "body": "Isso separa a Lapônia de quase toda outra cultura gastronômica da Europa. Até as renas vivem em dezenas de milhares de quilômetros quadrados de natureza sem cercas."
+        },
+        {
+          "n": "03",
+          "title": "Silvestre significa safras",
+          "body": "Ingredientes silvestres variam de ano a ano e de lugar a lugar como os cultivados nunca variam: as cloudberries de uma turfeira em Inari têm gosto diferente das colhidas 80 quilômetros ao sul."
+        }
       ]
     },
     "ingredients": [
-      { "name": "Rena e caça", "season": "O ano todo · melhor de out. a mar.", "description": "O coração da cozinha ártica. Renas em liberdade criadas em natureza intocada, a proteína mais importante da cultura sami há milhares de anos.", "nutritional": "Rica em proteína, baixa em gordura, rica em B12 e ferro", "uses": "Na grelha, secagem, defumação, ensopados em fogo baixo" },
-      { "name": "Mirtilos e airelas-vermelhas", "season": "Agosto–setembro", "description": "Superfrutas árticas repletas de antioxidantes. Crescem silvestres sob o sol da meia-noite na tundra e na floresta boreal.", "nutritional": "Antioxidantes, vitamina C, fibras alimentares", "uses": "Geleias, sucos, panificação, secagem" },
-      { "name": "Cogumelos silvestres, boletos e lactários", "season": "Julho–setembro", "description": "O ouro da floresta, das matas antigas da Lapônia. Tradicionalmente secos para conservar no inverno.", "nutritional": "Proteína, fibras, vitamina D", "uses": "Secagem, conservas, sopas, molhos" },
-      { "name": "Peixe de água doce ártica", "season": "O ano todo · pesca no gelo no inverno", "description": "Peixe de lagos cristalinos, coregono, lúcio, perca, truta. A pesca no gelo é uma querida tradição de inverno por toda a Lapônia.", "nutritional": "Ácidos graxos ômega-3, alto teor de proteína, fósforo", "uses": "Defumação, salga, grelha, sopas" },
-      { "name": "Ervas silvestres, ulmária e urtiga", "season": "Junho–agosto", "description": "O poder das plantas silvestres. Ervas medicinais e culinárias tradicionais usadas na cultura sami por gerações.", "nutritional": "Minerais, vitaminas, flavonoides", "uses": "Chás, saladas, sopas, secagem" },
-      { "name": "Amoras árticas", "season": "De meados de julho a meados de agosto", "description": "A joia dourada da Lapônia. Cresce apenas em pântanos e brejos árticos, uma das frutas silvestres mais raras e cobiçadas do mundo.", "nutritional": "Vitamina C, vitamina E, ácidos graxos ômega-3", "uses": "Geleias, sobremesas, licor, in natura" }
+      {
+        "name": "Rena e caça",
+        "season": "O ano todo · melhor de out. a mar.",
+        "description": "O coração da cozinha ártica. Renas em liberdade criadas em natureza intocada, a proteína mais importante da cultura sami há milhares de anos.",
+        "nutritional": "Rica em proteína, baixa em gordura, rica em B12 e ferro",
+        "uses": "Na grelha, secagem, defumação, ensopados em fogo baixo"
+      },
+      {
+        "name": "Mirtilos e airelas-vermelhas",
+        "season": "Agosto–setembro",
+        "description": "Superfrutas árticas repletas de antioxidantes. Crescem silvestres sob o sol da meia-noite na tundra e na floresta boreal.",
+        "nutritional": "Antioxidantes, vitamina C, fibras alimentares",
+        "uses": "Geleias, sucos, panificação, secagem"
+      },
+      {
+        "name": "Cogumelos silvestres, boletos e lactários",
+        "season": "Julho–setembro",
+        "description": "O ouro da floresta, das matas antigas da Lapônia. Tradicionalmente secos para conservar no inverno.",
+        "nutritional": "Proteína, fibras, vitamina D",
+        "uses": "Secagem, conservas, sopas, molhos"
+      },
+      {
+        "name": "Peixe de água doce ártica",
+        "season": "O ano todo · pesca no gelo no inverno",
+        "description": "Peixe de lagos cristalinos, coregono, lúcio, perca, truta. A pesca no gelo é uma querida tradição de inverno por toda a Lapônia.",
+        "nutritional": "Ácidos graxos ômega-3, alto teor de proteína, fósforo",
+        "uses": "Defumação, salga, grelha, sopas"
+      },
+      {
+        "name": "Ervas silvestres, ulmária e urtiga",
+        "season": "Junho–agosto",
+        "description": "O poder das plantas silvestres. Ervas medicinais e culinárias tradicionais usadas na cultura sami por gerações.",
+        "nutritional": "Minerais, vitaminas, flavonoides",
+        "uses": "Chás, saladas, sopas, secagem"
+      },
+      {
+        "name": "Amoras árticas",
+        "season": "De meados de julho a meados de agosto",
+        "description": "A joia dourada da Lapônia. Cresce apenas em pântanos e brejos árticos, uma das frutas silvestres mais raras e cobiçadas do mundo.",
+        "nutritional": "Vitamina C, vitamina E, ácidos graxos ômega-3",
+        "uses": "Geleias, sobremesas, licor, in natura"
+      }
     ],
-    "labels": { "nutrition": "Nutrição:", "usedIn": "Usado em:" },
+    "labels": {
+      "nutrition": "Nutrição:",
+      "usedIn": "Usado em:"
+    },
     "reindeerDeep": {
       "kicker": "A fundo · A rena",
       "headline": "Como uma rena chega a um prato da Lapônia.",
@@ -171,18 +289,39 @@
     "intro": {
       "lead": "As receitas desta página não são herança no sentido de museu lacrado. Elas ainda são cozinhadas.",
       "points": [
-        { "n": "01", "title": "Ainda se cozinha toda terça", "body": "Entre numa casa sámi em Inari ou Utsjoki em novembro e o bidos estará no fogo: o mesmo ensopado de rena cozido devagar que a avó fazia, com os mesmos cortes, no mesmo fogo que mal sussurra." },
-        { "n": "02", "title": "Sobreviveu com a própria despensa", "body": "A cozinha sámi sobreviveu à maioria das culturas alimentares árticas pré-industriais porque nunca precisou de importações para ter o próprio gosto: rena, peixe de lago, frutas, ervas silvestres, centeio, manteiga, sal." },
-        { "n": "03", "title": "Quatro portas de entrada", "body": "O bidos é o prato de proteína da alma, o gahkku o pão de cada dia, a sopa de peixe de Sápmi o que o lago deu naquela semana, e o kissel de frutas silvestres o jeito de conservar o verão." }
+        {
+          "n": "01",
+          "title": "Ainda se cozinha toda terça",
+          "body": "Entre numa casa sámi em Inari ou Utsjoki em novembro e o bidos estará no fogo: o mesmo ensopado de rena cozido devagar que a avó fazia, com os mesmos cortes, no mesmo fogo que mal sussurra."
+        },
+        {
+          "n": "02",
+          "title": "Sobreviveu com a própria despensa",
+          "body": "A cozinha sámi sobreviveu à maioria das culturas alimentares árticas pré-industriais porque nunca precisou de importações para ter o próprio gosto: rena, peixe de lago, frutas, ervas silvestres, centeio, manteiga, sal."
+        },
+        {
+          "n": "03",
+          "title": "Quatro portas de entrada",
+          "body": "O bidos é o prato de proteína da alma, o gahkku o pão de cada dia, a sopa de peixe de Sápmi o que o lago deu naquela semana, e o kissel de frutas silvestres o jeito de conservar o verão."
+        }
       ]
     },
     "context": {
       "kicker": "A sabedoria da cultura gastronômica sami",
       "headline": "Por que as receitas têm a cara que têm.",
       "items": [
-        { "title": "Eficiência energética", "body": "Receitas pensadas para minimizar combustível e tempo num clima ártico hostil. Fervura lenta + proteína gorda = o máximo de quilocalorias por lenha de fogo." },
-        { "title": "Longa conservação", "body": "Alimentos feitos para durar sem refrigeração nem conservantes, secagem, defumação, fermentação e congelamento na neve." },
-        { "title": "Comunidade", "body": "Cozinhar e compartilhar comida é o ritual social central da vida sami. A panela no meio do lavvu (tenda) é, literalmente, o centro." }
+        {
+          "title": "Eficiência energética",
+          "body": "Receitas pensadas para minimizar combustível e tempo num clima ártico hostil. Fervura lenta + proteína gorda = o máximo de quilocalorias por lenha de fogo."
+        },
+        {
+          "title": "Longa conservação",
+          "body": "Alimentos feitos para durar sem refrigeração nem conservantes, secagem, defumação, fermentação e congelamento na neve."
+        },
+        {
+          "title": "Comunidade",
+          "body": "Cozinhar e compartilhar comida é o ritual social central da vida sami. A panela no meio do lavvu (tenda) é, literalmente, o centro."
+        }
       ]
     },
     "sapmi": {
@@ -190,9 +329,18 @@
       "headline": "Sápmi, uma das cozinhas mais antigas da Europa.",
       "lead": "Os samis são o povo indígena da Sápmi, uma vasta pátria ártica que abrange o norte da Finlândia, da Suécia, da Noruega e da Rússia. Sua cozinha é uma das culturas gastronômicas vivas mais antigas da Europa, moldada inteiramente pela terra, pelas estações e pela vida do pastoreio de renas.",
       "items": [
-        { "title": "Sápmi, a pátria", "body": "A Sápmi cobre mais de 400.000 km² em quatro nações. A Sápmi finlandesa (Saamelaisten kotiseutualue) é a região mais ao norte da Finlândia, os municípios de Enontekiö, Inari e Utsjoki." },
-        { "title": "As línguas samis", "body": "Existem nove línguas samis vivas. O sami setentrional é a mais falada. Muitos nomes de receitas tradicionais, como <em>bidos</em> e <em>gahkku</em>, vêm direto do sami setentrional." },
-        { "title": "Oito estações, não quatro", "body": "A contagem de tempo sami divide o ano em oito estações. Cada uma define o que vai à mesa, pesca no gelo na noite polar, colheita de amoras árticas no auge do verão, cogumelos antes da primeira geada." }
+        {
+          "title": "Sápmi, a pátria",
+          "body": "A Sápmi cobre mais de 400.000 km² em quatro nações. A Sápmi finlandesa (Saamelaisten kotiseutualue) é a região mais ao norte da Finlândia, os municípios de Enontekiö, Inari e Utsjoki."
+        },
+        {
+          "title": "As línguas samis",
+          "body": "Existem nove línguas samis vivas. O sami setentrional é a mais falada. Muitos nomes de receitas tradicionais, como <em>bidos</em> e <em>gahkku</em>, vêm direto do sami setentrional."
+        },
+        {
+          "title": "Oito estações, não quatro",
+          "body": "A contagem de tempo sami divide o ano em oito estações. Cada uma define o que vai à mesa, pesca no gelo na noite polar, colheita de amoras árticas no auge do verão, cogumelos antes da primeira geada."
+        }
       ]
     },
     "recipesKicker": "Receitas autênticas",
@@ -213,8 +361,26 @@
         "serves": "6–8 pessoas",
         "tradition": "Herança sami",
         "description": "Ensopado de rena em fogo baixo, a comida que conforta a alma na cultura sami há séculos. Simples, reconfortante e profundamente nutritivo.",
-        "ingredients": ["1 kg de carne de rena (corte de ensopado)", "4–5 batatas, em cubos", "2 cenouras, em rodelas", "1 cebola, picada", "2 colheres de sopa de manteiga ou gordura de rena", "Sal e pimenta-do-reino a gosto", "Endro fresco"],
-        "instructions": ["Corte a carne de rena em pedaços de 3–4 cm", "Aqueça a gordura numa panela de fundo grosso em fogo médio-alto", "Doure bem a carne por todos os lados", "Acrescente a cebola e refogue até ficar translúcida", "Acrescente água apenas até cobrir a carne", "Cozinhe em fogo baixo por 2 a 3 horas, até a carne ficar macia", "Acrescente as batatas e as cenouras na última hora", "Tempere generosamente com sal e pimenta", "Finalize com endro fresco e sirva"],
+        "ingredients": [
+          "1 kg de carne de rena (corte de ensopado)",
+          "4–5 batatas, em cubos",
+          "2 cenouras, em rodelas",
+          "1 cebola, picada",
+          "2 colheres de sopa de manteiga ou gordura de rena",
+          "Sal e pimenta-do-reino a gosto",
+          "Endro fresco"
+        ],
+        "instructions": [
+          "Corte a carne de rena em pedaços de 3–4 cm",
+          "Aqueça a gordura numa panela de fundo grosso em fogo médio-alto",
+          "Doure bem a carne por todos os lados",
+          "Acrescente a cebola e refogue até ficar translúcida",
+          "Acrescente água apenas até cobrir a carne",
+          "Cozinhe em fogo baixo por 2 a 3 horas, até a carne ficar macia",
+          "Acrescente as batatas e as cenouras na última hora",
+          "Tempere generosamente com sal e pimenta",
+          "Finalize com endro fresco e sirva"
+        ],
         "tips": "Tradicionalmente cozido em fogo aberto, em fogo baixo, por bastante tempo, a paciência é o ingrediente secreto."
       },
       {
@@ -224,8 +390,23 @@
         "serves": "1 pão",
         "tradition": "Receita sami ancestral",
         "description": "Simples, mas nutritivo, um pão de longa duração que abasteceu jornadas árticas por gerações.",
-        "ingredients": ["500 g de farinha de trigo", "250 ml de água morna", "1 colher de chá de sal", "1 colher de chá de açúcar", "1 envelope de fermento biológico seco", "2 colheres de sopa de óleo"],
-        "instructions": ["Misture todos os ingredientes secos", "Acrescente a água morna e o óleo", "Sove até obter uma massa lisa", "Deixe crescer em local morno por 30 minutos", "Modele um pão redondo", "Asse a 225 °C por 25–30 minutos", "O pão está pronto quando soa oco ao ser batido"],
+        "ingredients": [
+          "500 g de farinha de trigo",
+          "250 ml de água morna",
+          "1 colher de chá de sal",
+          "1 colher de chá de açúcar",
+          "1 envelope de fermento biológico seco",
+          "2 colheres de sopa de óleo"
+        ],
+        "instructions": [
+          "Misture todos os ingredientes secos",
+          "Acrescente a água morna e o óleo",
+          "Sove até obter uma massa lisa",
+          "Deixe crescer em local morno por 30 minutos",
+          "Modele um pão redondo",
+          "Asse a 225 °C por 25–30 minutos",
+          "O pão está pronto quando soa oco ao ser batido"
+        ],
         "tips": "Tradicionalmente assado sobre pedras quentes ou no fogo de uma fogueira."
       },
       {
@@ -235,8 +416,27 @@
         "serves": "4–6 pessoas",
         "tradition": "Cultura pesqueira ártica",
         "description": "Uma querida sopa de peixe com o peixe de lago mais limpo e ervas silvestres, um gosto da margem ártica.",
-        "ingredients": ["800 g de peixe de lago fresco (coregono ou truta)", "1 litro de caldo de peixe ou água", "3–4 batatas, em cubos", "1 cenoura, em rodelas", "1 cebola", "250 ml de creme de leite", "Endro fresco", "Sal e pimenta-branca"],
-        "instructions": ["Limpe e file o peixe", "Cozinhe a cabeça e as espinhas para o caldo", "Coe o caldo e devolva à panela", "Acrescente as batatas e a cenoura", "Cozinhe por 15 minutos", "Acrescente os pedaços de peixe e a cebola", "Cozinhe por mais 10 minutos", "Incorpore o creme de leite e os talos de endro", "Tempere com sal e pimenta-branca, acrescente endro fresco ao servir"],
+        "ingredients": [
+          "800 g de peixe de lago fresco (coregono ou truta)",
+          "1 litro de caldo de peixe ou água",
+          "3–4 batatas, em cubos",
+          "1 cenoura, em rodelas",
+          "1 cebola",
+          "250 ml de creme de leite",
+          "Endro fresco",
+          "Sal e pimenta-branca"
+        ],
+        "instructions": [
+          "Limpe e file o peixe",
+          "Cozinhe a cabeça e as espinhas para o caldo",
+          "Coe o caldo e devolva à panela",
+          "Acrescente as batatas e a cenoura",
+          "Cozinhe por 15 minutos",
+          "Acrescente os pedaços de peixe e a cebola",
+          "Cozinhe por mais 10 minutos",
+          "Incorpore o creme de leite e os talos de endro",
+          "Tempere com sal e pimenta-branca, acrescente endro fresco ao servir"
+        ],
         "tips": "Truque antigo: acrescente os talos de endro durante o cozimento e as folhas frescas só no finalzinho."
       },
       {
@@ -246,8 +446,22 @@
         "serves": "4–6 pessoas",
         "tradition": "Tradição de conservação do verão",
         "description": "O jeito clássico de aproveitar as frutas silvestres da Lapônia. Cheio de antioxidantes e transbordando de sabor ártico natural.",
-        "ingredients": ["500 g de frutas variadas (mirtilos, airelas-vermelhas)", "100–150 g de açúcar a gosto", "3 colheres de sopa de fécula de batata", "1 litro de água", "Açúcar de baunilha"],
-        "instructions": ["Cozinhe as frutas na água por 10 minutos", "Bata e coe, se preferir", "Acrescente o açúcar e o açúcar de baunilha", "Misture a fécula de batata com água fria", "Incorpore a mistura de fécula ao líquido quente das frutas", "Cozinhe por 2–3 minutos até engrossar", "Sirva quente ou gelado"],
+        "ingredients": [
+          "500 g de frutas variadas (mirtilos, airelas-vermelhas)",
+          "100–150 g de açúcar a gosto",
+          "3 colheres de sopa de fécula de batata",
+          "1 litro de água",
+          "Açúcar de baunilha"
+        ],
+        "instructions": [
+          "Cozinhe as frutas na água por 10 minutos",
+          "Bata e coe, se preferir",
+          "Acrescente o açúcar e o açúcar de baunilha",
+          "Misture a fécula de batata com água fria",
+          "Incorpore a mistura de fécula ao líquido quente das frutas",
+          "Cozinhe por 2–3 minutos até engrossar",
+          "Sirva quente ou gelado"
+        ],
         "tips": "Tradicionalmente adoçado com mel silvestre em vez de açúcar, experimente das duas formas."
       }
     ],
@@ -257,14 +471,54 @@
       "p1": "O calendário de quatro estações é uma suposição da Europa temperada. Os samis dividem o ano em oito, cada uma ligada ao que as renas estão fazendo, à cara do lago e ao que está maduro na floresta. Se você quer entender por que uma cozinha sami tem a cara que tem, comece aqui.",
       "p2": "Os nomes abaixo são os originais em sami setentrional. As datas são aproximadas, as estações da Sápmi se regem mais pela fenologia (o que a terra está fazendo) do que pelo calendário.",
       "items": [
-        { "sami": "Dálvi", "en": "Inverno", "when": "Dez – fev", "body": "Noite polar e o frio mais profundo. As renas estão nas pastagens de inverno, cavando atrás de líquens sob a neve. A casa vive do que foi conservado no outono: rena seca (suovas), peixe salgado, frutas congeladas, farinha de centeio. O bidos é o jantar de cada dia, proteína gorda em fogo baixo que mantém as pessoas aquecidas." },
-        { "sami": "Giđđadálvi", "en": "Inverno-primavera", "when": "Mar – abr", "body": "A luz volta. Começa a parição das renas; os pastores se movem com o rebanho. A pesca no gelo está no seu auge o sol fica fora o bastante para pescar no lago sem congelar, e os peixes ainda estão sob um gelo grosso. O coregono defumado domina. Os dias aumentam 7 minutos por dia." },
-        { "sami": "Giđđa", "en": "Primavera", "when": "Mai", "body": "Degelo. As renas seguem rumo às pastagens de verão. Surgem as primeiras folhas novas de bétula e os primeiros brotos de urtiga, os primeiros verdes frescos em sete meses. A seiva de bétula é coletada e bebida fresca ou fermentada. Chegam os primeiros ovos das aves migratórias." },
-        { "sami": "Giđđageassi", "en": "Primavera-verão", "when": "Jun", "body": "A primeira metade do sol da meia-noite. As renas parem; os filhotes correm. O chão está finalmente quente o bastante para as ervas silvestres (ulmária, mil-folhas, angélica). Os assados substituem os ensopados. Os laticínios frescos e a manteiga voltam das pastagens da montanha." },
-        { "sami": "Geassi", "en": "Verão", "when": "Jul", "body": "Sol da meia-noite pleno. A colheita da amora ártica, de três a seis semanas em que as famílias passam noites inteiras no pântano colhendo. As ervas são secas para o inverno; as frutas viram geleia, são congeladas ou fermentadas. A pesca no lago é diária. A cozinha quase não fecha." },
-        { "sami": "Čakčageassi", "en": "Verão-outono", "when": "Ago – início de set", "body": "Estação do mirtilo e da airela-vermelha. Surgem os cogumelos, boletos, lactários, cantarelos. Os dias ainda são longos; as noites começam a esfriar. As renas estão no peso máximo. A despensa enche: geleias, peixe salgado, cogumelos secos, frutas congeladas." },
-        { "sami": "Čakča", "en": "Outono", "when": "Set – out", "body": "A estação do abate. As renas são reunidas; os pastores selecionam quais animais abater para o inverno. A carne é processada: defumada, seca (suovas) e congelada. Este é o banco de proteína que precisa durar sete meses. As primeiras geadas adoçam as airelas-vermelhas." },
-        { "sami": "Čakčadálvi", "en": "Outono-inverno", "when": "Nov", "body": "A escuridão volta. A neve se assenta. Últimos trabalhos de conservação, salgar peixe, guardar geleias, fazer o balanço. A cozinha se apoia no calor: ensopados, sopas, pães de centeio assados, sucos quentes de frutas. A panela de bidos fica no fogão quase todos os dias." }
+        {
+          "sami": "Dálvi",
+          "en": "Inverno",
+          "when": "Dez – fev",
+          "body": "Noite polar e o frio mais profundo. As renas estão nas pastagens de inverno, cavando atrás de líquens sob a neve. A casa vive do que foi conservado no outono: rena seca (suovas), peixe salgado, frutas congeladas, farinha de centeio. O bidos é o jantar de cada dia, proteína gorda em fogo baixo que mantém as pessoas aquecidas."
+        },
+        {
+          "sami": "Giđđadálvi",
+          "en": "Inverno-primavera",
+          "when": "Mar – abr",
+          "body": "A luz volta. Começa a parição das renas; os pastores se movem com o rebanho. A pesca no gelo está no seu auge o sol fica fora o bastante para pescar no lago sem congelar, e os peixes ainda estão sob um gelo grosso. O coregono defumado domina. Os dias aumentam 7 minutos por dia."
+        },
+        {
+          "sami": "Giđđa",
+          "en": "Primavera",
+          "when": "Mai",
+          "body": "Degelo. As renas seguem rumo às pastagens de verão. Surgem as primeiras folhas novas de bétula e os primeiros brotos de urtiga, os primeiros verdes frescos em sete meses. A seiva de bétula é coletada e bebida fresca ou fermentada. Chegam os primeiros ovos das aves migratórias."
+        },
+        {
+          "sami": "Giđđageassi",
+          "en": "Primavera-verão",
+          "when": "Jun",
+          "body": "A primeira metade do sol da meia-noite. As renas parem; os filhotes correm. O chão está finalmente quente o bastante para as ervas silvestres (ulmária, mil-folhas, angélica). Os assados substituem os ensopados. Os laticínios frescos e a manteiga voltam das pastagens da montanha."
+        },
+        {
+          "sami": "Geassi",
+          "en": "Verão",
+          "when": "Jul",
+          "body": "Sol da meia-noite pleno. A colheita da amora ártica, de três a seis semanas em que as famílias passam noites inteiras no pântano colhendo. As ervas são secas para o inverno; as frutas viram geleia, são congeladas ou fermentadas. A pesca no lago é diária. A cozinha quase não fecha."
+        },
+        {
+          "sami": "Čakčageassi",
+          "en": "Verão-outono",
+          "when": "Ago – início de set",
+          "body": "Estação do mirtilo e da airela-vermelha. Surgem os cogumelos, boletos, lactários, cantarelos. Os dias ainda são longos; as noites começam a esfriar. As renas estão no peso máximo. A despensa enche: geleias, peixe salgado, cogumelos secos, frutas congeladas."
+        },
+        {
+          "sami": "Čakča",
+          "en": "Outono",
+          "when": "Set – out",
+          "body": "A estação do abate. As renas são reunidas; os pastores selecionam quais animais abater para o inverno. A carne é processada: defumada, seca (suovas) e congelada. Este é o banco de proteína que precisa durar sete meses. As primeiras geadas adoçam as airelas-vermelhas."
+        },
+        {
+          "sami": "Čakčadálvi",
+          "en": "Outono-inverno",
+          "when": "Nov",
+          "body": "A escuridão volta. A neve se assenta. Últimos trabalhos de conservação, salgar peixe, guardar geleias, fazer o balanço. A cozinha se apoia no calor: ensopados, sopas, pães de centeio assados, sucos quentes de frutas. A panela de bidos fica no fogão quase todos os dias."
+        }
       ]
     },
     "revival": {
@@ -285,10 +539,22 @@
       "headline": "Quatro métodos de cocção tradicionais.",
       "lead": "Os quatro ainda aparecem nas cozinhas de alta gastronomia por toda a Lapônia, os chefs os usam porque produzem sabores que nada moderno consegue replicar. O fogo aberto cria uma reação de Maillard em temperaturas que o sous-vide não alcança. As pedras quentes assam o pão com uma secura específica. Os fornos de terra estufam só com o calor retido. A defumação é, em 2026, ainda o método de conservação mais simples que o ser humano teve.",
       "items": [
-        { "title": "Fogo aberto", "body": "Grelhar e assar direto sobre as chamas de uma fogueira" },
-        { "title": "Forno de terra", "body": "Cocção lenta subterrânea em covas de terra" },
-        { "title": "Pedras quentes", "body": "Assar pão sobre pedras planas aquecidas no fogo" },
-        { "title": "Defumação", "body": "Conservar carne e peixe com fumaça fria ou quente" }
+        {
+          "title": "Fogo aberto",
+          "body": "Grelhar e assar direto sobre as chamas de uma fogueira"
+        },
+        {
+          "title": "Forno de terra",
+          "body": "Cocção lenta subterrânea em covas de terra"
+        },
+        {
+          "title": "Pedras quentes",
+          "body": "Assar pão sobre pedras planas aquecidas no fogo"
+        },
+        {
+          "title": "Defumação",
+          "body": "Conservar carne e peixe com fumaça fria ou quente"
+        }
       ]
     },
     "ctaStrip": {
@@ -312,30 +578,85 @@
     "intro": {
       "lead": "No início dos anos 2010, jantar num restaurante na Lapônia ainda significava o salão de um hotel turístico e um filé de rena ao molho de pimenta. Em cerca de dez anos, cresceram no lugar pequenas salas de menu degustação lideradas por chefs, que competem com Helsinque no empratamento. Três coisas tornaram isso possível:",
       "points": [
-        { "n": "01", "title": "O New Nordic abriu caminho", "body": "Quando o Noma redefiniu ervas colhidas, peixe defumado e caça de cozimento lento como o ápice da culinária, os chefs da Lapônia, que faziam isso a vida toda, finalmente puderam empratar sem pedir desculpas." },
-        { "n": "02", "title": "A técnica veio para o norte", "body": "Circuladores sous-vide baratos libertaram os cortes magros do ensopado. O filé de rena, rosado no centro a 54 °C, virou a assinatura da cozinha lapônica moderna." },
-        { "n": "03", "title": "A cadeia de suprimentos amadureceu", "body": "Coletores e pequenos pescadores agora vendem direto aos restaurantes, e produtores especializados cobrem de xarope de bétula a vinagre de lingonberry. Um menu degustação pode obter cada ingrediente num raio de 200 quilômetros." }
-      ]
+        {
+          "n": "01",
+          "title": "O New Nordic abriu caminho",
+          "body": "Quando o Noma redefiniu ervas colhidas, peixe defumado e caça de cozimento lento como o ápice da culinária, os chefs da Lapônia, que faziam isso a vida toda, finalmente puderam empratar sem pedir desculpas."
+        },
+        {
+          "n": "02",
+          "title": "A técnica veio para o norte",
+          "body": "Circuladores sous-vide baratos libertaram os cortes magros do ensopado. O filé de rena, rosado no centro a 54 °C, virou a assinatura da cozinha lapônica moderna."
+        },
+        {
+          "n": "03",
+          "title": "A cadeia de suprimentos amadureceu",
+          "body": "Coletores e pequenos pescadores agora vendem direto aos restaurantes, e produtores especializados cobrem de xarope de bétula a vinagre de lingonberry. Um menu degustação pode obter cada ingrediente num raio de 200 quilômetros."
+        }
+      ]
     },
     "dishesKicker": "Quatro clássicos modernos",
     "dishesHeadline": "A Lapônia moderna no prato.",
-    "dishLabels": { "technique": "Técnica", "from": "De", "twist": "Releitura" },
+    "dishLabels": {
+      "technique": "Técnica",
+      "from": "De",
+      "twist": "Releitura"
+    },
     "dishes": [
-      { "name": "Filé de rena sous-vide, bilberry e raiz", "description": "O prato que define o estilo: filé magro de rena rosado no centro, redução de bilberries silvestres e um legume de raiz em duas texturas.", "technique": "Sous-vide", "traditional": "Rena assada / poronkäristys", "innovation": "A temperatura de precisão transforma o corte mais magro no protagonista" },
-      { "name": "Peixe-branco confitado com azeite de ervas silvestres", "description": "Peixe de lago cozido lentamente na gordura, finalizado com azeite de ulmária ou brotos de abeto e um toque ácido da prateleira de fermentados.", "technique": "Confit", "traditional": "Peixe de lago defumado e salgado", "innovation": "A baixa temperatura preserva um peixe delicado; ervas colhidas substituem o endro padrão" },
-      { "name": "Sequência de sobremesas de frutas silvestres", "description": "Cloudberry, bilberry e lingonberry em progressão, parfait, couro de fruta, fermentada, congelada, em vez de uma panna cotta com geleia.", "technique": "Fermentação + confeitaria New Nordic", "traditional": "Kissel e geleias de frutas", "innovation": "Frutas lactofermentadas trazem a acidez que substitui os cítricos importados" },
-      { "name": "Bidos, reinterpretado", "description": "O ensopado festivo sámi pensado para um menu degustação: caldo clarificado, paleta de rena prensada, tutano servido à parte.", "technique": "Empratamento moderno de um cozido lento", "traditional": "Ensopado bidos de rena", "innovation": "Os mesmos cortes e sabores, reapresentados como etapas; a versão caseira permanece intocada" }
+      {
+        "name": "Filé de rena sous-vide, bilberry e raiz",
+        "description": "O prato que define o estilo: filé magro de rena rosado no centro, redução de bilberries silvestres e um legume de raiz em duas texturas.",
+        "technique": "Sous-vide",
+        "traditional": "Rena assada / poronkäristys",
+        "innovation": "A temperatura de precisão transforma o corte mais magro no protagonista"
+      },
+      {
+        "name": "Peixe-branco confitado com azeite de ervas silvestres",
+        "description": "Peixe de lago cozido lentamente na gordura, finalizado com azeite de ulmária ou brotos de abeto e um toque ácido da prateleira de fermentados.",
+        "technique": "Confit",
+        "traditional": "Peixe de lago defumado e salgado",
+        "innovation": "A baixa temperatura preserva um peixe delicado; ervas colhidas substituem o endro padrão"
+      },
+      {
+        "name": "Sequência de sobremesas de frutas silvestres",
+        "description": "Cloudberry, bilberry e lingonberry em progressão, parfait, couro de fruta, fermentada, congelada, em vez de uma panna cotta com geleia.",
+        "technique": "Fermentação + confeitaria New Nordic",
+        "traditional": "Kissel e geleias de frutas",
+        "innovation": "Frutas lactofermentadas trazem a acidez que substitui os cítricos importados"
+      },
+      {
+        "name": "Bidos, reinterpretado",
+        "description": "O ensopado festivo sámi pensado para um menu degustação: caldo clarificado, paleta de rena prensada, tutano servido à parte.",
+        "technique": "Empratamento moderno de um cozido lento",
+        "traditional": "Ensopado bidos de rena",
+        "innovation": "Os mesmos cortes e sabores, reapresentados como etapas; a versão caseira permanece intocada"
+      }
     ],
     "techniques": {
       "kicker": "O que \"nórdico novo\" realmente significa",
       "headline": "Cinco técnicas que aparecem em todo menu degustação da Lapônia.",
       "lead": "\"Nórdico novo\" é um termo de marketing para o que, no prato, é um conjunto específico de técnicas de cocção aplicado a um conjunto específico de ingredientes. Tire a marca e você encontra as cinco coisas abaixo, é o que o seu menu está fazendo, quer o chef chame isso de nórdico novo, sami moderno, cozinha ártica ou simplesmente jantar.",
       "items": [
-        { "title": "Lactofermentação", "body": "Sal e tempo transformam legumes e frutas crus em conservas de sabor intenso e levemente ácidas. Mirtilos lactofermentados num prato de carne são o gesto clássico da Lapônia, cortam a untuosidade da gordura de rena como a alcaparra corta a manteiga. Procure no cardápio palavras como \"fermentado\" ou \"em conserva\"." },
-        { "title": "Sous-vide", "body": "Selar a proteína a vácuo e cozinhá-la em água com temperatura controlada exatamente no ponto que você quer. A razão pela qual seu filé de rena fica uniformemente rosado de ponta a ponta, sem um anel cinza ao redor do centro. Lento, preciso e tolerante e crucial para um corte tão magro quanto a rena." },
-        { "title": "Cura a frio e defumação a frio", "body": "A cura com sal e açúcar (graavi) tem séculos; a defumação a frio é ainda mais antiga. As cozinhas nórdicas novas combinam as duas. Um graavisiika (coregono curado) defumado a frio por 4 horas é a entrada de peixe mais servida na alta gastronomia da Lapônia. O peixe está tecnicamente cru e a textura é sedosa." },
-        { "title": "Guarnição colhida", "body": "Ervas silvestres e flores comestíveis que nenhum fornecedor comercial do sul da Finlândia consegue igualar em frescor. Azedinha, flores de ulmária, brotos de zimbro, brotos de pinheiro, epilóbio, angélica o coletor da Lapônia entrega os toques finais do prato. Muitas vezes colhidos na mesma manhã." },
-        { "title": "Aproveitamento integral do ingrediente", "body": "Uma marca tanto da comida sami quanto da cozinha nórdica nova. O tutano vira espessante de molho. As cabeças de peixe viram caldo. Os couros de rena vão para o curtume, não para o lixo. Os restaurantes que levam isso a sério vão te dizer no cardápio, \"do focinho ao rabo\" e a conta reflete isso." }
+        {
+          "title": "Lactofermentação",
+          "body": "Sal e tempo transformam legumes e frutas crus em conservas de sabor intenso e levemente ácidas. Mirtilos lactofermentados num prato de carne são o gesto clássico da Lapônia, cortam a untuosidade da gordura de rena como a alcaparra corta a manteiga. Procure no cardápio palavras como \"fermentado\" ou \"em conserva\"."
+        },
+        {
+          "title": "Sous-vide",
+          "body": "Selar a proteína a vácuo e cozinhá-la em água com temperatura controlada exatamente no ponto que você quer. A razão pela qual seu filé de rena fica uniformemente rosado de ponta a ponta, sem um anel cinza ao redor do centro. Lento, preciso e tolerante e crucial para um corte tão magro quanto a rena."
+        },
+        {
+          "title": "Cura a frio e defumação a frio",
+          "body": "A cura com sal e açúcar (graavi) tem séculos; a defumação a frio é ainda mais antiga. As cozinhas nórdicas novas combinam as duas. Um graavisiika (coregono curado) defumado a frio por 4 horas é a entrada de peixe mais servida na alta gastronomia da Lapônia. O peixe está tecnicamente cru e a textura é sedosa."
+        },
+        {
+          "title": "Guarnição colhida",
+          "body": "Ervas silvestres e flores comestíveis que nenhum fornecedor comercial do sul da Finlândia consegue igualar em frescor. Azedinha, flores de ulmária, brotos de zimbro, brotos de pinheiro, epilóbio, angélica o coletor da Lapônia entrega os toques finais do prato. Muitas vezes colhidos na mesma manhã."
+        },
+        {
+          "title": "Aproveitamento integral do ingrediente",
+          "body": "Uma marca tanto da comida sami quanto da cozinha nórdica nova. O tutano vira espessante de molho. As cabeças de peixe viram caldo. Os couros de rena vão para o curtume, não para o lixo. Os restaurantes que levam isso a sério vão te dizer no cardápio, \"do focinho ao rabo\" e a conta reflete isso."
+        }
       ]
     },
     "stayNear": {
@@ -359,9 +680,21 @@
     "intro": {
       "lead": "Colher na Finlândia não é excêntrico. É uma atividade rotineira de verão para cerca de 40% da população.",
       "points": [
-        { "n": "01", "title": "Corrente principal, não nicho", "body": "Cerca de 40 % dos finlandeses coletam. O número vem das pesquisas domiciliares do Instituto de Recursos Naturais da Finlândia (Luke) e atravessa cidade e campo, idade e renda." },
-        { "n": "02", "title": "Direito de todos", "body": "O jokamiehenoikeus, codificado na lei finlandesa, permite a qualquer pessoa, moradora ou visitante, caminhar, acampar e coletar na maior parte das terras, seja de quem for." },
-        { "n": "03", "title": "Sem licença, sem dono da terra", "body": "Você pode sair da estrada, entrar na floresta e colher. Os limites são éticos (não colher demais, não danificar as plantas) e práticos (saber o que está colhendo), não legais." }
+        {
+          "n": "01",
+          "title": "Corrente principal, não nicho",
+          "body": "Cerca de 40 % dos finlandeses coletam. O número vem das pesquisas domiciliares do Instituto de Recursos Naturais da Finlândia (Luke) e atravessa cidade e campo, idade e renda."
+        },
+        {
+          "n": "02",
+          "title": "Direito de todos",
+          "body": "O jokamiehenoikeus, codificado na lei finlandesa, permite a qualquer pessoa, moradora ou visitante, caminhar, acampar e coletar na maior parte das terras, seja de quem for."
+        },
+        {
+          "n": "03",
+          "title": "Sem licença, sem dono da terra",
+          "body": "Você pode sair da estrada, entrar na floresta e colher. Os limites são éticos (não colher demais, não danificar as plantas) e práticos (saber o que está colhendo), não legais."
+        }
       ]
     },
     "alert": {
@@ -376,11 +709,56 @@
       "sustainability": "De forma sustentável"
     },
     "items": [
-      { "name": "Mirtilo (Vaccinium myrtillus)", "season": "Julho – setembro", "difficulty": "Fácil", "location": "Pinheirais secos e charnecas", "identification": "Arbusto baixo, folhas ovais, frutas azul-escuras quase pretas. Tinge dedos e língua de azul.", "tips": "Auge da colheita em meados de agosto. Colha apenas frutas totalmente maduras.", "safety": "Não pode ser confundido com parentes venenosos, seguro para colher.", "sustainability": "Não colha mais que a metade das frutas de uma mesma planta." },
-      { "name": "Airela-vermelha (Vaccinium vitis-idaea)", "season": "Agosto – outubro", "difficulty": "Fácil", "location": "Pinheirais secos e charnecas", "identification": "Pequeno arbusto perene, folhas redondas e brilhantes, frutas vermelhas vivas em cachos.", "tips": "Conserva-se bem depois de uma geada. Espere a maturação total antes de colher.", "safety": "Inconfundível em relação a frutas venenosas, fácil de identificar.", "sustainability": "Deixe as plantas jovens e pequenas intactas." },
-      { "name": "Amora ártica (Rubus chamaemorus)", "season": "Julho – agosto", "difficulty": "Médio", "location": "Pântanos e brejos", "identification": "Planta de porte baixo, folhas trilobadas, uma única fruta âmbar-alaranjada por haste.", "tips": "Colha apenas frutas totalmente maduras. Perecível, processe rápido após a colheita.", "safety": "Encontrada só em terreno pantanoso, cuidado onde pisa.", "sustainability": "Raridade ártica. Pegue só o que precisar." },
-      { "name": "Cogumelos silvestres, boletos e lactários", "season": "Julho – setembro", "difficulty": "Desafiador", "location": "Florestas antigas de abeto e mata mista", "identification": "Boleto: chapéu marrom, talo branco, parte de baixo esponjosa. Lactário: formato de funil, seiva leitosa ao cortar.", "tips": "Seque logo após colher. Aprenda a identificar com 100% de certeza primeiro.", "safety": "CRÍTICO: sempre confirme a identificação antes de comer qualquer cogumelo.", "sustainability": "Corte no talo, não danifique o micélio embaixo." },
-      { "name": "Urtiga (Urtica dioica)", "season": "Maio – agosto", "difficulty": "Fácil", "location": "Solo rico em nutrientes, perto de construções e clareiras", "identification": "Folhas serrilhadas, ardem na pele nua ao contato.", "tips": "Colha os brotos novos. O efeito urticante desaparece por completo após secar ou cozinhar.", "safety": "Use luvas ao colher.", "sustainability": "Colha só as folhas do topo, deixe as raízes intactas." }
+      {
+        "name": "Mirtilo (Vaccinium myrtillus)",
+        "season": "Julho – setembro",
+        "difficulty": "Fácil",
+        "location": "Pinheirais secos e charnecas",
+        "identification": "Arbusto baixo, folhas ovais, frutas azul-escuras quase pretas. Tinge dedos e língua de azul.",
+        "tips": "Auge da colheita em meados de agosto. Colha apenas frutas totalmente maduras.",
+        "safety": "Não pode ser confundido com parentes venenosos, seguro para colher.",
+        "sustainability": "Não colha mais que a metade das frutas de uma mesma planta."
+      },
+      {
+        "name": "Airela-vermelha (Vaccinium vitis-idaea)",
+        "season": "Agosto – outubro",
+        "difficulty": "Fácil",
+        "location": "Pinheirais secos e charnecas",
+        "identification": "Pequeno arbusto perene, folhas redondas e brilhantes, frutas vermelhas vivas em cachos.",
+        "tips": "Conserva-se bem depois de uma geada. Espere a maturação total antes de colher.",
+        "safety": "Inconfundível em relação a frutas venenosas, fácil de identificar.",
+        "sustainability": "Deixe as plantas jovens e pequenas intactas."
+      },
+      {
+        "name": "Amora ártica (Rubus chamaemorus)",
+        "season": "Julho – agosto",
+        "difficulty": "Médio",
+        "location": "Pântanos e brejos",
+        "identification": "Planta de porte baixo, folhas trilobadas, uma única fruta âmbar-alaranjada por haste.",
+        "tips": "Colha apenas frutas totalmente maduras. Perecível, processe rápido após a colheita.",
+        "safety": "Encontrada só em terreno pantanoso, cuidado onde pisa.",
+        "sustainability": "Raridade ártica. Pegue só o que precisar."
+      },
+      {
+        "name": "Cogumelos silvestres, boletos e lactários",
+        "season": "Julho – setembro",
+        "difficulty": "Desafiador",
+        "location": "Florestas antigas de abeto e mata mista",
+        "identification": "Boleto: chapéu marrom, talo branco, parte de baixo esponjosa. Lactário: formato de funil, seiva leitosa ao cortar.",
+        "tips": "Seque logo após colher. Aprenda a identificar com 100% de certeza primeiro.",
+        "safety": "CRÍTICO: sempre confirme a identificação antes de comer qualquer cogumelo.",
+        "sustainability": "Corte no talo, não danifique o micélio embaixo."
+      },
+      {
+        "name": "Urtiga (Urtica dioica)",
+        "season": "Maio – agosto",
+        "difficulty": "Fácil",
+        "location": "Solo rico em nutrientes, perto de construções e clareiras",
+        "identification": "Folhas serrilhadas, ardem na pele nua ao contato.",
+        "tips": "Colha os brotos novos. O efeito urticante desaparece por completo após secar ou cozinhar.",
+        "safety": "Use luvas ao colher.",
+        "sustainability": "Colha só as folhas do topo, deixe as raízes intactas."
+      }
     ],
     "mushroomSafety": {
       "kicker": "Segurança com cogumelos",
@@ -403,14 +781,38 @@
       "headline": "Mês a mês, o que há na floresta.",
       "lead": "A janela de colheita da Lapônia é curta e intensa, mais ou menos de maio até o fim de setembro. Dentro dessa janela, a cada duas semanas o alvo dominante muda. Este é o calendário pelo qual um coletor local planeja o verão.",
       "items": [
-        { "month": "Maio", "body": "A neve recua. Primeiras urtigas, primeiras folhas novas de bétula, seiva de bétula (extraída do tronco e bebida fresca, usada em xarope ou fermentada). Frio, mas o ano de colheita começou." },
-        { "month": "Junho", "body": "As ervas silvestres atingem o auge, ulmária, mil-folhas, angélica, azedinha. Os primeiros verdes frescos depois de sete meses. Algumas ervas iniciais são secas para chás de inverno." },
-        { "month": "Julho (início)", "body": "A janela das ervas se fecha; tudo brota com força. As plantas de pântano florescem, as flores da amora ártica já vingaram. É a calmaria antes da tempestade da colheita." },
-        { "month": "Julho (fim) – início de agosto", "body": "Estação da amora ártica, normalmente uma janela de 3 semanas conforme a localização do pântano. A atividade de colheita mais intensa do ano. Muitos escritórios finlandeses praticamente param por causa dela." },
-        { "month": "Agosto", "body": "O mirtilo atinge o auge. Primeiras airelas (ainda azedas). Primeiros cogumelos o cantarelo costuma ser o primeiro; o boleto, o segundo. As noites de muita luz fazem deste o melhor mês para colher e cozinhar." },
-        { "month": "Setembro", "body": "A airela adoça após a primeira geada. A estação dos cogumelos no auge, boletos, lactários, cantarelos, ceps. Os dias encurtam rápido; os coletores saem desde o nascer do sol." },
-        { "month": "Outubro", "body": "Últimos cogumelos. Últimas airelas (agora melhores após as geadas noturnas). Últimos trabalhos de conservação, secar, fazer geleia, congelar. O calendário praticamente se encerra após a primeira nevasca forte." },
-        { "month": "Novembro – abril", "body": "Dormência da floresta. A colheita para. O trabalho de interior, conservar, defumar, secar, fermentar, ganha ritmo. A pesca no gelo substitui a colheita como fonte de proteína fresca." }
+        {
+          "month": "Maio",
+          "body": "A neve recua. Primeiras urtigas, primeiras folhas novas de bétula, seiva de bétula (extraída do tronco e bebida fresca, usada em xarope ou fermentada). Frio, mas o ano de colheita começou."
+        },
+        {
+          "month": "Junho",
+          "body": "As ervas silvestres atingem o auge, ulmária, mil-folhas, angélica, azedinha. Os primeiros verdes frescos depois de sete meses. Algumas ervas iniciais são secas para chás de inverno."
+        },
+        {
+          "month": "Julho (início)",
+          "body": "A janela das ervas se fecha; tudo brota com força. As plantas de pântano florescem, as flores da amora ártica já vingaram. É a calmaria antes da tempestade da colheita."
+        },
+        {
+          "month": "Julho (fim) – início de agosto",
+          "body": "Estação da amora ártica, normalmente uma janela de 3 semanas conforme a localização do pântano. A atividade de colheita mais intensa do ano. Muitos escritórios finlandeses praticamente param por causa dela."
+        },
+        {
+          "month": "Agosto",
+          "body": "O mirtilo atinge o auge. Primeiras airelas (ainda azedas). Primeiros cogumelos o cantarelo costuma ser o primeiro; o boleto, o segundo. As noites de muita luz fazem deste o melhor mês para colher e cozinhar."
+        },
+        {
+          "month": "Setembro",
+          "body": "A airela adoça após a primeira geada. A estação dos cogumelos no auge, boletos, lactários, cantarelos, ceps. Os dias encurtam rápido; os coletores saem desde o nascer do sol."
+        },
+        {
+          "month": "Outubro",
+          "body": "Últimos cogumelos. Últimas airelas (agora melhores após as geadas noturnas). Últimos trabalhos de conservação, secar, fazer geleia, congelar. O calendário praticamente se encerra após a primeira nevasca forte."
+        },
+        {
+          "month": "Novembro – abril",
+          "body": "Dormência da floresta. A colheita para. O trabalho de interior, conservar, defumar, secar, fermentar, ganha ritmo. A pesca no gelo substitui a colheita como fonte de proteína fresca."
+        }
       ]
     },
     "rights": {
@@ -456,9 +858,21 @@
     "intro": {
       "lead": "As experiências gastronômicas da Lapônia que valem o seu dinheiro são aquelas que colocam você diante das pessoas que realmente vivem disso.",
       "points": [
-        { "n": "01", "title": "Grupos pequenos, reserva direta", "body": "Esqueça o tour de restaurantes de ônibus: as viagens abaixo são em grupos pequenos e muitas vezes reservadas direto com o operador." },
-        { "n": "02", "title": "Guiadas por quem vive disso", "body": "Coletores sámi, chefs de alta gastronomia, pastores de renas na ativa. Come-se bem, mas o verdadeiro produto é o acesso: a um rebanho, a uma cozinha, à turfeira favorita de um coletor." },
-        { "n": "03", "title": "Preços ao vivo, não de folheto", "body": "Cada card leva a uma busca ao vivo no GetYourGuide, não a uma página de produto fixa: operadores mudam, datas e preços variam; você sempre vê a disponibilidade atual." }
+        {
+          "n": "01",
+          "title": "Grupos pequenos, reserva direta",
+          "body": "Esqueça o tour de restaurantes de ônibus: as viagens abaixo são em grupos pequenos e muitas vezes reservadas direto com o operador."
+        },
+        {
+          "n": "02",
+          "title": "Guiadas por quem vive disso",
+          "body": "Coletores sámi, chefs de alta gastronomia, pastores de renas na ativa. Come-se bem, mas o verdadeiro produto é o acesso: a um rebanho, a uma cozinha, à turfeira favorita de um coletor."
+        },
+        {
+          "n": "03",
+          "title": "Preços ao vivo, não de folheto",
+          "body": "Cada card leva a uma busca ao vivo no GetYourGuide, não a uma página de produto fixa: operadores mudam, datas e preços variam; você sempre vê a disponibilidade atual."
+        }
       ]
     },
     "listKicker": "Três passeios que valem a pena",
@@ -468,23 +882,41 @@
     "checkAvailability": "Ver disponibilidade",
     "tours": [
       {
-        "name": "Jornada Gastronômica da Cultura Sami",
+        "name": "Jornada Gastronômica da Cultura Sami",
         "description": "Um mergulho na cultura gastronômica sami. Conheça produtores locais, aprenda técnicas tradicionais e prove sabores autênticos direto do Ártico.",
-        "highlights": ["Visitar um pastor de renas e provar o ensopado bidos", "Panificação sami tradicional", "Colheita de ingredientes silvestres com um guia", "Oficina de cultura gastronômica no museu sami", "Visitas a produtores árticos locais"],
+        "highlights": [
+          "Visitar um pastor de renas e provar o ensopado bidos",
+          "Panificação sami tradicional",
+          "Colheita de ingredientes silvestres com um guia",
+          "Oficina de cultura gastronômica no museu sami",
+          "Visitas a produtores árticos locais"
+        ],
         "location": "Região de Inari – Utsjoki",
         "season": "Junho – setembro"
       },
       {
-        "name": "Experiência de Alta Gastronomia Ártica",
+        "name": "Experiência de Alta Gastronomia Ártica",
         "description": "Uma jornada exclusiva pelos melhores restaurantes da Lapônia. Casas recomendadas pelo Michelin e chefs premiados cozinhando com os ingredientes árticos mais puros.",
-        "highlights": ["Almoço de 3 tempos num restaurante-referência da região", "Visita aos bastidores da cozinha com o chef de cozinha", "Masterclass de ingredientes árticos", "Demonstração de técnica de alta gastronomia", "Jantar gourmet de 5 tempos com harmonização de vinhos"],
+        "highlights": [
+          "Almoço de 3 tempos num restaurante-referência da região",
+          "Visita aos bastidores da cozinha com o chef de cozinha",
+          "Masterclass de ingredientes árticos",
+          "Demonstração de técnica de alta gastronomia",
+          "Jantar gourmet de 5 tempos com harmonização de vinhos"
+        ],
         "location": "Rovaniemi",
         "season": "O ano todo"
       },
       {
-        "name": "Expedição de Colheita Silvestre",
+        "name": "Expedição de Colheita Silvestre",
         "description": "Colheita guiada e prática em floresta antiga e pântano. Aprenda a identificar com segurança frutas, cogumelos e ervas silvestres e depois cozinhe o que colher.",
-        "highlights": ["Masterclass de segurança com cogumelos", "Colheita de mirtilos, airelas e amoras árticas (na estação)", "Identificação de ervas silvestres", "Sessão de cozinha da floresta ao prato na fogueira", "Guia de colheita da Lapônia para levar para casa"],
+        "highlights": [
+          "Masterclass de segurança com cogumelos",
+          "Colheita de mirtilos, airelas e amoras árticas (na estação)",
+          "Identificação de ervas silvestres",
+          "Sessão de cozinha da floresta ao prato na fogueira",
+          "Guia de colheita da Lapônia para levar para casa"
+        ],
         "location": "Região de Rovaniemi / Levi",
         "season": "Julho – setembro"
       }
@@ -506,9 +938,18 @@
     "factsLeadPrefix": "O Guia Michelin dos países nórdicos é atualizado todo ano, para a lista de estrelas vigente, consulte sempre",
     "factsLeadSuffix": ". O panorama estrutural abaixo é estável e é o ponto de partida certo se você está planejando uma viagem de alta gastronomia à Finlândia.",
     "facts": [
-      { "title": "Helsinque concentra as estrelas", "body": "Os restaurantes finlandeses listados no Michelin se concentram em Helsinque, todo restaurante finlandês com estrela nas edições recentes do Guia Nórdico ficou na capital. Turku e Tampere já estiveram no radar dos inspetores, mas as estrelas vão e vêm." },
-      { "title": "A Lapônia é ambiciosa na alta gastronomia", "body": "A Lapônia em si não tem nenhuma estrela Michelin no momento, mas seus restaurantes premium, Nili, Aanaar, Rakas, estão empurrando o que pode ser uma noite de menu degustação dentro do Círculo Polar Ártico, com ingredientes colhidos que nenhuma cozinha de Helsinque consegue igualar em frescor." },
-      { "title": "As reservas importam", "body": "Os carros-chefe da Lapônia são pequenos (muitas vezes de 30 a 60 lugares) e os assentos da mesa do chef enchem primeiro. Para o pico do inverno (meados de dez. → fev.) e a janela do sol da meia-noite (6 de jun. → 7 de jul.), reserve com pelo menos 6 a 8 semanas de antecedência. Os salões Michelin de Helsinque têm com frequência esperas de 4 a 6 semanas." }
+      {
+        "title": "Helsinque concentra as estrelas",
+        "body": "Os restaurantes finlandeses listados no Michelin se concentram em Helsinque, todo restaurante finlandês com estrela nas edições recentes do Guia Nórdico ficou na capital. Turku e Tampere já estiveram no radar dos inspetores, mas as estrelas vão e vêm."
+      },
+      {
+        "title": "A Lapônia é ambiciosa na alta gastronomia",
+        "body": "A Lapônia em si não tem nenhuma estrela Michelin no momento, mas seus restaurantes premium, Nili, Aanaar, Rakas, estão empurrando o que pode ser uma noite de menu degustação dentro do Círculo Polar Ártico, com ingredientes colhidos que nenhuma cozinha de Helsinque consegue igualar em frescor."
+      },
+      {
+        "title": "As reservas importam",
+        "body": "Os carros-chefe da Lapônia são pequenos (muitas vezes de 30 a 60 lugares) e os assentos da mesa do chef enchem primeiro. Para o pico do inverno (meados de dez. → fev.) e a janela do sol da meia-noite (6 de jun. → 7 de jul.), reserve com pelo menos 6 a 8 semanas de antecedência. Os salões Michelin de Helsinque têm com frequência esperas de 4 a 6 semanas."
+      }
     ],
     "helsinki": {
       "kicker": "Michelin de Helsinque",
@@ -517,25 +958,94 @@
       "ctaHotels": "Hotéis em Helsinque",
       "footnote": "Editorial independente. Sem afiliação com o Guia Michelin. As designações de estrela e as listagens Bib Gourmand só valem na data da edição vigente do Guia Nórdico, consulte guide.michelin.com antes de reservar.",
       "rooms": [
-        { "name": "Olo", "where": "Pohjoisesplanadi, Helsinque", "angle": "Instituição da alta gastronomia de longa data. Menus degustação enraizados em ingredientes finlandeses com técnica nórdica clássica.", "band": "€€€€" },
-        { "name": "Palace", "where": "10º andar, Eteläranta, vista para o porto", "angle": "Vista do porto de Helsinque à moda antiga, execução moderna. O prato clássico de peixe finlandês (kuha, lucioperca) é a assinatura.", "band": "€€€€" },
-        { "name": "Demo", "where": "Uudenmaankatu, Helsinque", "angle": "Salão compacto de menu degustação, guiado pelo ingrediente, citado com frequência no Guia pela relação valor versus técnica.", "band": "€€€" },
-        { "name": "Grön", "where": "Albertinkatu, Helsinque", "angle": "Menu degustação de base vegetal (legumes, peixe, colhidos) com uma harmonização enxuta. O que enche mais rápido na cidade.", "band": "€€€€" },
-        { "name": "Inari", "where": "Albertinkatu, Helsinque", "angle": "Alta gastronomia de influência sami, mesma linhagem de chef que o Olo, salão menor, mais focado.", "band": "€€€€" },
-        { "name": "Ora", "where": "Huvilakatu, Eira", "angle": "Nórdico moderno num salão residencial. Muito elogiado pelo menu guiado pelo ingrediente do chef Sasu Laukkonen.", "band": "€€€€" },
-        { "name": "Finnjävel", "where": "Helsinque", "angle": "Finlandês moderno, clássicos reinventados. Menos contido que os outros; serviço mais teatral.", "band": "€€€" },
-        { "name": "Ultima", "where": "Helsinque", "angle": "Menu degustação abastecido por uma fazenda vertical no subsolo. O salão mais genuinamente \"Helsinque 2026\" desta lista.", "band": "€€€€" }
+        {
+          "name": "Olo",
+          "where": "Pohjoisesplanadi, Helsinque",
+          "angle": "Instituição da alta gastronomia de longa data. Menus degustação enraizados em ingredientes finlandeses com técnica nórdica clássica.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Palace",
+          "where": "10º andar, Eteläranta, vista para o porto",
+          "angle": "Vista do porto de Helsinque à moda antiga, execução moderna. O prato clássico de peixe finlandês (kuha, lucioperca) é a assinatura.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Demo",
+          "where": "Uudenmaankatu, Helsinque",
+          "angle": "Salão compacto de menu degustação, guiado pelo ingrediente, citado com frequência no Guia pela relação valor versus técnica.",
+          "band": "€€€"
+        },
+        {
+          "name": "Grön",
+          "where": "Albertinkatu, Helsinque",
+          "angle": "Menu degustação de base vegetal (legumes, peixe, colhidos) com uma harmonização enxuta. O que enche mais rápido na cidade.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Inari",
+          "where": "Albertinkatu, Helsinque",
+          "angle": "Alta gastronomia de influência sami, mesma linhagem de chef que o Olo, salão menor, mais focado.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Ora",
+          "where": "Huvilakatu, Eira",
+          "angle": "Nórdico moderno num salão residencial. Muito elogiado pelo menu guiado pelo ingrediente do chef Sasu Laukkonen.",
+          "band": "€€€€"
+        },
+        {
+          "name": "Finnjävel",
+          "where": "Helsinque",
+          "angle": "Finlandês moderno, clássicos reinventados. Menos contido que os outros; serviço mais teatral.",
+          "band": "€€€"
+        },
+        {
+          "name": "Ultima",
+          "where": "Helsinque",
+          "angle": "Menu degustação abastecido por uma fazenda vertical no subsolo. O salão mais genuinamente \"Helsinque 2026\" desta lista.",
+          "band": "€€€€"
+        }
       ]
     },
     "lapland": {
       "kicker": "Alta gastronomia da Lapônia",
       "headline": "Três salões para reservar.",
       "lead": "Estas são as cozinhas que levam a cozinha a sério o bastante para competir com Helsinque no apuro do prato, abastecendo-se inteiramente da Lapônia. Nenhuma tem estrela Michelin no momento desta publicação, mas num horizonte de cinco anos qualquer uma delas poderia ter.",
-      "labels": { "signature": "Pratos-assinatura", "band": "Faixa de preço", "booking": "Reserva", "hotelsNearPrefix": "Hotéis:" },
+      "labels": {
+        "signature": "Pratos-assinatura",
+        "band": "Faixa de preço",
+        "booking": "Reserva",
+        "hotelsNearPrefix": "Hotéis:"
+      },
       "rooms": [
-        { "name": "Ravintola Nili", "city": "Rovaniemi", "address": "Valtakatu 20, centro de Rovaniemi · a 5 minutos a pé da estação de trem", "angle": "O salão de alta gastronomia mais citado da Lapônia. Pratos de raiz sami o filé de rena em sous-vide com redução de mirtilo é a assinatura, ao lado de um programa de frutas silvestres que se apoia no que os coletores de Inari trouxeram naquela manhã. Cozinha aberta, interior de madeira aquecida, 60 lugares.", "signature": "Filé de rena em sous-vide · salvelino-ártico curado em pinheiro · parfait de amora ártica", "band": "€€€, menu degustação € 68 · principais à la carte € 28–42", "booking": "Reserve com 3 a 4 semanas de antecedência no verão / dezembro. Possível entrar sem reserva de ter. a qua." },
-        { "name": "Restaurant Aanaar", "city": "Inari", "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · às margens do rio Juutuanjoki", "angle": "O mais próximo de uma experiência gastronômica de destino no coração do território sami. O chef constrói os menus em torno das oito estações samis de Inari, mirtilos lactofermentados, coração de rena defumado, salvelino-ártico curado a frio e a carta de vinhos é incomumente profunda para uma cidade de 7.000 habitantes.", "signature": "Degustação de frutas silvestres em 7 tempos · coração de rena defumado · parfait de xarope de bétula", "band": "€€€€, menu degustação € 85, com vinhos harmonizados € 145", "booking": "Dois turnos por noite, 32 lugares no total. Reserve com 6 a 8 semanas de antecedência no inverno e na janela do sol da meia-noite." },
-        { "name": "Rakas no Arctic TreeHouse Hotel", "city": "Rovaniemi · região do Santa Park", "address": "Tarvantie 3, a 7 km do centro de Rovaniemi · táxi ou transfer do hotel", "angle": "Salão com teto de vidro voltado para o norte, totalmente panorâmico sobre a floresta de abetos, projetado para você assistir à aurora durante o menu degustação no inverno. O coregono ártico em confit sob óleo de ervas silvestres é a assinatura do salão, empratado com microbrotos colhidos e flores comestíveis.", "signature": "Coregono ártico em confit · truta curada em pinheiro · domo de chocolate e airela", "band": "€€€€, menu de 4 tempos € 78 · menu de 7 tempos € 115", "booking": "Hóspedes do hotel têm prioridade. Não hóspedes reservam com 4 semanas de antecedência no inverno." }
+        {
+          "name": "Ravintola Nili",
+          "city": "Rovaniemi",
+          "address": "Valtakatu 20, centro de Rovaniemi · a 5 minutos a pé da estação de trem",
+          "angle": "O salão de alta gastronomia mais citado da Lapônia. Pratos de raiz sami o filé de rena em sous-vide com redução de mirtilo é a assinatura, ao lado de um programa de frutas silvestres que se apoia no que os coletores de Inari trouxeram naquela manhã. Cozinha aberta, interior de madeira aquecida, 60 lugares.",
+          "signature": "Filé de rena em sous-vide · salvelino-ártico curado em pinheiro · parfait de amora ártica",
+          "band": "€€€, menu degustação € 68 · principais à la carte € 28–42",
+          "booking": "Reserve com 3 a 4 semanas de antecedência no verão / dezembro. Possível entrar sem reserva de ter. a qua."
+        },
+        {
+          "name": "Restaurant Aanaar",
+          "city": "Inari",
+          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · às margens do rio Juutuanjoki",
+          "angle": "O mais próximo de uma experiência gastronômica de destino no coração do território sami. O chef constrói os menus em torno das oito estações samis de Inari, mirtilos lactofermentados, coração de rena defumado, salvelino-ártico curado a frio e a carta de vinhos é incomumente profunda para uma cidade de 7.000 habitantes.",
+          "signature": "Degustação de frutas silvestres em 7 tempos · coração de rena defumado · parfait de xarope de bétula",
+          "band": "€€€€, menu degustação € 85, com vinhos harmonizados € 145",
+          "booking": "Dois turnos por noite, 32 lugares no total. Reserve com 6 a 8 semanas de antecedência no inverno e na janela do sol da meia-noite."
+        },
+        {
+          "name": "Rakas no Arctic TreeHouse Hotel",
+          "city": "Rovaniemi · região do Santa Park",
+          "address": "Tarvantie 3, a 7 km do centro de Rovaniemi · táxi ou transfer do hotel",
+          "angle": "Salão com teto de vidro voltado para o norte, totalmente panorâmico sobre a floresta de abetos, projetado para você assistir à aurora durante o menu degustação no inverno. O coregono ártico em confit sob óleo de ervas silvestres é a assinatura do salão, empratado com microbrotos colhidos e flores comestíveis.",
+          "signature": "Coregono ártico em confit · truta curada em pinheiro · domo de chocolate e airela",
+          "band": "€€€€, menu de 4 tempos € 78 · menu de 7 tempos € 115",
+          "booking": "Hóspedes do hotel têm prioridade. Não hóspedes reservam com 4 semanas de antecedência no inverno."
+        }
       ]
     },
     "courseFlow": {
@@ -543,24 +1053,68 @@
       "headline": "Um menu degustação finlandês, tempo a tempo.",
       "lead": "A estrutura é consistente tanto nos salões Michelin de Helsinque quanto nas cozinhas-referência da Lapônia. Conhecer a sequência aproximada ajuda a dosar o vinho, deixar espaço para a sobremesa e não entrar em pânico quando a conta chega.",
       "items": [
-        { "n": "01", "label": "Boas-vindas", "body": "Dois ou três pequenos bocados à mesa, legumes em conserva, peixe defumado sobre centeio, um shot de caldo de ervas colhidas. Define o tom da estação." },
-        { "n": "02", "label": "Entrada fria", "body": "Salvelino-ártico ou coregono de alguma forma, curado, defumado ou em tartar. Quase sempre com um elemento de erva colhida." },
-        { "n": "03", "label": "Entrada quente", "body": "Prato de cogumelos ou de raízes no outono; prato de frutas ou ervas no verão. Onde os chefs mostram o trabalho de fermentação." },
-        { "n": "04", "label": "Prato de peixe", "body": "Lucioperca, truta ou lúcio, conforme o que os pescadores locais trouxeram. Cozido rosado no centro, com um molho de manteiga ou creme." },
-        { "n": "05", "label": "Rena ou caça", "body": "A proteína principal. Filé em sous-vide, paleta em fogo baixo ou lombo defumado. Mirtilo, airela ou zimbro ancoram o prato." },
-        { "n": "06", "label": "Queijo (opcional)", "body": "Queijo finlandês curado, estilo Lappi ou Tervaleipäjuusto, com uma conserva de mel e alcatrão ou de amora ártica." },
-        { "n": "07", "label": "Pré-sobremesa", "body": "Um pequeno limpador de paladar, sorvete de seiva de bétula, consommé de amora ártica, granita de airela." },
-        { "n": "08", "label": "Sobremesa", "body": "O parfait de amora ártica ou o domo de chocolate e airela são os dois mais comuns. O café vem numa chaleira de cobre." }
+        {
+          "n": "01",
+          "label": "Boas-vindas",
+          "body": "Dois ou três pequenos bocados à mesa, legumes em conserva, peixe defumado sobre centeio, um shot de caldo de ervas colhidas. Define o tom da estação."
+        },
+        {
+          "n": "02",
+          "label": "Entrada fria",
+          "body": "Salvelino-ártico ou coregono de alguma forma, curado, defumado ou em tartar. Quase sempre com um elemento de erva colhida."
+        },
+        {
+          "n": "03",
+          "label": "Entrada quente",
+          "body": "Prato de cogumelos ou de raízes no outono; prato de frutas ou ervas no verão. Onde os chefs mostram o trabalho de fermentação."
+        },
+        {
+          "n": "04",
+          "label": "Prato de peixe",
+          "body": "Lucioperca, truta ou lúcio, conforme o que os pescadores locais trouxeram. Cozido rosado no centro, com um molho de manteiga ou creme."
+        },
+        {
+          "n": "05",
+          "label": "Rena ou caça",
+          "body": "A proteína principal. Filé em sous-vide, paleta em fogo baixo ou lombo defumado. Mirtilo, airela ou zimbro ancoram o prato."
+        },
+        {
+          "n": "06",
+          "label": "Queijo (opcional)",
+          "body": "Queijo finlandês curado, estilo Lappi ou Tervaleipäjuusto, com uma conserva de mel e alcatrão ou de amora ártica."
+        },
+        {
+          "n": "07",
+          "label": "Pré-sobremesa",
+          "body": "Um pequeno limpador de paladar, sorvete de seiva de bétula, consommé de amora ártica, granita de airela."
+        },
+        {
+          "n": "08",
+          "label": "Sobremesa",
+          "body": "O parfait de amora ártica ou o domo de chocolate e airela são os dois mais comuns. O café vem numa chaleira de cobre."
+        }
       ]
     },
     "bookingNotes": {
       "headline": "Quatro coisas que os iniciantes erram.",
       "lead": "As cozinhas da Lapônia são tolerantes. Ainda assim são salões pequenos com serviço liderado por chefs. Estas são as quatro correções que passamos a um amigo antes da primeira reserva.",
       "items": [
-        { "label": "Planeje no mínimo 3 horas", "body": "Um menu degustação completo da Lapônia dura de 2,5 a 3,5 horas. Não marque um espetáculo às 21h depois." },
-        { "label": "A harmonização compensa", "body": "A maioria dos carros-chefe da Lapônia tem um sommelier escolhendo vinhos europeus de pequenos produtores. As harmonizações custam de € 45 a € 95 além do menu." },
-        { "label": "Avise sobre alergias cedo", "body": "Os menus degustação são pré-montados e trazem ingredientes colhidos complexos. Alergias / vegetariano / vegano: sinalize na reserva, não na hora." },
-        { "label": "Esporte fino", "body": "Nenhum restaurante na Finlândia vai te barrar de jeans, mas os salões esperam um esforço. Tênis e moletom destoam." }
+        {
+          "label": "Planeje no mínimo 3 horas",
+          "body": "Um menu degustação completo da Lapônia dura de 2,5 a 3,5 horas. Não marque um espetáculo às 21h depois."
+        },
+        {
+          "label": "A harmonização compensa",
+          "body": "A maioria dos carros-chefe da Lapônia tem um sommelier escolhendo vinhos europeus de pequenos produtores. As harmonizações custam de € 45 a € 95 além do menu."
+        },
+        {
+          "label": "Avise sobre alergias cedo",
+          "body": "Os menus degustação são pré-montados e trazem ingredientes colhidos complexos. Alergias / vegetariano / vegano: sinalize na reserva, não na hora."
+        },
+        {
+          "label": "Esporte fino",
+          "body": "Nenhum restaurante na Finlândia vai te barrar de jeans, mas os salões esperam um esforço. Tênis e moletom destoam."
+        }
       ]
     },
     "stayNear": {
@@ -589,23 +1143,62 @@
       "headline": "O que cobrimos.",
       "lead": "Seis pilares. Cada um é uma página aprofundada que poderia existir sozinha. Juntos, formam o guia de campo que gostaríamos que existisse quando começamos a escrever sobre esta região.",
       "items": [
-        { "t": "Ingredientes locais", "body": "O que cresce, nada e pasta aqui. Rena, amoras árticas, mirtilos, peixe ártico, ervas silvestres. De onde vêm, quando estão no auge.", "href": "/local-ingredients" },
-        { "t": "Receitas tradicionais", "body": "Bidos, gahkku, sopa de peixe da Sápmi, kissel de frutas silvestres, além do contexto cultural que explica por que têm a cara que têm.", "href": "/traditional-recipes" },
-        { "t": "Lapônia moderna", "body": "Técnica nórdica nova aplicada a ingredientes da Lapônia. Sous-vide, fermentação, cura a frio, guarnição colhida. Onde provar.", "href": "/modern-lapland" },
-        { "t": "Guia de colheita silvestre", "body": "Cinco alimentos silvestres essenciais, a segurança com cogumelos em detalhe, um calendário sazonal de 8 meses e o direito de acesso à natureza que torna tudo legal.", "href": "/foraging-guide" },
-        { "t": "Michelin e alta gastronomia", "body": "A cena Michelin de Helsinque, os três salões-referência da Lapônia, como é de fato um menu degustação, como funciona a reserva.", "href": "/michelin-dining" },
-        { "t": "Tours gastronômicos e aulas de cozinha", "body": "As experiências gastronômicas que valem a reserva, jornadas gastronômicas samis, tours de alta gastronomia, caminhadas de colheita. Selecionadas, não exaustivas.", "href": "/food-tours" }
+        {
+          "t": "Ingredientes locais",
+          "body": "O que cresce, nada e pasta aqui. Rena, amoras árticas, mirtilos, peixe ártico, ervas silvestres. De onde vêm, quando estão no auge.",
+          "href": "/local-ingredients"
+        },
+        {
+          "t": "Receitas tradicionais",
+          "body": "Bidos, gahkku, sopa de peixe da Sápmi, kissel de frutas silvestres, além do contexto cultural que explica por que têm a cara que têm.",
+          "href": "/traditional-recipes"
+        },
+        {
+          "t": "Lapônia moderna",
+          "body": "Técnica nórdica nova aplicada a ingredientes da Lapônia. Sous-vide, fermentação, cura a frio, guarnição colhida. Onde provar.",
+          "href": "/modern-lapland"
+        },
+        {
+          "t": "Guia de colheita silvestre",
+          "body": "Cinco alimentos silvestres essenciais, a segurança com cogumelos em detalhe, um calendário sazonal de 8 meses e o direito de acesso à natureza que torna tudo legal.",
+          "href": "/foraging-guide"
+        },
+        {
+          "t": "Michelin e alta gastronomia",
+          "body": "A cena Michelin de Helsinque, os três salões-referência da Lapônia, como é de fato um menu degustação, como funciona a reserva.",
+          "href": "/michelin-dining"
+        },
+        {
+          "t": "Tours gastronômicos e aulas de cozinha",
+          "body": "As experiências gastronômicas que valem a reserva, jornadas gastronômicas samis, tours de alta gastronomia, caminhadas de colheita. Selecionadas, não exaustivas.",
+          "href": "/food-tours"
+        }
       ]
     },
     "principles": {
       "headline": "Como escolhemos o que recomendar.",
       "lead": "Somos uma publicação independente. Os princípios abaixo são como mantemos isso honesto.",
       "items": [
-        { "t": "Recomendar como você faria a um amigo", "body": "O filtro mais simples. Cada restaurante, tour, fornecedor de ingredientes e produtor neste site é um para o qual mandaríamos um amigo. Se não mandaríamos, não vai para a página." },
-        { "t": "Específico em vez de vibe", "body": "Uma afirmação como \"a melhor alta gastronomia da Lapônia\" não significa nada sem especificidade. A gente te diz o que pedir, quanto custa, quando reservar, por onde entrar. O que não conseguimos especificar, deixamos de fora." },
-        { "t": "O afiliado não muda o editorial", "body": "Alguns links de reserva nos pagam uma comissão se você reservar por eles. Nenhum desses links libera conteúdo, muda a ordem das recomendações nem compra um lugar na página. Os mesmos restaurantes estariam na página mesmo que nenhum programa de afiliados existisse." },
-        { "t": "Sem estatísticas falsas, sem citações falsas", "body": "Se citamos um número, ele tem uma fonte que poderíamos apontar. Se citamos um chef, falamos com ele. Se temos dúvida sobre algo, a contagem atual de estrelas Michelin, o ano exato em que uma tradição começou, dizemos isso e remetemos à fonte autorizada." },
-        { "t": "Atualizar em vez de apagar", "body": "Restaurantes fecham, chefs mudam, preços oscilam. Quando descobrimos que uma página está errada, atualizamos com uma data. Não fingimos que a versão errada nunca existiu." }
+        {
+          "t": "Recomendar como você faria a um amigo",
+          "body": "O filtro mais simples. Cada restaurante, tour, fornecedor de ingredientes e produtor neste site é um para o qual mandaríamos um amigo. Se não mandaríamos, não vai para a página."
+        },
+        {
+          "t": "Específico em vez de vibe",
+          "body": "Uma afirmação como \"a melhor alta gastronomia da Lapônia\" não significa nada sem especificidade. A gente te diz o que pedir, quanto custa, quando reservar, por onde entrar. O que não conseguimos especificar, deixamos de fora."
+        },
+        {
+          "t": "O afiliado não muda o editorial",
+          "body": "Alguns links de reserva nos pagam uma comissão se você reservar por eles. Nenhum desses links libera conteúdo, muda a ordem das recomendações nem compra um lugar na página. Os mesmos restaurantes estariam na página mesmo que nenhum programa de afiliados existisse."
+        },
+        {
+          "t": "Sem estatísticas falsas, sem citações falsas",
+          "body": "Se citamos um número, ele tem uma fonte que poderíamos apontar. Se citamos um chef, falamos com ele. Se temos dúvida sobre algo, a contagem atual de estrelas Michelin, o ano exato em que uma tradição começou, dizemos isso e remetemos à fonte autorizada."
+        },
+        {
+          "t": "Atualizar em vez de apagar",
+          "body": "Restaurantes fecham, chefs mudam, preços oscilam. Quando descobrimos que uma página está errada, atualizamos com uma data. Não fingimos que a versão errada nunca existiu."
+        }
       ]
     },
     "network": {
@@ -628,7 +1221,16 @@
       "cookieLabel": "Política de cookies"
     }
   },
-  "privacy": { "title": "Política de Privacidade | LaplandFood", "description": "Como a LaplandFood lida com seus dados." },
-  "terms": { "title": "Termos de Uso | LaplandFood", "description": "Termos de uso da LaplandFood." },
-  "cookie": { "title": "Política de Cookies | LaplandFood", "description": "Como a LaplandFood usa cookies." }
+  "privacy": {
+    "title": "Política de Privacidade | LaplandFood",
+    "description": "Como a LaplandFood lida com seus dados."
+  },
+  "terms": {
+    "title": "Termos de Uso | LaplandFood",
+    "description": "Termos de uso da LaplandFood."
+  },
+  "cookie": {
+    "title": "Política de Cookies | LaplandFood",
+    "description": "Como a LaplandFood usa cookies."
+  }
 }
