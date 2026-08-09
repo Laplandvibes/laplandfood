@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { trackNewsletterSignup } from '../lib/analytics'
+import FounderByline from '../../../shared/FounderByline';
 
 const SUPABASE_URL = 'https://oogioaxmfnqcbvjbcodh.supabase.co'
 const SUPABASE_PUBLISHABLE_KEY =
@@ -62,6 +63,7 @@ export default function NewsletterSection() {
             </p>
           </div>
         ) : (
+          <FounderByline tone="pink" />
           <form onSubmit={onSubmit} className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto">
             <input
               type="email"
