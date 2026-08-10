@@ -273,6 +273,27 @@
       "p2": "What you cannot do: damage trees, hunt, drive a vehicle off-road, collect protected plants, light an open fire on someone's land without permission, or pick from a cultivated garden. The principle is access without harm. It is one of the few legal frameworks in Europe that treats wild food as a shared resource, and it is the structural reason Lapland's food culture survived modernisation.",
       "ctaPrimary": "Read the foraging guide",
       "ctaSecondary": "Or book a guided foraging walk"
+    },
+    "nextSteps": {
+      "kicker": "Next",
+      "headline": "Where this ends up.",
+      "items": [
+        {
+          "title": "Cook it",
+          "body": "The traditional recipes these ingredients were built for, with the method written out.",
+          "cta": "Recipes"
+        },
+        {
+          "title": "Taste it with a guide",
+          "body": "Foraging walks and meals cooked over a fire, bookable for the dates you are actually here.",
+          "cta": "Food tours"
+        },
+        {
+          "title": "Stay in Rovaniemi",
+          "body": "Lapland's largest city and the easiest base for market halls, restaurants and day trips out to the farms.",
+          "cta": "Check hotel prices"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

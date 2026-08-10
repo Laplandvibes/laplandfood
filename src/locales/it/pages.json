@@ -273,6 +273,27 @@
       "p2": "Cosa non può fare: danneggiare gli alberi, cacciare, guidare un veicolo fuoristrada, raccogliere piante protette, accendere un fuoco aperto sul terreno di qualcun altro senza permesso, o raccogliere da un giardino coltivato. Il principio è accesso senza danno. È uno dei pochi quadri legali in Europa che tratta il cibo selvatico come una risorsa condivisa, ed è la ragione strutturale per cui la cultura gastronomica lappone è sopravvissuta alla modernizzazione.",
       "ctaPrimary": "Leggi la guida alla raccolta",
       "ctaSecondary": "O prenoti una passeggiata di raccolta guidata"
+    },
+    "nextSteps": {
+      "kicker": "Poi",
+      "headline": "Dove va a finire.",
+      "items": [
+        {
+          "title": "Cucinalo",
+          "body": "Le ricette tradizionali per cui questi ingredienti esistono, con il metodo scritto per esteso.",
+          "cta": "Ricette"
+        },
+        {
+          "title": "Assaggialo con una guida",
+          "body": "Uscite di raccolta e pasti cotti sul fuoco, prenotabili per le date in cui sei davvero qui.",
+          "cta": "Tour gastronomici"
+        },
+        {
+          "title": "Dormi a Rovaniemi",
+          "body": "La città più grande della Lapponia e la base più comoda per mercati coperti, ristoranti e gite alle fattorie.",
+          "cta": "Vedi i prezzi degli hotel"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

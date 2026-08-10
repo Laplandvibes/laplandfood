@@ -273,6 +273,27 @@
       "p2": "Vad du inte får göra: skada träd, jaga, köra fordon i terräng, samla fridlysta växter, göra upp öppen eld på någons mark utan lov, eller plocka från en odlad trädgård. Principen är tillgång utan skada. Det är ett av få regelverk i Europa som behandlar vild mat som en gemensam resurs, och det är den strukturella orsaken till att Lapplands matkultur överlevde moderniseringen.",
       "ctaPrimary": "Läs plockningsguiden",
       "ctaSecondary": "Eller boka en guidad plockningsvandring"
+    },
+    "nextSteps": {
+      "kicker": "Härnäst",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Laga det själv",
+          "body": "De traditionella recepten som de här råvarorna är till för, med metoden utskriven.",
+          "cta": "Recept"
+        },
+        {
+          "title": "Smaka med guide",
+          "body": "Plockturer och mat lagad över eld, bokningsbart för de datum du faktiskt är här.",
+          "cta": "Matturer"
+        },
+        {
+          "title": "Bo i Rovaniemi",
+          "body": "Lapplands största stad och den enklaste basen för saluhallar, restauranger och dagsturer ut till gårdarna.",
+          "cta": "Se hotellpriser"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

@@ -274,6 +274,27 @@
       "p2": "Mitä et voi: vahingoittaa puita, metsästää, ajaa moottori­ajoneuvoa maastossa, kerätä rauhoitettuja kasveja, sytyttää avotulta toisen maalle ilman lupaa tai poimia viljellyltä puutarhalta. Periaate on käyttö ilman vahinkoa. Se on yksi Euroopan harvoja lakikehyksiä, jotka kohtelevat villi­ruokaa yhteisenä resurssina, ja se on rakenteellinen syy siihen, miksi Lapin ruokakulttuuri säilyi modernisaation läpi.",
       "ctaPrimary": "Lue keräilyopas",
       "ctaSecondary": "Tai varaa opastettu keräilyretki"
+    },
+    "nextSteps": {
+      "kicker": "Seuraavaksi",
+      "headline": "Mihin tämä päätyy.",
+      "items": [
+        {
+          "title": "Kokkaa itse",
+          "body": "Perinneruoat joita varten nämä raaka-aineet ovat, valmistustapa kirjoitettuna auki.",
+          "cta": "Reseptit"
+        },
+        {
+          "title": "Maista oppaan kanssa",
+          "body": "Keruuretkiä ja nuotiolla laitettua ruokaa, varattavissa niille päiville jolloin olet täällä.",
+          "cta": "Ruokaretket"
+        },
+        {
+          "title": "Yövy Rovaniemellä",
+          "body": "Lapin suurin kaupunki ja helpoin tukikohta kauppahalleille, ravintoloille ja päiväretkille tiloille.",
+          "cta": "Katso hotellihinnat"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

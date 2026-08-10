@@ -274,6 +274,27 @@
       "p2": "Was Sie nicht dürfen: Bäume beschädigen, jagen, abseits markierter Wege motorisiert fahren, geschützte Pflanzen pflücken, auf fremdem Grund ohne Erlaubnis ein offenes Feuer entzünden oder aus einem bewirtschafteten Garten ernten. Der Grundsatz lautet: Nutzung ohne Schaden. Es ist einer der wenigen rechtlichen Rahmen Europas, die Wildnahrung als Gemeingut behandeln, und der strukturelle Grund, warum die Esskultur Lapplands die Modernisierung überstanden hat.",
       "ctaPrimary": "Sammelguide lesen",
       "ctaSecondary": "Oder eine geführte Sammeltour buchen"
+    },
+    "nextSteps": {
+      "kicker": "Weiter",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Selbst kochen",
+          "body": "Die traditionellen Rezepte, für die diese Zutaten gedacht sind, mit ausgeschriebener Methode.",
+          "cta": "Rezepte"
+        },
+        {
+          "title": "Mit Guide probieren",
+          "body": "Sammelgänge und am Feuer gekochtes Essen, buchbar für die Tage, an denen Sie wirklich hier sind.",
+          "cta": "Kulinarische Touren"
+        },
+        {
+          "title": "In Rovaniemi übernachten",
+          "body": "Lapplands größte Stadt und die einfachste Basis für Markthallen, Restaurants und Tagesfahrten zu den Höfen.",
+          "cta": "Hotelpreise ansehen"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

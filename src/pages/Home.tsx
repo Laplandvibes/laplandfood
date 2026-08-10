@@ -82,17 +82,14 @@ export default function Home() {
       <div className="min-h-screen bg-white">
         <Nav />
         <Hero />
-        {/* App launch block, directly under the site's own opening. At the foot
-            of the page it measured 81 % down a 33 000 px front page, and an
-            announcement nobody scrolls to is not an announcement. */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <AppPromoHero />
-        </div>
 
-
-
-
-        {/* Stat glass tiles overlapping the hero bottom — real numbers only */}
+        {/* Stat glass tiles overlapping the hero bottom — real numbers only.
+            🔴 These MUST stay the first thing after <Hero />. The negative
+            margin is what makes them sit on the hero image, and when the app
+            block was inserted above them (2026-08-02) they rode up over IT
+            instead — the figures landed on top of the app card's own copy and
+            read as a rendering fault (Vesa 2026-08-10, with a screenshot).
+            Anything new on this page goes BELOW this section. */}
         <section aria-label="LaplandFood in numbers" className="relative z-10 -mt-16 md:-mt-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
@@ -108,6 +105,13 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        {/* App launch block, directly under the site's own opening. At the foot
+            of the page it measured 81 % down a 33 000 px front page, and an
+            announcement nobody scrolls to is not an announcement. */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AppPromoHero />
+        </div>
 
         {/* PÄÄKUMPPANI-banneri heti heron alla — sivun paras mainospaikka,
             tyhjänä kompakti house-ad → LV Media -portaali */}
@@ -144,8 +148,18 @@ export default function Home() {
         </section>
 
         {/* Kumppaniosio ylhäällä (jaettu malli): kakkospääkumppani + 6
-            premium-paikkaa — pääkumppanit eivät näy vierekkäin (banneri ↑) */}
-        <HomeAdSlots config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
+            premium-paikkaa — pääkumppanit eivät näy vierekkäin (banneri ↑)
+
+            🔴 Renderöidään VAIN kun kakkospaikka on myyty (Vesa 2026-08-10).
+            Tyhjänä tämä oli sivun toinen "Haluatko mainoksesi tähän?" — iso
+            tumma laatikko keskellä valkoista lukuvirtaa, heti heron alla
+            olevan kompaktin bannerin perään. Kaksi myyntipuhetta peräkkäin
+            sivustolla jolla ei ole yhtään kumppania ei myy toista paikkaa;
+            se kertoo lukijalle että talo on tyhjä. Yksi house-ad riittää, ja
+            se on heron alla oleva. Kauppa → täytä sponsors[1] → lohko palaa. */}
+        {AD_SLOTS.sponsors?.[1] && (
+          <HomeAdSlots config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
+        )}
 
         {/* Varattavat GYG-tuotteet — korkealla sivulla mutta myytyjen mainospaikkojen ALAPUOLELLA */}
         <GygPicks />

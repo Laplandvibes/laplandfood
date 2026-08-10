@@ -273,6 +273,27 @@
       "p2": "Wat u niet kunt: bomen beschadigen, jagen, off-road met een voertuig rijden, beschermde planten verzamelen, een open vuur op andermans grond stoken zonder toestemming, of plukken uit een gecultiveerde tuin. Het principe is toegang zonder schade. Het is een van de weinige juridische kaders in Europa dat wild voedsel als gedeelde bron behandelt, en het is de structurele reden waarom Laplands eetcultuur de modernisering overleefde.",
       "ctaPrimary": "Lees de plukgids",
       "ctaSecondary": "Of boek een begeleide plukwandeling"
+    },
+    "nextSteps": {
+      "kicker": "Hierna",
+      "headline": "Waar dit eindigt.",
+      "items": [
+        {
+          "title": "Kook het zelf",
+          "body": "De traditionele recepten waarvoor deze ingrediënten bedoeld zijn, met de methode uitgeschreven.",
+          "cta": "Recepten"
+        },
+        {
+          "title": "Proef het met een gids",
+          "body": "Pluktochten en eten boven het vuur, te boeken voor de dagen dat je er echt bent.",
+          "cta": "Culinaire tours"
+        },
+        {
+          "title": "Overnacht in Rovaniemi",
+          "body": "De grootste stad van Lapland en de makkelijkste uitvalsbasis voor markthallen, restaurants en dagtochten naar de boerderijen.",
+          "cta": "Bekijk hotelprijzen"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

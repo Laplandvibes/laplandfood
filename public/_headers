@@ -1,9 +1,19 @@
 # >>> LV-LINK-PRELOAD (managed by apply_link_preload_headers.py)
+# 🔴 HAND-MAINTAINED SINCE 2026-08-10 — the generator writes ONE line per site
+# and this hero is art-directed: a landscape flat-lay on desktop, a portrait
+# one on phones (src/components/Hero.tsx explains why). Preloading the old
+# single hero-main.jpg would now fetch 332 kB that the page never renders,
+# because <picture> resolves to AVIF. The preload matters more here than on a
+# server-rendered site: #root ships empty, so without these the hero is not
+# even discovered until the bundle has parsed. If the generator is re-run for
+# this site, restore this block by hand.
 /
-  Link: </images/hero-main.jpg>; rel=preload; as=image; fetchpriority=high
+  Link: </images/hero-main.avif>; rel=preload; as=image; type=image/avif; media="(min-width: 768px)"; fetchpriority=high
+  Link: </images/hero-main-portrait.avif>; rel=preload; as=image; type=image/avif; media="(max-width: 767px)"; fetchpriority=high
 
 /index.html
-  Link: </images/hero-main.jpg>; rel=preload; as=image; fetchpriority=high
+  Link: </images/hero-main.avif>; rel=preload; as=image; type=image/avif; media="(min-width: 768px)"; fetchpriority=high
+  Link: </images/hero-main-portrait.avif>; rel=preload; as=image; type=image/avif; media="(max-width: 767px)"; fetchpriority=high
 # <<< LV-LINK-PRELOAD
 
 # >>> LV-SECURITY (managed)

@@ -273,6 +273,27 @@
       "p2": "Lo que no puedes hacer: dañar árboles, cazar, conducir un vehículo fuera de los caminos, recoger plantas protegidas, encender una hoguera en el terreno de alguien sin permiso o coger de un jardín cultivado. El principio es acceso sin daño. Es uno de los pocos marcos legales de Europa que trata la comida silvestre como un recurso compartido, y es la razón estructural por la que la cultura gastronómica de Laponia sobrevivió a la modernización.",
       "ctaPrimary": "Leer la guía de recolección",
       "ctaSecondary": "O reservar un paseo de recolección guiado"
+    },
+    "nextSteps": {
+      "kicker": "Después",
+      "headline": "Dónde acaba esto.",
+      "items": [
+        {
+          "title": "Cocínalo",
+          "body": "Las recetas tradicionales para las que existen estos ingredientes, con el método explicado.",
+          "cta": "Recetas"
+        },
+        {
+          "title": "Pruébalo con guía",
+          "body": "Salidas de recolección y comida hecha al fuego, reservables para las fechas en las que estarás aquí.",
+          "cta": "Rutas gastronómicas"
+        },
+        {
+          "title": "Alójate en Rovaniemi",
+          "body": "La ciudad más grande de Laponia y la base más cómoda para mercados, restaurantes y excursiones a las granjas.",
+          "cta": "Ver precios de hoteles"
+        }
+      ]
     }
   },
   "traditionalRecipes": {

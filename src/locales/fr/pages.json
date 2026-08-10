@@ -273,6 +273,27 @@
       "p2": "Ce que vous ne pouvez pas faire : abîmer les arbres, chasser, conduire un véhicule hors-piste, ramasser des plantes protégées, allumer un feu sur le terrain de quelqu'un sans permission, ou cueillir dans un jardin cultivé. Le principe est : accéder sans nuire. C'est l'un des rares cadres légaux d'Europe à traiter la nourriture sauvage comme une ressource commune, et c'est la raison structurelle pour laquelle la culture culinaire lapone a survécu à la modernisation.",
       "ctaPrimary": "Lire le guide de cueillette",
       "ctaSecondary": "Ou réserver une balade guidée de cueillette"
+    },
+    "nextSteps": {
+      "kicker": "Ensuite",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "Le cuisiner",
+          "body": "Les recettes traditionnelles pour lesquelles ces produits existent, avec la méthode détaillée.",
+          "cta": "Recettes"
+        },
+        {
+          "title": "Le goûter avec un guide",
+          "body": "Sorties de cueillette et repas cuits au feu, réservables pour les dates où vous êtes vraiment là.",
+          "cta": "Tours gastronomiques"
+        },
+        {
+          "title": "Dormir à Rovaniemi",
+          "body": "La plus grande ville de Laponie et la base la plus simple pour les halles, les restaurants et les excursions vers les fermes.",
+          "cta": "Voir les prix des hôtels"
+        }
+      ]
     }
   },
   "traditionalRecipes": {
