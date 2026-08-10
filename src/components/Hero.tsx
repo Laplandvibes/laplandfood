@@ -19,10 +19,20 @@ export default function Hero() {
           landscape file would have shown an empty tablecloth and no food at
           all. The portrait file is the same table shot vertically, with the
           food along the top and bottom edges instead. */}
+      {/* 🔴 KOLME leikkausta, ei kahta — ja ehto on KUVASUHDE, ei leveys.
+          Lohko on 88svh korkea, joten sen suhde on viewportin suhde / 0,88.
+          1440×900 → 1,82 ≈ 16:9-kuva, osuu kohdalleen. 1920×950 → 2,3, jolloin
+          object-cover skaalaa 16:9-kuvan leveyden mukaan ja leikkaa ylä- ja
+          alareunasta ~120 px kummastakin — eli juuri sen rivin jossa ruoka on
+          (Vesa 2026-08-10: "eihän tuotteet edes näy?"). Leveysrajaan ei voi
+          sitoa, koska 1920×1080 ja 1920×860 tarvitsevat eri kuvan. */}
       <picture>
         <source media="(max-width: 767px)" type="image/avif" srcSet="/images/hero-main-portrait.avif" />
         <source media="(max-width: 767px)" type="image/webp" srcSet="/images/hero-main-portrait.webp" />
         <source media="(max-width: 767px)" srcSet="/images/hero-main-portrait.jpg" />
+        <source media="(min-aspect-ratio: 16/9)" type="image/avif" srcSet="/images/hero-main-wide.avif" />
+        <source media="(min-aspect-ratio: 16/9)" type="image/webp" srcSet="/images/hero-main-wide.webp" />
+        <source media="(min-aspect-ratio: 16/9)" srcSet="/images/hero-main-wide.jpg" />
         <source type="image/avif" srcSet="/images/hero-main.avif" />
         <source type="image/webp" srcSet="/images/hero-main.webp" />
         <img

@@ -227,6 +227,14 @@ const CAT_BLURB: Record<string, Record<string, string>> = {
   },
 };
 
+/** Kuva per kategoria. Kumpikin on generoitu tälle sivustolle ja kuvaa sitä
+ *  mitä kategoriassa oikeasti on (ks. tiedoston alku) — ei yksittäistä tuotetta,
+ *  koska emme nimeä yhtäkään retkeä. Vesa 2026-08-10: "ei kuvia tässä osiossa?" */
+const CAT_IMAGE: Record<string, string> = {
+  'food-drinks-tc103': '/images/gyg-food-drinks',
+  'dinner-packages-tc100': '/images/gyg-dinner-packages',
+};
+
 const catKey = (path: string): string => path.split('/').pop() ?? '';
 const catName = (path: string, lang: string): string => {
   const key = catKey(path);
@@ -254,28 +262,49 @@ const catBlurb = (path: string, lang: string): string | null => {
         <div className="grid gap-5 sm:grid-cols-2">
         {rows.map((c) => {
           const blurb = catBlurb(c.path, lang);
+          const img = CAT_IMAGE[catKey(c.path)];
           return (
           <a
             key={c.path}
             href={gygCategoryHref(c, lang)}
             target="_blank"
             rel="sponsored nofollow noopener"
-            className="group flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 p-7 no-underline transition-all hover:border-vibe-pink/40 hover:shadow-[0_8px_28px_rgba(0,47,108,0.08)]"
+            className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-[#002F6C]/10 no-underline transition-all hover:border-vibe-pink/40 hover:shadow-[0_8px_28px_rgba(0,47,108,0.08)]"
           >
-            <h3 className="font-heading tracking-wide text-2xl sm:text-3xl leading-tight text-[#002F6C] transition-colors group-hover:text-vibe-pink">
-              {catName(c.path, lang)}
-            </h3>
-
-            {blurb && (
-              <p className="mt-3 flex-1 text-sm text-[#002F6C]/70 leading-relaxed">{blurb}</p>
+            {img && (
+              <div className="relative aspect-[16/10] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+                <picture>
+                  <source type="image/avif" srcSet={`${img}.avif`} />
+                  <source type="image/webp" srcSet={`${img}.webp`} />
+                  <img
+                    src={`${img}.jpg`}
+                    alt=""
+                    aria-hidden="true"
+                    loading="lazy"
+                    decoding="async"
+                    onError={(e) => { e.currentTarget.style.display = 'none'; }}
+                    className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+                  />
+                </picture>
+              </div>
             )}
 
-            <span className="mt-6 inline-flex items-center justify-center gap-2 self-start rounded-full bg-vibe-pink px-6 py-3 text-sm font-semibold text-white transition-colors group-hover:bg-vibe-pink/90">
-              {t(L.ctaCategory)}
-              <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
-            </span>
+            <div className="flex flex-1 flex-col p-7">
+              <h3 className="font-heading tracking-wide text-2xl sm:text-3xl leading-tight text-[#002F6C] transition-colors group-hover:text-vibe-pink">
+                {catName(c.path, lang)}
+              </h3>
 
-            <span className="mt-3 text-[11px] uppercase tracking-[0.12em] text-[#002F6C]/55">{t(L.via)}</span>
+              {blurb && (
+                <p className="mt-3 flex-1 text-sm text-[#002F6C]/70 leading-relaxed">{blurb}</p>
+              )}
+
+              <span className="mt-6 inline-flex items-center justify-center gap-2 self-start rounded-full bg-vibe-pink px-6 py-3 text-sm font-semibold text-white transition-colors group-hover:bg-vibe-pink/90">
+                {t(L.ctaCategory)}
+                <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
+              </span>
+
+              <span className="mt-3 text-[11px] uppercase tracking-[0.12em] text-[#002F6C]/55">{t(L.via)}</span>
+            </div>
           </a>
           );
         })}

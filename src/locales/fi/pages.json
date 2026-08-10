@@ -497,25 +497,25 @@
           "sami": "Dálvi",
           "en": "Talvi",
           "when": "joulu – helmi",
-          "body": "Kaamos ja syvin pakkanen. Porot ovat talvilaitumilla, kaivamassa jäkälää lumen alta. Talous elää siitä, mitä syksyllä säilöttiin: kuivapuristettu poro (suovas), suolakala, jäätyneet marjat, ruisjauho. Bidos on jokapäiväinen päivällinen, hidasti kypsynyt rasvainen proteiini lämmittää."
+          "body": "Kaamos ja syvin pakkanen. Porot ovat talvilaitumilla kaivamassa jäkälää lumen alta. Talous elää siitä mitä syksyllä säilöttiin: suolattu ja kylmäsavustettu poro (suovas), suolakala, jäätyneet marjat, ruisjauho. Arjen kattila on vaatimaton, keitettyä lihaa ja kalakeittoa. Bidos, poromuhennos, kuuluu häihin ja juhlapäiviin."
         },
         {
           "sami": "Giđđadálvi",
           "en": "Kevät­talvi",
           "when": "maalis – huhti",
-          "body": "Valo palaa. Porojen vasonta alkaa; paimentajat liikkuvat lauman mukana. Pilkkiminen on parhaimmillaan, aurinko on tarpeeksi kauan ulkona, jotta jäällä voi kalastaa jäätymättä, ja kalat ovat yhä paksun jään alla. Savustettu siika hallitsee. Päivät pidentyvät 7 minuuttia päivässä."
+          "body": "Valo palaa. Tokat lähtevät liikkeelle kohti vasoma-alueita, mutta itse vasonta on vielä viikkojen päässä. Pilkkiminen on parhaimmillaan, aurinko on tarpeeksi kauan ylhäällä jotta jäällä voi kalastaa jäätymättä, ja kalat ovat yhä paksun jään alla. Savustettu siika hallitsee. Päivä pitenee noin seitsemän minuuttia vuorokaudessa."
         },
         {
           "sami": "Giđđa",
           "en": "Kevät",
           "when": "touko",
-          "body": "Lumen sulaminen. Porot siirtyvät kohti kesä­laitumia. Ensimmäiset koivun lehdet ja nokkosen versot ilmestyvät, ensimmäiset tuoreet vihreät seitsemän kuukauden jälkeen. Koivunmahla kerätään ja juodaan tuoreena tai fermentoidaan. Muuttolintujen ensimmäiset munat tulevat."
+          "body": "Lumen sulaminen, ja kuukausi jota saameksi kutsutaan nimellä miessemánnu, vasakuu. Vasat syntyvät. Ensimmäiset koivunlehdet ja nokkosen versot ilmestyvät, ensimmäiset tuoreet vihreät seitsemään kuukauteen. Koivunmahla kerätään ja juodaan tuoreena tai hapatetaan. Muuttolinnut ovat palanneet tuntureille."
         },
         {
           "sami": "Giđđageassi",
           "en": "Kevät­kesä",
           "when": "kesä",
-          "body": "Keskiyön auringon ensimmäinen puolisko. Porot synnyttävät; vasat juoksevat. Maa on vihdoin tarpeeksi lämmin villiyrteille (mesiangervo, siankärsämö, väinönputki). Leivonnaiset korvaavat muhennokset. Tuore maito ja voi palaavat tunturilaitumilta."
+          "body": "Keskiyön auringon ensimmäinen puolisko. Vasat juoksevat jo tokassa ja korvamerkintä alkaa. Maa on vihdoin tarpeeksi lämmin villiyrteille (mesiangervo, siankärsämö, väinönputki). Leivonnaiset korvaavat muhennokset. Tuore maito ja voi palaavat tunturilaitumilta."
         },
         {
           "sami": "Geassi",
@@ -533,13 +533,13 @@
           "sami": "Čakča",
           "en": "Syksy",
           "when": "syys – loka",
-          "body": "Teurastus­kausi. Porot kerätään; paimentajat valitsevat eläimet talven teurastukseen. Liha käsitellään: savustetaan, kuivataan (suovas) ja jäädytetään. Tämä on proteiinipankki, jonka on kestettävä seitsemän kuukautta. Ensimmäiset hallat makeuttavat puolukat."
+          "body": "Teurastuskausi. Porot kerätään; paimenet valitsevat eläimet talven teurastukseen. Liha käsitellään: kylmäsavustetaan suovakseksi, kuivataan ja pakastetaan. Tämä on proteiinipankki jonka on kestettävä seitsemän kuukautta. Ensimmäiset hallat makeuttavat puolukat."
         },
         {
           "sami": "Čakčadálvi",
           "en": "Syys­talvi",
           "when": "marras",
-          "body": "Pimeys palaa. Lumi laskeutuu. Viimeinen säilöntätyö, suolakala, hillot kantapöytään, varaston tarkistus. Keittiö nojaa lämpimään: muhennoksia, keittoja, paistettuja ruisleipiä, kuumia marjamehuja. Bidoskattila on liedellä useimpina päivinä."
+          "body": "Pimeys palaa. Lumi laskeutuu. Viimeiset säilöntätyöt, suolakala, hillot hyllyyn, varaston tarkistus. Keittiö nojaa lämpimään: muhennoksia, keittoja, paistettua ruisleipää, kuumia marjamehuja. Kaikki tulee nyt syksyn varastosta."
         }
       ]
     },

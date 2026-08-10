@@ -37,13 +37,17 @@ export default function FoodTours() {
       <SEO titleKey="foodTours.title" descriptionKey="foodTours.description" path={'/food-tours'} />
       <div className="min-h-screen bg-white">
         <Nav />
+        {/* 🔴 hero-tours oli nuotiolla kiehuva KAHVIPANNU ja kaksi kättä, vaikka
+            otsikko lupaa "syö tiesi Lappiin" (Vesa 2026-08-10: "syö tie lappiin
+            ja kuvassa on kahvipannu?"). Sama tiedostonimi, uusi kuva: katettu
+            retkipöytä — savusiikaa, poroa, hillaa, ruisleipää, pata. */}
         <PageHero
           eyebrow={t('foodTours.hero.eyebrow')}
           title={t('foodTours.hero.title')}
           titleHighlight={t('foodTours.hero.titleHighlight')}
           subtitle={t('foodTours.hero.subtitle')}
           imageUrl="/images/hero-tours.jpg"
-          imageAlt="Small group around a campfire in an Arctic forest, cooking foraged mushrooms over a kettle, golden-hour light"
+          imageAlt="A long wooden table at the forest edge set with cold-smoked whitefish, thin-sliced reindeer, cloudberries, rye bread and a steaming pot of stew, a lavvu tent behind"
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true, rel: 'sponsored nofollow noopener' }}
           pills={tours.map(tour => tour.location)}
         />

@@ -129,7 +129,13 @@ export default function TraditionalRecipes() {
 
         {/* Recipes */}
         <section id="recipes" className="bg-white py-20 sm:py-24">
-          <div className="max-w-4xl mx-auto px-5 sm:px-6 lg:px-8">
+          {/* 🔴 Oli max-w-4xl + space-y-12 = neljä reseptiä yhtenä 896 px:n
+              pylväänä keskellä 1920 px:n ruutua, ja sivun korkeus turhaan
+              nelinkertainen (Vesa 2026-08-10). Leveys 7xl ja kortit 2×2 xl:stä
+              ylöspäin. Kortin SISÄINEN ainekset/ohje-jako menee samalla yhteen
+              sarakkeeseen xl:ssä — kaksi saraketta puolikkaan levyisessä
+              kortissa oli juuri se ahtaus jota vastaan tämä muutos tehtiin. */}
+          <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-14">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('traditionalRecipes.recipesKicker')}
@@ -139,7 +145,7 @@ export default function TraditionalRecipes() {
               </h2>
             </div>
 
-            <div className="space-y-12">
+            <div className="grid xl:grid-cols-2 gap-8 items-start">
               {recipes.map((r, idx) => (
                 <article key={r.name} className="rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-56 sm:h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
@@ -177,7 +183,7 @@ export default function TraditionalRecipes() {
                       </div>
                     </div>
 
-                    <div className="grid md:grid-cols-2 gap-7">
+                    <div className="grid md:grid-cols-2 xl:grid-cols-1 2xl:grid-cols-2 gap-7">
                       <div>
                         <h4 className="font-heading tracking-wide text-xl text-[#002F6C] mb-3">{t('traditionalRecipes.recipeLabels.ingredients')}</h4>
                         <ul className="space-y-2">

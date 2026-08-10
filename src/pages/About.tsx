@@ -107,14 +107,20 @@ export default function About() {
 
         {/* Editorial principles */}
         <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-3">
-              {t('about.principles.headline')}
-            </h2>
-            <p className="text-base text-[#002F6C]/75 mb-8">
-              {t('about.principles.lead')}
-            </p>
-            <div className="space-y-6">
+          {/* 🔴 Periaatekortit olivat max-w-3xl + space-y-6: viisi korttia
+              allekkain 768 px:n pylväässä, molemmin puolin ~570 px tyhjää
+              1920 px:llä (Vesa 2026-08-10). Otsikko pitää oman lukuleveytensä,
+              kortit levittyvät kahteen sarakkeeseen lg:stä ylöspäin. */}
+          <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
+            <div className="max-w-3xl">
+              <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-3">
+                {t('about.principles.headline')}
+              </h2>
+              <p className="text-base text-[#002F6C]/75 mb-8">
+                {t('about.principles.lead')}
+              </p>
+            </div>
+            <div className="grid lg:grid-cols-2 gap-5 items-start">
               {principles.map(p => (
                 <div key={p.t} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6 sm:p-7">
                   <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{p.t}</h3>
