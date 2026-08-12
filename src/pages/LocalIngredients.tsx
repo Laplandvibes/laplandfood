@@ -9,6 +9,7 @@ import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
+import FinnishPantryAd from '../components/FinnishPantryAd';
 import { useLocale } from '../i18n/useLocale';
 
 interface Ingredient { name: string; season: string; description: string; nutritional: string; uses: string }
@@ -298,6 +299,16 @@ export default function LocalIngredients() {
             </div>
           </div>
         </section>
+
+        {/* Suomikauppa (Daisycon) sivun LOPUSSA, uutiskirjeen edella. Sivu
+            kertoo mita Lapissa syodaan ja jattaa lukijan kysymyksen kanssa jota
+            se ei ratkaise: mista naita saa kotoa kasin. Kortti on vastaus sivun
+            omaan aukkoon, ei keskeytys kesken lukemisen. */}
+        <div className="bg-[#F8FAFC] px-4 py-12 sm:py-16">
+          <div className="mx-auto max-w-5xl">
+            <FinnishPantryAd />
+          </div>
+        </div>
 
         <NewsletterSection />
         <Footer />
