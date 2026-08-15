@@ -7,6 +7,7 @@ import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
+import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
 
 interface ContextItem { title: string; body: string }
@@ -340,6 +341,17 @@ export default function TraditionalRecipes() {
             </div>
           </div>
         </section>
+
+        {/* Suomikauppa-tuotenostot (Daisycon) sivun LOPUSSA, uutiskirjeen
+            edella. Reseptisivu paattyy "kokeile kotona" -tunnelmaan; ruis on
+            se osa poydasta jota lukija ei leivo itse gahkun tapaan, joten
+            klassikkoleivat + hiutaleet dest-syvälinkkeinä vastaavat sivun
+            omaan aukkoon. Ei liha- eikä maitotuotteita (tuontisäännöt). */}
+        <div className="bg-[#F8FAFC] px-4 py-12 sm:py-16">
+          <div className="mx-auto max-w-5xl">
+            <SuomikauppaPicks variant="rye" />
+          </div>
+        </div>
 
         <NewsletterSection />
         <Footer />

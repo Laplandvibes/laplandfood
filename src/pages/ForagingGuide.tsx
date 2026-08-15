@@ -7,6 +7,7 @@ import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
+import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
 
 interface ForageItem { name: string; season: string; difficulty: string; location: string; identification: string; tips: string; safety: string; sustainability: string }
@@ -274,6 +275,18 @@ export default function ForagingGuide() {
             </Link>
           </div>
         </section>
+
+        {/* Suomikauppa-tuotenostot (Daisycon) sivun LOPUSSA, uutiskirjeen
+            edella — sama paikka ja logiikka kuin FinnishPantryAd:lla Local
+            ingredients -sivulla. Opas kertoo mustikasta, puolukasta ja
+            hillasta suolla; kortti vastaa kysymykseen jonka sivu jattaa auki
+            (entä jos en pääse suolle): samat marjat hillona ja
+            pakastekuivattuna, dest-syvälinkit tuotesivuille. */}
+        <div className="bg-[#F8FAFC] px-4 py-12 sm:py-16">
+          <div className="mx-auto max-w-5xl">
+            <SuomikauppaPicks variant="berries" />
+          </div>
+        </div>
 
         <NewsletterSection />
         <Footer />
