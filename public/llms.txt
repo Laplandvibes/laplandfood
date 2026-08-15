@@ -1,0 +1,24 @@
+# LaplandFood
+
+> A field guide to Finnish food culture: where the ingredients come from, what the recipes taste like, the Michelin scene and food tours in Lapland.
+
+## Main pages
+
+- [Home](https://laplandfood.com/): How Finland eats — recipes, Michelin and tours
+- [Local Ingredients](https://laplandfood.com/local-ingredients): Where Lapland's ingredients come from
+- [Traditional Recipes](https://laplandfood.com/traditional-recipes): Traditional Finnish and Lapland recipes
+- [Modern Lapland](https://laplandfood.com/modern-lapland): Modern Lapland food scene
+- [Foraging Guide](https://laplandfood.com/foraging-guide): Foraging berries, mushrooms and wild food
+- [Food Tours](https://laplandfood.com/food-tours): Food tours in Lapland
+- [Michelin Dining](https://laplandfood.com/michelin-dining): The Michelin scene in Finland and Lapland
+- [About](https://laplandfood.com/about): About the site
+
+## Languages
+
+English (default, no prefix), Finnish (/fi/), Swedish (/sv/), German (/de/), French (/fr/), Spanish (/es/), Italian (/it/), Dutch (/nl/), Brazilian Portuguese (/br/), Japanese (/ja/), Korean (/kr/), Simplified Chinese (/cn/)
+
+## Network
+
+- [LaplandVibes hub](https://laplandvibes.com/): This site is part of the LaplandVibes network
+- [Sitemap](https://laplandfood.com/sitemap.xml)
+- Contact: info@laplandfood.com
