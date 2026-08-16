@@ -1,7 +1,78 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { useLocale } from '../i18n/useLocale'
 import { trackNewsletterSignup } from '../lib/analytics'
+import { localePrefix } from '../i18n/config'
 import FounderByline from '../../../shared/FounderByline';
+
+/**
+ * Marketing-consent + age copy per locale. Kept in this file (not in the
+ * `pages` namespace JSONs) so the exact wording the user ticks is the exact
+ * string posted to the backend as `consentText` — the consent record and the
+ * rendered label can never drift apart.
+ */
+const CONSENT_COPY: Record<string, { consent: string; privacy: string }> = {
+  en: {
+    consent:
+      'Yes, send the LaplandVibes newsletter (travel tips, seasonal updates and offers) to this email address. I confirm I am 18 or over.',
+    privacy: 'Privacy Policy',
+  },
+  fi: {
+    consent:
+      'LaplandVibes saa lähettää minulle uutiskirjettä (matkailuvinkkejä, sesonkitietoa ja tarjouksia) antamaani sähköpostiosoitteeseen. Olen täyttänyt 18 vuotta.',
+    privacy: 'Tietosuojaseloste',
+  },
+  de: {
+    consent:
+      'Ja, LaplandVibes darf mir den Newsletter mit Reisetipps, Saisoninfos und Angeboten an diese E-Mail-Adresse senden. Ich bin mindestens 18 Jahre alt.',
+    privacy: 'Datenschutzerklärung',
+  },
+  ja: {
+    consent:
+      '入力したメールアドレス宛に、LaplandVibesがニュースレター（旅のヒント、シーズン情報、キャンペーン情報）を送ることに同意します。私は18歳以上です。',
+    privacy: 'プライバシーポリシー',
+  },
+  es: {
+    consent:
+      'Acepto recibir en mi correo el boletín de LaplandVibes (consejos de viaje, información de temporada y ofertas) y confirmo que tengo al menos 18 años.',
+    privacy: 'Política de privacidad',
+  },
+  'pt-BR': {
+    consent:
+      'Aceito receber a newsletter da LaplandVibes no e-mail informado, com dicas de viagem, informações de temporada e ofertas. Tenho 18 anos ou mais.',
+    privacy: 'Política de Privacidade',
+  },
+  'zh-CN': {
+    consent:
+      '我同意 LaplandVibes 向我填写的邮箱发送订阅邮件，内容包括拉普兰旅行建议、季节资讯和优惠信息，并确认本人已年满18周岁。',
+    privacy: '隐私政策',
+  },
+  ko: {
+    consent:
+      '입력한 이메일 주소로 LaplandVibes가 보내는 여행 팁·시즌 정보·프로모션 소식 뉴스레터 수신에 동의하며, 만 18세 이상임을 확인합니다.',
+    privacy: '개인정보처리방침',
+  },
+  fr: {
+    consent:
+      "J'accepte de recevoir la newsletter LaplandVibes (conseils voyage, infos saisonnières, offres) à cette adresse e-mail et je confirme avoir 18 ans ou plus.",
+    privacy: 'Politique de confidentialité',
+  },
+  it: {
+    consent:
+      "Sì, desidero ricevere la newsletter di LaplandVibes (consigli di viaggio, novità stagionali e offerte) all'indirizzo indicato. Ho almeno 18 anni.",
+    privacy: 'Informativa sulla privacy',
+  },
+  nl: {
+    consent:
+      'Ja, LaplandVibes mag de nieuwsbrief met reistips, seizoensinfo en aanbiedingen naar dit e-mailadres sturen. Ik ben 18 jaar of ouder.',
+    privacy: 'Privacyverklaring',
+  },
+  sv: {
+    consent:
+      'Ja, jag vill ha nyhetsbrevet från LaplandVibes med restips, säsongsinfo och erbjudanden till min e-postadress. Jag är minst 18 år.',
+    privacy: 'Integritetspolicy',
+  },
+}
 
 const SUPABASE_URL = 'https://oogioaxmfnqcbvjbcodh.supabase.co'
 const SUPABASE_PUBLISHABLE_KEY =
@@ -15,12 +86,22 @@ const SUPABASE_PUBLISHABLE_KEY =
 export default function NewsletterSection() {
   const { t } = useTranslation('pages')
   const [email, setEmail] = useState('')
+  const [consented, setConsented] = useState(false)
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [error, setError] = useState('')
 
+  // Locale from the URL prefix (useLocale) — NOT i18n.resolvedLanguage: on a
+  // direct non-EN load the locale bundle is registered without a
+  // changeLanguage() call, so resolvedLanguage stays 'en' for the session and
+  // BOTH the consent text and the privacy href fell to EN on localized pages
+  // (same bug as the hub, fixed network-wide 2026-08-15).
+  const { locale: lang } = useLocale()
+  const consentCopy = CONSENT_COPY[lang] ?? CONSENT_COPY[lang.split('-')[0]] ?? CONSENT_COPY.en
+  const privacyHref = `${localePrefix(lang)}/privacy`
+
   async function onSubmit(e: React.FormEvent) {
     e.preventDefault()
-    if (!email || !email.includes('@')) return
+    if (!email || !email.includes('@') || !consented) return
     setStatus('loading')
     setError('')
     try {
@@ -30,7 +111,13 @@ export default function NewsletterSection() {
           'Content-Type': 'application/json',
           Authorization: `Bearer ${SUPABASE_PUBLISHABLE_KEY}`,
         },
-        body: JSON.stringify({ email, source: 'laplandfood-inline' }),
+        body: JSON.stringify({
+          email,
+          source: 'laplandfood-inline',
+          consent: true,
+          ageConfirmed: true,
+          consentText: consentCopy.consent,
+        }),
       })
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       trackNewsletterSignup('laplandfood-inline')
@@ -43,7 +130,8 @@ export default function NewsletterSection() {
   }
 
   return (
-    <section className="bg-gradient-to-br from-vibe-pink to-pink-600 py-20 sm:py-24">
+    <section className="py-20 sm:py-24"
+      style={{ background: 'linear-gradient(135deg, #4C1D95 0%, #7E22CE 35%, #BE185D 70%, #DB2777 100%)' }}>
       <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
         <p className="text-white/80 text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
           {t('newsletter.kicker')}
@@ -64,7 +152,7 @@ export default function NewsletterSection() {
           </div>
         ) : (
           <><FounderByline tone="pink" />
-          <form onSubmit={onSubmit} className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto">
+          <form onSubmit={onSubmit} className="flex flex-col sm:flex-row flex-wrap gap-3 max-w-lg mx-auto">
             <input
               type="email"
               required
@@ -82,6 +170,26 @@ export default function NewsletterSection() {
             >
               {status === 'loading' ? t('newsletter.sending') : t('newsletter.submit')}
             </button>
+            <label className="basis-full flex items-start gap-2.5 text-left text-white/85 text-xs leading-relaxed cursor-pointer">
+              <input
+                type="checkbox"
+                checked={consented}
+                onChange={(e) => setConsented(e.target.checked)}
+                required
+                className="mt-0.5 h-4 w-4 shrink-0 rounded accent-[#002F6C] focus:outline-none focus:ring-2 focus:ring-white"
+              />
+              <span>
+                {consentCopy.consent}{' '}
+                <a
+                  href={privacyHref}
+                  target="_blank"
+                  rel="noopener"
+                  className="underline underline-offset-2 hover:text-white"
+                >
+                  {consentCopy.privacy}
+                </a>
+              </span>
+            </label>
           </form></>
         )}
         {status === 'error' && (
