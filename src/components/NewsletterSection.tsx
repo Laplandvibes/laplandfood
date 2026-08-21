@@ -1,9 +1,20 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useLocale } from '../i18n/useLocale'
 import { trackNewsletterSignup } from '../lib/analytics'
 import { localePrefix } from '../i18n/config'
 import FounderByline from '../../../shared/FounderByline';
+
+/**
+ * [LV-FUNNEL 2026-08-21] Lomakesuppilon eventit Umamiin — paikallinen apuri,
+ * ei jaettua importtia (vendoroitu sync on refresh-only). Ei saa koskaan
+ * rikkoa lomaketta. Standardi: memory _procedural/lv_form_funnel_events.md.
+ */
+function track(event: string, data?: Record<string, unknown>) {
+  try {
+    (window as unknown as { umami?: { track: (e: string, d?: unknown) => void } }).umami?.track(event, data);
+  } catch { /* ignore */ }
+}
 
 /**
  * Marketing-consent + age copy per locale. Kept in this file (not in the
@@ -98,12 +109,40 @@ export default function NewsletterSection() {
   const { locale: lang } = useLocale()
   const consentCopy = CONSENT_COPY[lang] ?? CONSENT_COPY[lang.split('-')[0]] ?? CONSENT_COPY.en
   const privacyHref = `${localePrefix(lang)}/privacy`
+  // [LV-FUNNEL] view = osio vieritetty näkyviin (kerran), start = 1. fokus,
+  // blocked kerran per submit-yritys (natiivi invalid laukeaa per kenttä).
+  const funnelData = { surface: 'inline', lang };
+  const sectionRef = useRef<HTMLElement | null>(null);
+  const startTracked = useRef(false);
+  const blockedTracked = useRef(false);
+  useEffect(() => {
+    const el = sectionRef.current;
+    if (!el || typeof IntersectionObserver === 'undefined') return;
+    const io = new IntersectionObserver((entries) => {
+      if (entries.some((en) => en.isIntersecting)) {
+        track('nl_view', funnelData);
+        io.disconnect();
+      }
+    }, { threshold: 0.4 });
+    io.observe(el);
+    return () => io.disconnect();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+  const trackStart = () => {
+    if (startTracked.current) return;
+    startTracked.current = true;
+    track('nl_start', funnelData);
+  };
 
   async function onSubmit(e: React.FormEvent) {
     e.preventDefault()
-    if (!email || !email.includes('@') || !consented) return
+    if (!email || !email.includes('@') || !consented) {
+      track('nl_blocked', { ...funnelData, reason: !email || !email.includes('@') ? 'email' : 'consent' });
+      return
+    }
     setStatus('loading')
     setError('')
+    track('nl_submit', funnelData);
     try {
       const res = await fetch(`${SUPABASE_URL}/functions/v1/send-welcome-email`, {
         method: 'POST',
@@ -121,16 +160,18 @@ export default function NewsletterSection() {
       })
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       trackNewsletterSignup('laplandfood-inline')
+      track('nl_success', funnelData);
       setStatus('success')
       setEmail('')
     } catch (err) {
       setStatus('error')
       setError(err instanceof Error ? err.message : 'Something went wrong')
+      track('nl_error', funnelData);
     }
   }
 
   return (
-    <section className="py-20 sm:py-24"
+    <section className="py-20 sm:py-24" ref={sectionRef}
       style={{ background: 'linear-gradient(135deg, #4C1D95 0%, #7E22CE 35%, #BE185D 70%, #DB2777 100%)' }}>
       <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
         <p className="text-white/80 text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
@@ -152,13 +193,24 @@ export default function NewsletterSection() {
           </div>
         ) : (
           <><FounderByline tone="pink" />
-          <form onSubmit={onSubmit} className="flex flex-col sm:flex-row flex-wrap gap-3 max-w-lg mx-auto">
+          <form
+            onSubmit={onSubmit}
+            onInvalidCapture={(e) => {
+              if (blockedTracked.current) return;
+              blockedTracked.current = true;
+              window.setTimeout(() => { blockedTracked.current = false; }, 400);
+              const t = e.target as HTMLInputElement;
+              track('nl_blocked', { ...funnelData, reason: t.type === 'checkbox' ? 'consent' : 'email' });
+            }}
+            className="flex flex-col sm:flex-row flex-wrap gap-3 max-w-lg mx-auto"
+          >
             <input
               type="email"
               required
               aria-label={t('newsletter.emailPlaceholder')}
               placeholder={t('newsletter.emailPlaceholder')}
               value={email}
+              onFocus={trackStart}
               onChange={(e) => setEmail(e.target.value)}
               className="flex-1 rounded-full bg-white/95 px-5 py-3.5 text-base text-[#002F6C] placeholder-[#002F6C]/40 focus:outline-none focus:ring-2 focus:ring-white"
               disabled={status === 'loading'}
@@ -174,6 +226,7 @@ export default function NewsletterSection() {
               <input
                 type="checkbox"
                 checked={consented}
+                onFocus={trackStart}
                 onChange={(e) => setConsented(e.target.checked)}
                 required
                 className="mt-0.5 h-4 w-4 shrink-0 rounded accent-[#002F6C] focus:outline-none focus:ring-2 focus:ring-white"

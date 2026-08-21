@@ -142,8 +142,6 @@
     </script>
 
     <!-- Preconnect for performance -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
     <!-- GA4 Consent Mode v2 -->
     <script>
@@ -221,7 +219,16 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
     <!-- Umami Cloud — cookieless analytics, no consent gate needed (writes nothing to the browser) -->
-    <script defer src="https://cloud.umami.is/script.js" data-website-id="966dd35e-b43a-4941-ac1e-ab69b607a008"></script>
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="966dd35e-b43a-4941-ac1e-ab69b607a008" data-domains="laplandfood.com,www.laplandfood.com"></script>
+      <!-- Self-hosted heading + body faces. Without these the browser cannot
+         discover the fonts until the bundled CSS has parsed, which guarantees a
+         visible pass in the fallback sans (33 % wider than Bebas). crossorigin is
+         required even same-origin — fonts are fetched in CORS mode and a preload
+         without it downloads the file twice. -->
+    <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/fonts/v16-JTUSjIg69CK48gW7PXoo9Wlhyw.woff2" />
+    <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/fonts/v17-rP2Hp2ywxg089UriCZOIHQ.woff2" />
   </head>
   <body>
     <div id="root"></div>
