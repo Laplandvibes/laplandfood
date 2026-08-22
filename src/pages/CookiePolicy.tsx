@@ -1,7 +1,7 @@
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
-import CookieContent from '../../../shared/Legal/CookieContent';
+import CookieContent from '../shared/Legal/CookieContent';
 import { useLocale } from '../i18n/useLocale';
 export default function CookiePolicy() {
   const { locale } = useLocale();

@@ -1,7 +1,7 @@
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
-import TermsContent from '../../../shared/Legal/TermsContent';
+import TermsContent from '../shared/Legal/TermsContent';
 import { useLocale } from '../i18n/useLocale';
 export default function Terms() {
   const { locale } = useLocale();

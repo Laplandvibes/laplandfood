@@ -1,7 +1,7 @@
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
-import PrivacyContent from '../../../shared/Legal/PrivacyContent';
+import PrivacyContent from '../shared/Legal/PrivacyContent';
 import { useLocale } from '../i18n/useLocale';
 export default function PrivacyPolicy() {
   const { locale } = useLocale();

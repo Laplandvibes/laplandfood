@@ -65,7 +65,7 @@
   shared/CookieBanner, shared/NewsletterPopup, shared/Legal/* are stripped
   from the bundle and the components render unstyled.
 */
-@source "../../shared/**/*.{ts,tsx}";
+@source "./shared/**/*.{ts,tsx}";
 
 @theme {
   /* LV brand canon — keep deep-night = #0F172A so shared dark components

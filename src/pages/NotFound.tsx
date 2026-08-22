@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
-import SharedNotFound from '../../../shared/NotFound'
+import SharedNotFound from '../shared/NotFound'
 import { useLocale } from '../i18n/useLocale'
 
 // Thin wrapper around the canonical shared 404 (Vesa 2026-07-12: catch-all no

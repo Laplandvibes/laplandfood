@@ -1,4 +1,4 @@
-import SharedCookieBanner from '../../../shared/CookieBanner'
+import SharedCookieBanner from '../shared/CookieBanner'
 
 /**
  * Per-site wrapper for the shared rising-flagpole cookie banner. Only the

@@ -9,7 +9,7 @@ import SisterSiteCTAs from '../components/SisterSiteCTAs';
 import FAQ, { type FAQItem } from '../components/FAQ';
 import { ArrowRight } from 'lucide-react';
 import { useLocale } from '../i18n/useLocale';
-import HomeAdSlots, { MainPartnerBanner } from '../../../shared/HomeAdSlots';
+import HomeAdSlots, { MainPartnerBanner } from '../shared/HomeAdSlots';
 import { AD_SLOTS } from '../data/adSlots';
 import GygPicks from '../components/GygPicks';
 import { AppPromoHero } from '../components/AppPromo';

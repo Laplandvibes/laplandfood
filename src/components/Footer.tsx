@@ -1,5 +1,5 @@
-import SharedFooter from '../../../shared/Footer'
-import type { FooterDict } from '../../../shared/Footer'
+import SharedFooter from '../shared/Footer'
+import type { FooterDict } from '../shared/Footer'
 import { useTranslation } from 'react-i18next'
 import { trackHubClick } from '../lib/analytics'
 

@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { Menu, X } from 'lucide-react'
 import LanguageSwitcher from '../i18n/LanguageSwitcher'
-import EcosystemMenu from '../../../shared/EcosystemMenu'
+import EcosystemMenu from '../shared/EcosystemMenu'
 import { useLocale } from '../i18n/useLocale'
 
 const links = [
