@@ -8,6 +8,10 @@
     "jsonKey": "localIngredients"
   },
   {
+    "path": "/cloudberry",
+    "jsonKey": "cloudberry"
+  },
+  {
     "path": "/traditional-recipes",
     "jsonKey": "traditionalRecipes"
   },

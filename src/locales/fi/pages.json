@@ -258,7 +258,8 @@
       "p2": "Vuosikymmenten maatalous­tutkimus ei ole onnistunut kaupallistamaan sitä. Hillakasvit ovat kaksikotisia (erilliset uros- ja naaras­kasvit), kasvavat erittäin hitaasti, tarvitsevat 6–7 vuotta ensimmäiseen hedelmään edes täydellisissä olosuhteissa, ovat haavoittuvaisia myöhäisille kevätpakkasille, jotka tuhoavat vuoden kukat, ja vaativat kosteuden, valon ja suokemian erityisyhdistelmän, joka on vastustanut kasvi­huone­simulaatiota. Norjalaiset ja suomalaiset tutkijat ovat edistyneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa villisaadosta. Joten koko Suomen tarjonta, hillojen valmistajille, likööri­tuottajille (Lakka), ravintola­keittiöille, on villinä keräiltyä.",
       "p3": "Siksi tuoreen hillan kilo Rovaniemen torilla heinäkuun lopussa maksaa tyypillisesti 25–50 €, viidestä kymmeneen kertaa enemmän kuin mustikat, ja siksi tarjonta romahtaa, jos kevät­pakkaset osuvat viikkoa myöhemmin. Tämä on myös syy siihen, miksi hillaparfait on Lapin fine dining -jälkiruoka. Jokainen kokki haluaa käyttää niitä, kunnes ne loppuvat.",
       "p4": "<strong>Poiminta­etiikka:</strong> hilla­kasvit toipuvat hitaasti. Saamelainen periaate ja suomalainen keräily­käytäntö, on poimia vain täysin kypsät marjat, jättää raa'at ja ylikypsät, eikä koskaan riipiä kasvia. Pienellä suolla kilo perheelle riittää.",
-      "boldPick": "Poiminta­etiikka:"
+      "boldPick": "Poiminta­etiikka:",
+      "guideLinkLabel": "Lue koko hillaopas"
     },
     "fishDeep": {
       "kicker": "Syvällinen tarkastelu · Järvikala",
@@ -296,6 +297,176 @@
           "title": "Yövy Rovaniemellä",
           "body": "Lapin suurin kaupunki ja helpoin tukikohta kauppahalleille, ravintoloille ja päiväretkille tiloille.",
           "cta": "Katso hotellihinnat"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Hilla eli lakka: marja jota ei voi viljellä",
+    "description": "Miltä hilla maistuu, milloin lyhyt sesonki huipentuu, miksi viljely epäonnistuu, mitä kilo maksaa Rovaniemen torilla ja missä hillaa maistaa Lapissa.",
+    "hero": {
+      "eyebrow": "Marjaopas · Hilla",
+      "title": "Hilla, suon",
+      "titleHighlight": "itsepäinen kulta.",
+      "subtitle": "Hillapaikkoja varjellaan Suomessa kuin pankkitunnuksia. Tällä sivulla kerromme, miltä marja oikeasti maistuu, miksi jokainen hilla poimitaan käsin ja missä sen kohtaa Lapissa.",
+      "primaryCta": "Opettele keräämään",
+      "secondaryCta": "Kaikki Lapin raaka-aineet",
+      "pills": [
+        "Maku",
+        "Sesonki",
+        "Poimintaoikeus",
+        "Miksi viljely ei onnistu",
+        "Hinta",
+        "Hillo ja likööri",
+        "Missä maistaa"
+      ]
+    },
+    "intro": {
+      "lead": "Yksi keltainen marja vartta kohti, avosoilla, neljä viikkoa vuodessa. Mikään muu Suomen ruokakomerossa ei ole yhtä niukkaa, eikä mitään vartioida yhtä henkilökohtaisesti.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Arktinen marja, tiukasti",
+          "body": "Hilla kasvaa kylmissä, happamissa turvesoissa kapealla pohjoisen vyöhykkeellä: Pohjois-Skandinaviassa ja Suomessa, osissa Venäjää, Alaskaa ja Pohjois-Kanadaa. Vyöhykkeen sisällä se on yllättävän yleinen. Sen ulkopuolella sitä ei ole."
+        },
+        {
+          "n": "02",
+          "title": "Neljän viikon ikkuna",
+          "body": "Marjat kypsyvät heinäkuun puolivälistä elokuun puoliväliin, ja vuoden sato ratkeaa jo viikkoja aiemmin: yksi myöhäinen kevätpakkanen kukinnan aikaan voi viedä siitä suurimman osan."
+        },
+        {
+          "n": "03",
+          "title": "Villi, joka ikinen",
+          "body": "Hillan viljely ei ole koskaan onnistunut kaupallisessa mitassa, joten jokainen hillopurkki, jokainen likööripullo ja jokainen ravintolan parfait alkaa siitä, että joku polvistuu suolle."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Ensin tärkein kysymys",
+      "headline": "Miltä hilla maistuu?",
+      "answer": "Kypsä hilla on pehmeä, mehukas ja ensin hapan, vasta sitten makea: kuin aprikoosin ja punaherukan risteytys, jonka pohjalla on hento hunajainen, myskimäinen sävy, jota millään muulla marjalla ei ole. Siemenet ovat isot ja pehmeät, ja ne syödään mukana. Kylmänä maku on terävä; kevyesti lämmitettynä aprikoosipuoli aukeaa.",
+      "p2": "Kypsyys ratkaisee kaiken. Kiinteä punainen hilla on raaka ja suuta vetävän hapan. Valmiina marja muuttuu keltaiseksi, pehmenee ja irtoaa varresta melkein itsestään, ja juuri se marja on märkien jalkojen arvoinen. Poimijat ottavat keltaiset ja jättävät punaiset seuraavaa käyntiä varten.",
+      "p3": "Tuoreita hilloja saa harvoin eteensä kulhokaupalla. Maku on voimakas ja sato pieni, joten Lappi tarjoilee hillan siellä, missä lusikallinen riittää: lämpimän <em>leipäjuuston</em> päällä, vaniljajäätelön vierellä tai hillaparfait'na."
+    },
+    "season": {
+      "kicker": "Heinäkuun puolivälistä elokuun puoliväliin",
+      "headline": "Neljä viikkoa keltaista.",
+      "lead": "Hillasesonki on niin lyhyt, että sen voi missata varaamalla matkan kaksi viikkoa väärin. Tässä on rytmi, jonka mukaan Lappi elää.",
+      "phases": [
+        {
+          "period": "Kesäkuu",
+          "title": "Uhkapeli",
+          "body": "Valkoiset kukat aukeavat soille, kun yöpakkanen on yhä mahdollinen. Se mikä selviää näistä viikoista, on vuoden sato; se mikä paleltuu, on menetetty."
+        },
+        {
+          "period": "Heinäkuun puoliväli",
+          "title": "Se alkaa",
+          "body": "Ensimmäiset marjat pehmenevät keltaisiksi, ja torikojut täyttyvät päivissä. Poimijat alkavat kiertää salasoitaan aamuin illoin."
+        },
+        {
+          "period": "Elokuun puoliväli",
+          "title": "Se on ohi",
+          "body": "Noin kuukausi alusta sesonki sulkeutuu. Tästä seuraavaan heinäkuuhun hilla tarkoittaa hilloa, likööriä ja sitä mitä ehdittiin pakastaa tuoreena."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jokamiehenoikeus",
+      "headline": "Jokainen saa poimia. Myös sinä.",
+      "p1": "Suomen <em>jokamiehenoikeus</em> antaa kenelle tahansa oikeuden poimia villimarjoja luonnonmaalta: ei lupaa, ei maanomistajan suostumusta, ei eroa paikallisen ja vierailijan välillä. Hilla kuuluu tähän oikeuteen kokonaan, mikä on huomattavaa herkkuhintaiselle marjalle.",
+      "p2": "Oikeuden mukana kulkee etiikka, ja hillalla se painaa tavallista enemmän, koska kasvit toipuvat hitaasti. Poimi vain täysin kypsät keltaiset marjat, jätä raa'at ja ylikypsät, äläkä koskaan riivi kasvia paljaaksi. Pienellä suolla kilo perhettä kohti riittää.",
+      "ctaPrimary": "Lue keräilysäännöt kokonaan",
+      "ctaSecondary": "Katso marjareseptit"
+    },
+    "whyWild": {
+      "kicker": "Syvällinen tarkastelu · Viljely",
+      "headline": "Miksi kukaan ei pysty viljelemään sitä.",
+      "p1": "Agronomit ovat yrittäneet vuosikymmeniä, ja hilla voittaa yhä. Kasvi on kaksikotinen, eli uros- ja naaraskukat kasvavat eri yksilöissä, joten kasvusto voi kukkia kauniisti ja jäädä silti kokonaan ilman marjoja.",
+      "p2": "Se myös kasvaa äärimmäisen hitaasti, tarvitsee kuudesta seitsemään vuotta ensimmäiseen satoon täydellisissäkin oloissa ja vaatii kosteuden, valon ja suokemian yhdistelmän, jota kasvihuoneet eivät ole onnistuneet toistamaan.",
+      "p3": "Norjalaiset ja suomalaiset tutkijat ovat edenneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa siitä, mitä villit suot antavat ilmaiseksi. Siksi koko Suomen tarjonta, hillonvalmistajista likööritaloihin ja ravintolakeittiöihin, on villinä poimittua.",
+      "p4": "<strong>Matkailijalle koko tarina mahtuu yhteen lauseeseen:</strong> viljeltyä oikotietä ei ole, joten jokainen Lapissa maistamasi hilla on poimittu käsin suolta."
+    },
+    "price": {
+      "kicker": "Hinta ja arvo",
+      "headline": "Mitä kilo maksaa.",
+      "lead": "Niukkuudella on hintalappu. Rovaniemen torilla heinäkuun lopussa tuore hilla maksaa tyypillisesti 25–50 euroa kilolta.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "kilolta tuoretta hillaa Rovaniemen torikojulla heinäkuun lopussa"
+        },
+        {
+          "value": "5–10×",
+          "label": "mustikan hintaan verrattuna, metsän arkimarjaan"
+        },
+        {
+          "value": "100 %",
+          "label": "Suomen tarjonnasta on villinä poimittua, joten yksi myöhäinen halla liikuttaa koko markkinaa"
+        }
+      ],
+      "p2": "Kyse ei ole turistilisästä vaan siitä, mitä tunnit polvillaan märällä turpeella maksavat. Kun myöhäinen halla harventaa sadon, tarjonta romahtaa ja hinta nousee entisestään, ja kokit kilpailevat jäljellä olevasta, koska jokainen keittiö haluaa hillaa listalleen niin kauan kuin sitä riittää."
+    },
+    "products": {
+      "kicker": "Hillo, likööri, parfait",
+      "headline": "Näin Lappi säilöö sesongin.",
+      "lead": "Neljä viikkoa satoa, neljäkymmentäkahdeksan viikkoa nälkää: valtaosa sadosta säilötään. Kolme muotoa kantaa maun läpi vuoden.",
+      "items": [
+        {
+          "title": "Lakkahillo",
+          "body": "Klassikko: kokonaisia marjoja siemenineen, keitettynä niin hellästi että happamuus säilyy. Suomalainen lusikoi sitä lämpimän leipäjuuston, pannukakun ja jäätelön päälle. Jos viet Suomesta kotiin yhden syötävän tuliaisen, vie tämä."
+        },
+        {
+          "title": "Lakkalikööri",
+          "body": "Lakka, villihilloista tehty keltainen likööri, on suomalaisen illallisen klassinen päätös: kylmänä sellaisenaan tai vaniljajäätelön päälle kaadettuna. Yhteen pulloon mahtuu hämmästyttävä määrä suota."
+        },
+        {
+          "title": "Hillaparfait",
+          "body": "Lapin fine dining -jälkiruoka. Kun pohjoisen maistelumenut ehtivät jälkiruokaan, tähän ne yleensä päätyvät, ja sesongissa jokainen keittiö haluaa siihen tuoreet marjat."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Missä maistaa",
+      "headline": "Näin hillan kohtaa Lapissa.",
+      "lead": "Hillan maistamiseen ei sesongissa tarvita pöytävarausta, vaikka se palkitsee sellaisenkin. Kolme varmaa reittiä:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Torikojut keskikesällä",
+          "body": "Heinäkuun lopulta Lapin torit, Rovaniemen kauppatori mukaan lukien, myyvät tuoretta hillaa rasioittain ja kiloittain. Syö samana päivänä; hilla ei odota."
+        },
+        {
+          "n": "02",
+          "title": "Jälkiruokalistat ympäri vuoden",
+          "body": "Hillaparfait ankkuroi Lapin fine dining -listojen jälkiruokapään, ja leipäjuustoa lakkahillolla saa kaikkialta tienvarsikahviloista hotelliaamiaisiin."
+        },
+        {
+          "n": "03",
+          "title": "Oma suo",
+          "body": "Sesongissa opastettu keräilyretki vie oikeanlaiselle suolle jonkun kanssa, joka osaa lukea sitä. Sesongin ulkopuolella aloita keräilyoppaastamme ja suunnittele ensi heinäkuu kunnolla."
+        }
+      ],
+      "gygCta": "Selaa keräilyretkiä GetYourGuidessa",
+      "diningCta": "Katso fine dining -opas"
+    },
+    "nextSteps": {
+      "kicker": "Jatka tästä",
+      "headline": "Mihin tämä johtaa.",
+      "items": [
+        {
+          "title": "Opettele keräämään",
+          "body": "Jokamiehenoikeus yksityiskohtineen, suoturvallisuus, varusteet ja ajoitus: keräilyopas kattaa omin käsin poimimisen käytännön.",
+          "cta": "Keräilyopas"
+        },
+        {
+          "title": "Laita marjat ruoaksi",
+          "body": "Marjakiisseli, perinteinen jälkiruokakeitto, on suomalaisen kotikeittiön vastaus sille, mitä suokävelyltä tarttui mukaan.",
+          "cta": "Perinnereseptit"
+        },
+        {
+          "title": "Jää sesongiksi",
+          "body": "Heinäkuun puolivälistä elokuun puoliväliin on sesonki niin soilla, toreilla kuin terasseillakin. Rovaniemi on toimiva tukikohta kaikkiin kolmeen.",
+          "cta": "Selaa majoitusta Rovaniemellä"
         }
       ]
     }

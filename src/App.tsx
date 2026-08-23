@@ -6,6 +6,7 @@ import NewsletterPopup from './components/NewsletterPopup'
 import ScrollToTop from './components/ScrollToTop'
 const Home = lazy(() => import('./pages/Home'))
 const LocalIngredients = lazy(() => import('./pages/LocalIngredients'))
+const Cloudberry = lazy(() => import('./pages/Cloudberry'))
 const TraditionalRecipes = lazy(() => import('./pages/TraditionalRecipes'))
 const ModernLapland = lazy(() => import('./pages/ModernLapland'))
 const ForagingGuide = lazy(() => import('./pages/ForagingGuide'))
@@ -31,6 +32,7 @@ const PREFIXES = ['', '/fi', '/de', '/ja', '/es', '/br', '/cn', '/kr', '/fr', '/
 const PAGES: { path: string; element: React.ReactNode }[] = [
   { path: '/', element: <Home /> },
   { path: '/local-ingredients', element: <LocalIngredients /> },
+  { path: '/cloudberry', element: <Cloudberry /> },
   { path: '/traditional-recipes', element: <TraditionalRecipes /> },
   { path: '/modern-lapland', element: <ModernLapland /> },
   { path: '/foraging-guide', element: <ForagingGuide /> },

@@ -2,6 +2,7 @@ import SharedFooter from '../shared/Footer'
 import type { FooterDict } from '../shared/Footer'
 import { useTranslation } from 'react-i18next'
 import { trackHubClick } from '../lib/analytics'
+import { useLocale } from '../i18n/useLocale'
 
 /**
  * laplandfood.com wrapper for the canonical 5-band Finnish-flag Footer (shared).
@@ -10,10 +11,14 @@ import { trackHubClick } from '../lib/analytics'
  */
 export default function Footer() {
   const { t, i18n } = useTranslation('common')
+  const { t: tn } = useTranslation('nav')
+  const { to } = useLocale()
   const tx = (key: string): string | undefined =>
     i18n.exists(`common:${key}`) ? (t(key) as string) : undefined
 
   const foodPillarLinks = [
+    // Oma syväsivu ensin (sisäinen, lokaalitietoinen Link), verkosto perässä.
+    { name: tn('links.cloudberry'), href: to('/cloudberry') },
     { name: tx('footer.foodPillars.fineDining')  ?? 'Fine Dining',  href: 'https://laplanddining.com' },
     { name: tx('footer.foodPillars.barsPubs')    ?? 'Bars & Pubs',  href: 'https://laplandbars.com' },
     { name: tx('footer.foodPillars.nightlife')   ?? 'Nightlife',    href: 'https://laplandnightlife.com' },

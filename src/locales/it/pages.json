@@ -257,7 +257,8 @@
       "p1": "Il lampone artico, <em>hilla</em> in finlandese, <em>luomi</em> in sami del nord, è la bacca selvatica più pregiata della Lapponia e la più ostinatamente non coltivata tra le bacche importanti del mondo. Cresce solo in torbiere fredde, acide e impregnate d'acqua in una stretta fascia dell'emisfero settentrionale: Scandinavia settentrionale, Finlandia, parti della Russia, Alaska e Canada settentrionale. Dentro a quelle zone è sorprendentemente comune. Fuori, non cresce.",
       "p2": "Decenni di ricerca agricola non sono riusciti a commercializzarlo. Le piante di lampone artico sono dioiche (maschili e femminili separate), crescono molto lentamente, impiegano 6–7 anni a fruttificare anche in condizioni perfette, sono vulnerabili alle gelate tardive che distruggono i fiori dell'anno, e richiedono una combinazione specifica di umidità, luce e chimica delle torbiere che ha resistito alla simulazione in serra. I ricercatori norvegesi e finlandesi hanno fatto progressi sulle cultivar ma le rese commerciali sono ancora una frazione di quelle selvatiche. Quindi tutto l'approvvigionamento finlandese, per produttori di marmellate, di liquori (Lakka), per le cucine dei ristoranti, è raccolto in natura.",
       "p3": "È per questo che un chilo di lamponi artici freschi al mercato di Rovaniemi a fine luglio costa di solito 25–50 €, cinque-dieci volte il prezzo dei mirtilli e perché l'offerta crolla se la gelata di primavera arriva una settimana in ritardo. È anche per questo che il parfait al lampone artico è il dolce dell'alta cucina lappone. Ogni chef vuole usarli finché durano.",
-      "p4": "<strong>Etica della raccolta:</strong> le piante di lampone artico si riprendono lentamente. Il principio sami e la convenzione di raccolta finlandese, è prendere solo bacche pienamente mature, lasciare quelle acerbe e quelle troppo mature, e non spogliare mai una pianta. Se raccoglie su una piccola torbiera, un chilo a famiglia basta."
+      "p4": "<strong>Etica della raccolta:</strong> le piante di lampone artico si riprendono lentamente. Il principio sami e la convenzione di raccolta finlandese, è prendere solo bacche pienamente mature, lasciare quelle acerbe e quelle troppo mature, e non spogliare mai una pianta. Se raccoglie su una piccola torbiera, un chilo a famiglia basta.",
+      "guideLinkLabel": "Leggi la guida completa al lampone artico"
     },
     "fishDeep": {
       "kicker": "Approfondimento · Pesce di lago",
@@ -295,6 +296,176 @@
           "title": "Dormi a Rovaniemi",
           "body": "La città più grande della Lapponia e la base più comoda per mercati coperti, ristoranti e gite alle fattorie.",
           "cta": "Vedi i prezzi degli hotel"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Lampone artico: la bacca che nessuno coltiva",
+    "description": "Che sapore ha il lampone artico, quando arriva la breve stagione, perché la coltivazione fallisce, quanto costa al chilo a Rovaniemi e dove assaggiarlo.",
+    "hero": {
+      "eyebrow": "La guida alle bacche · Lampone artico",
+      "title": "Lampone artico, l'oro",
+      "titleHighlight": "testardo della torbiera.",
+      "subtitle": "In Finlandia lo chiamano hilla e i punti di raccolta si custodiscono come i codici della banca. Qui trovi che sapore ha davvero, perché ogni bacca è raccolta a mano e dove lo incontrerai in Lapponia.",
+      "primaryCta": "Impara a raccoglierlo",
+      "secondaryCta": "Tutti gli ingredienti della Lapponia",
+      "pills": [
+        "Sapore",
+        "Stagione",
+        "Diritto di raccolta",
+        "Perché niente coltivazioni",
+        "Prezzo",
+        "Confettura e liquore",
+        "Dove assaggiarlo"
+      ]
+    },
+    "intro": {
+      "lead": "Una bacca d'ambra per stelo, su torbiere aperte, quattro settimane l'anno. Nella dispensa finlandese non c'è nulla di così scarso, né di difeso in modo così personale.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Artico in senso stretto",
+          "body": "Il lampone artico cresce in torbiere fredde e acide lungo una fascia stretta del nord: Scandinavia settentrionale e Finlandia, parti della Russia, Alaska e Canada del nord. Dentro quella fascia è sorprendentemente comune. Fuori, semplicemente non cresce."
+        },
+        {
+          "n": "02",
+          "title": "Una finestra di quattro settimane",
+          "body": "Le bacche maturano da metà luglio a metà agosto, ma il raccolto si decide settimane prima: una gelata tardiva durante la fioritura può cancellarne gran parte."
+        },
+        {
+          "n": "03",
+          "title": "Selvatico, fino all'ultima bacca",
+          "body": "La coltivazione commerciale non è mai riuscita, quindi ogni vasetto di confettura, ogni bicchierino di liquore e ogni parfait al ristorante comincia con qualcuno in ginocchio su una torbiera."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Prima la domanda principale",
+      "headline": "Che sapore ha il lampone artico?",
+      "answer": "Maturo è morbido, succoso e prima acidulo che dolce: un incrocio tra albicocca e ribes rosso, chiuso da una nota muschiata e mielata che nessun'altra bacca possiede. I semi sono grandi e teneri, e si mangiano. Freddo è tagliente; appena intiepidito, il lato di albicocca si apre.",
+      "p2": "La maturazione decide tutto. Un lampone artico sodo e rosso è acerbo, di un aspro che arriccia la bocca. Al punto giusto diventa ambrato, si ammorbidisce e si stacca dallo stelo quasi da solo: è quella la bacca che vale i piedi bagnati. Chi raccoglie prende le ambrate e lascia le rosse per il giro successivo.",
+      "p3": "Difficilmente vi metteranno davanti una ciotola colma di bacche fresche. Il sapore è intenso e il raccolto piccolo, così la Lapponia lo serve dove un cucchiaio basta: sul <em>leipäjuusto</em> tiepido, il formaggio-pane finlandese che cigola sotto i denti, accanto al gelato alla vaniglia o montato in un parfait."
+    },
+    "season": {
+      "kicker": "Da metà luglio a metà agosto",
+      "headline": "Quattro settimane d'ambra.",
+      "lead": "La stagione è così breve che basta sbagliare il viaggio di due settimane per perderla. Questo è il ritmo su cui vive la Lapponia.",
+      "phases": [
+        {
+          "period": "Giugno",
+          "title": "La scommessa",
+          "body": "I fiori bianchi si aprono sulle torbiere mentre il gelo notturno è ancora possibile. Ciò che supera queste settimane diventa il raccolto dell'anno; ciò che gela è perduto."
+        },
+        {
+          "period": "Metà luglio",
+          "title": "Si comincia",
+          "body": "Le prime bacche si ammorbidiscono color ambra e i banchi del mercato si riempiono in pochi giorni. I raccoglitori iniziano a battere le loro torbiere segrete mattina e sera."
+        },
+        {
+          "period": "Metà agosto",
+          "title": "È finita",
+          "body": "Circa un mese dopo l'inizio, la stagione si chiude. Da qui al prossimo luglio, lampone artico vorrà dire confettura, liquore e ciò che è stato congelato fresco."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Diritto di accesso",
+      "headline": "Raccogliere è di tutti. Anche tuo.",
+      "p1": "Il <em>jokamiehenoikeus</em> finlandese, il diritto di accesso alla natura, permette a chiunque di raccogliere bacche selvatiche su terreni non coltivati: nessun permesso, nessuna autorizzazione del proprietario, nessuna differenza tra residente e visitatore. Il lampone artico rientra per intero in quel diritto, cosa notevole per una bacca venduta a prezzo da specialità.",
+      "p2": "Il diritto viaggia con un'etica, e con il lampone artico pesa più del solito perché le piante si riprendono lentamente. Prendi solo bacche ambrate del tutto mature, lascia le rosse e le troppo mature, e non spogliare mai una pianta. Su una torbiera piccola, un chilo a famiglia basta e avanza.",
+      "ctaPrimary": "Leggi tutte le regole di raccolta",
+      "ctaSecondary": "Vedi le ricette con le bacche"
+    },
+    "whyWild": {
+      "kicker": "Approfondimento · Coltivazione",
+      "headline": "Perché nessuno riesce a coltivarlo.",
+      "p1": "Gli agronomi ci provano da decenni e il lampone artico continua a vincere. La pianta è dioica, fiori maschili e femminili su piante separate: una colonia può fiorire splendidamente senza legare un solo frutto.",
+      "p2": "Cresce inoltre con estrema lentezza, impiega dai sei ai sette anni per fruttificare anche in condizioni perfette, e pretende una combinazione di umidità, luce e chimica di torbiera che le serre non sono riuscite a riprodurre.",
+      "p3": "I ricercatori norvegesi e finlandesi hanno fatto progressi con le varietà, ma le rese commerciali restano una frazione di ciò che le torbiere selvatiche danno gratis. Perciò l'intera fornitura finlandese, dai produttori di confetture ai liquorifici alle cucine dei ristoranti, viene dalla raccolta selvatica.",
+      "p4": "<strong>Per chi viaggia, tutta la storia sta in una riga:</strong> non esiste scorciatoia coltivata, quindi ogni lampone artico che assaggerai in Lapponia è stato raccolto a mano su una torbiera."
+    },
+    "price": {
+      "kicker": "Prezzo e valore",
+      "headline": "Quanto costa un chilo.",
+      "lead": "La scarsità ha una cifra. Al mercato di Rovaniemi, a fine luglio, il lampone artico fresco si vende in genere tra 25 e 50 euro al chilo.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "al chilo per bacche fresche a un banco del mercato di Rovaniemi a fine luglio"
+        },
+        {
+          "value": "5–10×",
+          "label": "il prezzo del mirtillo, la bacca di tutti i giorni del bosco"
+        },
+        {
+          "value": "100 %",
+          "label": "della fornitura finlandese è raccolta selvatica: una gelata tardiva sposta l'intero mercato"
+        }
+      ],
+      "p2": "Non è un sovrapprezzo per turisti; è quanto costano ore in ginocchio sulla torba bagnata. Quando una gelata tardiva dirada il raccolto, l'offerta crolla, il prezzo sale ancora e gli chef si contendono ciò che resta, perché ogni cucina vuole il lampone artico in carta finché dura."
+    },
+    "products": {
+      "kicker": "Confettura, liquore, parfait",
+      "headline": "Così la Lapponia conserva la stagione.",
+      "lead": "Quattro settimane di raccolto, quarantotto di appetito: quasi tutto viene conservato. Tre forme portano il sapore lungo l'anno.",
+      "items": [
+        {
+          "title": "Confettura di lampone artico",
+          "body": "La lakkahillo è il classico: bacche intere, semi compresi, cotte con la delicatezza giusta perché l'acidità sopravviva. I finlandesi la servono sul formaggio-pane tiepido, sui pancake e sul gelato. Se porti a casa dalla Finlandia un solo souvenir da mangiare, scegli questo."
+        },
+        {
+          "title": "Liquore di lampone artico",
+          "body": "Lakka, il liquore ambrato nato dai lamponi artici selvatici, è il classico fine cena finlandese: freddo e liscio, o versato sul gelato alla vaniglia. In una bottiglia entra una quantità sorprendente di torbiera."
+        },
+        {
+          "title": "Parfait al lampone artico",
+          "body": "Il dessert del fine dining lappone. Quando i menu degustazione del nord arrivano al dolce, di solito approdano qui, e in stagione ogni cucina vuole bacche fresche per prepararlo."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove assaggiarlo",
+      "headline": "Incontrare la hilla in Lapponia.",
+      "lead": "In stagione non serve una prenotazione per assaggiarlo, anche se un buon tavolo lo premia. Tre strade affidabili:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Banchi del mercato in piena estate",
+          "body": "Da fine luglio i mercati della Lapponia, kauppatori di Rovaniemi incluso, vendono lamponi artici freschi a cestini e a chili. Mangiali in giornata; non aspettano."
+        },
+        {
+          "n": "02",
+          "title": "Carte dei dessert, tutto l'anno",
+          "body": "Il parfait al lampone artico àncora il finale dolce dei menu gastronomici lapponi, e il formaggio-pane con la confettura spunta ovunque, dal caffè lungo la strada alla colazione in hotel."
+        },
+        {
+          "n": "03",
+          "title": "Una torbiera tutta tua",
+          "body": "In stagione, un'uscita guidata di raccolta ti porta sulla torbiera giusta con qualcuno che la sa leggere. Fuori stagione, parti dalla nostra guida alla raccolta e prepara come si deve il prossimo luglio."
+        }
+      ],
+      "gygCta": "Sfoglia le uscite di raccolta su GetYourGuide",
+      "diningCta": "Vedi la guida al fine dining"
+    },
+    "nextSteps": {
+      "kicker": "Prosegui da qui",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "Impara a raccogliere",
+          "body": "Il diritto di accesso nel dettaglio, la sicurezza in torbiera, cosa portare e quando andare: la guida alla raccolta copre il lato pratico.",
+          "cta": "Guida alla raccolta"
+        },
+        {
+          "title": "Cucina le bacche",
+          "body": "Il kissel di bacche selvatiche, la zuppa dolce tradizionale, è il posto dove la cucina di casa finlandese mette il bottino della passeggiata.",
+          "cta": "Ricette tradizionali"
+        },
+        {
+          "title": "Fermati per la stagione",
+          "body": "Da metà luglio a metà agosto è alta stagione per torbiere, mercati e terrazze insieme. Rovaniemi è una base pratica per tutte e tre.",
+          "cta": "Vedi gli alloggi a Rovaniemi"
         }
       ]
     }

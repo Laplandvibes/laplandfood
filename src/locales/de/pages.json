@@ -258,7 +258,8 @@
       "p2": "Jahrzehntelange Agrarforschung hat es nicht geschafft, sie zu kommerzialisieren. Moltebeerenpflanzen sind zweihäusig (getrennte männliche und weibliche Pflanzen), wachsen extrem langsam, brauchen 6–7 Jahre bis zur ersten Frucht selbst unter perfekten Bedingungen, sind anfällig für späte Frühjahrsfröste, die die Blüten eines Jahres zerstören, und benötigen eine ganz bestimmte Kombination aus Feuchtigkeit, Licht und Moorchemie, die sich der Gewächshaussimulation entzogen hat. Norwegische und finnische Forscher haben mit Sorten Fortschritte gemacht, aber die kommerziellen Erträge sind nach wie vor ein Bruchteil der Wildernte. Daher ist das gesamte finnische Angebot, für Konfitürenhersteller, Likörproduzenten (Lakka), Restaurantküchen, wild gesammelt.",
       "p3": "Deshalb kostet ein Kilo frische Moltebeeren auf dem Markt in Rovaniemi Ende Juli typischerweise 25–50 €, das Fünf- bis Zehnfache von Heidelbeeren und deshalb bricht das Angebot zusammen, wenn die Frühjahrsfröste eine Woche später kommen. Das ist auch der Grund, warum das Moltebeerenparfait das Fine-Dining-Dessert Lapplands ist. Jeder Koch möchte sie verwenden, solange sie reichen.",
       "p4": "<strong>Sammel-Ethik:</strong> Moltebeerenpflanzen erholen sich nur langsam. Das Sámi-Prinzip und die finnische Sammelpraxis, ist es, nur vollreife Beeren zu pflücken, unreife und überreife stehen zu lassen und die Pflanze niemals abzustreifen. Auf einem kleinen Moor reicht ein Kilo für die Familie.",
-      "boldPick": "Sammel-Ethik:"
+      "boldPick": "Sammel-Ethik:",
+      "guideLinkLabel": "Zum großen Moltebeeren-Guide"
     },
     "fishDeep": {
       "kicker": "Tiefer Blick · Süßwasserfisch",
@@ -296,6 +297,176 @@
           "title": "In Rovaniemi übernachten",
           "body": "Lapplands größte Stadt und die einfachste Basis für Markthallen, Restaurants und Tagesfahrten zu den Höfen.",
           "cta": "Hotelpreise ansehen"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Moltebeere: Die Beere, die keiner anbaut",
+    "description": "Wie Moltebeeren schmecken, wann die kurze Saison ihren Höhepunkt hat, warum der Anbau scheitert, was ein Kilo in Rovaniemi kostet und wo Sie sie probieren.",
+    "hero": {
+      "eyebrow": "Der Beeren-Guide · Moltebeere",
+      "title": "Moltebeere, das sture",
+      "titleHighlight": "Gold des Moores.",
+      "subtitle": "In Finnland hütet man seine Moltebeerstellen wie Bankdaten. Hier lesen Sie, wie die Beere wirklich schmeckt, warum jede einzelne von Hand gepflückt wird und wo sie Ihnen in Lappland begegnet.",
+      "primaryCta": "Sammeln lernen",
+      "secondaryCta": "Alle Zutaten Lapplands",
+      "pills": [
+        "Geschmack",
+        "Saison",
+        "Jedermannsrecht",
+        "Warum kein Anbau gelingt",
+        "Preis",
+        "Konfitüre und Likör",
+        "Wo probieren"
+      ]
+    },
+    "intro": {
+      "lead": "Eine bernsteinfarbene Beere pro Stängel, auf offenen Mooren, vier Wochen im Jahr. Nichts anderes in Finnlands Vorratskammer ist so knapp, und nichts wird so persönlich verteidigt.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Streng arktisch",
+          "body": "Die Moltebeere wächst in kalten, sauren Torfmooren eines schmalen Bandes im Norden: Nordskandinavien und Finnland, Teile Russlands, Alaskas und Nordkanadas. Innerhalb dieses Bandes ist sie überraschend häufig. Außerhalb wächst sie schlicht nicht."
+        },
+        {
+          "n": "02",
+          "title": "Ein Fenster von vier Wochen",
+          "body": "Die Beeren reifen von Mitte Juli bis Mitte August, doch die Ernte entscheidet sich Wochen früher: ein später Frost in der Blüte kann den Großteil des Jahrgangs auslöschen."
+        },
+        {
+          "n": "03",
+          "title": "Wild, jede einzelne",
+          "body": "Kommerzieller Anbau ist nie gelungen. Jedes Glas Konfitüre, jeder Likör und jedes Restaurant-Parfait beginnt also damit, dass jemand im Moor kniet."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Die erste Frage zuerst",
+      "headline": "Wie schmeckt eine Moltebeere?",
+      "answer": "Eine reife Moltebeere ist weich, saftig und erst säuerlich, dann süß: wie Aprikose gekreuzt mit Johannisbeere, darunter eine feine honigartige Moschusnote, die keine andere Beere hat. Die Kerne sind groß und weich und werden mitgegessen. Kalt schmeckt sie spitz; leicht erwärmt öffnet sich die Aprikosenseite.",
+      "p2": "Die Reife entscheidet alles. Eine feste rote Moltebeere ist unreif und schneidend sauer. Reif wird sie bernsteinfarben, weich und löst sich fast von selbst vom Stängel, und genau diese Beere ist die nassen Füße wert. Gepflückt werden die gelben; die roten bleiben für den nächsten Besuch.",
+      "p3": "Eine große Schale frischer Moltebeeren bekommt man selten. Das Aroma ist intensiv und die Ernte klein, also serviert Lappland sie dort, wo ein Löffel zählt: auf warmem <em>leipäjuusto</em>, Finnlands quietschendem Brotkäse, neben Vanilleeis oder als Parfait."
+    },
+    "season": {
+      "kicker": "Mitte Juli bis Mitte August",
+      "headline": "Vier Wochen Bernstein.",
+      "lead": "Die Saison ist kurz genug, um sie mit einer um zwei Wochen falsch gebuchten Reise zu verpassen. Nach diesem Rhythmus lebt Lappland.",
+      "phases": [
+        {
+          "period": "Juni",
+          "title": "Das Risiko",
+          "body": "Weiße Blüten öffnen sich über den Mooren, während Nachtfrost noch möglich ist. Was diese Wochen übersteht, wird zur Ernte des Jahres; was erfriert, ist verloren."
+        },
+        {
+          "period": "Mitte Juli",
+          "title": "Es beginnt",
+          "body": "Die ersten Beeren werden weich und bernsteinfarben, und binnen Tagen füllen sich die Marktstände. Die Sammler gehen ihre geheimen Moore nun morgens und abends ab."
+        },
+        {
+          "period": "Mitte August",
+          "title": "Es ist vorbei",
+          "body": "Rund einen Monat nach dem Start schließt die Saison. Bis zum nächsten Juli heißt Moltebeere dann: Konfitüre, Likör und was frisch eingefroren wurde."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jedermannsrecht",
+      "headline": "Pflücken darf jeder. Auch Sie.",
+      "p1": "Finnlands <em>jokamiehenoikeus</em>, das Jedermannsrecht, erlaubt allen das Pflücken wilder Beeren auf unbewirtschaftetem Land: keine Genehmigung, keine Erlaubnis des Grundbesitzers, kein Unterschied zwischen Einheimischen und Gästen. Die Moltebeere fällt vollständig darunter, bemerkenswert für eine Beere zu Delikatessenpreisen.",
+      "p2": "Zum Recht gehört eine Ethik, und bei Moltebeeren wiegt sie schwerer als sonst, weil sich die Pflanzen langsam erholen. Nehmen Sie nur voll ausgereifte gelbe Beeren, lassen Sie rote und überreife stehen, und pflücken Sie nie eine Pflanze kahl. Auf einem kleinen Moor genügt ein Kilo pro Familie.",
+      "ctaPrimary": "Alle Sammelregeln lesen",
+      "ctaSecondary": "Zu den Beerenrezepten"
+    },
+    "whyWild": {
+      "kicker": "Vertiefung · Anbau",
+      "headline": "Warum der Anbau scheitert.",
+      "p1": "Agrarforscher versuchen es seit Jahrzehnten, und die Moltebeere gewinnt weiter. Die Pflanze ist zweihäusig, männliche und weibliche Blüten wachsen auf getrennten Pflanzen, ein Bestand kann also prächtig blühen und trotzdem keine einzige Frucht ansetzen.",
+      "p2": "Sie wächst zudem extrem langsam, braucht selbst unter perfekten Bedingungen sechs bis sieben Jahre bis zur ersten Frucht und verlangt eine Kombination aus Feuchtigkeit, Licht und Moorchemie, die kein Gewächshaus nachbilden konnte.",
+      "p3": "Norwegische und finnische Forscher sind mit Zuchtsorten vorangekommen, doch kommerzielle Erträge bleiben ein Bruchteil dessen, was wilde Moore umsonst geben. Das gesamte finnische Angebot, von der Konfitürenmanufaktur bis zur Restaurantküche, stammt daher aus Wildsammlung.",
+      "p4": "<strong>Für Reisende passt die ganze Geschichte in einen Satz:</strong> Es gibt keine angebaute Abkürzung, jede Moltebeere, die Sie in Lappland kosten, wurde von Hand im Moor gepflückt."
+    },
+    "price": {
+      "kicker": "Preis und Wert",
+      "headline": "Was ein Kilo kostet.",
+      "lead": "Knappheit hat eine Zahl. Auf dem Markt von Rovaniemi kosten frische Moltebeeren Ende Juli üblicherweise 25 bis 50 Euro pro Kilo.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "pro Kilo frischer Moltebeeren am Marktstand in Rovaniemi Ende Juli"
+        },
+        {
+          "value": "5–10×",
+          "label": "der Preis von Heidelbeeren, den Alltagsbeeren des Waldes"
+        },
+        {
+          "value": "100 %",
+          "label": "des finnischen Angebots ist wildgepflückt, ein später Frost bewegt darum den ganzen Markt"
+        }
+      ],
+      "p2": "Das ist kein Touristenaufschlag, sondern der Preis für Stunden auf den Knien im nassen Torf. Dünnt ein später Frost die Ernte aus, bricht das Angebot ein, der Preis steigt weiter, und die Küchen konkurrieren um den Rest, denn jede will Moltebeeren auf der Karte haben, solange es sie gibt."
+    },
+    "products": {
+      "kicker": "Konfitüre, Likör, Parfait",
+      "headline": "So konserviert Lappland die Saison.",
+      "lead": "Vier Wochen Ernte, achtundvierzig Wochen Appetit: Der Großteil wird haltbar gemacht. Drei Formen tragen den Geschmack durchs Jahr.",
+      "items": [
+        {
+          "title": "Moltebeerkonfitüre",
+          "body": "Der Klassiker: ganze Beeren samt Kernen, so schonend gekocht, dass die Säure überlebt. Finnen löffeln sie auf warmen Brotkäse, Pfannkuchen und Eis. Wenn Sie ein einziges essbares Souvenir aus Finnland mitnehmen, dann dieses."
+        },
+        {
+          "title": "Moltebeerlikör",
+          "body": "Lakka, der bernsteinfarbene Likör aus wilden Moltebeeren, ist Finnlands klassischer Abschluss eines Abendessens: kalt pur oder über Vanilleeis gegossen. In eine Flasche passt erstaunlich viel Moor."
+        },
+        {
+          "title": "Moltebeer-Parfait",
+          "body": "Das Fine-Dining-Dessert Lapplands. Wenn die Degustationsmenüs des Nordens beim Dessert ankommen, landen sie meist hier, und in der Saison will jede Küche frische Beeren dafür."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Wo Sie sie probieren",
+      "headline": "Wo Ihnen die Moltebeere begegnet.",
+      "lead": "Zum Probieren brauchen Sie in der Saison keine Reservierung, auch wenn sie sich lohnt. Drei verlässliche Wege:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Marktstände im Hochsommer",
+          "body": "Ab Ende Juli verkaufen Lapplands Märkte, der kauppatori von Rovaniemi eingeschlossen, frische Moltebeeren schalen- und kiloweise. Am selben Tag essen; sie halten nicht."
+        },
+        {
+          "n": "02",
+          "title": "Dessertkarten, das ganze Jahr",
+          "body": "Das Moltebeer-Parfait verankert das Dessertende der Fine-Dining-Karten Lapplands, und Brotkäse mit Moltebeerkonfitüre taucht überall auf, vom Straßencafé bis zum Hotelfrühstück."
+        },
+        {
+          "n": "03",
+          "title": "Ein eigenes Moor",
+          "body": "In der Saison bringt Sie eine geführte Sammeltour auf das richtige Moor, mit jemandem, der es lesen kann. Außerhalb: Beginnen Sie mit unserem Sammel-Guide und planen Sie den nächsten Juli richtig."
+        }
+      ],
+      "gygCta": "Sammeltouren auf GetYourGuide ansehen",
+      "diningCta": "Zum Fine-Dining-Guide"
+    },
+    "nextSteps": {
+      "kicker": "Weiter geht es",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Sammeln lernen",
+          "body": "Jedermannsrecht im Detail, Sicherheit im Moor, Ausrüstung und Timing: Der Sammel-Guide deckt die Praxis des Selberpflückens ab.",
+          "cta": "Zum Sammel-Guide"
+        },
+        {
+          "title": "Die Beeren verkochen",
+          "body": "Wildbeeren-Kissel, die traditionelle Dessertsuppe, ist der Ort, an dem Finnlands Hausküche die Ausbeute der Moorwanderung unterbringt.",
+          "cta": "Traditionelle Rezepte"
+        },
+        {
+          "title": "Zur Saison bleiben",
+          "body": "Mitte Juli bis Mitte August ist Hochsaison für Moore, Märkte und Terrassen zugleich. Rovaniemi taugt als Basis für alle drei.",
+          "cta": "Unterkünfte in Rovaniemi ansehen"
         }
       ]
     }

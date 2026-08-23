@@ -208,8 +208,15 @@ export default function LocalIngredients() {
           </p>
           <p className={BODY}>{t('localIngredients.cloudberryDeep.p2')}</p>
           <p className={BODY}>{t('localIngredients.cloudberryDeep.p3')}</p>
-          <p className={BODY_LAST}>
+          <p className={BODY}>
             <Trans i18nKey="localIngredients.cloudberryDeep.p4" ns="pages" components={{ strong: <strong /> }} />
+          </p>
+          {/* Syväsivu /cloudberry (P5) jatkaa siitä mihin tämä osio jää. */}
+          <p className={BODY_LAST}>
+            <Link to={to('/cloudberry')} className="inline-flex items-center gap-1.5 font-semibold text-vibe-pink underline-offset-4 hover:underline">
+              {t('localIngredients.cloudberryDeep.guideLinkLabel')}
+              <ArrowRight className="w-4 h-4" aria-hidden="true" />
+            </Link>
           </p>
         </DeepDive>
 

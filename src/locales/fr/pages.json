@@ -257,7 +257,8 @@
       "p1": "La mûre arctique, <em>hilla</em> en finnois, <em>luomi</em> en sâme du nord, est la baie sauvage la plus prisée de Laponie et la plus obstinément non cultivée parmi les baies importantes du monde. Elle pousse uniquement dans les tourbières froides, acides et gorgées d'eau d'une bande étroite de l'hémisphère nord : Scandinavie septentrionale, Finlande, certaines parties de la Russie, Alaska et nord du Canada. À l'intérieur de ces zones elle est étonnamment commune. En dehors, elle ne pousse pas.",
       "p2": "Des décennies de recherche agricole n'ont pas réussi à la commercialiser. Les plants de mûre arctique sont dioïques (mâles et femelles séparés), poussent extrêmement lentement, prennent 6 à 7 ans pour fructifier même dans des conditions parfaites, sont vulnérables aux gelées de fin de printemps qui détruisent les fleurs de l'année, et exigent une combinaison spécifique d'humidité, de lumière et de chimie de tourbière qui a résisté à la simulation en serre. Les chercheurs norvégiens et finlandais ont progressé sur des cultivars mais les rendements commerciaux restent une fraction des rendements sauvages. Donc tout l'approvisionnement finlandais, pour les fabricants de confitures, les producteurs de liqueur (Lakka), les cuisines de restaurants, est cueilli dans la nature.",
       "p3": "C'est pourquoi un kilo de mûres arctiques fraîches sur un marché de Rovaniemi fin juillet coûte typiquement 25 à 50 €, cinq à dix fois le prix des myrtilles et pourquoi l'offre s'effondre si la gelée de printemps arrive une semaine trop tard. C'est aussi pourquoi le parfait à la mûre arctique est le dessert gastronomique de Laponie. Tous les chefs veulent les utiliser tant qu'elles durent.",
-      "p4": "<strong>Éthique de cueillette :</strong> les plants de mûre arctique mettent du temps à se rétablir. Le principe sâme et la convention de cueillette finlandaise, est de prendre uniquement les baies pleinement mûres, de laisser les vertes et les blettes, et de ne jamais dépouiller un plant. Si vous cueillez sur une petite tourbière, un kilo par famille suffit."
+      "p4": "<strong>Éthique de cueillette :</strong> les plants de mûre arctique mettent du temps à se rétablir. Le principe sâme et la convention de cueillette finlandaise, est de prendre uniquement les baies pleinement mûres, de laisser les vertes et les blettes, et de ne jamais dépouiller un plant. Si vous cueillez sur une petite tourbière, un kilo par famille suffit.",
+      "guideLinkLabel": "Lire le guide complet de la mûre arctique"
     },
     "fishDeep": {
       "kicker": "À fond · Poisson de lac",
@@ -295,6 +296,176 @@
           "title": "Dormir à Rovaniemi",
           "body": "La plus grande ville de Laponie et la base la plus simple pour les halles, les restaurants et les excursions vers les fermes.",
           "cta": "Voir les prix des hôtels"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Mûre arctique : la baie que nul ne cultive",
+    "description": "Le goût de la mûre arctique, sa courte saison, pourquoi la culture échoue, le prix du kilo à Rovaniemi et où la goûter en Laponie.",
+    "hero": {
+      "eyebrow": "Le guide des baies · Mûre arctique",
+      "title": "Mûre arctique, l'or",
+      "titleHighlight": "têtu des tourbières.",
+      "subtitle": "En Finlande, on l'appelle hilla et on garde ses coins de cueillette comme des codes bancaires. Voici son vrai goût, pourquoi chaque baie est cueillie à la main et où vous la croiserez en Laponie.",
+      "primaryCta": "Apprendre à la cueillir",
+      "secondaryCta": "Tous les ingrédients de Laponie",
+      "pills": [
+        "Goût",
+        "Saison",
+        "Droit de cueillette",
+        "Pourquoi pas de culture",
+        "Prix",
+        "Confiture et liqueur",
+        "Où la goûter"
+      ]
+    },
+    "intro": {
+      "lead": "Une baie ambrée par tige, sur des tourbières ouvertes, quatre semaines par an. Rien d'autre dans le garde-manger finlandais n'est aussi rare, ni défendu aussi personnellement.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Arctique, strictement",
+          "body": "La mûre arctique pousse dans des tourbières froides et acides, sur une bande étroite du nord : Scandinavie septentrionale et Finlande, parties de la Russie, Alaska et nord du Canada. À l'intérieur de cette bande, elle est étonnamment commune. En dehors, elle ne pousse tout simplement pas."
+        },
+        {
+          "n": "02",
+          "title": "Une fenêtre de quatre semaines",
+          "body": "Les baies mûrissent de la mi-juillet à la mi-août, mais la récolte se joue des semaines plus tôt : une gelée tardive pendant la floraison peut en emporter l'essentiel."
+        },
+        {
+          "n": "03",
+          "title": "Sauvage, jusqu'à la dernière",
+          "body": "La culture commerciale n'a jamais abouti : chaque pot de confiture, chaque verre de liqueur et chaque parfait de restaurant commence donc par quelqu'un à genoux dans une tourbière."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "La première question d'abord",
+      "headline": "Quel goût a la mûre arctique ?",
+      "answer": "Mûre, elle est souple, juteuse et acidulée avant d'être sucrée : un croisement d'abricot et de groseille, achevé par une pointe musquée et miellée qu'aucune autre baie ne possède. Les graines, grosses et tendres, se mangent avec. Froide, elle est vive ; à peine tiédie, son côté abricot s'ouvre.",
+      "p2": "La maturité décide de tout. Ferme et rouge, la mûre arctique est verte de goût, d'une acidité qui plisse la bouche. À point, elle devient ambrée, s'attendrit et se détache presque seule de la tige : c'est cette baie-là qui vaut les pieds mouillés. Les cueilleurs prennent les ambrées et laissent les rouges pour la visite suivante.",
+      "p3": "On vous tendra rarement un grand bol de baies fraîches. Le parfum est intense et la récolte minuscule, alors la Laponie la sert là où une cuillerée suffit : sur du <em>leipäjuusto</em> tiède, le fromage-pain grinçant de Finlande, à côté d'une glace vanille, ou montée en parfait."
+    },
+    "season": {
+      "kicker": "De la mi-juillet à la mi-août",
+      "headline": "Quatre semaines d'ambre.",
+      "lead": "La saison est assez courte pour qu'un voyage réservé deux semaines trop tôt ou trop tard la manque. Voici le rythme que suit la Laponie.",
+      "phases": [
+        {
+          "period": "Juin",
+          "title": "Le pari",
+          "body": "Les fleurs blanches s'ouvrent sur les tourbières alors que le gel nocturne reste possible. Ce qui survit à ces semaines devient la récolte de l'année ; ce qui gèle est perdu."
+        },
+        {
+          "period": "Mi-juillet",
+          "title": "Ça commence",
+          "body": "Les premières baies prennent leur teinte ambrée et les étals de marché se remplissent en quelques jours. Les cueilleurs arpentent leurs tourbières secrètes matin et soir."
+        },
+        {
+          "period": "Mi-août",
+          "title": "C'est fini",
+          "body": "Un mois environ après le début, la saison se referme. Jusqu'en juillet prochain, mûre arctique voudra dire confiture, liqueur et ce qui a été congelé frais."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Droit d'accès",
+      "headline": "Tout le monde peut cueillir. Vous aussi.",
+      "p1": "Le <em>jokamiehenoikeus</em> finlandais, le droit d'accès à la nature, permet à chacun de cueillir des baies sauvages sur les terres non cultivées : pas de permis, pas d'autorisation du propriétaire, aucune différence entre habitant et visiteur. La mûre arctique y entre pleinement, ce qui est remarquable pour une baie vendue au prix d'un mets fin.",
+      "p2": "Ce droit voyage avec une éthique, et pour la mûre arctique elle pèse plus que d'habitude, car les plants se remettent lentement. Ne prenez que des baies ambrées bien mûres, laissez les rouges et les trop mûres, et ne dépouillez jamais un plant. Sur une petite tourbière, un kilo par famille suffit largement.",
+      "ctaPrimary": "Lire toutes les règles de cueillette",
+      "ctaSecondary": "Voir les recettes aux baies"
+    },
+    "whyWild": {
+      "kicker": "En profondeur · Culture",
+      "headline": "Pourquoi nul ne peut la cultiver.",
+      "p1": "Les agronomes essaient depuis des décennies, et la mûre arctique gagne toujours. La plante est dioïque, fleurs mâles et femelles sur des plants séparés : une colonie peut fleurir magnifiquement sans nouer le moindre fruit.",
+      "p2": "Elle pousse en outre très lentement, met six à sept ans à fructifier même dans des conditions parfaites, et exige une combinaison d'humidité, de lumière et de chimie de tourbière que les serres n'ont pas réussi à reproduire.",
+      "p3": "Les chercheurs norvégiens et finlandais ont progressé sur les variétés, mais les rendements commerciaux restent une fraction de ce que les tourbières sauvages donnent gratuitement. Toute l'offre finlandaise, des confituriers aux liquoristes et aux cuisines de restaurant, vient donc de la cueillette sauvage.",
+      "p4": "<strong>Pour le voyageur, toute l'histoire tient en une ligne :</strong> il n'existe aucun raccourci cultivé, donc chaque mûre arctique goûtée en Laponie a été cueillie à la main dans une tourbière."
+    },
+    "price": {
+      "kicker": "Prix et valeur",
+      "headline": "Ce que coûte un kilo.",
+      "lead": "La rareté a un chiffre. Au marché de Rovaniemi, fin juillet, la mûre arctique fraîche se vend le plus souvent entre 25 et 50 euros le kilo.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "le kilo de mûres arctiques fraîches sur un étal du marché de Rovaniemi fin juillet"
+        },
+        {
+          "value": "5–10×",
+          "label": "le prix de la myrtille, la baie ordinaire de la forêt"
+        },
+        {
+          "value": "100 %",
+          "label": "de l'offre finlandaise vient de la cueillette sauvage : une gelée tardive déplace tout le marché"
+        }
+      ],
+      "p2": "Ce n'est pas un supplément pour touristes ; c'est le prix d'heures passées à genoux dans la tourbe humide. Quand une gelée tardive éclaircit la récolte, l'offre s'effondre, le prix grimpe encore, et les chefs se disputent ce qui reste : chaque cuisine veut de la mûre arctique à la carte tant qu'il y en a."
+    },
+    "products": {
+      "kicker": "Confiture, liqueur, parfait",
+      "headline": "Comment la Laponie garde la saison.",
+      "lead": "Quatre semaines de récolte, quarante-huit semaines d'appétit : l'essentiel est conservé. Trois formes portent le goût toute l'année.",
+      "items": [
+        {
+          "title": "Confiture de mûre arctique",
+          "body": "La lakkahillo est le classique : des baies entières, graines comprises, cuites assez doucement pour que l'acidité survive. Les Finlandais la servent sur le fromage-pain tiède, les pancakes et la glace. Si vous ne rapportez qu'un souvenir comestible de Finlande, que ce soit ce pot."
+        },
+        {
+          "title": "Liqueur de mûre arctique",
+          "body": "Lakka, la liqueur ambrée issue de mûres arctiques sauvages, est le digestif classique finlandais : froide et pure, ou versée sur une glace vanille. Une bouteille contient une quantité étonnante de tourbière."
+        },
+        {
+          "title": "Parfait à la mûre arctique",
+          "body": "Le dessert gastronomique de Laponie. Quand les menus dégustation du nord arrivent au dessert, c'est le plus souvent ici qu'ils atterrissent, et en saison chaque cuisine veut des baies fraîches pour le réussir."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Où la goûter",
+      "headline": "Croiser la hilla en Laponie.",
+      "lead": "En saison, pas besoin de réservation pour y goûter, même si une bonne table la met en valeur. Trois pistes fiables :",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Les étals de plein été",
+          "body": "Dès la fin juillet, les marchés de Laponie, kauppatori de Rovaniemi compris, vendent la mûre arctique fraîche à la barquette et au kilo. Mangez-les le jour même ; elles n'attendent pas."
+        },
+        {
+          "n": "02",
+          "title": "Les cartes de desserts, toute l'année",
+          "body": "Le parfait à la mûre arctique ancre la fin des menus gastronomiques de Laponie, et le fromage-pain à la confiture de mûre arctique se croise partout, du café de bord de route au petit-déjeuner d'hôtel."
+        },
+        {
+          "n": "03",
+          "title": "Une tourbière à soi",
+          "body": "En saison, une sortie de cueillette guidée vous emmène sur la bonne tourbière avec quelqu'un qui sait la lire. Hors saison, commencez par notre guide de cueillette et préparez sérieusement juillet prochain."
+        }
+      ],
+      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "diningCta": "Voir le guide gastronomique"
+    },
+    "nextSteps": {
+      "kicker": "Pour continuer",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "Apprendre à cueillir",
+          "body": "Le droit d'accès en détail, la sécurité sur les tourbières, quoi emporter et quand partir : le guide de cueillette couvre le côté pratique.",
+          "cta": "Guide de cueillette"
+        },
+        {
+          "title": "Cuisiner les baies",
+          "body": "Le kissel de baies sauvages, la soupe dessert traditionnelle, est la façon finlandaise d'honorer ce que la balade en tourbière a rapporté.",
+          "cta": "Recettes traditionnelles"
+        },
+        {
+          "title": "Rester pour la saison",
+          "body": "De la mi-juillet à la mi-août, c'est la haute saison des tourbières, des marchés et des terrasses. Rovaniemi fait une base commode pour les trois.",
+          "cta": "Voir les hébergements à Rovaniemi"
         }
       ]
     }

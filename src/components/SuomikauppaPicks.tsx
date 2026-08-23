@@ -18,6 +18,13 @@ import AffiliateDisclosure from './AffiliateDisclosure'
  *   · reindeer → raaka-aineopas (LocalIngredients): porosäilykkeet + kuivaliha
  *                (handlet verifioitu 23.8.: sivu 200 + Shopify available:true;
  *                feedin riipisen-poronkaristys-300g oli 404 eikä kelvannut)
+ *   · cloudberry → hillasyväsivu (/cloudberry): 🔴 kaupan KAIKKI lakkahillot
+ *                olivat loppu 24.8. (varianttitason available:false, 3 handlea
+ *                tarkistettu) — variantti myy verifioidut villimarjaklassikot
+ *                ja copy sanoo hillatilanteen suoraan; se on sivun oma pointti
+ *                niukkuudesta. Jos lakkahillo palaa varastoon, vaihda tänne
+ *                (esim. finnish-flavours-suomalainen-premium-lakkahillo-250g)
+ *                ja pehmennä copyn loppuunmyyntimaininta.
  *
  * 🔴 Maitotuotteita ei nosteta. Lihatuotteet sallittu 2026-08-23 (Vesa: poro
  * säilykkeenä = syy mainostaa) VAIN säilykkeinä/kuivattuina reindeer-
@@ -34,7 +41,7 @@ import AffiliateDisclosure from './AffiliateDisclosure'
 
 const FIN_BLUE = '#002F6C'
 
-export type SuomikauppaPicksVariant = 'berries' | 'rye' | 'coffee' | 'reindeer'
+export type SuomikauppaPicksVariant = 'berries' | 'rye' | 'coffee' | 'reindeer' | 'cloudberry'
 
 interface Product {
   sid: string
@@ -111,6 +118,68 @@ const PRODUCTS: Record<SuomikauppaPicksVariant, Product[]> = {
         it: 'Sottili fette di renna essiccata',
         nl: 'Flinterdun gedroogd rendier',
         sv: 'Tunna skivor torkat renkött',
+      },
+    },
+  ],
+  cloudberry: [
+    {
+      sid: 'cloudberry_guide_bilberry_jam',
+      handle: 'finnish-flavours-suomalainen-mustikkahillo-400g',
+      brand: 'Finnish Flavours',
+      name: 'Mustikkahillo',
+      desc: {
+        en: 'Finnish bilberry jam',
+        fi: 'Suomalainen mustikkahillo',
+        de: 'Finnische Heidelbeerkonfitüre',
+        ja: 'フィンランドのビルベリージャム',
+        es: 'Mermelada finlandesa de arándano',
+        'pt-BR': 'Geleia finlandesa de mirtilo-silvestre',
+        'zh-CN': '芬兰野生蓝莓果酱',
+        ko: '핀란드 빌베리 잼',
+        fr: 'Confiture finlandaise de myrtille sauvage',
+        it: 'Confettura finlandese di mirtillo',
+        nl: 'Finse bosbessenjam',
+        sv: 'Finsk blåbärssylt',
+      },
+    },
+    {
+      sid: 'cloudberry_guide_lingonberry_jam',
+      handle: 'finnish-flavours-suomalainen-puolukkahillo-400g',
+      brand: 'Finnish Flavours',
+      name: 'Puolukkahillo',
+      desc: {
+        en: 'Finnish lingonberry jam',
+        fi: 'Suomalainen puolukkahillo',
+        de: 'Finnische Preiselbeerkonfitüre',
+        ja: 'フィンランドのコケモモジャム',
+        es: 'Mermelada finlandesa de arándano rojo',
+        'pt-BR': 'Geleia finlandesa de airela',
+        'zh-CN': '芬兰越橘果酱',
+        ko: '핀란드 링곤베리 잼',
+        fr: "Confiture finlandaise d'airelle rouge",
+        it: 'Confettura finlandese di mirtillo rosso',
+        nl: 'Finse vossenbessenjam',
+        sv: 'Finsk lingonsylt',
+      },
+    },
+    {
+      sid: 'cloudberry_guide_queens_jam',
+      handle: 'meritalo-suomalainen-kuningatarhillo-410g',
+      brand: 'Meritalo',
+      name: 'Kuningatarhillo',
+      desc: {
+        en: "Queen's jam of bilberry, raspberry and strawberry",
+        fi: 'Kuningatarhillo suomalaisista marjoista',
+        de: 'Königinnenkonfitüre aus Heidelbeere, Himbeere und Erdbeere',
+        ja: 'ビルベリーとラズベリーと苺の「女王のジャム」',
+        es: 'Mermelada de la reina: arándano, frambuesa y fresa',
+        'pt-BR': 'Geleia da rainha: mirtilo, framboesa e morango',
+        'zh-CN': '女王果酱：野生蓝莓、树莓与草莓',
+        ko: '빌베리, 라즈베리, 딸기의 퀸즈 잼',
+        fr: 'Confiture de la reine : myrtille, framboise et fraise',
+        it: 'Confettura della regina: mirtillo, lampone e fragola',
+        nl: 'Koninginnenjam van bosbes, framboos en aardbei',
+        sv: 'Drottningsylt på blåbär, hallon och jordgubb',
       },
     },
   ],
@@ -383,6 +452,68 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
       headline: 'Ren till ditt eget skafferi.',
       body: 'Samma kött som fjällköken arbetar med, konserverat: långlagad renpaté, en ostsoppa med rökt ren och tunna skivor torkat renkött för turen. Suomikauppa skickar från Finland; inom EU reser köttet fritt, beställer du någon annanstans, kontrollera landets importregler först.',
       shipping: 'Skickas från Finland',
+    },
+  },
+  cloudberry: {
+    en: {
+      eyebrow: 'The pantry reality check',
+      headline: 'Even the jam sells out.',
+      body: 'Everything this page says about scarcity holds on the shelf too: when we last checked, the shop’s cloudberry jars were sold out, waiting on the next wild harvest. These Finnish wild-berry classics from the same forests are in stock, and Suomikauppa ships them worldwide.',
+    },
+    fi: {
+      eyebrow: 'Komerorealismi',
+      headline: 'Hillahillokin myydään loppuun.',
+      body: 'Kaikki mitä tämä sivu sanoo niukkuudesta pätee myös kaupan hyllyyn: kun viimeksi tarkistimme, lakkahillopurkit olivat loppu ja odottivat seuraavaa villisatoa. Nämä suomalaiset villimarjaklassikot samoista metsistä ovat varastossa, ja Suomikauppa toimittaa ne maailmanlaajuisesti.',
+    },
+    de: {
+      eyebrow: 'Realitätscheck im Regal',
+      headline: 'Sogar die Konfitüre ist ausverkauft.',
+      body: 'Was diese Seite über Knappheit sagt, gilt auch im Laden: Beim letzten Blick war die Moltebeerkonfitüre ausverkauft und wartet auf die nächste wilde Ernte. Diese finnischen Wildbeeren-Klassiker aus denselben Wäldern sind vorrätig, und Suomikauppa versendet sie weltweit.',
+    },
+    ja: {
+      eyebrow: '食料棚の現実',
+      headline: 'ジャムさえ売り切れる。',
+      body: 'このページで語った希少さは、店の棚でも同じです。最後に確認した時点で、クラウドベリージャムの瓶は完売し、次の野生の収穫を待っていました。同じ森から生まれたフィンランドの定番ベリージャムは在庫があり、Suomikauppa が世界中へ発送します。',
+    },
+    es: {
+      eyebrow: 'Realidad de despensa',
+      headline: 'Hasta la mermelada se agota.',
+      body: 'Lo que esta página cuenta sobre la escasez vale también para el estante: la última vez que miramos, los tarros de mora ártica estaban agotados, a la espera de la próxima cosecha silvestre. Estos clásicos finlandeses de bayas silvestres de los mismos bosques sí están en stock, y Suomikauppa los envía a todo el mundo.',
+    },
+    'pt-BR': {
+      eyebrow: 'A despensa, sem filtro',
+      headline: 'Até a geleia esgota.',
+      body: 'O que esta página diz sobre escassez vale também para a prateleira: na última vez que olhamos, os potes de amora ártica estavam esgotados, esperando a próxima colheita silvestre. Estes clássicos finlandeses de frutas silvestres dos mesmos bosques estão em estoque, e a Suomikauppa envia para o mundo todo.',
+    },
+    'zh-CN': {
+      eyebrow: '食品柜的现实',
+      headline: '连果酱都会卖断货。',
+      body: '这一页讲的稀缺，在货架上同样成立：我们上次查看时，云莓果酱已经售罄，要等下一季野生采收。来自同一片森林的芬兰野生浆果经典款有现货，Suomikauppa 发往全球。',
+    },
+    ko: {
+      eyebrow: '식료품 선반의 현실',
+      headline: '잼마저 품절됩니다.',
+      body: '이 페이지가 말한 희소성은 매장 선반에서도 그대로입니다. 마지막으로 확인했을 때 클라우드베리 잼은 품절이었고, 다음 야생 수확을 기다리고 있었습니다. 같은 숲에서 온 핀란드 야생 베리 클래식은 재고가 있으며, Suomikauppa가 전 세계로 배송합니다.',
+    },
+    fr: {
+      eyebrow: 'Le garde-manger, version réalité',
+      headline: 'Même la confiture s’épuise.',
+      body: 'Ce que cette page dit de la rareté vaut aussi en rayon : à notre dernier passage, les pots de mûre arctique étaient épuisés, dans l’attente de la prochaine récolte sauvage. Ces classiques finlandais de baies sauvages, issus des mêmes forêts, sont en stock, et Suomikauppa les expédie dans le monde entier.',
+    },
+    it: {
+      eyebrow: 'La dispensa, senza filtri',
+      headline: 'Persino la confettura va esaurita.',
+      body: 'Quello che questa pagina racconta sulla scarsità vale anche sullo scaffale: all’ultimo controllo i vasetti di lampone artico erano esauriti, in attesa del prossimo raccolto selvatico. Questi classici finlandesi di bacche selvatiche degli stessi boschi sono disponibili, e Suomikauppa li spedisce in tutto il mondo.',
+    },
+    nl: {
+      eyebrow: 'De voorraadkast, zonder opsmuk',
+      headline: 'Zelfs de jam raakt uitverkocht.',
+      body: 'Wat deze pagina over schaarste zegt, geldt ook voor het schap: bij onze laatste check waren de potten kruipbraamjam uitverkocht, in afwachting van de volgende wilde oogst. Deze Finse wildebessenklassiekers uit dezelfde bossen zijn op voorraad, en Suomikauppa verstuurt ze wereldwijd.',
+    },
+    sv: {
+      eyebrow: 'Skafferiet, utan filter',
+      headline: 'Till och med sylten tar slut.',
+      body: 'Det den här sidan säger om knapphet gäller även hyllan: när vi senast kollade var hjortronsyltburkarna slutsålda i väntan på nästa vilda skörd. De här finska vildbärsklassikerna från samma skogar finns i lager, och Suomikauppa skickar dem över hela världen.',
     },
   },
   berries: {

@@ -257,7 +257,8 @@
       "p1": "Hjortron, <em>hilla</em> på finska, <em>luomi</em> på nordsamiska, är det mest eftertraktade vilda bäret i Lappland och det mest envist oodlade av världens viktiga bär. Det växer bara på kalla, sura, vattendränkta torvmyrar i ett smalt band av norra halvklotet: norra Skandinavien, Finland, delar av Ryssland, Alaska och norra Kanada. Inom de zonerna är det förvånansvärt vanligt. Utanför dem växer det inte.",
       "p2": "Decennier av jordbruksforskning har misslyckats med att kommersialisera det. Hjortronplantor är tvåbyggare (skilda han- och honplantor), växer extremt långsamt, tar 6–7 år på sig att bära frukt även under perfekta förhållanden, är känsliga för sena vårfroster som förstör årets blommor, och behöver en specifik kombination av fukt, ljus och myrkemi som har stått emot växthussimulering. Norska och finska forskare har gjort framsteg med sorter, men de kommersiella skördarna är fortfarande en bråkdel av de vilda. Så hela den finska tillgången, för sylttillverkare, likörproducenter (Lakka) och restaurangkök, är vildplockad.",
       "p3": "Det är därför ett kilo färska hjortron på en marknad i Rovaniemi i slutet av juli oftast kostar 25–50 €, fem till tio gånger priset för blåbär, och därför tillgången kollapsar om vårfrosten kommer en vecka för sent. Det är också därför hjortronparfait är Lapplands fine dining-efterrätt. Varje kock vill använda dem medan de finns.",
-      "p4": "<strong>Plocketik:</strong> hjortronplantor återhämtar sig långsamt. Den samiska principen och den finska plockningskonventionen är att bara ta fullmogna bär, lämna de omogna och övermogna och aldrig plocka rent en planta. Plockar du på en liten myr räcker ett kilo per familj gott och väl."
+      "p4": "<strong>Plocketik:</strong> hjortronplantor återhämtar sig långsamt. Den samiska principen och den finska plockningskonventionen är att bara ta fullmogna bär, lämna de omogna och övermogna och aldrig plocka rent en planta. Plockar du på en liten myr räcker ett kilo per familj gott och väl.",
+      "guideLinkLabel": "Läs hela hjortronguiden"
     },
     "fishDeep": {
       "kicker": "Fördjupning · Insjöfisk",
@@ -295,6 +296,176 @@
           "title": "Bo i Rovaniemi",
           "body": "Lapplands största stad och den enklaste basen för saluhallar, restauranger och dagsturer ut till gårdarna.",
           "cta": "Se hotellpriser"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Hjortron: bäret som ingen kan odla",
+    "description": "Hur hjortron smakar, när den korta säsongen toppar, varför odling misslyckas, vad ett kilo kostar i Rovaniemi och var du smakar hjortron i Lappland.",
+    "hero": {
+      "eyebrow": "Bärguiden · Hjortron",
+      "title": "Hjortron, myrens",
+      "titleHighlight": "envisa guld.",
+      "subtitle": "I Finland vaktas hjortronställena som bankkoder. Här får du veta hur bäret faktiskt smakar, varför vartenda ett plockas för hand och var du möter det i Lappland.",
+      "primaryCta": "Lär dig plocka",
+      "secondaryCta": "Alla Lapplands råvaror",
+      "pills": [
+        "Smak",
+        "Säsong",
+        "Allemansrätten",
+        "Därför misslyckas odling",
+        "Pris",
+        "Sylt och likör",
+        "Var du smakar det"
+      ]
+    },
+    "intro": {
+      "lead": "Ett bärnstensgult bär per stjälk, på öppna myrar, fyra veckor om året. Inget annat i det finska skafferiet är så knappt, och inget vaktas så personligt.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Ett arktiskt bär, strikt",
+          "body": "Hjortron växer i kalla, sura torvmyrar i ett smalt bälte i norr: norra Skandinavien och Finland, delar av Ryssland, Alaska och norra Kanada. Innanför bältet är det förvånansvärt vanligt. Utanför växer det helt enkelt inte."
+        },
+        {
+          "n": "02",
+          "title": "Ett fönster på fyra veckor",
+          "body": "Bären mognar från mitten av juli till mitten av augusti, och årets skörd avgörs redan veckor tidigare: en sen vårfrost under blomningen kan ta det mesta."
+        },
+        {
+          "n": "03",
+          "title": "Vilt, vartenda ett",
+          "body": "Hjortronodling har aldrig fungerat i kommersiell skala, så varje syltburk, varje glas likör och varje parfait på restaurang börjar med att någon går ner på knä på en myr."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Första frågan först",
+      "headline": "Hur smakar hjortron?",
+      "answer": "Ett moget hjortron är mjukt, saftigt och syrligt före sött: tänk aprikos korsad med röda vinbär, med en svag honungsartad mysk som inget annat bär har. Kärnorna är stora och mjuka och äts med. Kallt smakar det skarpt; lätt uppvärmt öppnar sig aprikossidan.",
+      "p2": "Mognaden avgör allt. Ett fast rött hjortron är omoget och kärvt surt. När det är klart blir det bärnstensgult, mjuknar och lossnar nästan av sig självt från stjälken, och det bäret är värt blöta fötter. Plockare tar de gula och lämnar de röda till nästa tur.",
+      "p3": "Du får sällan en stor skål färska hjortron framför dig. Smaken är intensiv och skörden liten, så Lappland serverar hjortron där en sked räcker: på varm <em>leipäjuusto</em>, Finlands knarrande brödost, bredvid vaniljglass eller vänd till parfait."
+    },
+    "season": {
+      "kicker": "Mitten av juli till mitten av augusti",
+      "headline": "Fyra veckor av bärnsten.",
+      "lead": "Hjortronsäsongen är kort nog att missa genom att boka resan två veckor fel. Det här är rytmen Lappland lever efter.",
+      "phases": [
+        {
+          "period": "Juni",
+          "title": "Hasardspelet",
+          "body": "Vita blommor slår ut över myrarna medan nattfrost fortfarande är möjlig. Det som klarar de här veckorna blir årets skörd; det som fryser är borta för året."
+        },
+        {
+          "period": "Mitten av juli",
+          "title": "Det börjar",
+          "body": "De första bären mjuknar till bärnsten och torgstånden fylls inom dagar. Plockarna börjar gå sina hemliga myrar morgon och kväll."
+        },
+        {
+          "period": "Mitten av augusti",
+          "title": "Det är över",
+          "body": "Ungefär en månad efter starten stänger säsongen. Härifrån till nästa juli betyder hjortron sylt, likör och det som hann frysas färskt."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Allemansrätten",
+      "headline": "Alla får plocka. Även du.",
+      "p1": "Finlands allemansrätt, <em>jokamiehenoikeus</em>, låter vem som helst plocka vilda bär på mark som inte odlas: inget tillstånd, inget lov från markägaren, ingen skillnad på ortsbo och besökare. Hjortron ligger helt inom den rätten, vilket är anmärkningsvärt för ett bär med delikatesspris.",
+      "p2": "Med rätten följer en etik, och för hjortron väger den tyngre än vanligt eftersom plantorna återhämtar sig långsamt. Ta bara helt mogna gula bär, lämna de röda och de övermogna, och skala aldrig en planta ren. På en liten myr räcker ett kilo per familj gott.",
+      "ctaPrimary": "Läs alla plockregler",
+      "ctaSecondary": "Se bärrecepten"
+    },
+    "whyWild": {
+      "kicker": "Fördjupning · Odling",
+      "headline": "Därför kan ingen odla det.",
+      "p1": "Agronomer har försökt i årtionden, och hjortronet vinner fortfarande. Växten är tvåbyggare, med han- och honblommor på olika plantor, så ett bestånd kan blomma vackert och ändå inte sätta ett enda bär.",
+      "p2": "Det växer dessutom extremt långsamt, behöver sex till sju år till första skörden även under perfekta förhållanden och kräver en kombination av fukt, ljus och myrkemi som växthus inte lyckats återskapa.",
+      "p3": "Norska och finska forskare har kommit en bit med sorter, men kommersiella skördar är fortfarande en bråkdel av vad vilda myrar ger gratis. Därför är hela Finlands utbud, från syltfabriker till likörproducenter och restaurangkök, viltplockat.",
+      "p4": "<strong>För en resenär ryms hela historien på en rad:</strong> det finns ingen odlad genväg, så varje hjortron du smakar i Lappland är handplockat på en myr."
+    },
+    "price": {
+      "kicker": "Pris och värde",
+      "headline": "Vad ett kilo kostar.",
+      "lead": "Knappheten har en prislapp. På torget i Rovaniemi i slutet av juli kostar färska hjortron vanligen 25 till 50 euro kilot.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "per kilo färska hjortron vid ett torgstånd i Rovaniemi i slutet av juli"
+        },
+        {
+          "value": "5–10×",
+          "label": "priset på blåbär, skogens vardagsbär"
+        },
+        {
+          "value": "100 %",
+          "label": "av det finska utbudet är viltplockat, så en sen frost flyttar hela marknaden"
+        }
+      ],
+      "p2": "Det är inget turistpåslag utan vad timmar på knä i blöt torv kostar. När en sen frost gallrar skörden rasar utbudet och priset stiger ytterligare, och kockarna konkurrerar om det som finns kvar, för varje kök vill ha hjortron på menyn så länge de räcker."
+    },
+    "products": {
+      "kicker": "Sylt, likör, parfait",
+      "headline": "Så sparar Lappland säsongen.",
+      "lead": "Fyra veckors skörd, fyrtioåtta veckors aptit: större delen av skörden konserveras. Tre former bär smaken genom året.",
+      "items": [
+        {
+          "title": "Hjortronsylt",
+          "body": "Klassikern: hela bär med kärnor och allt, kokta så varsamt att syran överlever. I Finland skedas den över varm brödost, pannkakor och glass. Tar du med dig en enda ätbar souvenir hem, låt det bli den här."
+        },
+        {
+          "title": "Hjortronlikör",
+          "body": "Lakka, den bärnstensgula likören på vilda hjortron, är Finlands klassiska avslutning på middagen: kall som den är eller hälld över vaniljglass. En flaska rymmer förvånansvärt mycket myr."
+        },
+        {
+          "title": "Hjortronparfait",
+          "body": "Lapplands fine dining-dessert. När nordens avsmakningsmenyer når efterrätten är det oftast här de landar, och i säsong vill varje kök ha färska bär till den."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Var du smakar det",
+      "headline": "Så möter du hjortron i Lappland.",
+      "lead": "Du behöver ingen bordsbokning för att smaka hjortron i säsong, även om det belönar en. Tre pålitliga vägar:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Torgstånd i högsommar",
+          "body": "Från slutet av juli säljer Lapplands torg, Rovaniemis kauppatori inräknat, färska hjortron i ask och kilovis. Ät dem samma dag; de väntar inte."
+        },
+        {
+          "n": "02",
+          "title": "Dessertmenyer året om",
+          "body": "Hjortronparfait förankrar dessertänden på Lapplands fine dining-menyer, och brödost med hjortronsylt dyker upp överallt från vägkaféer till hotellfrukostar."
+        },
+        {
+          "n": "03",
+          "title": "En egen myr",
+          "body": "I säsong tar en guidad plockningstur dig till rätt sorts myr med någon som kan läsa den. Utanför säsong: börja med vår plockguide och planera nästa juli ordentligt."
+        }
+      ],
+      "gygCta": "Bläddra bland plockturer på GetYourGuide",
+      "diningCta": "Se fine dining-guiden"
+    },
+    "nextSteps": {
+      "kicker": "Fortsätt här",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Lär dig plocka",
+          "body": "Allemansrätten i detalj, myrsäkerhet, packlista och timing: plockguiden täcker det praktiska i att plocka själv.",
+          "cta": "Plockguiden"
+        },
+        {
+          "title": "Laga bären",
+          "body": "Vildbärskräm, den traditionella efterrättskrämen, är där det finska hemköket tar hand om det myrturen gav.",
+          "cta": "Traditionella recept"
+        },
+        {
+          "title": "Stanna över säsongen",
+          "body": "Mitten av juli till mitten av augusti är högsäsong för myrar, torg och uteserveringar. Rovaniemi funkar som bas för alla tre.",
+          "cta": "Se boenden i Rovaniemi"
         }
       ]
     }

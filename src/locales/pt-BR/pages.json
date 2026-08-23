@@ -257,7 +257,8 @@
       "p1": "A amora ártica, <em>hilla</em> em finlandês, <em>luomi</em> em sami setentrional, é a fruta silvestre mais cobiçada da Lapônia e a mais teimosamente impossível de cultivar entre as frutas importantes do mundo. Cresce apenas em pântanos de turfa frios, ácidos e encharcados, numa faixa estreita do hemisfério norte: o norte da Escandinávia, a Finlândia, partes da Rússia, o Alasca e o norte do Canadá. Dentro dessas zonas é surpreendentemente comum. Fora delas, não cresce.",
       "p2": "Décadas de pesquisa agrícola não conseguiram comercializá-la. As plantas de amora ártica são dioicas (com exemplares machos e fêmeas separados), crescem muito devagar, levam de 6 a 7 anos para frutificar mesmo em condições perfeitas, são vulneráveis às geadas tardias de primavera que destroem as flores do ano e precisam de uma combinação específica de umidade, luz e química de turfa que resistiu à simulação em estufa. Pesquisadores noruegueses e finlandeses avançaram em algumas cultivares, mas a produtividade comercial ainda é uma fração da silvestre. Então todo o fornecimento finlandês, para fabricantes de geleia, produtores de licor (Lakka) e cozinhas de restaurante, é de colheita silvestre.",
       "p3": "É por isso que um quilo de amoras árticas frescas num mercado de Rovaniemi no fim de julho costuma custar de € 25 a € 50, de cinco a dez vezes o preço dos mirtilos e por isso o fornecimento despenca se a geada da primavera chegar uma semana atrasada. É também por isso que o parfait de amora ártica é a sobremesa-ícone da alta gastronomia da Lapônia. Todo chef quer usá-las enquanto duram.",
-      "p4": "<strong>Ética da colheita:</strong> as plantas de amora ártica se recuperam devagar. O princípio sami e a convenção de colheita finlandesa, é pegar apenas as frutas totalmente maduras, deixar as verdes e as passadas, e nunca raspar uma planta. Se você colhe num pântano pequeno, um quilo por família é mais que suficiente."
+      "p4": "<strong>Ética da colheita:</strong> as plantas de amora ártica se recuperam devagar. O princípio sami e a convenção de colheita finlandesa, é pegar apenas as frutas totalmente maduras, deixar as verdes e as passadas, e nunca raspar uma planta. Se você colhe num pântano pequeno, um quilo por família é mais que suficiente.",
+      "guideLinkLabel": "Leia o guia completo da amora ártica"
     },
     "fishDeep": {
       "kicker": "A fundo · O peixe de lago",
@@ -295,6 +296,176 @@
           "title": "Fique em Rovaniemi",
           "body": "A maior cidade da Lapônia e a base mais fácil para mercados, restaurantes e bate-voltas até as fazendas.",
           "cta": "Ver preços de hotéis"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Amora ártica: a fruta que ninguém cultiva",
+    "description": "Qual é o gosto da amora ártica, quando chega a curta temporada, por que o cultivo fracassa, quanto custa o quilo em Rovaniemi e onde prová-la na Lapônia.",
+    "hero": {
+      "eyebrow": "O guia das frutas silvestres · Amora ártica",
+      "title": "Amora ártica, o ouro",
+      "titleHighlight": "teimoso do pântano.",
+      "subtitle": "Na Finlândia ela se chama hilla, e os pontos de colheita são guardados como senha de banco. Aqui você descobre o gosto de verdade, por que cada fruta é colhida à mão e onde encontrá-la na Lapônia.",
+      "primaryCta": "Aprenda a colher",
+      "secondaryCta": "Todos os ingredientes da Lapônia",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Direito de colher",
+        "Por que não se cultiva",
+        "Preço",
+        "Geleia e licor",
+        "Onde provar"
+      ]
+    },
+    "intro": {
+      "lead": "Uma fruta âmbar por haste, em pântanos abertos, quatro semanas por ano. Nada mais na despensa finlandesa é tão escasso, nem defendido de forma tão pessoal.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Ártica no sentido estrito",
+          "body": "A amora ártica cresce em turfeiras frias e ácidas, numa faixa estreita do norte: Escandinávia setentrional e Finlândia, partes da Rússia, Alasca e norte do Canadá. Dentro dessa faixa, é surpreendentemente comum. Fora dela, simplesmente não cresce."
+        },
+        {
+          "n": "02",
+          "title": "Uma janela de quatro semanas",
+          "body": "As frutas amadurecem de meados de julho a meados de agosto, mas a safra se decide semanas antes: uma geada tardia de primavera durante a floração pode levar quase tudo."
+        },
+        {
+          "n": "03",
+          "title": "Silvestre, até a última",
+          "body": "O cultivo comercial nunca deu certo, então cada pote de geleia, cada dose de licor e cada parfait de restaurante começa com alguém ajoelhado num pântano."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primeiro, a pergunta principal",
+      "headline": "Qual é o gosto da amora ártica?",
+      "answer": "Madura, ela é macia, suculenta e mais ácida que doce: pense num cruzamento de damasco com groselha, arrematado por uma nota almiscarada e amelada que nenhuma outra fruta tem. As sementes são grandes e macias, e vão junto. Gelada, é cortante; levemente aquecida, o lado de damasco se abre.",
+      "p2": "O ponto de maturação decide tudo. Firme e vermelha, a amora ártica está verde e é azeda de franzir a boca. No ponto, fica âmbar, amolece e solta da haste quase sozinha, e é essa fruta que compensa os pés molhados. Quem colhe leva as âmbar e deixa as vermelhas para a próxima visita.",
+      "p3": "Dificilmente alguém vai te servir uma tigela cheia de frutas frescas. O sabor é intenso e a colheita, pequena, então a Lapônia a serve onde uma colherada basta: sobre <em>leipäjuusto</em> morno, o queijo finlandês que range nos dentes, ao lado de sorvete de baunilha, ou em forma de parfait."
+    },
+    "season": {
+      "kicker": "De meados de julho a meados de agosto",
+      "headline": "Quatro semanas de âmbar.",
+      "lead": "A temporada é curta o bastante para você perdê-la marcando a viagem duas semanas fora. Este é o ritmo que a Lapônia segue.",
+      "phases": [
+        {
+          "period": "Junho",
+          "title": "A aposta",
+          "body": "As flores brancas se abrem nos pântanos enquanto ainda pode gear de madrugada. O que sobrevive a essas semanas vira a safra do ano; o que congela, já era."
+        },
+        {
+          "period": "Meados de julho",
+          "title": "Começa",
+          "body": "As primeiras frutas amolecem e ganham tom âmbar, e as bancas do mercado se enchem em poucos dias. Os coletores passam a rondar seus pântanos secretos de manhã e à noite."
+        },
+        {
+          "period": "Meados de agosto",
+          "title": "Acabou",
+          "body": "Cerca de um mês depois do início, a temporada se fecha. Daqui até o próximo julho, amora ártica significa geleia, licor e o que foi congelado fresco."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "O direito de acesso à natureza",
+      "headline": "Todo mundo pode colher. Você também.",
+      "p1": "O <em>jokamiehenoikeus</em> finlandês, o direito de acesso à natureza, permite a qualquer pessoa colher frutas silvestres em terras não cultivadas: sem licença, sem autorização do dono, sem diferença entre morador e visitante. A amora ártica entra por inteiro nesse direito, o que é notável para uma fruta com preço de iguaria.",
+      "p2": "O direito vem acompanhado de uma ética, e com a amora ártica ela pesa mais que o normal, porque as plantas se recuperam devagar. Leve só as frutas âmbar totalmente maduras, deixe as vermelhas e as passadas, e nunca limpe uma planta inteira. Num pântano pequeno, um quilo por família é mais que suficiente.",
+      "ctaPrimary": "Leia todas as regras de coleta",
+      "ctaSecondary": "Veja as receitas com frutas"
+    },
+    "whyWild": {
+      "kicker": "Aprofundamento · Cultivo",
+      "headline": "Por que ninguém consegue cultivá-la.",
+      "p1": "Os agrônomos tentam há décadas, e a amora ártica continua ganhando. A planta é dioica, com flores masculinas e femininas em plantas separadas: uma mancha pode florescer linda e não vingar um único fruto.",
+      "p2": "Ela também cresce devagar demais, leva de seis a sete anos para frutificar mesmo em condições perfeitas, e exige uma combinação de umidade, luz e química de turfeira que as estufas não conseguiram reproduzir.",
+      "p3": "Pesquisadores noruegueses e finlandeses avançaram com cultivares, mas o rendimento comercial segue sendo uma fração do que os pântanos silvestres dão de graça. Por isso todo o suprimento finlandês, das fábricas de geleia aos licores e às cozinhas de restaurante, vem da coleta silvestre.",
+      "p4": "<strong>Para quem viaja, a história inteira cabe numa linha:</strong> não existe atalho cultivado, então cada amora ártica que você provar na Lapônia foi colhida à mão num pântano."
+    },
+    "price": {
+      "kicker": "Preço e valor",
+      "headline": "Quanto custa um quilo.",
+      "lead": "A escassez tem número. No mercado de Rovaniemi, no fim de julho, a amora ártica fresca costuma sair entre 25 e 50 euros o quilo.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "por quilo de amora ártica fresca numa banca do mercado de Rovaniemi no fim de julho"
+        },
+        {
+          "value": "5–10×",
+          "label": "o preço do mirtilo-silvestre, a fruta de todo dia da floresta"
+        },
+        {
+          "value": "100 %",
+          "label": "do suprimento finlandês é de coleta silvestre, então uma geada tardia mexe com o mercado inteiro"
+        }
+      ],
+      "p2": "Não é sobretaxa de turista; é o preço de horas ajoelhado na turfa molhada. Quando uma geada tardia desfalca a safra, a oferta despenca, o preço sobe ainda mais e os chefs disputam o que resta, porque toda cozinha quer amora ártica no cardápio enquanto durar."
+    },
+    "products": {
+      "kicker": "Geleia, licor, parfait",
+      "headline": "Como a Lapônia guarda a temporada.",
+      "lead": "Quatro semanas de colheita, quarenta e oito de apetite: a maior parte vira conserva. Três formas carregam o sabor pelo ano.",
+      "items": [
+        {
+          "title": "Geleia de amora ártica",
+          "body": "A lakkahillo é o clássico: frutas inteiras, sementes e tudo, cozidas com delicadeza para a acidez sobreviver. Os finlandeses servem sobre o queijo morno que range, sobre panquecas e sorvete. Se for levar um único souvenir comestível da Finlândia, leve esse pote."
+        },
+        {
+          "title": "Licor de amora ártica",
+          "body": "Lakka, o licor âmbar feito de amoras árticas silvestres, é o clássico fim de jantar finlandês: gelado e puro, ou derramado sobre sorvete de baunilha. Numa garrafa cabe uma quantidade impressionante de pântano."
+        },
+        {
+          "title": "Parfait de amora ártica",
+          "body": "A sobremesa do fine dining da Lapônia. Quando os menus degustação do norte chegam à sobremesa, costumam aterrissar aqui, e na temporada toda cozinha quer frutas frescas para prepará-lo."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Onde provar",
+      "headline": "Encontrando a hilla na Lapônia.",
+      "lead": "Na temporada, você não precisa de reserva para prová-la, embora uma boa mesa a valorize. Três caminhos confiáveis:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Bancas de mercado no verão",
+          "body": "Do fim de julho em diante, os mercados da Lapônia, incluindo o kauppatori de Rovaniemi, vendem amora ártica fresca em cestinhas e por quilo. Coma no mesmo dia; ela não espera."
+        },
+        {
+          "n": "02",
+          "title": "Cardápios de sobremesa, o ano todo",
+          "body": "O parfait de amora ártica ancora o fim doce dos menus de alta gastronomia da Lapônia, e o queijo que range com geleia de amora aparece em todo lugar, do café de estrada ao café da manhã do hotel."
+        },
+        {
+          "n": "03",
+          "title": "Um pântano só seu",
+          "body": "Na temporada, um passeio guiado de coleta te coloca na turfeira certa com alguém que sabe lê-la. Fora da temporada, comece pelo nosso guia de coleta e planeje direito o próximo julho."
+        }
+      ],
+      "gygCta": "Ver passeios de coleta no GetYourGuide",
+      "diningCta": "Ver o guia de alta gastronomia"
+    },
+    "nextSteps": {
+      "kicker": "Continue por aqui",
+      "headline": "Aonde isso leva.",
+      "items": [
+        {
+          "title": "Aprenda a colher",
+          "body": "O direito de acesso em detalhe, a segurança nas turfeiras, o que levar e quando ir: o guia de coleta cobre o lado prático de colher as suas.",
+          "cta": "Guia de coleta"
+        },
+        {
+          "title": "Cozinhe as frutas",
+          "body": "O kiisseli de frutas silvestres, a sopa doce tradicional, é onde a cozinha caseira finlandesa aproveita o que a caminhada rendeu.",
+          "cta": "Receitas tradicionais"
+        },
+        {
+          "title": "Fique para a temporada",
+          "body": "De meados de julho a meados de agosto é alta temporada nos pântanos, nos mercados e nos terraços. Rovaniemi funciona como base para os três.",
+          "cta": "Ver hospedagem em Rovaniemi"
         }
       ]
     }

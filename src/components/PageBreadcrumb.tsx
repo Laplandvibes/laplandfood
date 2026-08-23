@@ -12,6 +12,7 @@ export default function PageBreadcrumb() {
   const { t } = useTranslation('nav')
   const labelMap: Record<string, string> = {
     '/local-ingredients': t('links.ingredients'),
+    '/cloudberry': t('links.cloudberry'),
     '/traditional-recipes': t('links.recipes'),
     '/modern-lapland': t('links.modern'),
     '/foraging-guide': t('links.foraging'),

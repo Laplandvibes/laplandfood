@@ -257,7 +257,8 @@
       "p1": "De kruipbraam, <em>hilla</em> in het Fins, <em>luomi</em> in Noord-Samisch, is de meest gewaardeerde wilde bes van Lapland en de meest hardnekkig ongekweekte van 's werelds belangrijke bessen. Hij groeit alleen in koude, zure, waterverzadigde turfvenen in een smalle band van het noordelijk halfrond: Noord-Scandinavië, Finland, delen van Rusland, Alaska en Noord-Canada. Binnen die zones is hij verbazingwekkend gewoon. Daarbuiten groeit hij niet.",
       "p2": "Decennia van landbouwkundig onderzoek hebben hem niet kunnen commercialiseren. Kruipbraamplanten zijn tweehuizig (mannelijk en vrouwelijk apart), groeien extreem langzaam, doen 6–7 jaar over om vrucht te dragen zelfs onder perfecte omstandigheden, zijn kwetsbaar voor late lentevorst die de bloesem van het jaar vernielt, en hebben een specifieke combinatie van vocht, licht en venchemie nodig die zich tegen kassimulatie heeft verzet. Noorse en Finse onderzoekers hebben vooruitgang geboekt met cultivars, maar de commerciële opbrengsten zijn nog een fractie van wilde opbrengsten. De hele Finse aanvoer, voor jamfabrikanten, likeurproducenten (Lakka) en restaurantkeukens, komt uit het wild.",
       "p3": "Daarom kost een kilo verse kruipbramen op een Rovaniemi-markt eind juli doorgaans 25 tot 50 €, vijf tot tien keer de prijs van blauwe bosbessen en daarom stort de aanvoer in als de lentevorst een week te laat komt. Daarom is de kruipbraamparfait ook hét Laplandse fine-diningdessert. Elke kok wil ze gebruiken zolang ze er zijn.",
-      "p4": "<strong>Pluk-ethiek:</strong> kruipbraamplanten herstellen traag. Het Samische principe en de Finse plukconventie, is alleen volledig rijpe bessen meenemen, de onrijpe en overrijpe laten, en een plant nooit volledig afstropen. Plukt u op een klein ven, dan is een kilo per gezin genoeg."
+      "p4": "<strong>Pluk-ethiek:</strong> kruipbraamplanten herstellen traag. Het Samische principe en de Finse plukconventie, is alleen volledig rijpe bessen meenemen, de onrijpe en overrijpe laten, en een plant nooit volledig afstropen. Plukt u op een klein ven, dan is een kilo per gezin genoeg.",
+      "guideLinkLabel": "Lees de complete kruipbraamgids"
     },
     "fishDeep": {
       "kicker": "Diepteduik · Meervis",
@@ -295,6 +296,176 @@
           "title": "Overnacht in Rovaniemi",
           "body": "De grootste stad van Lapland en de makkelijkste uitvalsbasis voor markthallen, restaurants en dagtochten naar de boerderijen.",
           "cta": "Bekijk hotelprijzen"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Kruipbraam: de bes die niemand kan kweken",
+    "description": "Hoe de kruipbraam smaakt, wanneer het korte seizoen piekt, waarom kweken mislukt, wat een kilo kost in Rovaniemi en waar je hem proeft in Lapland.",
+    "hero": {
+      "eyebrow": "De bessengids · Kruipbraam",
+      "title": "Kruipbraam, het koppige",
+      "titleHighlight": "goud van het veen.",
+      "subtitle": "In Finland heet hij hilla en worden plukplekken bewaakt als bankcodes. Hier lees je hoe de bes werkelijk smaakt, waarom elke bes met de hand wordt geplukt en waar je hem in Lapland tegenkomt.",
+      "primaryCta": "Leer hem plukken",
+      "secondaryCta": "Alle ingrediënten van Lapland",
+      "pills": [
+        "Smaak",
+        "Seizoen",
+        "Plukrecht",
+        "Waarom kweken mislukt",
+        "Prijs",
+        "Jam en likeur",
+        "Waar te proeven"
+      ]
+    },
+    "intro": {
+      "lead": "Eén amberkleurige bes per stengel, op open venen, vier weken per jaar. Niets anders in de Finse voorraadkast is zo schaars, en niets wordt zo persoonlijk verdedigd.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Strikt Arctisch",
+          "body": "De kruipbraam groeit in koude, zure hoogvenen in een smalle band van het noorden: Noord-Scandinavië en Finland, delen van Rusland, Alaska en Noord-Canada. Binnen die band is hij verrassend gewoon. Erbuiten groeit hij simpelweg niet."
+        },
+        {
+          "n": "02",
+          "title": "Een venster van vier weken",
+          "body": "De bessen rijpen van half juli tot half augustus, maar de oogst wordt weken eerder beslist: één late voorjaarsvorst tijdens de bloei kan het grootste deel wegvagen."
+        },
+        {
+          "n": "03",
+          "title": "Wild, stuk voor stuk",
+          "body": "Commercieel kweken is nooit gelukt, dus elke pot jam, elk glas likeur en elke parfait in een restaurant begint met iemand die knielt in het veen."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Eerst de hoofdvraag",
+      "headline": "Hoe smaakt een kruipbraam?",
+      "answer": "Een rijpe kruipbraam is zacht, sappig en eerst zuur, dan pas zoet: denk aan abrikoos gekruist met rode bes, afgemaakt met een licht muskusachtige honingtoon die geen enkele andere bes heeft. De pitten zijn groot en zacht, en eet je gewoon mee. Koud smaakt hij scherp; licht verwarmd opent zich de abrikozenkant.",
+      "p2": "Rijpheid beslist alles. Een stevige rode kruipbraam is onrijp en zo zuur dat je mond samentrekt. Op zijn best wordt hij amberkleurig, zacht, en laat hij bijna vanzelf los van de stengel: dát is de bes die natte voeten waard is. Plukkers nemen de gele mee en laten de rode staan voor het volgende bezoek.",
+      "p3": "Een grote schaal verse kruipbramen krijg je zelden voorgezet. De smaak is intens en de oogst klein, dus Lapland serveert hem waar één lepel telt: op warme <em>leipäjuusto</em>, de piepende Finse broodkaas, naast vanille-ijs, of verwerkt in een parfait."
+    },
+    "season": {
+      "kicker": "Half juli tot half augustus",
+      "headline": "Vier weken amber.",
+      "lead": "Het seizoen is kort genoeg om te missen door je reis twee weken verkeerd te boeken. Dit is het ritme waar Lapland op leeft.",
+      "phases": [
+        {
+          "period": "Juni",
+          "title": "De gok",
+          "body": "Witte bloemen openen zich boven het veen terwijl nachtvorst nog mogelijk is. Wat deze weken overleeft, wordt de oogst van het jaar; wat bevriest, is weg."
+        },
+        {
+          "period": "Half juli",
+          "title": "Het begint",
+          "body": "De eerste bessen worden zacht en amberkleurig, en binnen dagen liggen de marktkramen vol. Plukkers lopen hun geheime venen weer af, 's ochtends en 's avonds."
+        },
+        {
+          "period": "Half augustus",
+          "title": "Het is voorbij",
+          "body": "Ongeveer een maand na de start sluit het seizoen. Vanaf hier tot volgend jaar juli betekent kruipbraam: jam, likeur en wat vers is ingevroren."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Toegangsrecht",
+      "headline": "Iedereen mag plukken. Jij dus ook.",
+      "p1": "Het Finse <em>jokamiehenoikeus</em>, het toegangsrecht tot de natuur, laat iedereen wilde bessen plukken op niet-bebouwd land: geen vergunning, geen toestemming van de grondeigenaar, geen verschil tussen inwoner en bezoeker. De kruipbraam valt daar volledig onder, opmerkelijk voor een bes met delicatessenprijs.",
+      "p2": "Bij het recht hoort een ethiek, en bij kruipbramen weegt die zwaarder dan normaal, omdat de planten traag herstellen. Neem alleen volrijpe amberkleurige bessen, laat de rode en de overrijpe staan, en pluk nooit een plant kaal. Op een klein veen is een kilo per gezin ruim genoeg.",
+      "ctaPrimary": "Lees alle plukregels",
+      "ctaSecondary": "Bekijk de bessenrecepten"
+    },
+    "whyWild": {
+      "kicker": "Verdieping · Kweek",
+      "headline": "Waarom niemand hem kan kweken.",
+      "p1": "Landbouwkundigen proberen het al tientallen jaren, en de kruipbraam blijft winnen. De plant is tweehuizig, met mannelijke en vrouwelijke bloemen op aparte planten: een veld kan prachtig bloeien en toch geen enkele vrucht zetten.",
+      "p2": "Hij groeit bovendien extreem traag, heeft zelfs onder perfecte omstandigheden zes tot zeven jaar nodig om vrucht te dragen, en eist een combinatie van vocht, licht en veenchemie die kassen niet hebben kunnen nabootsen.",
+      "p3": "Noorse en Finse onderzoekers boeken vooruitgang met rassen, maar commerciële opbrengsten blijven een fractie van wat wilde venen gratis geven. De hele Finse aanvoer, van jamfabrikanten tot likeurstokers en restaurantkeukens, komt dus uit wildpluk.",
+      "p4": "<strong>Voor een reiziger past het hele verhaal op één regel:</strong> er is geen gekweekte sluiproute, dus elke kruipbraam die je in Lapland proeft, is met de hand geplukt in het veen."
+    },
+    "price": {
+      "kicker": "Prijs en waarde",
+      "headline": "Wat een kilo kost.",
+      "lead": "Schaarste heeft een getal. Op de markt van Rovaniemi kosten verse kruipbramen eind juli doorgaans 25 tot 50 euro per kilo.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "per kilo verse kruipbramen bij een marktkraam in Rovaniemi eind juli"
+        },
+        {
+          "value": "5–10×",
+          "label": "de prijs van bosbessen, de alledaagse bes van het bos"
+        },
+        {
+          "value": "100 %",
+          "label": "van de Finse aanvoer is wildpluk, dus één late vorst beweegt de hele markt"
+        }
+      ],
+      "p2": "Het is geen toeristentoeslag; het is wat uren op je knieën in nat veen kosten. Als late vorst de oogst uitdunt, stort het aanbod in, stijgt de prijs verder en strijden chefs om wat overblijft, want elke keuken wil kruipbraam op de kaart zolang het kan."
+    },
+    "products": {
+      "kicker": "Jam, likeur, parfait",
+      "headline": "Zo bewaart Lapland het seizoen.",
+      "lead": "Vier weken oogst, achtenveertig weken trek: het meeste wordt geconserveerd. Drie vormen dragen de smaak het jaar door.",
+      "items": [
+        {
+          "title": "Kruipbraamjam",
+          "body": "Lakkahillo is de klassieker: hele bessen, pitten en al, zo zacht gekookt dat het zuur overleeft. Finnen lepelen hem over warme broodkaas, pannenkoeken en ijs. Neem je één eetbaar souvenir mee uit Finland, laat het deze pot zijn."
+        },
+        {
+          "title": "Kruipbraamlikeur",
+          "body": "Lakka, de amberkleurige likeur van wilde kruipbramen, is de klassieke Finse afsluiter van een diner: koud en puur, of over vanille-ijs gegoten. In één fles past verbazend veel veen."
+        },
+        {
+          "title": "Kruipbraamparfait",
+          "body": "Hét fine-diningdessert van Lapland. Als de proeverijmenu's van het noorden bij het dessert aankomen, landen ze meestal hier, en in het seizoen wil elke keuken er verse bessen voor."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te proeven",
+      "headline": "Zo kom je de hilla tegen in Lapland.",
+      "lead": "In het seizoen heb je geen restaurantreservering nodig om te proeven, al loont een goede tafel wel. Drie betrouwbare routes:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Marktkramen in hartje zomer",
+          "body": "Vanaf eind juli verkopen de markten van Lapland, de kauppatori van Rovaniemi incluis, verse kruipbramen per bakje en per kilo. Eet ze dezelfde dag; ze wachten niet."
+        },
+        {
+          "n": "02",
+          "title": "Dessertkaarten, het hele jaar",
+          "body": "Kruipbraamparfait verankert het dessert-einde van Laplands fine-diningmenu's, en broodkaas met kruipbraamjam duikt overal op, van wegrestaurant tot hotelontbijt."
+        },
+        {
+          "n": "03",
+          "title": "Een eigen veen",
+          "body": "In het seizoen brengt een begeleide plukexcursie je naar het juiste soort veen, met iemand die het kan lezen. Buiten het seizoen: begin bij onze plukgids en plan volgende juli goed."
+        }
+      ],
+      "gygCta": "Bekijk plukexcursies op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "nextSteps": {
+      "kicker": "Ga verder",
+      "headline": "Waar dit naartoe leidt.",
+      "items": [
+        {
+          "title": "Leer plukken",
+          "body": "Het toegangsrecht in detail, veiligheid in het veen, wat je meeneemt en wanneer je gaat: de plukgids dekt de praktijk van zelf plukken.",
+          "cta": "Plukgids"
+        },
+        {
+          "title": "Kook de bessen",
+          "body": "Kissel van wilde bessen, de traditionele dessertsoep, is waar de Finse huiskeuken de opbrengst van de veenwandeling in kwijt kan.",
+          "cta": "Traditionele recepten"
+        },
+        {
+          "title": "Blijf voor het seizoen",
+          "body": "Half juli tot half augustus is hoogseizoen voor venen, markten en terrassen tegelijk. Rovaniemi is een prima uitvalsbasis voor alle drie.",
+          "cta": "Bekijk verblijven in Rovaniemi"
         }
       ]
     }

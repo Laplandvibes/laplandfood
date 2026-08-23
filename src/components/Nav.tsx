@@ -9,6 +9,7 @@ import { useLocale } from '../i18n/useLocale'
 const links = [
   { to: '/', key: 'home' },
   { to: '/local-ingredients', key: 'ingredients' },
+  { to: '/cloudberry', key: 'cloudberry' },
   { to: '/traditional-recipes', key: 'recipes' },
   { to: '/modern-lapland', key: 'modern' },
   { to: '/foraging-guide', key: 'foraging' },

@@ -2,11 +2,12 @@
   "links": {
     "home": "Startseite",
     "ingredients": "Zutaten",
+    "cloudberry": "Moltebeere",
     "recipes": "Rezepte",
     "modern": "Modernes Lappland",
     "foraging": "Sammeln",
     "michelin": "Michelin",
-    "foodTours": "Kulinarische Touren",
+    "foodTours": "Foodtouren",
     "about": "Über uns"
   },
   "ariaHome": "Startseite von LaplandFood",

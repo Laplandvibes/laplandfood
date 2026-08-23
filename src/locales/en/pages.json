@@ -257,7 +257,8 @@
       "p1": "Cloudberry, <em>hilla</em> in Finnish, <em>luomi</em> in North Sami, is the most prized wild berry in Lapland and the most stubbornly uncultivated of the world's significant berries. It grows only in cold, acidic, waterlogged peat bogs in a narrow band of the northern hemisphere: northern Scandinavia, Finland, parts of Russia, Alaska, and northern Canada. Inside those zones it is surprisingly common. Outside them, it does not grow.",
       "p2": "Decades of agricultural research have failed to commercialise it. Cloudberry plants are dioecious (separate male and female), grow extremely slowly, take 6–7 years to fruit even when conditions are perfect, are vulnerable to late spring frosts that destroy the year's flowers, and need a specific combination of moisture, light, and bog chemistry that has resisted greenhouse simulation. Norwegian and Finnish researchers have made progress on cultivars but commercial yields are still a fraction of wild yields. So the entire Finnish supply, for jam manufacturers, liqueur producers (Lakka), restaurant kitchens, is wild-foraged.",
       "p3": "That is why a kilo of fresh cloudberries at a Rovaniemi market in late July typically runs €25–€50, five to ten times the price of bilberries and why supply collapses if the spring frost comes a week late. It is also why cloudberry parfait is the Lapland fine-dining dessert. Every chef wants to use them while they last.",
-      "p4": "<strong>Picking ethic:</strong> cloudberry plants are slow to recover. The Sami principle and the Finnish foraging convention, is to take fully ripe berries only, leave the unripe and overripe ones, and never strip a plant. If you're foraging on a small bog, a kilo per family is plenty."
+      "p4": "<strong>Picking ethic:</strong> cloudberry plants are slow to recover. The Sami principle and the Finnish foraging convention, is to take fully ripe berries only, leave the unripe and overripe ones, and never strip a plant. If you're foraging on a small bog, a kilo per family is plenty.",
+      "guideLinkLabel": "Read the full cloudberry guide"
     },
     "fishDeep": {
       "kicker": "Deep dive · Lake fish",
@@ -295,6 +296,176 @@
           "title": "Stay in Rovaniemi",
           "body": "Lapland's largest city and the easiest base for market halls, restaurants and day trips out to the farms.",
           "cta": "Check hotel prices"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Cloudberry: The Arctic Berry No One Can Farm",
+    "description": "What cloudberries taste like, when the short Lapland season peaks, why farming keeps failing, what a kilo costs in Rovaniemi and where to taste hilla.",
+    "hero": {
+      "eyebrow": "The berry guide · Cloudberry",
+      "title": "Cloudberry, the bog's",
+      "titleHighlight": "stubborn gold.",
+      "subtitle": "Finns call it hilla and guard their picking spots like bank codes. Here is what the berry actually tastes like, why every single one is picked by hand, and where you'll meet it in Lapland.",
+      "primaryCta": "Learn to forage it",
+      "secondaryCta": "All Lapland ingredients",
+      "pills": [
+        "Taste",
+        "Season",
+        "The right to pick",
+        "Why farming fails",
+        "Price",
+        "Jam & liqueur",
+        "Where to taste it"
+      ]
+    },
+    "intro": {
+      "lead": "One amber berry per stem, on open bogs, four weeks a year. Nothing else in the Finnish larder is this scarce, and nothing is defended this personally.",
+      "points": [
+        {
+          "n": "01",
+          "title": "An Arctic berry, strictly",
+          "body": "Cloudberry grows in cold, acidic peat bogs across a narrow band of the north: northern Scandinavia and Finland, parts of Russia, Alaska and northern Canada. Inside that band it's surprisingly common. Outside it, it simply doesn't grow."
+        },
+        {
+          "n": "02",
+          "title": "A four-week window",
+          "body": "The berries ripen from mid-July to mid-August, and the year's crop is decided weeks earlier: one late spring frost during flowering can wipe most of it out."
+        },
+        {
+          "n": "03",
+          "title": "Wild, every single one",
+          "body": "Cloudberry farming has never worked at commercial scale, so every jar of jam, every glass of liqueur and every restaurant parfait starts with someone kneeling on a bog."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "First question first",
+      "headline": "What does a cloudberry taste like?",
+      "answer": "A ripe cloudberry is soft, juicy and tart before it is sweet: think apricot crossed with redcurrant, finished with a faint honeyed muskiness no other berry has. The seeds are big and soft, and you eat them too. Chilled it tastes sharp; gently warmed, the apricot side opens up.",
+      "p2": "Ripeness decides everything. A firm red cloudberry is unripe and mouth-puckeringly sour. When ready it turns amber, softens and pulls off the stem almost by itself, and that is the berry worth the wet feet. Pickers take the amber ones and leave the red for the next visit.",
+      "p3": "You'll rarely be handed a big bowl of them fresh. The flavour is intense and the harvest small, so Lapland serves cloudberries where a spoonful counts: over warm <em>leipäjuusto</em>, Finland's squeaky bread cheese, beside vanilla ice cream, or folded into a parfait."
+    },
+    "season": {
+      "kicker": "Mid-July to mid-August",
+      "headline": "Four weeks of amber.",
+      "lead": "Cloudberry season is short enough to miss by booking your trip two weeks wrong. This is the rhythm Lapland lives by.",
+      "phases": [
+        {
+          "period": "June",
+          "title": "The gamble",
+          "body": "White flowers open across the bogs while night frost is still possible. What survives these weeks becomes the year's harvest; what freezes is gone for the year."
+        },
+        {
+          "period": "Mid-July",
+          "title": "It begins",
+          "body": "The first berries soften to amber and the market stalls fill within days. Pickers start walking their secret bogs morning and evening."
+        },
+        {
+          "period": "Mid-August",
+          "title": "It's over",
+          "body": "Roughly a month after it began, the season closes. From here until next July, cloudberry means jam, liqueur and whatever was frozen fresh."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Everyman's right",
+      "headline": "Anyone may pick. Yes, you too.",
+      "p1": "Finland's <em>jokamiehenoikeus</em>, the everyman's right, lets anyone pick wild berries on uncultivated land: no permit, no landowner's permission, no difference between a local and a visitor. Cloudberries sit fully inside that right, which is remarkable for a berry selling at delicacy prices.",
+      "p2": "The right travels with an ethic, and for cloudberries it matters more than usual because the plants recover slowly. Take only fully ripe amber berries, leave the red and the overripe ones, and never strip a plant bare. On a small bog, a kilo per family is plenty.",
+      "ctaPrimary": "Read the full foraging rules",
+      "ctaSecondary": "See the berry recipes"
+    },
+    "whyWild": {
+      "kicker": "Deep dive · Cultivation",
+      "headline": "Why no one can farm it.",
+      "p1": "Agronomists have tried for decades, and the cloudberry keeps winning. The plant is dioecious, with male and female flowers on separate plants, so a patch can bloom beautifully and still set no fruit at all.",
+      "p2": "It also grows extremely slowly, taking six to seven years to bear fruit even in perfect conditions, and it demands a combination of moisture, light and bog chemistry that greenhouses have not managed to reproduce.",
+      "p3": "Norwegian and Finnish researchers have made real progress with cultivars, but commercial yields remain a fraction of what wild bogs give for free. So the entire Finnish supply, from jam makers to liqueur producers to restaurant kitchens, is wild-foraged.",
+      "p4": "<strong>For a traveller, that is the whole story in one line:</strong> there is no farmed shortcut, so every cloudberry you taste in Lapland was picked by hand on a bog."
+    },
+    "price": {
+      "kicker": "Price & value",
+      "headline": "What a kilo costs.",
+      "lead": "Scarcity has a number. At the Rovaniemi market in late July, fresh cloudberries typically sell for 25 to 50 euros a kilo.",
+      "facts": [
+        {
+          "value": "€25–50",
+          "label": "per kilo of fresh cloudberries at a Rovaniemi market stall in late July"
+        },
+        {
+          "value": "5–10×",
+          "label": "the price of bilberries, the forest's everyday berry"
+        },
+        {
+          "value": "100 %",
+          "label": "of the Finnish supply is wild-picked, so one late frost moves the whole market"
+        }
+      ],
+      "p2": "That is not a tourist markup; it is what hours of kneeling on wet peat cost. When a late frost thins the crop, supply collapses and prices climb further, and chefs compete for what remains, because every kitchen wants cloudberries on the menu while they last."
+    },
+    "products": {
+      "kicker": "Jam, liqueur, parfait",
+      "headline": "How Lapland keeps the season.",
+      "lead": "Four weeks of harvest, forty-eight weeks of appetite: most of the crop is preserved. Three forms carry the flavour through the year.",
+      "items": [
+        {
+          "title": "Cloudberry jam",
+          "body": "Lakkahillo is the classic: whole berries, seeds and all, cooked gently enough that the tartness survives. Finns spoon it over warm squeaky cheese, pancakes and ice cream. If you take one edible souvenir home from Finland, make it this."
+        },
+        {
+          "title": "Cloudberry liqueur",
+          "body": "Lakka, the amber liqueur built on wild cloudberries, is the classic Finnish after-dinner sip: served cold on its own or poured over vanilla ice cream. One bottle holds a remarkable amount of bog."
+        },
+        {
+          "title": "Cloudberry parfait",
+          "body": "The Lapland fine-dining dessert. When the tasting menus of the north reach dessert, this is where they usually land, and in season every kitchen wants fresh berries for it."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Where to taste it",
+      "headline": "Meeting hilla in Lapland.",
+      "lead": "You don't need a restaurant reservation to taste cloudberry in season, though it rewards one. Three reliable routes:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Market stalls in high summer",
+          "body": "From late July, Lapland's town markets, Rovaniemi's kauppatori included, sell fresh cloudberries by the basket and the kilo. Eat them the same day; they don't keep."
+        },
+        {
+          "n": "02",
+          "title": "Dessert menus, year round",
+          "body": "Cloudberry parfait anchors the dessert end of Lapland's fine-dining menus, and squeaky cheese with cloudberry jam turns up everywhere from roadside cafés to hotel breakfasts."
+        },
+        {
+          "n": "03",
+          "title": "A bog of your own",
+          "body": "In season, a guided foraging trip puts you on the right kind of mire with someone who can read it. Off season, start with our foraging guide and plan next July properly."
+        }
+      ],
+      "gygCta": "Browse foraging trips on GetYourGuide",
+      "diningCta": "See the fine-dining guide"
+    },
+    "nextSteps": {
+      "kicker": "Keep going",
+      "headline": "Where this leads.",
+      "items": [
+        {
+          "title": "Learn to forage",
+          "body": "Everyman's right in detail, bog safety, what to carry and when to go: the foraging guide covers the practical side of picking your own.",
+          "cta": "Foraging guide"
+        },
+        {
+          "title": "Cook the berries",
+          "body": "Wild-berry kissel, the traditional dessert soup, is where Finnish home cooking puts whatever your bog walk produced.",
+          "cta": "Traditional recipes"
+        },
+        {
+          "title": "Stay for the season",
+          "body": "Mid-July to mid-August is high season for bogs, markets and terraces alike. Rovaniemi makes a workable base for all three.",
+          "cta": "Browse stays in Rovaniemi"
         }
       ]
     }

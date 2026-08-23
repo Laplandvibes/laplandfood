@@ -257,7 +257,8 @@
       "p1": "La mora ártica, <em>hilla</em> en finlandés, <em>luomi</em> en sami septentrional, es la baya silvestre más codiciada de Laponia y la más tercamente imposible de cultivar de las bayas importantes del mundo. Solo crece en turberas frías, ácidas y encharcadas, en una franja estrecha del hemisferio norte: el norte de Escandinavia, Finlandia, partes de Rusia, Alaska y el norte de Canadá. Dentro de esas zonas es sorprendentemente común. Fuera de ellas, no crece.",
       "p2": "Décadas de investigación agrícola no han logrado comercializarla. Las plantas de mora ártica son dioicas (con ejemplares macho y hembra separados), crecen muy despacio, tardan entre 6 y 7 años en dar fruto incluso en condiciones perfectas, son vulnerables a las heladas tardías de primavera que destruyen las flores del año y necesitan una combinación concreta de humedad, luz y química de turbera que se ha resistido a la simulación en invernadero. Investigadores noruegos y finlandeses han avanzado con algunos cultivares, pero los rendimientos comerciales siguen siendo una fracción de los silvestres. Así que todo el suministro finlandés, para fabricantes de mermelada, productores de licor (Lakka) y cocinas de restaurante, es de recolección silvestre.",
       "p3": "Por eso un kilo de moras árticas frescas en un mercado de Rovaniemi a finales de julio suele costar entre 25 y 50 €, de cinco a diez veces el precio de los arándanos y por eso el suministro se desploma si la helada de primavera llega una semana tarde. También es la razón por la que el parfait de mora ártica es el postre estrella de la alta cocina de Laponia. Todos los chefs quieren usarlas mientras duran.",
-      "p4": "<strong>Ética de la recogida:</strong> las plantas de mora ártica se recuperan despacio. El principio sami y la convención de recolección finlandesa, es coger solo las bayas totalmente maduras, dejar las verdes y las pasadas, y no esquilmar nunca una planta. Si recolectas en una turbera pequeña, un kilo por familia es más que suficiente."
+      "p4": "<strong>Ética de la recogida:</strong> las plantas de mora ártica se recuperan despacio. El principio sami y la convención de recolección finlandesa, es coger solo las bayas totalmente maduras, dejar las verdes y las pasadas, y no esquilmar nunca una planta. Si recolectas en una turbera pequeña, un kilo por familia es más que suficiente.",
+      "guideLinkLabel": "Lee la guía completa de la mora ártica"
     },
     "fishDeep": {
       "kicker": "A fondo · El pescado de lago",
@@ -295,6 +296,176 @@
           "title": "Alójate en Rovaniemi",
           "body": "La ciudad más grande de Laponia y la base más cómoda para mercados, restaurantes y excursiones a las granjas.",
           "cta": "Ver precios de hoteles"
+        }
+      ]
+    }
+  },
+  "cloudberry": {
+    "title": "Mora ártica: la baya que nadie puede cultivar",
+    "description": "A qué sabe la mora ártica, cuándo llega su corta temporada, por qué el cultivo fracasa, cuánto cuesta el kilo en Rovaniemi y dónde probarla en Laponia.",
+    "hero": {
+      "eyebrow": "La guía de bayas · Mora ártica",
+      "title": "Mora ártica, el oro",
+      "titleHighlight": "terco del pantano.",
+      "subtitle": "En Finlandia la llaman hilla y los lugares donde crece se guardan como claves del banco. Aquí tienes a qué sabe de verdad, por qué cada una se recoge a mano y dónde la encontrarás en Laponia.",
+      "primaryCta": "Aprende a recolectarla",
+      "secondaryCta": "Todos los ingredientes de Laponia",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Derecho a recolectar",
+        "Por qué no se cultiva",
+        "Precio",
+        "Mermelada y licor",
+        "Dónde probarla"
+      ]
+    },
+    "intro": {
+      "lead": "Una baya ámbar por tallo, en pantanos abiertos, cuatro semanas al año. Nada en la despensa finlandesa es tan escaso, ni se defiende de forma tan personal.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Ártica en sentido estricto",
+          "body": "La mora ártica crece en turberas frías y ácidas dentro de una franja estrecha del norte: Escandinavia septentrional y Finlandia, partes de Rusia, Alaska y el norte de Canadá. Dentro de esa franja es sorprendentemente común. Fuera, sencillamente no crece."
+        },
+        {
+          "n": "02",
+          "title": "Una ventana de cuatro semanas",
+          "body": "Las bayas maduran de mediados de julio a mediados de agosto, pero la cosecha se decide semanas antes: una helada tardía de primavera durante la floración puede llevarse casi todo."
+        },
+        {
+          "n": "03",
+          "title": "Silvestre, hasta la última",
+          "body": "El cultivo comercial nunca ha funcionado, así que cada tarro de mermelada, cada copa de licor y cada parfait de restaurante empieza con alguien arrodillado en un pantano."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primero lo primero",
+      "headline": "¿A qué sabe la mora ártica?",
+      "answer": "Una mora ártica madura es blanda, jugosa y antes ácida que dulce: piensa en un cruce de albaricoque y grosella roja, rematado con un matiz almizclado y meloso que ninguna otra baya tiene. Las semillas son grandes y blandas, y se comen. Fría sabe punzante; templada, se abre su lado de albaricoque.",
+      "p2": "La madurez lo decide todo. Una mora ártica roja y firme está verde y es agria hasta fruncir la boca. En su punto se vuelve ámbar, se ablanda y se desprende del tallo casi sola, y esa es la baya que justifica mojarse los pies. Quien recolecta toma las ámbar y deja las rojas para la próxima visita.",
+      "p3": "Rara vez te pondrán delante un cuenco grande de moras frescas. El sabor es intenso y la cosecha pequeña, así que Laponia la sirve donde una cucharada cuenta: sobre <em>leipäjuusto</em> templado, el queso chirriante finlandés, junto a un helado de vainilla o convertida en parfait."
+    },
+    "season": {
+      "kicker": "De mediados de julio a mediados de agosto",
+      "headline": "Cuatro semanas de ámbar.",
+      "lead": "La temporada es tan corta que basta reservar el viaje dos semanas a destiempo para perderla. Este es el ritmo al que vive Laponia.",
+      "phases": [
+        {
+          "period": "Junio",
+          "title": "La apuesta",
+          "body": "Las flores blancas se abren en los pantanos cuando aún puede helar de noche. Lo que sobrevive a esas semanas será la cosecha del año; lo que se congela, se pierde."
+        },
+        {
+          "period": "Mediados de julio",
+          "title": "Empieza",
+          "body": "Las primeras bayas se ablandan y toman color ámbar, y los puestos del mercado se llenan en días. Los recolectores empiezan a recorrer sus pantanos secretos mañana y tarde."
+        },
+        {
+          "period": "Mediados de agosto",
+          "title": "Se acabó",
+          "body": "Aproximadamente un mes después de empezar, la temporada se cierra. Desde aquí hasta el próximo julio, mora ártica significa mermelada, licor y lo que se congeló fresco."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "El derecho de acceso a la naturaleza",
+      "headline": "Cualquiera puede recolectar. Tú también.",
+      "p1": "El <em>jokamiehenoikeus</em> finlandés, el derecho de acceso a la naturaleza, permite a cualquier persona recoger bayas silvestres en tierra no cultivada: sin permiso, sin autorización del propietario, sin distinción entre local y visitante. La mora ártica entra de lleno en ese derecho, algo notable para una baya con precio de manjar.",
+      "p2": "El derecho viaja con una ética, y con la mora ártica pesa más de lo habitual porque las plantas se recuperan despacio. Toma solo bayas ámbar totalmente maduras, deja las rojas y las pasadas, y nunca despojes una planta entera. En un pantano pequeño, un kilo por familia es más que suficiente.",
+      "ctaPrimary": "Lee todas las reglas de recolección",
+      "ctaSecondary": "Ver las recetas con bayas"
+    },
+    "whyWild": {
+      "kicker": "En profundidad · Cultivo",
+      "headline": "Por qué nadie puede cultivarla.",
+      "p1": "Los agrónomos llevan décadas intentándolo y la mora ártica sigue ganando. La planta es dioica, con flores masculinas y femeninas en plantas separadas, así que una mancha puede florecer preciosa y no dar ni un solo fruto.",
+      "p2": "Además crece con una lentitud extrema, tarda de seis a siete años en dar fruto incluso en condiciones perfectas, y exige una combinación de humedad, luz y química de turbera que los invernaderos no han logrado reproducir.",
+      "p3": "Los investigadores noruegos y finlandeses han avanzado con variedades, pero los rendimientos comerciales siguen siendo una fracción de lo que los pantanos silvestres dan gratis. Por eso todo el suministro finlandés, de las fábricas de mermelada a los licoreros y las cocinas de restaurante, procede de la recolección silvestre.",
+      "p4": "<strong>Para quien viaja, la historia cabe en una línea:</strong> no existe el atajo cultivado, así que cada mora ártica que pruebes en Laponia se recogió a mano en un pantano."
+    },
+    "price": {
+      "kicker": "Precio y valor",
+      "headline": "Lo que cuesta un kilo.",
+      "lead": "La escasez tiene cifra. En el mercado de Rovaniemi, a finales de julio, la mora ártica fresca suele venderse entre 25 y 50 euros el kilo.",
+      "facts": [
+        {
+          "value": "25–50 €",
+          "label": "por kilo de mora ártica fresca en un puesto del mercado de Rovaniemi a finales de julio"
+        },
+        {
+          "value": "5–10×",
+          "label": "el precio del arándano, la baya de diario del bosque"
+        },
+        {
+          "value": "100 %",
+          "label": "del suministro finlandés es silvestre, así que una helada tardía mueve todo el mercado"
+        }
+      ],
+      "p2": "No es un recargo turístico; es lo que cuestan horas de rodillas sobre turba mojada. Cuando una helada tardía merma la cosecha, la oferta se desploma, el precio sube aún más y los chefs compiten por lo que queda, porque toda cocina quiere mora ártica en la carta mientras dure."
+    },
+    "products": {
+      "kicker": "Mermelada, licor, parfait",
+      "headline": "Así conserva Laponia la temporada.",
+      "lead": "Cuatro semanas de cosecha y cuarenta y ocho de apetito: la mayor parte se conserva. Tres formas llevan el sabor por todo el año.",
+      "items": [
+        {
+          "title": "Mermelada de mora ártica",
+          "body": "La lakkahillo es el clásico: bayas enteras, semillas incluidas, cocidas con la suavidad justa para que la acidez sobreviva. Los finlandeses la sirven sobre queso chirriante templado, tortitas y helado. Si te llevas de Finlandia un solo recuerdo comestible, que sea este."
+        },
+        {
+          "title": "Licor de mora ártica",
+          "body": "Lakka, el licor ambarino hecho con moras árticas silvestres, es el clásico final de cena finlandés: frío y solo, o vertido sobre helado de vainilla. En una botella cabe una cantidad asombrosa de pantano."
+        },
+        {
+          "title": "Parfait de mora ártica",
+          "body": "El postre de la alta cocina de Laponia. Cuando los menús degustación del norte llegan al postre, suelen aterrizar aquí, y en temporada todas las cocinas quieren bayas frescas para él."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde probarla",
+      "headline": "Encontrarse con la hilla en Laponia.",
+      "lead": "En temporada no hace falta reserva de restaurante para probarla, aunque una mesa la recompensa. Tres rutas fiables:",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Puestos de mercado en pleno verano",
+          "body": "Desde finales de julio, los mercados de Laponia, incluido el kauppatori de Rovaniemi, venden mora ártica fresca por cestas y por kilos. Cómela el mismo día; no aguanta."
+        },
+        {
+          "n": "02",
+          "title": "Cartas de postres todo el año",
+          "body": "El parfait de mora ártica ancla el final dulce de los menús de alta cocina de Laponia, y el queso chirriante con mermelada de mora aparece por todas partes, del café de carretera al desayuno del hotel."
+        },
+        {
+          "n": "03",
+          "title": "Un pantano propio",
+          "body": "En temporada, una salida guiada de recolección te lleva al tipo de turbera correcto con alguien que sabe leerla. Fuera de temporada, empieza por nuestra guía de recolección y planifica bien el próximo julio."
+        }
+      ],
+      "gygCta": "Ver salidas de recolección en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "nextSteps": {
+      "kicker": "Sigue por aquí",
+      "headline": "A dónde lleva esto.",
+      "items": [
+        {
+          "title": "Aprende a recolectar",
+          "body": "El derecho de acceso al detalle, la seguridad en las turberas, qué llevar y cuándo ir: la guía de recolección cubre la parte práctica de recoger tus propias bayas.",
+          "cta": "Guía de recolección"
+        },
+        {
+          "title": "Cocina las bayas",
+          "body": "El kissel de bayas silvestres, la sopa dulce tradicional, es donde la cocina casera finlandesa aprovecha lo que dio el paseo por el pantano.",
+          "cta": "Recetas tradicionales"
+        },
+        {
+          "title": "Quédate en temporada",
+          "body": "De mediados de julio a mediados de agosto es temporada alta en pantanos, mercados y terrazas por igual. Rovaniemi funciona como base para las tres cosas.",
+          "cta": "Ver alojamiento en Rovaniemi"
         }
       ]
     }
