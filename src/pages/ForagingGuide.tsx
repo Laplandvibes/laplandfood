@@ -45,6 +45,7 @@ export default function ForagingGuide() {
           primaryCta={{ label: t('foragingGuide.hero.primaryCta'), href: to('/food-tours') }}
           secondaryCta={{ label: t('foragingGuide.hero.secondaryCta'), href: to('/local-ingredients') }}
           pills={items.map(it => it.name)}
+          pillHrefs={items.map((_, i) => `#forage-${i}`)}
         />
 
         <IntroPoints sectionKey="foragingGuide" />
@@ -65,7 +66,7 @@ export default function ForagingGuide() {
 
             <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
               {items.map((it, i) => (
-                <article key={it.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
+                <article key={it.name} id={`forage-${i}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={ITEM_IMAGES[i]} alt={it.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />

@@ -56,7 +56,12 @@ export default function SEO({
   const resolvedTitle = titleKey ? t(titleKey) : (title ?? '');
   const resolvedDesc = descriptionKey ? t(descriptionKey) : (description ?? '');
 
-  const fullTitle = resolvedTitle.includes('|') ? resolvedTitle : `${resolvedTitle} | ${SITE_NAME}`;
+  // Skip the brand suffix when the title already carries it (either a manual
+  // "|" or the brand word itself, e.g. "About LaplandFood") — otherwise the
+  // fi/de home titles rendered "LaplandFood, … | LaplandFood".
+  const fullTitle = resolvedTitle.includes('|') || resolvedTitle.includes(SITE_NAME)
+    ? resolvedTitle
+    : `${resolvedTitle} | ${SITE_NAME}`;
   const p = path ?? canonical ?? '/';
   // Trailing-slash form matches the prerendered static HTML and sitemap.xml
   // (Cloudflare Pages serves /path/index.html at /path/ with 200; the no-slash

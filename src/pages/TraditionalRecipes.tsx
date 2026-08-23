@@ -71,6 +71,7 @@ export default function TraditionalRecipes() {
           primaryCta={{ label: t('traditionalRecipes.hero.primaryCta'), href: `${to('/traditional-recipes')}#recipes` }}
           secondaryCta={{ label: t('traditionalRecipes.hero.secondaryCta'), href: to('/modern-lapland') }}
           pills={recipes.map(r => r.name)}
+          pillHrefs={recipes.map((_, idx) => `#recipe-${idx}`)}
         />
 
         <IntroPoints sectionKey="traditionalRecipes" />
@@ -148,7 +149,7 @@ export default function TraditionalRecipes() {
 
             <div className="grid xl:grid-cols-2 gap-8 items-start">
               {recipes.map((r, idx) => (
-                <article key={r.name} className="rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
+                <article key={r.name} id={`recipe-${idx}`} className="scroll-mt-24 rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-56 sm:h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={RECIPE_IMAGES[idx]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />

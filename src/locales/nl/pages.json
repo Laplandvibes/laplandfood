@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "Eten in Lapland 2026, Samikeuken, plukken en lokale keuzes",
-    "description": "Echt eten in Lapland 2026, Samikeuken, wild rendier, kruipbramen, zalmforel, plukgidsen, Michelin-keuzes. 60 zorgvuldig geselecteerde restaurants, echte prijzen.",
+    "title": "Eten in Lapland: zo eet het noorden",
+    "description": "Rendier, kruipbramen, ridderzalm en de Sami-tafel: een gids voor de eetcultuur van Fins Lapland, van plukbossen tot Michelin-zalen.",
     "intro": {
       "kicker": "Waar deze site over gaat",
       "headline": "Finse keuken, uitgelegd.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Ingrediënten uit Lapland: rendier, bessen, vis, kruiden | LaplandFood",
-    "description": "Wat er echt groeit, zwemt en graast in Fins Lapland, zes kernen met seizoenen, herkomst en hoe ze op het bord belanden.",
+    "title": "Ingrediënten van Lapland: rendier, bessen, vis",
+    "description": "Zes ingrediënten die de Laplandse keuken bepalen: rendier, kruipbramen, meervis, wilde paddenstoelen en kruiden. Seizoenen, herkomst en smaak.",
     "hero": {
       "eyebrow": "Pijler 01 · Ingrediënten",
       "title": "Wat hier",
@@ -246,7 +246,10 @@
       "p2": "De kudde is wild in alles behalve het eigendom. Rendieren trekken vrij over enorme stukken onomheinde taiga en toendra, en eten wat ze vinden: korstmos in de winter (het dieet dat het vlees zijn specifieke schone smaak geeft), grassen en kruiden in de zomer, paddenstoelvluchten in het najaar. Herders volgen hun dieren op sneeuwscooters en quads, verzamelen ze twee keer per jaar voor oormerken en (in de herfst) selectie voor de slacht, en laten ze daarna weer uitwaaieren.",
       "p3": "De slacht vindt plaats in de herfst, meestal oktober-november, wanneer de dieren op piekgewicht zijn. Elke coöperatie runt zijn eigen EU-goedgekeurde slachterij. Het meeste vlees wordt verkocht binnen een paar honderd kilometer van waar het dier leefde, aan Laplandse restaurants, gespecialiseerde slagers in Helsinki en de rest van Zuid-Finland, en een kleine maar serieuze exportmarkt in Midden-Europa.",
       "p4": "<strong>De delen die u op een Laplands menu ziet</strong> komen ruwweg overeen met rundvleesvocabulaire: <em>fileé</em> (filet, sous-vide-terrein), <em>sisäpaisti / ulkopaisti</em> (binnenbil / bovenbil, in het geheel gebraden of gesneden voor warm-gerookte gerechten), <em>poronkäristys</em> (gewokte rendier, het dagelijkse Finse werkpaard, dunne plakjes, boter, zout, geserveerd op puree met vossenbes) en <em>suovas</em> (koud gerookte zadel, in dunne reepjes met roggebrood gegeten). Bidos gebruikt taaiere stooftaalen, meestal schouder en schenkel en daarom kookt het uren.",
-      "p5": "Ethisch gezien is vrij rondtrekkend, door Samen geherderd rendier een van de meest duurzame eiwitten op een Europese kaart, geen vetweide, geen antibiotica, geen omheinde begrazing, een eigen dieet. De complicatie is klimatologisch: Laplandse winters worden natter, ijslagen vormen zich op het sneeuwdek, rendieren kunnen niet meer door het ijs schrapen naar korstmos, en herders moeten in sommige coöperaties bijvoeren. Dat verandert de keten en, langzaam, de smaak. Dat is een verhaal om het komende decennium te volgen."
+      "p5": "Ethisch gezien is vrij rondtrekkend, door Samen geherderd rendier een van de meest duurzame eiwitten op een Europese kaart, geen vetweide, geen antibiotica, geen omheinde begrazing, een eigen dieet. De complicatie is klimatologisch: Laplandse winters worden natter, ijslagen vormen zich op het sneeuwdek, rendieren kunnen niet meer door het ijs schrapen naar korstmos, en herders moeten in sommige coöperaties bijvoeren. Dat verandert de keten en, langzaam, de smaak. Dat is een verhaal om het komende decennium te volgen.",
+      "tasteQ": "Hoe smaakt rendier?",
+      "tasteA1": "Milder dan de meeste wildsoorten. Rendier is mager en fijn van draad, dichter bij een goede runderhaas dan bij zwaar wild, met een zuivere, licht zoete diepte die komt van korstmos en fjellkruiden. Omdat er nauwelijks vet is, wordt het zachtjes gegaard en rare tot medium geserveerd.",
+      "tasteA2": "De klassieke eerste kennismaking is poronkäristys: flinterdunne plakjes gebakken in boter, geserveerd op aardappelpuree met vossenbessen. Op feesttafels wordt het bidos, de langzame Samische stoofpot, en bij het vuur suovas, gezouten en licht koudgerookt."
     },
     "cloudberryDeep": {
       "kicker": "Diepteduik · Kruipbraam",
@@ -297,8 +300,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Traditionele Laplandse recepten | LaplandFood",
-    "description": "Echte Laplandse recepten, gewokte rendier (poronkäristys), Arctische zalmforel, leipäjuusto, kruipbramen met room. Getest in Laplandse keukens, geschreven voor reizigers.",
+    "title": "Sami-eten: traditionele Laplandse recepten",
+    "description": "Vier gerechten uit de Samische keuken: bidos-rendierstoof, gahkku-platbrood, Sápmi-vissoep en bessenkissel. Volledige recepten en de acht-seizoenenkalender.",
     "hero": {
       "eyebrow": "Pijler 02 · Recepten",
       "title": "Traditionele",
@@ -586,8 +589,8 @@
     }
   },
   "modernLapland": {
-    "title": "Moderne Laplandse keuken | LaplandFood",
-    "description": "Hoe een nieuwe generatie Laplandse koks de Arctische keuken opnieuw opbouwt, geplukte borden, fermentatie, hyperlokale herkomst. De restaurants die voorop lopen.",
+    "title": "Moderne Laplandse keuken en New Nordic",
+    "description": "Hoe Lapland in tien jaar van hotelbuffet naar chef-gedreven proefmenu’s ging: vijf New Nordic-technieken en de bordstijlen van de nieuwe Arctische keuken.",
     "hero": {
       "eyebrow": "Pijler 03 · Modern",
       "title": "De nieuwe",
@@ -688,8 +691,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Plukken in Fins Lapland, Bessen, paddenstoelen, kruiden | LaplandFood",
-    "description": "Het Finse toegangsrecht en wat het betekent voor plukkers. Waar en wanneer kruipbramen, cantharellen, vossenbessen, wilde tijm en berkensap te vinden in Lapland.",
+    "title": "Plukken in Lapland: bessen en paddenstoelen",
+    "description": "Het allemansrecht laat je bijna overal in Finland bessen en paddenstoelen plukken. Maandkalender, veilige beginnerssoorten en de twee dodelijke.",
     "hero": {
       "eyebrow": "Pijler 04 · Plukken",
       "title": "De wilde",
@@ -867,11 +870,11 @@
     }
   },
   "foodTours": {
-    "title": "Foodtours in Fins Lapland | LaplandFood",
-    "description": "Begeleide eetbelevingen in Lapland, rendierboerderijen, plukwandelingen, vis roken, wildernislunches en chef's-table-avonden. Hoe te boeken en wat u kunt verwachten.",
+    "title": "Foodtours en eetbelevingen in Lapland",
+    "description": "Drie boekbare eetbelevingen in Lapland: Samische cultuur met maaltijd, Arctische fine-diningavonden en begeleide plukwandelingen. Kleine groepen.",
     "hero": {
       "eyebrow": "Pijler 06 · Tours",
-      "title": "Eet uw weg",
+      "title": "Eet je een weg",
       "titleHighlight": "door Lapland.",
       "subtitle": "Drie boekbare eetbelevingen die verder gaan dan een proefmenu: Samische cultuur, Arctische fine dining en een begeleide plukwandeling die eindigt in diner.",
       "primaryCta": "Bekijk alles op GetYourGuide"
@@ -944,8 +947,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining & Michelin-restaurants in Lapland | LaplandFood",
-    "description": "Waar de Michelin-gids aandacht aan besteedt in Fins Lapland, Restaurant Aanaar, Tundrea, Trattoria Levi en de Laplandse keukens die een lange rit waard zijn.",
+    "title": "Michelin in Finland en fine dining in Lapland",
+    "description": "Waar de Michelinsterren van Finland echt zitten, en de Laplandse top: Nili, Aanaar en Rakas. Menuverloop, reserveringstermijnen en eerlijk advies.",
     "hero": {
       "eyebrow": "Pijler 05 · Michelin",
       "title": "Michelin",
@@ -1149,7 +1152,7 @@
   },
   "about": {
     "title": "Over LaplandFood",
-    "description": "Over LaplandFood, geschreven door mensen die echt eten in Fins Lapland. Redactionele standaarden, sourcing, affiliate-disclosure.",
+    "description": "Wat LaplandFood is, hoe onderwerpen worden gekozen, onze redactionele principes en hoe affiliatelinks worden gemarkeerd. Deel van het #LaplandVibes-netwerk.",
     "hero": {
       "kicker": "Over LaplandFood",
       "headline": "Finse keuken, geschreven van binnenuit.",

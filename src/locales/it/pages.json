@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "Cucina Lapponia 2026, gastronomia Sami, raccolta e scelte locali",
-    "description": "La vera cucina della Lapponia nel 2026, gastronomia Sami, renna selvatica, lamponi artici, salmerino, guide alla raccolta, scelte Michelin. 60 ristoranti scelti con cura, prezzi reali.",
+    "title": "Cucina di Lapponia: come mangia il Nord",
+    "description": "Renna, camemori, salmerino artico e la tavola sami: una guida alla cultura gastronomica della Lapponia finlandese, dal bosco alle sale Michelin.",
     "intro": {
       "kicker": "Cos'è questo sito",
       "headline": "La cucina finlandese, spiegata.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Ingredienti della Lapponia: renna, bacche, pesce, erbe | LaplandFood",
-    "description": "Cosa cresce, nuota e pascola davvero nella Lapponia finlandese, sei ingredienti chiave con stagioni, provenienza e come arrivano in tavola.",
+    "title": "Ingredienti di Lapponia: renna, bacche, pesce",
+    "description": "Sei ingredienti che definiscono la cucina lappone: renna, camemori, pesce di lago, funghi ed erbe selvatiche. Stagioni, provenienza e sapore.",
     "hero": {
       "eyebrow": "Pilastro 01 · Ingredienti",
       "title": "Cosa cresce",
@@ -246,7 +246,10 @@
       "p2": "Il branco è selvatico in tutto tranne che nella proprietà. Le renne percorrono liberamente enormi distese di taiga e tundra non recintate, mangiando ciò che trovano: lichene in inverno (la dieta che dà alla carne il suo sapore pulito specifico), erbe e piante in estate, funghi in autunno. Gli allevatori seguono gli animali con motoslitte e quad, li radunano due volte all'anno per la marcatura delle orecchie e (in autunno) la selezione per la macellazione, poi li lasciano disperdersi di nuovo.",
       "p3": "La macellazione avviene in autunno, di solito ottobre-novembre, quando gli animali sono al peso massimo. Ogni cooperativa gestisce il proprio macello approvato UE. Gran parte della carne è venduta entro poche centinaia di chilometri da dove l'animale è vissuto, a ristoranti lapponi, a macellai specializzati a Helsinki e nel resto della Finlandia meridionale, e a un piccolo ma serio mercato di esportazione nell'Europa centrale.",
       "p4": "<strong>I tagli che vedrà su un menù lappone</strong> corrispondono grossomodo a un vocabolario bovino: <em>fileé</em> (filetto, territorio sous-vide), <em>sisäpaisti / ulkopaisti</em> (girello / sottofesa, arrostiti interi o affettati per piatti affumicati a caldo), <em>poronkäristys</em> (renna saltata, il cavallo da battaglia quotidiano finlandese, fette sottili, burro, sale, servite su purè con mirtillo rosso) e <em>suovas</em> (sella affumicata a freddo, mangiata a scaglie con pane di segale). Il bidos usa tagli da stufato più duri, di solito spalla e stinco, per questo cuoce per ore.",
-      "p5": "Eticamente, la renna sami al pascolo brado è una delle proteine più sostenibili di un menù europeo, niente recinto d'ingrasso, niente antibiotici, niente pascolo chiuso, dieta nativa. La complicazione è climatica: gli inverni lapponi diventano più umidi, si formano strati di ghiaccio sulla neve, le renne non riescono a grattare per il lichene, e gli allevatori devono integrare l'alimentazione in alcune cooperative. Cambia la filiera e, lentamente, il sapore. È una storia da seguire nel prossimo decennio."
+      "p5": "Eticamente, la renna sami al pascolo brado è una delle proteine più sostenibili di un menù europeo, niente recinto d'ingrasso, niente antibiotici, niente pascolo chiuso, dieta nativa. La complicazione è climatica: gli inverni lapponi diventano più umidi, si formano strati di ghiaccio sulla neve, le renne non riescono a grattare per il lichene, e gli allevatori devono integrare l'alimentazione in alcune cooperative. Cambia la filiera e, lentamente, il sapore. È una storia da seguire nel prossimo decennio.",
+      "tasteQ": "Che sapore ha la renna?",
+      "tasteA1": "Più delicato della maggior parte della selvaggina. La renna è magra e a grana fine, più vicina a un buon filetto di manzo che a una selvaggina intensa, con una profondità pulita e appena dolce che viene dal lichene e dalle erbe dei fjell. Quasi senza grasso, si cuoce con delicatezza e si serve al sangue o media.",
+      "tasteA2": "Il primo incontro classico è il poronkäristys: fette sottilissime saltate nel burro, servite su purè di patate con mirtilli rossi. Nei giorni di festa diventa bidos, il lento stufato sami, e accanto al fuoco è suovas, salata e leggermente affumicata a freddo."
     },
     "cloudberryDeep": {
       "kicker": "Approfondimento · Lampone artico",
@@ -297,8 +300,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Ricette tradizionali lapponi | LaplandFood",
-    "description": "Vere ricette lapponi, renna saltata (poronkäristys), salmerino artico, leipäjuusto, bacche con panna. Testate in cucine lapponi, scritte per i viaggiatori.",
+    "title": "Cucina sami: ricette tradizionali di Lapponia",
+    "description": "Quattro piatti della cucina sami: stufato di renna bidos, pane gahkku, zuppa di pesce di Sápmi e kissel di bacche. Ricette e il calendario delle otto stagioni.",
     "hero": {
       "eyebrow": "Pilastro 02 · Ricette",
       "title": "Ricette",
@@ -586,8 +589,8 @@
     }
   },
   "modernLapland": {
-    "title": "Cucina moderna della Lapponia | LaplandFood",
-    "description": "Come una nuova generazione di chef lapponi sta ricostruendo la cucina artica, piatti raccolti, fermentazione, approvvigionamento iperlocale. I ristoranti che guidano il cambiamento.",
+    "title": "Cucina moderna di Lapponia e New Nordic",
+    "description": "Come la Lapponia è passata dal buffet d’albergo ai menu degustazione in dieci anni: cinque tecniche New Nordic e i piatti della nuova cucina artica.",
     "hero": {
       "eyebrow": "Pilastro 03 · Moderna",
       "title": "La nuova",
@@ -688,8 +691,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Raccolta nella Lapponia finlandese, Bacche, funghi, erbe | LaplandFood",
-    "description": "Il diritto di accesso finlandese e cosa significa per il raccoglitore. Quando e dove trovare lamponi artici, galletti, mirtilli rossi, timo selvatico e linfa di betulla in Lapponia.",
+    "title": "Raccolta in Lapponia: bacche e funghi",
+    "description": "Il diritto di ognuno permette di raccogliere bacche e funghi quasi ovunque in Finlandia. Calendario mese per mese, funghi sicuri e i due letali da conoscere.",
     "hero": {
       "eyebrow": "Pilastro 04 · Raccolta",
       "title": "La dispensa",
@@ -867,8 +870,8 @@
     }
   },
   "foodTours": {
-    "title": "Tour gastronomici nella Lapponia finlandese | LaplandFood",
-    "description": "Esperienze culinarie guidate in Lapponia, fattorie di renne, passeggiate di raccolta, affumicatura del pesce, pranzi nella natura e tavoli dello chef. Come prenotare e cosa aspettarsi.",
+    "title": "Tour gastronomici in Lapponia",
+    "description": "Tre esperienze prenotabili in Lapponia: cultura sami con pasto, serate di fine dining artico e raccolta guidata. Piccoli gruppi, si prenota online.",
     "hero": {
       "eyebrow": "Pilastro 06 · Tour",
       "title": "Mangi attraversando",
@@ -944,8 +947,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Alta cucina e ristoranti Michelin in Lapponia | LaplandFood",
-    "description": "Dove la guida Michelin presta attenzione nella Lapponia finlandese, Restaurant Aanaar, Tundrea, Trattoria Levi, e le cucine lapponi che valgono una lunga deviazione.",
+    "title": "Michelin in Finlandia e fine dining in Lapponia",
+    "description": "Dove sono davvero le stelle Michelin della Finlandia, e il fine dining lappone: Nili, Aanaar e Rakas. Menu degustazione, prenotazioni e consigli onesti.",
     "hero": {
       "eyebrow": "Pilastro 05 · Michelin",
       "title": "Michelin",
@@ -1148,8 +1151,8 @@
     }
   },
   "about": {
-    "title": "Chi siamo, LaplandFood",
-    "description": "Chi siamo, LaplandFood è scritto da persone che mangiano davvero nella Lapponia finlandese. Standard editoriali, sourcing, disclosure di affiliazione.",
+    "title": "Chi è LaplandFood",
+    "description": "Cos’è LaplandFood, come vengono scelti i temi, i nostri principi editoriali e come sono indicati i link di affiliazione. Parte della rete #LaplandVibes.",
     "hero": {
       "kicker": "Chi siamo, LaplandFood",
       "headline": "Cucina finlandese, scritta dall'interno.",

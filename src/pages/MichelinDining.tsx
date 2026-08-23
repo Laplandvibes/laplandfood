@@ -58,6 +58,7 @@ export default function MichelinDining() {
           primaryCta={{ label: t('michelinDining.hero.primaryCta'), href: `${to('/michelin-dining')}#lapland` }}
           secondaryCta={{ label: t('michelinDining.hero.secondaryCta'), href: `${to('/michelin-dining')}#helsinki` }}
           pills={laplandRooms.map(r => r.name)}
+          pillHrefs={laplandRooms.map((_, i) => `#lapland-room-${i}`)}
         />
 
         {/* Three structural facts */}
@@ -159,7 +160,7 @@ export default function MichelinDining() {
               {laplandRooms.map((r, i) => {
                 const cityName = r.city.split('·')[0].trim();
                 return (
-                  <article key={r.name} className="flex flex-col rounded-2xl bg-white/5 border border-white/15 overflow-hidden hover:border-vibe-pink/40 transition-all">
+                  <article key={r.name} id={`lapland-room-${i}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white/5 border border-white/15 overflow-hidden hover:border-vibe-pink/40 transition-all">
                     <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                       <img src={LAPLAND_IMAGES[i]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                       <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />

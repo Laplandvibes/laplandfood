@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "Lapland Food 2026, Sami Cuisine, Foraging & Local Picks",
-    "description": "Real Lapland food in 2026, Sami cuisine, wild reindeer, cloudberries, char, foraging guides and Michelin picks. 60+ hand-picked restaurants, real prices.",
+    "title": "Lapland Food: What Finland’s North Eats",
+    "description": "Reindeer, cloudberries, Arctic char and the Sámi table: a field guide to Finnish Lapland’s food culture, from foraging forests to Michelin rooms.",
     "intro": {
       "kicker": "What this site is",
       "headline": "Finnish food, explained.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Lapland Ingredients, Reindeer, Berries, Fish | LaplandFood",
-    "description": "What actually grows, swims, and grazes in Finnish Lapland, six core ingredients with seasons, sourcing, and how they end up on the plate.",
+    "title": "Lapland Ingredients: Reindeer, Berries, Fish",
+    "description": "Six ingredients that define Lapland’s kitchen: reindeer, cloudberries, lake fish, wild mushrooms and herbs. Seasons, sourcing and how each one tastes.",
     "hero": {
       "eyebrow": "Pillar 01 · Ingredients",
       "title": "What grows",
@@ -246,7 +246,10 @@
       "p2": "The herd is wild in everything but ownership. Reindeer roam freely across enormous stretches of unfenced taiga and tundra, eating what they find: lichen in winter (the diet that gives the meat its specific clean flavour), grasses and herbs in summer, mushroom flushes in autumn. Herders track their animals on snowmobiles and quad bikes, gather them twice a year for ear-marking and (in autumn) selection for slaughter, then let them disperse again.",
       "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. Each cooperative runs its own EU-approved slaughterhouse. Most of the meat is sold within a few hundred kilometres of where the animal lived, to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
       "p4": "<strong>The cuts you'll see on a Lapland menu</strong> map roughly to a beef vocabulary: <em>fileé</em> (fillet, sous-vide territory), <em>sisäpaisti / ulkopaisti</em> (silverside / topside, roasted whole or sliced for hot-smoked dishes), <em>poronkäristys</em> (sautéed reindeer, the everyday Finnish workhorse, thin slices, butter, salt, served on mash with lingonberry), and <em>suovas</em> (cold-smoked saddle, eaten in slivers with rye bread). Bidos uses tougher stewing cuts, typically shoulder and shank, which is why it cooks for hours.",
-      "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu, no feedlot, no antibiotics, no enclosed grazing, native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to supplementally feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade."
+      "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu, no feedlot, no antibiotics, no enclosed grazing, native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to supplementally feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade.",
+      "tasteQ": "What does reindeer taste like?",
+      "tasteA1": "Milder than most game. Reindeer is lean and fine-grained, closer to a good beef fillet than to strong venison, with a clean, faintly sweet depth that comes from a life of grazing lichen and fell herbs. Because there is almost no fat, it is cooked gently and served rare to medium.",
+      "tasteA2": "The classic first meeting is poronkäristys: thin shavings sautéed in butter, served over mashed potato with lingonberries. At festive tables it becomes bidos, the slow Sámi stew, and out on the fells it is suovas, salted and lightly cold-smoked over a fire."
     },
     "cloudberryDeep": {
       "kicker": "Deep dive · Cloudberry",
@@ -297,8 +300,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Traditional Lapland Recipes | LaplandFood",
-    "description": "Real Lapland recipes, sautéed reindeer (poronkäristys), Arctic char, leipäjuusto, salmonberries with cream. Tested in Lapland kitchens, written for travellers.",
+    "title": "Sámi Food & Traditional Lapland Recipes",
+    "description": "Four dishes from the Sámi kitchen: bidos reindeer stew, gahkku flatbread, Sápmi fish soup and wild-berry kissel. Full recipes and the eight-season calendar.",
     "hero": {
       "eyebrow": "Pillar 02 · Recipes",
       "title": "Traditional",
@@ -547,7 +550,7 @@
       "headline": "Why the recipes are coming back.",
       "p1": "For most of the 20th century, Sami food existed in two parallel realities. In Sami homes it was just dinner, unselfconscious, unromanticised, the same food the previous generation cooked. Outside Sápmi it was almost invisible: a footnote in tourism brochures, occasionally exoticised, more often ignored.",
       "p2": "The reversal started in the late 2000s. New Nordic cuisine, kicked off by Copenhagen's Noma, made foraged, hyper-local, indigenous-northern food briefly fashionable in fine-dining rooms across Scandinavia. Finnish chefs noticed that the cuisine the rest of the world was getting excited about, wild herbs, lacto-fermented berries, smoked fish, slow-cooked game, had been on Sami plates for a thousand years. The pipeline ran the other way for a while: Sami techniques and ingredients flowed into Helsinki tasting menus.",
-      "p3": "Then the Sami food world started reclaiming the conversation. Restaurant Aanaar in Inari built a fine-dining programme that is unapologetically Sami first and gastronomic second. The Slow Food Sápmi chapter pushed for protected status for traditional products like <em>suovas</em> (cold-smoked reindeer) and <em>guompa</em> (fermented angelica). Sami chefs started training Sami apprentices instead of sending them to French-classical kitchens. The 2017 Indigenous Terra Madre summit in Inari, global indigenous-food gathering, was a turning point.",
+      "p3": "Then the Sami food world started reclaiming the conversation. Restaurant Aanaar in Inari built a fine-dining programme that is unapologetically Sami first and fine dining second. The Slow Food Sápmi chapter pushed for protected status for traditional products like <em>suovas</em> (cold-smoked reindeer) and <em>guompa</em> (fermented angelica). Sami chefs started training Sami apprentices instead of sending them to French-classical kitchens. The 2017 Indigenous Terra Madre summit in Inari, global indigenous-food gathering, was a turning point.",
       "p4": "The current moment is interesting. Sami food is on Helsinki Michelin-listed menus and on the everyday table in Utsjoki, but the recipes are converging less than you'd expect. The fine-dining versions get the technique upgrade, sous-vide, lacto-fermentation, foraged-flower garnish. The home versions stay almost unchanged. Both are valid. The recipes on this page are the home versions.",
       "p5Prefix": "If you want to taste the fine-dining interpretation, head to",
       "p5ModernLabel": "Modern Lapland",
@@ -586,8 +589,8 @@
     }
   },
   "modernLapland": {
-    "title": "Modern Lapland Cuisine | LaplandFood",
-    "description": "How a new generation of Lapland chefs is rebuilding Arctic cuisine, foraged plates, fermentation, hyperlocal sourcing. The restaurants leading the change.",
+    "title": "Modern Lapland Cuisine & New Nordic Cooking",
+    "description": "How Lapland went from hotel buffets to chef-led tasting menus in a decade: five New Nordic techniques and plate styles that define the new Arctic kitchen.",
     "hero": {
       "eyebrow": "Pillar 03 · Modern",
       "title": "The new",
@@ -688,8 +691,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Foraging in Finnish Lapland, Berries, Mushrooms, Herbs",
-    "description": "Finland's everyman's right and what it means for foragers, when and where to find cloudberries, chanterelles, lingonberries and birch sap.",
+    "title": "Lapland Foraging Guide: Berries & Mushrooms",
+    "description": "Finland’s everyman’s right lets you pick berries and mushrooms nearly anywhere. Month-by-month calendar, safe beginner mushrooms and the deadly two to know.",
     "hero": {
       "eyebrow": "Pillar 04 · Foraging",
       "title": "The wild",
@@ -867,8 +870,8 @@
     }
   },
   "foodTours": {
-    "title": "Food Tours in Finnish Lapland | LaplandFood",
-    "description": "Guided food experiences in Lapland, reindeer farms, foraging walks, fish smoking, wilderness lunches and chef's table evenings. How to book.",
+    "title": "Lapland Food Tours & Cooking Experiences",
+    "description": "Three bookable food experiences in Lapland: Sámi culture with a meal, Arctic fine-dining evenings and guided foraging walks. Small groups, booked online.",
     "hero": {
       "eyebrow": "Pillar 06 · Tours",
       "title": "Eat your way",
@@ -944,8 +947,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine Dining & Michelin Restaurants in Lapland | LaplandFood",
-    "description": "Where the Michelin guide pays attention in Finnish Lapland, Restaurant Aanaar, Tundrea, Trattoria Levi, and the Lapland kitchens worth a long drive.",
+    "title": "Michelin in Finland & Lapland Fine Dining",
+    "description": "Where Finland’s Michelin stars actually are, and Lapland’s fine-dining flagships Nili, Aanaar and Rakas. Tasting-menu flow, booking lead times, honest advice.",
     "hero": {
       "eyebrow": "Pillar 05 · Michelin",
       "title": "Michelin",
@@ -1149,7 +1152,7 @@
   },
   "about": {
     "title": "About LaplandFood",
-    "description": "About LaplandFood, written by people who actually eat in Finnish Lapland. Editorial standards, sourcing, affiliate disclosure.",
+    "description": "What LaplandFood is, how topics are chosen, our editorial principles and how affiliate links are disclosed. Part of the #LaplandVibes network.",
     "hero": {
       "kicker": "About LaplandFood",
       "headline": "Finnish food, written from the inside.",

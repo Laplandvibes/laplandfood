@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "LaplandFood, Esskultur, Zutaten und Rezepte aus Finnisch-Lappland",
-    "description": "Die Esskultur des finnischen Lapplands, Rentier, Moltebeere, Saibling, geräucherter Lachs und Köche, die die arktische Küche neu erfinden. Rezepte, Restaurants und Sammelguides.",
+    "title": "Lappland-Küche: So isst Finnlands Norden",
+    "description": "Rentier, Moltebeeren, Saibling und die samische Tafel: ein Wegweiser durch Lapplands Esskultur, vom Beerenwald bis in die Michelin-Küche.",
     "intro": {
       "kicker": "Was diese Seite ist",
       "headline": "Finnisches Essen, erklärt.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Lokale Zutaten in Finnisch-Lappland | LaplandFood",
-    "description": "Was in Lappland wächst, schwimmt und wandert, Rentier, Saibling, Moltebeere, Preiselbeere, Pfifferling, Birkensaft. Die arktischen Zutaten, die die Küche Lapplands prägen.",
+    "title": "Lapplands Zutaten: Rentier, Beeren, Fisch",
+    "description": "Sechs Zutaten, die Lapplands Küche prägen: Rentier, Moltebeeren, Seefisch, Wildpilze und Wildkräuter. Saisonzeiten, Herkunft und Geschmack.",
     "hero": {
       "eyebrow": "Säule 01 · Zutaten",
       "title": "Was hier",
@@ -246,7 +246,10 @@
       "p2": "Die Herde ist in allem außer dem Eigentum wild. Die Rentiere ziehen frei über weite unbezäunte Taiga- und Fjällgebiete und fressen, was sie finden: Flechten im Winter (das verleiht dem Fleisch seinen besonders reinen Geschmack), Gräser und Kräuter im Sommer, Pilze im Herbst. Die Hirten folgen den Tieren mit Schneemobilen und Quads, treiben sie zweimal im Jahr für Ohrenmarkierung und (im Herbst) Schlachtauswahl zusammen und lassen sie dann wieder frei.",
       "p3": "Die Schlachtung findet im Herbst statt, typischerweise Oktober–November, wenn die Tiere ihr Höchstgewicht haben. Jede Genossenschaft betreibt ihren eigenen EU-zugelassenen Schlachthof. Der größte Teil des Fleisches wird im Umkreis von wenigen hundert Kilometern vom Lebensraum des Tieres verkauft, an Restaurants in Lappland, Fleischereien in Helsinki und Südfinnland und einen kleinen, aber ernstzunehmenden Exportmarkt in Mitteleuropa.",
       "p4": "<strong>Die Stücke, die Sie auf Lapplands Speisekarten finden</strong>, entsprechen grob dem Rindfleisch-Vokabular: <em>filee</em> (Filet, Sous-vide-Terrain), <em>sisäpaisti / ulkopaisti</em> (Innen- und Außenkeule, ganz gebraten oder in Scheiben für warm geräucherte Gerichte), <em>poronkäristys</em> (der alltägliche finnische Klassiker, dünne Streifen, Butter, Salz, mit Kartoffelpüree und Preiselbeere), und <em>suovas</em> (kalt geräuchertes Sattelfleisch, hauchdünn auf Roggenbrot). Bidos verwendet zähere Schmorstücke, typischerweise Schulter und Hachse, deshalb gart er stundenlang.",
-      "p5": "Ethisch betrachtet ist frei weidendes, von Sámi gehütetes Rentier eines der nachhaltigsten Proteine auf europäischen Speisekarten, keine Mastbecken, keine Antibiotika, keine geschlossenen Weiden, ursprüngliche Ernährung. Komplizierter wird es durchs Klima: Lapplands Winter werden feuchter, auf der Schneedecke bilden sich Eisschichten, die Rentiere kommen nicht an die Flechte, und manche Genossenschaften müssen zufüttern. Das verändert die Lieferkette und, langsam, den Geschmack. Eine Geschichte, die das kommende Jahrzehnt aufmerksam zu verfolgen lohnt."
+      "p5": "Ethisch betrachtet ist frei weidendes, von Sámi gehütetes Rentier eines der nachhaltigsten Proteine auf europäischen Speisekarten, keine Mastbecken, keine Antibiotika, keine geschlossenen Weiden, ursprüngliche Ernährung. Komplizierter wird es durchs Klima: Lapplands Winter werden feuchter, auf der Schneedecke bilden sich Eisschichten, die Rentiere kommen nicht an die Flechte, und manche Genossenschaften müssen zufüttern. Das verändert die Lieferkette und, langsam, den Geschmack. Eine Geschichte, die das kommende Jahrzehnt aufmerksam zu verfolgen lohnt.",
+      "tasteQ": "Wie schmeckt Rentier?",
+      "tasteA1": "Milder als die meisten Wildarten. Rentier ist mager und feinfaserig, näher an einem guten Rinderfilet als an kräftigem Wild, mit einer klaren, leicht süßlichen Tiefe von Flechten und Fjellkräutern. Weil kaum Fett da ist, wird es schonend gegart und rare bis medium serviert.",
+      "tasteA2": "Die klassische erste Begegnung ist Poronkäristys: hauchdünn gehobelte Scheiben in Butter, serviert auf Kartoffelpüree mit Preiselbeeren. Zu Festessen wird daraus Bidos, der langsame samische Eintopf, und am Feuer Suovas, gesalzen und leicht kaltgeräuchert."
     },
     "cloudberryDeep": {
       "kicker": "Tiefer Blick · Moltebeere",
@@ -298,8 +301,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Traditionelle Rezepte aus Lappland | LaplandFood",
-    "description": "Authentische Rezepte aus Lappland, poronkäristys, Saibling, Käseleipä, Moltebeerenkonfitüre mit Sahne. In lappländischen Küchen erprobt, für Reisende aufgeschrieben.",
+    "title": "Samische Küche: traditionelle Lappland-Rezepte",
+    "description": "Vier Gerichte der samischen Küche: Bidos-Eintopf, Gahkku-Fladenbrot, Sápmi-Fischsuppe, Beeren-Kissel. Mit Rezepten und dem Acht-Jahreszeiten-Kalender.",
     "hero": {
       "eyebrow": "Säule 02 · Rezepte",
       "title": "Traditionelle",
@@ -587,8 +590,8 @@
     }
   },
   "modernLapland": {
-    "title": "Die moderne Küche Lapplands | LaplandFood",
-    "description": "Wie eine neue Generation Lappland-Köche die arktische Küche neu erfindet, gesammelte Teller, Fermentation, hyperlokale Zutaten. Die Vorreiter-Restaurants des Wandels.",
+    "title": "Lapplands moderne Küche und New Nordic",
+    "description": "Wie Lappland in zehn Jahren vom Hotelbuffet zum Tasting-Menü kam: fünf New-Nordic-Techniken und die Tellerstile der neuen arktischen Küche.",
     "hero": {
       "eyebrow": "Säule 03 · Modern",
       "title": "Die neue",
@@ -689,8 +692,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Sammeln in Finnisch-Lappland, Beeren, Pilze, Kräuter | LaplandFood",
-    "description": "Das Jedermannsrecht und was es für Sammler bedeutet. Wann und wo Sie Moltebeere, Pfifferling, Preiselbeere, Thymian und Birkensaft in Lappland finden.",
+    "title": "Sammeln in Lappland: Beeren und Pilze",
+    "description": "Das Jedermannsrecht erlaubt Beeren- und Pilzesammeln fast überall in Finnland. Monatskalender, sichere Anfängerpilze und die zwei tödlichen Arten.",
     "hero": {
       "eyebrow": "Säule 04 · Sammeln",
       "title": "Die wilde",
@@ -868,8 +871,8 @@
     }
   },
   "foodTours": {
-    "title": "Kulinarische Touren in Finnisch-Lappland | LaplandFood",
-    "description": "Geführte kulinarische Erlebnisse in Lappland, Rentierhöfe, Sammeltouren, Fischräuchern, Wildnis-Lunches und Abende am Chef's Table. Wie buchen und was erwarten.",
+    "title": "Kulinarische Touren in Lappland",
+    "description": "Drei buchbare Erlebnisse in Lappland: samische Kultur mit Mahlzeit, arktische Fine-Dining-Abende und geführte Sammelwanderungen. Kleine Gruppen, online buchbar.",
     "hero": {
       "eyebrow": "Säule 06 · Touren",
       "title": "Iss Dich",
@@ -945,8 +948,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine Dining und Michelin-Restaurants in Lappland | LaplandFood",
-    "description": "Worauf der Michelin-Guide in Finnisch-Lappland blickt, Aanaar, Tundrea, Trattoria Levi und die Küchen Lapplands, für die sich die lange Anfahrt lohnt.",
+    "title": "Michelin in Finnland und Fine Dining in Lappland",
+    "description": "Wo Finnlands Michelin-Sterne wirklich sind, und Lapplands Fine-Dining-Spitze: Nili, Aanaar und Rakas. Menüablauf, Vorlaufzeiten, ehrlicher Rat.",
     "hero": {
       "eyebrow": "Säule 05 · Michelin",
       "title": "Michelin",
@@ -1150,7 +1153,7 @@
   },
   "about": {
     "title": "Über LaplandFood",
-    "description": "Über LaplandFood, geschrieben von Menschen, die tatsächlich in Finnisch-Lappland essen. Redaktionelle Prinzipien, Quellen, Hinweise zu Partnerlinks.",
+    "description": "Was LaplandFood ist, wie Themen gewählt werden, unsere redaktionellen Grundsätze und wie Partnerlinks gekennzeichnet sind. Teil des #LaplandVibes-Netzwerks.",
     "hero": {
       "kicker": "Über LaplandFood",
       "headline": "Finnisches Essen, von innen geschrieben.",

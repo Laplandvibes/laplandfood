@@ -13,6 +13,13 @@ interface PageHeroProps {
   secondaryCta?: { label: string; href: string; external?: boolean; rel?: string }
   /** Fact pills derived from the page's existing localized data (names, places). */
   pills?: string[]
+  /**
+   * Optional in-page anchors, parallel to `pills`. When pillHrefs[i] is set the
+   * pill renders as a jump link ("#recipe-2") instead of dead text — these pages
+   * run 8,500–14,000 px tall on a phone, and the hero chips were the natural
+   * wayfinding row that did nothing (2026-08-23 yleisilme pass).
+   */
+  pillHrefs?: string[]
   children?: ReactNode
 }
 
@@ -33,6 +40,7 @@ export default function PageHero({
   primaryCta,
   secondaryCta,
   pills,
+  pillHrefs,
   children,
 }: PageHeroProps) {
   const renderCta = (cta: { label: string; href: string; external?: boolean; rel?: string }, primary: boolean) => {
@@ -90,15 +98,31 @@ export default function PageHero({
         </p>
         {pills && pills.length > 0 && (
           <div className="flex flex-wrap justify-center lg:justify-start gap-2 mb-8 max-w-3xl">
-            {pills.map(pill => (
-              <span
-                key={pill}
-                className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 backdrop-blur px-3.5 py-1.5 text-xs sm:text-sm text-white/95"
-              >
-                <span className="w-1.5 h-1.5 rounded-full bg-vibe-pink flex-shrink-0" aria-hidden="true" />
-                {pill}
-              </span>
-            ))}
+            {pills.map((pill, i) => {
+              const href = pillHrefs?.[i]
+              const inner = (
+                <>
+                  <span className="w-1.5 h-1.5 rounded-full bg-vibe-pink flex-shrink-0" aria-hidden="true" />
+                  {pill}
+                </>
+              )
+              return href ? (
+                <a
+                  key={pill}
+                  href={href}
+                  className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 backdrop-blur px-3.5 py-1.5 text-xs sm:text-sm text-white/95 hover:border-vibe-pink/70 hover:bg-white/20 transition-colors"
+                >
+                  {inner}
+                </a>
+              ) : (
+                <span
+                  key={pill}
+                  className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 backdrop-blur px-3.5 py-1.5 text-xs sm:text-sm text-white/95"
+                >
+                  {inner}
+                </span>
+              )
+            })}
           </div>
         )}
         {(primaryCta || secondaryCta) && (

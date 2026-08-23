@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "Cuisine de Laponie 2026 : gastronomie sami et cueillette",
-    "description": "La vraie cuisine de Laponie en 2026, gastronomie sami, renne sauvage, mûres arctiques, omble, guides de cueillette, sélection Michelin. 60 restaurants choisis avec soin, vrais prix.",
+    "title": "Cuisine de Laponie : ce que mange le Nord",
+    "description": "Renne, plaquebìres, omble chevalier et table sâme : un guide de la culture culinaire de la Laponie finlandaise, de la cueillette aux salles étoilées.",
     "intro": {
       "kicker": "À propos de ce site",
       "headline": "La cuisine finlandaise, expliquée.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Ingrédients de Laponie : renne, baies, poisson, herbes | LaplandFood",
-    "description": "Ce qui pousse, nage et paît vraiment en Laponie finlandaise, six ingrédients clés avec saisons, approvisionnement et leur arrivée dans l'assiette.",
+    "title": "Produits de Laponie : renne, baies, poisson",
+    "description": "Six produits qui définissent la cuisine lapone : renne, plaquebìres, poissons de lac, champignons et herbes sauvages. Saisons, origine et goût.",
     "hero": {
       "eyebrow": "Pilier 01 · Ingrédients",
       "title": "Ce qui pousse",
@@ -246,7 +246,10 @@
       "p2": "Le troupeau est sauvage en tout sauf en propriété. Les rennes parcourent librement d'immenses étendues de taïga et de toundra non clôturées, mangeant ce qu'ils trouvent : lichen en hiver (le régime qui donne à la viande sa saveur propre et spécifique), herbes et plantes en été, champignons en automne. Les éleveurs suivent leurs animaux en motoneige et en quad, les rassemblent deux fois par an pour le marquage des oreilles et (à l'automne) pour la sélection à l'abattage, puis les laissent se disperser à nouveau.",
       "p3": "L'abattage a lieu en automne, généralement en octobre-novembre, lorsque les animaux sont à leur poids optimal. Chaque coopérative gère son propre abattoir agréé UE. La majorité de la viande est vendue dans un rayon de quelques centaines de kilomètres autour de là où l'animal a vécu, aux restaurants lapons, à des bouchers spécialisés à Helsinki et dans le reste du sud de la Finlande, et à un marché d'exportation modeste mais sérieux en Europe centrale.",
       "p4": "<strong>Les morceaux que vous verrez sur un menu lapon</strong> correspondent à peu près à un vocabulaire bovin : <em>fileé</em> (filet, terrain du sous-vide), <em>sisäpaisti / ulkopaisti</em> (gîte / aiguillette, rôtis entiers ou tranchés pour les plats fumés à chaud), <em>poronkäristys</em> (sauté de renne, le cheval de bataille quotidien finlandais, fines tranches, beurre, sel, servies sur purée avec airelles) et <em>suovas</em> (selle fumée à froid, mangée en lamelles avec du pain de seigle). Le bidos utilise des morceaux à mijoter plus fermes, généralement épaule et jarret, ce qui explique pourquoi il cuit pendant des heures.",
-      "p5": "Sur le plan éthique, le renne sâme en liberté est l'une des protéines les plus durables d'un menu européen, pas d'élevage intensif, pas d'antibiotiques, pas de pâturage clos, alimentation native. La complication est climatique : les hivers lapons deviennent plus humides, des couches de glace se forment sur la neige, les rennes ne peuvent plus gratter pour atteindre le lichen, et les éleveurs doivent compléter l'alimentation dans certaines coopératives. Cela modifie la chaîne d'approvisionnement et, lentement, la saveur. C'est une histoire à suivre sur la prochaine décennie."
+      "p5": "Sur le plan éthique, le renne sâme en liberté est l'une des protéines les plus durables d'un menu européen, pas d'élevage intensif, pas d'antibiotiques, pas de pâturage clos, alimentation native. La complication est climatique : les hivers lapons deviennent plus humides, des couches de glace se forment sur la neige, les rennes ne peuvent plus gratter pour atteindre le lichen, et les éleveurs doivent compléter l'alimentation dans certaines coopératives. Cela modifie la chaîne d'approvisionnement et, lentement, la saveur. C'est une histoire à suivre sur la prochaine décennie.",
+      "tasteQ": "Quel goût a le renne ?",
+      "tasteA1": "Plus doux que la plupart des gibiers. Le renne est maigre, à grain fin, plus proche d’un bon filet de bœuf que d’un gibier corsé, avec une profondeur nette, légèrement sucrée, venue du lichen et des herbes des fjells. Presque sans gras, il se cuit doucement et se sert saignant à point.",
+      "tasteA2": "La première rencontre classique, c’est le poronkäristys : de fins copeaux sautés au beurre, servis sur une purée avec des airelles. Aux repas de fête il devient bidos, le ragoût sâme mijoté, et près du feu suovas, salé et légèrement fumé à froid."
     },
     "cloudberryDeep": {
       "kicker": "À fond · Mûre arctique",
@@ -297,8 +300,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Recettes traditionnelles de Laponie | LaplandFood",
-    "description": "Vraies recettes lapones, sauté de renne (poronkäristys), omble arctique, leipäjuusto, baies à la crème. Testées dans des cuisines lapones, écrites pour les voyageurs.",
+    "title": "Cuisine sâme : recettes lapones traditionnelles",
+    "description": "Quatre plats de la cuisine sâme : ragoût de renne bidos, pain gahkku, soupe de poisson de Sápmi et kissel aux baies. Recettes et calendrier des huit saisons.",
     "hero": {
       "eyebrow": "Pilier 02 · Recettes",
       "title": "Recettes",
@@ -586,8 +589,8 @@
     }
   },
   "modernLapland": {
-    "title": "Cuisine moderne de Laponie | LaplandFood",
-    "description": "Comment une nouvelle génération de chefs lapons reconstruit la cuisine arctique, assiettes cueillies, fermentation, approvisionnement hyperlocal. Les restaurants qui mènent la transition.",
+    "title": "Cuisine lapone moderne et New Nordic",
+    "description": "Comment la Laponie est passée du buffet d’hôtel aux menus dégustation en dix ans : cinq techniques New Nordic et les assiettes de la nouvelle cuisine arctique.",
     "hero": {
       "eyebrow": "Pilier 03 · Moderne",
       "title": "La nouvelle",
@@ -688,8 +691,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Cueillette en Laponie finlandaise, Baies, champignons, herbes | LaplandFood",
-    "description": "Le droit d'accès finlandais et ce qu'il signifie pour le cueilleur. Quand et où trouver mûres arctiques, girolles, airelles, thym sauvage et sève de bouleau en Laponie.",
+    "title": "Cueillette en Laponie : baies et champignons",
+    "description": "Le droit de tout un chacun permet de cueillir baies et champignons presque partout en Finlande. Calendrier mensuel, espèces sûres et les deux mortelles.",
     "hero": {
       "eyebrow": "Pilier 04 · Cueillette",
       "title": "Le garde-manger",
@@ -867,12 +870,12 @@
     }
   },
   "foodTours": {
-    "title": "Tours gastronomiques en Laponie finlandaise | LaplandFood",
-    "description": "Expériences culinaires guidées en Laponie, fermes de rennes, balades de cueillette, fumage du poisson, déjeuners sauvages et tables du chef. Comment réserver et à quoi s'attendre.",
+    "title": "Tours gastronomiques en Laponie",
+    "description": "Trois expériences à réserver en Laponie : culture sâme avec repas, soirées gastronomiques arctiques et cueillette guidée. Petits groupes, réservation en ligne.",
     "hero": {
       "eyebrow": "Pilier 06 · Tours",
-      "title": "Mangez votre chemin",
-      "titleHighlight": "à travers la Laponie.",
+      "title": "La Laponie",
+      "titleHighlight": "à pleines dents.",
       "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation : culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
       "primaryCta": "Tout voir sur GetYourGuide"
     },
@@ -944,8 +947,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Haute gastronomie & restaurants Michelin en Laponie | LaplandFood",
-    "description": "Où le guide Michelin prête attention en Laponie finlandaise, Restaurant Aanaar, Tundrea, Trattoria Levi et les cuisines lapones qui valent le détour.",
+    "title": "Michelin en Finlande et gastronomie en Laponie",
+    "description": "Où sont vraiment les étoiles Michelin de Finlande, et le haut de gamme lapon : Nili, Aanaar et Rakas. Déroulé du menu, délais de réservation, conseils francs.",
     "hero": {
       "eyebrow": "Pilier 05 · Michelin",
       "title": "Michelin",
@@ -1149,7 +1152,7 @@
   },
   "about": {
     "title": "À propos de LaplandFood",
-    "description": "À propos de LaplandFood, écrit par des gens qui mangent vraiment en Laponie finlandaise. Standards éditoriaux, sourcing, mentions d'affiliation.",
+    "description": "Ce qu’est LaplandFood, comment les sujets sont choisis, nos principes éditoriaux et le marquage des liens partenaires. Membre du réseau #LaplandVibes.",
     "hero": {
       "kicker": "À propos de LaplandFood",
       "headline": "La cuisine finlandaise, écrite de l'intérieur.",

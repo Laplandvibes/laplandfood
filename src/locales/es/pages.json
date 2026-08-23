@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "Comida de Laponia 2026: cocina sami y recolección",
-    "description": "Comida real de Laponia en 2026, cocina sami, reno salvaje, moras árticas, salvelino, guías de recolección, recomendaciones Michelin. Más de 60 restaurantes seleccionados a mano, precios reales, calendario de ocho estaciones.",
+    "title": "Comida de Laponia: así come el norte",
+    "description": "Reno, moras árticas, salvelino y la mesa sami: una guía de la cultura gastronómica de la Laponia finlandesa, del bosque a las salas Michelin.",
     "intro": {
       "kicker": "Qué es este sitio",
       "headline": "La comida finlandesa, explicada.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Ingredientes de Laponia: reno, bayas, pescado, hierbas | LaplandFood",
-    "description": "Lo que de verdad crece, nada y pasta en la Laponia finlandesa, seis ingredientes esenciales con sus estaciones, procedencia y cómo acaban en el plato.",
+    "title": "Ingredientes de Laponia: reno, bayas, pescado",
+    "description": "Seis ingredientes que definen la cocina lapona: reno, moras árticas, pescado de lago, setas y hierbas silvestres. Temporadas, origen y sabor.",
     "hero": {
       "eyebrow": "Pilar 01 · Ingredientes",
       "title": "Lo que crece",
@@ -246,7 +246,10 @@
       "p2": "El rebaño es salvaje en todo salvo en la propiedad. Los renos vagan libremente por enormes extensiones de taiga y tundra sin vallar, comiendo lo que encuentran: líquenes en invierno (la dieta que da a la carne su sabor limpio y característico), hierbas y plantas en verano, brotes de setas en otoño. Los pastores siguen a sus animales en motonieve y quad, los reúnen dos veces al año para marcarlos en la oreja y (en otoño) para seleccionar los que irán al sacrificio, y luego los dejan dispersarse de nuevo.",
       "p3": "El sacrificio se hace en otoño, normalmente entre octubre y noviembre, cuando los animales están en su peso máximo. Cada cooperativa gestiona su propio matadero homologado por la UE. La mayor parte de la carne se vende a unos pocos cientos de kilómetros de donde vivió el animal, a restaurantes de Laponia, a carnicerías especializadas de Helsinki y del resto del sur de Finlandia, y a un mercado de exportación pequeño pero serio en Centroeuropa.",
       "p4": "<strong>Los cortes que verás en un menú de Laponia</strong> se corresponden, a grandes rasgos, con el vocabulario del vacuno: <em>fileé</em> (solomillo, territorio de sous-vide), <em>sisäpaisti / ulkopaisti</em> (contra / tapa, asados enteros o en lonchas para platos ahumados en caliente), <em>poronkäristys</em> (reno salteado, el plato cotidiano por excelencia, lonchas finas, mantequilla, sal, servido sobre puré con arándano rojo) y <em>suovas</em> (lomo ahumado en frío, comido en lascas con pan de centeno). El bidos usa cortes de guiso más duros, normalmente paletilla y morcillo y por eso se cocina durante horas.",
-      "p5": "Desde el punto de vista ético, el reno en libertad pastoreado por los samis es una de las proteínas más sostenibles de un menú europeo, sin cebadero, sin antibióticos, sin pastoreo cerrado, dieta natural. La complicación es el clima: los inviernos en Laponia son cada vez más húmedos, se forman capas de hielo sobre la nieve, los renos no pueden escarbar hasta los líquenes y los pastores se ven obligados a alimentarlos de forma complementaria en algunas cooperativas. Eso cambia la cadena de suministro y, poco a poco, el sabor. Es una historia que conviene vigilar durante la próxima década."
+      "p5": "Desde el punto de vista ético, el reno en libertad pastoreado por los samis es una de las proteínas más sostenibles de un menú europeo, sin cebadero, sin antibióticos, sin pastoreo cerrado, dieta natural. La complicación es el clima: los inviernos en Laponia son cada vez más húmedos, se forman capas de hielo sobre la nieve, los renos no pueden escarbar hasta los líquenes y los pastores se ven obligados a alimentarlos de forma complementaria en algunas cooperativas. Eso cambia la cadena de suministro y, poco a poco, el sabor. Es una historia que conviene vigilar durante la próxima década.",
+      "tasteQ": "¿A qué sabe el reno?",
+      "tasteA1": "Más suave que la mayoría de las carnes de caza. El reno es magro y de grano fino, más cercano a un buen solomillo de ternera que a una caza intensa, con una profundidad limpia y levemente dulce que viene del liquen y las hierbas del monte. Como casi no tiene grasa, se cocina con cuidado y se sirve poco hecho o al punto.",
+      "tasteA2": "El primer encuentro clásico es el poronkäristys: láminas finas salteadas en mantequilla sobre puré de patata con arándanos rojos. En las mesas festivas se convierte en bidos, el guiso lento sami, y junto al fuego es suovas, salado y ligeramente ahumado en frío."
     },
     "cloudberryDeep": {
       "kicker": "A fondo · La mora ártica",
@@ -297,8 +300,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Recetas tradicionales de Laponia | LaplandFood",
-    "description": "Recetas reales de Laponia, reno salteado (poronkäristys), salvelino ártico, leipäjuusto, bayas con nata. Probadas en cocinas de Laponia, escritas para viajeros.",
+    "title": "Comida sami: recetas tradicionales de Laponia",
+    "description": "Cuatro platos de la cocina sami: estofado de reno bidos, pan gahkku, sopa de pescado de Sápmi y kissel de bayas. Recetas y el calendario de ocho estaciones.",
     "hero": {
       "eyebrow": "Pilar 02 · Recetas",
       "title": "Recetas",
@@ -586,8 +589,8 @@
     }
   },
   "modernLapland": {
-    "title": "Cocina moderna de Laponia | LaplandFood",
-    "description": "Cómo una nueva generación de chefs de Laponia está reconstruyendo la cocina ártica, platos recolectados, fermentación, abastecimiento hiperlocal. Los restaurantes que lideran el cambio.",
+    "title": "Cocina moderna de Laponia y New Nordic",
+    "description": "Cómo Laponia pasó del bufé de hotel a los menús degustación en una década: cinco técnicas New Nordic y los estilos de plato de la nueva cocina ártica.",
     "hero": {
       "eyebrow": "Pilar 03 · Moderno",
       "title": "La nueva",
@@ -688,8 +691,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Recolección en la Laponia finlandesa, bayas, setas, hierbas | LaplandFood",
-    "description": "El derecho de acceso a la naturaleza de Finlandia y lo que significa para los recolectores. Cuándo y dónde encontrar moras árticas, rebozuelos, arándanos rojos, tomillo silvestre y savia de abedul en Laponia.",
+    "title": "Recolección en Laponia: bayas y setas",
+    "description": "El derecho de todos permite recoger bayas y setas casi en cualquier lugar de Finlandia. Calendario mensual, setas seguras y las dos mortales que conocer.",
     "hero": {
       "eyebrow": "Pilar 04 · Recolección",
       "title": "La despensa",
@@ -867,8 +870,8 @@
     }
   },
   "foodTours": {
-    "title": "Tours gastronómicos en la Laponia finlandesa | LaplandFood",
-    "description": "Experiencias gastronómicas guiadas en Laponia, granjas de renos, paseos de recolección, ahumado de pescado, almuerzos en plena naturaleza y veladas de mesa del chef. Cómo reservar y qué esperar.",
+    "title": "Tours gastronómicos en Laponia",
+    "description": "Tres experiencias reservables en Laponia: cultura sami con comida, veladas de alta cocina ártica y paseos de recolección guiados. Grupos pequeños.",
     "hero": {
       "eyebrow": "Pilar 06 · Tours",
       "title": "Cómete",
@@ -944,8 +947,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Alta cocina y restaurantes Michelin en Laponia | LaplandFood",
-    "description": "Dónde se fija la guía Michelin en la Laponia finlandesa, Restaurant Aanaar, Tundrea, Trattoria Levi y las cocinas de Laponia que merecen un largo viaje en coche.",
+    "title": "Michelin en Finlandia y alta cocina en Laponia",
+    "description": "Dónde están realmente las estrellas Michelin de Finlandia, y la alta cocina de Laponia: Nili, Aanaar y Rakas. Menú degustación, reservas y consejo honesto.",
     "hero": {
       "eyebrow": "Pilar 05 · Michelin",
       "title": "Michelin",
@@ -1149,7 +1152,7 @@
   },
   "about": {
     "title": "Sobre LaplandFood",
-    "description": "Sobre LaplandFood, escrito por gente que de verdad come en la Laponia finlandesa. Normas editoriales, procedencia, divulgación de afiliados.",
+    "description": "Qué es LaplandFood, cómo se eligen los temas, nuestros principios editoriales y cómo se marcan los enlaces de afiliados. Parte de la red #LaplandVibes.",
     "hero": {
       "kicker": "Sobre LaplandFood",
       "headline": "La comida finlandesa, escrita desde dentro.",

@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "LaplandFood, Suomen Lapin ruokakulttuuri, raaka-aineet ja reseptit",
-    "description": "Suomen Lapin ruokamaailma, poro, hilla, nieriä, savustettu lohi ja kokit jotka uudistavat arktista keittiötä. Reseptejä, ravintoloita ja keräilyoppaita.",
+    "title": "Lapin ruoka: mitä pohjoinen Suomi syö",
+    "description": "Poro, hilla, nieriä ja saamelainen pöytä: kenttäopas Suomen Lapin ruokakulttuuriin keräilymetsistä Michelin-saleihin.",
     "intro": {
       "kicker": "Mikä tämä sivusto on",
       "headline": "Suomalainen ruoka, selitettynä.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Suomen Lapin paikalliset raaka-aineet | LaplandFood",
-    "description": "Mitä kasvaa, ui ja vaeltaa Lapissa, poro, nieriä, hilla, puolukka, kantarelli, koivunmahla. Lapin keittiön määrittävät arktiset raaka-aineet.",
+    "title": "Lapin raaka-aineet: poro, marjat ja kala",
+    "description": "Kuusi raaka-ainetta jotka määrittävät Lapin keittiön: poro, hilla, järvikala, villisienet ja -yrtit. Sesongit, alkuperä ja se miltä ne maistuvat.",
     "hero": {
       "eyebrow": "Pilari 01 · Raaka-aineet",
       "title": "Mitä täällä",
@@ -246,7 +246,10 @@
       "p2": "Lauma on villiä kaikessa muussa paitsi omistuksessa. Porot kulkevat vapaasti valtavilla aitaamattomilla taiga- ja tunturialueilla, syöden mitä löytävät: jäkälää talvella (tämä antaa lihalle sen erityisen puhtaan maun), heinää ja yrttejä kesällä, sieniä syksyllä. Paimentajat seuraavat eläimiä moottorikelkoilla ja mönkijöillä, kokoavat ne kahdesti vuodessa korvamerkintää ja (syksyllä) teurastusvalintaa varten ja päästävät ne sitten taas vapaiksi.",
       "p3": "Teurastus tapahtuu syksyllä, tyypillisesti loka–marraskuussa, kun eläimet ovat huippupainossaan. Jokainen paliskunta pyörittää omaa EU-hyväksyttyä teurastamoaan. Suurin osa lihasta myydään muutaman sadan kilometrin säteellä eläimen elinpaikasta, Lapin ravintoloille, Helsingin ja Etelä-Suomen lihakaupoille ja pieneen mutta vakavaan vientimarkkinaan Keski-Eurooppaan.",
       "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>fileé</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, ja siksi se kypsyy tunteja.",
-      "p5": "Eettisesti vapaa­liikkuva, saamelais­paimennettu poro on yksi eurooppalaisen menun kestävimmistä proteiineista, ei lihotusaltaita, ei antibiootteja, ei suljettua laidunta, alkuperäisruokavalio. Mutkan tuo ilmasto: Lapin talvet kostuvat, lumikertymälle muodostuu jääkerroksia, porot eivät pääse jäkälään, ja jotkin paliskunnat joutuvat täydentämään ruokintaa. Se muuttaa toimitusketjua ja, hitaasti, makua. Tämä on tarina, jota kannattaa seurata seuraavan vuosikymmenen ajan."
+      "p5": "Eettisesti vapaa­liikkuva, saamelais­paimennettu poro on yksi eurooppalaisen menun kestävimmistä proteiineista, ei lihotusaltaita, ei antibiootteja, ei suljettua laidunta, alkuperäisruokavalio. Mutkan tuo ilmasto: Lapin talvet kostuvat, lumikertymälle muodostuu jääkerroksia, porot eivät pääse jäkälään, ja jotkin paliskunnat joutuvat täydentämään ruokintaa. Se muuttaa toimitusketjua ja, hitaasti, makua. Tämä on tarina, jota kannattaa seurata seuraavan vuosikymmenen ajan.",
+      "tasteQ": "Miltä poro maistuu?",
+      "tasteA1": "Miedommalta kuin useimmat riistat. Poro on vähärasvaista ja hienosyistä, lähempänä hyvää naudan sisäfilettä kuin voimakasta riistaa, ja sen puhdas, hennon makea syvyys tulee jäkälästä ja tunturin yrteistä. Koska rasvaa ei juuri ole, liha kypsennetään varoen ja tarjotaan punaisena tai mediumina.",
+      "tasteA2": "Klassinen ensikosketus on poronkäristys: ohuiksi höylättyjä siivuja voissa, perunamuusin ja puolukoiden kanssa. Juhlapöydässä porosta tehdään bidos, hidas saamelaismuhennos, ja tunturissa se on suovas, suolattua ja kevyesti kylmäsavustettua."
     },
     "cloudberryDeep": {
       "kicker": "Syvällinen tarkastelu · Hilla",
@@ -298,8 +301,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Lapin perinnereseptit | LaplandFood",
-    "description": "Aitoja Lapin reseptejä, poronkäristys, nieriä, leipäjuusto, lakkahillo kerman kanssa. Lapin keittiöissä testattuja, matkailijalle kirjoitettuja.",
+    "title": "Saamelainen ruoka ja Lapin perinnereseptit",
+    "description": "Neljä saamelaiskeittiön perusruokaa: bidos-poromuhennos, gahkku-leipä, Sápmin kalakeitto ja marjakiisseli. Reseptit ja kahdeksan vuodenajan kalenteri.",
     "hero": {
       "eyebrow": "Pilari 02 · Reseptit",
       "title": "Saamelaiset",
@@ -587,8 +590,8 @@
     }
   },
   "modernLapland": {
-    "title": "Lapin moderni keittiö | LaplandFood",
-    "description": "Miten uusi sukupolvi Lapin kokkeja rakentaa arktista keittiötä uusiksi, keräiltyjä lautasia, fermentointia, hyperpaikallisia raaka-aineita. Muutoksen edelläkävijäravintolat.",
+    "title": "Lapin moderni keittiö ja New Nordic",
+    "description": "Miten Lappi siirtyi hotelliruokaloista kokkivetoisiin tasting-saleihin: viisi New Nordic -tekniikkaa ja uuden arktisen keittiön lautastyylit.",
     "hero": {
       "eyebrow": "Pilari 03 · Moderni",
       "title": "Uusi",
@@ -689,8 +692,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Keräily Suomen Lapissa, marjat, sienet, yrtit | LaplandFood",
-    "description": "Jokamiehenoikeus ja mitä se tarkoittaa keräilijälle. Milloin ja mistä löydät hillan, kantarellin, puolukan, ajuruohon ja koivunmahlan Lapista.",
+    "title": "Lapin keräilyopas: marjat ja sienet",
+    "description": "Jokamiehenoikeudella marjaan ja sieneen lähes missä vain: kuukausikalenteri, neljä varmaa aloittelijan sientä ja kaksi tappavan myrkyllistä jotka pitää tuntea.",
     "hero": {
       "eyebrow": "Pilari 04 · Keräily",
       "title": "Villi",
@@ -868,11 +871,11 @@
     }
   },
   "foodTours": {
-    "title": "Ruokaretket Suomen Lapissa | LaplandFood",
-    "description": "Opastettuja ruokakokemuksia Lapissa, porotilat, keräilyretket, kalansavustus, erälounaat ja kokin pöydän illat. Miten varaat ja mitä odottaa.",
+    "title": "Lapin ruokaretket ja kokkikoulut",
+    "description": "Kolme varattavaa ruokaelämystä Lapissa: saamelaiskulttuuria aterialla, arktisia fine dining -iltoja ja opastettuja keräilyretkiä. Pienryhmät, varaus verkossa.",
     "hero": {
       "eyebrow": "Pilari 06 · Retket",
-      "title": "Syö tieni",
+      "title": "Syö tiesi",
       "titleHighlight": "Lappiin.",
       "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät tasting menua syvemmälle: saamelainen ruokakulttuuri, arktinen fine dining ja opastettu keräilyretki, joka päättyy päivälliseen.",
       "primaryCta": "Selaa kaikkia GetYourGuidessa"
@@ -945,8 +948,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining ja Michelin-ravintolat Lapissa | LaplandFood",
-    "description": "Mihin Michelin-opas kiinnittää huomionsa Suomen Lapissa, Aanaar, Tundrea, Trattoria Levi ja Lapin keittiöt joihin pitkä ajomatka kannattaa.",
+    "title": "Michelin Suomessa ja Lapin fine dining",
+    "description": "Missä Suomen Michelin-tähdet oikeasti ovat, ja Lapin fine diningin kärki: Nili, Aanaar ja Rakas. Tasting-menun kulku, varausajat ja rehellinen neuvo.",
     "hero": {
       "eyebrow": "Pilari 05 · Michelin",
       "title": "Michelin",
@@ -1150,7 +1153,7 @@
   },
   "about": {
     "title": "Tietoa LaplandFoodista",
-    "description": "Tietoa LaplandFoodista, kirjoittajat, jotka oikeasti syövät Suomen Lapissa. Toimitusperiaatteet, lähteet, kumppanuusmaininnat.",
+    "description": "Mikä LaplandFood on, miten aiheet valitaan, toimitusperiaatteet ja miten kumppanuuslinkit merkitään. Osa #LaplandVibes-verkostoa.",
     "hero": {
       "kicker": "Tietoa LaplandFoodista",
       "headline": "Suomalaista ruokaa, sisältäpäin kirjoitettuna.",

@@ -51,6 +51,7 @@ export default function FoodTours() {
           imageAlt="A long wooden table at the forest edge set with cold-smoked whitefish, thin-sliced reindeer, cloudberries, rye bread and a steaming pot of stew, a lavvu tent behind"
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true, rel: 'sponsored nofollow noopener' }}
           pills={tours.map(tour => tour.location)}
+          pillHrefs={tours.map((_, i) => `#tour-${i}`)}
         />
 
         <IntroPoints sectionKey="foodTours" />
@@ -76,7 +77,7 @@ export default function FoodTours() {
                 const meta = TOUR_META[i];
                 const href = gygSearchLink(meta.searchQuery, meta.sid, locale);
                 return (
-                  <article key={tour.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
+                  <article key={tour.name} id={`tour-${i}`} className="scroll-mt-24 group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                       <img src={meta.image} alt={tour.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                       <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />

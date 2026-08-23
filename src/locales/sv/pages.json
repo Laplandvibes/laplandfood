@@ -44,8 +44,8 @@
     ]
   },
   "home": {
-    "title": "Lapplands mat 2026, samiskt kök, plockning och lokala favoriter",
-    "description": "Äkta Lapplandsmat 2026: samiskt kök, vildren, hjortron, röding, plockningsguider och Michelin-tips. Över 60 handplockade restauranger, riktiga priser.",
+    "title": "Lapplands mat: så äter Finlands norr",
+    "description": "Ren, hjortron, röding och det samiska bordet: en fältguide till matkulturen i finska Lappland, från bärskogen till Michelinsalarna.",
     "intro": {
       "kicker": "Vad den här sajten är",
       "headline": "Finsk mat, förklarad.",
@@ -161,8 +161,8 @@
     }
   },
   "localIngredients": {
-    "title": "Lapplands råvaror, ren, bär, fisk | LaplandFood",
-    "description": "Vad som faktiskt växer, simmar och betar i finska Lappland: sex kärnråvaror med säsonger, ursprung och hur de hamnar på tallriken.",
+    "title": "Lapplands råvaror: ren, bär och fisk",
+    "description": "Sex råvaror som definierar Lapplands kök: ren, hjortron, insjöfisk, vild svamp och vilda örter. Säsonger, ursprung och hur de smakar.",
     "hero": {
       "eyebrow": "Pelare 01 · Råvaror",
       "title": "Vad som växer",
@@ -246,7 +246,10 @@
       "p2": "Hjorden är vild i allt utom ägandet. Renarna strövar fritt över enorma sträckor av ostängslad taiga och tundra och äter det de hittar: lav på vintern (dieten som ger köttet dess särskilda rena smak), gräs och örter på sommaren, svampskott på hösten. Renskötarna spårar sina djur med skotrar och fyrhjulingar, samlar ihop dem två gånger om året för öronmärkning och (på hösten) urval för slakt, och låter dem sedan sprida ut sig igen.",
       "p3": "Slakten sker på hösten, vanligtvis oktober–november, när djuren väger som mest. Varje renbeteslag driver sitt eget EU-godkända slakteri. Det mesta av köttet säljs inom några hundra kilometer från där djuret levde, till restauranger i Lappland, till specialslaktare i Helsingfors och övriga södra Finland, och till en liten men seriös exportmarknad i Centraleuropa.",
       "p4": "<strong>Styckdelarna du ser på en meny i Lappland</strong> motsvarar ungefär en nötköttsvokabulär: <em>fileé</em> (filé, sous vide-territorium), <em>sisäpaisti / ulkopaisti</em> (innanlår / ytterlår, helstekt eller skivat till varmrökta rätter), <em>poronkäristys</em> (stekt ren, den finska vardagsklassikern: tunna skivor, smör, salt, serverat på potatismos med lingon) och <em>suovas</em> (kallrökt rensadel, äts i tunna skivor med rågbröd). Bidos använder segare grytbitar, oftast bog och lägg, och därför får den koka i timmar.",
-      "p5": "Etiskt sett är frigående, samiskt skött ren ett av de mest hållbara proteinerna på en europeisk meny: ingen industriell uppfödning, inga antibiotika, inget inhägnat bete, naturlig diet. Komplikationen är klimatet: vintrarna i Lappland blir blötare, islager bildas på snötäcket, renarna kommer inte ner till laven, och renskötarna måste stödutfodra i en del renbeteslag. Det förändrar leveranskedjan och, långsamt, smaken. Det är en historia att följa under det kommande decenniet."
+      "p5": "Etiskt sett är frigående, samiskt skött ren ett av de mest hållbara proteinerna på en europeisk meny: ingen industriell uppfödning, inga antibiotika, inget inhägnat bete, naturlig diet. Komplikationen är klimatet: vintrarna i Lappland blir blötare, islager bildas på snötäcket, renarna kommer inte ner till laven, och renskötarna måste stödutfodra i en del renbeteslag. Det förändrar leveranskedjan och, långsamt, smaken. Det är en historia att följa under det kommande decenniet.",
+      "tasteQ": "Hur smakar ren?",
+      "tasteA1": "Mildare än det mesta viltet. Renkött är magert och finfibrigt, närmare en fin oxfilé än kraftigt vilt, med ett rent, svagt sött djup som kommer från laven och fjällens örter. Eftersom fettet nästan saknas tillagas det varsamt och serveras rare till medium.",
+      "tasteA2": "Den klassiska första kontakten är poronkäristys: tunt hyvlade skivor stekta i smör, serverade på potatismos med lingon. Vid festbordet blir det bidos, den långsamma samiska grytan, och vid elden suovas, saltad och lätt kallrökt."
     },
     "cloudberryDeep": {
       "kicker": "Fördjupning · Hjortron",
@@ -297,8 +300,8 @@
     }
   },
   "traditionalRecipes": {
-    "title": "Traditionella recept från Lappland | LaplandFood",
-    "description": "Äkta recept från Lappland: stekt ren (poronkäristys), röding, leipäjuusto, hjortron med grädde. Testade i Lapplands kök, skrivna för resenärer.",
+    "title": "Samisk mat och traditionella Lapplandsrecept",
+    "description": "Fyra rätter ur det samiska köket: bidos-rengryta, gahkku-bröd, Sápmi-fisksoppa och bärkräm. Fullständiga recept och de åtta årstidernas kalender.",
     "hero": {
       "eyebrow": "Pelare 02 · Recept",
       "title": "Traditionella",
@@ -586,8 +589,8 @@
     }
   },
   "modernLapland": {
-    "title": "Modernt Lapplandskök | LaplandFood",
-    "description": "Hur en ny generation kockar i Lappland bygger om det arktiska köket: plockade rätter, fermentering, hyperlokala råvaror. Restaurangerna som leder förändringen.",
+    "title": "Lapplands moderna kök och New Nordic",
+    "description": "Hur Lappland gick från hotellbuffé till kockdrivna avsmakningsmenyer på tio år: fem New Nordic-tekniker och det nya arktiska kökets tallriksstilar.",
     "hero": {
       "eyebrow": "Pelare 03 · Modernt",
       "title": "Det nya",
@@ -688,8 +691,8 @@
     }
   },
   "foragingGuide": {
-    "title": "Plockning i finska Lappland: bär, svamp, örter",
-    "description": "Finlands allemansrätt och vad den betyder för plockare, när och var du hittar hjortron, kantareller, lingon och björksav.",
+    "title": "Plocka i Lappland: bär och svamp",
+    "description": "Allemansrätten låter dig plocka bär och svamp nästan var som helst i Finland. Månadskalender, säkra nybörjarsvampar och de två dödliga att känna till.",
     "hero": {
       "eyebrow": "Pelare 04 · Plockning",
       "title": "Det vilda",
@@ -867,8 +870,8 @@
     }
   },
   "foodTours": {
-    "title": "Matturer i finska Lappland | LaplandFood",
-    "description": "Guidade matupplevelser i Lappland: rengårdar, plockningsvandringar, fiskrökning, vildmarkslunch och kockbordskvällar. Så bokar du.",
+    "title": "Matupplevelser och matturer i Lappland",
+    "description": "Tre bokningsbara matupplevelser i Lappland: samisk kultur med måltid, arktiska fine dining-kvällar och guidade plockturer. Små grupper, bokas online.",
     "hero": {
       "eyebrow": "Pelare 06 · Turer",
       "title": "Ät dig",
@@ -944,8 +947,8 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining och Michelin-restauranger i Lappland | LaplandFood",
-    "description": "Var Michelinguiden riktar blicken i finska Lappland: Restaurant Aanaar, Tundrea, Trattoria Levi och Lapplandsköken värda en lång bilresa.",
+    "title": "Michelin i Finland och fine dining i Lappland",
+    "description": "Var Finlands Michelinstjärnor faktiskt finns, och Lapplands spets: Nili, Aanaar och Rakas. Menyns gång, bokningstider och ärliga råd.",
     "hero": {
       "eyebrow": "Pelare 05 · Michelin",
       "title": "Michelin",
@@ -1149,7 +1152,7 @@
   },
   "about": {
     "title": "Om LaplandFood",
-    "description": "Om LaplandFood, skrivet av människor som faktiskt äter i finska Lappland. Redaktionella principer, källor, affiliateinformation.",
+    "description": "Vad LaplandFood är, hur ämnen väljs, våra redaktionella principer och hur affiliatelänkar märks ut. En del av #LaplandVibes-nätverket.",
     "hero": {
       "kicker": "Om LaplandFood",
       "headline": "Finsk mat, skriven inifrån.",

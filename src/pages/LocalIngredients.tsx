@@ -10,6 +10,7 @@ import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
 import FinnishPantryAd from '../components/FinnishPantryAd';
+import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
 
 interface Ingredient { name: string; season: string; description: string; nutritional: string; uses: string }
@@ -107,6 +108,7 @@ export default function LocalIngredients() {
           primaryCta={{ label: t('localIngredients.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}
           pills={ingredients.map(i => i.name)}
+          pillHrefs={ingredients.map((_, idx) => `#ingredient-${idx}`)}
         />
 
         <IntroPoints sectionKey="localIngredients" />
@@ -116,7 +118,7 @@ export default function LocalIngredients() {
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
               {ingredients.map((i, idx) => (
-                <article key={i.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
+                <article key={i.name} id={`ingredient-${idx}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={INGREDIENT_IMAGES[idx]} alt={i.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
@@ -171,7 +173,26 @@ export default function LocalIngredients() {
             <Trans i18nKey="localIngredients.reindeerDeep.p4" ns="pages" components={{ em: <em />, strong: <strong /> }} />
           </p>
           <p className={BODY_LAST}>{t('localIngredients.reindeerDeep.p5')}</p>
+          {/* Direct answer to the question travellers actually search for
+              ("what does reindeer taste like") — kept as one self-contained
+              box so the answer survives being read alone. */}
+          <div id="reindeer-taste" className="scroll-mt-24 mt-8 rounded-2xl border border-[#002F6C]/12 bg-white p-5 sm:p-6">
+            <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-3">{t('localIngredients.reindeerDeep.tasteQ')}</h3>
+            <p className="text-[#002F6C]/85 leading-relaxed mb-3">{t('localIngredients.reindeerDeep.tasteA1')}</p>
+            <p className="text-[#002F6C]/85 leading-relaxed">{t('localIngredients.reindeerDeep.tasteA2')}</p>
+          </div>
         </DeepDive>
+
+        {/* Porosäilykkeet heti poro-syväosion perään (Vesa 2026-08-23:
+            "poroa säilykkeenä = syy mainostaa"). Vastaa suoraan kysymykseen
+            jonka taste-laatikko herättää: mistä tätä saa kotiin. Kolme
+            handlea verifioitu ostettaviksi 23.8. (sivu 200 + available:true);
+            feedin poronkäristyssäilyke oli 404 eikä kelvannut. */}
+        <div className="bg-[#F8FAFC] px-4 pb-12 sm:pb-16">
+          <div className="mx-auto max-w-5xl">
+            <SuomikauppaPicks variant="reindeer" />
+          </div>
+        </div>
 
         {/* Cloudberry deep dive */}
         <DeepDive

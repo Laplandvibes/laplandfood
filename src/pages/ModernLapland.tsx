@@ -53,6 +53,7 @@ export default function ModernLapland() {
           primaryCta={{ label: t('modernLapland.hero.primaryCta'), href: to('/michelin-dining') }}
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}
           pills={techniques.map(item => item.title)}
+          pillHrefs={techniques.map((_, idx) => `#technique-${idx}`)}
         />
 
         <IntroPoints sectionKey="modernLapland" />
@@ -125,7 +126,7 @@ export default function ModernLapland() {
             </div>
             <div className="grid md:grid-cols-2 gap-5">
               {techniques.map((tech, idx) => (
-                <div key={tech.title} className={`rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden ${idx === techniques.length - 1 && techniques.length % 2 === 1 ? 'md:col-span-2' : ''}`}>
+                <div key={tech.title} id={`technique-${idx}`} className={`scroll-mt-24 rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden ${idx === techniques.length - 1 && techniques.length % 2 === 1 ? 'md:col-span-2' : ''}`}>
                   <div className="relative h-40 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={TECH_IMAGES[idx]} alt={tech.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.08) 60%)' }} />

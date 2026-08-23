@@ -15,10 +15,16 @@ import AffiliateDisclosure from './AffiliateDisclosure'
  *   · berries → marjaopas (ForagingGuide): hillot + pakastekuivattu mustikka
  *   · rye     → perinneruokaopas (TraditionalRecipes): ruisleipäklassikot
  *   · coffee  → retkiopas (FoodTours): pannukahvi + nuotiokahvipannu
+ *   · reindeer → raaka-aineopas (LocalIngredients): porosäilykkeet + kuivaliha
+ *                (handlet verifioitu 23.8.: sivu 200 + Shopify available:true;
+ *                feedin riipisen-poronkaristys-300g oli 404 eikä kelvannut)
  *
- * 🔴 Tähän EI tule liha- eikä maitotuotteita: ne pysähtyvät UK/US/JP/AU-
- * tuontisääntöihin eikä sivusto tiedä lukijan maata. Kaikki nostot ovat
- * kuivia/suljettuja ja säilyviä. Ei hintoja copyssa (vanhenevat), ei
+ * 🔴 Maitotuotteita ei nosteta. Lihatuotteet sallittu 2026-08-23 (Vesa: poro
+ * säilykkeenä = syy mainostaa) VAIN säilykkeinä/kuivattuina reindeer-
+ * variantissa, jonka body + shipping-chip kertovat rehellisesti: EU:n sisällä
+ * vapaata, muualle lukijan maan tuontisäännöt ratkaisevat (UK/US/JP/AU
+ * pysäyttävät lihan usein — siksi ei "Ships worldwide" -chipiä tässä
+ * variantissa). Muut variantit pysyvät kuivina/suljettuina. Ei hintoja copyssa (vanhenevat), ei
  * terveysväitteitä, ei keksittyjä faktoja.
  *
  * Tuotteet valittu katalogista 2026-08-15 varianttitason available=true
@@ -28,7 +34,7 @@ import AffiliateDisclosure from './AffiliateDisclosure'
 
 const FIN_BLUE = '#002F6C'
 
-export type SuomikauppaPicksVariant = 'berries' | 'rye' | 'coffee'
+export type SuomikauppaPicksVariant = 'berries' | 'rye' | 'coffee' | 'reindeer'
 
 interface Product {
   sid: string
@@ -45,6 +51,69 @@ function hrefFor(sid: string, handle: string): string {
 }
 
 const PRODUCTS: Record<SuomikauppaPicksVariant, Product[]> = {
+  reindeer: [
+    {
+      sid: 'food_guide_reindeer_pate',
+      handle: 'riipisen-poro-pate-poro-patee-210g',
+      brand: 'Riipisen',
+      name: 'Poro paté',
+      desc: {
+        en: 'Slow-cooked reindeer pâté',
+        fi: 'Hitaasti kypsennetty poropatee',
+        de: 'Langsam gegarte Rentierpastete',
+        ja: 'トナカイのパテ',
+        es: 'Paté de reno de cocción lenta',
+        'pt-BR': 'Patê de rena de cozimento lento',
+        'zh-CN': '慢制驯鹿肉酱',
+        ko: '천천히 익힌 순록 파테',
+        fr: 'Pâté de renne cuit doucement',
+        it: 'Paté di renna a cottura lenta',
+        nl: 'Langzaam gegaarde rendierpaté',
+        sv: 'Långlagad renpaté',
+      },
+    },
+    {
+      sid: 'food_guide_reindeer_soup',
+      // Handle sanoo 350ml, kaupan sivu 550 ml (tuote uudistettu) — handle toimii.
+      handle: 'jalostaja-juustoinen-savuporokeitto-350ml',
+      brand: 'Jalostaja',
+      name: 'Juustoinen savuporokeitto',
+      desc: {
+        en: 'Smoked-reindeer cheese soup',
+        fi: 'Juustoinen savuporokeitto',
+        de: 'Käsesuppe mit Räucherrentier',
+        ja: 'スモークトナカイのチーズスープ',
+        es: 'Sopa de queso con reno ahumado',
+        'pt-BR': 'Sopa de queijo com rena defumada',
+        'zh-CN': '烟熏驯鹿奶酪汤',
+        ko: '훈제 순록 치즈 수프',
+        fr: 'Soupe au fromage au renne fumé',
+        it: 'Zuppa al formaggio con renna affumicata',
+        nl: 'Kaassoep met gerookt rendier',
+        sv: 'Ostsoppa med rökt ren',
+      },
+    },
+    {
+      sid: 'food_guide_reindeer_dried',
+      handle: 'finnish-flavours-poron-kuivaliha-20g',
+      brand: 'Finnish Flavours',
+      name: 'Poron kuivaliha',
+      desc: {
+        en: 'Thin-sliced dried reindeer',
+        fi: 'Ohut poron kuivaliha',
+        de: 'Dünn geschnittenes Rentier-Trockenfleisch',
+        ja: '薄切りのトナカイ干し肉',
+        es: 'Finas láminas de reno seco',
+        'pt-BR': 'Lascas finas de rena seca',
+        'zh-CN': '薄切驯鹿肉干',
+        ko: '얇게 쉰 순록 육포',
+        fr: 'Fines lamelles de renne séché',
+        it: 'Sottili fette di renna essiccata',
+        nl: 'Flinterdun gedroogd rendier',
+        sv: 'Tunna skivor torkat renkött',
+      },
+    },
+  ],
   berries: [
     {
       sid: 'food_guide_berries_bilberry_jam',
@@ -237,9 +306,85 @@ interface SectionCopy {
   eyebrow: string
   headline: string
   body: string
+  /** Korvaa CHROME:n "Ships worldwide" -chipin — lihavariantti ei saa luvata maailmanlaajuista toimitusta. */
+  shipping?: string
 }
 
 const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>> = {
+  reindeer: {
+    en: {
+      eyebrow: 'The tinned north',
+      headline: 'Reindeer for your own pantry.',
+      body: 'The same meat the fell kitchens work with, put up to keep: slow-cooked reindeer pâté, a smoked-reindeer cheese soup and paper-thin dried reindeer for the trail. Suomikauppa ships from Finland; inside the EU meat travels freely, elsewhere check your country’s import rules before ordering.',
+      shipping: 'Ships from Finland',
+    },
+    fi: {
+      eyebrow: 'Purkitettu pohjoinen',
+      headline: 'Poroa omaan komeroon.',
+      body: 'Samaa lihaa jota tunturikeittiöt käyttävät, säilöttynä: hitaasti kypsennetty poropatee, juustoinen savuporokeitto ja ohut poron kuivaliha retkelle. Suomikauppa toimittaa Suomesta; EU:n sisällä liha kulkee vapaasti, muualle tilatessa tarkista maasi tuontisäännöt.',
+      shipping: 'Toimitus Suomesta',
+    },
+    de: {
+      eyebrow: 'Der Norden in der Dose',
+      headline: 'Rentier für den eigenen Vorrat.',
+      body: 'Dasselbe Fleisch, mit dem die Fjellküchen arbeiten, haltbar gemacht: langsam gegarte Rentierpastete, eine Käsesuppe mit Räucherrentier und hauchdünnes Trockenfleisch für unterwegs. Suomikauppa versendet aus Finnland; innerhalb der EU reist Fleisch frei, für andere Länder prüfen Sie vor der Bestellung die Einfuhrregeln.',
+      shipping: 'Versand aus Finnland',
+    },
+    ja: {
+      eyebrow: '缶詰の北',
+      headline: 'トナカイを自宅の食料棚に。',
+      body: '山の台所が使うのと同じ肉を、保存できる形で。じっくり調理したトナカイのパテ、スモークトナカイのチーズスープ、トレイル用の薄い干し肉。Suomikauppa がフィンランドから発送します。EU域内は自由に送れますが、他の国へは注文前に輸入規則をご確認ください。',
+      shipping: 'フィンランドから発送',
+    },
+    es: {
+      eyebrow: 'El norte en conserva',
+      headline: 'Reno para tu despensa.',
+      body: 'La misma carne con la que trabajan las cocinas del norte, en conserva: paté de reno cocinado despacio, una sopa de queso con reno ahumado y finas láminas de reno seco para la ruta. Suomikauppa envía desde Finlandia; dentro de la UE la carne viaja libre, para otros países revisa las normas de importación antes de pedir.',
+      shipping: 'Envío desde Finlandia',
+    },
+    'pt-BR': {
+      eyebrow: 'O norte em conserva',
+      headline: 'Rena para a sua despensa.',
+      body: 'A mesma carne das cozinhas do norte, em conserva: patê de rena de cozimento lento, sopa de queijo com rena defumada e finas lascas de rena seca para a trilha. A Suomikauppa envia da Finlândia; dentro da UE a carne circula livre, para outros países confira as regras de importação antes de pedir.',
+      shipping: 'Envio da Finlândia',
+    },
+    'zh-CN': {
+      eyebrow: '罐头里的北方',
+      headline: '把驯鹿带回自家橱柜。',
+      body: '与山间厨房所用相同的肉，以耐存形式呈现：慢制驯鹿肉酱、烟熏驯鹿奶酪汤，以及适合远足的薄切驯鹿肉干。Suomikauppa 从芬兰发货；欧盟境内肉类可自由寄送，其他国家下单前请查阅本国进口规定。',
+      shipping: '芬兰发货',
+    },
+    ko: {
+      eyebrow: '통조림에 담은 북쪽',
+      headline: '순록을 우리 집 찬장에.',
+      body: '산의 부엌이 쓰는 것과 같은 고기를 저장 가능한 형태로: 천천히 익힌 순록 파테, 훈제 순록 치즈 수프, 트레일용 얇은 순록 육포. Suomikauppa가 핀란드에서 발송합니다. EU 안에서는 육류가 자유롭게 배송되며, 그 외 국가는 주문 전 수입 규정을 확인하세요.',
+      shipping: '핀란드에서 발송',
+    },
+    fr: {
+      eyebrow: 'Le Nord en conserve',
+      headline: 'Du renne pour votre garde-manger.',
+      body: 'La même viande que travaillent les cuisines du Nord, mise en conserve : pâté de renne cuit doucement, soupe au fromage au renne fumé et fines lamelles de renne séché pour la randonnée. Suomikauppa expédie depuis la Finlande ; dans l’UE la viande voyage librement, ailleurs vérifiez les règles d’importation avant de commander.',
+      shipping: 'Expédié de Finlande',
+    },
+    it: {
+      eyebrow: 'Il Nord in barattolo',
+      headline: 'Renna per la tua dispensa.',
+      body: 'La stessa carne delle cucine del Nord, conservata: paté di renna a cottura lenta, una zuppa al formaggio con renna affumicata e sottili fette di renna essiccata per il sentiero. Suomikauppa spedisce dalla Finlandia; nell’UE la carne viaggia libera, altrove controlla le regole di importazione prima di ordinare.',
+      shipping: 'Spedito dalla Finlandia',
+    },
+    nl: {
+      eyebrow: 'Het noorden in blik',
+      headline: 'Rendier voor je eigen voorraadkast.',
+      body: 'Hetzelfde vlees waar de fjellkeukens mee werken, houdbaar gemaakt: langzaam gegaarde rendierpaté, een kaassoep met gerookt rendier en flinterdun gedroogd rendier voor onderweg. Suomikauppa verzendt vanuit Finland; binnen de EU reist vlees vrij, daarbuiten check je vóór het bestellen de invoerregels van je land.',
+      shipping: 'Verzending vanuit Finland',
+    },
+    sv: {
+      eyebrow: 'Norr på burk',
+      headline: 'Ren till ditt eget skafferi.',
+      body: 'Samma kött som fjällköken arbetar med, konserverat: långlagad renpaté, en ostsoppa med rökt ren och tunna skivor torkat renkött för turen. Suomikauppa skickar från Finland; inom EU reser köttet fritt, beställer du någon annanstans, kontrollera landets importregler först.',
+      shipping: 'Skickas från Finland',
+    },
+  },
   berries: {
     en: {
       eyebrow: 'The jarred shortcut',
@@ -306,17 +451,17 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     en: {
       eyebrow: 'The other Arctic staple',
       headline: 'Gahkku you bake. Rye you can order.',
-      body: 'Beside every stew in Finnish Lapland sits dark rye — dense slow-baked loaves and thin crispbread that were made to keep through long winters. Suomikauppa ships the classics worldwide, flakes for the porridge pot included.',
+      body: 'Beside every stew in Finnish Lapland sits dark rye: dense slow-baked loaves and thin crispbread that were made to keep through long winters. Suomikauppa ships the classics worldwide, flakes for the porridge pot included.',
     },
     fi: {
       eyebrow: 'Se toinen arktinen perusruoka',
       headline: 'Gahkun leivot itse. Rukiin voi tilata.',
-      body: 'Suomen Lapissa padan vieressä on tumma ruis — tiiviit, hitaasti paistetut limput ja ohut hapankorppu, jotka tehtiin kestämään pitkät talvet. Suomikauppa toimittaa klassikot maailmanlaajuisesti, puuropadan hiutaleet mukaan lukien.',
+      body: 'Suomen Lapissa padan vieressä on tumma ruis: tiiviit, hitaasti paistetut limput ja ohut hapankorppu, jotka tehtiin kestämään pitkät talvet. Suomikauppa toimittaa klassikot maailmanlaajuisesti, puuropadan hiutaleet mukaan lukien.',
     },
     de: {
       eyebrow: 'Das andere arktische Grundnahrungsmittel',
       headline: 'Gahkku backt man selbst. Roggen kann man bestellen.',
-      body: 'Neben jedem Schmortopf in Finnisch-Lappland liegt dunkler Roggen — dichte, langsam gebackene Laibe und dünnes Knäckebrot, gemacht, um lange Winter zu überstehen. Suomikauppa versendet die Klassiker weltweit, Flocken für den Breitopf inklusive.',
+      body: 'Neben jedem Schmortopf in Finnisch-Lappland liegt dunkler Roggen: dichte, langsam gebackene Laibe und dünnes Knäckebrot, gemacht, um lange Winter zu überstehen. Suomikauppa versendet die Klassiker weltweit, Flocken für den Breitopf inklusive.',
     },
     ja: {
       eyebrow: 'もうひとつの北極の主食',
@@ -336,7 +481,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     'zh-CN': {
       eyebrow: '另一种北极主食',
       headline: 'Gahkku 自己烤，黑麦可以下单。',
-      body: '在芬兰拉普兰，每一锅炖菜旁边都有深色黑麦——扎实的慢烤面包和薄脆面包，本就是为熬过漫长冬天而生。Suomikauppa 把这些经典发往全球，煮粥用的麦片也在内。',
+      body: '在芬兰拉普兰，每一锅炖菜旁边都有深色黑麦：扎实的慢烤面包和薄脆面包，本就是为熬过漫长冬天而生。Suomikauppa 把这些经典发往全球，煮粥用的麦片也在内。',
     },
     ko: {
       eyebrow: '또 하나의 북극 주식',
@@ -356,34 +501,34 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     nl: {
       eyebrow: 'Het andere Arctische hoofdvoedsel',
       headline: 'Gahkku bak je zelf. Rogge bestel je.',
-      body: 'Naast elke stoofpot in Fins Lapland ligt donkere rogge — compacte, langzaam gebakken broden en dun knäckebröd, gemaakt om lange winters te doorstaan. Suomikauppa verstuurt de klassiekers wereldwijd, vlokken voor de pappot incluis.',
+      body: 'Naast elke stoofpot in Fins Lapland ligt donkere rogge: compacte, langzaam gebakken broden en dun knäckebröd, gemaakt om lange winters te doorstaan. Suomikauppa verstuurt de klassiekers wereldwijd, vlokken voor de pappot incluis.',
     },
     sv: {
       eyebrow: 'Den andra arktiska basvaran',
       headline: 'Gahkku bakar du själv. Råg går att beställa.',
-      body: 'Bredvid varje gryta i finska Lappland ligger mörk råg — täta, långbakade limpor och tunt knäckebröd, gjorda för att klara långa vintrar. Suomikauppa skickar klassikerna över hela världen, grötflingor inräknade.',
+      body: 'Bredvid varje gryta i finska Lappland ligger mörk råg: täta, långbakade limpor och tunt knäckebröd, gjorda för att klara långa vintrar. Suomikauppa skickar klassikerna över hela världen, grötflingor inräknade.',
     },
   },
   coffee: {
     en: {
       eyebrow: "The trail's other ritual",
       headline: 'Out here, coffee is boiled, not brewed.',
-      body: 'On Lapland trails the pause matters as much as the route, and it comes with coarse-ground coffee heated in a blackened pot over the fire. The pot grind Finns take to the cabin ships worldwide — and so does the pot.',
+      body: 'On Lapland trails the pause matters as much as the route, and it comes with coarse-ground coffee heated in a blackened pot over the fire. The pot grind Finns take to the cabin ships worldwide, and so does the pot.',
     },
     fi: {
       eyebrow: 'Retken toinen rituaali',
       headline: 'Täällä kahvi keitetään, ei uuteta.',
-      body: 'Lapin poluilla tauko on yhtä tärkeä kuin reitti, ja siihen kuuluu karkeaksi jauhettu kahvi mustuneessa pannussa nuotiolla. Pannujauhatus, jonka suomalaiset vievät mökille, lähtee postissa maailmalle — ja niin lähtee pannukin.',
+      body: 'Lapin poluilla tauko on yhtä tärkeä kuin reitti, ja siihen kuuluu karkeaksi jauhettu kahvi mustuneessa pannussa nuotiolla. Pannujauhatus, jonka suomalaiset vievät mökille, lähtee postissa maailmalle, ja niin lähtee pannukin.',
     },
     de: {
       eyebrow: 'Das andere Ritual der Tour',
       headline: 'Hier draußen wird Kaffee gekocht, nicht gebrüht.',
-      body: 'Auf Lapplands Pfaden zählt die Pause so viel wie die Route — mit grob gemahlenem Kaffee, der in einer geschwärzten Kanne überm Feuer heiß wird. Die Kannenmahlung, die Finnen mit zur Hütte nehmen, versendet Suomikauppa weltweit — die Kanne gleich mit.',
+      body: 'Auf Lapplands Pfaden zählt die Pause so viel wie die Route, mit grob gemahlenem Kaffee, der in einer geschwärzten Kanne überm Feuer heiß wird. Die Kannenmahlung, die Finnen mit zur Hütte nehmen, versendet Suomikauppa weltweit, die Kanne gleich mit.',
     },
     ja: {
       eyebrow: 'ツアーのもうひとつの儀式',
       headline: 'ここでは、コーヒーは淹れずに煮出します。',
-      body: 'ラップランドの道では、休憩はルートと同じくらい大切。焚き火にかけた黒ずんだポットで粗挽きコーヒーを煮出すのがお決まりです。フィンランド人がコテージへ持っていく粗挽きは世界中へ発送できます——ポットごと。',
+      body: 'ラップランドの道では、休憩はルートと同じくらい大切。焚き火にかけた黒ずんだポットで粗挽きコーヒーを煮出すのがお決まりです。フィンランド人がコテージへ持っていく粗挽きは世界中へ発送できます。ポットも一緒に。',
     },
     es: {
       eyebrow: 'El otro ritual de la ruta',
@@ -393,12 +538,12 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     'pt-BR': {
       eyebrow: 'O outro ritual da trilha',
       headline: 'Aqui o café é fervido, não coado.',
-      body: 'Nas trilhas da Lapônia a pausa importa tanto quanto o caminho, e ela vem com café de moagem grossa aquecido numa cafeteira enegrecida sobre o fogo. A moagem de panela que os finlandeses levam para o chalé é enviada para o mundo todo — e a cafeteira também.',
+      body: 'Nas trilhas da Lapônia a pausa importa tanto quanto o caminho, e ela vem com café de moagem grossa aquecido numa cafeteira enegrecida sobre o fogo. A moagem de panela que os finlandeses levam para o chalé é enviada para o mundo todo, e a cafeteira também.',
     },
     'zh-CN': {
       eyebrow: '旅途的另一个仪式',
       headline: '在这里，咖啡是煮出来的，不是冲出来的。',
-      body: '在拉普兰的路上，停下来歇脚和赶路一样重要——粗研磨的咖啡，在火上被熏黑的壶里煮开。芬兰人带去小木屋的壶煮咖啡粉可以发往全球，咖啡壶也一样。',
+      body: '在拉普兰的路上，停下来歇脚和赶路一样重要：粗研磨的咖啡，在火上被熏黑的壶里煮开。芬兰人带去小木屋的壶煮咖啡粉可以发往全球，咖啡壶也一样。',
     },
     ko: {
       eyebrow: '여정의 또 다른 의식',
@@ -408,22 +553,22 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     fr: {
       eyebrow: "L'autre rituel du sentier",
       headline: 'Ici, le café se fait bouillir, pas filtrer.',
-      body: "Sur les sentiers de Laponie, la pause compte autant que l'itinéraire — avec un café à mouture grossière chauffé dans une cafetière noircie au feu. La mouture que les Finlandais emportent au chalet s'expédie dans le monde entier, la cafetière aussi.",
+      body: "Sur les sentiers de Laponie, la pause compte autant que l'itinéraire : un café à mouture grossière chauffé dans une cafetière noircie au feu. La mouture que les Finlandais emportent au chalet s'expédie dans le monde entier, la cafetière aussi.",
     },
     it: {
       eyebrow: "L'altro rituale del sentiero",
       headline: 'Qui il caffè si fa bollire, non filtrare.',
-      body: 'Sui sentieri della Lapponia la pausa conta quanto il percorso, e arriva con caffè macinato grosso scaldato in un bricco annerito sul fuoco. La macinatura da bricco che i finlandesi portano al cottage si spedisce in tutto il mondo — e anche il bricco.',
+      body: 'Sui sentieri della Lapponia la pausa conta quanto il percorso, e arriva con caffè macinato grosso scaldato in un bricco annerito sul fuoco. La macinatura da bricco che i finlandesi portano al cottage si spedisce in tutto il mondo, e anche il bricco.',
     },
     nl: {
       eyebrow: 'Het andere ritueel van de tocht',
       headline: 'Hier wordt koffie gekookt, niet gezet.',
-      body: 'Op de paden van Lapland telt de pauze net zo zwaar als de route — met grofgemalen koffie die in een zwartgeblakerde pot boven het vuur heet wordt. De potmaling die Finnen mee naar de hut nemen wordt wereldwijd verzonden, en de pot zelf ook.',
+      body: 'Op de paden van Lapland telt de pauze net zo zwaar als de route, met grofgemalen koffie die in een zwartgeblakerde pot boven het vuur heet wordt. De potmaling die Finnen mee naar de hut nemen wordt wereldwijd verzonden, en de pot zelf ook.',
     },
     sv: {
       eyebrow: 'Turens andra ritual',
       headline: 'Här ute kokas kaffet, det bryggs inte.',
-      body: 'På Lapplands leder betyder pausen lika mycket som rutten — med grovmalet kaffe som hettas upp i en svartnad panna över elden. Kokmalningen som finländare tar med till stugan skickas över hela världen, och pannan med.',
+      body: 'På Lapplands leder betyder pausen lika mycket som rutten, med grovmalet kaffe som hettas upp i en svartnad panna över elden. Kokmalningen som finländare tar med till stugan skickas över hela världen, och pannan med.',
     },
   },
 }
@@ -515,7 +660,7 @@ export default function SuomikauppaPicks({
       <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2">
         <span className="flex items-center gap-2 text-sm text-slate-700">
           <Globe className="h-4 w-4 shrink-0" style={{ color: FIN_BLUE }} aria-hidden="true" />
-          {chrome.worldwide}
+          {c.shipping ?? chrome.worldwide}
         </span>
         <p className="text-[11px] uppercase tracking-[0.12em] text-slate-400">{chrome.soldBy}</p>
       </div>
