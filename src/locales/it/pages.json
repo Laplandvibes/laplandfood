@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "Cos'è questo sito",
       "headline": "La cucina finlandese, spiegata.",
-      "p1": "LaplandFood è la mappa culturale di come mangia la Finlandia, scritta dall'interno. Da dove vengono gli ingredienti. Le ricette che si preparano davvero un martedì. La scena Michelin che la maggior parte dei viaggiatori si perde. Raccolta, tour gastronomici e tradizioni che risalgono a mille anni fa.",
+      "p1": "LaplandFood è la mappa culturale di come mangia la Finlandia, scritta dall'interno. Da dove vengono gli ingredienti. Le ricette che si preparano davvero nelle case finlandesi. La scena Michelin che la maggior parte dei viaggiatori si perde. Raccolta, tour gastronomici e tradizioni che risalgono a mille anni fa.",
       "p2Prefix": "Per prenotare",
       "p2Em": "un tavolo vero",
       "p2Mid": ", vada a",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". Per la scena del dopo,",
       "p2End": "."
     },
-    "pillarsKicker": "I sei pilastri",
+    "pillarsKicker": "Le sei guide",
     "pillarsHeadline": "Inizi da qui.",
     "pillarsLead": "Sei mappe della cultura gastronomica finlandese. Ne scelga una e vada a fondo, ogni pagina rimanda alle altre.",
     "readLabel": "Leggi",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pilastro 01",
+        "eyebrow": "Guida 01",
         "title": "Ingredienti locali",
         "body": "Cosa cresce, nuota e pascola davvero qui, renna, lamponi artici, mirtilli, pesce artico, erbe raccolte. Stagioni, approvvigionamento e perché il gusto è quello che è."
       },
       {
-        "eyebrow": "Pilastro 02",
+        "eyebrow": "Guida 02",
         "title": "Ricette tradizionali",
         "body": "Stufato di renna bidos, pane piatto sami, zuppa di pesce di lago, kissel di bacche selvatiche, le ricette che hanno nutrito il Sápmi attraverso gli inverni artici per migliaia di anni."
       },
       {
-        "eyebrow": "Pilastro 03",
+        "eyebrow": "Guida 03",
         "title": "Lapponia moderna",
         "body": "Come una nuova generazione di chef cucina gli stessi ingredienti con sous-vide, fermentazione e tecnica New Nordic. Dove andare ad assaggiarli."
       },
       {
-        "eyebrow": "Pilastro 04",
+        "eyebrow": "Guida 04",
         "title": "Guida alla raccolta",
         "body": "Mirtillo, mirtillo rosso, lampone artico, funghi, ortica, olmaria, cosa raccogliere quando, come riconoscerlo e come farlo in modo sostenibile sotto il diritto di accesso."
       },
       {
-        "eyebrow": "Pilastro 05",
+        "eyebrow": "Guida 05",
         "title": "Michelin & alta cucina",
         "body": "La scena Michelin finlandese in sintesi, chi è stellato, dove e chi sta spingendo l'alta cucina dentro il Circolo Polare."
       },
       {
-        "eyebrow": "Pilastro 06",
+        "eyebrow": "Guida 06",
         "title": "Tour gastronomici & corsi di cucina",
         "body": "Viaggi gastronomici sami, tour di alta cucina, passeggiate di raccolta, visite ai birrifici, esperienze culinarie prenotabili in tutta la Lapponia."
       }
@@ -164,7 +164,7 @@
     "title": "Ingredienti di Lapponia: renna, bacche, pesce",
     "description": "Sei ingredienti che definiscono la cucina lappone: renna, camemori, pesce di lago, funghi ed erbe selvatiche. Stagioni, provenienza e sapore.",
     "hero": {
-      "eyebrow": "Pilastro 01 · Ingredienti",
+      "eyebrow": "Guida 01 · Ingredienti",
       "title": "Cosa cresce",
       "titleHighlight": "quassù.",
       "subtitle": "Sei ingredienti che definiscono la dispensa lappone: da dove vengono, quando sono al massimo e che sapore hanno davvero.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Ricette che li usano"
     },
     "intro": {
-      "lead": "La dispensa lappone è corta. È la sua forza.",
+      "lead": "La dispensa lappone è piccola. È la sua forza.",
       "points": [
         {
           "n": "01",
-          "title": "Sei ingredienti, una mano",
-          "body": "Renna, pesce di lago, bacche e funghi raccolti, erbe selvatiche, latticini: ecco tutta la dispensa. Non c’è un trentesimo ingrediente nascosto; l’abilità sta in ciò che si è imparato a fare con questi sei."
+          "title": "Sei ingredienti reggono tutta la cucina",
+          "body": "Renna, pesce di lago, bacche selvatiche, funghi, erbe selvatiche e latticini: questa è tutta la dispensa. Non c’è un settimo segreto; l’arte sta in ciò che generazioni hanno imparato a fare con questi sei."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Selvatico significa annate",
+          "title": "Il selvatico ha le sue annate",
           "body": "Gli ingredienti selvatici variano di anno in anno e di luogo in luogo come i coltivati non fanno mai: i camemori di una torbiera sopra Inari hanno un sapore diverso da quelli raccolti 80 chilometri più a sud."
         }
       ]
@@ -474,7 +474,7 @@
     "title": "Cucina sami: ricette tradizionali di Lapponia",
     "description": "Quattro piatti della cucina sami: stufato di renna bidos, pane gahkku, zuppa di pesce di Sápmi e kissel di bacche. Ricette e il calendario delle otto stagioni.",
     "hero": {
-      "eyebrow": "Pilastro 02 · Ricette",
+      "eyebrow": "Guida 02 · Ricette",
       "title": "Ricette",
       "titleHighlight": "sami tradizionali.",
       "subtitle": "Un'immersione profonda nel patrimonio culinario sami. Queste ricette hanno sostentato la gente attraverso gli inverni artici per migliaia di anni, ciascuna porta saggezza, sapore e un legame con la terra.",
@@ -486,8 +486,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Si cucina ancora ogni martedì",
-          "body": "Entrate in una casa sami a Inari o Utsjoki a novembre e sul fuoco c’è il bidos, lo stesso stufato di renna a cottura lenta che faceva la nonna, con gli stessi tagli, allo stesso calore che sussurra appena."
+          "title": "Ancora oggi sul fuoco",
+          "body": "Entra in una festa sami a Inari o Utsjoki e sul fuoco c’è il bidos: lo stesso stufato di renna a cottura lenta che preparava la nonna di famiglia, con gli stessi passaggi e gli stessi tagli."
         },
         {
           "n": "02",
@@ -763,7 +763,7 @@
     "title": "Cucina moderna di Lapponia e New Nordic",
     "description": "Come la Lapponia è passata dal buffet d’albergo ai menu degustazione in dieci anni: cinque tecniche New Nordic e i piatti della nuova cucina artica.",
     "hero": {
-      "eyebrow": "Pilastro 03 · Moderna",
+      "eyebrow": "Guida 03 · Moderna",
       "title": "La nuova",
       "titleHighlight": "cucina artica.",
       "subtitle": "La cucina moderna della Lapponia prende gli ingredienti che i sami usano da mille anni, renna, pesce di lago, bacche ed erbe selvatiche, e li impiatta con tecnica New Nordic. Questa pagina racconta com’è successo e dove assaggiarla.",
@@ -865,7 +865,7 @@
     "title": "Raccolta in Lapponia: bacche e funghi",
     "description": "Il diritto di ognuno permette di raccogliere bacche e funghi quasi ovunque in Finlandia. Calendario mese per mese, funghi sicuri e i due letali da conoscere.",
     "hero": {
-      "eyebrow": "Pilastro 04 · Raccolta",
+      "eyebrow": "Guida 04 · Raccolta",
       "title": "La dispensa",
       "titleHighlight": "selvatica.",
       "subtitle": "Il jokamiehenoikeus finlandese (diritto di accesso) permette a chiunque di raccogliere bacche, funghi ed erbe selvatiche nella maggior parte del paese. Cinque cose da sapere prima di tutto.",
@@ -1044,7 +1044,7 @@
     "title": "Tour gastronomici in Lapponia",
     "description": "Tre esperienze prenotabili in Lapponia: cultura sami con pasto, serate di fine dining artico e raccolta guidata. Piccoli gruppi, si prenota online.",
     "hero": {
-      "eyebrow": "Pilastro 06 · Tour",
+      "eyebrow": "Guida 06 · Tour",
       "title": "Mangi attraversando",
       "titleHighlight": "la Lapponia.",
       "subtitle": "Tre esperienze culinarie prenotabili che vanno oltre un menù degustazione: cultura sami, alta cucina artica e una passeggiata di raccolta guidata che finisce in cena.",
@@ -1121,7 +1121,7 @@
     "title": "Michelin in Finlandia e fine dining in Lapponia",
     "description": "Dove sono davvero le stelle Michelin della Finlandia, e il fine dining lappone: Nili, Aanaar e Rakas. Menu degustazione, prenotazioni e consigli onesti.",
     "hero": {
-      "eyebrow": "Pilastro 05 · Michelin",
+      "eyebrow": "Guida 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& alta cucina.",
       "subtitle": "La scena Michelin finlandese a colpo d'occhio: chi è stellato, dove, chi sta spingendo l'alta cucina dentro il Circolo Polare, e come prenotare davvero un tavolo.",
@@ -1336,7 +1336,7 @@
     },
     "cover": {
       "headline": "Cosa copriamo.",
-      "lead": "Sei pilastri. Ciascuno è una pagina profonda che potrebbe reggersi da sola. Insieme formano la guida sul campo che avremmo voluto trovare quando abbiamo iniziato a scrivere su questa regione.",
+      "lead": "Sei guide. Ciascuna è una pagina profonda che potrebbe reggersi da sola. Insieme formano la guida sul campo che avremmo voluto trovare quando abbiamo iniziato a scrivere su questa regione.",
       "items": [
         {
           "t": "Ingredienti locali",

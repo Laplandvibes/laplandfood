@@ -117,9 +117,14 @@ export default function Home() {
             tyhjänä kompakti house-ad → LV Media -portaali */}
         <MainPartnerBanner config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
 
-        {/* Intro band */}
-        <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-4xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
+        {/* Intro band — soft blue panel so the section reads as its own room
+            instead of floating in bare white (Vesa 2026-08-24: "pitäisikö
+            tälle osiolle olla jokin tausta?"). Same surface family as
+            IntroPoints on the pillar pages. */}
+        <section className="relative overflow-hidden bg-[#F2F7FC] py-16 sm:py-20">
+          <div aria-hidden="true" className="absolute -top-28 -left-24 w-96 h-96 rounded-full bg-[#BFD8F0]/45 blur-3xl" />
+          <div aria-hidden="true" className="absolute -bottom-36 -right-28 w-96 h-96 rounded-full bg-vibe-pink/10 blur-3xl" />
+          <div className="relative max-w-4xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
             <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-4">
               {t('home.intro.kicker')}
             </p>

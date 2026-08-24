@@ -10,7 +10,7 @@
   "newsletter": {
     "kicker": "#LaplandVibes-uutiskirje",
     "headline": "Mitä Lapissa nyt syödään.",
-    "subhead": "Kokeilemisen arvoinen kausiresepti, mutkan päähän vievä ravintola, sienestys- tai marjastusikkuna jota ei kannata missata. Toimituksen poimintoja, kirjoitettu Suomesta.",
+    "subhead": "Kokeilemisen arvoinen kausiresepti, ajomatkan arvoinen ravintola ja sienestys- tai marjastusikkuna, jota ei kannata ohittaa. Toimituksen poimintoja suoraan Suomesta.",
     "emailPlaceholder": "sinä@esimerkki.fi",
     "submit": "Tilaa",
     "sending": "Lähetetään…",
@@ -22,8 +22,8 @@
   },
   "sisters": {
     "kicker": "Kun nälkä yllättää",
-    "headline": "Syö, juo, valvo myöhään.",
-    "subhead": "LaplandFood on kulttuurikartta. Pöytään, jonka oikeasti varaat, olueeseen, jonka oikeasti tilaat, ja paikkoihin, jotka ovat auki keskiyön jälkeen, siirry sisarsivustoille alla.",
+    "headline": "Syö, juo, jatka iltaa.",
+    "subhead": "LaplandFood kertoo, mitä Lappi syö. Pöydän varaus, oikea baari ja keskiyön jälkeinen ilta hoituvat kolmella sisarsivustollamme.",
     "visitLabel": "Käy",
     "items": [
       {
@@ -34,12 +34,12 @@
       {
         "title": "Etsi baari tai panimo",
         "eyebrow": "LaplandBars",
-        "body": "Pienpanimot, lumibaarit, hotellibaarit ja paikalliset pubit, joissa suomalaiset oikeasti käyvät, mitä kaadetaan ja milloin avataan."
+        "body": "Pienpanimot, lumibaarit, hotellibaarit ja paikalliset pubit, joissa suomalaiset oikeasti käyvät: mitä hanasta löytyy ja milloin ovet ovat auki."
       },
       {
         "title": "Lapin yöelämä",
         "eyebrow": "LaplandNightlife",
-        "body": "DJ:t, myöhäiset keittiöt, livemusiikkivenuet, kaamosbileiden kalenteri, mitä tehdä, kun keittiö on jo sulkenut."
+        "body": "DJ:t, myöhään auki olevat keittiöt, keikkapaikat ja kaamosbileiden kalenteri: mitä tehdä, kun ravintolat ovat jo kiinni."
       }
     ]
   },
@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "Mikä tämä sivusto on",
       "headline": "Suomalainen ruoka, selitettynä.",
-      "p1": "LaplandFood on kulttuurikartta siitä, miten Suomi syö, kirjoitettu sisältäpäin. Mistä raaka-aineet tulevat. Reseptit, joita oikeasti tehdään tiistaina. Michelin-skene, jonka useimmat matkailijat ohittavat. Keräily, ruokaretket ja ruokaperinteet, jotka ulottuvat tuhansien vuosien taa.",
+      "p1": "LaplandFood on kulttuurikartta siitä, miten Suomi syö, kirjoitettu sisältäpäin. Mistä raaka-aineet tulevat. Reseptit, joita suomalaiskodeissa oikeasti tehdään. Michelin-skene, jonka useimmat matkailijat ohittavat. Keräily, ruokaretket ja ruokaperinteet, jotka ulottuvat tuhansien vuosien taa.",
       "p2Prefix": "Jos tahdot",
       "p2Em": "varata pöydän",
       "p2Mid": ", siirry osoitteeseen",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". Yöelämää sivulta",
       "p2End": "."
     },
-    "pillarsKicker": "Kuusi pilaria",
+    "pillarsKicker": "Kuusi opasta",
     "pillarsHeadline": "Aloita tästä.",
     "pillarsLead": "Kuusi karttaa suomalaiseen ruokakulttuuriin. Valitse yksi ja avaa aihe perusteellisesti, jokainen sivu linkittyy muihin.",
     "readLabel": "Lue",
@@ -69,39 +69,39 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pilari 01",
+        "eyebrow": "Opas 01",
         "title": "Paikalliset raaka-aineet",
         "body": "Mitä täällä oikeasti kasvaa, ui ja vaeltaa, poro, hilla, mustikka, arktinen kala, keräillyt yrtit. Sesongit, alkuperät ja syyt makuun."
       },
       {
-        "eyebrow": "Pilari 02",
+        "eyebrow": "Opas 02",
         "title": "Perinnereseptit",
         "body": "Bidos-poromuhennos, saamelainen leipä, kalakeitto, marjakiisseli, reseptit, jotka ravitsivat Sápmin arktiset talvet tuhansien vuosien ajan."
       },
       {
-        "eyebrow": "Pilari 03",
+        "eyebrow": "Opas 03",
         "title": "Moderni Lappi",
         "body": "Miten uusi sukupolvi kokkeja kokkaa samat raaka-aineet sous vide -tekniikalla, fermentoinnilla ja New Nordic -otteella. Missä maistat sen."
       },
       {
-        "eyebrow": "Pilari 04",
+        "eyebrow": "Opas 04",
         "title": "Keräilyopas",
         "body": "Mustikka, puolukka, hilla, sienet, nokkonen, mesiangervo: milloin poimit, miten tunnistat ja miten teet sen kestävästi jokamiehenoikeudella."
       },
       {
-        "eyebrow": "Pilari 05",
+        "eyebrow": "Opas 05",
         "title": "Michelin ja fine dining",
         "body": "Suomen Michelin-skene yhdellä silmäyksellä, mikä on tähditetty, missä ja mikä työntää fine diningia napapiirin pohjoispuolelle."
       },
       {
-        "eyebrow": "Pilari 06",
+        "eyebrow": "Opas 06",
         "title": "Ruokaretket ja kokkikoulut",
         "body": "Saamelaisia ruokamatkoja, fine dining -kierroksia, keräilyretkiä, panimokäyntejä, varattavissa olevia ruokakokemuksia ympäri Lappia."
       }
     ],
     "cultureKicker": "Miksi se maistuu juuri tältä",
     "cultureHeadline": "Neljä asiaa, jotka tekevät suomalaisesta ruoasta suomalaista.",
-    "cultureLead": "Kun trendit riisutaan pois, suurin osa suomalaisesta ruoasta lepää näiden neljän peruspilarin varassa. Ne selittävät kaikkea, siitä miksi hotelliaamiaisellasi on näkkileipää siihen, miksi fine dining -menun aloittaa katajalla suolattu kala.",
+    "cultureLead": "Kun trendit riisutaan pois, suurin osa suomalaisesta ruoasta lepää näiden neljän perusasian varassa. Ne selittävät kaiken, siitä miksi hotelliaamiaisellasi on näkkileipää siihen, miksi fine dining -menun aloittaa katajalla suolattu kala.",
     "culture": [
       {
         "n": "01",
@@ -127,13 +127,13 @@
     "summer": {
       "kicker": "6.6.–7.7. · 32 päivää keskiyön aurinkoa",
       "headline": "Keskiyön auringon ruokaikkuna.",
-      "lead": "Hilla kypsyy, järvikala on huipussaan, yrttipenkit räjähtävät kukkaan eikä aurinko laske. Neljäksi viikoksi Lapin keittiöt vaihtavat raskaan talven kevyimpään ja kirkkaimpaan tuoresatoonsa. Jos tulet vain kerran, tule nyt.",
+      "lead": "Hilla kypsyy, järvikala on parhaimmillaan, yrttipenkit räjähtävät kukkaan eikä aurinko laske. Neljäksi viikoksi Lapin keittiöt vaihtavat raskaan talven kevyimpään ja kirkkaimpaan tuoresatoonsa. Jos tulet vain kerran, tule nyt.",
       "cta": "Mitä on sesongissa →"
     },
     "faq": {
       "eyebrow": "Hyvä tietää",
       "headline": "Kysytyimmät kysymykset.",
-      "lead": "Lyhyet vastaukset: jokaisesta linkki syvemmälle vievälle pilarisivulle.",
+      "lead": "Lyhyet vastaukset: jokaisesta linkki syvemmälle vievään oppaaseen.",
       "stillPrefix": "Jäikö jokin mietityttämään? Kirjoita meille: ",
       "stillSuffix": ". Vastaamme.",
       "items": [
@@ -164,20 +164,20 @@
     "title": "Lapin raaka-aineet: poro, marjat ja kala",
     "description": "Kuusi raaka-ainetta jotka määrittävät Lapin keittiön: poro, hilla, järvikala, villisienet ja -yrtit. Sesongit, alkuperä ja se miltä ne maistuvat.",
     "hero": {
-      "eyebrow": "Pilari 01 · Raaka-aineet",
+      "eyebrow": "Opas 01 · Raaka-aineet",
       "title": "Mitä täällä",
       "titleHighlight": "kasvaa.",
-      "subtitle": "Kuusi raaka-ainetta, jotka määrittävät Lapin ruokavaraston: mistä ne tulevat, milloin ne ovat huipussaan ja miltä ne oikeasti maistuvat.",
+      "subtitle": "Kuusi raaka-ainetta, jotka määrittävät Lapin ruokavaraston: mistä ne tulevat, milloin ne ovat parhaimmillaan ja miltä ne oikeasti maistuvat.",
       "primaryCta": "Keräilyopas",
       "secondaryCta": "Reseptit, joissa näitä käytetään"
     },
     "intro": {
-      "lead": "Lapin ruokavarasto on lyhyt. Siinä on sen voima.",
+      "lead": "Lapin ruokavarasto on suppea. Se on sen vahvuus.",
       "points": [
         {
           "n": "01",
-          "title": "Kuusi raaka-ainetta, yksi käsi",
-          "body": "Poro, järvikala, metsämarjat, sienet, villiyrtit ja maitotuotteet: siinä koko ruokavarasto. Piilotettua 30. raaka-ainetta ei ole; taito on siinä, mitä näillä kuudella on opittu tekemään."
+          "title": "Kuusi raaka-ainetta kantaa koko keittiön",
+          "body": "Poro, järvikala, metsämarjat, villisienet, villiyrtit ja maitotuotteet: siinä koko ruokavarasto. Salaista seitsemättä ei ole; taito on siinä, mitä näistä kuudesta on sukupolvien mittaan opittu tekemään."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Villi tarkoittaa vuosikertoja",
+          "title": "Villillä ruoalla on vuosikerrat",
           "body": "Villit raaka-aineet vaihtelevat vuodesta ja paikasta toiseen tavalla, jota viljellyt eivät tunne: Inarin suon hillat maistuvat erilaisilta kuin 80 kilometriä etelämpää poimitut."
         }
       ]
@@ -475,7 +475,7 @@
     "title": "Saamelainen ruoka ja Lapin perinnereseptit",
     "description": "Neljä saamelaiskeittiön perusruokaa: bidos-poromuhennos, gahkku-leipä, Sápmin kalakeitto ja marjakiisseli. Reseptit ja kahdeksan vuodenajan kalenteri.",
     "hero": {
-      "eyebrow": "Pilari 02 · Reseptit",
+      "eyebrow": "Opas 02 · Reseptit",
       "title": "Saamelaiset",
       "titleHighlight": "perinnereseptit.",
       "subtitle": "Saamelainen ruokakulttuuri pohjautuu siihen mitä metsä, järvi ja tunturi antavat. Nämä reseptit ovat pitäneet ihmiset elossa arktisten talvien läpi.",
@@ -487,8 +487,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Kokataan yhä tiistaisin",
-          "body": "Astu saamelaiskotiin Inarissa tai Utsjoella marraskuussa, ja liedellä on bidos, sama hitaasti haudutettu poropata, jonka perheen mummo teki, samoilla paloilla ja samalla hiljaa hymisevällä lämmöllä."
+          "title": "Padassa tänäkin päivänä",
+          "body": "Astu saamelaisjuhlaan Inarissa tai Utsjoella, ja liedellä on bidos: sama hitaasti haudutettu poropata, jonka perheen isoäiti teki, samoissa vaiheissa ja samoista paloista."
         },
         {
           "n": "02",
@@ -764,7 +764,7 @@
     "title": "Lapin moderni keittiö ja New Nordic",
     "description": "Miten Lappi siirtyi hotelliruokaloista kokkivetoisiin tasting-saleihin: viisi New Nordic -tekniikkaa ja uuden arktisen keittiön lautastyylit.",
     "hero": {
-      "eyebrow": "Pilari 03 · Moderni",
+      "eyebrow": "Opas 03 · Moderni",
       "title": "Uusi",
       "titleHighlight": "arktinen keittiö.",
       "subtitle": "Lapin moderni keittiö ottaa raaka-aineet, joita saamelaiset ovat käyttäneet tuhat vuotta, poron, järvikalan, metsämarjat ja villiyrtit, ja kattaa ne lautaselle New Nordic -tekniikalla. Tämä sivu kertoo, miten se tapahtui ja missä sen voi maistaa.",
@@ -866,7 +866,7 @@
     "title": "Lapin keräilyopas: marjat ja sienet",
     "description": "Jokamiehenoikeudella marjaan ja sieneen lähes missä vain: kuukausikalenteri, neljä varmaa aloittelijan sientä ja kaksi tappavan myrkyllistä jotka pitää tuntea.",
     "hero": {
-      "eyebrow": "Pilari 04 · Keräily",
+      "eyebrow": "Opas 04 · Keräily",
       "title": "Villi",
       "titleHighlight": "ruokavarasto.",
       "subtitle": "Suomen jokamiehenoikeus antaa jokaiselle oikeuden kerätä marjoja, sieniä ja villiyrttejä lähes koko maassa. Tässä viisi asiaa, jotka kannattaa tietää ensin.",
@@ -983,7 +983,7 @@
         },
         {
           "month": "Kesäkuu",
-          "body": "Villiyrtit huipussaan, mesiangervo, siankärsämö, väinönputki, suolaheinä. Ensimmäiset tuoreet vihreät seitsemän kuukauden jälkeen. Osa varhaisista yrteistä kuivataan talven teehen."
+          "body": "Villiyrtit parhaimmillaan, mesiangervo, siankärsämö, väinönputki, suolaheinä. Ensimmäiset tuoreet vihreät seitsemän kuukauden jälkeen. Osa varhaisista yrteistä kuivataan talven teehen."
         },
         {
           "month": "Heinäkuu (alku)",
@@ -995,11 +995,11 @@
         },
         {
           "month": "Elokuu",
-          "body": "Mustikka huipussaan. Ensimmäiset puolukat (vielä happamia). Ensimmäiset sienet, kantarelli yleensä ensin, herkkutatti toisena. Pitkät valoisat illat tekevät tästä parhaan kuukauden keräily-ja-kokkaus -toimintaan."
+          "body": "Mustikka parhaimmillaan. Ensimmäiset puolukat (vielä happamia). Ensimmäiset sienet, kantarelli yleensä ensin, herkkutatti toisena. Pitkät valoisat illat tekevät tästä parhaan kuukauden keräily-ja-kokkaus -toimintaan."
         },
         {
           "month": "Syyskuu",
-          "body": "Puolukka makeutuu ensimmäisen pakkasen jälkeen. Sienikausi huipussaan, herkkutatti, rouskut, kantarelli, tatit. Päivät lyhenevät nopeasti; poimijat liikkeellä auringon­noususta."
+          "body": "Puolukka makeutuu ensimmäisen pakkasen jälkeen. Sienikausi parhaimmillaan, herkkutatti, rouskut, kantarelli, tatit. Päivät lyhenevät nopeasti; poimijat liikkeellä auringon­noususta."
         },
         {
           "month": "Lokakuu",
@@ -1045,7 +1045,7 @@
     "title": "Lapin ruokaretket ja kokkikoulut",
     "description": "Kolme varattavaa ruokaelämystä Lapissa: saamelaiskulttuuria aterialla, arktisia fine dining -iltoja ja opastettuja keräilyretkiä. Pienryhmät, varaus verkossa.",
     "hero": {
-      "eyebrow": "Pilari 06 · Retket",
+      "eyebrow": "Opas 06 · Retket",
       "title": "Syö tiesi",
       "titleHighlight": "Lappiin.",
       "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät tasting menua syvemmälle: saamelainen ruokakulttuuri, arktinen fine dining ja opastettu keräilyretki, joka päättyy päivälliseen.",
@@ -1122,7 +1122,7 @@
     "title": "Michelin Suomessa ja Lapin fine dining",
     "description": "Missä Suomen Michelin-tähdet oikeasti ovat, ja Lapin fine diningin kärki: Nili, Aanaar ja Rakas. Tasting-menun kulku, varausajat ja rehellinen neuvo.",
     "hero": {
-      "eyebrow": "Pilari 05 · Michelin",
+      "eyebrow": "Opas 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "ja fine dining.",
       "subtitle": "Suomen Michelin-skene yhdellä silmäyksellä: mikä on tähditetty ja missä, mikä vie fine diningia eteenpäin napapiirin pohjoispuolella ja miten pöytä oikeasti varataan.",
@@ -1337,11 +1337,11 @@
     },
     "cover": {
       "headline": "Mitä käsittelemme.",
-      "lead": "Kuusi pilaria. Jokainen on syvä sivu, joka voisi seistä yksin. Yhdessä ne muodostavat kenttä­oppaan, jonka olisimme halunneet tämän alueen kirjoittamisen alussa.",
+      "lead": "Kuusi opasta. Jokainen on syvä sivu, joka toimisi yksinäänkin. Yhdessä ne muodostavat kenttä­oppaan, jonka olisimme halunneet tämän alueen kirjoittamisen alussa.",
       "items": [
         {
           "t": "Paikalliset raaka-aineet",
-          "body": "Mitä täällä kasvaa, ui ja vaeltaa. Poro, hilla, mustikka, arktinen kala, keräillyt yrtit. Mistä tulevat, milloin huipussaan.",
+          "body": "Mitä täällä kasvaa, ui ja vaeltaa. Poro, hilla, mustikka, arktinen kala, keräillyt yrtit. Mistä tulevat, milloin parhaimmillaan.",
           "href": "/local-ingredients"
         },
         {

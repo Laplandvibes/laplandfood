@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "Qué es este sitio",
       "headline": "La comida finlandesa, explicada.",
-      "p1": "LaplandFood es el mapa cultural de cómo come Finlandia, escrito desde dentro. De dónde vienen los ingredientes. Las recetas que de verdad se cocinan un martes cualquiera. La escena Michelin que la mayoría de los viajeros se pierde. Recolección, tours gastronómicos y las tradiciones culinarias que se remontan mil años.",
+      "p1": "LaplandFood es el mapa cultural de cómo come Finlandia, escrito desde dentro. De dónde vienen los ingredientes. Las recetas que de verdad se cocinan en las casas finlandesas. La escena Michelin que la mayoría de los viajeros se pierde. Recolección, tours gastronómicos y las tradiciones culinarias que se remontan mil años.",
       "p2Prefix": "Para saber dónde",
       "p2Em": "reservar mesa",
       "p2Mid": " de verdad, ve a",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". Para la escena de después de cenar,",
       "p2End": "."
     },
-    "pillarsKicker": "Los seis pilares",
+    "pillarsKicker": "Las seis guías",
     "pillarsHeadline": "Empieza por aquí.",
     "pillarsLead": "Seis mapas de la cultura gastronómica finlandesa. Elige uno y profundiza, cada página enlaza con las demás.",
     "readLabel": "Leer",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pilar 01",
+        "eyebrow": "Guía 01",
         "title": "Ingredientes locales",
         "body": "Lo que de verdad crece, nada y pasta aquí, reno, moras árticas, arándanos, pescado de aguas árticas, hierbas silvestres. Estaciones, procedencia y por qué el sabor es como es."
       },
       {
-        "eyebrow": "Pilar 02",
+        "eyebrow": "Guía 02",
         "title": "Recetas tradicionales",
         "body": "Estofado de reno bidos, pan plano sami, sopa de pescado de lago, kissel de bayas silvestres, las recetas que alimentaron a Sápmi durante los inviernos árticos a lo largo de miles de años."
       },
       {
-        "eyebrow": "Pilar 03",
+        "eyebrow": "Guía 03",
         "title": "Laponia moderna",
         "body": "Cómo una nueva generación de chefs cocina los mismos ingredientes con técnicas de sous-vide, fermentación y la cocina nórdica nueva. Dónde probarlo."
       },
       {
-        "eyebrow": "Pilar 04",
+        "eyebrow": "Guía 04",
         "title": "Guía de recolección",
         "body": "Arándano, arándano rojo, mora ártica, setas, ortiga, ulmaria, qué recoger en cada momento, cómo identificarlo y cómo hacerlo de forma sostenible amparándote en el derecho de acceso a la naturaleza."
       },
       {
-        "eyebrow": "Pilar 05",
+        "eyebrow": "Guía 05",
         "title": "Michelin y alta cocina",
         "body": "La escena Michelin de Finlandia de un vistazo: qué tiene estrella, dónde, y qué está empujando la alta cocina dentro del Círculo Polar Ártico."
       },
       {
-        "eyebrow": "Pilar 06",
+        "eyebrow": "Guía 06",
         "title": "Tours gastronómicos y clases de cocina",
         "body": "Viajes culinarios samis, tours de alta cocina, paseos de recolección, visitas a cervecerías, experiencias gastronómicas reservables por toda Laponia."
       }
@@ -164,7 +164,7 @@
     "title": "Ingredientes de Laponia: reno, bayas, pescado",
     "description": "Seis ingredientes que definen la cocina lapona: reno, moras árticas, pescado de lago, setas y hierbas silvestres. Temporadas, origen y sabor.",
     "hero": {
-      "eyebrow": "Pilar 01 · Ingredientes",
+      "eyebrow": "Guía 01 · Ingredientes",
       "title": "Lo que crece",
       "titleHighlight": "aquí arriba.",
       "subtitle": "Seis ingredientes que definen la despensa de Laponia: de dónde vienen, cuándo están en su punto y a qué saben de verdad.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Recetas que los usan"
     },
     "intro": {
-      "lead": "La despensa de Laponia es corta. Esa es su fuerza.",
+      "lead": "La despensa de Laponia es pequeña. Esa es su fuerza.",
       "points": [
         {
           "n": "01",
-          "title": "Seis ingredientes, una mano",
-          "body": "Reno, pescado de lago, bayas y setas silvestres, hierbas y lácteos: esa es toda la despensa. No hay un ingrediente número 30 escondido; la destreza está en lo que se aprendió a hacer con estos seis."
+          "title": "Seis ingredientes sostienen toda la cocina",
+          "body": "Reno, pescado de lago, bayas silvestres, setas, hierbas silvestres y lácteos: esa es toda la despensa. No hay un séptimo secreto; el arte está en lo que generaciones han aprendido a hacer con estos seis."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Silvestre significa añadas",
+          "title": "Lo silvestre tiene añadas",
           "body": "Los ingredientes silvestres varían según el año y el lugar como nunca lo hacen los cultivados: las moras de los pantanos de Inari saben distinto de las recogidas 80 kilómetros al sur."
         }
       ]
@@ -474,7 +474,7 @@
     "title": "Comida sami: recetas tradicionales de Laponia",
     "description": "Cuatro platos de la cocina sami: estofado de reno bidos, pan gahkku, sopa de pescado de Sápmi y kissel de bayas. Recetas y el calendario de ocho estaciones.",
     "hero": {
-      "eyebrow": "Pilar 02 · Recetas",
+      "eyebrow": "Guía 02 · Recetas",
       "title": "Recetas",
       "titleHighlight": "tradicionales samis.",
       "subtitle": "Una inmersión en la herencia gastronómica sami. Estas recetas han sustentado a la gente a través de los inviernos árticos durante miles de años, cada una carga sabiduría, sabor y una conexión con la tierra.",
@@ -486,8 +486,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Se sigue cocinando cada martes",
-          "body": "Entra en un hogar sami de Inari o Utsjoki en noviembre y habrá bidos en el fuego: el mismo guiso de reno a fuego lento que hacía la abuela, con los mismos cortes y el mismo calor apenas susurrante."
+          "title": "Sigue en el fuego hoy",
+          "body": "Entra en una celebración sami en Inari o Utsjoki y en el fuego hay bidos: el mismo estofado de reno a fuego lento que hacía la abuela de la familia, con los mismos pasos y los mismos cortes."
         },
         {
           "n": "02",
@@ -763,7 +763,7 @@
     "title": "Cocina moderna de Laponia y New Nordic",
     "description": "Cómo Laponia pasó del bufé de hotel a los menús degustación en una década: cinco técnicas New Nordic y los estilos de plato de la nueva cocina ártica.",
     "hero": {
-      "eyebrow": "Pilar 03 · Moderno",
+      "eyebrow": "Guía 03 · Moderno",
       "title": "La nueva",
       "titleHighlight": "cocina ártica.",
       "subtitle": "La cocina moderna de Laponia toma los ingredientes que los sami llevan mil años usando, reno, pescado de lago, bayas y hierbas silvestres, y los emplata con técnica New Nordic. Esta página cuenta cómo ocurrió y dónde probarlo.",
@@ -865,7 +865,7 @@
     "title": "Recolección en Laponia: bayas y setas",
     "description": "El derecho de todos permite recoger bayas y setas casi en cualquier lugar de Finlandia. Calendario mensual, setas seguras y las dos mortales que conocer.",
     "hero": {
-      "eyebrow": "Pilar 04 · Recolección",
+      "eyebrow": "Guía 04 · Recolección",
       "title": "La despensa",
       "titleHighlight": "silvestre.",
       "subtitle": "El jokamiehenoikeus finlandés (derecho de acceso a la naturaleza) permite a cualquiera recolectar bayas, setas y hierbas silvestres en la mayor parte del país. Estas son las cinco cosas que conviene saber primero.",
@@ -1044,7 +1044,7 @@
     "title": "Tours gastronómicos en Laponia",
     "description": "Tres experiencias reservables en Laponia: cultura sami con comida, veladas de alta cocina ártica y paseos de recolección guiados. Grupos pequeños.",
     "hero": {
-      "eyebrow": "Pilar 06 · Tours",
+      "eyebrow": "Guía 06 · Tours",
       "title": "Cómete",
       "titleHighlight": "Laponia.",
       "subtitle": "Tres experiencias gastronómicas reservables que van más allá de un menú degustación: cultura sami, alta cocina ártica y un paseo de recolección guiado que termina en cena.",
@@ -1121,7 +1121,7 @@
     "title": "Michelin en Finlandia y alta cocina en Laponia",
     "description": "Dónde están realmente las estrellas Michelin de Finlandia, y la alta cocina de Laponia: Nili, Aanaar y Rakas. Menú degustación, reservas y consejo honesto.",
     "hero": {
-      "eyebrow": "Pilar 05 · Michelin",
+      "eyebrow": "Guía 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "y alta cocina.",
       "subtitle": "La escena Michelin de Finlandia de un vistazo: qué tiene estrella, dónde, qué está empujando la alta cocina dentro del Círculo Polar Ártico y cómo reservar mesa de verdad.",
@@ -1336,7 +1336,7 @@
     },
     "cover": {
       "headline": "Qué cubrimos.",
-      "lead": "Seis pilares. Cada uno es una página a fondo que podría sostenerse sola. Juntos forman la guía de campo que nos habría gustado que existiera cuando empezamos a escribir sobre esta región.",
+      "lead": "Seis guías. Cada una es una página a fondo que podría sostenerse sola. Juntos forman la guía de campo que nos habría gustado que existiera cuando empezamos a escribir sobre esta región.",
       "items": [
         {
           "t": "Ingredientes locales",

@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "What this site is",
       "headline": "Finnish food, explained.",
-      "p1": "LaplandFood is the cultural map of how Finland eats, written from the inside. Where the ingredients come from. The recipes that actually get made on a Tuesday. The Michelin scene most travellers miss. Foraging, food tours, and the food traditions that go back a thousand years.",
+      "p1": "LaplandFood is the cultural map of how Finland eats, written from the inside. Where the ingredients come from. The recipes Finns actually cook at home. The Michelin scene most travellers miss. Foraging, food tours, and the food traditions that go back a thousand years.",
       "p2Prefix": "For where to actually",
       "p2Em": "book a table",
       "p2Mid": ", head to",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". For the after-hours scene,",
       "p2End": "."
     },
-    "pillarsKicker": "The Six Pillars",
+    "pillarsKicker": "The six guides",
     "pillarsHeadline": "Start here.",
     "pillarsLead": "Six maps of Finnish food culture. Pick one and go deep, every page links to the others.",
     "readLabel": "Read",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pillar 01",
+        "eyebrow": "Guide 01",
         "title": "Local Ingredients",
         "body": "What actually grows, swims, and grazes here, reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Seasons, sourcing, and why the flavour is what it is."
       },
       {
-        "eyebrow": "Pillar 02",
+        "eyebrow": "Guide 02",
         "title": "Traditional Recipes",
         "body": "Bidos reindeer stew, Sami flatbread, lake-fish soup, wild-berry kissel, the recipes that fed Sápmi through Arctic winters for thousands of years."
       },
       {
-        "eyebrow": "Pillar 03",
+        "eyebrow": "Guide 03",
         "title": "Modern Lapland",
         "body": "How a new generation of chefs cooks the same ingredients with sous-vide, fermentation, and New Nordic technique. Where to taste it."
       },
       {
-        "eyebrow": "Pillar 04",
+        "eyebrow": "Guide 04",
         "title": "Foraging Guide",
         "body": "Bilberry, lingonberry, cloudberry, mushrooms, nettle, meadowsweet, what to pick when, how to identify it, and how to do it sustainably under everyman's right."
       },
       {
-        "eyebrow": "Pillar 05",
+        "eyebrow": "Guide 05",
         "title": "Michelin & Fine Dining",
         "body": "Finland's Michelin scene at a glance, what's starred, where, and what's pushing fine dining inside the Arctic Circle."
       },
       {
-        "eyebrow": "Pillar 06",
+        "eyebrow": "Guide 06",
         "title": "Food Tours & Cooking Classes",
         "body": "Sami food journeys, fine-dining tours, foraging walks, brewery visits, bookable food experiences across Lapland."
       }
@@ -133,7 +133,7 @@
     "faq": {
       "eyebrow": "Good to know",
       "headline": "The questions everyone asks first.",
-      "lead": "Quick answers, each linking to the pillar page that goes deeper.",
+      "lead": "Quick answers, each linking to the guide that goes deeper.",
       "stillPrefix": "Still wondering about something? Write to ",
       "stillSuffix": ". We answer.",
       "items": [
@@ -164,7 +164,7 @@
     "title": "Lapland Ingredients: Reindeer, Berries, Fish",
     "description": "Six ingredients that define Lapland’s kitchen: reindeer, cloudberries, lake fish, wild mushrooms and herbs. Seasons, sourcing and how each one tastes.",
     "hero": {
-      "eyebrow": "Pillar 01 · Ingredients",
+      "eyebrow": "Guide 01 · Ingredients",
       "title": "What grows",
       "titleHighlight": "up here.",
       "subtitle": "Six ingredients that define Lapland's pantry: where they come from, when they peak, and what they actually taste like.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Recipes that use these"
     },
     "intro": {
-      "lead": "The Lapland pantry is short. That is its strength.",
+      "lead": "The Lapland pantry is small. That is its strength.",
       "points": [
         {
           "n": "01",
-          "title": "Six ingredients, one hand",
-          "body": "Reindeer, lake fish, foraged berries, foraged mushrooms, wild herbs, dairy: that is the whole pantry. There is no hidden 30th ingredient; the skill is in what people learned to do with these six."
+          "title": "Six ingredients carry the whole kitchen",
+          "body": "Reindeer, lake fish, foraged berries, wild mushrooms, wild herbs, dairy: that is the whole pantry. There is no secret seventh; the skill is in what generations have learned to do with these six."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Wild means vintages",
+          "title": "Wild food has vintages",
           "body": "Wild ingredients vary by year and by place in a way cultivated ones never do: cloudberries from a bog above Inari taste different from ones picked 80 kilometres south."
         }
       ]
@@ -474,7 +474,7 @@
     "title": "Sámi Food & Traditional Lapland Recipes",
     "description": "Four dishes from the Sámi kitchen: bidos reindeer stew, gahkku flatbread, Sápmi fish soup and wild-berry kissel. Full recipes and the eight-season calendar.",
     "hero": {
-      "eyebrow": "Pillar 02 · Recipes",
+      "eyebrow": "Guide 02 · Recipes",
       "title": "Traditional",
       "titleHighlight": "Sami Recipes.",
       "subtitle": "A deep dive into Sami food heritage. These recipes have sustained people through Arctic winters for thousands of years, each one carrying wisdom, flavour, and a connection to the land.",
@@ -486,8 +486,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Cooked every Tuesday",
-          "body": "Walk into a Sami home in Inari or Utsjoki in November and bidos is on the stove, the same slow-braised reindeer stew the family grandmother made, with the same cuts, at the same barely-whispering heat."
+          "title": "Still on the stove today",
+          "body": "Step into a Sámi celebration in Inari or Utsjoki and the pot on the stove is bidos: the same slow-simmered reindeer stew the family’s grandmother made, in the same stages, with the same cuts."
         },
         {
           "n": "02",
@@ -763,7 +763,7 @@
     "title": "Modern Lapland Cuisine & New Nordic Cooking",
     "description": "How Lapland went from hotel buffets to chef-led tasting menus in a decade: five New Nordic techniques and plate styles that define the new Arctic kitchen.",
     "hero": {
-      "eyebrow": "Pillar 03 · Modern",
+      "eyebrow": "Guide 03 · Modern",
       "title": "The new",
       "titleHighlight": "Arctic kitchen.",
       "subtitle": "Modern Lapland cooking takes the ingredients the Sami have used for a thousand years, reindeer, lake fish, wild berries and herbs, and plates them with New Nordic technique. This page tells the story of how that happened, and where to taste it.",
@@ -865,7 +865,7 @@
     "title": "Lapland Foraging Guide: Berries & Mushrooms",
     "description": "Finland’s everyman’s right lets you pick berries and mushrooms nearly anywhere. Month-by-month calendar, safe beginner mushrooms and the deadly two to know.",
     "hero": {
-      "eyebrow": "Pillar 04 · Foraging",
+      "eyebrow": "Guide 04 · Foraging",
       "title": "The wild",
       "titleHighlight": "larder.",
       "subtitle": "Finland's jokamiehenoikeus (everyman's right) lets anyone forage berries, mushrooms, and wild herbs across most of the country. Here are the five things to know first.",
@@ -1044,7 +1044,7 @@
     "title": "Lapland Food Tours & Cooking Experiences",
     "description": "Three bookable food experiences in Lapland: Sámi culture with a meal, Arctic fine-dining evenings and guided foraging walks. Small groups, booked online.",
     "hero": {
-      "eyebrow": "Pillar 06 · Tours",
+      "eyebrow": "Guide 06 · Tours",
       "title": "Eat your way",
       "titleHighlight": "around Lapland.",
       "subtitle": "Three bookable food experiences that go deeper than a tasting menu: Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner.",
@@ -1121,7 +1121,7 @@
     "title": "Michelin in Finland & Lapland Fine Dining",
     "description": "Where Finland’s Michelin stars actually are, and Lapland’s fine-dining flagships Nili, Aanaar and Rakas. Tasting-menu flow, booking lead times, honest advice.",
     "hero": {
-      "eyebrow": "Pillar 05 · Michelin",
+      "eyebrow": "Guide 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& fine dining.",
       "subtitle": "Finland's Michelin scene at a glance: what is starred and where, what is pushing fine dining inside the Arctic Circle, and how to actually book a table.",
@@ -1336,7 +1336,7 @@
     },
     "cover": {
       "headline": "What we cover.",
-      "lead": "Six pillars. Each is a deep page that could stand alone. Together they form the field guide we wish had existed when we started writing about this region.",
+      "lead": "Six guides. Each is a deep page that could stand alone. Together they form the field guide we wish had existed when we started writing about this region.",
       "items": [
         {
           "t": "Local Ingredients",

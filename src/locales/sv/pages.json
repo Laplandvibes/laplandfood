@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "Vad den här sajten är",
       "headline": "Finsk mat, förklarad.",
-      "p1": "LaplandFood är den kulturella kartan över hur Finland äter, skriven inifrån. Var råvarorna kommer ifrån. Recepten som faktiskt lagas en tisdag. Michelin-scenen som de flesta resenärer missar. Plockning, matturer och mattraditionerna som går tusen år tillbaka.",
+      "p1": "LaplandFood är den kulturella kartan över hur Finland äter, skriven inifrån. Var råvarorna kommer ifrån. Recepten som faktiskt lagas i finska hem. Michelin-scenen som de flesta resenärer missar. Plockning, matturer och mattraditionerna som går tusen år tillbaka.",
       "p2Prefix": "För var du faktiskt kan",
       "p2Em": "boka ett bord",
       "p2Mid": ", gå till",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". För nattlivet efteråt,",
       "p2End": "."
     },
-    "pillarsKicker": "De sex pelarna",
+    "pillarsKicker": "De sex guiderna",
     "pillarsHeadline": "Börja här.",
     "pillarsLead": "Sex kartor över finsk matkultur. Välj en och gå på djupet, varje sida länkar till de andra.",
     "readLabel": "Läs",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pelare 01",
+        "eyebrow": "Guide 01",
         "title": "Lokala råvaror",
         "body": "Vad som faktiskt växer, simmar och betar här: ren, hjortron, blåbär, arktisk fisk, plockade örter. Säsonger, ursprung och varför smaken är som den är."
       },
       {
-        "eyebrow": "Pelare 02",
+        "eyebrow": "Guide 02",
         "title": "Traditionella recept",
         "body": "Bidos-rengryta, samiskt tunnbröd, insjöfisksoppa, kräm på vilda bär, recepten som mättade Sápmi genom arktiska vintrar i tusentals år."
       },
       {
-        "eyebrow": "Pelare 03",
+        "eyebrow": "Guide 03",
         "title": "Moderna Lappland",
         "body": "Hur en ny generation kockar lagar samma råvaror med sous vide, fermentering och nynordisk teknik. Var du kan smaka på det."
       },
       {
-        "eyebrow": "Pelare 04",
+        "eyebrow": "Guide 04",
         "title": "Plockningsguide",
         "body": "Blåbär, lingon, hjortron, svamp, nässla, älggräs, vad du plockar när, hur du känner igen det och hur du gör det hållbart under allemansrätten."
       },
       {
-        "eyebrow": "Pelare 05",
+        "eyebrow": "Guide 05",
         "title": "Michelin och fine dining",
         "body": "Finlands Michelin-scen i korthet: vad som har stjärnor, var, och vad som driver fine dining norr om polcirkeln."
       },
       {
-        "eyebrow": "Pelare 06",
+        "eyebrow": "Guide 06",
         "title": "Matturer och matlagningskurser",
         "body": "Samiska matresor, fine dining-turer, plockningsvandringar, bryggeribesök, bokningsbara matupplevelser i hela Lappland."
       }
@@ -133,7 +133,7 @@
     "faq": {
       "eyebrow": "Bra att veta",
       "headline": "Frågorna alla ställer först.",
-      "lead": "Snabba svar, vart och ett länkat till pelarsidan som går djupare.",
+      "lead": "Snabba svar, vart och ett länkat till guiden som går djupare.",
       "stillPrefix": "Undrar du fortfarande över något? Skriv till ",
       "stillSuffix": ". Vi svarar.",
       "items": [
@@ -164,7 +164,7 @@
     "title": "Lapplands råvaror: ren, bär och fisk",
     "description": "Sex råvaror som definierar Lapplands kök: ren, hjortron, insjöfisk, vild svamp och vilda örter. Säsonger, ursprung och hur de smakar.",
     "hero": {
-      "eyebrow": "Pelare 01 · Råvaror",
+      "eyebrow": "Guide 01 · Råvaror",
       "title": "Vad som växer",
       "titleHighlight": "här uppe.",
       "subtitle": "Sex råvaror som definierar Lapplands skafferi: var de kommer ifrån, när de är som bäst och hur de faktiskt smakar.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Recept som använder dem"
     },
     "intro": {
-      "lead": "Lapplands skafferi är kort. Det är dess styrka.",
+      "lead": "Lapplands skafferi är litet. Det är dess styrka.",
       "points": [
         {
           "n": "01",
-          "title": "Sex råvaror, en hand",
-          "body": "Ren, insjöfisk, plockade bär, plockad svamp, vilda örter, mejeriprodukter: det är hela skafferiet. Det finns ingen dold trettionde råvara; skickligheten ligger i vad människor lärde sig göra med dessa sex."
+          "title": "Sex råvaror bär hela köket",
+          "body": "Ren, insjöfisk, skogsbär, vild svamp, vilda örter och mejeri: det är hela skafferiet. Någon hemlig sjunde råvara finns inte; konsten ligger i vad generationer lärt sig göra med dessa sex."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Vilt betyder årgångar",
+          "title": "Det vilda har årgångar",
           "body": "Vilda råvaror varierar mellan år och plats på ett sätt som odlade aldrig gör. Hjortron från en myr ovanför Inari smakar annorlunda än de som plockats 80 kilometer längre söderut."
         }
       ]
@@ -474,7 +474,7 @@
     "title": "Samisk mat och traditionella Lapplandsrecept",
     "description": "Fyra rätter ur det samiska köket: bidos-rengryta, gahkku-bröd, Sápmi-fisksoppa och bärkräm. Fullständiga recept och de åtta årstidernas kalender.",
     "hero": {
-      "eyebrow": "Pelare 02 · Recept",
+      "eyebrow": "Guide 02 · Recept",
       "title": "Traditionella",
       "titleHighlight": "samiska recept.",
       "subtitle": "En fördjupning i det samiska matarvet. De här recepten har försörjt människor genom arktiska vintrar i tusentals år, vart och ett bär på kunskap, smak och en koppling till landet.",
@@ -486,8 +486,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Lagas varje tisdag",
-          "body": "Kliv in i ett samiskt hem i Inari eller Utsjoki i november och bidos står på spisen, samma långkokta rengryta som familjens mormor gjorde, med samma köttbitar, på samma knappt viskande värme."
+          "title": "Står på spisen än i dag",
+          "body": "Kliv in på en samisk fest i Enare eller Utsjoki och på spisen står bidos: samma långsamt puttrande rengryta som familjens mormor lagade, i samma steg, med samma styckningsdelar."
         },
         {
           "n": "02",
@@ -763,7 +763,7 @@
     "title": "Lapplands moderna kök och New Nordic",
     "description": "Hur Lappland gick från hotellbuffé till kockdrivna avsmakningsmenyer på tio år: fem New Nordic-tekniker och det nya arktiska kökets tallriksstilar.",
     "hero": {
-      "eyebrow": "Pelare 03 · Modernt",
+      "eyebrow": "Guide 03 · Modernt",
       "title": "Det nya",
       "titleHighlight": "arktiska köket.",
       "subtitle": "Modern Lapplandsmatlagning tar råvarorna samerna använt i tusen år, ren, insjöfisk, vilda bär och örter, och lägger upp dem med nynordisk teknik. Den här sidan berättar hur det gick till, och var du kan smaka på det.",
@@ -865,7 +865,7 @@
     "title": "Plocka i Lappland: bär och svamp",
     "description": "Allemansrätten låter dig plocka bär och svamp nästan var som helst i Finland. Månadskalender, säkra nybörjarsvampar och de två dödliga att känna till.",
     "hero": {
-      "eyebrow": "Pelare 04 · Plockning",
+      "eyebrow": "Guide 04 · Plockning",
       "title": "Det vilda",
       "titleHighlight": "skafferiet.",
       "subtitle": "Finlands jokamiehenoikeus (allemansrätten) låter vem som helst plocka bär, svamp och vilda örter över nästan hela landet. Här är de fem saker du bör veta först.",
@@ -1044,7 +1044,7 @@
     "title": "Matupplevelser och matturer i Lappland",
     "description": "Tre bokningsbara matupplevelser i Lappland: samisk kultur med måltid, arktiska fine dining-kvällar och guidade plockturer. Små grupper, bokas online.",
     "hero": {
-      "eyebrow": "Pelare 06 · Turer",
+      "eyebrow": "Guide 06 · Turer",
       "title": "Ät dig",
       "titleHighlight": "genom Lappland.",
       "subtitle": "Tre bokningsbara matupplevelser som går djupare än en avsmakningsmeny: samisk kultur, arktisk fine dining och en guidad plockningsvandring som slutar i middag.",
@@ -1121,7 +1121,7 @@
     "title": "Michelin i Finland och fine dining i Lappland",
     "description": "Var Finlands Michelinstjärnor faktiskt finns, och Lapplands spets: Nili, Aanaar och Rakas. Menyns gång, bokningstider och ärliga råd.",
     "hero": {
-      "eyebrow": "Pelare 05 · Michelin",
+      "eyebrow": "Guide 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "och fine dining.",
       "subtitle": "Finlands Michelin-scen i korthet: vad som har stjärnor och var, vad som driver fine dining norr om polcirkeln, och hur du faktiskt bokar ett bord.",
@@ -1336,7 +1336,7 @@
     },
     "cover": {
       "headline": "Vad vi tar upp.",
-      "lead": "Sex pelare. Var och en är en djup sida som skulle kunna stå för sig själv. Tillsammans bildar de fältguiden vi önskar hade funnits när vi började skriva om den här regionen.",
+      "lead": "Sex guider. Var och en är en djup sida som skulle kunna stå för sig själv. Tillsammans bildar de fältguiden vi önskar hade funnits när vi började skriva om den här regionen.",
       "items": [
         {
           "t": "Lokala råvaror",

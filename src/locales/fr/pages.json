@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "À propos de ce site",
       "headline": "La cuisine finlandaise, expliquée.",
-      "p1": "LaplandFood est la carte culturelle de la façon dont la Finlande mange, écrite de l'intérieur. D'où viennent les ingrédients. Les recettes que l'on prépare vraiment un mardi. La scène Michelin que la plupart des voyageurs ratent. Cueillette, tours culinaires et traditions vieilles de mille ans.",
+      "p1": "LaplandFood est la carte culturelle de la façon dont la Finlande mange, écrite de l'intérieur. D'où viennent les ingrédients. Les recettes que l'on prépare vraiment dans les foyers finlandais. La scène Michelin que la plupart des voyageurs ratent. Cueillette, tours culinaires et traditions vieilles de mille ans.",
       "p2Prefix": "Pour réserver",
       "p2Em": "une vraie table",
       "p2Mid": ", passez par",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". Pour la scène d'après dîner,",
       "p2End": "."
     },
-    "pillarsKicker": "Les six piliers",
+    "pillarsKicker": "Les six guides",
     "pillarsHeadline": "Commencez ici.",
     "pillarsLead": "Six cartes de la culture culinaire finlandaise. Choisissez-en une et plongez, chaque page renvoie aux autres.",
     "readLabel": "Lire",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pilier 01",
+        "eyebrow": "Guide 01",
         "title": "Ingrédients locaux",
         "body": "Ce qui pousse, nage et paît vraiment ici, renne, mûres arctiques, myrtilles, poissons arctiques, herbes cueillies. Saisons, approvisionnement, et pourquoi le goût est ce qu'il est."
       },
       {
-        "eyebrow": "Pilier 02",
+        "eyebrow": "Guide 02",
         "title": "Recettes traditionnelles",
         "body": "Ragoût de renne bidos, pain plat sâme, soupe de poisson de lac, kisseli de baies sauvages, les recettes qui ont nourri le Sápmi à travers des hivers arctiques pendant des milliers d'années."
       },
       {
-        "eyebrow": "Pilier 03",
+        "eyebrow": "Guide 03",
         "title": "Laponie moderne",
         "body": "Comment une nouvelle génération de chefs cuisine les mêmes ingrédients avec le sous-vide, la fermentation et la technique New Nordic. Et où aller les goûter."
       },
       {
-        "eyebrow": "Pilier 04",
+        "eyebrow": "Guide 04",
         "title": "Guide de cueillette",
         "body": "Myrtille, airelle, mûre arctique, champignons, ortie, reine-des-prés, quoi cueillir quand, comment l'identifier et comment le faire durablement sous le droit d'accès."
       },
       {
-        "eyebrow": "Pilier 05",
+        "eyebrow": "Guide 05",
         "title": "Michelin & haute gastronomie",
         "body": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, et qui pousse la haute gastronomie à l'intérieur du cercle polaire."
       },
       {
-        "eyebrow": "Pilier 06",
+        "eyebrow": "Guide 06",
         "title": "Tours gastronomiques & cours de cuisine",
         "body": "Voyages culinaires sâmes, tours de haute gastronomie, balades de cueillette, visites de brasseries, des expériences culinaires réservables à travers la Laponie."
       }
@@ -133,7 +133,7 @@
     "faq": {
       "eyebrow": "Bon à savoir",
       "headline": "Les questions qu’on nous pose en premier.",
-      "lead": "Des réponses courtes, chacune reliée à la page pilier qui approfondit.",
+      "lead": "Des réponses courtes, chacune reliée au guide qui approfondit.",
       "stillPrefix": "Une question encore ? Écrivez-nous à ",
       "stillSuffix": ". Nous répondons.",
       "items": [
@@ -164,7 +164,7 @@
     "title": "Produits de Laponie : renne, baies, poisson",
     "description": "Six produits qui définissent la cuisine lapone : renne, plaquebìres, poissons de lac, champignons et herbes sauvages. Saisons, origine et goût.",
     "hero": {
-      "eyebrow": "Pilier 01 · Ingrédients",
+      "eyebrow": "Guide 01 · Ingrédients",
       "title": "Ce qui pousse",
       "titleHighlight": "ici.",
       "subtitle": "Six ingrédients qui définissent le garde-manger lapon : d'où ils viennent, quand ils sont à leur apogée et quel goût ils ont vraiment.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Recettes qui les utilisent"
     },
     "intro": {
-      "lead": "Le garde-manger lapon est court. C'est sa force.",
+      "lead": "Le garde-manger lapon est réduit. C’est sa force.",
       "points": [
         {
           "n": "01",
-          "title": "Six ingrédients, une main",
-          "body": "Renne, poisson de lac, baies et champignons cueillis, herbes sauvages, produits laitiers : voilà tout le garde-manger. Pas de 30e ingrédient caché ; le talent tient à ce qu’on a appris à faire de ces six-là."
+          "title": "Six produits portent toute la cuisine",
+          "body": "Renne, poisson de lac, baies sauvages, champignons, herbes sauvages, produits laitiers : voilà tout le garde-manger. Il n’y a pas de septième produit secret ; l’art est dans ce que des générations ont appris à faire de ces six-là."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Sauvage veut dire millésimes",
+          "title": "Le sauvage a ses millésimes",
           "body": "Les ingrédients sauvages varient d’une année et d’un lieu à l’autre comme jamais les cultivés : les plaquebières d’une tourbière d’Inari n’ont pas le goût de celles cueillies 80 kilomètres plus au sud."
         }
       ]
@@ -474,7 +474,7 @@
     "title": "Cuisine sâme : recettes lapones traditionnelles",
     "description": "Quatre plats de la cuisine sâme : ragoût de renne bidos, pain gahkku, soupe de poisson de Sápmi et kissel aux baies. Recettes et calendrier des huit saisons.",
     "hero": {
-      "eyebrow": "Pilier 02 · Recettes",
+      "eyebrow": "Guide 02 · Recettes",
       "title": "Recettes",
       "titleHighlight": "sâmes traditionnelles.",
       "subtitle": "Une plongée dans le patrimoine culinaire sâme. Ces recettes ont nourri les gens à travers les hivers arctiques pendant des milliers d'années, chacune porte une sagesse, une saveur et un lien à la terre.",
@@ -486,8 +486,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Cuisiné encore chaque mardi",
-          "body": "Entrez dans un foyer sami à Inari ou Utsjoki en novembre : le bidos mijote, le même ragoût de renne que faisait la grand-mère, avec les mêmes morceaux, à la même chaleur à peine murmurante."
+          "title": "Toujours sur le feu aujourd’hui",
+          "body": "Entrez dans une fête sâme à Inari ou Utsjoki : sur le feu mijote le bidos, le même ragoût de renne que préparait la grand-mère de la famille, dans les mêmes étapes, avec les mêmes morceaux."
         },
         {
           "n": "02",
@@ -763,7 +763,7 @@
     "title": "Cuisine lapone moderne et New Nordic",
     "description": "Comment la Laponie est passée du buffet d’hôtel aux menus dégustation en dix ans : cinq techniques New Nordic et les assiettes de la nouvelle cuisine arctique.",
     "hero": {
-      "eyebrow": "Pilier 03 · Moderne",
+      "eyebrow": "Guide 03 · Moderne",
       "title": "La nouvelle",
       "titleHighlight": "cuisine arctique.",
       "subtitle": "La cuisine moderne de Laponie prend les ingrédients que les Samis utilisent depuis mille ans, renne, poisson de lac, baies et herbes sauvages, et les dresse avec la technique New Nordic. Cette page raconte comment c’est arrivé, et où le goûter.",
@@ -865,7 +865,7 @@
     "title": "Cueillette en Laponie : baies et champignons",
     "description": "Le droit de tout un chacun permet de cueillir baies et champignons presque partout en Finlande. Calendrier mensuel, espèces sûres et les deux mortelles.",
     "hero": {
-      "eyebrow": "Pilier 04 · Cueillette",
+      "eyebrow": "Guide 04 · Cueillette",
       "title": "Le garde-manger",
       "titleHighlight": "sauvage.",
       "subtitle": "Le jokamiehenoikeus finlandais (droit d'accès) permet à quiconque de cueillir baies, champignons et plantes sauvages sur la plupart du pays. Voici les cinq choses à savoir avant tout.",
@@ -1044,7 +1044,7 @@
     "title": "Tours gastronomiques en Laponie",
     "description": "Trois expériences à réserver en Laponie : culture sâme avec repas, soirées gastronomiques arctiques et cueillette guidée. Petits groupes, réservation en ligne.",
     "hero": {
-      "eyebrow": "Pilier 06 · Tours",
+      "eyebrow": "Guide 06 · Tours",
       "title": "La Laponie",
       "titleHighlight": "à pleines dents.",
       "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation : culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
@@ -1121,7 +1121,7 @@
     "title": "Michelin en Finlande et gastronomie en Laponie",
     "description": "Où sont vraiment les étoiles Michelin de Finlande, et le haut de gamme lapon : Nili, Aanaar et Rakas. Déroulé du menu, délais de réservation, conseils francs.",
     "hero": {
-      "eyebrow": "Pilier 05 · Michelin",
+      "eyebrow": "Guide 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& haute gastronomie.",
       "subtitle": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, qui pousse la haute gastronomie à l'intérieur du cercle polaire, et comment réserver une table.",
@@ -1336,7 +1336,7 @@
     },
     "cover": {
       "headline": "Ce que nous couvrons.",
-      "lead": "Six piliers. Chacun est une page profonde qui pourrait tenir seule. Ensemble, ils forment le guide de terrain que nous aurions voulu trouver en commençant à écrire sur cette région.",
+      "lead": "Six guides. Chacun est une page profonde qui pourrait tenir seule. Ensemble, ils forment le guide de terrain que nous aurions voulu trouver en commençant à écrire sur cette région.",
       "items": [
         {
           "t": "Ingrédients locaux",

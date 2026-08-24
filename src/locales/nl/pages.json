@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "Waar deze site over gaat",
       "headline": "Finse keuken, uitgelegd.",
-      "p1": "LaplandFood is de culturele kaart van hoe Finland eet, geschreven van binnenuit. Waar de ingrediënten vandaan komen. De recepten die op een dinsdag echt op tafel komen. De Michelin-scène die de meeste reizigers missen. Plukken, foodtours en eettradities die duizend jaar teruggaan.",
+      "p1": "LaplandFood is de culturele kaart van hoe Finland eet, geschreven van binnenuit. Waar de ingrediënten vandaan komen. De recepten die in Finse huishoudens echt op tafel komen. De Michelin-scène die de meeste reizigers missen. Plukken, foodtours en eettradities die duizend jaar teruggaan.",
       "p2Prefix": "Om",
       "p2Em": "een tafel te boeken",
       "p2Mid": ", ga naar",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". Voor de scène daarna,",
       "p2End": "."
     },
-    "pillarsKicker": "De zes pijlers",
+    "pillarsKicker": "De zes gidsen",
     "pillarsHeadline": "Begin hier.",
     "pillarsLead": "Zes kaarten van de Finse eetcultuur. Kies er één en werk u erdoor, elke pagina linkt naar de andere.",
     "readLabel": "Lees",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Pijler 01",
+        "eyebrow": "Gids 01",
         "title": "Lokale ingrediënten",
         "body": "Wat hier echt groeit, zwemt en graast, rendier, kruipbramen, blauwe bosbessen, Arctische vis, geplukte kruiden. Seizoenen, herkomst en waarom de smaak is wat hij is."
       },
       {
-        "eyebrow": "Pijler 02",
+        "eyebrow": "Gids 02",
         "title": "Traditionele recepten",
         "body": "Rendierstoofpot bidos, Samische platbrood, meervissoep, kissel van wilde bessen, de recepten die Sápmi duizenden jaren door Arctische winters voedden."
       },
       {
-        "eyebrow": "Pijler 03",
+        "eyebrow": "Gids 03",
         "title": "Modern Lapland",
         "body": "Hoe een nieuwe generatie koks dezelfde ingrediënten bereidt met sous-vide, fermentatie en New Nordic-techniek. Waar u het proeft."
       },
       {
-        "eyebrow": "Pijler 04",
+        "eyebrow": "Gids 04",
         "title": "Plukgids",
         "body": "Bosbes, vossenbes, kruipbraam, paddenstoelen, brandnetel, moerasspirea, wat te plukken wanneer, hoe te herkennen en hoe het duurzaam te doen onder het toegangsrecht."
       },
       {
-        "eyebrow": "Pijler 05",
+        "eyebrow": "Gids 05",
         "title": "Michelin & fine dining",
         "body": "De Finse Michelin-scène in één oogopslag, wat er bekroond is, waar, en wat fine dining boven de Poolcirkel vooruit duwt."
       },
       {
-        "eyebrow": "Pijler 06",
+        "eyebrow": "Gids 06",
         "title": "Foodtours & kookcursussen",
         "body": "Samische foodreizen, fine-diningtours, plukwandelingen, brouwerijbezoeken, boekbare eetbelevingen in heel Lapland."
       }
@@ -164,7 +164,7 @@
     "title": "Ingrediënten van Lapland: rendier, bessen, vis",
     "description": "Zes ingrediënten die de Laplandse keuken bepalen: rendier, kruipbramen, meervis, wilde paddenstoelen en kruiden. Seizoenen, herkomst en smaak.",
     "hero": {
-      "eyebrow": "Pijler 01 · Ingrediënten",
+      "eyebrow": "Gids 01 · Ingrediënten",
       "title": "Wat hier",
       "titleHighlight": "groeit.",
       "subtitle": "Zes ingrediënten die Laplands voorraadkast definiëren: waar ze vandaan komen, wanneer ze op hun top zijn en wat ze echt smaken.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Recepten die deze gebruiken"
     },
     "intro": {
-      "lead": "De Laplandse voorraadkast is kort. Dat is zijn kracht.",
+      "lead": "De Laplandse voorraadkast is klein. Dat is juist haar kracht.",
       "points": [
         {
           "n": "01",
-          "title": "Zes ingrediënten, één hand",
-          "body": "Rendier, meervis, geplukte bessen en paddenstoelen, wilde kruiden, zuivel: dat is de hele voorraadkast. Er is geen verborgen dertigste ingrediënt; het vakmanschap zit in wat men met deze zes heeft leren doen."
+          "title": "Zes ingrediënten dragen de hele keuken",
+          "body": "Rendier, meervis, bosbessen en -vruchten, wilde paddenstoelen, wilde kruiden, zuivel: dat is de hele voorraadkast. Een geheim zevende ingrediënt is er niet; de kunst zit in wat generaties met deze zes hebben leren doen."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Wild betekent jaargangen",
+          "title": "Wild kent jaargangen",
           "body": "Wilde ingrediënten verschillen per jaar en per plek zoals gekweekte dat nooit doen. Kruipbramen uit een veen bij Inari smaken anders dan die 80 kilometer zuidelijker."
         }
       ]
@@ -474,7 +474,7 @@
     "title": "Sami-eten: traditionele Laplandse recepten",
     "description": "Vier gerechten uit de Samische keuken: bidos-rendierstoof, gahkku-platbrood, Sápmi-vissoep en bessenkissel. Volledige recepten en de acht-seizoenenkalender.",
     "hero": {
-      "eyebrow": "Pijler 02 · Recepten",
+      "eyebrow": "Gids 02 · Recepten",
       "title": "Traditionele",
       "titleHighlight": "Samische recepten.",
       "subtitle": "Een grondige verkenning van de Samische eetgeschiedenis. Deze recepten brachten mensen al duizenden jaren door Arctische winters, elk draagt wijsheid, smaak en een band met het land.",
@@ -486,8 +486,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Wordt nog elke dinsdag gekookt",
-          "body": "Stap in november een Samisch huis in Inari of Utsjoki binnen en op het fornuis staat bidos, dezelfde langzaam gestoofde rendierstoofpot die grootmoeder maakte, met dezelfde delen, op hetzelfde nauwelijks fluisterende vuur."
+          "title": "Staat vandaag nog op het vuur",
+          "body": "Stap binnen bij een Samisch feest in Inari of Utsjoki en op het vuur staat bidos: dezelfde langzaam gestoofde rendierstoof die de grootmoeder van de familie maakte, in dezelfde stappen, met dezelfde delen."
         },
         {
           "n": "02",
@@ -763,7 +763,7 @@
     "title": "Moderne Laplandse keuken en New Nordic",
     "description": "Hoe Lapland in tien jaar van hotelbuffet naar chef-gedreven proefmenu’s ging: vijf New Nordic-technieken en de bordstijlen van de nieuwe Arctische keuken.",
     "hero": {
-      "eyebrow": "Pijler 03 · Modern",
+      "eyebrow": "Gids 03 · Modern",
       "title": "De nieuwe",
       "titleHighlight": "Arctische keuken.",
       "subtitle": "De moderne keuken van Lapland neemt de ingrediënten die de Samen al duizend jaar gebruiken, rendier, meervis, wilde bessen en kruiden, en maakt ze op met New Nordic-techniek. Deze pagina vertelt hoe dat gebeurde en waar je het proeft.",
@@ -865,7 +865,7 @@
     "title": "Plukken in Lapland: bessen en paddenstoelen",
     "description": "Het allemansrecht laat je bijna overal in Finland bessen en paddenstoelen plukken. Maandkalender, veilige beginnerssoorten en de twee dodelijke.",
     "hero": {
-      "eyebrow": "Pijler 04 · Plukken",
+      "eyebrow": "Gids 04 · Plukken",
       "title": "De wilde",
       "titleHighlight": "voorraadkast.",
       "subtitle": "Het Finse jokamiehenoikeus (toegangsrecht) laat iedereen bessen, paddenstoelen en wilde kruiden plukken in het grootste deel van het land. Hier zijn de vijf dingen die u eerst moet weten.",
@@ -1044,7 +1044,7 @@
     "title": "Foodtours en eetbelevingen in Lapland",
     "description": "Drie boekbare eetbelevingen in Lapland: Samische cultuur met maaltijd, Arctische fine-diningavonden en begeleide plukwandelingen. Kleine groepen.",
     "hero": {
-      "eyebrow": "Pijler 06 · Tours",
+      "eyebrow": "Gids 06 · Tours",
       "title": "Eet je een weg",
       "titleHighlight": "door Lapland.",
       "subtitle": "Drie boekbare eetbelevingen die verder gaan dan een proefmenu: Samische cultuur, Arctische fine dining en een begeleide plukwandeling die eindigt in diner.",
@@ -1121,7 +1121,7 @@
     "title": "Michelin in Finland en fine dining in Lapland",
     "description": "Waar de Michelinsterren van Finland echt zitten, en de Laplandse top: Nili, Aanaar en Rakas. Menuverloop, reserveringstermijnen en eerlijk advies.",
     "hero": {
-      "eyebrow": "Pijler 05 · Michelin",
+      "eyebrow": "Gids 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& fine dining.",
       "subtitle": "De Finse Michelin-scène in één oogopslag: wat heeft een ster, waar, wat duwt fine dining boven de Poolcirkel vooruit, en hoe boekt u een tafel.",
@@ -1336,7 +1336,7 @@
     },
     "cover": {
       "headline": "Wat we behandelen.",
-      "lead": "Zes pijlers. Elk een diepe pagina die op zichzelf kan staan. Samen vormen ze de veldgids waarvan we wilden dat hij bestond toen we over deze regio begonnen te schrijven.",
+      "lead": "Zes gidsen. Elk een diepe pagina die op zichzelf kan staan. Samen vormen ze de veldgids waarvan we wilden dat hij bestond toen we over deze regio begonnen te schrijven.",
       "items": [
         {
           "t": "Lokale ingrediënten",

@@ -49,7 +49,7 @@
     "intro": {
       "kicker": "Was diese Seite ist",
       "headline": "Finnisches Essen, erklärt.",
-      "p1": "LaplandFood ist eine Kulturkarte davon, wie Finnland isst, geschrieben von innen. Woher die Zutaten kommen. Rezepte, die wirklich an einem Dienstagabend gekocht werden. Die Michelin-Szene, die die meisten Reisenden übersehen. Sammeln, kulinarische Touren und Esstraditionen, die Tausende von Jahren zurückreichen.",
+      "p1": "LaplandFood ist eine Kulturkarte davon, wie Finnland isst, geschrieben von innen. Woher die Zutaten kommen. Rezepte, die in finnischen Küchen wirklich gekocht werden. Die Michelin-Szene, die die meisten Reisenden übersehen. Sammeln, kulinarische Touren und Esstraditionen, die Tausende von Jahren zurückreichen.",
       "p2Prefix": "Wenn Sie",
       "p2Em": "einen Tisch reservieren",
       "p2Mid": " möchten, wechseln Sie zu",
@@ -57,7 +57,7 @@
       "p2BarsSuffix": ". Für Nachtleben siehe",
       "p2End": "."
     },
-    "pillarsKicker": "Sechs Säulen",
+    "pillarsKicker": "Sechs Guides",
     "pillarsHeadline": "Fangen Sie hier an.",
     "pillarsLead": "Sechs Karten zur finnischen Esskultur. Wählen Sie eine und arbeiten Sie sich durch, jede Seite verlinkt zu den anderen.",
     "readLabel": "Lesen",
@@ -69,32 +69,32 @@
     },
     "pillars": [
       {
-        "eyebrow": "Säule 01",
+        "eyebrow": "Guide 01",
         "title": "Lokale Zutaten",
         "body": "Was hier tatsächlich wächst, schwimmt und wandert, Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Saisonen, Herkunft und der Grund für den Geschmack."
       },
       {
-        "eyebrow": "Säule 02",
+        "eyebrow": "Guide 02",
         "title": "Traditionelle Rezepte",
         "body": "Bidos-Rentiereintopf, Sámi-Brot, Fischsuppe, Beerenkissel, Rezepte, die Sápmi seit Tausenden von Jahren durch die arktischen Winter getragen haben."
       },
       {
-        "eyebrow": "Säule 03",
+        "eyebrow": "Guide 03",
         "title": "Modernes Lappland",
         "body": "Wie eine neue Generation von Köchen dieselben Zutaten mit Sous-vide, Fermentation und New-Nordic-Handschrift bearbeitet. Wo Sie das probieren können."
       },
       {
-        "eyebrow": "Säule 04",
+        "eyebrow": "Guide 04",
         "title": "Sammelguide",
         "body": "Heidelbeere, Preiselbeere, Moltebeere, Pilze, Brennnessel, Mädesüß, wann pflücken, wie erkennen und wie nachhaltig sammeln mit dem Jedermannsrecht."
       },
       {
-        "eyebrow": "Säule 05",
+        "eyebrow": "Guide 05",
         "title": "Michelin und Fine Dining",
         "body": "Die finnische Michelin-Szene auf einen Blick: was wo besternt ist und was das Fine Dining nördlich des Polarkreises antreibt."
       },
       {
-        "eyebrow": "Säule 06",
+        "eyebrow": "Guide 06",
         "title": "Kulinarische Touren und Kochschulen",
         "body": "Sámi-Esstouren, Fine-Dining-Rundgänge, Sammelausflüge, Brauereibesuche, buchbare Esserlebnisse in ganz Lappland."
       }
@@ -164,7 +164,7 @@
     "title": "Lapplands Zutaten: Rentier, Beeren, Fisch",
     "description": "Sechs Zutaten, die Lapplands Küche prägen: Rentier, Moltebeeren, Seefisch, Wildpilze und Wildkräuter. Saisonzeiten, Herkunft und Geschmack.",
     "hero": {
-      "eyebrow": "Säule 01 · Zutaten",
+      "eyebrow": "Guide 01 · Zutaten",
       "title": "Was hier",
       "titleHighlight": "wächst.",
       "subtitle": "Sechs Zutaten, die die Vorratskammer Lapplands prägen: woher sie kommen, wann sie am besten sind und wie sie tatsächlich schmecken.",
@@ -172,12 +172,12 @@
       "secondaryCta": "Rezepte, in denen sie verwendet werden"
     },
     "intro": {
-      "lead": "Lapplands Vorratskammer ist kurz. Darin liegt ihre Kraft.",
+      "lead": "Lapplands Vorratskammer ist klein. Genau das ist ihre Stärke.",
       "points": [
         {
           "n": "01",
-          "title": "Sechs Zutaten, eine Hand",
-          "body": "Rentier, Seefisch, gesammelte Beeren und Pilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine versteckte 30. Zutat gibt es nicht; die Kunst liegt darin, was man mit diesen sechs zu tun gelernt hat."
+          "title": "Sechs Zutaten tragen die ganze Küche",
+          "body": "Rentier, Seefisch, Waldbeeren, Wildpilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine geheime siebte Zutat gibt es nicht; die Kunst liegt darin, was Generationen aus diesen sechs zu machen gelernt haben."
         },
         {
           "n": "02",
@@ -186,7 +186,7 @@
         },
         {
           "n": "03",
-          "title": "Wild heißt Jahrgänge",
+          "title": "Wildes hat Jahrgänge",
           "body": "Wilde Zutaten schwanken von Jahr zu Jahr und Ort zu Ort, wie es Kultiviertes nie tut: Moltebeeren aus einem Moor bei Inari schmecken anders als solche, die 80 Kilometer weiter südlich gepflückt wurden."
         }
       ]
@@ -475,7 +475,7 @@
     "title": "Samische Küche: traditionelle Lappland-Rezepte",
     "description": "Vier Gerichte der samischen Küche: Bidos-Eintopf, Gahkku-Fladenbrot, Sápmi-Fischsuppe, Beeren-Kissel. Mit Rezepten und dem Acht-Jahreszeiten-Kalender.",
     "hero": {
-      "eyebrow": "Säule 02 · Rezepte",
+      "eyebrow": "Guide 02 · Rezepte",
       "title": "Traditionelle",
       "titleHighlight": "Sámi-Rezepte.",
       "subtitle": "Ein Eintauchen in die Sámi-Esskultur. Diese Rezepte haben Menschen über Tausende von Jahren durch die arktischen Winter genährt, jedes von ihnen trägt Weisheit, Geschmack und Verbundenheit zum Land in sich.",
@@ -487,8 +487,8 @@
       "points": [
         {
           "n": "01",
-          "title": "Wird noch jeden Dienstag gekocht",
-          "body": "Betreten Sie im November ein samisches Zuhause in Inari oder Utsjoki, und auf dem Herd steht Bidos, derselbe langsam geschmorte Rentiereintopf, den die Großmutter kochte, mit denselben Teilstücken, bei derselben kaum flüsternden Hitze."
+          "title": "Steht bis heute auf dem Herd",
+          "body": "Bei einem samischen Fest in Inari oder Utsjoki steht auf dem Herd Bidos: derselbe langsam geschmorte Rentiereintopf, den die Großmutter der Familie kochte, in denselben Schritten, mit denselben Stücken."
         },
         {
           "n": "02",
@@ -764,7 +764,7 @@
     "title": "Lapplands moderne Küche und New Nordic",
     "description": "Wie Lappland in zehn Jahren vom Hotelbuffet zum Tasting-Menü kam: fünf New-Nordic-Techniken und die Tellerstile der neuen arktischen Küche.",
     "hero": {
-      "eyebrow": "Säule 03 · Modern",
+      "eyebrow": "Guide 03 · Modern",
       "title": "Die neue",
       "titleHighlight": "arktische Küche.",
       "subtitle": "Die moderne Küche Lapplands nimmt die Zutaten, die die Samen seit tausend Jahren nutzen, Rentier, Seefisch, Wildbeeren und Kräuter, und richtet sie mit New-Nordic-Technik an. Diese Seite erzählt, wie es dazu kam und wo man es schmecken kann.",
@@ -866,7 +866,7 @@
     "title": "Sammeln in Lappland: Beeren und Pilze",
     "description": "Das Jedermannsrecht erlaubt Beeren- und Pilzesammeln fast überall in Finnland. Monatskalender, sichere Anfängerpilze und die zwei tödlichen Arten.",
     "hero": {
-      "eyebrow": "Säule 04 · Sammeln",
+      "eyebrow": "Guide 04 · Sammeln",
       "title": "Die wilde",
       "titleHighlight": "Vorratskammer.",
       "subtitle": "Das finnische Jedermannsrecht erlaubt jedem, Beeren, Pilze und Wildkräuter fast im ganzen Land zu sammeln. Hier sind fünf Dinge, die Sie zuerst wissen sollten.",
@@ -1045,7 +1045,7 @@
     "title": "Kulinarische Touren in Lappland",
     "description": "Drei buchbare Erlebnisse in Lappland: samische Kultur mit Mahlzeit, arktische Fine-Dining-Abende und geführte Sammelwanderungen. Kleine Gruppen, online buchbar.",
     "hero": {
-      "eyebrow": "Säule 06 · Touren",
+      "eyebrow": "Guide 06 · Touren",
       "title": "Iss Dich",
       "titleHighlight": "nach Lappland.",
       "subtitle": "Drei buchbare Esserlebnisse, die tiefer gehen als ein Tasting-Menü: Sámi-Kultur, arktisches Fine Dining und ein geführter Sammelausflug mit anschließendem Abendessen.",
@@ -1122,7 +1122,7 @@
     "title": "Michelin in Finnland und Fine Dining in Lappland",
     "description": "Wo Finnlands Michelin-Sterne wirklich sind, und Lapplands Fine-Dining-Spitze: Nili, Aanaar und Rakas. Menüablauf, Vorlaufzeiten, ehrlicher Rat.",
     "hero": {
-      "eyebrow": "Säule 05 · Michelin",
+      "eyebrow": "Guide 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "und Fine Dining.",
       "subtitle": "Die finnische Michelin-Szene auf einen Blick: was wo besternt ist, was das Fine Dining nördlich des Polarkreises antreibt und wie Sie tatsächlich einen Tisch bekommen.",
@@ -1337,7 +1337,7 @@
     },
     "cover": {
       "headline": "Was wir abdecken.",
-      "lead": "Sechs Säulen. Jede ist eine tiefe Seite, die für sich stehen könnte. Zusammen ergeben sie den Feldführer, den wir uns am Anfang gewünscht hätten.",
+      "lead": "Sechs Guides. Jeder ist eine tiefe Seite, die für sich stehen könnte. Zusammen ergeben sie den Feldführer, den wir uns am Anfang gewünscht hätten.",
       "items": [
         {
           "t": "Lokale Zutaten",
