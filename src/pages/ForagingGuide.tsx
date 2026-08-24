@@ -8,6 +8,7 @@ import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
+import NordicbuddiesPicks from '../components/NordicbuddiesPicks';
 import { useLocale } from '../i18n/useLocale';
 
 interface ForageItem { name: string; season: string; difficulty: string; location: string; identification: string; tips: string; safety: string; sustainability: string }
@@ -261,6 +262,18 @@ export default function ForagingGuide() {
             </p>
           </div>
         </section>
+
+        {/* Nordicbuddies (Daisycon 20538) — termospullo ja muki, ei ruokaa.
+            Sijoitettu jokamiehenoikeus-osion JÄLKEEN, koska siinä lukija on juuri
+            lukenut olevansa suolla tuntikausia. Sivun lopun Suomikauppa-kortti
+            vastaa eri kysymykseen (marjat hillona jos et pääse suolle), joten
+            kortit eivät ole päällekkäisiä eivätkä vierekkäin.
+            🔴 Peppi, ei Muumeja: moomin_note, _affiliate/creatives.json. */}
+        <div className="bg-white px-4 py-12 sm:py-16">
+          <div className="mx-auto max-w-5xl">
+            <NordicbuddiesPicks />
+          </div>
+        </div>
 
         {/* Guide CTA */}
         <section className="bg-white py-16">
