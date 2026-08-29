@@ -4,8 +4,9 @@
 
 ## Main pages
 
-- [Home](https://laplandfood.com/): How Finland eats — recipes, Michelin and tours
+- [Home](https://laplandfood.com/): How Finland eats: recipes, Michelin and tours
 - [Local Ingredients](https://laplandfood.com/local-ingredients): Where Lapland's ingredients come from
+- [Cloudberry](https://laplandfood.com/cloudberry): The Arctic berry no one can farm
 - [Traditional Recipes](https://laplandfood.com/traditional-recipes): Traditional Finnish and Lapland recipes
 - [Modern Lapland](https://laplandfood.com/modern-lapland): Modern Lapland food scene
 - [Foraging Guide](https://laplandfood.com/foraging-guide): Foraging berries, mushrooms and wild food
@@ -21,4 +22,4 @@ English (default, no prefix), Finnish (/fi/), Swedish (/sv/), German (/de/), Fre
 
 - [LaplandVibes hub](https://laplandvibes.com/): This site is part of the LaplandVibes network
 - [Sitemap](https://laplandfood.com/sitemap.xml)
-- Contact: info@laplandfood.com
+- Contact: info@laplandvibes.com

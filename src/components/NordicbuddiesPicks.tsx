@@ -110,7 +110,7 @@ const COPY: Record<Locale, Copy> = {
     adLabel: 'Ad',
     eyebrow: 'What the coffee travels in',
     headline: 'A picking day is measured in hours, and the coffee comes along.',
-    body: 'Nordicbuddies is a Helsinki company that licenses Pippi Longstocking and Mauri Kunnas. It sells no food at all, what it sells is what you carry the coffee in: a 550 ml double-walled steel bottle and a reusable cup. Tracked worldwide, free delivery over 60 € inside the EU, the UK and Norway.',
+    body: 'Nordicbuddies is a Helsinki company that licenses Pippi Longstocking and Mauri Kunnas. It sells no food at all; what it sells is what you carry the coffee in: a 550 ml double-walled steel bottle and a reusable cup. Tracked worldwide, free delivery over 60 € inside the EU, the UK and Norway.',
     shipping: 'Ships worldwide, tracked',
     cta: 'View product',
     soldBy: 'Sold by Nordicbuddies',

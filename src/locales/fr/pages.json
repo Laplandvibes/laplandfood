@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6 juin – 7 juillet · 32 jours de soleil de minuit",
+      "kicker": "6 juin – 7 juillet à Rovaniemi · 32 jours de soleil de minuit",
       "headline": "La fenêtre culinaire du soleil de minuit.",
       "lead": "Les mûres arctiques mûrissent, le poisson de lac est au sommet, les jardins d'herbes explosent et le soleil ne se couche plus. Pendant quatre semaines, les cuisines lapones échangent les conserves d'hiver contre les produits les plus légers et les plus lumineux de l'année. Si vous ne venez qu'une fois, c'est maintenant.",
       "cta": "Ce qui est de saison →"
@@ -908,7 +908,7 @@
         "name": "Myrtille (Vaccinium myrtillus)",
         "season": "Juillet – septembre",
         "difficulty": "Facile",
-        "location": "Pinèdes sèches et landes",
+        "location": "Forêts de conifères et landes",
         "identification": "Arbuste bas, feuilles ovales, baies bleu-noir foncé. Tache les doigts et la langue en bleu.",
         "tips": "Pic de cueillette mi-août. Ne récoltez que les baies pleinement mûres.",
         "safety": "Pas de confusion possible avec des espèces toxiques, cueillette sûre.",
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinki concentre les étoiles",
-        "body": "Les restaurants finlandais référencés Michelin sont concentrés à Helsinki, chaque restaurant finlandais étoilé dans les éditions récentes du Guide Nordic a été dans la capitale. Turku et Tampere ont été dans le viseur des inspecteurs mais les étoiles vont et viennent."
+        "body": "Les restaurants finlandais référencés Michelin sont concentrés à Helsinki, presque chaque restaurant finlandais étoilé dans les éditions récentes du Guide Nordic a été dans la capitale. Turku et Tampere ont été dans le viseur des inspecteurs mais les étoiles vont et viennent."
       },
       {
         "title": "La Laponie est gastronomiquement ambitieuse",
@@ -1143,7 +1143,7 @@
       },
       {
         "title": "Les réservations comptent",
-        "body": "Les fleurons lapons sont petits (souvent 30–60 couverts) et les places à la table du chef partent les premières. Réservez au plein hiver (mi-déc → fév) et à la fenêtre du soleil de minuit (6 juin → 7 juillet) au moins 6–8 semaines à l'avance. Les salles Michelin d'Helsinki ont régulièrement 4–6 semaines d'attente."
+        "body": "Les fleurons lapons sont petits (souvent 30–60 couverts) et les places à la table du chef partent les premières. Réservez au plein hiver (mi-déc → fév) et à la fenêtre du soleil de minuit (6 juin → 7 juillet à Rovaniemi) au moins 6–8 semaines à l'avance. Les salles Michelin d'Helsinki ont régulièrement 4–6 semaines d'attente."
       }
     ],
     "helsinki": {
@@ -1217,7 +1217,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, centre de Rovaniemi · 5 min à pied de la gare",
+          "address": "Valtakatu 20, centre de Rovaniemi",
           "angle": "La salle gastronomique la plus citée de Laponie. Assiettes enracinées sâmes, filet de renne sous-vide à la réduction de myrtilles est la signature, aux côtés d'un programme baies sauvages qui s'appuie sur ce que les cueilleurs d'Inari ont apporté le matin. Cuisine ouverte, intérieur bois chaleureux, 60 couverts.",
           "signature": "Filet de renne sous-vide · omble arctique mariné au pin · parfait à la mûre arctique",
           "band": "€€€, menu dégustation 68 € · à la carte plats 28–42 €",

@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6 juni – 7 juli · 32 dagen middernachtzon",
+      "kicker": "6 juni – 7 juli in Rovaniemi · 32 dagen middernachtzon",
       "headline": "Het middernachtzon-eetvenster.",
       "lead": "Kruipbramen rijpen, meervis is op zijn top, de kruidentuinen barsten en de zon gaat niet onder. Vier weken lang ruilen Laplandse keukens hun zware winterinmaak voor de lichtste, helderste producten van het jaar. Komt u maar één keer, kom dan nu.",
       "cta": "Wat is in seizoen →"
@@ -908,7 +908,7 @@
         "name": "Blauwe bosbes (Vaccinium myrtillus)",
         "season": "Juli – september",
         "difficulty": "Makkelijk",
-        "location": "Droge dennenbossen en heiden",
+        "location": "Naaldbossen en heiden",
         "identification": "Lage struik, ovale bladeren, donkerblauwzwarte bessen. Kleurt vingers en tong blauw.",
         "tips": "Piek midden augustus. Pluk alleen volledig rijpe bessen.",
         "safety": "Geen verwarring mogelijk met giftige soortgenoten, veilig.",
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinki draagt de sterren",
-        "body": "Finlands Michelin-vermelde restaurants concentreren zich in Helsinki, elk Fins sterrenrestaurant in recente edities van de Noordse Gids stond in de hoofdstad. Turku en Tampere stonden op de radar van inspecteurs, maar sterren komen en gaan."
+        "body": "Finlands Michelin-vermelde restaurants concentreren zich in Helsinki, bijna elk Fins sterrenrestaurant in recente edities van de Noordse Gids stond in de hoofdstad. Turku en Tampere stonden op de radar van inspecteurs, maar sterren komen en gaan."
       },
       {
         "title": "Lapland is ambitieus",
@@ -1143,7 +1143,7 @@
       },
       {
         "title": "Reserveringen tellen",
-        "body": "Laplandse vlaggenschepen zijn klein (vaak 30–60 couverts) en de chefstafel-plaatsen raken het snelst vol. Boek midden winter (half dec → feb) en het middernachtzon-venster (6 juni → 7 juli) minstens 6–8 weken vooruit. Helsinki-Michelin-zalen hebben regelmatig 4–6 weken wachttijd."
+        "body": "Laplandse vlaggenschepen zijn klein (vaak 30–60 couverts) en de chefstafel-plaatsen raken het snelst vol. Boek midden winter (half dec → feb) en het middernachtzon-venster (6 juni → 7 juli in Rovaniemi) minstens 6–8 weken vooruit. Helsinki-Michelin-zalen hebben regelmatig 4–6 weken wachttijd."
       }
     ],
     "helsinki": {
@@ -1217,7 +1217,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, centrum Rovaniemi · 5 minuten lopen vanaf het station",
+          "address": "Valtakatu 20, centrum Rovaniemi",
           "angle": "De meest geciteerde fine-diningzaal in Lapland. Samisch geworteld, sous-vide rendierfilet met bosbessenreductie is de signatuur, naast een wilde-bessen-programma dat leunt op wat de plukkers van Inari die ochtend binnenbrachten. Open keuken, warm houten interieur, 60 couverts.",
           "signature": "Sous-vide rendierfilet · met dennen-gecureerde Arctische zalmforel · kruipbramenparfait",
           "band": "€€€, proefmenu 68 € · hoofdgerechten à la carte 28–42 €",

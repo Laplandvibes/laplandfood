@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6 juni–7 juli · 32 dagar av midnattssol",
+      "kicker": "6 juni–7 juli i Rovaniemi · 32 dagar av midnattssol",
       "headline": "Matfönstret under midnattssolen.",
       "lead": "Hjortronen mognar, insjöfisken är som bäst, örtbäddarna exploderar och solen går aldrig ner. I fyra veckor byter Lapplands kök den tunga vintermaten mot årets lättaste och ljusaste råvaror. Kommer du bara en gång, kom nu.",
       "cta": "Vad som är i säsong →"
@@ -908,7 +908,7 @@
         "name": "Blåbär (Vaccinium myrtillus)",
         "season": "juli–september",
         "difficulty": "Lätt",
-        "location": "Torra tallskogar och hedar",
+        "location": "Barrskogar och hedar",
         "identification": "Låg buske, ovala blad, mörkt blåsvarta bär. Färgar fingrar och tunga blå.",
         "tips": "Bäst att plocka i mitten av augusti. Plocka bara fullmogna bär.",
         "safety": "Kan inte förväxlas med giftiga lookalikes, säkert att plocka.",
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsingfors bär stjärnorna",
-        "body": "Finlands Michelin-listade restauranger är koncentrerade till Helsingfors, varje stjärnmärkt finsk restaurang i de senaste utgåvorna av den nordiska guiden har legat i huvudstaden. Åbo och Tammerfors har funnits på inspektörernas radar men stjärnor kommer och går."
+        "body": "Finlands Michelin-listade restauranger är koncentrerade till Helsingfors, nästan varje stjärnmärkt finsk restaurang i de senaste utgåvorna av den nordiska guiden har legat i huvudstaden. Åbo och Tammerfors har funnits på inspektörernas radar men stjärnor kommer och går."
       },
       {
         "title": "Lappland är fine dining-ambitiöst",
@@ -1143,7 +1143,7 @@
       },
       {
         "title": "Bordsbokning spelar roll",
-        "body": "Lapplands flaggskepp är små (ofta 30–60 kuvert) och platserna vid kockbordet fylls snabbast. Boka högvintern (mitten av dec → feb) och midnattssolsfönstret (6 juni → 7 juli) minst 6–8 veckor i förväg. Michelin-restaurangerna i Helsingfors har regelbundet 4–6 veckors väntetid."
+        "body": "Lapplands flaggskepp är små (ofta 30–60 kuvert) och platserna vid kockbordet fylls snabbast. Boka högvintern (mitten av dec → feb) och midnattssolsfönstret (6 juni → 7 juli i Rovaniemi) minst 6–8 veckor i förväg. Michelin-restaurangerna i Helsingfors har regelbundet 4–6 veckors väntetid."
       }
     ],
     "helsinki": {
@@ -1217,7 +1217,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, centrala Rovaniemi · 5 minuters promenad från järnvägsstationen",
+          "address": "Valtakatu 20, centrala Rovaniemi",
           "angle": "Den mest omnämnda fine dining-restaurangen i Lappland. Samiskt rotade rätter, sous vide-renfilé med blåbärsreduktion är signaturen, vid sidan av ett program på vilda bär som lutar sig mot det plockare i Inari fått in samma morgon. Öppet kök, varm träinredning, 60 kuvert.",
           "signature": "Sous vide-renfilé · tallgravad röding · hjortronparfait",
           "band": "€€€, avsmakningsmeny 68 € · à la carte-huvudrätter 28–42 €",

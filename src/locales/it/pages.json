@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6 giugno – 7 luglio · 32 giorni di sole di mezzanotte",
+      "kicker": "6 giugno – 7 luglio a Rovaniemi · 32 giorni di sole di mezzanotte",
       "headline": "La finestra gastronomica del sole di mezzanotte.",
       "lead": "I lamponi artici maturano, il pesce di lago tocca il picco, gli orti d'erbe esplodono e il sole non tramonta. Per quattro settimane le cucine lapponi sostituiscono le conserve invernali con i prodotti più leggeri e luminosi dell'anno. Se viene una volta sola, venga adesso.",
       "cta": "Cosa è di stagione →"
@@ -908,7 +908,7 @@
         "name": "Mirtillo (Vaccinium myrtillus)",
         "season": "Luglio – settembre",
         "difficulty": "Facile",
-        "location": "Pinete asciutte e brughiere",
+        "location": "Boschi di conifere e brughiere",
         "identification": "Arbusto basso, foglie ovali, bacche blu-nero scuro. Macchia dita e lingua di blu.",
         "tips": "Picco a metà agosto. Raccolga solo bacche pienamente mature.",
         "safety": "Nessuna confusione possibile con sosia tossici, sicuro.",
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinki concentra le stelle",
-        "body": "I ristoranti finlandesi referenziati Michelin si concentrano a Helsinki, ogni ristorante finlandese stellato nelle edizioni recenti della Guida Nordica è stato nella capitale. Turku e Tampere sono stati nel mirino degli ispettori ma le stelle vanno e vengono."
+        "body": "I ristoranti finlandesi referenziati Michelin si concentrano a Helsinki, quasi ogni ristorante finlandese stellato nelle edizioni recenti della Guida Nordica è stato nella capitale. Turku e Tampere sono stati nel mirino degli ispettori ma le stelle vanno e vengono."
       },
       {
         "title": "La Lapponia è ambiziosa",
@@ -1143,7 +1143,7 @@
       },
       {
         "title": "Le prenotazioni contano",
-        "body": "I fiori all'occhiello lapponi sono piccoli (spesso 30–60 coperti) e i posti al tavolo dello chef si esauriscono per primi. Prenoti il pieno inverno (metà dic → feb) e la finestra del sole di mezzanotte (6 giu → 7 lug) con almeno 6–8 settimane di anticipo. Le sale Michelin di Helsinki hanno regolarmente attese di 4–6 settimane."
+        "body": "I fiori all'occhiello lapponi sono piccoli (spesso 30–60 coperti) e i posti al tavolo dello chef si esauriscono per primi. Prenoti il pieno inverno (metà dic → feb) e la finestra del sole di mezzanotte (6 giu → 7 lug a Rovaniemi) con almeno 6–8 settimane di anticipo. Le sale Michelin di Helsinki hanno regolarmente attese di 4–6 settimane."
       }
     ],
     "helsinki": {
@@ -1217,7 +1217,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, centro di Rovaniemi · 5 min a piedi dalla stazione",
+          "address": "Valtakatu 20, centro di Rovaniemi",
           "angle": "La sala d'alta cucina più citata della Lapponia. Piatti di radice sami, filetto di renna sous-vide con riduzione di mirtilli è la firma, accanto a un programma sulle bacche selvatiche che si appoggia a ciò che i raccoglitori di Inari hanno portato la mattina. Cucina aperta, interni in legno caldo, 60 coperti.",
           "signature": "Filetto di renna sous-vide · salmerino artico salmistrato al pino · parfait al lampone artico",
           "band": "€€€, menù degustazione 68 € · piatti à la carte 28–42 €",

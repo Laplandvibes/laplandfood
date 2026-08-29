@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6.6.–7.7. · 32 päivää keskiyön aurinkoa",
+      "kicker": "Rovaniemellä 6.6.–7.7. · 32 päivää keskiyön aurinkoa",
       "headline": "Keskiyön auringon ruokaikkuna.",
       "lead": "Hilla kypsyy, järvikala on parhaimmillaan, yrttipenkit räjähtävät kukkaan eikä aurinko laske. Neljäksi viikoksi Lapin keittiöt vaihtavat raskaan talven kevyimpään ja kirkkaimpaan tuoresatoonsa. Jos tulet vain kerran, tule nyt.",
       "cta": "Mitä on sesongissa →"
@@ -909,7 +909,7 @@
         "name": "Mustikka (Vaccinium myrtillus)",
         "season": "heinä – syyskuu",
         "difficulty": "Helppo",
-        "location": "Kuivat mäntymetsät ja kanervikot",
+        "location": "Havumetsät ja kanervikot",
         "identification": "Matala pensas, soikeat lehdet, tumman sinimustat marjat. Värjää sormet ja kielen siniseksi.",
         "tips": "Huippuaika elokuun puolivälissä. Poimi vain täysin kypsiä marjoja.",
         "safety": "Ei sekoitettavissa myrkyllisiin lähilajeihin, turvallinen poimittavaksi.",
@@ -1136,7 +1136,7 @@
     "facts": [
       {
         "title": "Tähdet ovat Helsingissä",
-        "body": "Suomen Michelin-listatut ravintolat ovat keskittyneet Helsinkiin, viime­vuosien Pohjois­maiden oppaan jokainen tähditetty suomalainen ravintola on ollut pää­kaupungissa. Turku ja Tampere ovat olleet tarkastajien tutkassa, mutta tähdet tulevat ja menevät."
+        "body": "Suomen Michelin-listatut ravintolat ovat keskittyneet Helsinkiin, viime­vuosien Pohjois­maiden oppaan lähes jokainen tähditetty suomalainen ravintola on ollut pää­kaupungissa. Turku ja Tampere ovat olleet tarkastajien tutkassa, mutta tähdet tulevat ja menevät."
       },
       {
         "title": "Lappi pyrkii fine diningiin",
@@ -1144,7 +1144,7 @@
       },
       {
         "title": "Varaukset merkitsevät",
-        "body": "Lapin lippu­laivat ovat pieniä (usein 30–60 paikkaa) ja kokin­pöydän paikat täyttyvät nopeimmin. Varaa talven huippu­kausi (joulu­kuun puoli­väli → helmikuu) ja keskiyön auringon ikkuna (6.6.–7.7.) vähintään 6–8 viikkoa etukäteen. Helsingin Michelin-saleissa odotus on tavallisesti 4–6 viikkoa."
+        "body": "Lapin lippu­laivat ovat pieniä (usein 30–60 paikkaa) ja kokin­pöydän paikat täyttyvät nopeimmin. Varaa talven huippu­kausi (joulu­kuun puoli­väli → helmikuu) ja keskiyön auringon ikkuna (Rovaniemellä 6.6.–7.7.) vähintään 6–8 viikkoa etukäteen. Helsingin Michelin-saleissa odotus on tavallisesti 4–6 viikkoa."
       }
     ],
     "helsinki": {
@@ -1218,7 +1218,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, Rovaniemen keskusta · 5 minuutin kävely rautatie­asemalta",
+          "address": "Valtakatu 20, Rovaniemen keskusta",
           "angle": "Lapin eniten mainittu fine dining -sali. Saamelais­juurinen lautanen, sous vide -poronfilee mustikka­reduktiolla on tunnus ja villi­marja­ohjelma, joka nojaa siihen, mitä Inarin keräilijät toivat samana aamuna. Avoin keittiö, lämmin puu­sisustus, 60 paikkaa.",
           "signature": "Sous vide -poronfilee · männyn­suolatettu nieriä · hilla­parfait",
           "band": "€€€, tasting menu 68 € · à la carte pää­ruoat 28–42 €",

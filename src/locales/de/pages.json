@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6.6.–7.7. · 32 Tage Mitternachtssonne",
+      "kicker": "6.6.–7.7. in Rovaniemi · 32 Tage Mitternachtssonne",
       "headline": "Das Geschmacksfenster der Mitternachtssonne.",
       "lead": "Die Moltebeere reift, der Süßwasserfisch ist auf dem Höhepunkt, die Kräuterbeete explodieren und die Sonne geht nicht unter. Für vier Wochen tauschen die Küchen Lapplands den schweren Winter gegen ihre leichteste und klarste Frische ein. Wenn Sie nur einmal kommen, kommen Sie jetzt.",
       "cta": "Was in der Saison ist →"
@@ -909,7 +909,7 @@
         "name": "Heidelbeere (Vaccinium myrtillus)",
         "season": "Juli – September",
         "difficulty": "Einfach",
-        "location": "Trockene Kiefernwälder und Heidelandschaften",
+        "location": "Nadelwälder und Heidelandschaften",
         "identification": "Niedriger Strauch, ovale Blätter, dunkelblauschwarze Beeren. Färbt Finger und Zunge blau.",
         "tips": "Höhepunkt Mitte August. Pflücken Sie nur vollreife Beeren.",
         "safety": "Nicht mit giftigen Verwandten zu verwechseln, sicher zu sammeln.",
@@ -1136,7 +1136,7 @@
     "facts": [
       {
         "title": "Die Sterne sind in Helsinki",
-        "body": "Die Michelin-gelisteten Restaurants Finnlands sind in Helsinki konzentriert, jedes in den letzten Jahrgängen des Guides Nordische Länder besternte finnische Restaurant lag in der Hauptstadt. Turku und Tampere stehen auf dem Radar der Inspektoren, aber Sterne kommen und gehen."
+        "body": "Die Michelin-gelisteten Restaurants Finnlands sind in Helsinki konzentriert, fast jedes in den letzten Jahrgängen des Guides Nordische Länder besternte finnische Restaurant lag in der Hauptstadt. Turku und Tampere stehen auf dem Radar der Inspektoren, aber Sterne kommen und gehen."
       },
       {
         "title": "Lappland strebt ins Fine Dining",
@@ -1144,7 +1144,7 @@
       },
       {
         "title": "Reservierungen sind entscheidend",
-        "body": "Lapplands Spitzenhäuser sind klein (oft 30–60 Plätze) und die Plätze am Chef's Table füllen sich zuerst. Reservieren Sie die Hochsaison im Winter (Mitte Dezember → Februar) und das Mitternachtssonnen-Fenster (6.6.–7.7.) mindestens 6–8 Wochen im Voraus. In den Michelin-Sälen Helsinkis liegt die Wartezeit normalerweise bei 4–6 Wochen."
+        "body": "Lapplands Spitzenhäuser sind klein (oft 30–60 Plätze) und die Plätze am Chef's Table füllen sich zuerst. Reservieren Sie die Hochsaison im Winter (Mitte Dezember → Februar) und das Mitternachtssonnen-Fenster (6.6.–7.7. in Rovaniemi) mindestens 6–8 Wochen im Voraus. In den Michelin-Sälen Helsinkis liegt die Wartezeit normalerweise bei 4–6 Wochen."
       }
     ],
     "helsinki": {
@@ -1218,7 +1218,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, Zentrum von Rovaniemi · 5 Minuten zu Fuß vom Bahnhof",
+          "address": "Valtakatu 20, Zentrum von Rovaniemi",
           "angle": "Lapplands meistgenanntes Fine-Dining-Restaurant. Sámi-geprägte Teller, Sous-vide-Rentierfilet mit Heidelbeerreduktion ist Markenzeichen und ein Wildbeerenprogramm, das auf dem aufbaut, was die Sammler in Inari am selben Morgen gebracht haben. Offene Küche, warmes Holzinterieur, 60 Plätze.",
           "signature": "Sous-vide-Rentierfilet · in Kiefer gesalzener Saibling · Moltebeerenparfait",
           "band": "€€€, Tasting-Menü 68 € · Hauptgerichte à la carte 28–42 €",

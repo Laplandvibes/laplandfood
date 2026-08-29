@@ -125,7 +125,7 @@
       }
     ],
     "summer": {
-      "kicker": "6 de junio – 7 de julio · 32 días de sol de medianoche",
+      "kicker": "6 de junio – 7 de julio en Rovaniemi · 32 días de sol de medianoche",
       "headline": "La ventana gastronómica del sol de medianoche.",
       "lead": "Las moras árticas maduran, el pescado de lago alcanza su punto álgido, los huertos de hierbas estallan y el sol no se pone. Durante cuatro semanas, las cocinas de Laponia cambian la contundencia del invierno por el producto más ligero y luminoso del año. Si solo vienes una vez, ven ahora.",
       "cta": "Qué hay de temporada →"
@@ -908,7 +908,7 @@
         "name": "Arándano (Vaccinium myrtillus)",
         "season": "Julio – septiembre",
         "difficulty": "Fácil",
-        "location": "Pinares secos y brezales",
+        "location": "Bosques de coníferas y brezales",
         "identification": "Arbusto bajo, hojas ovaladas, bayas azul-negruzcas. Tiñe de azul los dedos y la lengua.",
         "tips": "Punto álgido a mediados de agosto. Recoge solo bayas totalmente maduras.",
         "safety": "No se puede confundir con parientes venenosos, segura para recoger.",
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinki acapara las estrellas",
-        "body": "Los restaurantes finlandeses con distinción Michelin se concentran en Helsinki, todos los restaurantes finlandeses con estrella de las ediciones recientes de la Guía Nórdica han estado en la capital. Turku y Tampere han estado en el radar de los inspectores, pero las estrellas van y vienen."
+        "body": "Los restaurantes finlandeses con distinción Michelin se concentran en Helsinki, casi todos los restaurantes finlandeses con estrella de las ediciones recientes de la Guía Nórdica han estado en la capital. Turku y Tampere han estado en el radar de los inspectores, pero las estrellas van y vienen."
       },
       {
         "title": "Laponia es ambiciosa en alta cocina",
@@ -1143,7 +1143,7 @@
       },
       {
         "title": "Las reservas importan",
-        "body": "Los buques insignia de Laponia son pequeños (a menudo de 30 a 60 cubiertos) y los puestos de la mesa del chef se llenan los primeros. Para el pico de invierno (mediados de dic. → feb.) y la ventana del sol de medianoche (6 de jun. → 7 de jul.), reserva al menos con 6–8 semanas de antelación. Las salas Michelin de Helsinki tienen con frecuencia esperas de 4–6 semanas."
+        "body": "Los buques insignia de Laponia son pequeños (a menudo de 30 a 60 cubiertos) y los puestos de la mesa del chef se llenan los primeros. Para el pico de invierno (mediados de dic. → feb.) y la ventana del sol de medianoche (6 de jun. → 7 de jul. en Rovaniemi), reserva al menos con 6–8 semanas de antelación. Las salas Michelin de Helsinki tienen con frecuencia esperas de 4–6 semanas."
       }
     ],
     "helsinki": {
@@ -1217,7 +1217,7 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, centro de Rovaniemi · a 5 minutos a pie de la estación de tren",
+          "address": "Valtakatu 20, centro de Rovaniemi",
           "angle": "La sala de alta cocina más citada de Laponia. Platos de raíz sami, el solomillo de reno a baja temperatura con reducción de arándano es la firma, junto a un programa de bayas silvestres que se apoya en lo que los recolectores de Inari trajeron esa mañana. Cocina abierta, interior de madera cálida, 60 cubiertos.",
           "signature": "Solomillo de reno a baja temperatura · salvelino ártico curado en pino · parfait de mora ártica",
           "band": "€€€, menú degustación 68 € · principales a la carta 28–42 €",
