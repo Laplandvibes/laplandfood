@@ -162,7 +162,7 @@
   },
   "localIngredients": {
     "title": "Lapplands Zutaten: Rentier, Beeren, Fisch",
-    "description": "Sechs Zutaten, die Lapplands Küche prägen: Rentier, Moltebeeren, Seefisch, Wildpilze und Wildkräuter. Saisonzeiten, Herkunft und Geschmack.",
+    "description": "Sechs Zutaten, die Lapplands Küche prägen: Rentier, Moltebeeren, Süßwasserfisch, Wildpilze und Wildkräuter. Saisonzeiten, Herkunft und Geschmack.",
     "hero": {
       "eyebrow": "Guide 01 · Zutaten",
       "title": "Was hier",
@@ -177,7 +177,7 @@
         {
           "n": "01",
           "title": "Sechs Zutaten tragen die ganze Küche",
-          "body": "Rentier, Seefisch, Waldbeeren, Wildpilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine geheime siebte Zutat gibt es nicht; die Kunst liegt darin, was Generationen aus diesen sechs zu machen gelernt haben."
+          "body": "Rentier, Süßwasserfisch, Waldbeeren, Wildpilze, Wildkräuter, Milchprodukte: das ist die ganze Vorratskammer. Eine geheime siebte Zutat gibt es nicht; die Kunst liegt darin, was Generationen aus diesen sechs zu machen gelernt haben."
         },
         {
           "n": "02",
@@ -242,11 +242,11 @@
     "reindeerDeep": {
       "kicker": "Tiefer Blick · Rentier",
       "headline": "Wie das Rentier auf den Teller in Lappland kommt.",
-      "p1": "Finnlands Rentierwirtschaft wird durch das Rentierwirtschaftsgesetz geregelt, das den Besitz auf Bewohner des Rentierwirtschaftsgebiets (praktisch Nordfinnland) beschränkt. Die Tiere gehören einzelnen Hirten, weiden aber gemeinsam in „paliskunta\" genannten Rentiergenossenschaften, die Gebiet und Arbeit teilen. Es gibt insgesamt rund 200 000 Rentiere in etwa 54 Genossenschaften, alle in Lappland und in Teilen von Nord-Ostbottnien.",
+      "p1": "Finnlands Rentierwirtschaft wird durch das Rentierwirtschaftsgesetz geregelt, das den Besitz auf Bewohner des Rentierwirtschaftsgebiets (praktisch Nordfinnland) beschränkt. Die Tiere gehören einzelnen Hirten, weiden aber gemeinsam in Rentiergenossenschaften, den <em>paliskunnat</em>, die Gebiet und Arbeit teilen. Es gibt insgesamt rund 200 000 Rentiere in etwa 54 Genossenschaften, alle in Lappland und in Teilen von Nord-Ostbottnien.",
       "p2": "Die Herde ist in allem außer dem Eigentum wild. Die Rentiere ziehen frei über weite unbezäunte Taiga- und Fjällgebiete und fressen, was sie finden: Flechten im Winter (das verleiht dem Fleisch seinen besonders reinen Geschmack), Gräser und Kräuter im Sommer, Pilze im Herbst. Die Hirten folgen den Tieren mit Schneemobilen und Quads, treiben sie zweimal im Jahr für Ohrenmarkierung und (im Herbst) Schlachtauswahl zusammen und lassen sie dann wieder frei.",
       "p3": "Die Schlachtung findet im Herbst statt, typischerweise Oktober–November, wenn die Tiere ihr Höchstgewicht haben. Jede Genossenschaft betreibt ihren eigenen EU-zugelassenen Schlachthof. Der größte Teil des Fleisches wird im Umkreis von wenigen hundert Kilometern vom Lebensraum des Tieres verkauft, an Restaurants in Lappland, Fleischereien in Helsinki und Südfinnland und einen kleinen, aber ernstzunehmenden Exportmarkt in Mitteleuropa.",
       "p4": "<strong>Die Stücke, die Sie auf Lapplands Speisekarten finden</strong>, entsprechen grob dem Rindfleisch-Vokabular: <em>filee</em> (Filet, Sous-vide-Terrain), <em>sisäpaisti / ulkopaisti</em> (Innen- und Außenkeule, ganz gebraten oder in Scheiben für warm geräucherte Gerichte), <em>poronkäristys</em> (der alltägliche finnische Klassiker, dünne Streifen, Butter, Salz, mit Kartoffelpüree und Preiselbeere), und <em>suovas</em> (kalt geräuchertes Sattelfleisch, hauchdünn auf Roggenbrot). Bidos verwendet zähere Schmorstücke, typischerweise Schulter und Hachse, deshalb gart er stundenlang.",
-      "p5": "Ethisch betrachtet ist frei weidendes, von Sámi gehütetes Rentier eines der nachhaltigsten Proteine auf europäischen Speisekarten, keine Mastbecken, keine Antibiotika, keine geschlossenen Weiden, ursprüngliche Ernährung. Komplizierter wird es durchs Klima: Lapplands Winter werden feuchter, auf der Schneedecke bilden sich Eisschichten, die Rentiere kommen nicht an die Flechte, und manche Genossenschaften müssen zufüttern. Das verändert die Lieferkette und, langsam, den Geschmack. Eine Geschichte, die das kommende Jahrzehnt aufmerksam zu verfolgen lohnt.",
+      "p5": "Ethisch betrachtet ist frei weidendes, von Sámi gehütetes Rentier eines der nachhaltigsten Proteine auf europäischen Speisekarten, keine Mastbetriebe, keine Antibiotika, keine geschlossenen Weiden, ursprüngliche Ernährung. Komplizierter wird es durchs Klima: Lapplands Winter werden feuchter, auf der Schneedecke bilden sich Eisschichten, die Rentiere kommen nicht an die Flechte, und manche Genossenschaften müssen zufüttern. Das verändert die Lieferkette und, langsam, den Geschmack. Eine Geschichte, die das kommende Jahrzehnt aufmerksam zu verfolgen lohnt.",
       "tasteQ": "Wie schmeckt Rentier?",
       "tasteA1": "Milder als die meisten Wildarten. Rentier ist mager und feinfaserig, näher an einem guten Rinderfilet als an kräftigem Wild, mit einer klaren, leicht süßlichen Tiefe von Flechten und Fjellkräutern. Weil kaum Fett da ist, wird es schonend gegart und rare bis medium serviert.",
       "tasteA2": "Die klassische erste Begegnung ist Poronkäristys: hauchdünn gehobelte Scheiben in Butter, serviert auf Kartoffelpüree mit Preiselbeeren. Zu Festessen wird daraus Bidos, der langsame samische Eintopf, und am Feuer Suovas, gesalzen und leicht kaltgeräuchert."
@@ -257,7 +257,7 @@
       "p1": "Die Moltebeere, <em>luomi</em> auf Nordsamisch, ist Lapplands begehrteste Wildbeere und die widerspenstigste der wichtigen Beeren der Welt, wenn es ums Anbauen geht. Sie wächst nur in kalten, sauren, nassen Torfmooren in einem schmalen Streifen der nördlichen Hemisphäre: Nordskandinavien, Finnland, Teile Russlands, Alaska und Nordkanada. Innerhalb dieser Gebiete ist sie überraschend häufig. Außerhalb wächst sie nicht.",
       "p2": "Jahrzehntelange Agrarforschung hat es nicht geschafft, sie zu kommerzialisieren. Moltebeerenpflanzen sind zweihäusig (getrennte männliche und weibliche Pflanzen), wachsen extrem langsam, brauchen 6–7 Jahre bis zur ersten Frucht selbst unter perfekten Bedingungen, sind anfällig für späte Frühjahrsfröste, die die Blüten eines Jahres zerstören, und benötigen eine ganz bestimmte Kombination aus Feuchtigkeit, Licht und Moorchemie, die sich der Gewächshaussimulation entzogen hat. Norwegische und finnische Forscher haben mit Sorten Fortschritte gemacht, aber die kommerziellen Erträge sind nach wie vor ein Bruchteil der Wildernte. Daher ist das gesamte finnische Angebot, für Konfitürenhersteller, Likörproduzenten (Lakka), Restaurantküchen, wild gesammelt.",
       "p3": "Deshalb kostet ein Kilo frische Moltebeeren auf dem Markt in Rovaniemi Ende Juli typischerweise 25–50 €, das Fünf- bis Zehnfache von Heidelbeeren und deshalb bricht das Angebot zusammen, wenn die Frühjahrsfröste eine Woche später kommen. Das ist auch der Grund, warum das Moltebeerenparfait das Fine-Dining-Dessert Lapplands ist. Jeder Koch möchte sie verwenden, solange sie reichen.",
-      "p4": "<strong>Sammel-Ethik:</strong> Moltebeerenpflanzen erholen sich nur langsam. Das Sámi-Prinzip und die finnische Sammelpraxis, ist es, nur vollreife Beeren zu pflücken, unreife und überreife stehen zu lassen und die Pflanze niemals abzustreifen. Auf einem kleinen Moor reicht ein Kilo für die Familie.",
+      "p4": "<strong>Sammel-Ethik:</strong> Moltebeerenpflanzen erholen sich nur langsam. Das Sámi-Prinzip und zugleich die finnische Sammelpraxis lautet: nur vollreife Beeren pflücken, unreife und überreife stehen lassen und die Pflanze niemals abstreifen. Auf einem kleinen Moor reicht ein Kilo für die Familie.",
       "boldPick": "Sammel-Ethik:",
       "guideLinkLabel": "Zum großen Moltebeeren-Guide"
     },
@@ -266,7 +266,7 @@
       "headline": "Warum Eisangel-Fisch der beste des Jahres ist.",
       "p1": "Lappland hat etwa 6 000 Seen, jeder von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Maräne</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
       "p2": "Eisangeln ist mehr als ein lokales Hobby. Es ist die Fangmethode, die den geschmackvollsten arktischen Süßwasserfisch des Jahres liefert. Hier der Grund: Im Winter ist die Wassertemperatur auf dem Tiefpunkt und die Klarheit am höchsten. Der Stoffwechsel der Fische verlangsamt sich, die Fettreserven verdichten sich und Parasiten sterben ab (keine Warmwasservektoren). Das Fleisch einer im Februar geangelten Maräne ist dichter, süßer und reiner im Geschmack als bei demselben Fisch im Juli. Die Köche Lapplands stimmen ihre Menüs entsprechend ab.",
-      "p3": "Die Technik selbst ist geradlinig, ein Loch mit 50–80 cm durch das Eis bohren, einen kleinen Jig mit einem Haken absenken, warten, aber sie verlangt oft Temperaturen unter −15 °C. Die traditionelle Sámi-Methode beinhaltete, das Loch zwischen den Besuchen abzudecken, damit das warme Tiefenwasser die Rute nicht festfror. Heute verwenden die meisten isolierte Zelte (ein kleiner Eisangel-Unterstand ist günstig und verändert das Erlebnis komplett).",
+      "p3": "Die Technik selbst ist geradlinig: ein Loch durch 50–80 cm dickes Eis bohren, einen kleinen Jig mit einem Haken absenken, warten. Sie verlangt aber oft Temperaturen unter −15 °C. Traditionell deckte man das Loch zwischen den Besuchen ab, damit es nicht wieder zufror. Heute verwenden die meisten isolierte Zelte (ein kleiner Eisangel-Unterstand ist günstig und verändert das Erlebnis komplett).",
       "p4Prefix": "Auf der Speisekarte: leicht geräucherte Maräne (<em>graavisiika</em>) und Hechtrogen auf Roggenbrot sind die alltäglichen Vorspeisen Lapplands. Ganz gebratene Forelle ist ein klassisches Hauptgericht. Die Sápmi-Fischsuppe (Rezept",
       "p4LinkLabel": "auf der Rezeptseite",
       "p4Suffix": ") verwendet das, was die Fischer in dieser Woche gebracht haben."
@@ -433,7 +433,7 @@
         {
           "n": "01",
           "title": "Marktstände im Hochsommer",
-          "body": "Ab Ende Juli verkaufen Lapplands Märkte, der kauppatori von Rovaniemi eingeschlossen, frische Moltebeeren schalen- und kiloweise. Am selben Tag essen; sie halten nicht."
+          "body": "Ab Ende Juli verkaufen Lapplands Märkte, der Kauppatori von Rovaniemi eingeschlossen, frische Moltebeeren schalen- und kiloweise. Am selben Tag essen; sie halten nicht."
         },
         {
           "n": "02",
@@ -493,7 +493,7 @@
         {
           "n": "02",
           "title": "Überlebte aus eigener Vorratskammer",
-          "body": "Die samische Küche überdauerte die meisten vorindustriellen arktischen Esskulturen, weil sie nie Importe brauchte, um nach sich selbst zu schmecken: Rentier, Seefisch, Beeren, Wildkräuter, Roggen, Butter, Salz."
+          "body": "Die samische Küche überdauerte die meisten vorindustriellen arktischen Esskulturen, weil sie nie Importe brauchte, um nach sich selbst zu schmecken: Rentier, Süßwasserfisch, Beeren, Wildkräuter, Roggen, Butter, Salz."
         },
         {
           "n": "03",
@@ -675,15 +675,15 @@
         },
         {
           "sami": "Giđđadálvi",
-          "en": "Frühwinter",
+          "en": "Spätwinter",
           "when": "März – April",
-          "body": "Das Licht kommt zurück. Die Herden ziehen Richtung Kalbungsgebiete, das Kalben selbst ist noch Wochen entfernt. Das Eisangeln ist auf dem Höhepunkt, die Sonne steht lange genug, um auf dem See zu fischen, ohne zu frieren, und die Fische stehen noch unter dickem Eis. Geräucherte Renke bestimmt den Tisch. Die Tage werden täglich um etwa sieben Minuten länger."
+          "body": "Das Licht kommt zurück. Die Herden ziehen Richtung Kalbungsgebiete, das Kalben selbst ist noch Wochen entfernt. Das Eisangeln ist auf dem Höhepunkt, die Sonne steht lange genug, um auf dem See zu fischen, ohne zu frieren, und die Fische stehen noch unter dickem Eis. Geräucherte Maräne bestimmt den Tisch. Die Tage werden täglich um etwa sieben Minuten länger."
         },
         {
           "sami": "Giđđa",
           "en": "Frühling",
           "when": "Mai",
-          "body": "Schneeschmelze, und der Monat, den die Samen miessemánnu nennen, den Kälbermonat. Die Kälber kommen zur Welt. Die ersten jungen Birkenblätter und Brennnesseltriebe erscheinen, das erste frische Grün seit sieben Monaten. Birkensaft wird gesammelt und frisch getrunken oder vergoren. Die Zugvögel sind zurück auf den Fjells."
+          "body": "Schneeschmelze, und der Monat, den die Sámi miessemánnu nennen, den Kälbermonat. Die Kälber kommen zur Welt. Die ersten jungen Birkenblätter und Brennnesseltriebe erscheinen, das erste frische Grün seit sieben Monaten. Birkensaft wird gesammelt und frisch getrunken oder vergoren. Die Zugvögel sind zurück auf den Fjells."
         },
         {
           "sami": "Giđđageassi",
@@ -722,7 +722,7 @@
       "headline": "Warum die Rezepte zurückkehren.",
       "p1": "Für den größten Teil des 20. Jahrhunderts existierte die Sámi-Küche in zwei parallelen Wirklichkeiten. In Sámi-Haushalten war sie einfach das Abendessen, natürlich, nicht romantisiert, dasselbe Essen wie eine Generation zuvor. Außerhalb von Sápmi war sie nahezu unsichtbar: eine Fußnote in Reisebroschüren, manchmal exotisiert, meist übergangen.",
       "p2": "Die Wende begann Ende der 2000er Jahre. Die von Noma in Kopenhagen angestoßene New-Nordic-Bewegung machte gesammeltes, hyperlokales, indigen-nordisches Essen für einen Moment zum Trend in den Fine-Dining-Sälen Skandinaviens. Finnische Köche bemerkten, dass die Küche, für die sich der Rest der Welt zu begeistern begann, Wildkräuter, fermentierte Beeren, Räucherfisch, langsam gegartes Wild, auf den Tellern der Sámi seit tausend Jahren stand. Eine Zeit lang lief die Leitung in die andere Richtung: Sámi-Techniken und -Zutaten flossen in die Tasting-Menüs Helsinkis.",
-      "p3": "Dann begann die Sámi-Esswelt, die Erzählung zurückzuholen. Das Restaurant Aanaar in Inari baute ein Fine-Dining-Programm auf, das ohne Entschuldigung zuerst Sámi ist und dann erst Gastronomie. Das Kapitel Slow Food Sápmi trieb den Schutzstatus für traditionelle Produkte wie <em>suovas</em> (kalt geräuchertes Rentier) und <em>guompa</em> (fermentierte Engelwurz) voran. Sámi-Köche begannen, Sámi-Schüler auszubilden, statt sie in die französische Klassik zu schicken. Der Indigenous Terra Madre-Gipfel 2017 in Inari, ein globales Treffen indigener Esskulturen, war ein Wendepunkt.",
+      "p3": "Dann begann die Sámi-Esswelt, die Erzählung zurückzuholen. Das Restaurant Aanaar in Inari baute ein Fine-Dining-Programm auf, das ohne Entschuldigung zuerst Sámi ist und dann erst Gastronomie. Das Kapitel Slow Food Sápmi trieb den Schutzstatus für traditionelle Produkte wie <em>suovas</em> (kalt geräuchertes Rentier) und <em>guompa</em> (fermentierte Engelwurz) voran. Sámi-Köche begannen, Sámi-Schüler auszubilden, statt sie in die französische Klassik zu schicken. Der Indigenous-Terra-Madre-Gipfel 2017 in Inari, ein globales Treffen indigener Esskulturen, war ein Wendepunkt.",
       "p4": "Die Gegenwart ist interessant. Sámi-Küche steht in den Michelin-Listen Helsinkis und auf dem Alltagstisch in Utsjoki, aber die Rezepte gleichen sich weniger an, als man vielleicht denkt. Die Fine-Dining-Versionen erhalten ein Techniken-Update, Sous-vide, Milchsäurefermentation, gesammelte Blüten als Garnitur. Die Hausversionen bleiben fast unverändert. Beide sind gültig. Die Rezepte auf dieser Seite sind die Hausversionen.",
       "p5Prefix": "Wenn Sie eine Fine-Dining-Interpretation probieren möchten, gehen Sie zur Seite",
       "p5ModernLabel": "Modernes Lappland",
@@ -767,7 +767,7 @@
       "eyebrow": "Guide 03 · Modern",
       "title": "Die neue",
       "titleHighlight": "arktische Küche.",
-      "subtitle": "Die moderne Küche Lapplands nimmt die Zutaten, die die Samen seit tausend Jahren nutzen, Rentier, Seefisch, Wildbeeren und Kräuter, und richtet sie mit New-Nordic-Technik an. Diese Seite erzählt, wie es dazu kam und wo man es schmecken kann.",
+      "subtitle": "Die moderne Küche Lapplands nimmt die Zutaten, die die Sámi seit tausend Jahren nutzen, Rentier, Süßwasserfisch, Wildbeeren und Kräuter, und richtet sie mit New-Nordic-Technik an. Diese Seite erzählt, wie es dazu kam und wo man es schmecken kann.",
       "primaryCta": "Wo reservieren",
       "secondaryCta": "Traditionelle Rezepte"
     },
@@ -810,7 +810,7 @@
         "name": "Confit-Maräne mit Wildkräuteröl",
         "description": "Langsam in Fett gegarte Maräne, vollendet mit Mädesüß- oder Fichtenspitzenöl und etwas Säure aus dem Fermentationsregal.",
         "technique": "Confit",
-        "traditional": "Geräucherter und gesalzener Seefisch",
+        "traditional": "Geräucherter und gesalzener Süßwasserfisch",
         "innovation": "Niedrige Temperatur hält den zarten Fisch intakt; gesammelte Kräuter statt Dill als Standard"
       },
       {
@@ -829,17 +829,17 @@
       }
     ],
     "techniques": {
-      "kicker": "Was „New Nordic\" wirklich bedeutet",
+      "kicker": "Was „New Nordic“ wirklich bedeutet",
       "headline": "Fünf Techniken, die Sie auf jedem Tasting-Menü in Lappland sehen.",
-      "lead": "„New Nordic\" ist ein Marketingbegriff dafür, was auf dem Teller eine bestimmte Auswahl an Kochtechniken mit bestimmten Zutaten ist. Nehmen Sie das Branding weg, und Sie finden die fünf Dinge unten, sie sind das, was Ihre Speisekarte tut, ob der Koch es nun New Nordic, modernes Sámi, arktische Küche oder schlicht „Abendessen\" nennt.",
+      "lead": "„New Nordic“ ist ein Marketingbegriff für das, was auf dem Teller eine bestimmte Auswahl an Kochtechniken mit einer bestimmten Auswahl an Zutaten ist. Nehmen Sie das Branding weg, und übrig bleiben die fünf Punkte unten. Sie beschreiben, was auf Ihrem Menü tatsächlich passiert, ob der Koch es nun New Nordic, modernes Sámi, arktische Küche oder schlicht „Abendessen“ nennt.",
       "items": [
         {
           "title": "Milchsäurefermentation",
-          "body": "Salz und Zeit verwandeln rohe Gemüse und Beeren in intensiv schmeckende, leicht säuerliche Konserven. Milchsauer fermentierte Heidelbeeren zu einem Fleischgericht sind ein klassischer Lappland-Move, sie schneiden das Fett des Rentiers, wie Kapern Butter schneiden. Suchen Sie auf der Karte nach „fermentiert\" oder „eingelegt\"."
+          "body": "Salz und Zeit verwandeln rohe Gemüse und Beeren in intensiv schmeckende, leicht säuerliche Konserven. Milchsauer fermentierte Heidelbeeren zu einem Fleischgericht sind ein klassischer Lappland-Move, sie schneiden das Fett des Rentiers, wie Kapern Butter schneiden. Suchen Sie auf der Karte nach „fermentiert“ oder „eingelegt“."
         },
         {
           "title": "Sous-vide",
-          "body": "Garen im Vakuumbeutel in präzise temperiertem Wasser, genau auf den gewünschten Garpunkt. Deshalb ist das Rentierfilet von Rand zu Rand gleichmäßig rosa, ohne grauen Saum. Langsam, präzise und nachsichtig und entscheidend für ein so mageres Stück wie Rentier."
+          "body": "Garen im Vakuumbeutel in präzise temperiertem Wasser, genau auf den gewünschten Garpunkt. Deshalb ist das Rentierfilet von Rand zu Rand gleichmäßig rosa, ohne grauen Saum. Langsam, präzise und fehlerverzeihend, und damit entscheidend für ein so mageres Stück wie Rentier."
         },
         {
           "title": "Kaltsalzen und Kalträuchern",
@@ -851,13 +851,13 @@
         },
         {
           "title": "Nose-to-Tail-Verwendung",
-          "body": "Markenzeichen sowohl der Sámi-Küche als auch des New Nordic. Knochenmark als Bindemittel. Fischköpfe für den Fond. Rentierhäute zur Lederei, nicht in den Müll. Restaurants, die das ernst nehmen, kommunizieren es auf der Karte, „von Schnauze bis Schwanz\" und die Rechnung spiegelt das wider."
+          "body": "Markenzeichen sowohl der Sámi-Küche als auch des New Nordic. Knochenmark als Bindemittel. Fischköpfe für den Fond. Rentierhäute zur Lederei, nicht in den Müll. Restaurants, die das ernst nehmen, schreiben es auf die Karte, „von der Schnauze bis zum Schwanz“, und die Rechnung spiegelt das wider."
         }
       ]
     },
     "stayNear": {
       "headline": "Übernachten Sie in der Nähe der Küchen.",
-      "lead": "Lapplands beste Restaurants sind verteilt auf Rovaniemi, Inari, Levi und Saariselkä. Der klarste Plan: Wählen Sie ein Hotel in Gehweite dorthin, wo Sie essen möchten und überlassen Sie uns den Rest.",
+      "lead": "Lapplands beste Restaurants sind verteilt auf Rovaniemi, Inari, Levi und Saariselkä. Der klarste Plan: Wählen Sie ein Hotel in Gehweite zu dem Ort, an dem Sie essen möchten, und überlassen Sie uns den Rest.",
       "ctaPrimary": "Hotels in Rovaniemi",
       "ctaSecondary": "Oder buchen Sie eine Fine-Dining-Tour"
     }
@@ -895,7 +895,7 @@
     },
     "alert": {
       "kicker": "Lesen Sie das zuerst",
-      "body": "Pilzvergiftung ist real und nicht rückgängig zu machen. Wenn Sie einen Pilz nicht zu 100 % bestimmen können, mit Buch oder, besser, erfahrenen Einheimischen, lassen Sie ihn stehen. Für die erste Sammeltour buchen Sie eine geführte Tour; ein Nachmittag mit einem Guide ist eine ganze Saison Vermutungen wert."
+      "body": "Pilzvergiftung ist real und nicht rückgängig zu machen. Wenn Sie einen Pilz nicht zu 100 % bestimmen können, mit Buch oder, besser, erfahrenen Einheimischen, lassen Sie ihn stehen. Für die erste Sammeltour buchen Sie eine geführte Tour; ein Nachmittag mit einem Guide erspart Ihnen eine ganze Saison des Ratens."
     },
     "labels": {
       "where": "Wo es wächst",
@@ -963,13 +963,13 @@
       "p2": "<strong>Beide Knollenblätterpilze kommen in finnischen Wäldern vor.</strong> Schon kleine Mengen sind tödlich, es gibt kein Gegenmittel, und die Vergiftung tritt verzögert ein (Ihnen geht es 6–24 Stunden gut, dann beginnt die Leber zu versagen). Der Weiße Knollenblätterpilz ist weiß, sieht harmlos aus und wächst in Fichten- und Birkenwäldern im ganzen Land, auch in Lappland. Mehrere andere häufige Pilze Finnlands sind magenreizend, halluzinogen oder schlicht unangenehm.",
       "rulesIntro": "<strong>Fünf Regeln, die jeder finnische Sammler befolgt:</strong>",
       "rules": [
-        "Wenn Sie sich der Art nicht zu 100 % sicher sind, nicht zu 90 %, nicht „sieht aus wie ein Steinpilz\", pflücken Sie ihn nicht. Von dieser Regel gibt es keine Ausnahme.",
+        "Wenn Sie sich der Art nicht zu 100 % sicher sind, nicht zu 90 %, nicht „sieht aus wie ein Steinpilz“, pflücken Sie ihn nicht. Von dieser Regel gibt es keine Ausnahme.",
         "Prüfen Sie mit zwei unabhängigen Quellen: Bestimmungsbuch, App (Pikkupilkku und iNaturalist sind beide hilfreich) und idealerweise mit einer erfahrenen Person.",
-        "Achten Sie auf <em>alles</em>: Hutform, Lamellen oder Poren, Ring am Stiel, Stielbasis (graben Sie immer den ganzen Pilz aus, viele tödliche Arten erkennt man an der Knolle), Sporenfarbe, Geruch, wo er wächst, an wem er wächst.",
+        "Achten Sie auf <em>alles</em>: Hutform, Lamellen oder Poren, Ring am Stiel, Stielbasis (graben Sie immer den ganzen Pilz aus, viele tödliche Arten erkennt man an der Knolle), Sporenfarbe, Geruch, wo er wächst, woran er wächst.",
         "Bestimmen Sie nie aus einer einzigen Perspektive. Nehmen Sie den ganzen Pilz mit nach Hause und prüfen Sie ihn bei gutem Licht erneut. Bei jeder Unsicherheit: wegwerfen.",
         "Garen Sie alle Wildpilze vor dem Verzehr, auch jene, die technisch roh genießbar wären. Das ist finnischer Brauch, keine starre Regel, aber alle erfahrenen Sammler halten sich daran."
       ],
-      "p4": "<strong>Vier Pilze, die ein Anfänger sicher bestimmen lernen kann</strong>, an einem Nachmittag mit dem Bestimmungsbuch, sind: Steinpilz (<em>Boletus edulis</em>), Frühjahrslorchel (<em>Gyromitra esculenta</em>, aber <strong>nur zweimal vorgekocht, das Wasser jeweils weggegossen</strong>; viele Finnen halten sie für köstlich, viele andere meiden sie ganz; beide haben recht), Edelreizker (<em>Lactarius deliciosus</em>) und Pfifferling (<em>Cantharellus cibarius</em>). Steinpilz und Pfifferling haben in Finnland keine gefährlichen Verwechslungsarten und sind die empfohlenen Einstiegspilze.",
+      "p4": "<strong>Vier Pilze, die ein Anfänger sicher bestimmen lernen kann</strong>, an einem Nachmittag mit dem Bestimmungsbuch, sind: Steinpilz (<em>Boletus edulis</em>), Frühjahrslorchel (<em>Gyromitra esculenta</em>, aber <strong>nur zweimal vorgekocht, das Wasser jeweils weggegossen</strong>; viele Finnen halten sie für köstlich, viele andere meiden sie ganz; beide haben recht), Edelreizker (<em>Lactarius deliciosus</em>) und Pfifferling (<em>Cantharellus cibarius</em>). Von diesen vieren haben nur Steinpilz und Pfifferling in Finnland keine gefährlichen Verwechslungsarten; sie sind die empfohlenen Einstiegspilze.",
       "p5": "Wenn Sie zum ersten Mal in Lappland Pilze sammeln, tun Sie es mit jemandem, der sich auskennt. Das Kosten-Nutzen-Verhältnis einer geführten 4-Stunden-Tour ist unschlagbar und die Guides in Lappland sind in der Regel Sámi-Sammler, die das von ihren Großeltern gelernt haben, nicht kommerzielle Führer, die ein Handbuch ablesen."
     },
     "calendar": {
@@ -1018,7 +1018,7 @@
       "can": [
         "In Wäldern, auf Wiesen und unbewirtschafteten Flächen wandern, Ski fahren, Rad fahren, reiten und sich anderweitig bewegen.",
         "Wildbeeren, Pilze, nicht geschützte Wildblumen und Wildkräuter sammeln.",
-        "Mit einer einfachen Angel und Köder fischen (das Grundangeln ist erlaubnisfrei; die Fischereiabgabe deckt die meisten Seen).",
+        "Mit einer einfachen Handangel fischen (Angeln mit Rute und Schnur sowie Eisangeln sind erlaubnisfrei; für das Angeln mit Kunstködern ist die staatliche Fischereiabgabe fällig).",
         "Vorübergehend campen, typischerweise eine Nacht, auf den meisten unbewirtschafteten Flächen, abseits von Siedlungen.",
         "Schwimmen, sich waschen und Wasser aus jedem Gewässer nutzen, auch aus privatem.",
         "Gefrorene Seen und Flüsse überqueren, Schneemobil fahren oder auf den meisten unbewirtschafteten Flächen Ski fahren (für Schneemobile gelten eigene Regeln)."
@@ -1029,7 +1029,7 @@
         "Jagen oder fangen (dafür ist eine eigene Erlaubnis erforderlich).",
         "Motorisiert abseits markierter Wege im Gelände fahren (für Schneemobile gelten eigene Regeln).",
         "Auf fremdem Grund ohne Erlaubnis ein offenes Feuer entzünden. Nutzen Sie markierte Feuerstellen oder fragen Sie den Eigentümer.",
-        "In bewirtschafteten Gärten, Obstplantagen oder auf Feldern ernten, diese gelten nicht als „unbewirtschaftete Fläche\".",
+        "In bewirtschafteten Gärten, Obstplantagen oder auf Feldern ernten, diese gelten nicht als „unbewirtschaftete Fläche“.",
         "Den unmittelbaren Hofbereich eines bewohnten Hauses stören (Sichtweite zum Haus).",
         "Müll hinterlassen. Was Sie hineintragen, tragen Sie wieder hinaus."
       ],
@@ -1043,11 +1043,11 @@
   },
   "foodTours": {
     "title": "Kulinarische Touren in Lappland",
-    "description": "Drei buchbare Erlebnisse in Lappland: samische Kultur mit Mahlzeit, arktische Fine-Dining-Abende und geführte Sammelwanderungen. Kleine Gruppen, online buchbar.",
+    "description": "Drei buchbare Erlebnisse in Lappland: samische Kultur mit Mahlzeit, arktische Fine-Dining-Abende, geführte Sammeltouren. Kleine Gruppen, online buchbar.",
     "hero": {
       "eyebrow": "Guide 06 · Touren",
-      "title": "Iss Dich",
-      "titleHighlight": "nach Lappland.",
+      "title": "Essen Sie sich",
+      "titleHighlight": "durch Lappland.",
       "subtitle": "Drei buchbare Esserlebnisse, die tiefer gehen als ein Tasting-Menü: Sámi-Kultur, arktisches Fine Dining und ein geführter Sammelausflug mit anschließendem Abendessen.",
       "primaryCta": "Alle über GetYourGuide durchsehen"
     },
@@ -1096,7 +1096,7 @@
         "highlights": [
           "3-Gang-Mittagessen in einem regionalen Spitzenrestaurant",
           "Küchentour mit dem Chefkoch",
-          "Masterclass „Arktische Zutaten\"",
+          "Masterclass „Arktische Zutaten“",
           "Demonstration von Fine-Dining-Techniken",
           "5-Gang-Gourmet-Abendessen mit Weinbegleitung"
         ],
@@ -1144,13 +1144,13 @@
       },
       {
         "title": "Reservierungen sind entscheidend",
-        "body": "Lapplands Spitzenhäuser sind klein (oft 30–60 Plätze) und die Plätze am Chef's Table füllen sich zuerst. Reservieren Sie die Hochsaison im Winter (Mitte Dezember → Februar) und das Mitternachtssonnen-Fenster (6.6.–7.7. in Rovaniemi) mindestens 6–8 Wochen im Voraus. In den Michelin-Sälen Helsinkis liegt die Wartezeit normalerweise bei 4–6 Wochen."
+        "body": "Lapplands Spitzenhäuser sind klein (oft 30–60 Plätze) und die Plätze am Chef's Table füllen sich zuerst. Reservieren Sie die Hochsaison im Winter (Mitte Dezember bis Februar) und das Mitternachtssonnen-Fenster (6.6.–7.7. in Rovaniemi) mindestens 6–8 Wochen im Voraus. In den Michelin-Sälen Helsinkis liegt die Wartezeit normalerweise bei 4–6 Wochen."
       }
     ],
     "helsinki": {
       "kicker": "Michelin in Helsinki",
       "headline": "Acht Adressen, die in Helsinki eine Reservierung wert sind.",
-      "lead": "Die Sterne-Auszeichnungen ändern sich von Jahr zu Jahr, prüfen Sie die Liste vor der Reservierung im Guide. Die acht unten sind Restaurants, die im Guide oder in seiner Nähe konstant präsent sind und über die Reisende sprechen. Die Preisklasse folgt der Michelin-Konvention: € (unter 40 € pro Person), €€ (40–80 €), €€€ (80–140 €), €€€€ (140 €+).",
+      "lead": "Die Sterne-Auszeichnungen ändern sich von Jahr zu Jahr, prüfen Sie die Liste vor der Reservierung im Guide. Die acht unten sind Restaurants, die im Guide oder in seiner Nähe konstant präsent sind und über die Reisende sprechen. Die Preisklasse folgt der Michelin-Konvention: € (unter 40 € pro Person), €€ (40–80 €), €€€ (80–140 €), €€€€ (ab 140 €).",
       "ctaHotels": "Hotels in Helsinki",
       "footnote": "Unabhängige Redaktion. Keine Verbindung zum Michelin-Guide. Sterne und Bib-Gourmand-Listungen gelten nur entsprechend der aktuellen Ausgabe des Guides Nordische Länder, bitte prüfen Sie guide.michelin.com vor der Reservierung.",
       "rooms": [
@@ -1181,7 +1181,7 @@
         {
           "name": "Inari",
           "where": "Albertinkatu, Helsinki",
-          "angle": "Fine Dining mit Sámi-Anklang, dieselbe Köche-Schule wie Olo, kleinerer Saal, fokussierter.",
+          "angle": "Fine Dining mit Sámi-Anklang, aus derselben Küchenschule wie Olo, kleinerer Saal, fokussierter.",
           "band": "€€€€"
         },
         {
@@ -1199,7 +1199,7 @@
         {
           "name": "Ultima",
           "where": "Helsinki",
-          "angle": "Tasting-Menü aus vertikalem Anbau im Keller. Der „Helsinki-2026\"-typischste Saal auf dieser Liste.",
+          "angle": "Tasting-Menü aus vertikalem Anbau im Keller. Der Saal auf dieser Liste, der am ehesten wirklich „Helsinki 2026“ ist.",
           "band": "€€€€"
         }
       ]
@@ -1207,7 +1207,7 @@
     "lapland": {
       "kicker": "Fine Dining in Lappland",
       "headline": "Drei Restaurants, für die sich die Reservierung lohnt.",
-      "lead": "Das sind die Küchen, die das Kochen ernst genug nehmen, um mit Helsinki auf Tellerebene mitzuhalten, während die Zutaten vollständig aus Lappland kommen. Keines hat zum Zeitpunkt dieses Textes einen Michelin-Stern, auf einer Fünf-Jahres-Sicht könnte jedes einen bekommen.",
+      "lead": "Das sind die Küchen, die das Kochen ernst genug nehmen, um mit Helsinki auf Tellerebene mitzuhalten, während die Zutaten vollständig aus Lappland kommen. Keines hat zum Zeitpunkt dieses Textes einen Michelin-Stern; auf Sicht von fünf Jahren könnte jedes einen bekommen.",
       "labels": {
         "signature": "Signature-Gerichte",
         "band": "Preisklasse",
@@ -1219,7 +1219,7 @@
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, Zentrum von Rovaniemi",
-          "angle": "Lapplands meistgenanntes Fine-Dining-Restaurant. Sámi-geprägte Teller, Sous-vide-Rentierfilet mit Heidelbeerreduktion ist Markenzeichen und ein Wildbeerenprogramm, das auf dem aufbaut, was die Sammler in Inari am selben Morgen gebracht haben. Offene Küche, warmes Holzinterieur, 60 Plätze.",
+          "angle": "Lapplands meistgenanntes Fine-Dining-Restaurant. Sámi-geprägte Teller: Sous-vide-Rentierfilet mit Heidelbeerreduktion ist das Markenzeichen, dazu ein Wildbeerenprogramm, das auf dem aufbaut, was die Sammler in Inari am selben Morgen gebracht haben. Offene Küche, warmes Holzinterieur, 60 Plätze.",
           "signature": "Sous-vide-Rentierfilet · in Kiefer gesalzener Saibling · Moltebeerenparfait",
           "band": "€€€, Tasting-Menü 68 € · Hauptgerichte à la carte 28–42 €",
           "booking": "3–4 Wochen im Voraus im Sommer und im Dezember reservieren. Walk-in Di–Mi möglich."
@@ -1228,7 +1228,7 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · am Ufer des Juutuanjoki",
-          "angle": "Am nächsten an einem Destination-Dining-Erlebnis tief im Sámi-Land. Der Koch baut das Menü um die acht Sámi-Jahreszeiten Inaris auf, milchsauer fermentierte Heidelbeeren, geräuchertes Rentierherz, kalt gesalzener Saibling und die Weinkarte ist für eine Stadt mit 7 000 Einwohnern ungewöhnlich tief.",
+          "angle": "Am nächsten an einem Destination-Dining-Erlebnis tief im Sámi-Land. Der Koch baut das Menü um die acht Sámi-Jahreszeiten Inaris auf: milchsauer fermentierte Heidelbeeren, geräuchertes Rentierherz, kalt gesalzener Saibling. Und die Weinkarte ist für eine Gemeinde mit 7 000 Einwohnern ungewöhnlich tief.",
           "signature": "7-Gänge-Wildbeeren-Tasting · geräuchertes Rentierherz · Birkensirup-Parfait",
           "band": "€€€€, Tasting-Menü 85 €, mit Weinbegleitung 145 €",
           "booking": "Zwei Service-Zeiten pro Abend, insgesamt 32 Plätze. 6–8 Wochen im Voraus reservieren, im Winter und im Mitternachtssonnen-Fenster."
@@ -1237,8 +1237,8 @@
           "name": "Rakas im Arctic TreeHouse Hotel",
           "city": "Rovaniemi · Bereich Santa Park",
           "address": "Tarvantie 3, 7 km vom Zentrum Rovaniemis · Taxi oder Hoteltransfer",
-          "angle": "Speisesaal mit Glasdach und Panorama nach Norden in den Fichtenwald, so gebaut, dass Sie während des Tasting-Menüs im Winter die Nordlichter beobachten können. Confit-arktische Maräne in Wildkräuteröl ist das Aushängeschild, garniert mit gesammelten Mikrokräutern und essbaren Blüten.",
-          "signature": "Confit-arktische Maräne · in Kiefer gesalzene Forelle · Schokolade-Preiselbeer-Kuppel",
+          "angle": "Speisesaal mit Glasdach und Panorama nach Norden in den Fichtenwald, so gebaut, dass Sie während des Tasting-Menüs im Winter die Nordlichter beobachten können. Confierte arktische Maräne in Wildkräuteröl ist das Aushängeschild, garniert mit gesammelten Mikrokräutern und essbaren Blüten.",
+          "signature": "Confierte arktische Maräne · in Kiefer gesalzene Forelle · Schokolade-Preiselbeer-Kuppel",
           "band": "€€€€, 4-Gang-Menü 78 € · 7-Gang-Menü 115 €",
           "booking": "Hotelgäste haben Vorrang. Andere reservieren 4 Wochen im Voraus im Winter."
         }
@@ -1293,7 +1293,7 @@
     },
     "bookingNotes": {
       "headline": "Vier Dinge, die Anfänger falsch machen.",
-      "lead": "Lapplands Küchen sind nachsichtig. Sie sind dennoch kleine Säle mit küchenseitig geführtem Service. Hier vier Korrekturen, die wir einem Freund vor der ersten Reservierung mitgeben.",
+      "lead": "Lapplands Küchen nehmen es gelassen, es sind aber trotzdem kleine Säle mit küchenseitig geführtem Service. Hier vier Korrekturen, die wir einem Freund vor der ersten Reservierung mitgeben.",
       "items": [
         {
           "label": "Planen Sie mindestens 3 Stunden ein",
@@ -1315,7 +1315,7 @@
     },
     "stayNear": {
       "headline": "Übernachten Sie in der Nähe der Küchen.",
-      "lead": "Auf einer Fine-Dining-Reise ist der klarste Plan ein Hotel in 10 Minuten zu Fuß (oder kurzer Taxifahrt) Entfernung vom Restaurant. Rovaniemi für Nili / Rakas, Inari für Aanaar.",
+      "lead": "Auf einer Fine-Dining-Reise ist der klarste Plan ein Hotel, das zehn Gehminuten (oder eine kurze Taxifahrt) vom Restaurant entfernt liegt. Rovaniemi für Nili / Rakas, Inari für Aanaar.",
       "ctaRovaniemi": "Hotels in Rovaniemi",
       "ctaInari": "Hotels in Inari",
       "tourPrefix": "Möchten Sie einen Guide, der Transport, Reservierungen und Vorstellungen beim Koch für Sie übernimmt?",
@@ -1324,7 +1324,7 @@
   },
   "about": {
     "title": "Über LaplandFood",
-    "description": "Was LaplandFood ist, wie Themen gewählt werden, unsere redaktionellen Grundsätze und wie Partnerlinks gekennzeichnet sind. Teil des #LaplandVibes-Netzwerks.",
+    "description": "Was LaplandFood ist, wie Themen gewählt werden, redaktionelle Grundsätze und wie Partnerlinks gekennzeichnet sind. Teil des #LaplandVibes-Netzwerks.",
     "hero": {
       "kicker": "Über LaplandFood",
       "headline": "Finnisches Essen, von innen geschrieben.",
@@ -1332,7 +1332,7 @@
     },
     "why": {
       "headline": "Warum es diese Seite gibt.",
-      "p1": "Das meiste, was auf Englisch über Lapplands Küche geschrieben wird, liegt an einem von zwei Extremen: luftige Prospektsprache (\"magische samische Aromen unter der Mitternachtssonne\") oder komplett belegte akademische Ethnografie, die niemand liest, bevor er einen Tisch bucht. Wir zielen auf die Lücke dazwischen: klare Sätze, konkrete Zutaten und konkrete Restaurants, Zahlen nur, wo Zahlen helfen, geschrieben nördlich des Polarkreises statt an einem Schreibtisch in London.",
+      "p1": "Das meiste, was auf Englisch über Lapplands Küche geschrieben wird, liegt an einem von zwei Extremen: luftige Prospektsprache („magische samische Aromen unter der Mitternachtssonne“) oder komplett belegte akademische Ethnografie, die niemand liest, bevor er einen Tisch bucht. Wir zielen auf die Lücke dazwischen: klare Sätze, konkrete Zutaten und konkrete Restaurants, Zahlen nur, wo Zahlen helfen, geschrieben nördlich des Polarkreises statt an einem Schreibtisch in London.",
       "p3": "Der Maßstab, den wir an uns anlegen: <strong>Ein Freund, der zum ersten Mal nach Lappland kommt, sollte drei Seiten hier lesen und mit genug Wissen losziehen können, um eine echte Food-Reise zu planen.</strong> Besteht ein Abschnitt diesen Test nicht, schreiben wir ihn neu."
     },
     "cover": {
@@ -1381,7 +1381,7 @@
         },
         {
           "t": "Genauigkeit vor Atmosphäre",
-          "body": "Eine Aussage wie „Lapplands bestes Fine Dining\" ist ohne Präzision sinnlos. Wir sagen, was zu bestellen ist, was es kostet, wann reserviert werden muss und wo Sie hingehen. Was wir nicht präzise belegen können, lassen wir weg."
+          "body": "Eine Aussage wie „Lapplands bestes Fine Dining“ ist ohne Präzision sinnlos. Wir sagen, was zu bestellen ist, was es kostet, wann reserviert werden muss und wo Sie hingehen. Was wir nicht präzise belegen können, lassen wir weg."
         },
         {
           "t": "Partnerschaft verändert die Redaktion nicht",
