@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Summer",
           "when": "Jul",
-          "body": "Full midnight sun. The cloudberry harvest: roughly four weeks in which families spend whole evenings in the bog picking. Herbs are dried for winter; berries are jammed, frozen, or fermented. Lake fishing is daily. The kitchen barely closes."
+          "body": "Full midnight sun. The cloudberry harvest: an intense picking window of about three weeks in which families spend whole evenings in the bog. Herbs are dried for winter; berries are jammed, frozen, or fermented. Lake fishing is daily. The kitchen barely closes."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Mushroom safety",
       "headline": "Read this before you pick a single mushroom.",
-      "p1": "The mushroom-safety conversation in Finland is calm, precise, and unforgiving. It is the most controlled risk in the foraging culture. Most years, the Finnish Poison Information Centre handles a few hundred mushroom-related calls; serious poisonings are rare; deaths, on the rare occasions they happen, are most often caused by two species: the death cap (<em>Amanita phalloides</em>) and its close relative, the destroying angel (<em>Amanita virosa</em>).",
+      "p1": "The mushroom-safety conversation in Finland is calm, precise, and unforgiving. It is the most controlled risk in the foraging culture. Most years, the Finnish Poison Information Centre handles a few hundred mushroom-related calls; serious poisonings are rare; deaths, on the rare occasions they happen, have been linked to the death cap (<em>Amanita phalloides</em>) and the destroying angel (<em>Amanita virosa</em>). The two are not lookalikes: the death cap is olive-green, the destroying angel pure white.",
       "p2": "<strong>The death cap and destroying angel are present in Finnish forests.</strong> Both are deadly even in tiny quantities: there is no antidote, and the toxicity is delayed (you feel fine for 6–24 hours, then your liver starts to fail). The destroying angel is white, looks innocuous, and grows in spruce and birch forests across the country including Lapland. Several other common Finnish mushrooms are gastrically toxic, hallucinogenic, or simply unpleasant.",
       "rulesIntro": "<strong>The five rules every Finnish picker follows:</strong>",
       "rules": [

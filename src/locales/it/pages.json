@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Estate",
           "when": "Lug",
-          "body": "Sole di mezzanotte pieno. La raccolta dei lamponi artici, tre-sei settimane in cui le famiglie passano intere serate nella torbiera a raccogliere. Le erbe si essiccano per l'inverno; le bacche si fanno in marmellata, si congelano o si fermentano. La pesca in lago è quotidiana. La cucina chiude a malapena."
+          "body": "Sole di mezzanotte pieno. La raccolta dei lamponi artici, una finestra intensa di circa tre settimane in cui le famiglie passano intere serate nella torbiera. Le erbe si essiccano per l'inverno; le bacche si fanno in marmellata, si congelano o si fermentano. La pesca in lago è quotidiana. La cucina chiude a malapena."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Sicurezza dei funghi",
       "headline": "Lo legga prima di raccogliere un solo fungo.",
-      "p1": "La conversazione sulla sicurezza dei funghi in Finlandia è calma, precisa e senza compromessi. È il rischio più controllato nella cultura della raccolta. Negli anni tipici il Centro finlandese di informazione tossicologica gestisce qualche centinaio di chiamate legate ai funghi; gli avvelenamenti gravi sono rari; i decessi, quando ci sono, vengono per lo più da una sola specie, l'amanita falloide (<em>Amanita phalloides</em>) e dalla cugina quasi identica, l'amanita virosa (<em>Amanita virosa</em>).",
+      "p1": "La conversazione sulla sicurezza dei funghi in Finlandia è calma, precisa e senza compromessi. È il rischio più controllato nella cultura della raccolta. Negli anni tipici il Centro finlandese di informazione tossicologica gestisce qualche centinaio di chiamate legate ai funghi; gli avvelenamenti gravi sono rari; i rari decessi sono stati collegati all'amanita falloide (<em>Amanita phalloides</em>) e all'amanita virosa (<em>Amanita virosa</em>). Le due non si somigliano: una è verde oliva, l'altra bianca candida.",
       "p2": "<strong>L'amanita falloide e l'amanita virosa sono presenti nei boschi finlandesi.</strong> Entrambe sono mortali anche in piccole quantità, non esiste antidoto e la tossicità è ritardata (si sta bene per 6–24 ore, poi il fegato inizia a cedere). L'amanita virosa è bianca, sembra innocua e cresce in peccete e betulleti in tutto il paese, Lapponia inclusa. Diversi altri funghi finlandesi comuni sono gastrotossici, allucinogeni o semplicemente sgradevoli.",
       "rulesIntro": "<strong>Le cinque regole che ogni raccoglitore finlandese segue:</strong>",
       "rules": [

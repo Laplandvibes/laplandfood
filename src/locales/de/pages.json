@@ -695,7 +695,7 @@
           "sami": "Geassi",
           "en": "Sommer",
           "when": "Juli",
-          "body": "Volle Mitternachtssonne. Die Moltebeerenernte, drei bis sechs Wochen, in denen Familien ganze Abende auf dem Moor verbringen und pflücken. Kräuter werden für den Winter getrocknet; Beeren werden eingekocht, eingefroren oder fermentiert. Tägliches Angeln am See. Die Küche schließt kaum."
+          "body": "Volle Mitternachtssonne. Die Moltebeerenernte, ein intensives Pflückfenster von rund drei Wochen, in denen Familien ganze Abende auf dem Moor verbringen. Kräuter werden für den Winter getrocknet; Beeren werden eingekocht, eingefroren oder fermentiert. Tägliches Angeln am See. Die Küche schließt kaum."
         },
         {
           "sami": "Čakčageassi",
@@ -959,7 +959,7 @@
     "mushroomSafety": {
       "kicker": "Pilzsicherheit",
       "headline": "Lesen Sie das, bevor Sie einen einzigen Pilz pflücken.",
-      "p1": "Die Sicherheitsdebatte zu Pilzen ist in Finnland ruhig, präzise und unnachgiebig. Es ist das am sorgfältigsten gehandhabte Risiko der Sammelkultur. In den meisten Jahren bearbeitet die Giftnotrufzentrale einige hundert pilzbezogene Anrufe; schwere Vergiftungen sind selten; Todesfälle in einem beliebigen Jahr betreffen meist eine einzige Art, den Grünen Knollenblätterpilz (<em>Amanita phalloides</em>) und seinen nahezu identischen Verwandten, den Weißen Knollenblätterpilz (<em>Amanita virosa</em>).",
+      "p1": "Die Sicherheitsdebatte zu Pilzen ist in Finnland ruhig, präzise und unnachgiebig. Es ist das am sorgfältigsten gehandhabte Risiko der Sammelkultur. In den meisten Jahren bearbeitet die Giftnotrufzentrale einige hundert pilzbezogene Anrufe; schwere Vergiftungen sind selten; die seltenen Todesfälle werden mit dem Grünen Knollenblätterpilz (<em>Amanita phalloides</em>) und dem Weißen Knollenblätterpilz (<em>Amanita virosa</em>) in Verbindung gebracht. Die beiden sehen sich nicht ähnlich: der eine ist olivgrün, der andere reinweiß.",
       "p2": "<strong>Beide Knollenblätterpilze kommen in finnischen Wäldern vor.</strong> Schon kleine Mengen sind tödlich, es gibt kein Gegenmittel, und die Vergiftung tritt verzögert ein (Ihnen geht es 6–24 Stunden gut, dann beginnt die Leber zu versagen). Der Weiße Knollenblätterpilz ist weiß, sieht harmlos aus und wächst in Fichten- und Birkenwäldern im ganzen Land, auch in Lappland. Mehrere andere häufige Pilze Finnlands sind magenreizend, halluzinogen oder schlicht unangenehm.",
       "rulesIntro": "<strong>Fünf Regeln, die jeder finnische Sammler befolgt:</strong>",
       "rules": [

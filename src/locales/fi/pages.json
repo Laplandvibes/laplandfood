@@ -695,7 +695,7 @@
           "sami": "Geassi",
           "en": "Kesä",
           "when": "heinä",
-          "body": "Täysi keskiyön aurinko. Hillanpoiminta, kolme tai kuusi viikkoa, jolloin perheet viettävät kokonaisia iltoja suolla poimimassa. Yrtit kuivataan talvelle; marjat hilloitetaan, jäädytetään tai fermentoidaan. Järvikalastus päivittäin. Keittiö ei juuri sulje."
+          "body": "Täysi keskiyön aurinko. Hillanpoiminta, noin kolmen viikon kiivas poiminta-aika, jolloin perheet viettävät kokonaisia iltoja suolla. Yrtit kuivataan talvelle; marjat hilloitetaan, jäädytetään tai fermentoidaan. Järvikalastus päivittäin. Keittiö ei juuri sulje."
         },
         {
           "sami": "Čakčageassi",
@@ -959,7 +959,7 @@
     "mushroomSafety": {
       "kicker": "Sienien turvallisuus",
       "headline": "Lue tämä ennen kuin poimit yhdenkään sienen.",
-      "p1": "Sienien turvallisuus­keskustelu Suomessa on rauhallinen, tarkka ja anteeksiantamaton. Se on keräily­kulttuurin tarkimmin hallittu riski. Useimpina vuosina Myrkytyskeskus käsittelee muutaman sadan sieniin liittyvää puhelua; vakavat myrkytykset ovat harvinaisia; kuolemia minkä tahansa vuoden aikana on useimmiten yhdestä lajista, kavalakärpässienestä (<em>Amanita phalloides</em>) ja sen lähes identtisestä lähisukulaisesta valkokärpässienestä (<em>Amanita virosa</em>).",
+      "p1": "Sienien turvallisuus­keskustelu Suomessa on rauhallinen, tarkka ja anteeksiantamaton. Se on keräily­kulttuurin tarkimmin hallittu riski. Useimpina vuosina Myrkytyskeskus käsittelee muutaman sadan sieniin liittyvää puhelua; vakavat myrkytykset ovat harvinaisia; harvat kuolemat on yhdistetty kavalakärpässieneen (<em>Amanita phalloides</em>) ja valkokärpässieneen (<em>Amanita virosa</em>). Ne eivät ole toistensa näköisiä: kavalakärpässieni on oliivinvihreä, valkokärpässieni puhtaan valkoinen.",
       "p2": "<strong>Kavalakärpässieni ja valkokärpässieni esiintyvät Suomen metsissä.</strong> Molemmat ovat tappavia jo pieninä määrinä, vastalääkettä ei ole, ja myrkyllisyys on viiveellä alkavaa (olosi on hyvä 6–24 tuntia, sitten maksasi alkaa pettää). Valkokärpässieni on valkoinen, näyttää viattomalta ja kasvaa kuusi- ja koivumetsissä koko maassa, Lappi mukaan lukien. Useat muut Suomen yleiset sienet ovat vatsa­myrkyllisiä, hallusinogeenisia tai yksinkertaisesti epämiellyttäviä.",
       "rulesIntro": "<strong>Viisi sääntöä, joita jokainen suomalainen sienestäjä noudattaa:</strong>",
       "rules": [

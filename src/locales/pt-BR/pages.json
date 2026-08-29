@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Verão",
           "when": "Jul",
-          "body": "Sol da meia-noite pleno. A colheita da amora ártica, de três a seis semanas em que as famílias passam noites inteiras no pântano colhendo. As ervas são secas para o inverno; as frutas viram geleia, são congeladas ou fermentadas. A pesca no lago é diária. A cozinha quase não fecha."
+          "body": "Sol da meia-noite pleno. A colheita da amora ártica, uma janela intensa de cerca de três semanas em que as famílias passam noites inteiras no pântano. As ervas são secas para o inverno; as frutas viram geleia, são congeladas ou fermentadas. A pesca no lago é diária. A cozinha quase não fecha."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Segurança com cogumelos",
       "headline": "Leia isto antes de colher um único cogumelo.",
-      "p1": "A conversa sobre segurança com cogumelos na Finlândia é calma, precisa e implacável. É o risco mais controlado da cultura de colheita. Na maioria dos anos, o Centro de Informações Toxicológicas finlandês atende algumas centenas de ligações relacionadas a cogumelos; envenenamentos graves são raros; as mortes em qualquer ano costumam vir de uma única espécie, a amanita-falóide (<em>Amanita phalloides</em>), e de um primo quase idêntico, o anjo-destruidor (<em>Amanita virosa</em>).",
+      "p1": "A conversa sobre segurança com cogumelos na Finlândia é calma, precisa e implacável. É o risco mais controlado da cultura de colheita. Na maioria dos anos, o Centro de Informações Toxicológicas finlandês atende algumas centenas de ligações relacionadas a cogumelos; envenenamentos graves são raros; as raras mortes foram associadas à amanita-falóide (<em>Amanita phalloides</em>) e ao anjo-destruidor (<em>Amanita virosa</em>). Os dois não são parecidos: um é verde-oliva, o outro branco puro.",
       "p2": "<strong>A amanita-falóide e o anjo-destruidor estão presentes nas florestas finlandesas.</strong> Ambos são letais mesmo em quantidades minúsculas, não há antídoto e a toxicidade é tardia (você se sente bem por 6 a 24 horas e depois o fígado começa a falhar). O anjo-destruidor é branco, parece inofensivo e cresce em florestas de abeto e bétula por todo o país, inclusive na Lapônia. Vários outros cogumelos finlandeses comuns são gastricamente tóxicos, alucinógenos ou simplesmente desagradáveis.",
       "rulesIntro": "<strong>As cinco regras que todo coletor finlandês segue:</strong>",
       "rules": [

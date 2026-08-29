@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Zomer",
           "when": "Jul",
-          "body": "Volle middernachtzon. De kruipbramen-oogst, drie tot zes weken waarin gezinnen hele avonden in het ven plukken. Kruiden worden gedroogd voor de winter; bessen worden tot jam, ingevroren of gefermenteerd. Meervissen is dagelijks. De keuken sluit nauwelijks."
+          "body": "Volle middernachtzon. De kruipbramen-oogst, een intensief plukvenster van zo’n drie weken waarin gezinnen hele avonden in het ven plukken. Kruiden worden gedroogd voor de winter; bessen worden tot jam, ingevroren of gefermenteerd. Meervissen is dagelijks. De keuken sluit nauwelijks."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Paddenstoelveiligheid",
       "headline": "Lees dit voor u één paddenstoel plukt.",
-      "p1": "Het paddenstoelveiligheids-gesprek in Finland is rustig, precies en onverbiddelijk. Het is het meest gecontroleerde risico in de plukcultuur. In gemiddelde jaren handelt het Finse Vergiftigingsinformatiecentrum een paar honderd paddenstoelgerelateerde telefoontjes af; ernstige vergiftigingen zijn zeldzaam; sterfgevallen, als ze er zijn, komen meestal van één soort, de groene knolamaniet (<em>Amanita phalloides</em>) en een vrijwel identieke neef, de kleverige knolamaniet (<em>Amanita virosa</em>).",
+      "p1": "Het paddenstoelveiligheids-gesprek in Finland is rustig, precies en onverbiddelijk. Het is het meest gecontroleerde risico in de plukcultuur. In gemiddelde jaren handelt het Finse Vergiftigingsinformatiecentrum een paar honderd paddenstoelgerelateerde telefoontjes af; ernstige vergiftigingen zijn zeldzaam; de zeldzame sterfgevallen zijn in verband gebracht met de groene knolamaniet (<em>Amanita phalloides</em>) en de kleverige knolamaniet (<em>Amanita virosa</em>). De twee lijken niet op elkaar: de een is olijfgroen, de ander zuiver wit.",
       "p2": "<strong>De groene knolamaniet en de kleverige knolamaniet zijn aanwezig in Finse bossen.</strong> Beide zijn dodelijk in piepkleine hoeveelheden, er is geen antidoot en de toxiciteit is vertraagd (u voelt zich 6 tot 24 uur prima, dan begint uw lever te falen). De kleverige knolamaniet is wit, ziet er onschuldig uit en groeit in sparren- en berkenbossen door het hele land, inclusief Lapland. Diverse andere veel voorkomende Finse paddenstoelen zijn maag-toxisch, hallucinerend of gewoon onaangenaam.",
       "rulesIntro": "<strong>De vijf regels die elke Finse plukker volgt:</strong>",
       "rules": [

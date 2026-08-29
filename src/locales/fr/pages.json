@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Été",
           "when": "Juil",
-          "body": "Soleil de minuit complet. La récolte des mûres arctiques, trois à six semaines où les familles passent des soirées entières dans la tourbière à cueillir. Les herbes sont séchées pour l'hiver ; les baies sont confiturées, congelées ou fermentées. La pêche en lac est quotidienne. La cuisine ferme à peine."
+          "body": "Soleil de minuit complet. La récolte des mûres arctiques, une fenêtre de cueillette intense d’environ trois semaines où les familles passent des soirées entières dans la tourbière. Les herbes sont séchées pour l'hiver ; les baies sont confiturées, congelées ou fermentées. La pêche en lac est quotidienne. La cuisine ferme à peine."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Sécurité champignons",
       "headline": "À lire avant de cueillir un seul champignon.",
-      "p1": "La conversation sur la sécurité des champignons en Finlande est calme, précise et sans concession. C'est le risque le plus maîtrisé de la culture cueillette. Les années habituelles, le Centre finlandais d'information toxicologique gère quelques centaines d'appels liés aux champignons ; les empoisonnements graves sont rares ; les décès, quand il y en a, viennent le plus souvent d'une seule espèce, l'amanite phalloïde (<em>Amanita phalloides</em>) et de sa cousine quasi identique, l'amanite vireuse (<em>Amanita virosa</em>).",
+      "p1": "La conversation sur la sécurité des champignons en Finlande est calme, précise et sans concession. C'est le risque le plus maîtrisé de la culture cueillette. Les années habituelles, le Centre finlandais d'information toxicologique gère quelques centaines d'appels liés aux champignons ; les empoisonnements graves sont rares ; les rares décès ont été liés à l'amanite phalloïde (<em>Amanita phalloides</em>) et à l'amanite vireuse (<em>Amanita virosa</em>). Les deux ne se ressemblent pas : l'une est vert olive, l'autre d'un blanc pur.",
       "p2": "<strong>L'amanite phalloïde et l'amanite vireuse sont présentes dans les forêts finlandaises.</strong> Toutes deux sont mortelles même en petites quantités, il n'y a pas d'antidote et la toxicité est différée (vous vous sentez bien 6 à 24 heures, puis le foie commence à lâcher). L'amanite vireuse est blanche, paraît anodine et pousse en pessière et en bétulaie à travers le pays, y compris en Laponie. Plusieurs autres champignons finlandais communs sont gastro-toxiques, hallucinogènes ou simplement désagréables.",
       "rulesIntro": "<strong>Les cinq règles que tout cueilleur finlandais suit :</strong>",
       "rules": [

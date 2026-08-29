@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Sommar",
           "when": "juli",
-          "body": "Full midnattssol. Hjortronskörden, tre till sex veckor då familjer tillbringar hela kvällar med att plocka på myren. Örter torkas för vintern; bär blir sylt, fryses eller fermenteras. Insjöfisket pågår dagligen. Köket stänger nästan aldrig."
+          "body": "Full midnattssol. Hjortronskörden, ett intensivt plockfönster på ungefär tre veckor då familjer tillbringar hela kvällar på myren. Örter torkas för vintern; bär blir sylt, fryses eller fermenteras. Insjöfisket pågår dagligen. Köket stänger nästan aldrig."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Svampsäkerhet",
       "headline": "Läs det här innan du plockar en enda svamp.",
-      "p1": "Samtalet om svampsäkerhet i Finland är lugnt, exakt och obevekligt. Det är den mest kontrollerade risken i plockningskulturen. De flesta år hanterar Giftinformationscentralen i Finland några hundra svamprelaterade samtal; allvarliga förgiftningar är sällsynta; dödsfall under ett enskilt år kommer oftast från en enda art, lömsk flugsvamp (<em>Amanita phalloides</em>), och en nästan identisk släkting, vit flugsvamp (<em>Amanita virosa</em>).",
+      "p1": "Samtalet om svampsäkerhet i Finland är lugnt, exakt och obevekligt. Det är den mest kontrollerade risken i plockningskulturen. De flesta år hanterar Giftinformationscentralen i Finland några hundra svamprelaterade samtal; allvarliga förgiftningar är sällsynta; de sällsynta dödsfallen har kopplats till lömsk flugsvamp (<em>Amanita phalloides</em>) och vit flugsvamp (<em>Amanita virosa</em>). De två liknar inte varandra: den ena är olivgrön, den andra helvit.",
       "p2": "<strong>Lömsk flugsvamp och vit flugsvamp finns i finska skogar.</strong> Båda är dödliga även i små mängder, det finns inget motgift och giftverkan är fördröjd (du mår bra i 6–24 timmar, sedan börjar levern svikta). Vit flugsvamp är vit, ser harmlös ut och växer i gran- och björkskogar i hela landet, inklusive Lappland. Flera andra vanliga finska svampar är magtoxiska, hallucinogena eller helt enkelt obehagliga.",
       "rulesIntro": "<strong>De fem regler varje finsk plockare följer:</strong>",
       "rules": [

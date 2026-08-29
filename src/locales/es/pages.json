@@ -694,7 +694,7 @@
           "sami": "Geassi",
           "en": "Verano",
           "when": "Jul",
-          "body": "Pleno sol de medianoche. La cosecha de la mora ártica, de tres a seis semanas en las que las familias pasan tardes enteras en la turbera recolectando. Las hierbas se secan para el invierno; las bayas se hacen mermelada, se congelan o se fermentan. La pesca en lago es diaria. La cocina casi no cierra."
+          "body": "Pleno sol de medianoche. La cosecha de la mora ártica, una ventana intensa de unas tres semanas en las que las familias pasan tardes enteras en la turbera. Las hierbas se secan para el invierno; las bayas se hacen mermelada, se congelan o se fermentan. La pesca en lago es diaria. La cocina casi no cierra."
         },
         {
           "sami": "Čakčageassi",
@@ -958,7 +958,7 @@
     "mushroomSafety": {
       "kicker": "Seguridad con las setas",
       "headline": "Lee esto antes de recoger una sola seta.",
-      "p1": "La conversación sobre seguridad con las setas en Finlandia es serena, precisa e inflexible. Es el riesgo más controlado de la cultura de recolección. La mayoría de los años, el Centro de Información Toxicológica finlandés atiende unos pocos cientos de llamadas relacionadas con setas; los envenenamientos graves son raros; las muertes en cualquier año dado proceden la mayoría de las veces de una sola especie, la oronja verde (<em>Amanita phalloides</em>), y de un primo casi idéntico, el ángel destructor (<em>Amanita virosa</em>).",
+      "p1": "La conversación sobre seguridad con las setas en Finlandia es serena, precisa e inflexible. Es el riesgo más controlado de la cultura de recolección. La mayoría de los años, el Centro de Información Toxicológica finlandés atiende unos pocos cientos de llamadas relacionadas con setas; los envenenamientos graves son raros; las escasas muertes se han vinculado a la oronja verde (<em>Amanita phalloides</em>) y al ángel destructor (<em>Amanita virosa</em>). No se parecen: una es verde oliva, el otro blanco puro.",
       "p2": "<strong>La oronja verde y el ángel destructor están presentes en los bosques finlandeses.</strong> Ambos son mortales incluso en cantidades minúsculas, no hay antídoto y la toxicidad es diferida (te sientes bien durante 6–24 horas y luego el hígado empieza a fallar). El ángel destructor es blanco, parece inofensivo y crece en abetales y abedulares de todo el país, incluida Laponia. Otras setas finlandesas comunes son gástricamente tóxicas, alucinógenas o simplemente desagradables.",
       "rulesIntro": "<strong>Las cinco reglas que sigue todo recolector finlandés:</strong>",
       "rules": [
