@@ -111,7 +111,7 @@
       {
         "n": "02",
         "title": "Jokamiehenoikeus",
-        "body": "Suomen jokamiehenoikeus sallii kenenkä tahansa kerätä marjoja, sieniä ja villiyrttejä useimmilta mailta, yksityiseltäkin. Se on yksi maailman harvoista lakikehyksistä, jotka kohtelevat villiruokaa yhteisenä resurssina."
+        "body": "Suomen jokamiehenoikeus sallii kenen tahansa kerätä marjoja, sieniä ja villiyrttejä useimmilta mailta, yksityiseltäkin. Se on yksi maailman harvoista lakikehyksistä, jotka kohtelevat villiruokaa yhteisenä resurssina."
       },
       {
         "n": "03",
@@ -223,7 +223,7 @@
       {
         "name": "Villiyrtit, mesiangervo ja nokkonen",
         "season": "Kesä–elokuu",
-        "description": "Villikasvien voima. Perinteisiä lääkitse­yrttejä ja ruokayrttejä, joita on käytetty saamelaisessa kulttuurissa sukupolvien ajan.",
+        "description": "Villikasvien voima. Perinteisiä rohdosyrttejä ja ruokayrttejä, joita on käytetty saamelaisessa kulttuurissa sukupolvien ajan.",
         "nutritional": "Mineraaleja, vitamiineja, flavonoideja",
         "uses": "Tee, salaatit, keitot, kuivatus"
       },
@@ -241,11 +241,11 @@
     },
     "reindeerDeep": {
       "kicker": "Syvällinen tarkastelu · Poro",
-      "headline": "Miten poro päätyy lapilaisen lautaselle.",
+      "headline": "Miten poro päätyy lappilaisen lautaselle.",
       "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille paimentajille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
       "p2": "Lauma on villiä kaikessa muussa paitsi omistuksessa. Porot kulkevat vapaasti valtavilla aitaamattomilla taiga- ja tunturialueilla, syöden mitä löytävät: jäkälää talvella (tämä antaa lihalle sen erityisen puhtaan maun), heinää ja yrttejä kesällä, sieniä syksyllä. Paimentajat seuraavat eläimiä moottorikelkoilla ja mönkijöillä, kokoavat ne kahdesti vuodessa korvamerkintää ja (syksyllä) teurastusvalintaa varten ja päästävät ne sitten taas vapaiksi.",
       "p3": "Teurastus tapahtuu syksyllä, tyypillisesti loka–marraskuussa, kun eläimet ovat huippupainossaan. Jokainen paliskunta pyörittää omaa EU-hyväksyttyä teurastamoaan. Suurin osa lihasta myydään muutaman sadan kilometrin säteellä eläimen elinpaikasta, Lapin ravintoloille, Helsingin ja Etelä-Suomen lihakaupoille ja pieneen mutta vakavaan vientimarkkinaan Keski-Eurooppaan.",
-      "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>fileé</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, ja siksi se kypsyy tunteja.",
+      "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>filee</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, ja siksi se kypsyy tunteja.",
       "p5": "Eettisesti vapaa­liikkuva, saamelais­paimennettu poro on yksi eurooppalaisen menun kestävimmistä proteiineista, ei lihotusaltaita, ei antibiootteja, ei suljettua laidunta, alkuperäisruokavalio. Mutkan tuo ilmasto: Lapin talvet kostuvat, lumikertymälle muodostuu jääkerroksia, porot eivät pääse jäkälään, ja jotkin paliskunnat joutuvat täydentämään ruokintaa. Se muuttaa toimitusketjua ja, hitaasti, makua. Tämä on tarina, jota kannattaa seurata seuraavan vuosikymmenen ajan.",
       "tasteQ": "Miltä poro maistuu?",
       "tasteA1": "Miedommalta kuin useimmat riistat. Poro on vähärasvaista ja hienosyistä, lähempänä hyvää naudan sisäfilettä kuin voimakasta riistaa, ja sen puhdas, hennon makea syvyys tulee jäkälästä ja tunturin yrteistä. Koska rasvaa ei juuri ole, liha kypsennetään varoen ja tarjotaan punaisena tai mediumina.",
@@ -255,7 +255,7 @@
       "kicker": "Syvällinen tarkastelu · Hilla",
       "headline": "Marja, jota kukaan ei pysty viljelemään.",
       "p1": "Hilla, <em>luomi</em> pohjoissaameksi, on Lapin arvostetuin villi­marja ja itse­päisin viljelyä vastustanut maailman merkittävistä marjoista. Se kasvaa vain kylmissä, happamissa, vetisissä turvesoissa kapealla pohjoisen pallon­puoliskon vyöhykkeellä: Pohjois-Skandinavia, Suomi, osat Venäjästä, Alaskasta ja Pohjois-Kanadasta. Näiden alueiden sisällä se on yllättävän yleinen. Niiden ulkopuolella se ei kasva.",
-      "p2": "Vuosikymmenten maatalous­tutkimus ei ole onnistunut kaupallistamaan sitä. Hillakasvit ovat kaksikotisia (erilliset uros- ja naaras­kasvit), kasvavat erittäin hitaasti, tarvitsevat 6–7 vuotta ensimmäiseen hedelmään edes täydellisissä olosuhteissa, ovat haavoittuvaisia myöhäisille kevätpakkasille, jotka tuhoavat vuoden kukat, ja vaativat kosteuden, valon ja suokemian erityisyhdistelmän, joka on vastustanut kasvi­huone­simulaatiota. Norjalaiset ja suomalaiset tutkijat ovat edistyneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa villisaadosta. Joten koko Suomen tarjonta, hillojen valmistajille, likööri­tuottajille (Lakka), ravintola­keittiöille, on villinä keräiltyä.",
+      "p2": "Vuosikymmenten maatalous­tutkimus ei ole onnistunut kaupallistamaan sitä. Hillakasvit ovat kaksikotisia (erilliset uros- ja naaras­kasvit), kasvavat erittäin hitaasti, tarvitsevat 6–7 vuotta ensimmäiseen hedelmään edes täydellisissä olosuhteissa, ovat haavoittuvaisia myöhäisille kevätpakkasille, jotka tuhoavat vuoden kukat, ja vaativat kosteuden, valon ja suokemian erityisyhdistelmän, joka on vastustanut kasvi­huone­simulaatiota. Norjalaiset ja suomalaiset tutkijat ovat edistyneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa villisadosta. Joten koko Suomen tarjonta, hillojen valmistajille, likööri­tuottajille (Lakka), ravintola­keittiöille, on villinä keräiltyä.",
       "p3": "Siksi tuoreen hillan kilo Rovaniemen torilla heinäkuun lopussa maksaa tyypillisesti 25–50 €, viidestä kymmeneen kertaa enemmän kuin mustikat, ja siksi tarjonta romahtaa, jos kevät­pakkaset osuvat viikkoa myöhemmin. Tämä on myös syy siihen, miksi hillaparfait on Lapin fine dining -jälkiruoka. Jokainen kokki haluaa käyttää niitä, kunnes ne loppuvat.",
       "p4": "<strong>Poiminta­etiikka:</strong> hilla­kasvit toipuvat hitaasti. Saamelainen periaate ja suomalainen keräily­käytäntö, on poimia vain täysin kypsät marjat, jättää raa'at ja ylikypsät, eikä koskaan riipiä kasvia. Pienellä suolla kilo perheelle riittää.",
       "boldPick": "Poiminta­etiikka:",
@@ -851,7 +851,7 @@
         },
         {
           "title": "Koko raaka-aineen käyttö",
-          "body": "Sekä saamelaisruoan että New Nordicin tunnusmerkki. Luuydin paksunnos­aineeksi. Kalan päät liemeksi. Poron nahat nahka­tehtaalle, ei roskiin. Ravintolat, jotka ottavat tämän vakavasti, kertovat siitä listalla, \"kärsästä häntään\" ja lasku heijastaa sitä."
+          "body": "Sekä saamelaisruoan että New Nordicin tunnusmerkki. Luuydin suurusteeksi. Kalan päät liemeksi. Poron nahat nahka­tehtaalle, ei roskiin. Ravintolat, jotka ottavat tämän vakavasti, kertovat siitä listalla, \"sarvista sorkkiin\" ja lasku heijastaa sitä."
         }
       ]
     },
@@ -895,7 +895,7 @@
     },
     "alert": {
       "kicker": "Lue tämä ensin",
-      "body": "Sienimyrkytys on totta ja peruuttamatonta. Jos et pysty tunnistamaan sientä 100 %:n varmuudella, opaskirjan tai mieluiten kokenei­den paikallisten avulla, anna sen olla. Ensimmäiselle keräily­retkelle varaa opastettu kierros; yksi iltapäivä oppaan kanssa on kausi­kaupallisten arvauksen veroinen."
+      "body": "Sienimyrkytys on totta ja peruuttamatonta. Jos et pysty tunnistamaan sientä 100 %:n varmuudella, opaskirjan tai mieluiten kokenei­den paikallisten avulla, anna sen olla. Ensimmäiselle keräily­retkelle varaa opastettu kierros; yksi iltapäivä oppaan kanssa korvaa koko kauden arvailut."
     },
     "labels": {
       "where": "Missä kasvaa",
@@ -940,16 +940,16 @@
         "season": "heinä – syyskuu",
         "difficulty": "Vaativa",
         "location": "Vanhat kuusimetsät ja sekapuumetsät",
-        "identification": "Herkkutatti: ruskea lakki, valkoinen jalka, sienimäinen alapuoli. Rousku: suppilon­muotoinen, maitomainen mehu kun leikataan.",
+        "identification": "Herkkutatti: ruskea lakki, valkoinen jalka, alapinnassa pillit. Rousku: suppilon­muotoinen, maitomainen mehu kun leikataan.",
         "tips": "Kuivaa heti poiminnan jälkeen. Opettele tunnistus 100 %:n varmuudella ensin.",
-        "safety": "KRITIITTINEN: vahvista aina tunnistus ennen sienen syömistä.",
-        "sustainability": "Leikkaa varresta, älä vaurioita allaolevaa juurakkoa."
+        "safety": "KRIITTINEN: vahvista aina tunnistus ennen sienen syömistä.",
+        "sustainability": "Leikkaa varresta, älä vaurioita maanalaista rihmastoa."
       },
       {
         "name": "Nokkonen (Urtica dioica)",
         "season": "touko – elokuu",
         "difficulty": "Helppo",
-        "location": "Ravinteikas maaperä, lähellä rakennuksia ja aukioita",
+        "location": "Ravinteikas maaperä, lähellä rakennuksia ja aukeita paikkoja",
         "identification": "Sahalaitaiset lehdet, polttaa paljasta ihoa kosketuksesta.",
         "tips": "Poimi nuoret versot. Polttava vaikutus häviää kokonaan kuivatuksessa tai keittämisessä.",
         "safety": "Käytä hanskoja poimiessasi.",
@@ -969,8 +969,8 @@
         "Älä koskaan poimi yhdestä näkökulmasta. Vie koko sieni kotiin ja tarkista uudelleen hyvässä valossa. Jos jokin on epäselvää, heitä pois.",
         "Kypsennä kaikki villisienet ennen syömistä, jopa ne jotka ovat teknisesti syötäviä raakana. Tämä on suomalainen tapa, ei tiukka sääntö, mutta sitä tekevät kaikki kokeneet poimijat."
       ],
-      "p4": "<strong>Neljä sientä, jotka aloittelija voi oppia tunnistamaan turvallisesti</strong> yhden iltapäivän aikana opaskirjalla, ovat: herkkutatti (<em>Boletus edulis</em>), korvasieni (<em>Gyromitra esculenta</em>, mutta <strong>vain kahdesti esikeitettynä ja vesi heitettynä pois</strong>; monet suomalaiset sanovat sen olevan herkullinen, monet toiset välttävät sitä kokonaan; molemmat ovat oikeassa), kuusen­lakkirousku (<em>Lactarius deliciosus</em>) ja kantarelli (<em>Cantharellus cibarius</em>). Näistä herkkutatilla ja kantarellilla ei ole vaarallisia lähilajeja Suomessa, ja ne ovat suositeltuja aloitus­kohteita.",
-      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken kustannus–luotto-suhde on lyömätön ja Lapissa oppaat ovat tyypillisesti saamelais­keräilijöitä, jotka oppivat tämän iso­vanhemmiltaan, eivät kaupallisia oppaita käsikirjasta lukevia."
+      "p4": "<strong>Neljä sientä, jotka aloittelija voi oppia tunnistamaan turvallisesti</strong> yhden iltapäivän aikana opaskirjalla, ovat: herkkutatti (<em>Boletus edulis</em>), korvasieni (<em>Gyromitra esculenta</em>, mutta <strong>vain kahdesti esikeitettynä ja vesi heitettynä pois</strong>; monet suomalaiset sanovat sen olevan herkullinen, monet toiset välttävät sitä kokonaan; molemmat ovat oikeassa), männynleppärousku (<em>Lactarius deliciosus</em>) ja kantarelli (<em>Cantharellus cibarius</em>). Näistä herkkutatilla ja kantarellilla ei ole vaarallisia lähilajeja Suomessa, ja ne ovat suositeltuja aloitus­kohteita.",
+      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken hinta-hyötysuhde on lyömätön ja Lapissa oppaat ovat tyypillisesti saamelais­keräilijöitä, jotka oppivat tämän iso­vanhemmiltaan, eivät kaupallisia oppaita käsikirjasta lukevia."
     },
     "calendar": {
       "kicker": "Vuoden­aikakalenteri",
@@ -1092,20 +1092,20 @@
       },
       {
         "name": "Arktinen fine dining -elämys",
-        "description": "Ekslusiivinen matka Lapin parhaiden ravintoloiden läpi. Michelin-suositeltuja paikkoja ja palkittuja kokkeja, jotka käyttävät puhtaimpia arktisia raaka-aineita.",
+        "description": "Eksklusiivinen matka Lapin parhaiden ravintoloiden läpi. Michelin-suositeltuja paikkoja ja palkittuja kokkeja, jotka käyttävät puhtaimpia arktisia raaka-aineita.",
         "highlights": [
           "3 ruokalajin lounas alueellisessa lippu­laiva­ravintolassa",
           "Kokki­keittiön kierros pää­kokin kanssa",
           "Arktiset raaka-aineet -masterclass",
           "Fine dining -tekniikan demonstraatio",
-          "5 ruokalajin gourmet-illallinen viini­pariin kanssa"
+          "5 ruokalajin gourmet-illallinen viinipareineen"
         ],
         "location": "Rovaniemi",
         "season": "ympäri vuoden"
       },
       {
         "name": "Villi­keräilyretki",
-        "description": "Käden­ojennuksin opastettua keräilyä ikimetsässä ja suolla. Opi turvallinen marjojen, sienien ja villiyrttien tunnistus, kokkaa sitten poimimasi ruoka.",
+        "description": "Kädestä pitäen opastettua keräilyä ikimetsässä ja suolla. Opi turvallinen marjojen, sienien ja villiyrttien tunnistus, kokkaa sitten poimimasi ruoka.",
         "highlights": [
           "Sienien turvallisuus­masterclass",
           "Mustikan, puolukan ja hillan poiminta (sesongin mukaan)",
@@ -1228,9 +1228,9 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Hotelli Kultahovi, Saarikoskentie 2, Inari · Juutuanjoen rannalla",
-          "angle": "Lähinnä määrän­päädineing-elämystä syvällä saamelais­maassa. Kokki rakentaa menun Inarin kahdeksan saamelais­vuodenajan ympärille, lakto-fermentoidut mustikat, savustettu poron­sydän, kylmä­suolatettu nieriä ja viini­lista on epätavallisen syvä 7 000 asukkaan kaupungissa.",
+          "angle": "Aidoin destination dining -elämys syvällä Saamenmaassa. Kokki rakentaa menun Inarin kahdeksan saamelais­vuodenajan ympärille, lakto-fermentoidut mustikat, savustettu poron­sydän, kylmä­suolatettu nieriä ja viini­lista on epätavallisen syvä 7 000 asukkaan kaupungissa.",
           "signature": "7 ruokalajin villi­marja­tasting · savustettu poron­sydän · koivun­siirappi­parfait",
-          "band": "€€€€, tasting menu 85 €, viini­pariin kanssa 145 €",
+          "band": "€€€€, tasting menu 85 €, viinipareineen 145 €",
           "booking": "Kaksi istumaa illassa, 32 paikkaa yhteensä. Varaa 6–8 viikkoa etukäteen talvella ja keskiyön auringon ikkunan aikana."
         },
         {
@@ -1240,7 +1240,7 @@
           "angle": "Lasi­kattoinen ruokasali pohjoiseen suuntautuvalla panoraamalla kuusi­metsään, suunniteltu niin että voit katsoa revontulia tasting menun aikana talvella. Confit-arktinen siika villi­yrtti­öljyssä on salin tunnus, koristeltu keräillyillä mikrovihreillä ja syötävillä kukilla.",
           "signature": "Confit-arktinen siika · männyn­suolatettu taimen · suklaa–puolukka­kupoli",
           "band": "€€€€, 4 ruokalajin menu 78 € · 7 ruokalajin menu 115 €",
-          "booking": "Hotelli­vieraat saavat etu­oikeuden. Muut varaa­vat 4 viikkoa etukäteen talvella."
+          "booking": "Hotelli­vieraat saavat etu­oikeuden. Muille varaus 4 viikkoa etukäteen talvella."
         }
       ]
     },
@@ -1381,7 +1381,7 @@
         },
         {
           "t": "Tarkkuus tunnelman sijaan",
-          "body": "Väite kuten \"Lapin paras fine dining\" on merkityksetön ilman tarkkuutta. Kerromme mitä tilata, mitä maksaa, milloin varata, mistä kävellä paikalle. Mitä emme pysty pinnoittamaan tarkasti, sen jätämme pois."
+          "body": "Väite kuten \"Lapin paras fine dining\" on merkityksetön ilman tarkkuutta. Kerromme mitä tilata, mitä maksaa, milloin varata, mistä kävellä paikalle. Mitä emme pysty todentamaan tarkasti, sen jätämme pois."
         },
         {
           "t": "Kumppanuus ei muuta toimitusta",

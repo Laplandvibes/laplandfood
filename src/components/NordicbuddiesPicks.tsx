@@ -119,7 +119,7 @@ const COPY: Record<Locale, Copy> = {
     adLabel: 'Mainos',
     eyebrow: 'Missä kahvi kulkee',
     headline: 'Marjapäivä mitataan tunneissa, ja kahvit lähtevät mukaan.',
-    body: 'Nordicbuddies on helsinkiläinen yhtiö, jolla on Peppi Pitkätossun ja Mauri Kunnaksen lisenssit. Se ei myy ruokaa lainkaan — se myy sen, missä kahvi kulkee: 550 ml:n kaksinkertaisen teräspullon ja uudelleenkäytettävän mukin. Seuranta maailmanlaajuisesti, ilmainen toimitus yli 60 € EU:ssa, Britanniassa ja Norjassa.',
+    body: 'Nordicbuddies on helsinkiläinen yhtiö, jolla on Peppi Pitkätossun ja Mauri Kunnaksen lisenssit. Se ei myy ruokaa lainkaan, vaan sen, missä kahvi kulkee: 550 ml:n kaksinkertaisen teräspullon ja uudelleenkäytettävän mukin. Seuranta maailmanlaajuisesti, ilmainen toimitus yli 60 € EU:ssa, Britanniassa ja Norjassa.',
     shipping: 'Toimitus maailmanlaajuisesti, seurannalla',
     cta: 'Katso tuote',
     soldBy: 'Myynti: Nordicbuddies',
