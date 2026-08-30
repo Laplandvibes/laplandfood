@@ -47,7 +47,7 @@ const COPY = {
     "zh-CN": "立即预订",
     "ko": "지금 예약",
     "fr": "Réservez",
-    "it": "Prenota ora",
+    "it": "Prenoti ora",
     "nl": "Boek nu",
     "sv": "Boka nu"
   },
@@ -61,7 +61,7 @@ const COPY = {
     "zh-CN": "查看可订日期",
     "ko": "예약 가능 여부 확인",
     "fr": "Voir les disponibilités",
-    "it": "Vedi disponibilità",
+    "it": "Verifichi la disponibilità",
     "nl": "Bekijk beschikbaarheid",
     "sv": "Se tillgänglighet"
   },
@@ -75,7 +75,7 @@ const COPY = {
     "zh-CN": "查看全部",
     "ko": "전체 보기",
     "fr": "Voir tout",
-    "it": "Vedi tutto",
+    "it": "Veda tutto",
     "nl": "Bekijk alles",
     "sv": "Se alla"
   },

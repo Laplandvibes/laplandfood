@@ -264,9 +264,9 @@
     "fishDeep": {
       "kicker": "Syvällinen tarkastelu · Järvikala",
       "headline": "Miksi pilkkikala on vuoden parasta kalaa.",
-      "p1": "Lapissa on noin 6 000 järveä, jokainen niistä riittävän puhdas juotavaksi pitkällä vaelluksella. Lautasella merkittävät neljä kalaa ovat <strong>siika</strong>, <strong>hauki</strong>, <strong>ahven</strong> ja <strong>taimen / nieriä</strong>. Kaikki neljä ovat kotoperäisiä, kaikkia neljää saadaan kaupallisesti sekä pien­kalastajilta että pilkkijöiltä, kaikki neljä ilmestyvät eri muodoissa Lapin ruokalistoille.",
+      "p1": "Lapissa on noin 6 000 järveä, useimmat niistä riittävän puhtaita juotavaksi pitkällä vaelluksella. Lautasella merkittävät neljä kalaa ovat <strong>siika</strong>, <strong>hauki</strong>, <strong>ahven</strong> ja <strong>taimen / nieriä</strong>. Kaikki neljä ovat kotoperäisiä, kaikkia neljää saadaan kaupallisesti sekä pien­kalastajilta että pilkkijöiltä, kaikki neljä ilmestyvät eri muodoissa Lapin ruokalistoille.",
       "p2": "Pilkkiminen on enemmän kuin paikallinen harrastus. Se on kalastusmenetelmä, joka tuottaa vuoden maukkainta arktista järvikalaa. Tässä syy: talvella järviveden lämpö­tila on alimmillaan ja kirkkaus suurimmillaan. Kalojen aineen­vaihdunta hidastuu, rasva­varastot tiivistyvät ja loiset kuolevat (ei lämpimän veden vektoreita). Helmikuussa pilkityn siian liha on tiheämpää, makeampaa ja puhtaamman makuista kuin saman kalan heinä­kuussa. Lapin kokit ajoittavat menut sen mukaan.",
-      "p3": "Tekniikka itsessään on suora­viivainen, pora reikä 50–80 cm:n jään läpi, pudota pieni jigi yhdellä koukulla, odota, mutta vaatii usein alle −15 °C lämpötiloja. Perinteinen saamelainen tapa sisälsi reiän tukkimisen käyntien välillä, jotta lämmin alusvesi ei jäätyisi vavan ympärille. Nykyään useimmat käyttävät eristettyjä telttoja (pieni pilkki­suoja on edullinen ja muuttaa kokemuksen täysin).",
+      "p3": "Tekniikka itsessään on suora­viivainen, pora reikä 50–80 cm:n jään läpi, pudota pieni jigi yhdellä koukulla, odota, mutta vaatii usein alle −15 °C lämpötiloja. Perinteisesti reikä peitettiin käyntien välillä, jottei se jäätyisi uudelleen umpeen. Nykyään useimmat käyttävät eristettyjä telttoja (pieni pilkki­suoja on edullinen ja muuttaa kokemuksen täysin).",
       "p4Prefix": "Ruokalistalla: kevyesti savustettu siika (<em>graavisiika</em>) ja haukimäti ruisleivällä ovat Lapin arki­alkuruokia. Kokonaisena paahdettu taimen on klassinen pää­ruoka. Sápmi­kalakeitto (resepti",
       "p4LinkLabel": "reseptisivulla",
       "p4Suffix": ") käyttää sitä, mitä kalastajat toivat tällä viikolla."
@@ -274,7 +274,7 @@
     "everymansRight": {
       "kicker": "Jokamiehenoikeus",
       "headline": "Lakikehys, joka tekee tämän kaiken mahdolliseksi.",
-      "p1": "Lähes jokainen tämän sivun raaka-aine on lakimääräisesti ilmaista. Suomen <em>jokamiehenoikeus</em> on vuosi­satainen, kodifioitu periaate, joka sallii kenenkä tahansa, kansalaisen tai vierailijan, kävellä, leiriytyä ja kerätä useimmilta Suomen mailta omistajasta riippumatta. Voit poimia marjoja, sieniä ja villiyrttejä yksityis­mailta kysymättä. Voit kalastaa yhdellä vavalla ilman lupaa. Voit nukkua yhden yön useimmilla mailla kysymättä.",
+      "p1": "Lähes jokainen tämän sivun raaka-aine on lakimääräisesti ilmaista. Suomen <em>jokamiehenoikeus</em> on vuosi­satainen, kodifioitu periaate, joka sallii kenenkä tahansa, kansalaisen tai vierailijan, kävellä, leiriytyä ja kerätä useimmilta Suomen mailta omistajasta riippumatta. Voit poimia marjoja, sieniä ja villiyrttejä yksityis­mailta kysymättä. Voit onkia ja pilkkiä ilman lupaa. Voit nukkua yhden yön useimmilla mailla kysymättä.",
       "p2": "Mitä et voi: vahingoittaa puita, metsästää, ajaa moottori­ajoneuvoa maastossa, kerätä rauhoitettuja kasveja, sytyttää avotulta toisen maalle ilman lupaa tai poimia viljellyltä puutarhalta. Periaate on käyttö ilman vahinkoa. Se on yksi Euroopan harvoja lakikehyksiä, jotka kohtelevat villi­ruokaa yhteisenä resurssina, ja se on rakenteellinen syy siihen, miksi Lapin ruokakulttuuri säilyi modernisaation läpi.",
       "ctaPrimary": "Lue keräilyopas",
       "ctaSecondary": "Tai varaa opastettu keräilyretki"
@@ -527,7 +527,7 @@
       "items": [
         {
           "title": "Sápmi, kotimaa",
-          "body": "Sápmi kattaa yli 400 000 km² neljässä valtiossa. Suomen Sápmi (Saamelaisten kotiseutualue) on Suomen pohjoisin alue, Enontekiö, Inari ja Utsjoki."
+          "body": "Sápmi kattaa noin 400 000 km² neljässä valtiossa. Suomen Sápmi (Saamelaisten kotiseutualue) on Suomen pohjoisin alue, Enontekiö, Inari ja Utsjoki."
         },
         {
           "title": "Saamen kielet",
@@ -964,18 +964,18 @@
       "rulesIntro": "<strong>Viisi sääntöä, joita jokainen suomalainen sienestäjä noudattaa:</strong>",
       "rules": [
         "Jos et ole 100 %:n varma lajista et 90 %, et \"näyttää herkkutatilta\", älä poimi sitä. Tähän sääntöön ei ole poikkeusta.",
-        "Tarkista kahdesta riippumattomasta lähteestä: opaskirja, sovellus (Pikkupilkku ja iNaturalist molemmat hyödyllisiä) ja mieluiten kokenut ihminen.",
+        "Tarkista vähintään kahdesta riippumattomasta lähteestä: opaskirja, tunnistussovellus kuten iNaturalist ja mieluiten kokenut ihminen.",
         "Kiinnitä huomiota <em>kaikkeen</em>: lakin muoto, heltat tai pillit, jalan rengas, jalan tyvi (kaiva aina koko sieni ylös, monet tappavat lajit tunnistetaan tyven kupasta), itiöjälki, haju, missä se kasvaa, mitä päällä se kasvaa.",
         "Älä koskaan poimi yhdestä näkökulmasta. Vie koko sieni kotiin ja tarkista uudelleen hyvässä valossa. Jos jokin on epäselvää, heitä pois.",
         "Kypsennä kaikki villisienet ennen syömistä, jopa ne jotka ovat teknisesti syötäviä raakana. Tämä on suomalainen tapa, ei tiukka sääntö, mutta sitä tekevät kaikki kokeneet poimijat."
       ],
       "p4": "<strong>Neljä sientä, jotka aloittelija voi oppia tunnistamaan turvallisesti</strong> yhden iltapäivän aikana opaskirjalla, ovat: herkkutatti (<em>Boletus edulis</em>), korvasieni (<em>Gyromitra esculenta</em>, mutta <strong>vain kahdesti esikeitettynä ja vesi heitettynä pois</strong>; monet suomalaiset sanovat sen olevan herkullinen, monet toiset välttävät sitä kokonaan; molemmat ovat oikeassa), männynleppärousku (<em>Lactarius deliciosus</em>) ja kantarelli (<em>Cantharellus cibarius</em>). Näistä herkkutatilla ja kantarellilla ei ole vaarallisia lähilajeja Suomessa, ja ne ovat suositeltuja aloitus­kohteita.",
-      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken hinta-hyötysuhde on lyömätön ja Lapissa oppaat ovat tyypillisesti saamelais­keräilijöitä, jotka oppivat tämän iso­vanhemmiltaan, eivät kaupallisia oppaita käsikirjasta lukevia."
+      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken hinta-hyötysuhde on lyömätön, ja Lapissa retkiä vetävät tyypillisesti paikalliset keräilijät, jotka ovat oppineet tämän kotona eivätkä käsikirjoituksesta."
     },
     "calendar": {
       "kicker": "Vuoden­aikakalenteri",
       "headline": "Kuukausi kuukaudelta, mitä metsässä on.",
-      "lead": "Lapin keräily­ikkuna on lyhyt ja intensiivinen, suunnilleen toukokuusta syyskuun loppuun. Sen sisällä joka toinen viikko hallitseva kohde vaihtuu. Tämä on kalenteri, jonka mukaan paikallinen poimija suunnittelee kesänsä.",
+      "lead": "Lapin keräily­ikkuna on lyhyt ja intensiivinen, suunnilleen toukokuusta lokakuuhun. Sen sisällä joka toinen viikko hallitseva kohde vaihtuu. Tämä on kalenteri, jonka mukaan paikallinen poimija suunnittelee kesänsä.",
       "items": [
         {
           "month": "Toukokuu",
@@ -991,7 +991,7 @@
         },
         {
           "month": "Heinäkuun loppu – elokuun alku",
-          "body": "Hillan sesonki, tyypillisesti 3 viikon ikkuna suon sijainnista riippuen. Vuoden intensiivisin poiminta-aika. Monet suomalaiset toimistot käytännössä pysähtyvät."
+          "body": "Hillan sesonki, tyypillisesti 3 viikon ikkuna suon sijainnista riippuen. Vuoden intensiivisin poiminta-aika, ja ne viikot joiden ympärille innokkaat poimijat rakentavat kesänsä."
         },
         {
           "month": "Elokuu",
@@ -1037,7 +1037,7 @@
     },
     "guideCta": {
       "headline": "Yksi iltapäivä oppaan kanssa säästää kauden arvauksilta.",
-      "lead": "Lapin opastetut keräily­retket eivät ole bussi­matkailua. Ne ovat tyypillisesti saamelais­keräilijöiden vetämiä, pieninä 6–15 hengen ryhminä, ja alkavat sienien turvallisuus­luennolla, jonka oikeasti tarvitset. Päättyvät poimitun ruoan kokkaamiseen nuotiolla. Useimmat maksavat vähemmän kuin fine dining -alkupala.",
+      "lead": "Lapin opastetut keräilyretket eivät ole bussimatkailua. Ne ovat tyypillisesti paikallisten keräilijöiden vetämiä, pieninä 6–15 hengen ryhminä, ja alkavat sienien turvallisuusluennolla, jonka oikeasti tarvitset. Päättyvät poimitun ruoan kokkaamiseen nuotiolla. Useimmat maksavat vähemmän kuin fine dining -alkupala.",
       "cta": "Selaa opastetut retket"
     }
   },
@@ -1092,7 +1092,7 @@
       },
       {
         "name": "Arktinen fine dining -elämys",
-        "description": "Eksklusiivinen matka Lapin parhaiden ravintoloiden läpi. Michelin-suositeltuja paikkoja ja palkittuja kokkeja, jotka käyttävät puhtaimpia arktisia raaka-aineita.",
+        "description": "Päivä, joka on rakennettu Lapin parhaiden ravintoloiden ympärille. Kärkisalit ja kokit, jotka käyttävät alueelta hankittuja raaka-aineita.",
         "highlights": [
           "3 ruokalajin lounas alueellisessa lippu­laiva­ravintolassa",
           "Kokki­keittiön kierros pää­kokin kanssa",

@@ -437,8 +437,8 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     },
     it: {
       eyebrow: 'Il Nord in barattolo',
-      headline: 'Renna per la tua dispensa.',
-      body: 'La stessa carne delle cucine del Nord, conservata: paté di renna a cottura lenta, una zuppa al formaggio con renna affumicata e sottili fette di renna essiccata per il sentiero. Suomikauppa spedisce dalla Finlandia; nell’UE la carne viaggia libera, altrove controlla le regole di importazione prima di ordinare.',
+      headline: 'Renna per la Sua dispensa.',
+      body: 'La stessa carne delle cucine del Nord, conservata: paté di renna a cottura lenta, una zuppa al formaggio con renna affumicata e sottili fette di renna essiccata per il sentiero. Suomikauppa spedisce dalla Finlandia; nell’UE la carne viaggia libera, altrove controlli le regole di importazione prima di ordinare.',
       shipping: 'Spedito dalla Finlandia',
     },
     nl: {
@@ -503,7 +503,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     it: {
       eyebrow: 'La dispensa, senza filtri',
       headline: 'Persino la confettura va esaurita.',
-      body: 'Quello che questa pagina racconta sulla scarsità vale anche sullo scaffale: all’ultimo controllo i vasetti di lampone artico erano esauriti, in attesa del prossimo raccolto selvatico. Questi classici finlandesi di bacche selvatiche degli stessi boschi sono disponibili, e Suomikauppa li spedisce in tutto il mondo.',
+      body: 'Quello che questa pagina racconta sulla scarsità vale anche sullo scaffale: all’ultimo controllo i vasetti di mora artica erano esauriti, in attesa del prossimo raccolto selvatico. Questi classici finlandesi di bacche selvatiche degli stessi boschi sono disponibili, e Suomikauppa li spedisce in tutto il mondo.',
     },
     nl: {
       eyebrow: 'De voorraadkast, zonder opsmuk',
@@ -626,7 +626,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     },
     it: {
       eyebrow: "L'altro alimento base artico",
-      headline: 'Il gahkku lo cuoci tu. La segale si ordina.',
+      headline: 'Il gahkku lo cuoce Lei. La segale si ordina.',
       body: 'Accanto a ogni stufato della Lapponia finlandese c’è segale scura: pagnotte dense a cottura lenta e pane croccante sottile, nati per durare inverni lunghi. Suomikauppa spedisce i classici in tutto il mondo, fiocchi per il porridge compresi.',
     },
     nl: {
@@ -689,7 +689,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     it: {
       eyebrow: "L'altro rituale del sentiero",
       headline: 'Qui il caffè si fa bollire, non filtrare.',
-      body: 'Sui sentieri della Lapponia la pausa conta quanto il percorso, e arriva con caffè macinato grosso scaldato in un bricco annerito sul fuoco. La macinatura da bricco che i finlandesi portano al cottage si spedisce in tutto il mondo, e anche il bricco.',
+      body: 'Sui sentieri della Lapponia la pausa conta quanto il percorso, e arriva con caffè macinato grosso scaldato in un bricco annerito sul fuoco. La macinatura da bricco che i finlandesi portano in baita si spedisce in tutto il mondo, e anche il bricco.',
     },
     nl: {
       eyebrow: 'Het andere ritueel van de tocht',
@@ -723,7 +723,7 @@ const CHROME: Record<Locale, ChromeCopy> = {
   'zh-CN': { adLabel: '广告', worldwide: '全球配送', cta: '查看商品', soldBy: '由 Suomikauppa.fi 销售' },
   ko: { adLabel: '광고', worldwide: '전 세계 배송', cta: '상품 보기', soldBy: 'Suomikauppa.fi 판매' },
   fr: { adLabel: 'Annonce', worldwide: 'Livraison dans le monde entier', cta: 'Voir le produit', soldBy: 'Vendu par Suomikauppa.fi' },
-  it: { adLabel: 'Annuncio', worldwide: 'Spedizione in tutto il mondo', cta: 'Vedi il prodotto', soldBy: 'Venduto da Suomikauppa.fi' },
+  it: { adLabel: 'Annuncio', worldwide: 'Spedizione in tutto il mondo', cta: 'Veda il prodotto', soldBy: 'Venduto da Suomikauppa.fi' },
   nl: { adLabel: 'Advertentie', worldwide: 'Wereldwijde verzending', cta: 'Bekijk product', soldBy: 'Verkocht door Suomikauppa.fi' },
   sv: { adLabel: 'Annons', worldwide: 'Skickar över hela världen', cta: 'Se produkten', soldBy: 'Säljs av Suomikauppa.fi' },
 }

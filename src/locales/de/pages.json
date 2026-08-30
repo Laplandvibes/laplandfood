@@ -264,7 +264,7 @@
     "fishDeep": {
       "kicker": "Tiefer Blick · Süßwasserfisch",
       "headline": "Warum Eisangel-Fisch der beste des Jahres ist.",
-      "p1": "Lappland hat etwa 6 000 Seen, jeder von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Maräne</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
+      "p1": "Lappland hat etwa 6 000 Seen, die meisten von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Maräne</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
       "p2": "Eisangeln ist mehr als ein lokales Hobby. Es ist die Fangmethode, die den geschmackvollsten arktischen Süßwasserfisch des Jahres liefert. Hier der Grund: Im Winter ist die Wassertemperatur auf dem Tiefpunkt und die Klarheit am höchsten. Der Stoffwechsel der Fische verlangsamt sich, die Fettreserven verdichten sich und Parasiten sterben ab (keine Warmwasservektoren). Das Fleisch einer im Februar geangelten Maräne ist dichter, süßer und reiner im Geschmack als bei demselben Fisch im Juli. Die Köche Lapplands stimmen ihre Menüs entsprechend ab.",
       "p3": "Die Technik selbst ist geradlinig: ein Loch durch 50–80 cm dickes Eis bohren, einen kleinen Jig mit einem Haken absenken, warten. Sie verlangt aber oft Temperaturen unter −15 °C. Traditionell deckte man das Loch zwischen den Besuchen ab, damit es nicht wieder zufror. Heute verwenden die meisten isolierte Zelte (ein kleiner Eisangel-Unterstand ist günstig und verändert das Erlebnis komplett).",
       "p4Prefix": "Auf der Speisekarte: leicht geräucherte Maräne (<em>graavisiika</em>) und Hechtrogen auf Roggenbrot sind die alltäglichen Vorspeisen Lapplands. Ganz gebratene Forelle ist ein klassisches Hauptgericht. Die Sápmi-Fischsuppe (Rezept",
@@ -274,7 +274,7 @@
     "everymansRight": {
       "kicker": "Jedermannsrecht",
       "headline": "Der rechtliche Rahmen, der all das möglich macht.",
-      "p1": "Fast jede Zutat auf dieser Seite ist gesetzlich kostenlos. Das finnische <em>jokamiehenoikeus</em> (Jedermannsrecht) ist ein jahrhundertealter, kodifizierter Grundsatz, der jedem, Einwohnern wie Besuchern, erlaubt, auf den meisten Flächen Finnlands zu wandern, zu campen und zu sammeln, unabhängig vom Eigentümer. Sie dürfen ohne zu fragen Beeren, Pilze und Wildkräuter auf privatem Grund pflücken. Sie dürfen mit einer einfachen Angel ohne Lizenz fischen. Sie dürfen auf den meisten Flächen eine Nacht zelten, ohne zu fragen.",
+      "p1": "Fast jede Zutat auf dieser Seite ist gesetzlich kostenlos. Das finnische <em>jokamiehenoikeus</em> (Jedermannsrecht) ist ein jahrhundertealter, kodifizierter Grundsatz, der jedem, Einwohnern wie Besuchern, erlaubt, auf den meisten Flächen Finnlands zu wandern, zu campen und zu sammeln, unabhängig vom Eigentümer. Sie dürfen ohne zu fragen Beeren, Pilze und Wildkräuter auf privatem Grund pflücken. Sie dürfen mit Angel und Schnur oder beim Eisangeln ohne Lizenz fischen. Sie dürfen auf den meisten Flächen eine Nacht zelten, ohne zu fragen.",
       "p2": "Was Sie nicht dürfen: Bäume beschädigen, jagen, abseits markierter Wege motorisiert fahren, geschützte Pflanzen pflücken, auf fremdem Grund ohne Erlaubnis ein offenes Feuer entzünden oder aus einem bewirtschafteten Garten ernten. Der Grundsatz lautet: Nutzung ohne Schaden. Es ist einer der wenigen rechtlichen Rahmen Europas, die Wildnahrung als Gemeingut behandeln, und der strukturelle Grund, warum die Esskultur Lapplands die Modernisierung überstanden hat.",
       "ctaPrimary": "Sammelguide lesen",
       "ctaSecondary": "Oder eine geführte Sammeltour buchen"
@@ -527,7 +527,7 @@
       "items": [
         {
           "title": "Sápmi, das Heimatland",
-          "body": "Sápmi umfasst über 400 000 km² in vier Staaten. Das finnische Sápmi (das Sámi-Heimatgebiet) ist die nördlichste Region Finnlands, Enontekiö, Inari und Utsjoki."
+          "body": "Sápmi umfasst rund 400 000 km² in vier Staaten. Das finnische Sápmi (das Sámi-Heimatgebiet) ist die nördlichste Region Finnlands, Enontekiö, Inari und Utsjoki."
         },
         {
           "title": "Die Sámi-Sprachen",
@@ -964,18 +964,18 @@
       "rulesIntro": "<strong>Fünf Regeln, die jeder finnische Sammler befolgt:</strong>",
       "rules": [
         "Wenn Sie sich der Art nicht zu 100 % sicher sind, nicht zu 90 %, nicht „sieht aus wie ein Steinpilz“, pflücken Sie ihn nicht. Von dieser Regel gibt es keine Ausnahme.",
-        "Prüfen Sie mit zwei unabhängigen Quellen: Bestimmungsbuch, App (Pikkupilkku und iNaturalist sind beide hilfreich) und idealerweise mit einer erfahrenen Person.",
+        "Prüfen Sie mit mindestens zwei unabhängigen Quellen: einem Bestimmungsbuch, einer Bestimmungs-App wie iNaturalist und idealerweise einer erfahrenen Person.",
         "Achten Sie auf <em>alles</em>: Hutform, Lamellen oder Poren, Ring am Stiel, Stielbasis (graben Sie immer den ganzen Pilz aus, viele tödliche Arten erkennt man an der Knolle), Sporenfarbe, Geruch, wo er wächst, woran er wächst.",
         "Bestimmen Sie nie aus einer einzigen Perspektive. Nehmen Sie den ganzen Pilz mit nach Hause und prüfen Sie ihn bei gutem Licht erneut. Bei jeder Unsicherheit: wegwerfen.",
         "Garen Sie alle Wildpilze vor dem Verzehr, auch jene, die technisch roh genießbar wären. Das ist finnischer Brauch, keine starre Regel, aber alle erfahrenen Sammler halten sich daran."
       ],
       "p4": "<strong>Vier Pilze, die ein Anfänger sicher bestimmen lernen kann</strong>, an einem Nachmittag mit dem Bestimmungsbuch, sind: Steinpilz (<em>Boletus edulis</em>), Frühjahrslorchel (<em>Gyromitra esculenta</em>, aber <strong>nur zweimal vorgekocht, das Wasser jeweils weggegossen</strong>; viele Finnen halten sie für köstlich, viele andere meiden sie ganz; beide haben recht), Edelreizker (<em>Lactarius deliciosus</em>) und Pfifferling (<em>Cantharellus cibarius</em>). Von diesen vieren haben nur Steinpilz und Pfifferling in Finnland keine gefährlichen Verwechslungsarten; sie sind die empfohlenen Einstiegspilze.",
-      "p5": "Wenn Sie zum ersten Mal in Lappland Pilze sammeln, tun Sie es mit jemandem, der sich auskennt. Das Kosten-Nutzen-Verhältnis einer geführten 4-Stunden-Tour ist unschlagbar und die Guides in Lappland sind in der Regel Sámi-Sammler, die das von ihren Großeltern gelernt haben, nicht kommerzielle Führer, die ein Handbuch ablesen."
+      "p5": "Wenn Sie zum ersten Mal in Lappland Pilze sammeln, tun Sie es mit jemandem, der sich auskennt. Das Kosten-Nutzen-Verhältnis einer geführten 4-Stunden-Tour ist unschlagbar, und in Lappland werden die Touren meist von einheimischen Sammlern geführt, die das zu Hause gelernt haben und nicht aus einem Skript."
     },
     "calendar": {
       "kicker": "Saisonkalender",
       "headline": "Monat für Monat, was im Wald ist.",
-      "lead": "Lapplands Sammelfenster ist kurz und intensiv, etwa von Mai bis Ende September. Innerhalb dieser Spanne wechselt etwa alle zwei Wochen das dominierende Ziel. So plant ein örtlicher Sammler seinen Sommer.",
+      "lead": "Lapplands Sammelfenster ist kurz und intensiv, etwa von Mai bis Oktober. Innerhalb dieser Spanne wechselt etwa alle zwei Wochen das dominierende Ziel. So plant ein örtlicher Sammler seinen Sommer.",
       "items": [
         {
           "month": "Mai",
@@ -991,7 +991,7 @@
         },
         {
           "month": "Ende Juli – Anfang August",
-          "body": "Moltebeerensaison, typischerweise ein Fenster von drei Wochen je nach Lage des Moores. Die intensivste Pflückzeit des Jahres. Viele finnische Büros pausieren praktisch."
+          "body": "Moltebeerensaison, typischerweise ein Fenster von drei Wochen je nach Lage des Moores. Die intensivste Pflückzeit des Jahres, und die Wochen, um die herum eifrige Sammler ihren Sommer planen."
         },
         {
           "month": "August",
@@ -1037,7 +1037,7 @@
     },
     "guideCta": {
       "headline": "Ein Nachmittag mit einem Guide spart eine Saison voller Vermutungen.",
-      "lead": "Geführte Sammeltouren in Lappland sind kein Bustourismus. Sie werden in der Regel von Sámi-Sammlern in kleinen Gruppen von 6–15 Personen geleitet und beginnen mit dem Pilzsicherheits-Vortrag, den Sie tatsächlich brauchen. Am Ende kochen Sie das Gesammelte am Lagerfeuer. Die meisten kosten weniger als eine Fine-Dining-Vorspeise.",
+      "lead": "Geführte Sammeltouren in Lappland sind kein Bustourismus. Sie werden in der Regel von einheimischen Sammlern in kleinen Gruppen von 6–15 Personen geleitet und beginnen mit dem Pilzsicherheits-Vortrag, den Sie tatsächlich brauchen. Am Ende kochen Sie das Gesammelte am Lagerfeuer. Die meisten kosten weniger als eine Fine-Dining-Vorspeise.",
       "cta": "Geführte Touren durchsehen"
     }
   },
@@ -1092,7 +1092,7 @@
       },
       {
         "name": "Arktisches Fine-Dining-Erlebnis",
-        "description": "Eine exklusive Reise durch Lapplands beste Restaurants. Michelin-empfohlene Häuser und ausgezeichnete Köche, die mit den reinsten arktischen Zutaten arbeiten.",
+        "description": "Ein Tag rund um einige der besten Restaurants Lapplands. Aushängeschild-Restaurants und Köche, die mit Zutaten aus der Region kochen.",
         "highlights": [
           "3-Gang-Mittagessen in einem regionalen Spitzenrestaurant",
           "Küchentour mit dem Chefkoch",

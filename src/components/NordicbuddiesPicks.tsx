@@ -190,10 +190,10 @@ const COPY: Record<Locale, Copy> = {
   it: {
     adLabel: 'Annuncio',
     eyebrow: 'In cosa viaggia il caffè',
-    headline: 'Una giornata di raccolta si misura in ore, e il caffè viene con te.',
-    body: 'Nordicbuddies è un’azienda di Helsinki con le licenze di Pippi Calzelunghe e Mauri Kunnas. Non vende alcun alimento: vende ciò in cui porti il caffè, una bottiglia in acciaio a doppia parete da 550 ml e una tazza riutilizzabile. Tracciato in tutto il mondo, spedizione gratuita oltre 60 € in UE, Regno Unito e Norvegia.',
+    headline: 'Una giornata di raccolta si misura in ore, e il caffè viene con Lei.',
+    body: 'Nordicbuddies è un’azienda di Helsinki con le licenze di Pippi Calzelunghe e Mauri Kunnas. Non vende alcun alimento: vende ciò in cui portare il caffè, una bottiglia in acciaio a doppia parete da 550 ml e una tazza riutilizzabile. Tracciato in tutto il mondo, spedizione gratuita oltre 60 € in UE, Regno Unito e Norvegia.',
     shipping: 'Spedizione in tutto il mondo, tracciata',
-    cta: 'Vedi il prodotto',
+    cta: 'Veda il prodotto',
     soldBy: 'Venduto da Nordicbuddies',
   },
   nl: {

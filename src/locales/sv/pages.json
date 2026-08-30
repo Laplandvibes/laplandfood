@@ -263,9 +263,9 @@
     "fishDeep": {
       "kicker": "Fördjupning · Insjöfisk",
       "headline": "Varför pimpelfiske ger årets bästa fisk.",
-      "p1": "Lappland vilar på ungefär 6 000 sjöar, var och en ren nog att dricka ur under en långvandring. De fyra fiskar som betyder något på tallriken är <strong>sik (siika)</strong>, <strong>gädda (hauki)</strong>, <strong>abborre (ahven)</strong> och <strong>öring / röding (taimen / nieriä)</strong>. Alla fyra är inhemska, alla fyra fångas i kommersiell mängd av både småfiskare och pimpelfiskeentusiaster, alla fyra dyker upp i olika former på menyerna i Lappland.",
+      "p1": "Lappland vilar på ungefär 6 000 sjöar, de flesta rena nog att dricka ur under en långvandring. De fyra fiskar som betyder något på tallriken är <strong>sik (siika)</strong>, <strong>gädda (hauki)</strong>, <strong>abborre (ahven)</strong> och <strong>öring / röding (taimen / nieriä)</strong>. Alla fyra är inhemska, alla fyra fångas i kommersiell mängd av både småfiskare och pimpelfiskeentusiaster, alla fyra dyker upp i olika former på menyerna i Lappland.",
       "p2": "Pimpelfiske, <em>pilkkiminen</em>, är mer än en lokal hobby. Det är fiskemetoden som ger årets mest smakrika arktiska insjöfisk. Så här: på vintern är sjövattnet som kallast och klarast. Fiskens ämnesomsättning saktar ner, fettdepåerna stelnar och parasiter dör bort (inga varmvattenvektorer). Köttet från en pimplad sik i februari är fastare, sötare och renare i smaken än samma fisk fångad i juli. Kockarna i Lappland planerar sina menyer efter det.",
-      "p3": "Tekniken i sig är enkel: borra ett hål genom 50–80 cm is, släpp ner ett litet pirk med en enda krok, vänta, men den kräver temperaturer som ofta är kallare än −15 °C. Det traditionella samiska sättet innebar att man täckte hålet mellan besöken för att hindra det varma vattnet under isen från att frysa fast spöet. I dag använder de flesta isolerade tält (ett litet pimpeltält är billigt och förändrar upplevelsen helt).",
+      "p3": "Tekniken i sig är enkel: borra ett hål genom 50–80 cm is, släpp ner ett litet pirk med en enda krok, vänta, men den kräver temperaturer som ofta är kallare än −15 °C. Traditionellt täckte man hålet mellan besöken så att det inte frös igen. I dag använder de flesta isolerade tält (ett litet pimpeltält är billigt och förändrar upplevelsen helt).",
       "p4Prefix": "På en meny: lättrökt sik (<em>graavisiika</em>) och gäddrom på rågbröd är vardagsförrätter i Lappland. En helstekt öring är den klassiska huvudrätten. Sápmi-fisksoppa (recept på",
       "p4LinkLabel": "receptsidan",
       "p4Suffix": ") använder det fiskarna fått in den veckan."
@@ -273,7 +273,7 @@
     "everymansRight": {
       "kicker": "Allemansrätten",
       "headline": "Regelverket som gör allt detta möjligt.",
-      "p1": "Nästan varje råvara på den här sidan är, juridiskt sett, gratis. Finlands <em>jokamiehenoikeus</em> (allemansrätten) är en hundraårig, lagfäst princip som låter vem som helst, medborgare eller besökare, gå på, tälta på och plocka från nästan all mark i Finland oavsett vem som äger den. Du får plocka bär, svamp och vilda örter på privat mark utan att fråga. Du får fiska med ett enda spö utan tillstånd. Du får sova en natt på nästan all mark utan att fråga.",
+      "p1": "Nästan varje råvara på den här sidan är, juridiskt sett, gratis. Finlands <em>jokamiehenoikeus</em> (allemansrätten) är en hundraårig, lagfäst princip som låter vem som helst, medborgare eller besökare, gå på, tälta på och plocka från nästan all mark i Finland oavsett vem som äger den. Du får plocka bär, svamp och vilda örter på privat mark utan att fråga. Du får meta och pilka utan tillstånd. Du får sova en natt på nästan all mark utan att fråga.",
       "p2": "Vad du inte får göra: skada träd, jaga, köra fordon i terräng, samla fridlysta växter, göra upp öppen eld på någons mark utan lov, eller plocka från en odlad trädgård. Principen är tillgång utan skada. Det är ett av få regelverk i Europa som behandlar vild mat som en gemensam resurs, och det är den strukturella orsaken till att Lapplands matkultur överlevde moderniseringen.",
       "ctaPrimary": "Läs plockningsguiden",
       "ctaSecondary": "Eller boka en guidad plockningsvandring"
@@ -526,7 +526,7 @@
       "items": [
         {
           "title": "Sápmi, hemlandet",
-          "body": "Sápmi omfattar över 400 000 km² i fyra länder. Finska Sápmi (Saamelaisten kotiseutualue) är Finlands nordligaste region, kommunerna Enontekiö, Inari och Utsjoki."
+          "body": "Sápmi omfattar ungefär 400 000 km² i fyra länder. Finska Sápmi (Saamelaisten kotiseutualue) är Finlands nordligaste region, kommunerna Enontekiö, Inari och Utsjoki."
         },
         {
           "title": "Samiska språk",
@@ -963,18 +963,18 @@
       "rulesIntro": "<strong>De fem regler varje finsk plockare följer:</strong>",
       "rules": [
         "Är du inte 100 % säker på arten, inte 90 %, inte \"den ser ut som en karljohan\", plocka den inte. Det finns inget undantag från den regeln.",
-        "Dubbelkolla med två oberoende källor: en svampbok, en app (Pikkupilkku och iNaturalist är båda användbara) och helst en erfaren människa.",
+        "Dubbelkolla med minst två oberoende källor: en svampbok, en identifieringsapp som iNaturalist och helst en erfaren människa.",
         "Lägg märke till <em>allt</em>: hattens form, skivor eller porer, ring på foten, fotbasen (gräv alltid upp hela svampen, många dödliga arter känns igen på strumpan vid basen), sporavtryck, lukt, var den växer, vad den växer på.",
         "Plocka aldrig utifrån en enda vinkel. Ta med hela svampen hem och kontrollera igen i bra ljus. Är något tvetydigt, släng den.",
         "Tillaga all vild svamp innan du äter den, även de som tekniskt sett går att äta råa. Det är en finsk konvention snarare än en strikt regel, men det är vad varje erfaren plockare gör."
       ],
       "p4": "<strong>De fyra svampar en nybörjare kan lära sig känna igen säkert</strong> på en enda eftermiddag med en svampbok är: karljohan (<em>Boletus edulis</em>), stenmurkla (<em>Gyromitra esculenta</em>, men <strong>bara efter förvällning två gånger med bortkastat kokvatten</strong>; många finländare säger att den är utsökt, många andra säger att man ska undvika den helt; båda har rätt), läcker riska (<em>Lactarius deliciosus</em>) och kantarell (<em>Cantharellus cibarius</em>). Av dessa har karljohan och kantarell inga farliga lookalikes i Finland och är de rekommenderade utgångspunkterna.",
-      "p5": "Ska du plocka svamp i Lappland för första gången, gör det med någon som redan kan. En 4-timmars guidad vandrings förhållande mellan kostnad och trygghet är oslagbart och i Lappland är guiderna oftast samiska plockare som lärt sig detta av sina far- och morföräldrar, inte kommersiella guider som läser innantill från ett manus."
+      "p5": "Ska du plocka svamp i Lappland för första gången, gör det med någon som redan kan. En 4-timmars guidad vandrings förhållande mellan kostnad och trygghet är oslagbart, och i Lappland leds vandringarna oftast av lokala plockare som lärt sig detta hemma, inte ur ett manus."
     },
     "calendar": {
       "kicker": "Säsongskalender",
       "headline": "Månad för månad, vad som finns i skogen.",
-      "lead": "Lapplands plockningsfönster är kort och intensivt, ungefär maj till slutet av september. Inom det fönstret skiftar det som är i fokus varannan vecka. Det här är kalendern en lokal plockare planerar sommaren efter.",
+      "lead": "Lapplands plockningsfönster är kort och intensivt, ungefär maj till oktober. Inom det fönstret skiftar det som är i fokus varannan vecka. Det här är kalendern en lokal plockare planerar sommaren efter.",
       "items": [
         {
           "month": "maj",
@@ -990,7 +990,7 @@
         },
         {
           "month": "juli (slutet)–början av augusti",
-          "body": "Hjortronsäsong, oftast ett fönster på tre veckor beroende på var myren ligger. Årets mest intensiva plockning. Många finska kontor står i praktiken stilla för den."
+          "body": "Hjortronsäsong, oftast ett fönster på tre veckor beroende på var myren ligger. Årets mest intensiva plockning, och de veckor ivriga plockare planerar sommaren kring."
         },
         {
           "month": "augusti",
@@ -1036,7 +1036,7 @@
     },
     "guideCta": {
       "headline": "En eftermiddag med en guide sparar en hel säsong av gissningar.",
-      "lead": "Lapplands guidade plockningsvandringar är inte bussturs­versionen. De leds oftast av samiska plockare, körs i små grupper på 6–15 personer och börjar med den föreläsning om svampsäkerhet du faktiskt behöver. Avslutas med att laga det du plockat över en lägereld. De flesta kostar mindre än en förrätt på en fine dining-restaurang.",
+      "lead": "Lapplands guidade plockningsvandringar är inte bussturs­versionen. De leds oftast av lokala plockare, körs i små grupper på 6–15 personer och börjar med den föreläsning om svampsäkerhet du faktiskt behöver. Avslutas med att laga det du plockat över en lägereld. De flesta kostar mindre än en förrätt på en fine dining-restaurang.",
       "cta": "Bläddra bland guidade vandringar"
     }
   },
@@ -1091,7 +1091,7 @@
       },
       {
         "name": "Arktisk fine dining-upplevelse",
-        "description": "En exklusiv resa genom Lapplands finaste restauranger. Michelin-rekommenderade ställen och prisbelönta kockar som lagar med de renaste arktiska råvarorna.",
+        "description": "En dag byggd kring några av Lapplands bästa restauranger. Flaggskeppssalar och kockar som lagar med råvaror från regionen.",
         "highlights": [
           "Trerätterslunch på en regional flaggskeppsrestaurang",
           "Rundtur i köket med köksmästaren",

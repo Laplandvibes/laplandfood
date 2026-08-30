@@ -263,9 +263,9 @@
     "fishDeep": {
       "kicker": "Diepteduik · Meervis",
       "headline": "Waarom ijsvissen de beste vis van het jaar oplevert.",
-      "p1": "Lapland ligt op ruwweg 6.000 meren, elk schoon genoeg om uit te drinken tijdens een lange wandeling. De vier vissen die op het bord tellen zijn de <strong>marene (siika)</strong>, de <strong>snoek (hauki)</strong>, de <strong>baars (ahven)</strong> en de <strong>bruine forel / Arctische zalmforel (taimen / nieriä)</strong>. Alle vier zijn inheems, alle vier worden in commerciële hoeveelheden gevangen door zowel kleine vissers als ijsvis-liefhebbers, en alle vier duiken in verschillende vormen op op Laplandse menu's.",
+      "p1": "Lapland ligt op ruwweg 6.000 meren, de meeste schoon genoeg om uit te drinken tijdens een lange wandeling. De vier vissen die op het bord tellen zijn de <strong>marene (siika)</strong>, de <strong>snoek (hauki)</strong>, de <strong>baars (ahven)</strong> en de <strong>bruine forel / Arctische zalmforel (taimen / nieriä)</strong>. Alle vier zijn inheems, alle vier worden in commerciële hoeveelheden gevangen door zowel kleine vissers als ijsvis-liefhebbers, en alle vier duiken in verschillende vormen op op Laplandse menu's.",
       "p2": "IJsvissen, <em>pilkkiminen</em>, is meer dan een lokale hobby. Het is de visserijmethode die de smaakvolste Arctische meervis van het jaar oplevert. Dit is waarom: in de winter is het meerwater op zijn koudst en helderst. De stofwisseling van vissen vertraagt, vetdepots verstevigen en parasieten sterven (geen warmwatervectoren). Het vlees van een in februari onder het ijs gevangen marene is dichter, zoeter en zuiverder van smaak dan dezelfde vis in juli. Laplandse koks plannen hun menu's eromheen.",
-      "p3": "De techniek zelf is eenvoudig, boor een gat door 50-80 cm ijs, laat een kleine jig met een enkele haak zakken, wacht, maar vereist temperaturen die vaak kouder zijn dan −15 °C. De traditionele Samische aanpak was het gat tussen de bezoeken af te sluiten, zodat het warme water onder het ijs de hengel niet liet bevriezen. Tegenwoordig gebruiken de meeste mensen geïsoleerde tenten (een kleine ijsvisschuilplaats is goedkoop en verandert de ervaring volledig).",
+      "p3": "De techniek zelf is eenvoudig, boor een gat door 50-80 cm ijs, laat een kleine jig met een enkele haak zakken, wacht, maar vereist temperaturen die vaak kouder zijn dan −15 °C. Traditioneel dekte men het gat tussen de bezoeken af, zodat het niet opnieuw dichtvroor. Tegenwoordig gebruiken de meeste mensen geïsoleerde tenten (een kleine ijsvisschuilplaats is goedkoop en verandert de ervaring volledig).",
       "p4Prefix": "Op een menu: licht gerookte marene (<em>graavisiika</em>) en snoekhom-op-rogge zijn de Laplandse dagelijkse voorgerechten. Een hele gebraden bruine forel is het klassieke hoofdgerecht. Samische vissoep (recept op de",
       "p4LinkLabel": "receptenpagina",
       "p4Suffix": ") gebruikt wat de vissers die week binnenbrachten."
@@ -273,7 +273,7 @@
     "everymansRight": {
       "kicker": "Toegangsrecht",
       "headline": "Het juridische kader dat dit alles mogelijk maakt.",
-      "p1": "Bijna elk ingrediënt op deze pagina is juridisch gezien gratis. Het Finse <em>jokamiehenoikeus</em> (toegangsrecht) is een eeuwenoud, gecodificeerd principe dat iedereen, burger of bezoeker, toestaat te wandelen, te kamperen en te plukken op de meeste grond in Finland, ongeacht wie de eigenaar is. U kunt bessen, paddenstoelen en wilde kruiden op privégrond plukken zonder te vragen. U kunt met één hengel vissen zonder vergunning. U kunt één nacht op de meeste grond slapen zonder te vragen.",
+      "p1": "Bijna elk ingrediënt op deze pagina is juridisch gezien gratis. Het Finse <em>jokamiehenoikeus</em> (toegangsrecht) is een eeuwenoud, gecodificeerd principe dat iedereen, burger of bezoeker, toestaat te wandelen, te kamperen en te plukken op de meeste grond in Finland, ongeacht wie de eigenaar is. U kunt bessen, paddenstoelen en wilde kruiden op privégrond plukken zonder te vragen. U kunt met hengel en lijn vissen of ijsvissen zonder vergunning. U kunt één nacht op de meeste grond slapen zonder te vragen.",
       "p2": "Wat u niet kunt: bomen beschadigen, jagen, off-road met een voertuig rijden, beschermde planten verzamelen, een open vuur op andermans grond stoken zonder toestemming, of plukken uit een gecultiveerde tuin. Het principe is toegang zonder schade. Het is een van de weinige juridische kaders in Europa dat wild voedsel als gedeelde bron behandelt, en het is de structurele reden waarom Laplands eetcultuur de modernisering overleefde.",
       "ctaPrimary": "Lees de plukgids",
       "ctaSecondary": "Of boek een begeleide plukwandeling"
@@ -526,7 +526,7 @@
       "items": [
         {
           "title": "Sápmi, het thuisland",
-          "body": "Sápmi beslaat meer dan 400.000 km² over vier naties. Fins Sápmi (Saamelaisten kotiseutualue) is de noordelijkste regio van Finland, de gemeenten Enontekiö, Inari en Utsjoki."
+          "body": "Sápmi beslaat ruwweg 400.000 km² over vier naties. Fins Sápmi (Saamelaisten kotiseutualue) is de noordelijkste regio van Finland, de gemeenten Enontekiö, Inari en Utsjoki."
         },
         {
           "title": "Samische talen",
@@ -963,18 +963,18 @@
       "rulesIntro": "<strong>De vijf regels die elke Finse plukker volgt:</strong>",
       "rules": [
         "Bent u niet 100 % zeker van de soort, niet 90 %, niet \"het lijkt op eekhoorntjesbrood\", pluk hem niet. Geen uitzonderingen.",
-        "Controleer met twee onafhankelijke bronnen: een gids, een app (Pikkupilkku en iNaturalist zijn beide nuttig), en idealiter een ervaren mens.",
+        "Controleer met minstens twee onafhankelijke bronnen: een gids, een determinatie-app zoals iNaturalist, en idealiter een ervaren mens.",
         "Let op <em>alles</em>: vorm van de hoed, plaatjes of poriën, ring op de steel, basis van de steel (graaf het altijd helemaal uit, veel dodelijke soorten herken je aan het kommetje aan de basis), sporenafdruk, geur, waar hij groeit, waarop.",
         "Pluk nooit vanuit één perspectief. Neem de hele paddenstoel mee naar huis en controleer opnieuw in goed licht. Bij twijfel: weggooien.",
         "Kook alle wilde paddenstoelen voor consumptie, ook degene die technisch rauw eetbaar zijn. Dit is een Finse conventie meer dan een strikte regel, maar elke ervaren plukker doet het."
       ],
       "p4": "<strong>De vier paddenstoelen die een beginner in één middag veilig kan leren herkennen</strong> met een gids zijn: eekhoorntjesbrood (<em>Boletus edulis</em>), valse morielje (<em>Gyromitra esculenta</em>, maar <strong>alleen na tweemaal blancheren met telkens nieuw water</strong>; veel Finnen zullen u zeggen dat hij heerlijk is, veel anderen zullen u zeggen hem te mijden; beide hebben gelijk), oranje melkzwam (<em>Lactarius deliciosus</em>) en cantharel (<em>Cantharellus cibarius</em>). Hiervan hebben eekhoorntjesbrood en cantharel geen gevaarlijke soortgenoten in Finland en zijn de aanbevolen startpunten.",
-      "p5": "Gaat u voor het eerst paddenstoelen plukken in Lapland, doe dat met iemand die het al weet. De prijs/zekerheid-verhouding van een wandeling van 4 uur is onverslaanbaar en in Lapland zijn de gidsen meestal Samische plukkers die het van hun grootouders leerden, niet commerciële gidsen die een script voorlezen."
+      "p5": "Gaat u voor het eerst paddenstoelen plukken in Lapland, doe dat met iemand die het al weet. De prijs/zekerheid-verhouding van een wandeling van 4 uur is onverslaanbaar, en in Lapland worden de wandelingen meestal geleid door lokale plukkers die dit thuis hebben geleerd, niet uit een script."
     },
     "calendar": {
       "kicker": "Seizoenskalender",
       "headline": "Maand na maand, wat er in het bos is.",
-      "lead": "Het plukvenster in Lapland is kort en intens, ruwweg mei tot eind september. Binnen dat venster verschuift elke twee weken het dominante doel. Dit is de kalender waarop een lokale plukker zijn zomer plant.",
+      "lead": "Het plukvenster in Lapland is kort en intens, ruwweg mei tot oktober. Binnen dat venster verschuift elke twee weken het dominante doel. Dit is de kalender waarop een lokale plukker zijn zomer plant.",
       "items": [
         {
           "month": "Mei",
@@ -990,7 +990,7 @@
         },
         {
           "month": "Eind juli – begin augustus",
-          "body": "Kruipbramen-seizoen, meestal een venster van 3 weken afhankelijk van de venlocatie. De meest intensieve plukactiviteit van het jaar. Veel Finse kantoren pauzeren er feitelijk voor."
+          "body": "Kruipbramen-seizoen, meestal een venster van 3 weken afhankelijk van de venlocatie. De meest intensieve plukactiviteit van het jaar, en de weken waaromheen fanatieke plukkers hun zomer plannen."
         },
         {
           "month": "Augustus",
@@ -1036,7 +1036,7 @@
     },
     "guideCta": {
       "headline": "Eén middag met een gids bespaart u een seizoen van gokken.",
-      "lead": "De begeleide plukwandelingen in Lapland zijn niet de bus-tour-versie. Ze worden meestal geleid door Samische plukkers, in kleine groepen van 6–15, en beginnen met de paddenstoelveiligheidsles die u écht nodig heeft. Ze eindigen met het koken van uw pluk boven een kampvuur. De meeste kosten minder dan een fine-diningvoorgerecht.",
+      "lead": "De begeleide plukwandelingen in Lapland zijn niet de bus-tour-versie. Ze worden meestal geleid door lokale plukkers, in kleine groepen van 6–15, en beginnen met de paddenstoelveiligheidsles die u écht nodig heeft. Ze eindigen met het koken van uw pluk boven een kampvuur. De meeste kosten minder dan een fine-diningvoorgerecht.",
       "cta": "Bekijk begeleide wandelingen"
     }
   },
@@ -1091,7 +1091,7 @@
       },
       {
         "name": "Arctische fine-dining-beleving",
-        "description": "Een exclusieve reis door Laplands beste restaurants. Michelin-aanbevolen locaties en bekroonde koks die met de zuiverste Arctische ingrediënten werken.",
+        "description": "Een dag rond enkele van de beste restaurants van Lapland. Vlaggenschiprestaurants en koks die koken met ingrediënten uit de regio.",
         "highlights": [
           "3-gangenlunch in een regionaal vlaggenschiprestaurant",
           "Rondleiding achter de keuken met de chef",

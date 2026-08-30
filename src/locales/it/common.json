@@ -9,14 +9,14 @@
     "switchTo": "Cambia lingua"
   },
   "cta": {
-    "readMore": "Continua a leggere",
-    "viewAll": "Vedi tutto",
+    "readMore": "Continui a leggere",
+    "viewAll": "Veda tutto",
     "loading": "Caricamento…",
-    "subscribe": "Iscriviti",
-    "close": "Chiudi"
+    "subscribe": "Si iscriva",
+    "close": "Chiuda"
   },
   "affiliateDisclosure": {
-    "page": "Questa pagina contiene link di affiliazione. Se prenoti tramite questi link, LaplandVibes potrebbe ricevere una commissione senza alcun costo aggiuntivo per te."
+    "page": "Questa pagina contiene link di affiliazione. Se prenota tramite questi link, LaplandVibes potrebbe ricevere una commissione senza alcun costo aggiuntivo per Lei."
   },
   "footer": {
     "networkBadge": "Rete Lapponia finlandese",
@@ -39,12 +39,12 @@
     },
     "about": {
       "eyebrow": "Su LaplandVibes",
-      "body": "La guida di riferimento alla Lapponia finlandese, dall'aurora boreale al sole di mezzanotte. Esperienze selezionate, consigli da locali e tutto ciò che serve per pianificare la tua avventura artica.",
+      "body": "La guida di riferimento alla Lapponia finlandese, dall'aurora boreale al sole di mezzanotte. Esperienze selezionate, consigli da locali e tutto ciò che serve per pianificare la Sua avventura artica.",
       "badge": "Indipendente · fonti citate"
     },
     "spottedError": {
-      "title": "Hai trovato un errore?",
-      "body": "Vedi qualcosa da correggere? Diccelo, lo sistemiamo subito.",
+      "title": "Ha trovato un errore?",
+      "body": "Vede qualcosa da correggere? Ce lo dica, lo sistemiamo subito.",
       "cta": "Segnala un errore →"
     },
     "partner": {
@@ -57,7 +57,7 @@
       "body": "Partnership editoriali e press kit.",
       "cta": "Richieste stampa →"
     },
-    "affiliate": "Questo sito contiene link di affiliazione. Se prenoti tramite questi link, LaplandVibes potrebbe ricevere una commissione senza costi aggiuntivi per te.",
+    "affiliate": "Questo sito contiene link di affiliazione. Se prenota tramite questi link, LaplandVibes potrebbe ricevere una commissione senza costi aggiuntivi per Lei.",
     "copyright": "{{year}} #LaplandVibes, Parte della rete #LaplandVibes",
     "websiteBy": "Sito realizzato da Yrityspaketit.fi",
     "legal": {
@@ -75,7 +75,7 @@
       "fineDining": "Alta cucina",
       "barsPubs": "Bar e pub",
       "activities": "Attività",
-      "huskySafaris": "Safari con i husky",
+      "huskySafaris": "Safari con gli husky",
       "skiResorts": "Stazioni sciistiche",
       "snowmobileTours": "Tour in motoslitta",
       "spaWellness": "Spa e benessere",

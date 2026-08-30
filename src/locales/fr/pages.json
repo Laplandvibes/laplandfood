@@ -263,9 +263,9 @@
     "fishDeep": {
       "kicker": "À fond · Poisson de lac",
       "headline": "Pourquoi la pêche sur glace produit le meilleur poisson de l'année.",
-      "p1": "La Laponie compte environ 6 000 lacs, chacun assez propre pour boire son eau lors d'une longue randonnée. Les quatre poissons qui comptent dans l'assiette sont le <strong>corégone (siika)</strong>, le <strong>brochet (hauki)</strong>, la <strong>perche (ahven)</strong> et la <strong>truite fario / omble chevalier (taimen / nieriä)</strong>. Tous quatre sont natifs, tous quatre sont pêchés en quantité commerciale à la fois par de petits pêcheurs et des amateurs de pêche sur glace, tous quatre apparaissent sous différentes formes sur les menus lapons.",
+      "p1": "La Laponie compte environ 6 000 lacs, la plupart assez propres pour en boire l'eau lors d'une longue randonnée. Les quatre poissons qui comptent dans l'assiette sont le <strong>corégone (siika)</strong>, le <strong>brochet (hauki)</strong>, la <strong>perche (ahven)</strong> et la <strong>truite fario / omble chevalier (taimen / nieriä)</strong>. Tous quatre sont natifs, tous quatre sont pêchés en quantité commerciale à la fois par de petits pêcheurs et des amateurs de pêche sur glace, tous quatre apparaissent sous différentes formes sur les menus lapons.",
       "p2": "La pêche sur glace, <em>pilkkiminen</em>, est plus qu'un passe-temps local. C'est la méthode qui produit le poisson de lac arctique le plus savoureux de l'année. Pourquoi : en hiver, l'eau du lac est à sa température la plus froide et la plus claire. Le métabolisme des poissons ralentit, les dépôts de graisse se raffermissent et les parasites meurent (pas de vecteurs d'eau chaude). La chair d'un corégone pêché sous glace en février est plus dense, plus sucrée et au goût plus net que celle du même poisson pêché en juillet. Les chefs lapons calent leurs menus dessus.",
-      "p3": "La technique elle-même est simple, percer un trou à travers 50-80 cm de glace, descendre un petit leurre avec un hameçon, attendre, mais elle exige des températures souvent inférieures à −15 °C. L'approche sâme traditionnelle consistait à boucher le trou entre les visites pour empêcher l'eau sous la glace de regeler la canne. Aujourd'hui, la plupart des gens utilisent des tentes isolées (un petit abri de pêche est bon marché et change complètement l'expérience).",
+      "p3": "La technique elle-même est simple, percer un trou à travers 50-80 cm de glace, descendre un petit leurre avec un hameçon, attendre, mais elle exige des températures souvent inférieures à −15 °C. Traditionnellement, on couvrait le trou entre les visites pour qu'il ne regèle pas. Aujourd'hui, la plupart des gens utilisent des tentes isolées (un petit abri de pêche est bon marché et change complètement l'expérience).",
       "p4Prefix": "À table : le corégone légèrement fumé (<em>graavisiika</em>) et les œufs de brochet sur pain de seigle sont les entrées quotidiennes de la Laponie. Une truite fario entière rôtie est le plat classique. La soupe de poisson sâme (recette sur la",
       "p4LinkLabel": "page recettes",
       "p4Suffix": ") utilise ce que les pêcheurs ont rapporté cette semaine-là."
@@ -273,7 +273,7 @@
     "everymansRight": {
       "kicker": "Droit d'accès",
       "headline": "Le cadre légal qui rend tout cela possible.",
-      "p1": "Presque tous les ingrédients de cette page sont, légalement, gratuits. Le <em>jokamiehenoikeus</em> finlandais (droit d'accès) est un principe pluri-séculaire et codifié qui permet à quiconque, citoyen ou visiteur, de marcher, camper et cueillir sur la plupart des terres de Finlande, quel qu'en soit le propriétaire. Vous pouvez cueillir baies, champignons et plantes sauvages sur un terrain privé sans demander. Vous pouvez pêcher à une canne sans permis. Vous pouvez dormir une nuit sur la plupart des terrains sans demander.",
+      "p1": "Presque tous les ingrédients de cette page sont, légalement, gratuits. Le <em>jokamiehenoikeus</em> finlandais (droit d'accès) est un principe pluri-séculaire et codifié qui permet à quiconque, citoyen ou visiteur, de marcher, camper et cueillir sur la plupart des terres de Finlande, quel qu'en soit le propriétaire. Vous pouvez cueillir baies, champignons et plantes sauvages sur un terrain privé sans demander. Vous pouvez pêcher à la ligne, ou pêcher sur la glace, sans permis. Vous pouvez dormir une nuit sur la plupart des terrains sans demander.",
       "p2": "Ce que vous ne pouvez pas faire : abîmer les arbres, chasser, conduire un véhicule hors-piste, ramasser des plantes protégées, allumer un feu sur le terrain de quelqu'un sans permission, ou cueillir dans un jardin cultivé. Le principe est : accéder sans nuire. C'est l'un des rares cadres légaux d'Europe à traiter la nourriture sauvage comme une ressource commune, et c'est la raison structurelle pour laquelle la culture culinaire lapone a survécu à la modernisation.",
       "ctaPrimary": "Lire le guide de cueillette",
       "ctaSecondary": "Ou réserver une balade guidée de cueillette"
@@ -526,7 +526,7 @@
       "items": [
         {
           "title": "Sápmi, la terre natale",
-          "body": "Le Sápmi couvre plus de 400 000 km² à travers quatre nations. Le Sápmi finlandais (Saamelaisten kotiseutualue) est la région la plus septentrionale de Finlande, communes d'Enontekiö, Inari et Utsjoki."
+          "body": "Le Sápmi couvre environ 400 000 km² à travers quatre nations. Le Sápmi finlandais (Saamelaisten kotiseutualue) est la région la plus septentrionale de Finlande, communes d'Enontekiö, Inari et Utsjoki."
         },
         {
           "title": "Langues sâmes",
@@ -963,18 +963,18 @@
       "rulesIntro": "<strong>Les cinq règles que tout cueilleur finlandais suit :</strong>",
       "rules": [
         "Si vous n'êtes pas certain à 100 % de l'espèce, pas 90 %, pas « ça ressemble à un cèpe », ne cueillez pas. Pas d'exception.",
-        "Recoupez avec deux sources indépendantes : un guide, une application (Pikkupilkku et iNaturalist sont utiles) et idéalement un humain expérimenté.",
+        "Recoupez avec au moins deux sources indépendantes : un guide, une application d'identification comme iNaturalist et idéalement un humain expérimenté.",
         "Faites attention à <em>tout</em> : forme du chapeau, lames ou pores, anneau du pied, base du pied (déterrez toujours le tout, beaucoup d'espèces mortelles s'identifient par la volve à la base), sporée, odeur, où il pousse, sur quoi.",
         "Ne cueillez jamais sous un seul angle. Rapportez le champignon entier à la maison et revérifiez à la lumière. Au moindre doute, jetez.",
         "Cuisez tous les champignons sauvages avant de manger, même ceux techniquement comestibles crus. C'est une convention finlandaise plutôt qu'une règle stricte, mais c'est ce que fait tout cueilleur expérimenté."
       ],
       "p4": "<strong>Les quatre champignons qu'un débutant peut apprendre à identifier sans risque</strong> en une après-midi avec un guide sont : le cèpe (<em>Boletus edulis</em>), la fausse morille (<em>Gyromitra esculenta</em>, mais <strong>uniquement après deux ébouillantages successifs avec changement d'eau</strong> ; beaucoup de Finlandais vous diront qu'elle est délicieuse, d'autres vous diront de l'éviter ; les deux ont raison), le lactaire délicieux (<em>Lactarius deliciosus</em>) et la girolle (<em>Cantharellus cibarius</em>). Parmi eux, le cèpe et la girolle n'ont pas de sosie dangereux en Finlande et sont les points de départ recommandés.",
-      "p5": "Si vous comptez cueillir des champignons en Laponie pour la première fois, faites-le avec quelqu'un qui sait déjà. Le rapport coût/confiance d'une balade guidée de 4 heures est imbattable et en Laponie, les guides sont typiquement des cueilleurs sâmes qui ont appris cela de leurs grands-parents, pas des guides commerciaux qui lisent un script."
+      "p5": "Si vous comptez cueillir des champignons en Laponie pour la première fois, faites-le avec quelqu'un qui sait déjà. Le rapport coût/confiance d'une balade guidée de 4 heures est imbattable, et en Laponie les balades sont généralement menées par des cueilleurs locaux qui ont appris cela à la maison, pas dans un script."
     },
     "calendar": {
       "kicker": "Calendrier de saison",
       "headline": "Mois par mois, ce qu'il y a en forêt.",
-      "lead": "La fenêtre de cueillette en Laponie est courte et intense, environ de mai à fin septembre. À l'intérieur de cette fenêtre, toutes les deux semaines la cible dominante change. C'est le calendrier sur lequel un cueilleur local planifie son été.",
+      "lead": "La fenêtre de cueillette en Laponie est courte et intense, environ de mai à octobre. À l'intérieur de cette fenêtre, toutes les deux semaines la cible dominante change. C'est le calendrier sur lequel un cueilleur local planifie son été.",
       "items": [
         {
           "month": "Mai",
@@ -990,7 +990,7 @@
         },
         {
           "month": "Fin juillet – début août",
-          "body": "Saison des mûres arctiques, typiquement une fenêtre de 3 semaines selon l'emplacement de la tourbière. L'activité de cueillette la plus intense de l'année. De nombreux bureaux finlandais s'arrêtent de fait pour ça."
+          "body": "Saison des mûres arctiques, typiquement une fenêtre de 3 semaines selon l'emplacement de la tourbière. L'activité de cueillette la plus intense de l'année, et les semaines autour desquelles les cueilleurs passionnés organisent leur été."
         },
         {
           "month": "Août",
@@ -1036,7 +1036,7 @@
     },
     "guideCta": {
       "headline": "Une après-midi avec un guide économise une saison de devinettes.",
-      "lead": "Les balades de cueillette guidées en Laponie ne sont pas la version en autocar. Elles sont typiquement menées par des cueilleurs sâmes, en petits groupes de 6 à 15, et commencent par le cours de sécurité champignons dont vous avez vraiment besoin. Se terminent par la cuisson de la récolte au feu de camp. La plupart coûtent moins qu'une entrée gastronomique.",
+      "lead": "Les balades de cueillette guidées en Laponie ne sont pas la version en autocar. Elles sont typiquement menées par des cueilleurs locaux, en petits groupes de 6 à 15, et commencent par le cours de sécurité champignons dont vous avez vraiment besoin. Se terminent par la cuisson de la récolte au feu de camp. La plupart coûtent moins qu'une entrée gastronomique.",
       "cta": "Voir les balades guidées"
     }
   },
@@ -1091,7 +1091,7 @@
       },
       {
         "name": "Expérience gastronomique arctique",
-        "description": "Un voyage exclusif à travers les meilleures tables de Laponie. Restaurants recommandés Michelin et chefs primés cuisinant avec les ingrédients arctiques les plus purs.",
+        "description": "Une journée construite autour de quelques-unes des meilleures tables de Laponie. Salles phares et chefs qui cuisinent avec des produits de la région.",
         "highlights": [
           "Déjeuner 3 services dans un restaurant phare régional",
           "Visite des coulisses avec le chef",

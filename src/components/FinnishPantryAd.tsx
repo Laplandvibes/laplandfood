@@ -136,10 +136,10 @@ const COPY: Record<Locale, Copy> = {
     adLabel: 'Annuncio',
     eyebrow: 'La dispensa, per posta',
     headline: 'Gran parte di questa pagina si può spedire.',
-    body: 'Confetture di mirtillo rosso e camemoro, segale, caffè finlandese e quella liquirizia salata di cui nessuno ti avverte. Suomikauppa spedisce alimentari finlandesi in tutto il mondo, ed è così che i finlandesi all’estero rifanno la scorta. Il secco e il sigillato viaggia; carne e latticini quasi mai escono dalla UE.',
+    body: 'Confetture di mirtillo rosso e mora artica, segale, caffè finlandese e quella liquirizia salata di cui nessuno La avverte. Suomikauppa spedisce alimentari finlandesi in tutto il mondo, ed è così che i finlandesi all’estero rifanno la scorta. Il secco e il sigillato viaggiano; carne e latticini non escono quasi mai dall’UE.',
     worldwide: 'Spedizione in tutto il mondo',
     oneOrder: 'Un ordine invece di cinque',
-    cta: 'Vedi gli alimentari finlandesi',
+    cta: 'Veda gli alimentari finlandesi',
     soldBy: 'Venduto da Suomikauppa.fi',
   },
   nl: {

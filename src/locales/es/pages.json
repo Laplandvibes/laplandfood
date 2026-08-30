@@ -263,9 +263,9 @@
     "fishDeep": {
       "kicker": "A fondo · El pescado de lago",
       "headline": "Por qué la pesca en hielo da el mejor pescado del año.",
-      "p1": "Laponia se asienta sobre unos 6.000 lagos, todos lo bastante limpios como para beber de ellos en una caminata larga. Los cuatro pescados que importan en el plato son el <strong>corégono (siika)</strong>, el <strong>lucio (hauki)</strong>, la <strong>perca (ahven)</strong> y la <strong>trucha común / salvelino ártico (taimen / nieriä)</strong>. Los cuatro son autóctonos, los cuatro se capturan en cantidad comercial tanto por pequeños pescadores como por aficionados a la pesca en hielo, y los cuatro aparecen de distintas formas en los menús de Laponia.",
+      "p1": "Laponia se asienta sobre unos 6.000 lagos, la mayoría lo bastante limpios como para beber de ellos en una caminata larga. Los cuatro pescados que importan en el plato son el <strong>corégono (siika)</strong>, el <strong>lucio (hauki)</strong>, la <strong>perca (ahven)</strong> y la <strong>trucha común / salvelino ártico (taimen / nieriä)</strong>. Los cuatro son autóctonos, los cuatro se capturan en cantidad comercial tanto por pequeños pescadores como por aficionados a la pesca en hielo, y los cuatro aparecen de distintas formas en los menús de Laponia.",
       "p2": "La pesca en hielo, <em>pilkkiminen</em>, es más que una afición local. Es el método de pesca que da el pescado de lago ártico más sabroso del año. La razón: en invierno el agua del lago está en su punto más frío y claro. El metabolismo de los peces se ralentiza, los depósitos de grasa se compactan y los parásitos mueren (sin vectores de aguas cálidas). La carne de un corégono pescado en el hielo en febrero es más densa, más dulce y de sabor más limpio que el mismo pescado capturado en julio. Los chefs de Laponia organizan sus menús a su alrededor.",
-      "p3": "La técnica en sí es sencilla, perforas un agujero con un berbiquí a través de 50–80 cm de hielo, dejas caer una pequeña pluma con un solo anzuelo y esperas, pero requiere temperaturas a menudo por debajo de los −15 °C. El enfoque sami tradicional consistía en tapar el agujero entre visitas para evitar que el agua templada de bajo el hielo volviera a congelar la caña. Hoy la mayoría usa tiendas aislantes (un pequeño refugio de pesca en hielo es barato y cambia la experiencia por completo).",
+      "p3": "La técnica en sí es sencilla, perforas un agujero con un berbiquí a través de 50–80 cm de hielo, dejas caer una pequeña pluma con un solo anzuelo y esperas, pero requiere temperaturas a menudo por debajo de los −15 °C. Tradicionalmente se tapaba el agujero entre visitas para que no volviera a helarse. Hoy la mayoría usa tiendas aislantes (un pequeño refugio de pesca en hielo es barato y cambia la experiencia por completo).",
       "p4Prefix": "En el menú: el corégono ligeramente ahumado (<em>graavisiika</em>) y las huevas de lucio sobre pan de centeno son entrantes cotidianos de Laponia. Una trucha común asada entera es el plato principal clásico. La sopa de pescado de Sápmi (receta en la",
       "p4LinkLabel": "página de recetas",
       "p4Suffix": ") usa lo que los pescadores hayan traído esa semana."
@@ -273,7 +273,7 @@
     "everymansRight": {
       "kicker": "El derecho de acceso a la naturaleza",
       "headline": "El marco legal que hace posible todo esto.",
-      "p1": "Casi todos los ingredientes de esta página son, legalmente, gratis. El <em>jokamiehenoikeus</em> finlandés (derecho de acceso a la naturaleza) es un principio codificado de siglos de antigüedad que permite a cualquiera, ciudadano o visitante, caminar por la mayoría del territorio de Finlandia, acampar en él y recolectar en él, sin importar de quién sea la propiedad. Puedes coger bayas, setas y hierbas silvestres en terreno privado sin pedir permiso. Puedes pescar con una sola caña sin licencia. Puedes pasar una noche en la mayoría del terreno sin pedir permiso.",
+      "p1": "Casi todos los ingredientes de esta página son, legalmente, gratis. El <em>jokamiehenoikeus</em> finlandés (derecho de acceso a la naturaleza) es un principio codificado de siglos de antigüedad que permite a cualquiera, ciudadano o visitante, caminar por la mayoría del territorio de Finlandia, acampar en él y recolectar en él, sin importar de quién sea la propiedad. Puedes coger bayas, setas y hierbas silvestres en terreno privado sin pedir permiso. Puedes pescar con caña y anzuelo, o pescar en hielo, sin licencia. Puedes pasar una noche en la mayoría del terreno sin pedir permiso.",
       "p2": "Lo que no puedes hacer: dañar árboles, cazar, conducir un vehículo fuera de los caminos, recoger plantas protegidas, encender una hoguera en el terreno de alguien sin permiso o coger de un jardín cultivado. El principio es acceso sin daño. Es uno de los pocos marcos legales de Europa que trata la comida silvestre como un recurso compartido, y es la razón estructural por la que la cultura gastronómica de Laponia sobrevivió a la modernización.",
       "ctaPrimary": "Leer la guía de recolección",
       "ctaSecondary": "O reservar un paseo de recolección guiado"
@@ -526,7 +526,7 @@
       "items": [
         {
           "title": "Sápmi, la patria",
-          "body": "Sápmi abarca más de 400.000 km² repartidos en cuatro naciones. La Sápmi finlandesa (Saamelaisten kotiseutualue) es la región más septentrional de Finlandia, los municipios de Enontekiö, Inari y Utsjoki."
+          "body": "Sápmi abarca unos 400.000 km² repartidos en cuatro naciones. La Sápmi finlandesa (Saamelaisten kotiseutualue) es la región más septentrional de Finlandia, los municipios de Enontekiö, Inari y Utsjoki."
         },
         {
           "title": "Las lenguas samis",
@@ -963,18 +963,18 @@
       "rulesIntro": "<strong>Las cinco reglas que sigue todo recolector finlandés:</strong>",
       "rules": [
         "Si no estás 100 % seguro de la especie, no al 90 %, no \"parece un boletus\", no la recojas. No hay excepción a esta regla.",
-        "Coteja con dos fuentes independientes: una guía, una app (Pikkupilkku e iNaturalist son útiles) y, a ser posible, un humano con experiencia.",
+        "Coteja con al menos dos fuentes independientes: una guía, una app de identificación como iNaturalist y, a ser posible, un humano con experiencia.",
         "Fíjate en <em>todo</em>: forma del sombrero, láminas o poros, anillo del pie, base del pie (arranca siempre la seta entera, muchas especies mortales se identifican por la volva de la base), esporada, olor, dónde crece, sobre qué crece.",
         "Nunca recojas guiándote por un solo detalle. Lleva la seta entera a casa y vuelve a comprobarla con buena luz. Si algo es ambiguo, tírala.",
         "Cocina todas las setas silvestres antes de comerlas, incluso las que técnicamente se pueden comer crudas. Esto es una convención finlandesa más que una regla estricta, pero es lo que hace todo recolector con experiencia."
       ],
       "p4": "<strong>Las cuatro setas que un principiante puede aprender a identificar con seguridad</strong> en una sola tarde con una guía son: el boletus / cep (<em>Boletus edulis</em>), la falsa colmenilla (<em>Gyromitra esculenta</em>, pero <strong>solo tras escaldarla dos veces y desechar el agua</strong>; muchos finlandeses te dirán que está deliciosa, muchos otros te dirán que la evites por completo; ambos tienen razón), el níscalo (<em>Lactarius deliciosus</em>) y el rebozuelo (<em>Cantharellus cibarius</em>). De estas, el boletus y el rebozuelo no tienen parientes peligrosos en Finlandia y son los puntos de partida recomendados.",
-      "p5": "Si vas a recoger setas en Laponia por primera vez, hazlo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible y en Laponia los guías suelen ser recolectores samis que aprendieron esto de sus abuelos, no guías comerciales que leen de un guion."
+      "p5": "Si vas a recoger setas en Laponia por primera vez, hazlo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible, y en Laponia los paseos suelen dirigirlos recolectores locales que aprendieron esto en casa, no de un guion."
     },
     "calendar": {
       "kicker": "Calendario de temporada",
       "headline": "Mes a mes, qué hay en el bosque.",
-      "lead": "La ventana de recolección de Laponia es corta e intensa, más o menos de mayo a finales de septiembre. Dentro de esa ventana, cada dos semanas cambia el objetivo dominante. Este es el calendario por el que un recolector local planea el verano.",
+      "lead": "La ventana de recolección de Laponia es corta e intensa, más o menos de mayo a octubre. Dentro de esa ventana, cada dos semanas cambia el objetivo dominante. Este es el calendario por el que un recolector local planea el verano.",
       "items": [
         {
           "month": "Mayo",
@@ -990,7 +990,7 @@
         },
         {
           "month": "Julio (finales) – principios de agosto",
-          "body": "Temporada de la mora ártica, normalmente una ventana de 3 semanas según la ubicación de la turbera. La actividad de recolección más intensa del año. Muchas oficinas finlandesas hacen una pausa de facto."
+          "body": "Temporada de la mora ártica, normalmente una ventana de 3 semanas según la ubicación de la turbera. La actividad de recolección más intensa del año, y las semanas en torno a las cuales los recolectores entusiastas planifican su verano."
         },
         {
           "month": "Agosto",
@@ -1036,7 +1036,7 @@
     },
     "guideCta": {
       "headline": "Una tarde con un guía te ahorra una temporada de adivinanzas.",
-      "lead": "Los paseos de recolección guiados de Laponia no son la versión de excursión en autobús. Suelen dirigirlos recolectores samis, se hacen en grupos pequeños de 6 a 15 personas y empiezan con la charla de seguridad con setas que de verdad necesitas. Terminan cocinando lo que has recogido en una hoguera. La mayoría cuesta menos que un entrante de alta cocina.",
+      "lead": "Los paseos de recolección guiados de Laponia no son la versión de excursión en autobús. Suelen dirigirlos recolectores locales, se hacen en grupos pequeños de 6 a 15 personas y empiezan con la charla de seguridad con setas que de verdad necesitas. Terminan cocinando lo que has recogido en una hoguera. La mayoría cuesta menos que un entrante de alta cocina.",
       "cta": "Ver paseos guiados"
     }
   },
@@ -1091,7 +1091,7 @@
       },
       {
         "name": "Experiencia de alta cocina ártica",
-        "description": "Un viaje exclusivo por los mejores restaurantes de Laponia. Locales recomendados por Michelin y chefs premiados cocinando con los ingredientes árticos más puros.",
+        "description": "Un día construido en torno a algunos de los mejores restaurantes de Laponia. Salas insignia y chefs que cocinan con ingredientes de la propia región.",
         "highlights": [
           "Almuerzo de 3 platos en un restaurante de referencia de la región",
           "Visita a la trastienda de la cocina con el chef de cocina",

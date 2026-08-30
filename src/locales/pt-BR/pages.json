@@ -263,9 +263,9 @@
     "fishDeep": {
       "kicker": "A fundo · O peixe de lago",
       "headline": "Por que a pesca no gelo dá o melhor peixe do ano.",
-      "p1": "A Lapônia se assenta sobre cerca de 6.000 lagos, todos limpos o bastante para beber deles numa caminhada longa. Os quatro peixes que importam no prato são o <strong>coregono (siika)</strong>, o <strong>lúcio (hauki)</strong>, a <strong>perca (ahven)</strong> e a <strong>truta-marrom / salvelino-ártico (taimen / nieriä)</strong>. Os quatro são nativos, os quatro são pescados em quantidade comercial tanto por pequenos pescadores quanto por entusiastas da pesca no gelo, e os quatro aparecem de formas diferentes nos cardápios da Lapônia.",
+      "p1": "A Lapônia se assenta sobre cerca de 6.000 lagos, a maioria limpa o bastante para beber deles numa caminhada longa. Os quatro peixes que importam no prato são o <strong>coregono (siika)</strong>, o <strong>lúcio (hauki)</strong>, a <strong>perca (ahven)</strong> e a <strong>truta-marrom / salvelino-ártico (taimen / nieriä)</strong>. Os quatro são nativos, os quatro são pescados em quantidade comercial tanto por pequenos pescadores quanto por entusiastas da pesca no gelo, e os quatro aparecem de formas diferentes nos cardápios da Lapônia.",
       "p2": "A pesca no gelo, <em>pilkkiminen</em>, é mais do que um hobby local. É o método de pesca que produz o peixe de lago ártico mais saboroso do ano. Eis o porquê: no inverno, a água do lago está no seu ponto mais frio e límpido. O metabolismo dos peixes desacelera, os depósitos de gordura firmam e os parasitas morrem (sem vetores de água quente). A carne de um coregono pescado no gelo em fevereiro é mais densa, mais doce e de gosto mais limpo do que o mesmo peixe capturado em julho. Os chefs da Lapônia organizam seus cardápios em torno disso.",
-      "p3": "A técnica em si é simples, você perfura um buraco com um trado através de 50–80 cm de gelo, solta uma pequena isca com um único anzol e espera, mas exige temperaturas muitas vezes abaixo de −15 °C. A abordagem sami tradicional incluía vedar o buraco entre as visitas para evitar que a água morna sob o gelo congelasse a vara de novo. Hoje a maioria usa barracas isoladas (um pequeno abrigo de pesca no gelo é barato e muda a experiência por completo).",
+      "p3": "A técnica em si é simples, você perfura um buraco com um trado através de 50–80 cm de gelo, solta uma pequena isca com um único anzol e espera, mas exige temperaturas muitas vezes abaixo de −15 °C. Tradicionalmente cobria-se o buraco entre as visitas para que ele não congelasse de novo. Hoje a maioria usa barracas isoladas (um pequeno abrigo de pesca no gelo é barato e muda a experiência por completo).",
       "p4Prefix": "No cardápio: o coregono levemente defumado (<em>graavisiika</em>) e a ova de lúcio sobre centeio são entradas cotidianas da Lapônia. Uma truta-marrom assada inteira é o prato principal clássico. A sopa de peixe da Sápmi (receita na",
       "p4LinkLabel": "página de receitas",
       "p4Suffix": ") usa o que os pescadores trouxeram naquela semana."
@@ -273,7 +273,7 @@
     "everymansRight": {
       "kicker": "O direito de acesso à natureza",
       "headline": "O arcabouço legal que torna tudo isso possível.",
-      "p1": "Quase todos os ingredientes desta página são, legalmente, de graça. O <em>jokamiehenoikeus</em> finlandês (direito de acesso à natureza) é um princípio secular, codificado, que permite a qualquer pessoa, cidadão ou visitante, caminhar pela maior parte das terras da Finlândia, acampar nelas e colher nelas, não importa de quem seja a propriedade. Você pode colher frutas, cogumelos e ervas silvestres em terra privada sem pedir. Você pode pescar com uma única vara sem licença. Você pode dormir uma noite na maior parte das terras sem pedir.",
+      "p1": "Quase todos os ingredientes desta página são, legalmente, de graça. O <em>jokamiehenoikeus</em> finlandês (direito de acesso à natureza) é um princípio secular, codificado, que permite a qualquer pessoa, cidadão ou visitante, caminhar pela maior parte das terras da Finlândia, acampar nelas e colher nelas, não importa de quem seja a propriedade. Você pode colher frutas, cogumelos e ervas silvestres em terra privada sem pedir. Você pode pescar com vara e anzol, ou pescar no gelo, sem licença. Você pode dormir uma noite na maior parte das terras sem pedir.",
       "p2": "O que você não pode fazer: danificar árvores, caçar, dirigir um veículo fora de estrada, colher plantas protegidas, acender fogo na terra de alguém sem permissão ou colher de um jardim cultivado. O princípio é acesso sem dano. É um dos poucos arcabouços legais da Europa que trata a comida silvestre como recurso compartilhado, e é a razão estrutural pela qual a cultura gastronômica da Lapônia sobreviveu à modernização.",
       "ctaPrimary": "Ler o guia de colheita",
       "ctaSecondary": "Ou reservar uma caminhada de colheita guiada"
@@ -526,7 +526,7 @@
       "items": [
         {
           "title": "Sápmi, a pátria",
-          "body": "A Sápmi cobre mais de 400.000 km² em quatro nações. A Sápmi finlandesa (Saamelaisten kotiseutualue) é a região mais ao norte da Finlândia, os municípios de Enontekiö, Inari e Utsjoki."
+          "body": "A Sápmi cobre cerca de 400.000 km² em quatro nações. A Sápmi finlandesa (Saamelaisten kotiseutualue) é a região mais ao norte da Finlândia, os municípios de Enontekiö, Inari e Utsjoki."
         },
         {
           "title": "As línguas samis",
@@ -963,18 +963,18 @@
       "rulesIntro": "<strong>As cinco regras que todo coletor finlandês segue:</strong>",
       "rules": [
         "Se você não tem 100% de certeza da espécie, não 90%, não \"parece um boleto\", não colha. Não há exceção a esta regra.",
-        "Confira com duas fontes independentes: um guia, um aplicativo (Pikkupilkku e iNaturalist são úteis) e, de preferência, um humano experiente.",
+        "Confira com pelo menos duas fontes independentes: um guia, um aplicativo de identificação como o iNaturalist e, de preferência, um humano experiente.",
         "Preste atenção em <em>tudo</em>: formato do chapéu, lamelas ou poros, anel do talo, base do talo (sempre arranque o cogumelo inteiro, muitas espécies letais são identificadas pela volva na base), esporada, cheiro, onde cresce, sobre o que cresce.",
         "Nunca colha guiado por um único detalhe. Leve o cogumelo inteiro para casa e confira de novo com boa luz. Se algo for ambíguo, jogue fora.",
         "Cozinhe todos os cogumelos silvestres antes de comer, mesmo os que tecnicamente podem ser comidos crus. Isso é uma convenção finlandesa, não uma regra estrita, mas é o que todo coletor experiente faz."
       ],
       "p4": "<strong>Os quatro cogumelos que um iniciante pode aprender a identificar com segurança</strong> em uma única tarde com um guia são: o boleto / cep (<em>Boletus edulis</em>), a falsa-morchela (<em>Gyromitra esculenta</em>, mas <strong>somente após escaldar duas vezes e descartar a água</strong>; muitos finlandeses vão dizer que é deliciosa, muitos outros vão dizer para evitá-la por completo; ambos têm razão), o lactário-delicioso (<em>Lactarius deliciosus</em>) e o cantarelo (<em>Cantharellus cibarius</em>). Desses, o boleto e o cantarelo não têm parentes perigosos na Finlândia e são os pontos de partida recomendados.",
-      "p5": "Se você vai colher cogumelos na Lapônia pela primeira vez, faça isso com alguém que já saiba. A relação custo-confiança de uma caminhada guiada de 4 horas é imbatível e na Lapônia os guias costumam ser coletores samis que aprenderam isso com os avós, não guias comerciais lendo um roteiro."
+      "p5": "Se você vai colher cogumelos na Lapônia pela primeira vez, faça isso com alguém que já saiba. A relação custo-confiança de uma caminhada guiada de 4 horas é imbatível, e na Lapônia as caminhadas costumam ser conduzidas por coletores locais que aprenderam isso em casa, não em um roteiro."
     },
     "calendar": {
       "kicker": "Calendário sazonal",
       "headline": "Mês a mês, o que há na floresta.",
-      "lead": "A janela de colheita da Lapônia é curta e intensa, mais ou menos de maio até o fim de setembro. Dentro dessa janela, a cada duas semanas o alvo dominante muda. Este é o calendário pelo qual um coletor local planeja o verão.",
+      "lead": "A janela de colheita da Lapônia é curta e intensa, mais ou menos de maio a outubro. Dentro dessa janela, a cada duas semanas o alvo dominante muda. Este é o calendário pelo qual um coletor local planeja o verão.",
       "items": [
         {
           "month": "Maio",
@@ -990,7 +990,7 @@
         },
         {
           "month": "Julho (fim) – início de agosto",
-          "body": "Estação da amora ártica, normalmente uma janela de 3 semanas conforme a localização do pântano. A atividade de colheita mais intensa do ano. Muitos escritórios finlandeses praticamente param por causa dela."
+          "body": "Estação da amora ártica, normalmente uma janela de 3 semanas conforme a localização do pântano. A atividade de colheita mais intensa do ano, e as semanas em torno das quais os coletores dedicados planejam o verão."
         },
         {
           "month": "Agosto",
@@ -1036,7 +1036,7 @@
     },
     "guideCta": {
       "headline": "Uma tarde com um guia poupa uma estação inteira de adivinhações.",
-      "lead": "As caminhadas de colheita guiadas da Lapônia não são a versão de excursão de ônibus. Costumam ser conduzidas por coletores samis, em grupos pequenos de 6 a 15 pessoas, e começam com a palestra de segurança com cogumelos de que você realmente precisa. Terminam cozinhando o que você colheu numa fogueira. A maioria custa menos que uma entrada de alta gastronomia.",
+      "lead": "As caminhadas de colheita guiadas da Lapônia não são a versão de excursão de ônibus. Costumam ser conduzidas por coletores locais, em grupos pequenos de 6 a 15 pessoas, e começam com a palestra de segurança com cogumelos de que você realmente precisa. Terminam cozinhando o que você colheu numa fogueira. A maioria custa menos que uma entrada de alta gastronomia.",
       "cta": "Ver caminhadas guiadas"
     }
   },
@@ -1091,7 +1091,7 @@
       },
       {
         "name": "Experiência de Alta Gastronomia Ártica",
-        "description": "Uma jornada exclusiva pelos melhores restaurantes da Lapônia. Casas recomendadas pelo Michelin e chefs premiados cozinhando com os ingredientes árticos mais puros.",
+        "description": "Um dia construído em torno de alguns dos melhores restaurantes da Lapônia. Casas de referência e chefs que cozinham com ingredientes da própria região.",
         "highlights": [
           "Almoço de 3 tempos num restaurante-referência da região",
           "Visita aos bastidores da cozinha com o chef de cozinha",
