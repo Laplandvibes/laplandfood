@@ -443,8 +443,8 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     },
     nl: {
       eyebrow: 'Het noorden in blik',
-      headline: 'Rendier voor je eigen voorraadkast.',
-      body: 'Hetzelfde vlees waar de fjellkeukens mee werken, houdbaar gemaakt: langzaam gegaarde rendierpaté, een kaassoep met gerookt rendier en flinterdun gedroogd rendier voor onderweg. Suomikauppa verzendt vanuit Finland; binnen de EU reist vlees vrij, daarbuiten check je vóór het bestellen de invoerregels van je land.',
+      headline: 'Rendier voor uw eigen voorraadkast.',
+      body: 'Hetzelfde vlees waar de fjellkeukens mee werken, houdbaar gemaakt: langzaam gegaarde rendierpaté, een kaassoep met gerookt rendier en flinterdun gedroogd rendier voor onderweg. Suomikauppa verzendt vanuit Finland; binnen de EU reist vlees vrij, daarbuiten checkt u vóór het bestellen de invoerregels van uw land.',
       shipping: 'Verzending vanuit Finland',
     },
     sv: {
@@ -631,7 +631,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     },
     nl: {
       eyebrow: 'Het andere Arctische hoofdvoedsel',
-      headline: 'Gahkku bak je zelf. Rogge bestel je.',
+      headline: 'Gahkku bakt u zelf. Rogge bestelt u.',
       body: 'Naast elke stoofpot in Fins Lapland ligt donkere rogge: compacte, langzaam gebakken broden en dun knäckebröd, gemaakt om lange winters te doorstaan. Suomikauppa verstuurt de klassiekers wereldwijd, vlokken voor de pappot incluis.',
     },
     sv: {

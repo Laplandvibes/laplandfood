@@ -200,7 +200,7 @@ const COPY: Record<Locale, Copy> = {
     adLabel: 'Advertentie',
     eyebrow: 'Waarin de koffie meegaat',
     headline: 'Een plukdag telt in uren, en de koffie gaat mee.',
-    body: 'Nordicbuddies is een Helsinks bedrijf met de licenties van Pippi Langkous en Mauri Kunnas. Het verkoopt geen voedsel, het verkoopt waarin je de koffie meeneemt: een dubbelwandige stalen fles van 550 ml en een herbruikbare beker. Wereldwijd te volgen, gratis levering vanaf 60 € in de EU, het VK en Noorwegen.',
+    body: 'Nordicbuddies is een Helsinks bedrijf met de licenties van Pippi Langkous en Mauri Kunnas. Het verkoopt geen voedsel, het verkoopt waarin u de koffie meeneemt: een dubbelwandige stalen fles van 550 ml en een herbruikbare beker. Wereldwijd te volgen, gratis levering vanaf 60 € in de EU, het VK en Noorwegen.',
     shipping: 'Wereldwijde verzending, met track & trace',
     cta: 'Bekijk product',
     soldBy: 'Verkocht door Nordicbuddies',

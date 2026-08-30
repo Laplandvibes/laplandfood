@@ -145,8 +145,8 @@ const COPY: Record<Locale, Copy> = {
   nl: {
     adLabel: 'Advertentie',
     eyebrow: 'De voorraadkast, per post',
-    headline: 'Het meeste op deze pagina kan naar je toe.',
-    body: 'Vossenbes- en kruipbraamjam, rogge, Finse koffie en die gezouten drop waar niemand je voor waarschuwt. Suomikauppa verstuurt Finse levensmiddelen wereldwijd, en zo vullen Finnen in het buitenland hun kast aan. Droog en verzegeld reist; vlees en zuivel komen meestal de EU niet uit.',
+    headline: 'Het meeste op deze pagina kan naar u toe.',
+    body: 'Vossenbes- en kruipbraamjam, rogge, Finse koffie en die gezouten drop waar niemand u voor waarschuwt. Suomikauppa verstuurt Finse levensmiddelen wereldwijd, en zo vullen Finnen in het buitenland hun kast aan. Droog en verzegeld reist; vlees en zuivel komen meestal de EU niet uit.',
     worldwide: 'Wereldwijde verzending',
     oneOrder: 'Eén bestelling in plaats van vijf',
     cta: 'Bekijk Finse levensmiddelen',
