@@ -45,7 +45,7 @@
   },
   "home": {
     "title": "Cuisine de Laponie : ce que mange le Nord",
-    "description": "Renne, plaquebìres, omble chevalier et table sâme : un guide de la culture culinaire de la Laponie finlandaise, de la cueillette aux salles étoilées.",
+    "description": "Renne, plaquebières, omble chevalier et table sâme : un guide de la culture culinaire de la Laponie finlandaise, de la cueillette aux salles étoilées.",
     "intro": {
       "kicker": "À propos de ce site",
       "headline": "La cuisine finlandaise, expliquée.",
@@ -76,7 +76,7 @@
       {
         "eyebrow": "Guide 02",
         "title": "Recettes traditionnelles",
-        "body": "Ragoût de renne bidos, pain plat sâme, soupe de poisson de lac, kisseli de baies sauvages, les recettes qui ont nourri le Sápmi à travers des hivers arctiques pendant des milliers d'années."
+        "body": "Ragoût de renne bidos, pain plat sâme, soupe de poisson de lac, kissel de baies sauvages, les recettes qui ont nourri le Sápmi à travers des hivers arctiques pendant des milliers d'années."
       },
       {
         "eyebrow": "Guide 03",
@@ -146,8 +146,8 @@
           "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses cuisines phares, Nili, Aanaar, Rakas, font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver."
         },
         {
-          "question": "Qu’est-ce que la cuisine samie ?",
-          "answer": "La cuisine samie est la cuisine autochtone du Sápmi, la région qui s’étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Elle s’articule autour du renne, dont chaque partie est utilisée, du poisson arctique, des baies et herbes cueillies, et des cuissons lentes comme le ragoût bidos. Les recettes suivent le calendrier sami à huit saisons."
+          "question": "Qu’est-ce que la cuisine sâme ?",
+          "answer": "La cuisine sâme est la cuisine autochtone du Sápmi, la région qui s’étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Elle s’articule autour du renne, dont chaque partie est utilisée, du poisson arctique, des baies et herbes cueillies, et des cuissons lentes comme le ragoût bidos. Les recettes suivent le calendrier sâme à huit saisons."
         },
         {
           "question": "Les visiteurs peuvent-ils cueillir baies et champignons en Finlande ?",
@@ -162,7 +162,7 @@
   },
   "localIngredients": {
     "title": "Produits de Laponie : renne, baies, poisson",
-    "description": "Six produits qui définissent la cuisine lapone : renne, plaquebìres, poissons de lac, champignons et herbes sauvages. Saisons, origine et goût.",
+    "description": "Six produits qui définissent la cuisine lapone : renne, plaquebières, poissons de lac, champignons et herbes sauvages. Saisons, origine et goût.",
     "hero": {
       "eyebrow": "Guide 01 · Ingrédients",
       "title": "Ce qui pousse",
@@ -307,7 +307,7 @@
       "eyebrow": "Le guide des baies · Mûre arctique",
       "title": "Mûre arctique, l'or",
       "titleHighlight": "têtu des tourbières.",
-      "subtitle": "En Finlande, on l'appelle hilla et on garde ses coins de cueillette comme des codes bancaires. Voici son vrai goût, pourquoi chaque baie est cueillie à la main et où vous la croiserez en Laponie.",
+      "subtitle": "La plaquebière : en Finlande, on l'appelle hilla et on garde ses coins de cueillette comme des codes bancaires. Voici son vrai goût, pourquoi chaque baie est cueillie à la main et où vous la croiserez en Laponie.",
       "primaryCta": "Apprendre à la cueillir",
       "secondaryCta": "Tous les ingrédients de Laponie",
       "pills": [
@@ -345,7 +345,7 @@
       "headline": "Quel goût a la mûre arctique ?",
       "answer": "Mûre, elle est souple, juteuse et acidulée avant d'être sucrée : un croisement d'abricot et de groseille, achevé par une pointe musquée et miellée qu'aucune autre baie ne possède. Les graines, grosses et tendres, se mangent avec. Froide, elle est vive ; à peine tiédie, son côté abricot s'ouvre.",
       "p2": "La maturité décide de tout. Ferme et rouge, la mûre arctique est verte de goût, d'une acidité qui plisse la bouche. À point, elle devient ambrée, s'attendrit et se détache presque seule de la tige : c'est cette baie-là qui vaut les pieds mouillés. Les cueilleurs prennent les ambrées et laissent les rouges pour la visite suivante.",
-      "p3": "On vous tendra rarement un grand bol de baies fraîches. Le parfum est intense et la récolte minuscule, alors la Laponie la sert là où une cuillerée suffit : sur du <em>leipäjuusto</em> tiède, le fromage-pain grinçant de Finlande, à côté d'une glace vanille, ou montée en parfait."
+      "p3": "On vous tendra rarement un grand bol de baies fraîches. Le parfum est intense et la récolte minuscule, alors la Laponie la sert là où une cuillerée suffit : sur du <em>leipäjuusto</em> tiède, le fromage-pain finlandais qui crisse sous la dent, à côté d'une glace vanille, ou montée en parfait."
     },
     "season": {
       "kicker": "De la mi-juillet à la mi-août",
@@ -492,7 +492,7 @@
         {
           "n": "02",
           "title": "A survécu sur son propre garde-manger",
-          "body": "La cuisine samie a survécu à la plupart des cultures culinaires arctiques préindustrielles parce qu’elle n’a jamais eu besoin d’importations pour avoir son goût : renne, poisson de lac, baies, herbes sauvages, seigle, beurre, sel."
+          "body": "La cuisine sâme a survécu à la plupart des cultures culinaires arctiques préindustrielles parce qu’elle n’a jamais eu besoin d’importations pour avoir son goût : renne, poisson de lac, baies, herbes sauvages, seigle, beurre, sel."
         },
         {
           "n": "03",
@@ -824,7 +824,7 @@
         "description": "Le ragoût de fête sami pensé pour un menu dégustation : bouillon clarifié, épaule de renne pressée, moelle servie à part.",
         "technique": "Dressage moderne d'un braisé lent",
         "traditional": "Ragoût de renne bidos",
-        "innovation": "Mêmes morceaux, mêmes saveurs, redressés en services; la version familiale reste intouchée"
+        "innovation": "Mêmes morceaux, mêmes saveurs, redressés en services ; la version familiale reste intouchée"
       }
     ],
     "techniques": {
@@ -1061,12 +1061,12 @@
         {
           "n": "02",
           "title": "Menées par ceux qui en vivent",
-          "body": "Cueilleurs samis, chefs de haute cuisine, éleveurs de rennes en activité. On mange bien, mais le vrai produit, c’est l’accès: à un troupeau, à une cuisine, à la tourbière favorite d’un cueilleur."
+          "body": "Cueilleurs samis, chefs de haute cuisine, éleveurs de rennes en activité. On mange bien, mais le vrai produit, c’est l’accès : à un troupeau, à une cuisine, à la tourbière favorite d’un cueilleur."
         },
         {
           "n": "03",
           "title": "Prix en direct, pas de brochure",
-          "body": "Chaque carte renvoie à une recherche GetYourGuide en direct, pas à une fiche produit figée : les opérateurs tournent, les dates et les prix bougent; vous voyez toujours la disponibilité du moment."
+          "body": "Chaque carte renvoie à une recherche GetYourGuide en direct, pas à une fiche produit figée : les opérateurs tournent, les dates et les prix bougent ; vous voyez toujours la disponibilité du moment."
         }
       ]
     },
@@ -1219,7 +1219,7 @@
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centre de Rovaniemi",
           "angle": "La salle gastronomique la plus citée de Laponie. Assiettes enracinées sâmes, filet de renne sous-vide à la réduction de myrtilles est la signature, aux côtés d'un programme baies sauvages qui s'appuie sur ce que les cueilleurs d'Inari ont apporté le matin. Cuisine ouverte, intérieur bois chaleureux, 60 couverts.",
-          "signature": "Filet de renne sous-vide · omble arctique mariné au pin · parfait à la mûre arctique",
+          "signature": "Filet de renne sous-vide · omble chevalier mariné au pin · parfait à la mûre arctique",
           "band": "€€€, menu dégustation 68 € · à la carte plats 28–42 €",
           "booking": "Réservez 3–4 semaines avant en été / décembre. Walk-ins possibles mardi-mercredi."
         },
