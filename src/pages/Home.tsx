@@ -45,7 +45,7 @@ const buildHomeSchema = (faqItems: FAQItem[]) => ({
     url: 'https://laplandfood.com',
     publisher: {
       '@type': 'Organization',
-      name: 'Lapeso Oy'
+      name: 'LaPeso Oy'
     }
   }, {
     '@type': 'FAQPage',
