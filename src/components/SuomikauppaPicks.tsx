@@ -444,7 +444,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     nl: {
       eyebrow: 'Het noorden in blik',
       headline: 'Rendier voor uw eigen voorraadkast.',
-      body: 'Hetzelfde vlees waar de fjellkeukens mee werken, houdbaar gemaakt: langzaam gegaarde rendierpaté, een kaassoep met gerookt rendier en flinterdun gedroogd rendier voor onderweg. Suomikauppa verzendt vanuit Finland; binnen de EU reist vlees vrij, daarbuiten checkt u vóór het bestellen de invoerregels van uw land.',
+      body: 'Hetzelfde vlees waar de keukens op de fjäll (heuvel) mee werken, houdbaar gemaakt: langzaam gegaarde rendierpaté, een kaassoep met gerookt rendier en flinterdun gedroogd rendier voor onderweg. Suomikauppa verzendt vanuit Finland; binnen de EU reist vlees vrij, daarbuiten checkt u vóór het bestellen de invoerregels van uw land.',
       shipping: 'Verzending vanuit Finland',
     },
     sv: {

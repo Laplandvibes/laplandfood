@@ -218,7 +218,7 @@ const CAT_BLURB: Record<string, Record<string, string>> = {
     de: 'Abende, bei denen der Tisch die Hauptsache ist. Dinner im Glasiglu oder in der Kota, eine Wildnishütte, Sauna und Abendessen am selben Abend.',
     fr: 'Des soirées où la table est le sujet. Dîner en igloo de verre ou en kota, un chalet en pleine nature, sauna et dîner le même soir.',
     it: 'Serate in cui la tavola è il punto. Cena in un igloo di vetro o in una kota, una capanna nella natura, sauna e cena la stessa sera.',
-    nl: 'Avonden waarop de tafel de hoofdzaak is. Diner in een glaziglo of kota, een wildernishut, sauna en diner op dezelfde avond.',
+    nl: 'Avonden waarop de tafel de hoofdzaak is. Diner in een glazen iglo of kota, een wildernishut, sauna en diner op dezelfde avond.',
     es: 'Noches en las que la mesa es lo importante. Cena en un iglú de cristal o en una kota, una cabaña en plena naturaleza, sauna y cena la misma noche.',
     'pt-BR': 'Noites em que a mesa é o ponto. Jantar em um iglu de vidro ou em uma kota, uma cabana na natureza, sauna e jantar na mesma noite.',
     ja: '食卓が主役の夜。ガラスイグルーやコタでのディナー、原野のコテージ、サウナと夕食を同じ晩に。',

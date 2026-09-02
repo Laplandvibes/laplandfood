@@ -45,7 +45,7 @@
   },
   "home": {
     "title": "Eten in Lapland: zo eet het noorden",
-    "description": "Rendier, kruipbramen, ridderzalm en de Sami-tafel: een gids voor de eetcultuur van Fins Lapland, van plukbossen tot Michelin-zalen.",
+    "description": "Rendier, kruipbramen, beekridder en de Sami-tafel: een gids voor de eetcultuur van Fins Lapland, van plukbossen tot Michelin-zalen.",
     "intro": {
       "kicker": "Waar deze site over gaat",
       "headline": "Finse keuken, uitgelegd.",
@@ -54,7 +54,7 @@
       "p2Em": "een tafel te boeken",
       "p2Mid": ", ga naar",
       "p2DiningSuffix": ". Voor drankjes,",
-      "p2BarsSuffix": ". Voor de scène daarna,",
+      "p2BarsSuffix": ". Voor het nachtleven daarna,",
       "p2End": "."
     },
     "pillarsKicker": "De zes gidsen",
@@ -76,7 +76,7 @@
       {
         "eyebrow": "Gids 02",
         "title": "Traditionele recepten",
-        "body": "Rendierstoofpot bidos, Samische platbrood, meervissoep, kissel van wilde bessen, de recepten die Sápmi duizenden jaren door Arctische winters voedden."
+        "body": "Rendierstoofpot bidos, Samisch platbrood, meervissoep, kissel van wilde bessen, de recepten die Sápmi duizenden jaren door Arctische winters voedden."
       },
       {
         "eyebrow": "Gids 03",
@@ -101,7 +101,7 @@
     ],
     "cultureKicker": "Waarom het smaakt zoals het smaakt",
     "cultureHeadline": "Vier dingen die Finse keuken Fins maken.",
-    "cultureLead": "Verwijder de trends en de Finse keuken rust nog steeds op deze vier fundamenten. Ze leggen uit waarom uw hotelontbijt knäckebrood heeft en waarom een proefmenu opent met jeneverbessen-gecureerde vis.",
+    "cultureLead": "Verwijder de trends en de Finse keuken rust nog steeds op deze vier fundamenten. Ze leggen uit waarom uw hotelontbijt knäckebrood heeft en waarom een proefmenu opent met in jeneverbes gepekelde vis.",
     "culture": [
       {
         "n": "01",
@@ -111,11 +111,11 @@
       {
         "n": "02",
         "title": "Toegangsrecht",
-        "body": "Het Finse jokamiehenoikeus laat iedereen bessen, paddenstoelen en wilde kruiden plukken op de meeste grond of die nu privé is of niet. Het is een van de weinige juridische kaders ter wereld die de wilde voorraadkast als gemeenschappelijke bron behandelt."
+        "body": "Het Finse jokamiehenoikeus laat iedereen bessen, paddenstoelen en wilde kruiden plukken op de meeste grond, of die nu privé is of niet. Het is een van de weinige juridische kaders ter wereld die de wilde voorraadkast als gemeenschappelijke bron behandelt."
       },
       {
         "n": "03",
-        "title": "Volledige dierbenutting",
+        "title": "Het hele dier wordt benut",
         "body": "In de Samische eetcultuur wordt niets van het rendier verspild: vlees, merg, bloed, vet, huid, bot. Recepten ontwikkelden zich rond volledig gebruik, daarom gebruikt bidos taaiere delen en zijn bloedpannenkoekjes (veriletut) een Finse vaste prik geworden."
       },
       {
@@ -128,7 +128,7 @@
       "kicker": "6 juni – 7 juli in Rovaniemi · 32 dagen middernachtzon",
       "headline": "Het middernachtzon-eetvenster.",
       "lead": "Kruipbramen rijpen, meervis is op zijn top, de kruidentuinen barsten en de zon gaat niet onder. Vier weken lang ruilen Laplandse keukens hun zware winterinmaak voor de lichtste, helderste producten van het jaar. Komt u maar één keer, kom dan nu.",
-      "cta": "Wat is in seizoen →"
+      "cta": "Nu in het seizoen →"
     },
     "faq": {
       "eyebrow": "Goed om te weten",
@@ -143,7 +143,7 @@
         },
         {
           "question": "Heeft Finland restaurants met een Michelinster?",
-          "answer": "Ja. De Michelingids beoordeelt Finland, en de sterrenrestaurants in de recente Nordic-edities lagen allemaal in Helsinki. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens, Nili, Aanaar, Rakas, tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; check de actuele gids voordat u reserveert."
+          "answer": "Ja. De Michelingids beoordeelt Finland, en de sterrenrestaurants in de recente Noordse edities lagen bijna allemaal in Helsinki. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens, Nili, Aanaar, Rakas, tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; raadpleeg de actuele gids voordat u reserveert."
         },
         {
           "question": "Wat is Samisch eten?",
@@ -151,7 +151,7 @@
         },
         {
           "question": "Mogen bezoekers in Finland bessen en paddenstoelen plukken?",
-          "answer": "Ja. Het Finse allemansrecht (jokamiehenoikeus) laat iedereen, inwoner of bezoeker, bessen, paddenstoelen en wilde kruiden plukken op vrijwel alle grond, ook in privébossen. Leer wel eerst paddenstoelen herkennen: in Finse bossen groeien dodelijke soorten zoals de groene knolamaniet. Voor de eerste keer is een begeleide plukwandeling de veiligste start."
+          "answer": "Ja. Het Finse allemansrecht (jokamiehenoikeus) laat iedereen, inwoner of bezoeker, bessen, paddenstoelen en wilde kruiden plukken op vrijwel alle grond, ook in privébossen. Leer wel eerst paddenstoelen herkennen: in Finse bossen groeien dodelijke soorten zoals de groene knolamaniet en de kleverige knolamaniet. Voor de eerste keer is een begeleide plukwandeling de veiligste start."
         },
         {
           "question": "Wanneer is het kruipbraamseizoen in Lapland?",
@@ -177,7 +177,7 @@
         {
           "n": "01",
           "title": "Zes ingrediënten dragen de hele keuken",
-          "body": "Rendier, meervis, bosbessen en -vruchten, wilde paddenstoelen, wilde kruiden, zuivel: dat is de hele voorraadkast. Een geheim zevende ingrediënt is er niet; de kunst zit in wat generaties met deze zes hebben leren doen."
+          "body": "Rendier, meervis, wilde bessen, wilde paddenstoelen, wilde kruiden, zuivel: dat is de hele voorraadkast. Een geheim zevende ingrediënt is er niet; de kunst zit in wat generaties met deze zes hebben leren doen."
         },
         {
           "n": "02",
@@ -197,7 +197,7 @@
         "season": "Het hele jaar · beste okt–mrt",
         "description": "Het hart van de Arctische keuken. Vrij rondtrekkende rendieren, opgegroeid in ongerepte wildernis, de belangrijkste eiwitbron van de Samische cultuur al duizenden jaren.",
         "nutritional": "Hoog eiwit, laag vet, rijk aan B12 en ijzer",
-        "uses": "Grillen, drogen, roken, langzaam gestoofde stoofschotels"
+        "uses": "Grillen, drogen, roken, langzaam gegaarde stoofschotels"
       },
       {
         "name": "Blauwe bosbes & vossenbes",
@@ -218,7 +218,7 @@
         "season": "Het hele jaar · ijsvissen in de winter",
         "description": "Kristalheldere meervis, marene, snoek, baars, forel. IJsvissen is een geliefde wintertraditie in heel Lapland.",
         "nutritional": "Omega-3, hoog eiwit, fosfor",
-        "uses": "Roken, zouten, grillen, chowder"
+        "uses": "Roken, zouten, grillen, vissoep"
       },
       {
         "name": "Wilde kruiden, moerasspirea & brandnetel",
@@ -240,33 +240,33 @@
       "usedIn": "Gebruikt in:"
     },
     "reindeerDeep": {
-      "kicker": "Diepteduik · Rendier",
+      "kicker": "Verdieping · Rendier",
       "headline": "Hoe een rendier op een Laplands bord belandt.",
-      "p1": "De Finse rendierindustrie wordt geregeld door de Wet op de rendierherderij, die het eigendom beperkt tot personen woonachtig in het herdersgebied (in feite Noord-Finland). Dieren behoren toe aan individuele herders, maar grazen samen in coöperaties, <em>paliskunnat</em>, die territorium en werk delen. Er zijn rond de 200.000 rendieren in zo'n 54 coöperaties, allemaal in Lapland en delen van Noord-Ostrobothnië.",
-      "p2": "De kudde is wild in alles behalve het eigendom. Rendieren trekken vrij over enorme stukken onomheinde taiga en toendra, en eten wat ze vinden: korstmos in de winter (het dieet dat het vlees zijn specifieke schone smaak geeft), grassen en kruiden in de zomer, paddenstoelvluchten in het najaar. Herders volgen hun dieren op sneeuwscooters en quads, verzamelen ze twee keer per jaar voor oormerken en (in de herfst) selectie voor de slacht, en laten ze daarna weer uitwaaieren.",
+      "p1": "De Finse rendierindustrie wordt geregeld door de Wet op de rendierherderij, die het eigendom beperkt tot personen woonachtig in het herdersgebied (in feite Noord-Finland). Dieren behoren toe aan individuele herders, maar grazen samen in coöperaties, <em>paliskunnat</em>, die territorium en werk delen. Er zijn rond de 200.000 rendieren in zo'n 54 coöperaties, allemaal in Lapland en delen van Noord-Pohjanmaa.",
+      "p2": "De kudde is wild in alles behalve het eigendom. Rendieren trekken vrij over enorme stukken onomheinde taiga en toendra, en eten wat ze vinden: korstmos in de winter (het dieet dat het vlees zijn specifieke schone smaak geeft), grassen en kruiden in de zomer, paddenstoelen in het najaar. Herders volgen hun dieren op sneeuwscooters en quads, verzamelen ze twee keer per jaar voor oormerken en (in de herfst) selectie voor de slacht, en laten ze daarna weer uitwaaieren.",
       "p3": "De slacht vindt plaats in de herfst, meestal oktober-november, wanneer de dieren op piekgewicht zijn. Elke coöperatie runt zijn eigen EU-goedgekeurde slachterij. Het meeste vlees wordt verkocht binnen een paar honderd kilometer van waar het dier leefde, aan Laplandse restaurants, gespecialiseerde slagers in Helsinki en de rest van Zuid-Finland, en een kleine maar serieuze exportmarkt in Midden-Europa.",
-      "p4": "<strong>De delen die u op een Laplands menu ziet</strong> komen ruwweg overeen met rundvleesvocabulaire: <em>fileé</em> (filet, sous-vide-terrein), <em>sisäpaisti / ulkopaisti</em> (binnenbil / bovenbil, in het geheel gebraden of gesneden voor warm-gerookte gerechten), <em>poronkäristys</em> (gewokte rendier, het dagelijkse Finse werkpaard, dunne plakjes, boter, zout, geserveerd op puree met vossenbes) en <em>suovas</em> (koud gerookte zadel, in dunne reepjes met roggebrood gegeten). Bidos gebruikt taaiere stooftaalen, meestal schouder en schenkel en daarom kookt het uren.",
+      "p4": "<strong>De delen die u op een Laplands menu ziet</strong> komen ruwweg overeen met rundvleesvocabulaire: <em>fileé</em> (filet, sous-vide-terrein), <em>sisäpaisti / ulkopaisti</em> (binnenbil / bovenbil, in het geheel gebraden of gesneden voor warm-gerookte gerechten), <em>poronkäristys</em> (gesauteerd rendier, het dagelijkse Finse werkpaard, dunne plakjes, boter, zout, geserveerd op puree met vossenbes) en <em>suovas</em> (koudgerookt zadel, in dunne reepjes met roggebrood gegeten). Bidos gebruikt taaiere stoofdelen, meestal schouder en schenkel, en daarom kookt het urenlang.",
       "p5": "Ethisch gezien is vrij rondtrekkend, door Samen geherderd rendier een van de meest duurzame eiwitten op een Europese kaart, geen vetweide, geen antibiotica, geen omheinde begrazing, een eigen dieet. De complicatie is klimatologisch: Laplandse winters worden natter, ijslagen vormen zich op het sneeuwdek, rendieren kunnen niet meer door het ijs schrapen naar korstmos, en herders moeten in sommige coöperaties bijvoeren. Dat verandert de keten en, langzaam, de smaak. Dat is een verhaal om het komende decennium te volgen.",
       "tasteQ": "Hoe smaakt rendier?",
-      "tasteA1": "Milder dan de meeste wildsoorten. Rendier is mager en fijn van draad, dichter bij een goede runderhaas dan bij zwaar wild, met een zuivere, licht zoete diepte die komt van korstmos en fjellkruiden. Omdat er nauwelijks vet is, wordt het zachtjes gegaard en rare tot medium geserveerd.",
+      "tasteA1": "Milder dan de meeste wildsoorten. Rendier is mager en fijn van draad, dichter bij een goede runderhaas dan bij zwaar wild, met een zuivere, licht zoete diepte die komt van een leven lang grazen op korstmos en kruiden van de fjäll (heuvel). Omdat er nauwelijks vet is, wordt het zachtjes gegaard en rare tot medium geserveerd.",
       "tasteA2": "De klassieke eerste kennismaking is poronkäristys: flinterdunne plakjes gebakken in boter, geserveerd op aardappelpuree met vossenbessen. Op feesttafels wordt het bidos, de langzame Samische stoofpot, en bij het vuur suovas, gezouten en licht koudgerookt."
     },
     "cloudberryDeep": {
-      "kicker": "Diepteduik · Kruipbraam",
+      "kicker": "Verdieping · Kruipbraam",
       "headline": "De bes die niemand kan kweken.",
       "p1": "De kruipbraam, <em>hilla</em> in het Fins, <em>luomi</em> in Noord-Samisch, is de meest gewaardeerde wilde bes van Lapland en de meest hardnekkig ongekweekte van 's werelds belangrijke bessen. Hij groeit alleen in koude, zure, waterverzadigde turfvenen in een smalle band van het noordelijk halfrond: Noord-Scandinavië, Finland, delen van Rusland, Alaska en Noord-Canada. Binnen die zones is hij verbazingwekkend gewoon. Daarbuiten groeit hij niet.",
-      "p2": "Decennia van landbouwkundig onderzoek hebben hem niet kunnen commercialiseren. Kruipbraamplanten zijn tweehuizig (mannelijk en vrouwelijk apart), groeien extreem langzaam, doen 6–7 jaar over om vrucht te dragen zelfs onder perfecte omstandigheden, zijn kwetsbaar voor late lentevorst die de bloesem van het jaar vernielt, en hebben een specifieke combinatie van vocht, licht en venchemie nodig die zich tegen kassimulatie heeft verzet. Noorse en Finse onderzoekers hebben vooruitgang geboekt met cultivars, maar de commerciële opbrengsten zijn nog een fractie van wilde opbrengsten. De hele Finse aanvoer, voor jamfabrikanten, likeurproducenten (Lakka) en restaurantkeukens, komt uit het wild.",
-      "p3": "Daarom kost een kilo verse kruipbramen op een Rovaniemi-markt eind juli doorgaans 25 tot 50 €, vijf tot tien keer de prijs van blauwe bosbessen en daarom stort de aanvoer in als de lentevorst een week te laat komt. Daarom is de kruipbraamparfait ook hét Laplandse fine-diningdessert. Elke kok wil ze gebruiken zolang ze er zijn.",
-      "p4": "<strong>Pluk-ethiek:</strong> kruipbraamplanten herstellen traag. Het Samische principe en de Finse plukconventie, is alleen volledig rijpe bessen meenemen, de onrijpe en overrijpe laten, en een plant nooit volledig afstropen. Plukt u op een klein ven, dan is een kilo per gezin genoeg.",
+      "p2": "Decennia van landbouwkundig onderzoek hebben hem niet kunnen commercialiseren. Kruipbraamplanten zijn tweehuizig (mannelijk en vrouwelijk apart), groeien extreem langzaam, hebben zelfs onder perfecte omstandigheden 6–7 jaar nodig om vrucht te dragen, zijn kwetsbaar voor late voorjaarsvorst die de bloesem van het jaar vernielt, en vragen een specifieke combinatie van vocht, licht en veenchemie die in kassen niet is na te bootsen. Noorse en Finse onderzoekers hebben vooruitgang geboekt met cultivars, maar de commerciële opbrengsten zijn nog een fractie van wilde opbrengsten. De hele Finse aanvoer, voor jamfabrikanten, likeurproducenten (Lakka) en restaurantkeukens, komt uit het wild.",
+      "p3": "Daarom kost een kilo verse kruipbramen op een markt in Rovaniemi eind juli doorgaans 25 tot 50 €, vijf tot tien keer de prijs van blauwe bosbessen en daarom stort de aanvoer in als de lentevorst een week te laat komt. Daarom is de kruipbraamparfait ook hét Laplandse fine-diningdessert. Elke kok wil ze gebruiken zolang ze er zijn.",
+      "p4": "<strong>Pluk-ethiek:</strong> kruipbraamplanten herstellen traag. Het Samische principe, en ook de Finse plukconventie, is: alleen volledig rijpe bessen meenemen, de onrijpe en overrijpe laten staan, en een plant nooit kaalplukken. Plukt u op een klein veen, dan is een kilo per gezin ruim genoeg.",
       "guideLinkLabel": "Lees de complete kruipbraamgids"
     },
     "fishDeep": {
-      "kicker": "Diepteduik · Meervis",
+      "kicker": "Verdieping · Meervis",
       "headline": "Waarom ijsvissen de beste vis van het jaar oplevert.",
-      "p1": "Lapland ligt op ruwweg 6.000 meren, de meeste schoon genoeg om uit te drinken tijdens een lange wandeling. De vier vissen die op het bord tellen zijn de <strong>marene (siika)</strong>, de <strong>snoek (hauki)</strong>, de <strong>baars (ahven)</strong> en de <strong>bruine forel / Arctische zalmforel (taimen / nieriä)</strong>. Alle vier zijn inheems, alle vier worden in commerciële hoeveelheden gevangen door zowel kleine vissers als ijsvis-liefhebbers, en alle vier duiken in verschillende vormen op op Laplandse menu's.",
+      "p1": "Lapland ligt op ruwweg 6.000 meren, de meeste schoon genoeg om uit te drinken tijdens een lange wandeling. De vier vissen die op het bord tellen zijn de <strong>marene (siika)</strong>, de <strong>snoek (hauki)</strong>, de <strong>baars (ahven)</strong> en de <strong>beekforel / beekridder (taimen / nieriä)</strong>. Alle vier zijn inheems, alle vier worden in commerciële hoeveelheden gevangen door zowel kleine vissers als ijsvisliefhebbers, en alle vier komen in verschillende vormen voor op Laplandse menukaarten.",
       "p2": "IJsvissen, <em>pilkkiminen</em>, is meer dan een lokale hobby. Het is de visserijmethode die de smaakvolste Arctische meervis van het jaar oplevert. Dit is waarom: in de winter is het meerwater op zijn koudst en helderst. De stofwisseling van vissen vertraagt, vetdepots verstevigen en parasieten sterven (geen warmwatervectoren). Het vlees van een in februari onder het ijs gevangen marene is dichter, zoeter en zuiverder van smaak dan dezelfde vis in juli. Laplandse koks plannen hun menu's eromheen.",
-      "p3": "De techniek zelf is eenvoudig, boor een gat door 50-80 cm ijs, laat een kleine jig met een enkele haak zakken, wacht, maar vereist temperaturen die vaak kouder zijn dan −15 °C. Traditioneel dekte men het gat tussen de bezoeken af, zodat het niet opnieuw dichtvroor. Tegenwoordig gebruiken de meeste mensen geïsoleerde tenten (een kleine ijsvisschuilplaats is goedkoop en verandert de ervaring volledig).",
-      "p4Prefix": "Op een menu: licht gerookte marene (<em>graavisiika</em>) en snoekhom-op-rogge zijn de Laplandse dagelijkse voorgerechten. Een hele gebraden bruine forel is het klassieke hoofdgerecht. Samische vissoep (recept op de",
+      "p3": "De techniek zelf is eenvoudig (boor een gat door 50–80 cm ijs, laat een kleine jig met één haak zakken, wacht), maar vraagt temperaturen die vaak onder −15 °C liggen. Traditioneel dekte men het gat tussen de bezoeken af, zodat het niet opnieuw dichtvroor. Tegenwoordig gebruiken de meeste mensen geïsoleerde tenten (een kleine ijsvistent is goedkoop en verandert de ervaring volledig).",
+      "p4Prefix": "Op een menu: licht gerookte marene (<em>graavisiika</em>) en snoekkuit op roggebrood zijn alledaagse Laplandse voorgerechten. Een hele gebraden beekforel is het klassieke hoofdgerecht. Samische vissoep (recept op de",
       "p4LinkLabel": "receptenpagina",
       "p4Suffix": ") gebruikt wat de vissers die week binnenbrachten."
     },
@@ -274,7 +274,7 @@
       "kicker": "Toegangsrecht",
       "headline": "Het juridische kader dat dit alles mogelijk maakt.",
       "p1": "Bijna elk ingrediënt op deze pagina is juridisch gezien gratis. Het Finse <em>jokamiehenoikeus</em> (toegangsrecht) is een eeuwenoud, gecodificeerd principe dat iedereen, burger of bezoeker, toestaat te wandelen, te kamperen en te plukken op de meeste grond in Finland, ongeacht wie de eigenaar is. U kunt bessen, paddenstoelen en wilde kruiden op privégrond plukken zonder te vragen. U kunt met hengel en lijn vissen of ijsvissen zonder vergunning. U kunt één nacht op de meeste grond slapen zonder te vragen.",
-      "p2": "Wat u niet kunt: bomen beschadigen, jagen, off-road met een voertuig rijden, beschermde planten verzamelen, een open vuur op andermans grond stoken zonder toestemming, of plukken uit een gecultiveerde tuin. Het principe is toegang zonder schade. Het is een van de weinige juridische kaders in Europa dat wild voedsel als gedeelde bron behandelt, en het is de structurele reden waarom Laplands eetcultuur de modernisering overleefde.",
+      "p2": "Wat u niet mag: bomen beschadigen, jagen, off-road met een voertuig rijden, beschermde planten verzamelen, een open vuur op andermans grond stoken zonder toestemming, of plukken uit een gecultiveerde tuin. Het principe is toegang zonder schade. Het is een van de weinige juridische kaders in Europa die wild voedsel als gedeelde bron behandelen, en het is de structurele reden waarom Laplands eetcultuur de modernisering overleefde.",
       "ctaPrimary": "Lees de plukgids",
       "ctaSecondary": "Of boek een begeleide plukwandeling"
     },
@@ -343,8 +343,8 @@
     "taste": {
       "kicker": "Eerst de hoofdvraag",
       "headline": "Hoe smaakt een kruipbraam?",
-      "answer": "Een rijpe kruipbraam is zacht, sappig en eerst zuur, dan pas zoet: denk aan abrikoos gekruist met rode bes, afgemaakt met een licht muskusachtige honingtoon die geen enkele andere bes heeft. De pitten zijn groot en zacht, en eet u gewoon mee. Koud smaakt hij scherp; licht verwarmd opent zich de abrikozenkant.",
-      "p2": "Rijpheid beslist alles. Een stevige rode kruipbraam is onrijp en zo zuur dat uw mond samentrekt. Op zijn best wordt hij amberkleurig, zacht, en laat hij bijna vanzelf los van de stengel: dát is de bes die natte voeten waard is. Plukkers nemen de gele mee en laten de rode staan voor het volgende bezoek.",
+      "answer": "Een rijpe kruipbraam is zacht, sappig en eerst zuur, dan pas zoet: denk aan abrikoos gekruist met rode bes, afgemaakt met een licht muskusachtige honingtoon die geen enkele andere bes heeft. De pitten zijn groot en zacht, en die eet u gewoon mee. Koud smaakt hij scherp; licht verwarmd opent zich de abrikozenkant.",
+      "p2": "Rijpheid beslist alles. Een stevige rode kruipbraam is onrijp en zo zuur dat uw mond samentrekt. Op zijn best wordt hij amberkleurig, zacht, en laat hij bijna vanzelf los van de stengel: dát is de bes die natte voeten waard is. Plukkers nemen de amberkleurige mee en laten de rode staan voor het volgende bezoek.",
       "p3": "Een grote schaal verse kruipbramen krijgt u zelden voorgezet. De smaak is intens en de oogst klein, dus Lapland serveert hem waar één lepel telt: op warme <em>leipäjuusto</em>, de piepende Finse broodkaas, naast vanille-ijs, of verwerkt in een parfait."
     },
     "season": {
@@ -432,7 +432,7 @@
         {
           "n": "01",
           "title": "Marktkramen in hartje zomer",
-          "body": "Vanaf eind juli verkopen de markten van Lapland, de kauppatori van Rovaniemi incluis, verse kruipbramen per bakje en per kilo. Eet ze dezelfde dag; ze wachten niet."
+          "body": "Vanaf eind juli verkopen de markten van Lapland, de kauppatori van Rovaniemi incluis, verse kruipbramen per bakje en per kilo. Eet ze dezelfde dag; ze blijven niet goed."
         },
         {
           "n": "02",
@@ -522,7 +522,7 @@
     "sapmi": {
       "kicker": "Het Samische volk en zijn culinaire erfgoed",
       "headline": "Sápmi, een van Europa's oudste keukens.",
-      "lead": "De Samen zijn het inheemse volk van Sápmi, een uitgestrekte Arctische thuisland dat zich uitstrekt over Noord-Finland, Zweden, Noorwegen en Rusland. Hun keuken is een van de oudste levende voedselculturen van Europa, volledig gevormd door het land, de seizoenen en het rendierherdersleven.",
+      "lead": "De Samen zijn het inheemse volk van Sápmi, een uitgestrekt Arctisch thuisland dat zich uitstrekt over Noord-Finland, Zweden, Noorwegen en Rusland. Hun keuken is een van de oudste levende voedselculturen van Europa, volledig gevormd door het land, de seizoenen en het rendierherdersleven.",
       "items": [
         {
           "title": "Sápmi, het thuisland",
@@ -550,7 +550,7 @@
     },
     "recipes": [
       {
-        "name": "Bidos, Traditionele rendierstoofpot",
+        "name": "Bidos, traditionele rendierstoofpot",
         "difficulty": "Gemiddeld",
         "time": "3–4 uur",
         "serves": "6–8 personen",
@@ -573,7 +573,7 @@
           "Giet er water bij tot net onder het vlees",
           "Laat 2–3 uur op laag vuur sudderen tot het vlees gaar is",
           "Voeg in het laatste uur aardappels en wortels toe",
-          "Royaal zout en peper",
+          "Breng royaal op smaak met zout en peper",
           "Garneer met verse dille en serveer"
         ],
         "tips": "Traditioneel lang op laag vuur op een open vuur gegaard, geduld is het geheime ingrediënt."
@@ -583,7 +583,7 @@
         "difficulty": "Makkelijk",
         "time": "45 min + rijzen",
         "serves": "1 brood",
-        "tradition": "Oude Samische recept",
+        "tradition": "Oud Samisch recept",
         "description": "Eenvoudig maar voedzaam, een lang houdbaar brood dat generaties Arctische tochten voedde.",
         "ingredients": [
           "500 g tarwebloem",
@@ -623,8 +623,8 @@
         ],
         "instructions": [
           "Maak de vis schoon en fileer",
-          "Sudder kop en graten voor de bouillon",
-          "Zeef de bouillon en doe terug in de pan",
+          "Laat kop en graten zachtjes trekken voor de bouillon",
+          "Zeef de bouillon en doe hem terug in de pan",
           "Voeg aardappels en wortel toe",
           "Kook 15 minuten",
           "Voeg de visstukken en ui toe",
@@ -635,12 +635,12 @@
         "tips": "Oude truc: dillestelen tijdens het koken toevoegen, verse blaadjes pas helemaal op het eind."
       },
       {
-        "name": "Wilde bessen-kissel",
+        "name": "Wildebessenkissel",
         "difficulty": "Makkelijk",
         "time": "30 minuten",
         "serves": "4–6 personen",
         "tradition": "Zomerse conserveringstraditie",
-        "description": "De klassieke manier om Laplands wilde bessen te genieten. Boordevol antioxidanten en natuurlijke Arctische smaak.",
+        "description": "De klassieke manier om van Laplands wilde bessen te genieten. Boordevol antioxidanten en natuurlijke Arctische smaak.",
         "ingredients": [
           "500 g gemengde bessen (blauwe bosbessen, vossenbessen)",
           "100–150 g suiker naar smaak",
@@ -649,7 +649,7 @@
           "Vanillesuiker"
         ],
         "instructions": [
-          "Sudder de bessen 10 minuten in water",
+          "Laat de bessen 10 minuten in water sudderen",
           "Pureer en zeef indien gewenst",
           "Voeg suiker en vanillesuiker toe",
           "Meng het zetmeel met koud water",
@@ -682,19 +682,19 @@
           "sami": "Giđđa",
           "en": "Voorjaar",
           "when": "Mei",
-          "body": "De dooi, en de maand die de Samen miessemánnu noemen, de kalvermaand. De kalveren worden geboren. De eerste jonge berkenblaadjes en brandnetelscheuten komen op, het eerste verse groen in zeven maanden. Berkensap wordt getapt en vers gedronken of vergist. De trekvogels zijn terug op de fjells."
+          "body": "De dooi, en de maand die de Samen miessemánnu noemen, de kalvermaand. De kalveren worden geboren. De eerste jonge berkenblaadjes en brandnetelscheuten komen op, het eerste verse groen in zeven maanden. Berkensap wordt getapt en vers gedronken of vergist. De trekvogels zijn terug op de fjäll (heuvels)."
         },
         {
           "sami": "Giđđageassi",
           "en": "Voorjaar-zomer",
           "when": "Jun",
-          "body": "De eerste helft van de middernachtszon. De kalveren lopen mee met de kudde en het oormerken begint. De grond is eindelijk warm genoeg voor wilde kruiden (moerasspirea, duizendblad, engelwortel). Baksel vervangt stoofpotten. Verse melk en boter komen terug van de bergweiden."
+          "body": "De eerste helft van de middernachtzon. De kalveren lopen mee met de kudde en het oormerken begint. De grond is eindelijk warm genoeg voor wilde kruiden (moerasspirea, duizendblad, engelwortel). Baksels vervangen stoofpotten. Verse melk en boter komen terug van de bergweiden."
         },
         {
           "sami": "Geassi",
           "en": "Zomer",
           "when": "Jul",
-          "body": "Volle middernachtzon. De kruipbramen-oogst, een intensief plukvenster van zo’n drie weken waarin gezinnen hele avonden in het ven plukken. Kruiden worden gedroogd voor de winter; bessen worden tot jam, ingevroren of gefermenteerd. Meervissen is dagelijks. De keuken sluit nauwelijks."
+          "body": "Volle middernachtzon. De kruipbraamoogst: een intensief plukvenster van zo’n drie weken waarin gezinnen hele avonden in het veen doorbrengen. Kruiden worden gedroogd voor de winter; bessen worden tot jam, ingevroren of gefermenteerd. Er wordt dagelijks op het meer gevist. De keuken sluit nauwelijks."
         },
         {
           "sami": "Čakčageassi",
@@ -706,13 +706,13 @@
           "sami": "Čakča",
           "en": "Najaar",
           "when": "Sep – okt",
-          "body": "Het slachtseizoen. De rendieren worden bijeengedreven; de herders kiezen welke dieren voor de winter geslacht worden. Het vlees wordt verwerkt: koudgerookt tot suovas, gedroogd en ingevroren. Dit is de eiwitbank die zeven maanden moet meegaan. De eerste vorst maakt de rode bosbessen zoeter."
+          "body": "Het slachtseizoen. De rendieren worden bijeengedreven; de herders kiezen welke dieren voor de winter geslacht worden. Het vlees wordt verwerkt: koudgerookt tot suovas, gedroogd en ingevroren. Dit is de eiwitbank die zeven maanden moet meegaan. De eerste vorst maakt de vossenbessen zoeter."
         },
         {
           "sami": "Čakčadálvi",
           "en": "Najaar-winter",
           "when": "Nov",
-          "body": "Het donker keert terug. De sneeuw blijft liggen. Laatste inmaakwerk, gezouten vis, jam de kast in, de voorraad opnemen. De keuken leunt op warmte: stoofpotten, soepen, gebakken roggebrood, hete bessensappen. Alles komt nu uit de herfstvoorraad."
+          "body": "Het donker keert terug. De sneeuw blijft liggen. Laatste inmaakwerk: vis zouten, jam wegzetten, de voorraad opnemen. De keuken leunt op warmte: stoofpotten, soepen, gebakken roggebrood, hete bessensappen. Alles komt nu uit de herfstvoorraad."
         }
       ]
     },
@@ -721,18 +721,18 @@
       "headline": "Waarom de recepten terugkomen.",
       "p1": "Het grootste deel van de 20e eeuw bestond Samisch eten in twee parallelle werkelijkheden. In Samische huizen was het gewoon avondeten, onbewust, ongeromantiseerd, hetzelfde eten dat de vorige generatie kookte. Buiten Sápmi was het bijna onzichtbaar: een voetnoot in toeristische brochures, soms geëxotiseerd, vaker genegeerd.",
       "p2": "De ommekeer begon eind jaren 2000. New Nordic, gestart door Noma in Kopenhagen, maakte geplukt, hyperlokaal en inheems-noordelijk eten kortstondig modieus in fine-diningzalen in Scandinavië. Finse koks merkten dat de keuken waar de rest van de wereld enthousiast over werd, wilde kruiden, lacto-gefermenteerde bessen, gerookte vis, langzaam gegaard wild, al duizend jaar op Samische borden lag. De pijplijn liep een tijdje de andere kant op: Samische technieken en ingrediënten stroomden naar de proefmenu's van Helsinki.",
-      "p3": "Toen begon de Samische voedselwereld het gesprek terug te claimen. Restaurant Aanaar in Inari bouwde een fine-diningprogramma dat onbeschaamd eerst Samisch is en daarna gastronomisch. Het hoofdstuk Slow Food Sápmi drong aan op beschermde status voor traditionele producten als <em>suovas</em> (koud gerookte rendier) en <em>guompa</em> (gefermenteerde engelwortel). Samische koks gingen Samische leerlingen opleiden in plaats van hen naar Frans-klassieke keukens te sturen. De Indigenous Terra Madre-top in Inari in 2017, wereldwijde bijeenkomst van inheems eten, was een kantelpunt.",
-      "p4": "Het huidige moment is interessant. Samisch eten staat op Helsinki's Michelin-noteringen én op de dagelijkse tafel in Utsjoki, maar de recepten convergeren minder dan u zou verwachten. De fine-diningversies krijgen de techniek-upgrade, sous-vide, lacto-fermentatie, geplukte-bloem-garnering. De thuisversies blijven vrijwel onveranderd. Beide zijn geldig. De recepten op deze pagina zijn de thuisversies.",
+      "p3": "Toen begon de Samische voedselwereld het gesprek terug te claimen. Restaurant Aanaar in Inari bouwde een fine-diningprogramma dat onbeschaamd eerst Samisch is en daarna gastronomisch. De afdeling Slow Food Sápmi drong aan op een beschermde status voor traditionele producten als <em>suovas</em> (koudgerookt rendier) en <em>guompa</em> (gefermenteerde engelwortel). Samische koks gingen Samische leerlingen opleiden in plaats van hen naar Frans-klassieke keukens te sturen. De Indigenous Terra Madre-top in Inari in 2017, een wereldwijde bijeenkomst rond inheems eten, was een kantelpunt.",
+      "p4": "Het huidige moment is interessant. Samisch eten staat op de Michelin-genoteerde menu's van Helsinki én op de dagelijkse tafel in Utsjoki, maar de recepten convergeren minder dan u zou verwachten. De fine-diningversies krijgen de technische upgrade: sous-vide, lactofermentatie, garnering van geplukte bloemen. De thuisversies blijven vrijwel onveranderd. Beide zijn geldig. De recepten op deze pagina zijn de thuisversies.",
       "p5Prefix": "Wilt u de fine-dining-interpretatie proeven, ga dan naar",
       "p5ModernLabel": "Modern Lapland",
       "p5Mid": ". Wilt u de thuisversie proeven, gekookt door iemand die ermee opgroeide, dan is de",
       "p5ToursLabel": "Samische cultuur-foodreis",
-      "p5Suffix": " op de tour-pagina het meest verwante introductiestuk."
+      "p5Suffix": " op de tourpagina de beste kennismaking."
     },
     "methods": {
       "kicker": "Hoe een keuken-zonder-fornuis werkte",
       "headline": "Vier traditionele kookmethodes.",
-      "lead": "Alle vier duiken nog op in fine-diningkeukens in Lapland, koks gebruiken ze omdat ze smaken opleveren die niets modern kan namaken. Open vuur creëert een Maillard-reactie op temperaturen die sous-vide niet aanraakt. Hete stenen bakken brood met een specifieke droogte. Aardovens braden op alleen vastgehouden warmte. Roken is in 2026 nog steeds de eenvoudigste conserveringsmethode die de mens kent.",
+      "lead": "Alle vier duiken nog op in fine-diningkeukens in Lapland; koks gebruiken ze omdat ze smaken opleveren die niets moderns kan namaken. Open vuur geeft een maillardreactie bij temperaturen die sous-vide nooit haalt. Hete stenen bakken brood met een specifieke droogte. Aardovens garen alleen op vastgehouden warmte. Roken is in 2026 nog steeds de eenvoudigste conserveringsmethode die de mens kent.",
       "items": [
         {
           "title": "Open vuur",
@@ -786,7 +786,7 @@
         {
           "n": "03",
           "title": "De keten werd professioneel",
-          "body": "Plukkers en kleine vissers leveren nu rechtstreeks aan restaurants, en specialistische producenten dekken alles van berkensiroop tot vossenbessenazijn. Een degustatiemenu kan elk ingrediënt binnen 200 kilometer sourcen."
+          "body": "Plukkers en kleine vissers leveren nu rechtstreeks aan restaurants, en specialistische producenten dekken alles van berkensiroop tot vossenbessenazijn. Een degustatiemenu kan elk ingrediënt binnen 200 kilometer betrekken."
         }
       ]
     },
@@ -834,11 +834,11 @@
       "items": [
         {
           "title": "Lacto-fermentatie",
-          "body": "Zout en tijd veranderen rauwe groenten en bessen in intens smakende, mild zure conserven. Lacto-gefermenteerde bosbessen op een vleesbord zijn de klassieke Laplandse zet, ze snijden door de rijkdom van rendiervet zoals kappertjes door boter snijden. Let op woorden als \"gefermenteerd\" of \"pickle\" op de kaart."
+          "body": "Zout en tijd veranderen rauwe groenten en bessen in intens smakende, mild zure conserven. Lacto-gefermenteerde bosbessen op een vleesbord zijn de klassieke Laplandse zet, ze snijden door de rijkdom van rendiervet zoals kappertjes door boter snijden. Let op woorden als \"gefermenteerd\" of \"ingelegd\" op de kaart."
         },
         {
           "title": "Sous-vide",
-          "body": "Eiwit vacuüm verpakken en in temperatuur-gestuurd water garen op precies de gewenste gaarheid. De reden waarom uw rendierfilet uniform roze is van rand tot rand zonder grijze ring rond het midden. Langzaam, precies en vergevingsgezind, cruciaal voor een deel zo mager als rendier."
+          "body": "Eiwit vacuüm verpakken en in temperatuurgestuurd water garen op precies de gewenste gaarheid. De reden waarom uw rendierfilet uniform roze is van rand tot rand zonder grijze ring rond het midden. Langzaam, precies en vergevingsgezind, cruciaal voor een deel zo mager als rendier."
         },
         {
           "title": "Koud pekelen & koud roken",
@@ -846,17 +846,17 @@
         },
         {
           "title": "Geplukte garnering",
-          "body": "Wilde kruiden en eetbare bloemen die geen commerciële leverancier in Zuid-Finland qua versheid kan evenaren. Witte klaverzuring, moerasspirea-bloemen, jeneverbestakken, dennescheuten, wilgenroosje, engelwortel, de Laplandse plukker levert de finishing touches op het bord. Vaak diezelfde ochtend geplukt."
+          "body": "Wilde kruiden en eetbare bloemen die geen commerciële leverancier in Zuid-Finland qua versheid kan evenaren. Witte klaverzuring, moerasspirea-bloemen, jeneverbestakken, dennenscheuten, wilgenroosje, engelwortel, de Laplandse plukker levert de finishing touches op het bord. Vaak diezelfde ochtend geplukt."
         },
         {
           "title": "Volledig ingrediëntgebruik",
-          "body": "Een handelsmerk van zowel Samisch eten als de New Nordic-keuken. Merg wordt sausbinder. Viskoppen worden bouillon. Rendierhuiden gaan naar een leerlooier, niet de vuilbak. Restaurants die dit serieus nemen vermelden het op de kaart, \"van snuit tot staart\" en de rekening weerspiegelt het."
+          "body": "Een handelsmerk van zowel Samisch eten als de New Nordic-keuken. Merg wordt sausbinder. Viskoppen worden bouillon. Rendierhuiden gaan naar een leerlooier, niet naar de vuilnisbak. Restaurants die dit serieus nemen, vermelden het op de kaart (\"van snuit tot staart\"), en de rekening weerspiegelt het."
         }
       ]
     },
     "stayNear": {
       "headline": "Slaap dicht bij de keukens.",
-      "lead": "Laplands topadressen zijn verspreid over Rovaniemi, Inari, Levi en Saariselkä. Het schoonste plan: kies een hotel op loopafstand van waar u wilt eten, en laat ons de rest regelen.",
+      "lead": "Laplands topadressen zijn verspreid over Rovaniemi, Inari, Levi en Saariselkä. Het simpelste plan: kies een hotel op loopafstand van waar u wilt eten, en laat ons de rest regelen.",
       "ctaPrimary": "Hotels in Rovaniemi",
       "ctaSecondary": "Of boek een fine-diningtour"
     }
@@ -894,7 +894,7 @@
     },
     "alert": {
       "kicker": "Lees dit eerst",
-      "body": "Paddenstoelvergiftiging is echt en onomkeerbaar. Kunt u een paddenstoel niet met 100 % zekerheid herkennen, met een gids of, beter, een ervaren lokaal, laat hem dan staan. Boek voor uw eerste pluk een begeleide wandeling; één middag met een gids is een heel seizoen gokken waard."
+      "body": "Paddenstoelvergiftiging is echt en onomkeerbaar. Kunt u een paddenstoel niet met 100 % zekerheid herkennen (met een veldgids of, beter nog, met een ervaren plukker uit de streek), laat hem dan staan. Boek voor uw eerste pluk een begeleide wandeling; één middag met een gids is een heel seizoen gokken waard."
     },
     "labels": {
       "where": "Waar hij groeit",
@@ -911,7 +911,7 @@
         "location": "Naaldbossen en heiden",
         "identification": "Lage struik, ovale bladeren, donkerblauwzwarte bessen. Kleurt vingers en tong blauw.",
         "tips": "Piek midden augustus. Pluk alleen volledig rijpe bessen.",
-        "safety": "Geen verwarring mogelijk met giftige soortgenoten, veilig.",
+        "safety": "Geen verwarring mogelijk met giftige dubbelgangers: veilig om te plukken.",
         "sustainability": "Pluk niet meer dan de helft van de bessen van één plant."
       },
       {
@@ -939,7 +939,7 @@
         "season": "Juli – september",
         "difficulty": "Moeilijk",
         "location": "Oude sparrenbossen en gemengd bos",
-        "identification": "Eekhoorntjesbrood: bruine hoed, witte steel, sponsachtige onderkant. Melkzwam: trechtervorm, melkachtige latex bij snijden.",
+        "identification": "Eekhoorntjesbrood: bruine hoed, witte steel, sponsachtige onderkant. Melkzwam: trechtervorm, melkachtig sap bij doorsnijden.",
         "tips": "Droog direct na het plukken. Leer eerst met 100 % zekerheid herkennen.",
         "safety": "KRITIEK: bevestig altijd de identificatie voor consumptie.",
         "sustainability": "Snijd bij de steel, beschadig het mycelium eronder niet."
@@ -958,17 +958,17 @@
     "mushroomSafety": {
       "kicker": "Paddenstoelveiligheid",
       "headline": "Lees dit voor u één paddenstoel plukt.",
-      "p1": "Het paddenstoelveiligheids-gesprek in Finland is rustig, precies en onverbiddelijk. Het is het meest gecontroleerde risico in de plukcultuur. In gemiddelde jaren handelt het Finse Vergiftigingsinformatiecentrum een paar honderd paddenstoelgerelateerde telefoontjes af; ernstige vergiftigingen zijn zeldzaam; de zeldzame sterfgevallen zijn in verband gebracht met de groene knolamaniet (<em>Amanita phalloides</em>) en de kleverige knolamaniet (<em>Amanita virosa</em>). De twee lijken niet op elkaar: de een is olijfgroen, de ander zuiver wit.",
-      "p2": "<strong>De groene knolamaniet en de kleverige knolamaniet zijn aanwezig in Finse bossen.</strong> Beide zijn dodelijk in piepkleine hoeveelheden, er is geen antidoot en de toxiciteit is vertraagd (u voelt zich 6 tot 24 uur prima, dan begint uw lever te falen). De kleverige knolamaniet is wit, ziet er onschuldig uit en groeit in sparren- en berkenbossen door het hele land, inclusief Lapland. Diverse andere veel voorkomende Finse paddenstoelen zijn maag-toxisch, hallucinerend of gewoon onaangenaam.",
+      "p1": "Het gesprek over paddenstoelveiligheid in Finland is rustig, precies en onverbiddelijk. Het is het meest gecontroleerde risico in de plukcultuur. In gemiddelde jaren handelt het Finse Vergiftigingsinformatiecentrum een paar honderd paddenstoelgerelateerde telefoontjes af; ernstige vergiftigingen zijn zeldzaam; de zeldzame sterfgevallen zijn in verband gebracht met de groene knolamaniet (<em>Amanita phalloides</em>) en de kleverige knolamaniet (<em>Amanita virosa</em>). De twee lijken niet op elkaar: de een is olijfgroen, de ander zuiver wit.",
+      "p2": "<strong>De groene knolamaniet en de kleverige knolamaniet zijn aanwezig in Finse bossen.</strong> Beide zijn dodelijk in piepkleine hoeveelheden, er is geen antidoot en de toxiciteit is vertraagd (u voelt zich 6 tot 24 uur prima, dan begint uw lever te falen). De kleverige knolamaniet is wit, ziet er onschuldig uit en groeit in sparren- en berkenbossen door het hele land, inclusief Lapland. Diverse andere veelvoorkomende Finse paddenstoelen zijn giftig voor maag en darmen, hallucinogeen of gewoon onaangenaam.",
       "rulesIntro": "<strong>De vijf regels die elke Finse plukker volgt:</strong>",
       "rules": [
         "Bent u niet 100 % zeker van de soort, niet 90 %, niet \"het lijkt op eekhoorntjesbrood\", pluk hem niet. Geen uitzonderingen.",
-        "Controleer met minstens twee onafhankelijke bronnen: een gids, een determinatie-app zoals iNaturalist, en idealiter een ervaren mens.",
+        "Controleer met minstens twee onafhankelijke bronnen: een veldgids, een determinatie-app zoals iNaturalist, en idealiter een ervaren mens.",
         "Let op <em>alles</em>: vorm van de hoed, plaatjes of poriën, ring op de steel, basis van de steel (graaf het altijd helemaal uit, veel dodelijke soorten herkent u aan het kommetje aan de basis), sporenafdruk, geur, waar hij groeit, waarop.",
-        "Pluk nooit vanuit één perspectief. Neem de hele paddenstoel mee naar huis en controleer opnieuw in goed licht. Bij twijfel: weggooien.",
+        "Beoordeel een paddenstoel nooit vanuit één hoek. Neem de hele paddenstoel mee naar huis en controleer opnieuw in goed licht. Bij twijfel: weggooien.",
         "Kook alle wilde paddenstoelen voor consumptie, ook degene die technisch rauw eetbaar zijn. Dit is een Finse conventie meer dan een strikte regel, maar elke ervaren plukker doet het."
       ],
-      "p4": "<strong>De vier paddenstoelen die een beginner in één middag veilig kan leren herkennen</strong> met een gids zijn: eekhoorntjesbrood (<em>Boletus edulis</em>), valse morielje (<em>Gyromitra esculenta</em>, maar <strong>alleen na tweemaal blancheren met telkens nieuw water</strong>; veel Finnen zullen u zeggen dat hij heerlijk is, veel anderen zullen u zeggen hem te mijden; beide hebben gelijk), oranje melkzwam (<em>Lactarius deliciosus</em>) en cantharel (<em>Cantharellus cibarius</em>). Hiervan hebben eekhoorntjesbrood en cantharel geen gevaarlijke soortgenoten in Finland en zijn de aanbevolen startpunten.",
+      "p4": "<strong>De vier paddenstoelen die een beginner in één middag veilig kan leren herkennen</strong> met een veldgids zijn: eekhoorntjesbrood (<em>Boletus edulis</em>), valse morielje (<em>Gyromitra esculenta</em>, maar <strong>alleen na tweemaal blancheren met telkens nieuw water</strong>; veel Finnen zullen u zeggen dat hij heerlijk is, veel anderen zullen u zeggen hem te mijden; beide hebben gelijk), oranje melkzwam (<em>Lactarius deliciosus</em>) en cantharel (<em>Cantharellus cibarius</em>). Hiervan hebben eekhoorntjesbrood en cantharel geen gevaarlijke dubbelgangers in Finland en zijn de aanbevolen startpunten.",
       "p5": "Gaat u voor het eerst paddenstoelen plukken in Lapland, doe dat met iemand die het al weet. De prijs/zekerheid-verhouding van een wandeling van 4 uur is onverslaanbaar, en in Lapland worden de wandelingen meestal geleid door lokale plukkers die dit thuis hebben geleerd, niet uit een script."
     },
     "calendar": {
@@ -982,15 +982,15 @@
         },
         {
           "month": "Juni",
-          "body": "Piek van de wilde kruiden, moerasspirea, duizendblad, engelwortel, zuring. De eerste verse groente na zeven maanden. Sommige vroege kruiden worden gedroogd voor winterthee."
+          "body": "Piek van de wilde kruiden, moerasspirea, duizendblad, engelwortel, zuring. Het eerste verse groen na zeven maanden. Sommige vroege kruiden worden gedroogd voor winterthee."
         },
         {
           "month": "Begin juli",
-          "body": "Het kruidenvenster sluit; alles bladert agressief uit. De venplanten bloeien, de kruipbraamknoppen hebben gezet. Dit is de kalmte voor de pluk-storm."
+          "body": "Het kruidenvenster sluit; alles loopt volop uit. De veenplanten bloeien, de kruipbraambloesem heeft vrucht gezet. Dit is de stilte voor de plukstorm."
         },
         {
           "month": "Eind juli – begin augustus",
-          "body": "Kruipbramen-seizoen, meestal een venster van 3 weken afhankelijk van de venlocatie. De meest intensieve plukactiviteit van het jaar, en de weken waaromheen fanatieke plukkers hun zomer plannen."
+          "body": "Kruipbraamseizoen, meestal een venster van drie weken, afhankelijk van de ligging van het veen. De meest intensieve plukactiviteit van het jaar, en de weken waaromheen fanatieke plukkers hun zomer plannen."
         },
         {
           "month": "Augustus",
@@ -998,15 +998,15 @@
         },
         {
           "month": "September",
-          "body": "Vossenbessen worden zoeter na de eerste vorst. Paddenstoelseizoen op zijn top, eekhoorntjesbroden, melkzwammen, cantharellen, kruistorren. Dagen krimpen snel; plukkers zijn vanaf zonsopgang buiten."
+          "body": "Vossenbessen worden zoeter na de eerste vorst. Paddenstoelseizoen op zijn top: eekhoorntjesbrood, melkzwammen, cantharellen. Dagen krimpen snel; plukkers zijn vanaf zonsopgang buiten."
         },
         {
           "month": "Oktober",
-          "body": "Laatste paddenstoelen. Laatste vossenbessen (nu het lekkerst na nachtvorst). Laatste conserveringen, drogen, jammen, invriezen. De kalender sluit in feite na de eerste flinke sneeuwval."
+          "body": "Laatste paddenstoelen. Laatste vossenbessen (nu het lekkerst na nachtvorst). Laatste inmaakwerk: drogen, jam maken, invriezen. De kalender sluit in feite na de eerste flinke sneeuwval."
         },
         {
           "month": "November – april",
-          "body": "Bos-rust. Plukken stopt. Binnenwerk, conserveren, roken, drogen, fermenteren, neemt het over. IJsvissen vervangt plukken voor verse eiwitten."
+          "body": "Het bos rust. Het plukken stopt. Binnenwerk (inmaken, roken, drogen, fermenteren) neemt het over. IJsvissen vervangt plukken voor verse eiwitten."
         }
       ]
     },
@@ -1017,7 +1017,7 @@
       "can": [
         "Lopen, skiën, fietsen, paardrijden en anderszins door bossen, weiden en ongecultiveerd land bewegen.",
         "Wilde bessen, paddenstoelen en onbeschermde wilde bloemen en kruiden plukken.",
-        "Vissen met één hengel en lokaas (geen vergunning voor basisvissen, de visserijbeheerbijdrage dekt de meeste meren).",
+        "Vissen met één hengel (hengelen met haak en lijn en ijsvissen zijn gratis; vissen met kunstaas vereist de landelijke visserijbeheerbijdrage).",
         "Tijdelijk kamperen, meestal één nacht, op de meeste ongecultiveerde grond, weg van huizen.",
         "Zwemmen, wassen en water gebruiken uit elk waterlichaam, ook privé.",
         "Bevroren meren en rivieren oversteken, sneeuwscooteren of skiën op de meeste ongecultiveerde grond (met specifieke regels voor sneeuwscooters)."
@@ -1029,29 +1029,29 @@
         "Off-road met een motorvoertuig rijden buiten gemarkeerde sporen (sneeuwscooters hebben eigen regels).",
         "Een open vuur stoken op andermans grond zonder toestemming. Gebruik gemarkeerde vuurplaatsen of vraag het de eigenaar.",
         "Plukken uit een gecultiveerde tuin, boomgaard of veld, dit is geen \"ongecultiveerd land\".",
-        "De directe erfgrenzen van een privéwoning verstoren (binnen zicht van het huis).",
+        "Het erf direct rond een privéwoning betreden of verstoren (binnen zicht van het huis).",
         "Afval achterlaten. Wat u meebrengt, neemt u mee."
       ],
       "closing": "Het principe is toegang zonder schade. Plukkers die de geest van de wet respecteren vinden Finse landeigenaren bijna zonder uitzondering ontspannen over vreemden die op hun grond plukken. De paar problemen ontstaan als een plukgezelschap bomen beschadigt, afval laat liggen of te dicht bij een privéwoning komt. Behandel het bos zorgvuldig en u krijgt toegang tot een van Europa's laatste echt vrije wilde voorraadkasten."
     },
     "guideCta": {
       "headline": "Eén middag met een gids bespaart u een seizoen van gokken.",
-      "lead": "De begeleide plukwandelingen in Lapland zijn niet de bus-tour-versie. Ze worden meestal geleid door lokale plukkers, in kleine groepen van 6–15, en beginnen met de paddenstoelveiligheidsles die u écht nodig heeft. Ze eindigen met het koken van uw pluk boven een kampvuur. De meeste kosten minder dan een fine-diningvoorgerecht.",
+      "lead": "De begeleide plukwandelingen in Lapland zijn niet de bustourversie. Ze worden meestal geleid door lokale plukkers, in kleine groepen van 6–15, en beginnen met de paddenstoelveiligheidsles die u écht nodig heeft. Ze eindigen met het koken van uw pluk boven een kampvuur. De meeste kosten minder dan een fine-diningvoorgerecht.",
       "cta": "Bekijk begeleide wandelingen"
     }
   },
   "foodTours": {
     "title": "Foodtours en eetbelevingen in Lapland",
-    "description": "Drie boekbare eetbelevingen in Lapland: Samische cultuur met maaltijd, Arctische fine-diningavonden en begeleide plukwandelingen. Kleine groepen.",
+    "description": "Drie boekbare eetbelevingen in Lapland: Samische cultuur met maaltijd, Arctische fine-diningavonden en begeleide plukwandelingen. Kleine groepen, online te boeken.",
     "hero": {
       "eyebrow": "Gids 06 · Tours",
-      "title": "Eet u zich een weg",
+      "title": "Eet uw weg",
       "titleHighlight": "door Lapland.",
       "subtitle": "Drie boekbare eetbelevingen die verder gaan dan een proefmenu: Samische cultuur, Arctische fine dining en een begeleide plukwandeling die eindigt in diner.",
       "primaryCta": "Bekijk alles op GetYourGuide"
     },
     "intro": {
-      "lead": "De eetbelevingen in Lapland die uw geld waard zijn, zijn die welke u oog in oog brengen met de mensen die dit echt voor de kost doen.",
+      "lead": "De eetbelevingen in Lapland die uw geld waard zijn, zijn die waarbij u oog in oog staat met de mensen die dit echt voor de kost doen.",
       "points": [
         {
           "n": "01",
@@ -1104,12 +1104,12 @@
       },
       {
         "name": "Wilde plukexpeditie",
-        "description": "Praktische begeleide pluk in oerbos en ven. Leer veilige identificatie van bessen, paddenstoelen en wilde kruiden en kook wat u plukt.",
+        "description": "Praktische begeleide pluktocht in oerbos en veen. Leer veilige identificatie van bessen, paddenstoelen en wilde kruiden en kook wat u plukt.",
         "highlights": [
           "Masterclass paddenstoelveiligheid",
-          "Plukken van bosbessen, vossenbessen en kruipbramen (in seizoen)",
+          "Plukken van bosbessen, vossenbessen en kruipbramen (in het seizoen)",
           "Identificatie wilde kruiden",
-          "Pluk-tot-bord-koken boven kampvuur",
+          "Van pluk tot bord: koken boven het kampvuur",
           "Laplands plukboekje om mee te nemen"
         ],
         "location": "Regio Rovaniemi / Levi",
@@ -1138,20 +1138,20 @@
         "body": "Finlands Michelin-vermelde restaurants concentreren zich in Helsinki, bijna elk Fins sterrenrestaurant in recente edities van de Noordse Gids stond in de hoofdstad. Turku en Tampere stonden op de radar van inspecteurs, maar sterren komen en gaan."
       },
       {
-        "title": "Lapland is ambitieus",
+        "title": "Lapland heeft fine-dining-ambities",
         "body": "Lapland zelf heeft momenteel geen Michelin-ster, maar zijn premium restaurants, Nili, Aanaar, Rakas, duwen wat een proefmenu-avond binnen de Poolcirkel kan zijn vooruit, met geplukte ingrediënten waarvan geen Helsinki-keuken qua versheid kan tippen."
       },
       {
         "title": "Reserveringen tellen",
-        "body": "Laplandse vlaggenschepen zijn klein (vaak 30–60 couverts) en de chefstafel-plaatsen raken het snelst vol. Boek midden winter (half dec → feb) en het middernachtzon-venster (6 juni → 7 juli in Rovaniemi) minstens 6–8 weken vooruit. Helsinki-Michelin-zalen hebben regelmatig 4–6 weken wachttijd."
+        "body": "Laplandse vlaggenschepen zijn klein (vaak 30–60 couverts) en de chefstafel-plaatsen raken het snelst vol. Boek de winterpiek (half dec → feb) en het middernachtzon-venster (6 juni → 7 juli in Rovaniemi) minstens 6–8 weken vooruit. Helsinki-Michelin-zalen hebben regelmatig 4–6 weken wachttijd."
       }
     ],
     "helsinki": {
       "kicker": "Michelin Helsinki",
       "headline": "Acht zalen het boeken waard in Helsinki.",
-      "lead": "Sterrenaanwijzingen wisselen per jaar, controleer de actuele lijst in de Gids voor u boekt. De acht hieronder zijn de zalen die consequent in of dichtbij de Gids zijn geweest en waarover reizigers blijven praten. Prijsklasse volgens de Michelin-conventie: € (onder 40 € pp), €€ (40–80), €€€ (80–140), €€€€ (140+).",
+      "lead": "Steronderscheidingen wisselen per jaar, controleer de actuele lijst in de Gids voor u boekt. De acht hieronder zijn de zalen die consequent in of dichtbij de Gids zijn geweest en waarover reizigers blijven praten. Prijsklasse volgens de Michelin-conventie: € (onder 40 € pp), €€ (40–80), €€€ (80–140), €€€€ (140+).",
       "ctaHotels": "Hotels in Helsinki",
-      "footnote": "Onafhankelijke redactie. Niet gelieerd aan de Michelin-gids. Ster- en Bib Gourmand-aanwijzingen gelden alleen voor de huidige Noordse Gids, check guide.michelin.com voor u boekt.",
+      "footnote": "Onafhankelijke redactie. Niet gelieerd aan de Michelin-gids. Ster- en Bib Gourmand-onderscheidingen gelden alleen voor de huidige Noordse Gids, check guide.michelin.com voor u boekt.",
       "rooms": [
         {
           "name": "Olo",
@@ -1162,7 +1162,7 @@
         {
           "name": "Palace",
           "where": "10e verdieping, Eteläranta, havenuitzicht",
-          "angle": "Oudbollig Helsinki-havenuitzicht, moderne uitvoering. De klassieke snoekbaars (kuha) is de signatuur.",
+          "angle": "Klassiek Helsinki-havenuitzicht, moderne uitvoering. De klassieke snoekbaars (kuha) is de signatuur.",
           "band": "€€€€"
         },
         {
@@ -1174,7 +1174,7 @@
         {
           "name": "Grön",
           "where": "Albertinkatu, Helsinki",
-          "angle": "Plant-gedreven proefmenu (groenten, vis, geplukt) met strakke wijnarrangement. Snelst volgeboekt van de stad.",
+          "angle": "Plantaardig georiënteerd proefmenu (groenten, vis, geplukt) met een strak wijnarrangement. Snelst volgeboekt van de stad.",
           "band": "€€€€"
         },
         {
@@ -1186,19 +1186,19 @@
         {
           "name": "Ora",
           "where": "Huvilakatu, Eira",
-          "angle": "Modern Noords in een woon-zaal. Vaak geprezen voor het ingrediënt-gedreven menu van chef Sasu Laukkonen.",
+          "angle": "Modern Noords in een zaal met huiskamersfeer. Vaak geprezen voor het ingrediënt-gedreven menu van chef Sasu Laukkonen.",
           "band": "€€€€"
         },
         {
           "name": "Finnjävel",
           "where": "Helsinki",
-          "angle": "Modern Fins, herdachte klassiekers. Minder gedempt dan de andere; meer theatrale service.",
+          "angle": "Modern Fins, opnieuw bedachte klassiekers. Minder gedempt dan de andere; meer theatrale service.",
           "band": "€€€"
         },
         {
           "name": "Ultima",
           "where": "Helsinki",
-          "angle": "Proefmenu uit een verticale boerderij in de kelder. De meest authentiek \"Helsinki 2026\"-zaal in deze lijst.",
+          "angle": "Proefmenu uit een verticale boerderij in de kelder. De meest authentieke \"Helsinki 2026\"-zaal van deze lijst.",
           "band": "€€€€"
         }
       ]
@@ -1206,7 +1206,7 @@
     "lapland": {
       "kicker": "Fine dining in Lapland",
       "headline": "Drie zalen om te boeken.",
-      "lead": "Dit zijn de keukens die het koken serieus genoeg nemen om met Helsinki te concurreren op bordvakmanschap, terwijl ze volledig uit Lapland worden bevoorraad. Geen heeft op het moment van schrijven een Michelin-ster, maar op een horizon van vijf jaar zou elk van hen het kunnen krijgen.",
+      "lead": "Dit zijn de keukens die het koken serieus genoeg nemen om met Helsinki te concurreren op bordvakmanschap, terwijl ze vrijwel volledig uit Lapland worden bevoorraad. Geen van hen heeft op het moment van schrijven een Michelin-ster, maar op een horizon van vijf jaar zou elk van hen het kunnen krijgen.",
       "labels": {
         "signature": "Signatuurgerechten",
         "band": "Prijsklasse",
@@ -1219,7 +1219,7 @@
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centrum Rovaniemi",
           "angle": "De meest geciteerde fine-diningzaal in Lapland. Samisch geworteld, sous-vide rendierfilet met bosbessenreductie is de signatuur, naast een wilde-bessen-programma dat leunt op wat de plukkers van Inari die ochtend binnenbrachten. Open keuken, warm houten interieur, 60 couverts.",
-          "signature": "Sous-vide rendierfilet · met dennen-gecureerde Arctische zalmforel · kruipbramenparfait",
+          "signature": "Sous-vide rendierfilet · in dennen gepekelde beekridder · kruipbraamparfait",
           "band": "€€€, proefmenu 68 € · hoofdgerechten à la carte 28–42 €",
           "booking": "Boek 3–4 weken vooruit in zomer / december. Walk-ins mogelijk di–wo."
         },
@@ -1227,7 +1227,7 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · aan de Juutuanjoki",
-          "angle": "Het dichtst bij een bestemmingsdiner diep in Samenland. De chef bouwt menu's rond Inari's acht Samische seizoenen, lacto-gefermenteerde bosbessen, gerookt rendierhart, koud-gepekelde zalmforel en de wijnkaart is ongewoon diep voor een plaats van 7.000 inwoners.",
+          "angle": "Het dichtst bij een bestemmingsdiner diep in Samenland. De chef bouwt menu's rond Inari's acht Samische seizoenen (lactogefermenteerde bosbessen, gerookt rendierhart, koudgepekelde beekridder), en de wijnkaart is ongewoon diep voor een plaats van 7.000 inwoners.",
           "signature": "7-gangenmenu rond wilde bessen · gerookt rendierhart · berkensiroop-parfait",
           "band": "€€€€, proefmenu 85 €, met wijnarrangement 145 €",
           "booking": "Twee zittingen per avond, 32 couverts totaal. Boek 6–8 weken vooruit in winter en middernachtzon-venster."
@@ -1236,8 +1236,8 @@
           "name": "Rakas bij Arctic TreeHouse Hotel",
           "city": "Rovaniemi · gebied Santa Park",
           "address": "Tarvantie 3, 7 km van centrum Rovaniemi · taxi of hotelshuttle",
-          "angle": "Glas-dak eetzaal naar het noorden, volledig panoramisch over het sparrenbos, ontworpen zodat u tijdens het proefmenu in de winter naar de noorderlicht kunt kijken. Confit Arctische marene onder wildekruidenolie is de signatuur van de zaal, opgemaakt met geplukte microgroenten en eetbare bloemen.",
-          "signature": "Confit Arctische marene · dennen-gecureerde forel · chocolade-vossenbes-koepel",
+          "angle": "Eetzaal met glazen dak op het noorden, met volledig panorama over het sparrenbos, ontworpen zodat u in de winter tijdens het proefmenu naar het noorderlicht kunt kijken. Confit Arctische marene onder wildekruidenolie is de signatuur van de zaal, opgemaakt met geplukte microgroenten en eetbare bloemen.",
+          "signature": "Confit Arctische marene · in dennen gepekelde forel · chocolade-vossenbeskoepel",
           "band": "€€€€, 4-gangenmenu 78 € · 7-gangenmenu 115 €",
           "booking": "Hotelgasten hebben voorrang. Niet-gasten boeken 4 weken vooruit in winter."
         }
@@ -1251,52 +1251,52 @@
         {
           "n": "01",
           "label": "Welkomshapjes",
-          "body": "Twee of drie kleine hapjes aan tafel, gepekelde groente, gerookte vis op rogge, een geplukt-kruidenbouillon-shotje. Zet de seizoenstoon."
+          "body": "Twee of drie kleine hapjes aan tafel: ingelegde groente, gerookte vis op roggebrood, een shotje bouillon van geplukte kruiden. Zet de seizoenstoon."
         },
         {
           "n": "02",
           "label": "Koude opener",
-          "body": "Arctische zalmforel of marene in een of andere vorm, gepekeld, gerookt of als tartaar. Bijna altijd met een element van geplukte kruiden."
+          "body": "Beekridder of marene in een of andere vorm: gepekeld, gerookt of als tartaar. Bijna altijd met een element van geplukte kruiden."
         },
         {
           "n": "03",
-          "label": "Warme voorgerecht",
+          "label": "Warm voorgerecht",
           "body": "Paddenstoel- of wortelgerecht in de herfst; bessen- of kruiden-gedreven gerecht in de zomer. Hier laten de koks hun fermentatiewerk zien."
         },
         {
           "n": "04",
           "label": "Visgang",
-          "body": "Snoekbaars, forel of snoek, afhankelijk van wat de plaatselijke vissers binnenbrachten. Tot kern-roze gegaard, met een boter- of roomsaus."
+          "body": "Snoekbaars, forel of snoek, afhankelijk van wat de plaatselijke vissers binnenbrachten. Rosé gegaard, met een boter- of roomsaus."
         },
         {
           "n": "05",
           "label": "Rendier of wild",
-          "body": "Het hoofdeiwit. Filet sous-vide, langzaam gesmoorde schouder of gerookte zadel. Bosbes, vossenbes of jeneverbes verankeren het bord."
+          "body": "Het hoofdgerecht. Filet sous-vide, langzaam gesmoorde schouder of gerookt zadel. Bosbes, vossenbes of jeneverbes verankeren het bord."
         },
         {
           "n": "06",
           "label": "Kaas (optioneel)",
-          "body": "Gerijpte Finse kaas, Lappi of Tervaleipäjuusto-stijl, met een teer-honing of kruipbramen-conserve."
+          "body": "Gerijpte Finse kaas in Lappi-stijl, met teerhoning of kruipbraamjam."
         },
         {
           "n": "07",
           "label": "Pre-dessert",
-          "body": "Een kleine palet-reiniger, berkensap-sorbet, kruipbramen-consommé, vossenbessen-granita."
+          "body": "Een kleine smaakverfrisser: berkensapsorbet, kruipbraamconsommé, vossenbessengranita."
         },
         {
           "n": "08",
           "label": "Dessert",
-          "body": "Kruipbramen-parfait of chocolade-vossenbes-koepel zijn de twee meest voorkomende. De koffie komt in een koperen ketel."
+          "body": "Kruipbraamparfait of chocolade-vossenbeskoepel zijn de twee meest voorkomende. De koffie komt in een koperen koffiepot."
         }
       ]
     },
     "bookingNotes": {
       "headline": "Vier dingen die beginners verkeerd doen.",
-      "lead": "Laplandse keukens zijn vergevingsgezind. Het zijn nog steeds kleine zalen met chef-geleide bediening. Dit zijn de vier correcties die we een vriend meegeven voor zijn eerste boeking.",
+      "lead": "Laplandse keukens zijn vergevingsgezind, maar het blijven kleine zalen met chef-geleide bediening. Dit zijn de vier correcties die we een vriend meegeven voor zijn eerste boeking.",
       "items": [
         {
           "label": "Plan minimaal 3 uur",
-          "body": "Een vol Laplands proefmenu duurt 2,5–3,5 uur. Boek geen 21.00-uur-show daarna."
+          "body": "Een vol Laplands proefmenu duurt 2,5–3,5 uur. Boek daarna geen voorstelling van 21.00 uur."
         },
         {
           "label": "Wijnarrangement loont",
@@ -1308,13 +1308,13 @@
         },
         {
           "label": "Smart casual",
-          "body": "Geen restaurant in Finland zal u in jeans weigeren, maar de zalen verwachten een inspanning. Sneakers en hoodie misstaan."
+          "body": "Geen restaurant in Finland zal u in jeans weigeren, maar de zalen verwachten wel wat moeite. Sneakers en hoodies vallen uit de toon."
         }
       ]
     },
     "stayNear": {
       "headline": "Slaap dicht bij de keukens.",
-      "lead": "Voor een fine-diningreis is het schoonste plan een hotel op 10 minuten lopen (of korte taxi) van waar u eet. Rovaniemi voor Nili / Rakas, Inari voor Aanaar.",
+      "lead": "Voor een fine-diningreis is het simpelste plan een hotel op 10 minuten lopen (of korte taxi) van waar u eet. Rovaniemi voor Nili / Rakas, Inari voor Aanaar.",
       "ctaRovaniemi": "Hotels bij Rovaniemi",
       "ctaInari": "Hotels bij Inari",
       "tourPrefix": "Wilt u een gids die transport, reserveringen en chef-introducties voor u regelt?",
@@ -1331,7 +1331,7 @@
     },
     "why": {
       "headline": "Waarom deze site bestaat.",
-      "p1": "Het meeste dat in het Engels over Laplands eten wordt geschreven, zit op een van twee extremen: luchtige brochuretaal (\"magische Samische smaken onder de middernachtzon\") of volledig van voetnoten voorziene academische etnografie die niemand leest voordat hij een tafel boekt. Wij mikken op het gat ertussen: heldere zinnen, concrete ingrediënten en concrete restaurants, cijfers alleen waar ze helpen, geschreven vanuit het noorden van de poolcirkel en niet vanachter een bureau in Londen.",
+      "p1": "Het meeste wat in het Engels over Laplands eten wordt geschreven, zit op een van twee extremen: luchtige brochuretaal (\"magische Samische smaken onder de middernachtzon\") of volledig van voetnoten voorziene academische etnografie die niemand leest voordat hij een tafel boekt. Wij mikken op het gat ertussen: heldere zinnen, concrete ingrediënten en concrete restaurants, cijfers alleen waar ze helpen, geschreven vanuit het noorden van de poolcirkel en niet vanachter een bureau in Londen.",
       "p3": "De lat die we onszelf opleggen: <strong>een vriend die voor het eerst in Lapland aankomt, zou hier drie pagina’s moeten kunnen lezen en met genoeg vertrekken om een echte foodtrip te plannen.</strong> Zakt een sectie voor die test, dan schrijven we hem opnieuw."
     },
     "cover": {
@@ -1345,7 +1345,7 @@
         },
         {
           "t": "Traditionele recepten",
-          "body": "Bidos, Gahkku, Samische vissoep, wilde-bessen-kissel, plus de culturele context die uitlegt waarom ze eruitzien zoals ze eruitzien.",
+          "body": "Bidos, Gahkku, Samische vissoep, wildebessenkissel, plus de culturele context die uitlegt waarom ze eruitzien zoals ze eruitzien.",
           "href": "/traditional-recipes"
         },
         {
@@ -1355,7 +1355,7 @@
         },
         {
           "t": "Plukgids",
-          "body": "Vijf kern-wildvoedingen, paddenstoelveiligheid in detail, een 8-maandse seizoenskalender en het toegangsrecht dat alles legaal maakt.",
+          "body": "Vijf wilde basisingrediënten, paddenstoelveiligheid in detail, een seizoenskalender maand voor maand en het toegangsrecht dat alles legaal maakt.",
           "href": "/foraging-guide"
         },
         {
@@ -1380,14 +1380,14 @@
         },
         {
           "t": "Specifiek boven sfeer",
-          "body": "Een uitspraak als \"de beste fine dining van Lapland\" is zonder specifieken zinloos. Wij vertellen u wat te bestellen, wat het kost, wanneer te boeken, waar binnen te lopen. Wat we niet kunnen pinpointen, laten we weg."
+          "body": "Een uitspraak als \"de beste fine dining van Lapland\" is zonder concrete details zinloos. Wij vertellen u wat te bestellen, wat het kost, wanneer te boeken, waar binnen te lopen. Wat we niet precies kunnen aanwijzen, laten we weg."
         },
         {
           "t": "Affiliate verandert de redactie niet",
           "body": "Sommige boekingslinks betalen ons een commissie als u via hen boekt. Geen daarvan ontgrendelt content, verandert de volgorde van aanbevelingen of koopt een plek op de pagina. Dezelfde restaurants zouden er staan zonder enig affiliate-programma."
         },
         {
-          "t": "Geen valse stats, geen valse quotes",
+          "t": "Geen verzonnen cijfers, geen verzonnen citaten",
           "body": "Als we een getal noemen, heeft het een bron die we kunnen aanwijzen. Als we een chef citeren, hebben we hem gesproken. Zijn we ergens onzeker over, actueel aantal Michelinsterren, exact jaar waarin een traditie begon, dan zeggen we dat en linken we naar de gezaghebbende bron."
         },
         {
@@ -1407,9 +1407,9 @@
     },
     "contact": {
       "headline": "Neem contact op.",
-      "p1Prefix": "Voor alle vragen, redactie, partnerships, pers, correcties, feitelijke disputen, mail naar",
+      "p1Prefix": "Voor alle vragen (redactie, partnerschappen, pers, correcties, feitelijke geschillen) mailt u naar",
       "p1Suffix": ". We antwoorden in het Fins of Engels, meestal binnen twee werkdagen.",
-      "p2": "<strong>Ziet u iets dat niet klopt</strong>, een gesloten restaurant, een verkeerde openingstijd, een prijs die niet klopt, een fout feit, laat het ons weten. We werken sneller bij dan we publiceren.",
+      "p2": "<strong>Ziet u iets dat niet klopt</strong> (een gesloten restaurant, een verkeerde openingstijd, een prijs die niet klopt, een onjuist feit), laat het ons dan weten. We werken sneller bij dan we publiceren.",
       "p3Prefix": "Voor privacy, voorwaarden en cookiebeleid, zie",
       "privacyLabel": "Privacy",
       "termsLabel": "Voorwaarden",
