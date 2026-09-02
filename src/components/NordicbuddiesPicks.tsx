@@ -145,7 +145,7 @@ const COPY: Record<Locale, Copy> = {
   es: {
     adLabel: 'Anuncio',
     eyebrow: 'En qué viaja el café',
-    headline: 'Un día de recolección se mide en horas, y el café va contigo.',
+    headline: 'Un día de recolección se mide en horas, y el café va con usted.',
     body: 'Nordicbuddies es una empresa de Helsinki con las licencias de Pippi Calzaslargas y Mauri Kunnas. No vende alimentos: vende aquello en lo que llevas el café, una botella de acero de doble pared de 550 ml y un vaso reutilizable. Seguimiento en todo el mundo y envío gratis desde 60 € en la UE, el Reino Unido y Noruega.',
     shipping: 'Envíos a todo el mundo con seguimiento',
     cta: 'Ver producto',

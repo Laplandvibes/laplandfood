@@ -85,8 +85,8 @@ const COPY: Record<Locale, Copy> = {
   es: {
     adLabel: 'Anuncio',
     eyebrow: 'La despensa, por correo',
-    headline: 'Casi todo lo de esta página se te puede enviar.',
-    body: 'Mermeladas de arándano rojo y mora ártica, centeno, café finlandés y ese regaliz salado del que nadie te avisa. Suomikauppa envía alimentos finlandeses a todo el mundo, y así reponen los finlandeses en el extranjero. Lo seco y sellado viaja; la carne y los lácteos casi nunca salen de la UE.',
+    headline: 'Casi todo lo de esta página se le puede enviar.',
+    body: 'Mermeladas de arándano rojo y mora ártica, centeno, café finlandés y ese regaliz salado del que nadie le avisa. Suomikauppa envía alimentos finlandeses a todo el mundo, y así reponen los finlandeses en el extranjero. Lo seco y sellado viaja; la carne y los lácteos casi nunca salen de la UE.',
     worldwide: 'Envíos a todo el mundo',
     oneOrder: 'Un pedido en vez de cinco',
     cta: 'Ver alimentos finlandeses',

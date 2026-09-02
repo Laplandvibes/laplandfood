@@ -407,7 +407,7 @@ const SECTION_COPY: Record<SuomikauppaPicksVariant, Record<Locale, SectionCopy>>
     },
     es: {
       eyebrow: 'El norte en conserva',
-      headline: 'Reno para tu despensa.',
+      headline: 'Reno para su despensa.',
       body: 'La misma carne con la que trabajan las cocinas del norte, en conserva: paté de reno cocinado despacio, una sopa de queso con reno ahumado y finas láminas de reno seco para la ruta. Suomikauppa envía desde Finlandia; dentro de la UE la carne viaja libre, para otros países revisa las normas de importación antes de pedir.',
       shipping: 'Envío desde Finlandia',
     },

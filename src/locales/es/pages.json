@@ -14,16 +14,16 @@
     "emailPlaceholder": "tu@ejemplo.com",
     "submit": "Suscribirse",
     "sending": "Enviando…",
-    "successHeadline": "Revisa tu bandeja de entrada, bienvenido a bordo.",
+    "successHeadline": "Revise su bandeja de entrada, bienvenido a bordo.",
     "successBody": "El primer envío llegará cuando haya una historia de la gastronomía finlandesa que merezca la pena enviar.",
     "errorPrefix": "Algo ha salido mal",
     "errorRetry": "Inténtalo de nuevo.",
-    "trust": "Redactado a mano por la redacción · Cancela con un clic · Nunca compartimos tu dirección."
+    "trust": "Redactado a mano por la redacción · Cancele con un clic · Nunca compartimos su dirección."
   },
   "sisters": {
-    "kicker": "Cuando te entre hambre",
-    "headline": "Come, bebe y trasnocha.",
-    "subhead": "LaplandFood es el mapa cultural. Para la mesa en la que de verdad te sentarás, la cerveza que de verdad pedirás y los locales que siguen abiertos pasada la medianoche, ve a los sitios hermanos de abajo.",
+    "kicker": "Cuando le entre hambre",
+    "headline": "Coma, beba y trasnoche.",
+    "subhead": "LaplandFood es el mapa cultural. Para la mesa en la que de verdad se sentará, la cerveza que de verdad pedirá y los locales que siguen abiertos pasada la medianoche, vaya a los sitios hermanos de abajo.",
     "visitLabel": "Visitar",
     "items": [
       {
@@ -58,7 +58,7 @@
       "p2End": "."
     },
     "pillarsKicker": "Las seis guías",
-    "pillarsHeadline": "Empieza por aquí.",
+    "pillarsHeadline": "Empiece por aquí.",
     "pillarsLead": "Seis mapas de la cultura gastronómica finlandesa. Elige uno y profundiza, cada página enlaza con las demás.",
     "readLabel": "Leer",
     "stats": {
@@ -101,7 +101,7 @@
     ],
     "cultureKicker": "Por qué sabe a lo que sabe",
     "cultureHeadline": "Cuatro cosas que hacen finlandesa a la comida finlandesa.",
-    "cultureLead": "Quita las modas y casi toda la cocina finlandesa sigue apoyándose en estos cuatro pilares. Explican todo, desde por qué tu desayuno de hotel lleva pan crujiente de centeno hasta por qué un menú degustación de alta cocina empieza con pescado curado en enebro.",
+    "cultureLead": "Quite las modas y casi toda la cocina finlandesa sigue apoyándose en estos cuatro pilares. Explican todo, desde por qué su desayuno de hotel lleva pan crujiente de centeno hasta por qué un menú degustación de alta cocina empieza con pescado curado en enebro.",
     "culture": [
       {
         "n": "01",
@@ -127,14 +127,14 @@
     "summer": {
       "kicker": "6 de junio – 7 de julio en Rovaniemi · 32 días de sol de medianoche",
       "headline": "La ventana gastronómica del sol de medianoche.",
-      "lead": "Las moras árticas maduran, el pescado de lago alcanza su punto álgido, los huertos de hierbas estallan y el sol no se pone. Durante cuatro semanas, las cocinas de Laponia cambian la contundencia del invierno por el producto más ligero y luminoso del año. Si solo vienes una vez, ven ahora.",
+      "lead": "Las moras árticas maduran, el pescado de lago alcanza su punto álgido, los huertos de hierbas estallan y el sol no se pone. Durante cuatro semanas, las cocinas de Laponia cambian la contundencia del invierno por el producto más ligero y luminoso del año. Si solo viene una vez, venga ahora.",
       "cta": "Qué hay de temporada →"
     },
     "faq": {
       "eyebrow": "Conviene saber",
       "headline": "Las preguntas que todos hacen primero.",
       "lead": "Respuestas breves, cada una con enlace a la página que profundiza.",
-      "stillPrefix": "¿Te queda alguna duda? Escríbenos a ",
+      "stillPrefix": "¿Le queda alguna duda? Escríbanos a ",
       "stillSuffix": ". Respondemos.",
       "items": [
         {
@@ -245,7 +245,7 @@
       "p1": "La industria del reno en Finlandia está regulada por la Ley de Pastoreo de Renos, que restringe la propiedad a personas domiciliadas en la zona de pastoreo (en la práctica, el norte de Finlandia). Los animales pertenecen a pastores individuales, pero pastan juntos en cooperativas, <em>paliskunnat</em>, que comparten territorio y trabajo. Hay unos 200.000 renos repartidos en aproximadamente 54 cooperativas, todas en Laponia y partes de Ostrobotnia del Norte.",
       "p2": "El rebaño es salvaje en todo salvo en la propiedad. Los renos vagan libremente por enormes extensiones de taiga y tundra sin vallar, comiendo lo que encuentran: líquenes en invierno (la dieta que da a la carne su sabor limpio y característico), hierbas y plantas en verano, brotes de setas en otoño. Los pastores siguen a sus animales en motonieve y quad, los reúnen dos veces al año para marcarlos en la oreja y (en otoño) para seleccionar los que irán al sacrificio, y luego los dejan dispersarse de nuevo.",
       "p3": "El sacrificio se hace en otoño, normalmente entre octubre y noviembre, cuando los animales están en su peso máximo. Cada cooperativa gestiona su propio matadero homologado por la UE. La mayor parte de la carne se vende a unos pocos cientos de kilómetros de donde vivió el animal, a restaurantes de Laponia, a carnicerías especializadas de Helsinki y del resto del sur de Finlandia, y a un mercado de exportación pequeño pero serio en Centroeuropa.",
-      "p4": "<strong>Los cortes que verás en un menú de Laponia</strong> se corresponden, a grandes rasgos, con el vocabulario del vacuno: <em>fileé</em> (solomillo, territorio de sous-vide), <em>sisäpaisti / ulkopaisti</em> (contra / tapa, asados enteros o en lonchas para platos ahumados en caliente), <em>poronkäristys</em> (reno salteado, el plato cotidiano por excelencia, lonchas finas, mantequilla, sal, servido sobre puré con arándano rojo) y <em>suovas</em> (lomo ahumado en frío, comido en lascas con pan de centeno). El bidos usa cortes de guiso más duros, normalmente paletilla y morcillo y por eso se cocina durante horas.",
+      "p4": "<strong>Los cortes que verá en un menú de Laponia</strong> se corresponden, a grandes rasgos, con el vocabulario del vacuno: <em>fileé</em> (solomillo, territorio de sous-vide), <em>sisäpaisti / ulkopaisti</em> (contra / tapa, asados enteros o en lonchas para platos ahumados en caliente), <em>poronkäristys</em> (reno salteado, el plato cotidiano por excelencia, lonchas finas, mantequilla, sal, servido sobre puré con arándano rojo) y <em>suovas</em> (lomo ahumado en frío, comido en lascas con pan de centeno). El bidos usa cortes de guiso más duros, normalmente paletilla y morcillo y por eso se cocina durante horas.",
       "p5": "Desde el punto de vista ético, el reno en libertad pastoreado por los samis es una de las proteínas más sostenibles de un menú europeo, sin cebadero, sin antibióticos, sin pastoreo cerrado, dieta natural. La complicación es el clima: los inviernos en Laponia son cada vez más húmedos, se forman capas de hielo sobre la nieve, los renos no pueden escarbar hasta los líquenes y los pastores se ven obligados a alimentarlos de forma complementaria en algunas cooperativas. Eso cambia la cadena de suministro y, poco a poco, el sabor. Es una historia que conviene vigilar durante la próxima década.",
       "tasteQ": "¿A qué sabe el reno?",
       "tasteA1": "Más suave que la mayoría de las carnes de caza. El reno es magro y de grano fino, más cercano a un buen solomillo de ternera que a una caza intensa, con una profundidad limpia y levemente dulce que viene del liquen y las hierbas del monte. Como casi no tiene grasa, se cocina con cuidado y se sirve poco hecho o al punto.",
@@ -258,7 +258,7 @@
       "p2": "Décadas de investigación agrícola no han logrado comercializarla. Las plantas de mora ártica son dioicas (con ejemplares macho y hembra separados), crecen muy despacio, tardan entre 6 y 7 años en dar fruto incluso en condiciones perfectas, son vulnerables a las heladas tardías de primavera que destruyen las flores del año y necesitan una combinación concreta de humedad, luz y química de turbera que se ha resistido a la simulación en invernadero. Investigadores noruegos y finlandeses han avanzado con algunos cultivares, pero los rendimientos comerciales siguen siendo una fracción de los silvestres. Así que todo el suministro finlandés, para fabricantes de mermelada, productores de licor (Lakka) y cocinas de restaurante, es de recolección silvestre.",
       "p3": "Por eso un kilo de moras árticas frescas en un mercado de Rovaniemi a finales de julio suele costar entre 25 y 50 €, de cinco a diez veces el precio de los arándanos y por eso el suministro se desploma si la helada de primavera llega una semana tarde. También es la razón por la que el parfait de mora ártica es el postre estrella de la alta cocina de Laponia. Todos los chefs quieren usarlas mientras duran.",
       "p4": "<strong>Ética de la recogida:</strong> las plantas de mora ártica se recuperan despacio. El principio sami y la convención de recolección finlandesa, es coger solo las bayas totalmente maduras, dejar las verdes y las pasadas, y no esquilmar nunca una planta. Si recolectas en una turbera pequeña, un kilo por familia es más que suficiente.",
-      "guideLinkLabel": "Lee la guía completa de la mora ártica"
+      "guideLinkLabel": "Lea la guía completa de la mora ártica"
     },
     "fishDeep": {
       "kicker": "A fondo · El pescado de lago",
@@ -273,8 +273,8 @@
     "everymansRight": {
       "kicker": "El derecho de acceso a la naturaleza",
       "headline": "El marco legal que hace posible todo esto.",
-      "p1": "Casi todos los ingredientes de esta página son, legalmente, gratis. El <em>jokamiehenoikeus</em> finlandés (derecho de acceso a la naturaleza) es un principio codificado de siglos de antigüedad que permite a cualquiera, ciudadano o visitante, caminar por la mayoría del territorio de Finlandia, acampar en él y recolectar en él, sin importar de quién sea la propiedad. Puedes coger bayas, setas y hierbas silvestres en terreno privado sin pedir permiso. Puedes pescar con caña y anzuelo, o pescar en hielo, sin licencia. Puedes pasar una noche en la mayoría del terreno sin pedir permiso.",
-      "p2": "Lo que no puedes hacer: dañar árboles, cazar, conducir un vehículo fuera de los caminos, recoger plantas protegidas, encender una hoguera en el terreno de alguien sin permiso o coger de un jardín cultivado. El principio es acceso sin daño. Es uno de los pocos marcos legales de Europa que trata la comida silvestre como un recurso compartido, y es la razón estructural por la que la cultura gastronómica de Laponia sobrevivió a la modernización.",
+      "p1": "Casi todos los ingredientes de esta página son, legalmente, gratis. El <em>jokamiehenoikeus</em> finlandés (derecho de acceso a la naturaleza) es un principio codificado de siglos de antigüedad que permite a cualquiera, ciudadano o visitante, caminar por la mayoría del territorio de Finlandia, acampar en él y recolectar en él, sin importar de quién sea la propiedad. Puede coger bayas, setas y hierbas silvestres en terreno privado sin pedir permiso. Puede pescar con caña y anzuelo, o pescar en hielo, sin licencia. Puede pasar una noche en la mayoría del terreno sin pedir permiso.",
+      "p2": "Lo que no puede hacer: dañar árboles, cazar, conducir un vehículo fuera de los caminos, recoger plantas protegidas, encender una hoguera en el terreno de alguien sin permiso o coger de un jardín cultivado. El principio es acceso sin daño. Es uno de los pocos marcos legales de Europa que trata la comida silvestre como un recurso compartido, y es la razón estructural por la que la cultura gastronómica de Laponia sobrevivió a la modernización.",
       "ctaPrimary": "Leer la guía de recolección",
       "ctaSecondary": "O reservar un paseo de recolección guiado"
     },
@@ -283,13 +283,13 @@
       "headline": "Dónde acaba esto.",
       "items": [
         {
-          "title": "Cocínalo",
+          "title": "Cocínelo",
           "body": "Las recetas tradicionales para las que existen estos ingredientes, con el método explicado.",
           "cta": "Recetas"
         },
         {
           "title": "Pruébalo con guía",
-          "body": "Salidas de recolección y comida hecha al fuego, reservables para las fechas en las que estarás aquí.",
+          "body": "Salidas de recolección y comida hecha al fuego, reservables para las fechas en las que estará aquí.",
           "cta": "Rutas gastronómicas"
         },
         {
@@ -307,8 +307,8 @@
       "eyebrow": "La guía de bayas · Mora ártica",
       "title": "Mora ártica, el oro",
       "titleHighlight": "terco del pantano.",
-      "subtitle": "En Finlandia la llaman hilla y los lugares donde crece se guardan como claves del banco. Aquí tienes a qué sabe de verdad, por qué cada una se recoge a mano y dónde la encontrarás en Laponia.",
-      "primaryCta": "Aprende a recolectarla",
+      "subtitle": "En Finlandia la llaman hilla y los lugares donde crece se guardan como claves del banco. Aquí tiene a qué sabe de verdad, por qué cada una se recoge a mano y dónde la encontrará en Laponia.",
+      "primaryCta": "Aprenda a recolectarla",
       "secondaryCta": "Todos los ingredientes de Laponia",
       "pills": [
         "Sabor",
@@ -345,7 +345,7 @@
       "headline": "¿A qué sabe la mora ártica?",
       "answer": "Una mora ártica madura es blanda, jugosa y antes ácida que dulce: piensa en un cruce de albaricoque y grosella roja, rematado con un matiz almizclado y meloso que ninguna otra baya tiene. Las semillas son grandes y blandas, y se comen. Fría sabe punzante; templada, se abre su lado de albaricoque.",
       "p2": "La madurez lo decide todo. Una mora ártica roja y firme está verde y es agria hasta fruncir la boca. En su punto se vuelve ámbar, se ablanda y se desprende del tallo casi sola, y esa es la baya que justifica mojarse los pies. Quien recolecta toma las ámbar y deja las rojas para la próxima visita.",
-      "p3": "Rara vez te pondrán delante un cuenco grande de moras frescas. El sabor es intenso y la cosecha pequeña, así que Laponia la sirve donde una cucharada cuenta: sobre <em>leipäjuusto</em> templado, el queso chirriante finlandés, junto a un helado de vainilla o convertida en parfait."
+      "p3": "Rara vez le pondrán delante un cuenco grande de moras frescas. El sabor es intenso y la cosecha pequeña, así que Laponia la sirve donde una cucharada cuenta: sobre <em>leipäjuusto</em> templado, el queso chirriante finlandés, junto a un helado de vainilla o convertida en parfait."
     },
     "season": {
       "kicker": "De mediados de julio a mediados de agosto",
@@ -359,7 +359,7 @@
         },
         {
           "period": "Mediados de julio",
-          "title": "Empieza",
+          "title": "Empiece",
           "body": "Las primeras bayas se ablandan y toman color ámbar, y los puestos del mercado se llenan en días. Los recolectores empiezan a recorrer sus pantanos secretos mañana y tarde."
         },
         {
@@ -371,10 +371,10 @@
     },
     "rights": {
       "kicker": "El derecho de acceso a la naturaleza",
-      "headline": "Cualquiera puede recolectar. Tú también.",
+      "headline": "Cualquiera puede recolectar. Usted también.",
       "p1": "El <em>jokamiehenoikeus</em> finlandés, el derecho de acceso a la naturaleza, permite a cualquier persona recoger bayas silvestres en tierra no cultivada: sin permiso, sin autorización del propietario, sin distinción entre local y visitante. La mora ártica entra de lleno en ese derecho, algo notable para una baya con precio de manjar.",
       "p2": "El derecho viaja con una ética, y con la mora ártica pesa más de lo habitual porque las plantas se recuperan despacio. Toma solo bayas ámbar totalmente maduras, deja las rojas y las pasadas, y nunca despojes una planta entera. En un pantano pequeño, un kilo por familia es más que suficiente.",
-      "ctaPrimary": "Lee todas las reglas de recolección",
+      "ctaPrimary": "Lea todas las reglas de recolección",
       "ctaSecondary": "Ver las recetas con bayas"
     },
     "whyWild": {
@@ -412,7 +412,7 @@
       "items": [
         {
           "title": "Mermelada de mora ártica",
-          "body": "La lakkahillo es el clásico: bayas enteras, semillas incluidas, cocidas con la suavidad justa para que la acidez sobreviva. Los finlandeses la sirven sobre queso chirriante templado, tortitas y helado. Si te llevas de Finlandia un solo recuerdo comestible, que sea este."
+          "body": "La lakkahillo es el clásico: bayas enteras, semillas incluidas, cocidas con la suavidad justa para que la acidez sobreviva. Los finlandeses la sirven sobre queso chirriante templado, tortitas y helado. Si se lleva de Finlandia un solo recuerdo comestible, que sea este."
         },
         {
           "title": "Licor de mora ártica",
@@ -442,28 +442,28 @@
         {
           "n": "03",
           "title": "Un pantano propio",
-          "body": "En temporada, una salida guiada de recolección te lleva al tipo de turbera correcto con alguien que sabe leerla. Fuera de temporada, empieza por nuestra guía de recolección y planifica bien el próximo julio."
+          "body": "En temporada, una salida guiada de recolección le lleva al tipo de turbera correcto con alguien que sabe leerla. Fuera de temporada, empiece por nuestra guía de recolección y planifique bien el próximo julio."
         }
       ],
       "gygCta": "Ver salidas de recolección en GetYourGuide",
       "diningCta": "Ver la guía de alta cocina"
     },
     "nextSteps": {
-      "kicker": "Sigue por aquí",
+      "kicker": "Siga por aquí",
       "headline": "A dónde lleva esto.",
       "items": [
         {
-          "title": "Aprende a recolectar",
-          "body": "El derecho de acceso al detalle, la seguridad en las turberas, qué llevar y cuándo ir: la guía de recolección cubre la parte práctica de recoger tus propias bayas.",
+          "title": "Aprenda a recolectar",
+          "body": "El derecho de acceso al detalle, la seguridad en las turberas, qué llevar y cuándo ir: la guía de recolección cubre la parte práctica de recoger sus propias bayas.",
           "cta": "Guía de recolección"
         },
         {
-          "title": "Cocina las bayas",
+          "title": "Cocine las bayas",
           "body": "El kissel de bayas silvestres, la sopa dulce tradicional, es donde la cocina casera finlandesa aprovecha lo que dio el paseo por el pantano.",
           "cta": "Recetas tradicionales"
         },
         {
-          "title": "Quédate en temporada",
+          "title": "Quédese en temporada",
           "body": "De mediados de julio a mediados de agosto es temporada alta en pantanos, mercados y terrazas por igual. Rovaniemi funciona como base para las tres cosas.",
           "cta": "Ver alojamiento en Rovaniemi"
         }
@@ -487,7 +487,7 @@
         {
           "n": "01",
           "title": "Sigue en el fuego hoy",
-          "body": "Entra en una celebración sami en Inari o Utsjoki y en el fuego hay bidos: el mismo estofado de reno a fuego lento que hacía la abuela de la familia, con los mismos pasos y los mismos cortes."
+          "body": "Entre en una celebración sami en Inari o Utsjoki y en el fuego hay bidos: el mismo estofado de reno a fuego lento que hacía la abuela de la familia, con los mismos pasos y los mismos cortes."
         },
         {
           "n": "02",
@@ -566,15 +566,15 @@
           "Eneldo fresco"
         ],
         "instructions": [
-          "Corta la carne de reno en trozos de 3–4 cm",
-          "Calienta la grasa en una olla de fondo grueso a fuego medio-alto",
-          "Dora bien la carne por todos los lados",
-          "Añade la cebolla y sofríela hasta que esté translúcida",
-          "Vierte agua justo hasta cubrir la carne",
-          "Cocina a fuego lento de 2 a 3 horas, hasta que la carne esté tierna",
-          "Añade las patatas y las zanahorias en la última hora",
-          "Salpimienta generosamente",
-          "Decora con eneldo fresco y sirve"
+          "Corte la carne de reno en trozos de 3–4 cm",
+          "Caliente la grasa en una olla de fondo grueso a fuego medio-alto",
+          "Dore bien la carne por todos los lados",
+          "Añada la cebolla y sofríala hasta que esté translúcida",
+          "Vierta agua justo hasta cubrir la carne",
+          "Cocine a fuego lento de 2 a 3 horas, hasta que la carne esté tierna",
+          "Añada las patatas y las zanahorias en la última hora",
+          "Salpimiente generosamente",
+          "Decore con eneldo fresco y sirva"
         ],
         "tips": "Tradicionalmente se cocina sobre fuego abierto a fuego bajo durante mucho tiempo, la paciencia es el ingrediente secreto."
       },
@@ -594,12 +594,12 @@
           "2 cucharadas de aceite"
         ],
         "instructions": [
-          "Mezcla todos los ingredientes secos",
-          "Añade el agua tibia y el aceite",
-          "Amasa hasta obtener una masa lisa",
-          "Deja levar en un lugar cálido 30 minutos",
-          "Dale forma de hogaza redonda",
-          "Hornea a 225 °C durante 25–30 minutos",
+          "Mezcle todos los ingredientes secos",
+          "Añada el agua tibia y el aceite",
+          "Amase hasta obtener una masa lisa",
+          "Deje levar en un lugar cálido 30 minutos",
+          "Dele forma de hogaza redonda",
+          "Hornee a 225 °C durante 25–30 minutos",
           "El pan está listo cuando suena hueco al golpearlo"
         ],
         "tips": "Tradicionalmente se cocía sobre piedras calientes o al fuego de una hoguera."
@@ -622,17 +622,17 @@
           "Sal y pimienta blanca"
         ],
         "instructions": [
-          "Limpia y filetea el pescado",
-          "Cuece la cabeza y las espinas para hacer el fumet",
-          "Cuela el fumet y devuélvelo a la olla",
-          "Añade las patatas y la zanahoria",
-          "Cocina 15 minutos",
-          "Añade los trozos de pescado y la cebolla",
-          "Cocina otros 10 minutos",
-          "Incorpora la nata y los tallos de eneldo",
-          "Salpimienta con sal y pimienta blanca, añade eneldo fresco al servir"
+          "Limpie y filetee el pescado",
+          "Cueza la cabeza y las espinas para hacer el fumet",
+          "Cuele el fumet y devuélvalo a la olla",
+          "Añada las patatas y la zanahoria",
+          "Cocine 15 minutos",
+          "Añada los trozos de pescado y la cebolla",
+          "Cocine otros 10 minutos",
+          "Incorpore la nata y los tallos de eneldo",
+          "Salpimiente con sal y pimienta blanca, añada eneldo fresco al servir"
         ],
-        "tips": "Truco de toda la vida: añade los tallos de eneldo durante la cocción y las hojas frescas solo al final."
+        "tips": "Truco de toda la vida: añada los tallos de eneldo durante la cocción y las hojas frescas solo al final."
       },
       {
         "name": "Kissel de bayas silvestres",
@@ -649,21 +649,21 @@
           "Azúcar avainillado"
         ],
         "instructions": [
-          "Cuece las bayas en el agua durante 10 minutos",
-          "Tritura y cuela si lo prefieres",
-          "Añade el azúcar y el azúcar avainillado",
-          "Mezcla la fécula de patata con agua fría",
-          "Incorpora la mezcla de fécula al líquido caliente de las bayas",
-          "Cocina 2–3 minutos hasta que espese",
-          "Sirve caliente o frío"
+          "Cueza las bayas en el agua durante 10 minutos",
+          "Triture y cuele si lo prefiere",
+          "Añada el azúcar y el azúcar avainillado",
+          "Mezcle la fécula de patata con agua fría",
+          "Incorpore la mezcla de fécula al líquido caliente de las bayas",
+          "Cocine 2–3 minutos hasta que espese",
+          "Sirva caliente o frío"
         ],
-        "tips": "Tradicionalmente se endulzaba con miel silvestre en vez de azúcar, pruébalo de las dos maneras."
+        "tips": "Tradicionalmente se endulzaba con miel silvestre en vez de azúcar, pruébelo de las dos maneras."
       }
     ],
     "seasons": {
       "kicker": "El calendario sami",
       "headline": "Ocho estaciones, ocho despensas.",
-      "p1": "El calendario de cuatro estaciones es una presunción de la Europa templada. Los samis dividen el año en ocho, cada una ligada a lo que están haciendo los renos, a qué aspecto tiene el lago y a qué está maduro en el bosque. Si quieres entender por qué una cocina sami tiene la pinta que tiene, empiezas aquí.",
+      "p1": "El calendario de cuatro estaciones es una presunción de la Europa templada. Los samis dividen el año en ocho, cada una ligada a lo que están haciendo los renos, a qué aspecto tiene el lago y a qué está maduro en el bosque. Si quiere entender por qué una cocina sami tiene la pinta que tiene, empiece aquí.",
       "p2": "Los nombres de abajo son los originales en sami septentrional. Las fechas son aproximadas, las estaciones de Sápmi se rigen más por la fenología (lo que está haciendo la tierra) que por el calendario.",
       "items": [
         {
@@ -723,9 +723,9 @@
       "p2": "El giro empezó a finales de la década de 2000. La cocina nórdica nueva, lanzada por el Noma de Copenhague, puso brevemente de moda la comida recolectada, hiperlocal e indígena del norte en los comedores de alta cocina de toda Escandinavia. Los chefs finlandeses se dieron cuenta de que la cocina que entusiasmaba al resto del mundo, hierbas silvestres, bayas lactofermentadas, pescado ahumado, caza a fuego lento, llevaba mil años en los platos samis. Durante un tiempo la tubería corrió en sentido contrario: técnicas e ingredientes samis fluyeron hacia los menús degustación de Helsinki.",
       "p3": "Luego el mundo gastronómico sami empezó a reclamar la conversación. El restaurante Aanaar de Inari construyó un programa de alta cocina que es, sin disculpas, primero sami y después gastronómico. El capítulo de Slow Food Sápmi impulsó el estatus protegido de productos tradicionales como el <em>suovas</em> (reno ahumado en frío) y la <em>guompa</em> (angélica fermentada). Los chefs samis empezaron a formar aprendices samis en vez de mandarlos a cocinas francoclásicas. La cumbre Indigenous Terra Madre de 2017 en Inari, encuentro mundial de cocina indígena, fue un punto de inflexión.",
       "p4": "El momento actual es interesante. La comida sami está en menús con estrella Michelin de Helsinki y en la mesa de cada día en Utsjoki, pero las recetas convergen menos de lo que cabría esperar. Las versiones de alta cocina reciben el ascenso técnico, sous-vide, lactofermentación, guarnición de flores silvestres. Las versiones caseras se mantienen casi sin cambios. Ambas son válidas. Las recetas de esta página son las versiones caseras.",
-      "p5Prefix": "Si quieres probar la interpretación de alta cocina, ve a",
+      "p5Prefix": "Si quiere probar la interpretación de alta cocina, vaya a",
       "p5ModernLabel": "Laponia moderna",
-      "p5Mid": ". Si quieres probar la versión casera cocinada por alguien que creció cocinándola, el",
+      "p5Mid": ". Si quiere probar la versión casera cocinada por alguien que creció cocinándola, el",
       "p5ToursLabel": "Viaje gastronómico por la cultura sami",
       "p5Suffix": " de la página de Tours es lo más parecido a una introducción."
     },
@@ -753,7 +753,7 @@
       ]
     },
     "ctaStrip": {
-      "headline": "Cocínalo en casa o deja que alguien te lo enseñe en persona.",
+      "headline": "Cocínelo en casa o deje que alguien se lo enseñe en persona.",
       "tours": "Experiencias culinarias",
       "ingredients": "Ingredientes locales",
       "modern": "Interpretaciones modernas"
@@ -830,7 +830,7 @@
     "techniques": {
       "kicker": "Qué significa de verdad \"nórdico nuevo\"",
       "headline": "Cinco técnicas que aparecen en todos los menús degustación de Laponia.",
-      "lead": "\"Nórdico nuevo\" es un término de marketing para lo que, en el plato, es un conjunto concreto de técnicas de cocción aplicadas a un conjunto concreto de ingredientes. Quita la marca y encuentras las cinco cosas de abajo, es lo que tu menú está haciendo, llame el chef a esto nórdico nuevo, sami moderno, cocina ártica o simplemente cena.",
+      "lead": "\"Nórdico nuevo\" es un término de marketing para lo que, en el plato, es un conjunto concreto de técnicas de cocción aplicadas a un conjunto concreto de ingredientes. Quite la marca y encuentra las cinco cosas de abajo, es lo que su menú está haciendo, llame el chef a esto nórdico nuevo, sami moderno, cocina ártica o simplemente cena.",
       "items": [
         {
           "title": "Lactofermentación",
@@ -838,7 +838,7 @@
         },
         {
           "title": "Sous-vide",
-          "body": "Envasar la proteína al vacío y cocinarla en agua a temperatura controlada exactamente al punto que quieras. La razón por la que tu solomillo de reno está rosado de manera uniforme de borde a borde, sin un anillo gris alrededor del centro. Lento, preciso e indulgente y crucial para un corte tan magro como el reno."
+          "body": "Envasar la proteína al vacío y cocinarla en agua a temperatura controlada exactamente al punto que quiera. La razón por la que su solomillo de reno está rosado de manera uniforme de borde a borde, sin un anillo gris alrededor del centro. Lento, preciso e indulgente y crucial para un corte tan magro como el reno."
         },
         {
           "title": "Curado en frío y ahumado en frío",
@@ -850,7 +850,7 @@
         },
         {
           "title": "Aprovechamiento integral del ingrediente",
-          "body": "Un sello tanto de la comida sami como de la cocina nórdica nueva. El tuétano se vuelve espesante de salsa. Las cabezas de pescado se convierten en caldo. Las pieles de reno van a una curtiduría, no a la basura. Los restaurantes que se lo toman en serio te lo dirán en el menú, \"del hocico al rabo\" y la cuenta lo refleja."
+          "body": "Un sello tanto de la comida sami como de la cocina nórdica nueva. El tuétano se vuelve espesante de salsa. Las cabezas de pescado se convierten en caldo. Las pieles de reno van a una curtiduría, no a la basura. Los restaurantes que se lo toman en serio se lo dirán en el menú, \"del hocico al rabo\" y la cuenta lo refleja."
         }
       ]
     },
@@ -888,7 +888,7 @@
         {
           "n": "03",
           "title": "Sin permisos, sin propietario",
-          "body": "Puedes salir de la carretera al bosque y recoger. Los límites son éticos (no sobreexplotar, no dañar las plantas) y prácticos (saber qué recoges), no legales."
+          "body": "Puede salir de la carretera al bosque y recoger. Los límites son éticos (no sobreexplotar, no dañar las plantas) y prácticos (saber qué recoge), no legales."
         }
       ]
     },
