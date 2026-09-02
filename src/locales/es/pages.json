@@ -894,7 +894,7 @@
     },
     "alert": {
       "kicker": "Lee esto primero",
-      "body": "El envenenamiento por setas es real e irreversible. Si no puedes identificar una seta con un 100 % de certeza, con una guía o, mejor aún, con un experto local, déjala en paz. Para tu primera recolección, reserva un paseo guiado; una tarde con un guía vale más que una temporada de adivinanzas."
+      "body": "El envenenamiento por setas es real e irreversible. Si no puede identificar una seta con un 100 % de certeza, con una guía o, mejor aún, con un experto local, déjela en paz. Para su primera recolección, reserve un paseo guiado; una tarde con un guía vale más que una temporada de adivinanzas."
     },
     "labels": {
       "where": "Dónde crece",
@@ -959,17 +959,17 @@
       "kicker": "Seguridad con las setas",
       "headline": "Lee esto antes de recoger una sola seta.",
       "p1": "La conversación sobre seguridad con las setas en Finlandia es serena, precisa e inflexible. Es el riesgo más controlado de la cultura de recolección. La mayoría de los años, el Centro de Información Toxicológica finlandés atiende unos pocos cientos de llamadas relacionadas con setas; los envenenamientos graves son raros; las escasas muertes se han vinculado a la oronja verde (<em>Amanita phalloides</em>) y al ángel destructor (<em>Amanita virosa</em>). No se parecen: una es verde oliva, el otro blanco puro.",
-      "p2": "<strong>La oronja verde y el ángel destructor están presentes en los bosques finlandeses.</strong> Ambos son mortales incluso en cantidades minúsculas, no hay antídoto y la toxicidad es diferida (te sientes bien durante 6–24 horas y luego el hígado empieza a fallar). El ángel destructor es blanco, parece inofensivo y crece en abetales y abedulares de todo el país, incluida Laponia. Otras setas finlandesas comunes son gástricamente tóxicas, alucinógenas o simplemente desagradables.",
+      "p2": "<strong>La oronja verde y el ángel destructor están presentes en los bosques finlandeses.</strong> Ambos son mortales incluso en cantidades minúsculas, no hay antídoto y la toxicidad es diferida (se siente bien durante 6–24 horas y luego el hígado empieza a fallar). El ángel destructor es blanco, parece inofensivo y crece en abetales y abedulares de todo el país, incluida Laponia. Otras setas finlandesas comunes son gástricamente tóxicas, alucinógenas o simplemente desagradables.",
       "rulesIntro": "<strong>Las cinco reglas que sigue todo recolector finlandés:</strong>",
       "rules": [
-        "Si no estás 100 % seguro de la especie, no al 90 %, no \"parece un boletus\", no la recojas. No hay excepción a esta regla.",
+        "Si no está 100 % seguro de la especie, no al 90 %, no \"parece un boletus\", no la recoja. No hay excepción a esta regla.",
         "Coteja con al menos dos fuentes independientes: una guía, una app de identificación como iNaturalist y, a ser posible, un humano con experiencia.",
         "Fíjate en <em>todo</em>: forma del sombrero, láminas o poros, anillo del pie, base del pie (arranca siempre la seta entera, muchas especies mortales se identifican por la volva de la base), esporada, olor, dónde crece, sobre qué crece.",
         "Nunca recojas guiándote por un solo detalle. Lleva la seta entera a casa y vuelve a comprobarla con buena luz. Si algo es ambiguo, tírala.",
         "Cocina todas las setas silvestres antes de comerlas, incluso las que técnicamente se pueden comer crudas. Esto es una convención finlandesa más que una regla estricta, pero es lo que hace todo recolector con experiencia."
       ],
-      "p4": "<strong>Las cuatro setas que un principiante puede aprender a identificar con seguridad</strong> en una sola tarde con una guía son: el boletus / cep (<em>Boletus edulis</em>), la falsa colmenilla (<em>Gyromitra esculenta</em>, pero <strong>solo tras escaldarla dos veces y desechar el agua</strong>; muchos finlandeses te dirán que está deliciosa, muchos otros te dirán que la evites por completo; ambos tienen razón), el níscalo (<em>Lactarius deliciosus</em>) y el rebozuelo (<em>Cantharellus cibarius</em>). De estas, el boletus y el rebozuelo no tienen parientes peligrosos en Finlandia y son los puntos de partida recomendados.",
-      "p5": "Si vas a recoger setas en Laponia por primera vez, hazlo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible, y en Laponia los paseos suelen dirigirlos recolectores locales que aprendieron esto en casa, no de un guion."
+      "p4": "<strong>Las cuatro setas que un principiante puede aprender a identificar con seguridad</strong> en una sola tarde con una guía son: el boletus / cep (<em>Boletus edulis</em>), la falsa colmenilla (<em>Gyromitra esculenta</em>, pero <strong>solo tras escaldarla dos veces y desechar el agua</strong>; muchos finlandeses le dirán que está deliciosa, muchos otros le dirán que la evite por completo; ambos tienen razón), el níscalo (<em>Lactarius deliciosus</em>) y el rebozuelo (<em>Cantharellus cibarius</em>). De estas, el boletus y el rebozuelo no tienen parientes peligrosos en Finlandia y son los puntos de partida recomendados.",
+      "p5": "Si va a recoger setas en Laponia por primera vez, hágalo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible, y en Laponia los paseos suelen dirigirlos recolectores locales que aprendieron esto en casa, no de un guion."
     },
     "calendar": {
       "kicker": "Calendario de temporada",
@@ -1012,8 +1012,8 @@
     },
     "rights": {
       "kicker": "El derecho de acceso a la naturaleza · las reglas",
-      "headline": "Lo que puedes y no puedes hacer.",
-      "canHeadline": "Puedes:",
+      "headline": "Lo que puede y no puede hacer.",
+      "canHeadline": "Puede:",
       "can": [
         "Caminar, esquiar, ir en bici, montar a caballo y moverte de cualquier otra forma por bosques, prados y terreno no cultivado.",
         "Recoger bayas, setas y flores y hierbas silvestres no protegidas.",
@@ -1022,7 +1022,7 @@
         "Nadar, lavarte y usar el agua de cualquier masa de agua, incluidas las privadas.",
         "Cruzar lagos y ríos helados, ir en motonieve o esquiar por la mayoría del terreno no cultivado (con las reglas específicas de la motonieve)."
       ],
-      "cannotHeadline": "No puedes:",
+      "cannotHeadline": "No puede:",
       "cannot": [
         "Dañar árboles, arrancar raíces, ni coger musgo o líquenes en cantidades comerciales.",
         "Cazar ni poner trampas (requieren licencias aparte).",
@@ -1030,13 +1030,13 @@
         "Encender una hoguera en el terreno de alguien sin permiso. Usa los puntos de fuego señalizados u obtén el visto bueno del propietario.",
         "Recoger de un jardín, huerto o campo cultivado, no son \"terreno no cultivado\".",
         "Molestar la zona inmediata del jardín de una vivienda privada (a la vista de la casa).",
-        "Dejar basura. Lo que entras, te lo llevas."
+        "Dejar basura. Lo que entra, se lo lleva."
       ],
-      "closing": "El principio es acceso sin daño. Los recolectores que respetan el espíritu de la ley encuentran que los propietarios finlandeses son casi siempre relajados con los desconocidos que recogen en su terreno. Los pocos problemas surgen cuando un grupo de recolección daña árboles, deja basura o se acerca demasiado a una vivienda privada. Trata el bosque con cuidado y tendrás acceso a una de las últimas despensas silvestres verdaderamente libres de Europa."
+      "closing": "El principio es acceso sin daño. Los recolectores que respetan el espíritu de la ley encuentran que los propietarios finlandeses son casi siempre relajados con los desconocidos que recogen en su terreno. Los pocos problemas surgen cuando un grupo de recolección daña árboles, deja basura o se acerca demasiado a una vivienda privada. Trate el bosque con cuidado y tendrá acceso a una de las últimas despensas silvestres verdaderamente libres de Europa."
     },
     "guideCta": {
-      "headline": "Una tarde con un guía te ahorra una temporada de adivinanzas.",
-      "lead": "Los paseos de recolección guiados de Laponia no son la versión de excursión en autobús. Suelen dirigirlos recolectores locales, se hacen en grupos pequeños de 6 a 15 personas y empiezan con la charla de seguridad con setas que de verdad necesitas. Terminan cocinando lo que has recogido en una hoguera. La mayoría cuesta menos que un entrante de alta cocina.",
+      "headline": "Una tarde con un guía le ahorra una temporada de adivinanzas.",
+      "lead": "Los paseos de recolección guiados de Laponia no son la versión de excursión en autobús. Suelen dirigirlos recolectores locales, se hacen en grupos pequeños de 6 a 15 personas y empiezan con la charla de seguridad con setas que de verdad necesita. Terminan cocinando lo que ha recogido en una hoguera. La mayoría cuesta menos que un entrante de alta cocina.",
       "cta": "Ver paseos guiados"
     }
   },
@@ -1051,7 +1051,7 @@
       "primaryCta": "Verlas todas en GetYourGuide"
     },
     "intro": {
-      "lead": "Las experiencias gastronómicas de Laponia que merecen tu dinero son las que te ponen delante de la gente que de verdad se dedica a esto.",
+      "lead": "Las experiencias gastronómicas de Laponia que merecen su dinero son las que le ponen delante de la gente que de verdad se dedica a esto.",
       "points": [
         {
           "n": "01",
@@ -1244,7 +1244,7 @@
       ]
     },
     "courseFlow": {
-      "kicker": "Por qué estás pagando en realidad",
+      "kicker": "Por qué está pagando en realidad",
       "headline": "Un menú degustación finlandés, pase a pase.",
       "lead": "La estructura es coherente tanto en las salas Michelin de Helsinki como en las cocinas insignia de Laponia. Conocer la secuencia aproximada ayuda a dosificar el vino, dejar sitio para el postre y no entrar en pánico cuando llega la cuenta.",
       "items": [
@@ -1308,7 +1308,7 @@
         },
         {
           "label": "Elegante informal",
-          "body": "Ningún restaurante de Finlandia te rechazará en vaqueros, pero las salas esperan un esfuerzo. Las zapatillas y las sudaderas desentonan."
+          "body": "Ningún restaurante de Finlandia le rechazará en vaqueros, pero las salas esperan un esfuerzo. Las zapatillas y las sudaderas desentonan."
         }
       ]
     },
@@ -1317,7 +1317,7 @@
       "lead": "Para un viaje de alta cocina, el plan más limpio es un hotel a 10 minutos a pie (o un taxi corto) de donde vayas a comer. Rovaniemi para Nili / Rakas, Inari para Aanaar.",
       "ctaRovaniemi": "Hoteles cerca de Rovaniemi",
       "ctaInari": "Hoteles cerca de Inari",
-      "tourPrefix": "¿Quieres un guía que se encargue del transporte, las reservas y las presentaciones con el chef por ti?",
+      "tourPrefix": "¿Quiere un guía que se encargue del transporte, las reservas y las presentaciones con el chef por usted?",
       "tourLabel": "Reservar un tour de alta cocina ártica"
     }
   },
@@ -1380,7 +1380,7 @@
         },
         {
           "t": "Lo concreto antes que las vibras",
-          "body": "Una afirmación como \"la mejor alta cocina de Laponia\" no significa nada sin concreción. Te decimos qué pedir, cuánto cuesta, cuándo reservar, por dónde entrar. Lo que no podemos concretar, lo dejamos fuera."
+          "body": "Una afirmación como \"la mejor alta cocina de Laponia\" no significa nada sin concreción. Le decimos qué pedir, cuánto cuesta, cuándo reservar, por dónde entrar. Lo que no podemos concretar, lo dejamos fuera."
         },
         {
           "t": "El afiliado no cambia lo editorial",
@@ -1418,7 +1418,7 @@
   },
   "privacy": {
     "title": "Política de privacidad | LaplandFood",
-    "description": "Cómo gestiona LaplandFood tus datos."
+    "description": "Cómo gestiona LaplandFood sus datos."
   },
   "terms": {
     "title": "Condiciones de uso | LaplandFood",
