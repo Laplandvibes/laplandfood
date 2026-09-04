@@ -1,3 +1,6 @@
+import ProductRail, { type RailLang } from '../shared/ads/ProductRail'
+import suomikauppaRail from '../shared/ads/rails/suomikauppa'
+import suomikauppaPicks from '../shared/ads/data/suomikauppaPicks'
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import SEO from '../components/SEO';
@@ -165,6 +168,13 @@ export default function Home() {
         {AD_SLOTS.sponsors?.[1] && (
           <HomeAdSlots config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
         )}
+        {/* Oikea tuoterivi siihen kohtaan jossa tyhjä house-ad-kortti oli (Vesa 4.9.).
+            Tämä sivusto sovelsi "yksi house-ad riittää" -sääntöä jo 10.8. käsin;
+            sama sääntö on nyt jaetussa HomeAdSlotsissa kaikille. Rivi on ehdon
+            ULKOPUOLELLA: se näkyy riippumatta siitä onko kakkospaikka myyty. */}
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+          <ProductRail partner={suomikauppaRail} snapshot={suomikauppaPicks} lang={locale as RailLang} sid="home_finnish_pantry" variant="light" />
+        </div>
 
         {/* Varattavat GYG-tuotteet — korkealla sivulla mutta myytyjen mainospaikkojen ALAPUOLELLA */}
         <GygPicks />
