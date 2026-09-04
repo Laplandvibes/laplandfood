@@ -86,7 +86,7 @@
       {
         "eyebrow": "Guide 04",
         "title": "Foraging Guide",
-        "body": "Bilberry, lingonberry, cloudberry, mushrooms, nettle, meadowsweet: what to pick when, how to identify it, and how to do it sustainably under everyman's right."
+        "body": "Bilberry, lingonberry, cloudberry, mushrooms, nettle, meadowsweet: what to pick when, how to identify it, and how to do it sustainably under everyman’s right."
       },
       {
         "eyebrow": "Guide 05",
@@ -116,7 +116,7 @@
       {
         "n": "03",
         "title": "Whole-animal use",
-        "body": "In Sami food culture nothing on the reindeer is wasted: meat, marrow, blood, fat, hide, bone. Recipes evolved around full utilisation; that is why bidos uses tougher cuts and why blood pancakes (veriletut) became a Finnish staple."
+        "body": "In Sámi food culture nothing on the reindeer is wasted: meat, marrow, blood, fat, hide, bone. Recipes evolved around full utilisation; that is why bidos uses tougher cuts and why blood pancakes (veriletut) became a Finnish staple."
       },
       {
         "n": "04",
@@ -151,7 +151,7 @@
         },
         {
           "question": "Can visitors forage berries and mushrooms in Finland?",
-          "answer": "Yes. Finland's everyman's right (jokamiehenoikeus) lets anyone, citizen or visitor, pick berries, mushrooms and wild herbs on most land, including private forest. Learn mushroom identification before picking, though: deadly species like the death cap and destroying angel grow in Finnish forests. For a first time, a guided foraging walk is the safest way in."
+          "answer": "Yes. Finland's everyman's right (jokamiehenoikeus) lets anyone, citizen or visitor, pick berries, mushrooms and wild herbs on most land, including private forest. Learn mushroom identification before picking, though: deadly species like the death cap and destroying angel grow in Finnish forests. For first-timers, a guided foraging walk is the safest way in."
         },
         {
           "question": "When is cloudberry season in Lapland?",
@@ -195,7 +195,7 @@
       {
         "name": "Reindeer & Venison",
         "season": "Year-round · best Oct–Mar",
-        "description": "The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness, the most important protein in Sami culture for thousands of years.",
+        "description": "The heart of Arctic cuisine. Free-roaming reindeer raised in pristine wilderness, the most important protein in Sámi culture for thousands of years.",
         "nutritional": "High protein, low fat, rich in B12 and iron",
         "uses": "Grilling, drying, smoking, slow-cooked stews"
       },
@@ -209,7 +209,7 @@
       {
         "name": "Wild Mushrooms, Porcini & Milkcaps",
         "season": "July–September",
-        "description": "Forest gold from Lapland's old-growth forests. Traditionally dried for winter preserves.",
+        "description": "Forest gold from Lapland’s old-growth forests. Traditionally dried for winter preserves.",
         "nutritional": "Protein, fibre, vitamin D",
         "uses": "Drying, preserving, soups, sauces"
       },
@@ -246,7 +246,7 @@
       "p2": "The herd is wild in everything but ownership. Reindeer roam freely across enormous stretches of unfenced taiga and tundra, eating what they find: lichen in winter (the diet that gives the meat its specific clean flavour), grasses and herbs in summer, mushroom flushes in autumn. Herders track their animals on snowmobiles and quad bikes, gather them twice a year for ear-marking and (in autumn) selection for slaughter, then let them disperse again.",
       "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. Each cooperative runs its own EU-approved slaughterhouse. Most of the meat is sold within a few hundred kilometres of where the animal lived, to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
       "p4": "<strong>The cuts you'll see on a Lapland menu</strong> map roughly to a beef vocabulary: <em>fileé</em> (fillet, sous-vide territory), <em>sisäpaisti / ulkopaisti</em> (silverside / topside, roasted whole or sliced for hot-smoked dishes), <em>poronkäristys</em> (sautéed reindeer, the everyday Finnish workhorse, thin slices, butter, salt, served on mash with lingonberry), and <em>suovas</em> (cold-smoked saddle, eaten in slivers with rye bread). Bidos uses tougher stewing cuts, typically shoulder and shank, which is why it cooks for hours.",
-      "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu: no feedlot, no antibiotics, no enclosed grazing, a native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to supplementally feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade.",
+      "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu: no feedlot, no antibiotics, no enclosed grazing, a native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to provide supplementary feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade.",
       "tasteQ": "What does reindeer taste like?",
       "tasteA1": "Milder than most game. Reindeer is lean and fine-grained, closer to a good beef fillet than to strong venison, with a clean, faintly sweet depth that comes from a life of grazing lichen and fell herbs. Because there is almost no fat, it is cooked gently and served rare to medium.",
       "tasteA2": "The classic first meeting is poronkäristys: thin shavings sautéed in butter, served over mashed potato with lingonberries. At festive tables it becomes bidos, the slow Sámi stew, and out on the fells it is suovas, salted and lightly cold-smoked over a fire."
@@ -301,7 +301,7 @@
     }
   },
   "cloudberry": {
-    "title": "Cloudberry: The Arctic Berry No One Can Farm",
+    "title": "Amora-ártica: a fruta selvagem que ninguém consegue cultivar",
     "description": "What cloudberries taste like, when the short Lapland season peaks, why farming keeps failing, what a kilo costs in Rovaniemi and where to taste hilla.",
     "hero": {
       "eyebrow": "The berry guide · Cloudberry",

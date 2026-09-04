@@ -81,7 +81,7 @@
       {
         "eyebrow": "Guia 03",
         "title": "Lapônia moderna",
-        "body": "Como uma nova geração de chefs cozinha os mesmos ingredientes com sous-vide, fermentação e técnica nórdica nova. Onde provar."
+        "body": "Como uma nova geração de chefs …fermentação e nova técnica nórdica. Onde provar."
       },
       {
         "eyebrow": "Guia 04",
@@ -101,7 +101,7 @@
     ],
     "cultureKicker": "Por que tem o gosto que tem",
     "cultureHeadline": "Quatro coisas que tornam a comida finlandesa finlandesa.",
-    "cultureLead": "Tire as modas e quase toda a culinária finlandesa ainda se apoia nestes quatro fundamentos. Eles explicam tudo, do porquê de seu café da manhã de hotel ter pão crocante de centeio ao porquê de um menu degustação de alta gastronomia começar com peixe curado em zimbro.",
+    "cultureLead": "Deixando de lado as modas, quase toda a culinária finlandesa ainda se apoia nestes quatro fundamentos. Eles explicam tudo, do porquê de seu café da manhã de hotel ter pão crocante de centeio ao porquê de um menu degustação de alta gastronomia começar com peixe curado em zimbro.",
     "culture": [
       {
         "n": "01",
@@ -116,7 +116,7 @@
       {
         "n": "03",
         "title": "Aproveitamento integral do animal",
-        "body": "Na cultura gastronômica sámi nada da rena é desperdiçado: carne, tutano, sangue, gordura, couro, osso. As receitas evoluíram em torno do aproveitamento total, por isso o bidos usa cortes mais duros e por isso as panquecas de sangue (veriletut) viraram um clássico finlandês."
+        "body": "Na cultura gastronômica sámi nada da rena é desperdiçado: carne, tutano, sangue, gordura, pele, osso. As receitas evoluíram em torno do aproveitamento total, por isso o bidos usa cortes mais duros e por isso as panquecas de sangue (veriletut) viraram um clássico finlandês."
       },
       {
         "n": "04",
@@ -127,7 +127,7 @@
     "summer": {
       "kicker": "6 de junho – 7 de julho em Rovaniemi · 32 dias de sol da meia-noite",
       "headline": "A janela gastronômica do sol da meia-noite.",
-      "lead": "As amoras árticas amadurecem, o peixe de lago atinge o auge, os canteiros de ervas explodem e o sol não se põe. Por quatro semanas, as cozinhas da Lapônia trocam o reforço pesado do inverno pelo produto mais leve e luminoso do ano. Se você vier só uma vez, venha agora.",
+      "lead": "As amoras árticas amadurecem, o peixe de lago atinge o auge, os canteiros de ervas explodem e o sol não se põe. Por quatro semanas, as cozinhas da Lapônia trocam as conservas pesadas do inverno pelo produto mais leve e luminoso do ano. Se você vier só uma vez, venha agora.",
       "cta": "O que está na estação →"
     },
     "faq": {
@@ -143,7 +143,7 @@
         },
         {
           "question": "A Finlândia tem restaurantes com estrela Michelin?",
-          "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas suas cozinhas de ponta, Nili, Aanaar, Rakas, estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar."
+          "answer": "Tem. O Guia Michelin cobre a Finlândia, e os restaurantes estrelados das últimas edições nórdicas ficam todos em Helsinque. A Lapônia não tem estrela no momento, mas seus restaurantes de ponta, Nili, Aanaar, Rakas, estão elevando o menu degustação dentro do Círculo Polar Ártico. A lista de estrelas muda todo ano: confira o guia atual antes de reservar."
         },
         {
           "question": "O que é a comida sámi?",
@@ -151,7 +151,7 @@
         },
         {
           "question": "Visitantes podem colher frutas e cogumelos na Finlândia?",
-          "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa, moradora ou visitante, colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a cicuta-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura."
+          "answer": "Podem. O direito de todos (jokamiehenoikeus) permite que qualquer pessoa, moradora ou visitante, colha frutas silvestres, cogumelos e ervas em quase qualquer terreno, inclusive florestas particulares. Mas aprenda a identificar cogumelos antes: espécies letais como a amanita-verde (Amanita phalloides) crescem nas florestas finlandesas. Na primeira vez, um passeio guiado de coleta é a entrada mais segura."
         },
         {
           "question": "Quando é a temporada de amora ártica na Lapônia?",
@@ -196,7 +196,7 @@
         "name": "Rena e caça",
         "season": "O ano todo · melhor de out. a mar.",
         "description": "O coração da cozinha ártica. Renas em liberdade criadas em natureza intocada, a proteína mais importante da cultura sámi há milhares de anos.",
-        "nutritional": "Rica em proteína, baixa em gordura, rica em B12 e ferro",
+        "nutritional": "Rica em proteína, baixa em gordura, com B12 e ferro",
         "uses": "Na grelha, secagem, defumação, ensopados em fogo baixo"
       },
       {
@@ -245,7 +245,7 @@
       "p1": "A indústria da rena na Finlândia é regulada pela Lei de Pastoreio de Renas, que restringe a propriedade a pessoas domiciliadas na área de pastoreio (na prática, o norte da Finlândia). Os animais pertencem a pastores individuais, mas pastam juntos em cooperativas, <em>paliskunnat</em>, que compartilham território e trabalho. Há cerca de 200.000 renas em aproximadamente 54 cooperativas, todas na Lapônia e em partes da Ostrobótnia do Norte.",
       "p2": "O rebanho é selvagem em tudo menos na propriedade. As renas vagam livremente por enormes extensões de taiga e tundra sem cercas, comendo o que encontram: líquens no inverno (a dieta que dá à carne seu sabor limpo e característico), gramíneas e ervas no verão, brotos de cogumelos no outono. Os pastores acompanham os animais de moto de neve e quadriciclo, reúnem-nos duas vezes por ano para marcar as orelhas e (no outono) selecionar os que irão ao abate, e depois os deixam se dispersar de novo.",
       "p3": "O abate acontece no outono, normalmente entre outubro e novembro, quando os animais estão no peso máximo. Cada cooperativa opera o próprio abatedouro aprovado pela UE. A maior parte da carne é vendida a algumas centenas de quilômetros de onde o animal viveu, para restaurantes da Lapônia, para açougues especializados em Helsinque e no resto do sul da Finlândia, e para um mercado de exportação pequeno, mas sério, na Europa Central.",
-      "p4": "<strong>Os cortes que você verá num cardápio da Lapônia</strong> correspondem, em linhas gerais, ao vocabulário do boi: <em>fileé</em> (filé, território de sous-vide), <em>sisäpaisti / ulkopaisti</em> (coxão mole / coxão duro, assados inteiros ou fatiados para pratos defumados a quente), <em>poronkäristys</em> (rena salteada, o prato do dia a dia por excelência, fatias finas, manteiga, sal, servido sobre purê com airela-vermelha) e <em>suovas</em> (lombo defumado a frio, comido em lascas com pão de centeio). O bidos usa cortes de ensopado mais duros, geralmente paleta e músculo e por isso cozinha por horas.",
+      "p4": "<strong>Os cortes que você verá num cardápio da Lapônia</strong> correspondem, em linhas gerais, ao vocabulário do boi: <em>fileé</em> (filé, território de sous-vide), <em>sisäpaisti / ulkopaisti</em> (coxão mole / coxão duro, assados inteiros ou fatiados para pratos defumados a quente), <em>poronkäristys</em> (rena salteada, o prato do dia a dia por excelência, fatias finas, manteiga, sal, servido sobre purê com airela-vermelha) e <em>suovas</em> (lombo defumado a frio, comido em lascas com pão de centeio). O bidos usa cortes de ensopado mais duros, geralmente paleta e músculo, e por isso cozinha por horas.",
       "p5": "Do ponto de vista ético, a rena de criação livre pastoreada pelos sámi é uma das proteínas mais sustentáveis de um cardápio europeu, sem confinamento, sem antibióticos, sem pastagem cercada, dieta natural. A complicação é o clima: os invernos na Lapônia estão ficando mais úmidos, camadas de gelo se formam sobre a neve, as renas não conseguem cavar até os líquens e os pastores precisam alimentá-las de forma complementar em algumas cooperativas. Isso muda a cadeia de fornecimento e, aos poucos, o sabor. É uma história para acompanhar na próxima década.",
       "tasteQ": "Qual é o gosto da carne de rena?",
       "tasteA1": "Mais suave que a maioria das carnes de caça. A rena é magra e de fibra fina, mais próxima de um bom filé bovino do que de uma caça intensa, com uma profundidade limpa e levemente adocicada que vem do líquen e das ervas das montanhas. Como quase não tem gordura, é cozida com cuidado e servida malpassada ao ponto.",

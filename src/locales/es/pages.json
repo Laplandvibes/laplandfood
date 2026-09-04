@@ -59,7 +59,7 @@
     },
     "pillarsKicker": "Las seis guías",
     "pillarsHeadline": "Empiece por aquí.",
-    "pillarsLead": "Seis mapas de la cultura gastronómica finlandesa. Elige uno y profundiza, cada página enlaza con las demás.",
+    "pillarsLead": "Seis mapas de la cultura gastronómica finlandesa. Elija uno y profundice, cada página enlaza con las demás.",
     "readLabel": "Leer",
     "stats": {
       "ingredients": "Ingredientes silvestres",
@@ -81,12 +81,12 @@
       {
         "eyebrow": "Guía 03",
         "title": "Laponia moderna",
-        "body": "Cómo una nueva generación de chefs cocina los mismos ingredientes con técnicas de sous-vide, fermentación y la cocina nórdica nueva. Dónde probarlo."
+        "body": "Cómo una nueva generación de chefs cocina los mismos ingredientes con técnicas de sous-vide, fermentación y la nueva cocina nórdica. Dónde probarlo."
       },
       {
         "eyebrow": "Guía 04",
         "title": "Guía de recolección",
-        "body": "Arándano, arándano rojo, mora ártica, setas, ortiga, ulmaria, qué recoger en cada momento, cómo identificarlo y cómo hacerlo de forma sostenible amparándote en el derecho de acceso a la naturaleza."
+        "body": "Arándano, arándano rojo, mora ártica, setas, ortiga, ulmaria, qué recoger en cada momento, cómo identificarlo y cómo hacerlo de forma sostenible amparándose en el derecho de acceso a la naturaleza."
       },
       {
         "eyebrow": "Guía 05",
@@ -101,7 +101,7 @@
     ],
     "cultureKicker": "Por qué sabe a lo que sabe",
     "cultureHeadline": "Cuatro cosas que hacen finlandesa a la comida finlandesa.",
-    "cultureLead": "Quite las modas y casi toda la cocina finlandesa sigue apoyándose en estos cuatro pilares. Explican todo, desde por qué su desayuno de hotel lleva pan crujiente de centeno hasta por qué un menú degustación de alta cocina empieza con pescado curado en enebro.",
+    "cultureLead": "Dejando de lado las modas, casi toda la cocina finlandesa sigue apoyándose en estos cuatro pilares. Explican todo, desde por qué su desayuno de hotel lleva pan crujiente de centeno hasta por qué un menú degustación de alta cocina empieza con pescado curado en enebro.",
     "culture": [
       {
         "n": "01",
@@ -139,11 +139,11 @@
       "items": [
         {
           "question": "¿Cómo es la comida tradicional finlandesa?",
-          "answer": "La cocina tradicional finlandesa se basa en lo que crece, nada o pasta cerca de casa: pan de centeno, pescado de agua dulce, reno, bayas silvestres como el arándano, el arándano rojo y la mora de los pantanos, setas recolectadas y lácteos. Es una cocina de temporada, poco condimentada y centrada en el ingrediente más que en la técnica."
+          "answer": "La cocina tradicional finlandesa se basa en lo que crece, nada o pasta cerca de casa: pan de centeno, pescado de agua dulce, reno, bayas silvestres como el arándano, el arándano rojo y la mora ártica, setas recolectadas y lácteos. Es una cocina de temporada, poco condimentada y centrada en el ingrediente más que en la técnica."
         },
         {
           "question": "¿Hay restaurantes con estrella Michelin en Finlandia?",
-          "answer": "Sí. La Guía Michelin cubre Finlandia, y los restaurantes con estrella de las últimas ediciones nórdicas han estado todos en Helsinki. Laponia no tiene actualmente ninguna estrella, pero sus cocinas insignia, Nili, Aanaar, Rakas, están impulsando el menú degustación dentro del Círculo Polar Ártico. La lista de estrellas cambia cada año: consulta la guía vigente antes de reservar."
+          "answer": "Sí. La Guía Michelin cubre Finlandia, y los restaurantes con estrella de las últimas ediciones nórdicas han estado todos en Helsinki. Laponia no tiene actualmente ninguna estrella, pero sus restaurantes insignia, Nili, Aanaar, Rakas, están impulsando el menú degustación dentro del Círculo Polar Ártico. La lista de estrellas cambia cada año: consulta la guía vigente antes de reservar."
         },
         {
           "question": "¿Qué es la comida sami?",
@@ -154,7 +154,7 @@
           "answer": "Sí. El derecho de acceso universal finlandés (jokamiehenoikeus) permite a cualquiera, ciudadano o visitante, recoger bayas, setas y hierbas silvestres en casi cualquier terreno, incluidos los bosques privados. Eso sí, aprende a identificar las setas antes: en los bosques finlandeses crecen especies mortales como la oronja verde. Para la primera vez, un paseo de recolección guiado es la entrada más segura."
         },
         {
-          "question": "¿Cuándo es la temporada de la mora de los pantanos en Laponia?",
+          "question": "¿Cuándo es la temporada de la mora ártica en Laponia?",
           "answer": "Aproximadamente de mediados de julio a mediados de agosto, con una ventana intensa de recolección de unas tres semanas según la turbera. La mora de los pantanos solo crece en turberas árticas frías y se resiste al cultivo: por eso es la baya silvestre más apreciada y más cara de Laponia."
         }
       ]
@@ -245,7 +245,7 @@
       "p1": "La industria del reno en Finlandia está regulada por la Ley de Pastoreo de Renos, que restringe la propiedad a personas domiciliadas en la zona de pastoreo (en la práctica, el norte de Finlandia). Los animales pertenecen a pastores individuales, pero pastan juntos en cooperativas, <em>paliskunnat</em>, que comparten territorio y trabajo. Hay unos 200.000 renos repartidos en aproximadamente 54 cooperativas, todas en Laponia y partes de Ostrobotnia del Norte.",
       "p2": "El rebaño es salvaje en todo salvo en la propiedad. Los renos vagan libremente por enormes extensiones de taiga y tundra sin vallar, comiendo lo que encuentran: líquenes en invierno (la dieta que da a la carne su sabor limpio y característico), hierbas y plantas en verano, brotes de setas en otoño. Los pastores siguen a sus animales en motonieve y quad, los reúnen dos veces al año para marcarlos en la oreja y (en otoño) para seleccionar los que irán al sacrificio, y luego los dejan dispersarse de nuevo.",
       "p3": "El sacrificio se hace en otoño, normalmente entre octubre y noviembre, cuando los animales están en su peso máximo. Cada cooperativa gestiona su propio matadero homologado por la UE. La mayor parte de la carne se vende a unos pocos cientos de kilómetros de donde vivió el animal, a restaurantes de Laponia, a carnicerías especializadas de Helsinki y del resto del sur de Finlandia, y a un mercado de exportación pequeño pero serio en Centroeuropa.",
-      "p4": "<strong>Los cortes que verá en un menú de Laponia</strong> se corresponden, a grandes rasgos, con el vocabulario del vacuno: <em>fileé</em> (solomillo, territorio de sous-vide), <em>sisäpaisti / ulkopaisti</em> (contra / tapa, asados enteros o en lonchas para platos ahumados en caliente), <em>poronkäristys</em> (reno salteado, el plato cotidiano por excelencia, lonchas finas, mantequilla, sal, servido sobre puré con arándano rojo) y <em>suovas</em> (lomo ahumado en frío, comido en lascas con pan de centeno). El bidos usa cortes de guiso más duros, normalmente paletilla y morcillo y por eso se cocina durante horas.",
+      "p4": "<strong>Los cortes que verá en un menú de Laponia</strong> se corresponden, a grandes rasgos, con el vocabulario del vacuno: <em>fileé</em> (solomillo, territorio de sous-vide), <em>sisäpaisti / ulkopaisti</em> (contra / tapa, asados enteros o en lonchas para platos ahumados en caliente), <em>poronkäristys</em> (reno salteado, el plato cotidiano por excelencia, lonchas finas, mantequilla, sal, servido sobre puré con arándano rojo) y <em>suovas</em> (lomo ahumado en frío, comido en lascas con pan de centeno). El bidos usa cortes de guiso más duros, normalmente paletilla y morcillo, y por eso se cocina durante horas.",
       "p5": "Desde el punto de vista ético, el reno en libertad pastoreado por los samis es una de las proteínas más sostenibles de un menú europeo, sin cebadero, sin antibióticos, sin pastoreo cerrado, dieta natural. La complicación es el clima: los inviernos en Laponia son cada vez más húmedos, se forman capas de hielo sobre la nieve, los renos no pueden escarbar hasta los líquenes y los pastores se ven obligados a alimentarlos de forma complementaria en algunas cooperativas. Eso cambia la cadena de suministro y, poco a poco, el sabor. Es una historia que conviene vigilar durante la próxima década.",
       "tasteQ": "¿A qué sabe el reno?",
       "tasteA1": "Más suave que la mayoría de las carnes de caza. El reno es magro y de grano fino, más cercano a un buen solomillo de ternera que a una caza intensa, con una profundidad limpia y levemente dulce que viene del liquen y las hierbas del monte. Como casi no tiene grasa, se cocina con cuidado y se sirve poco hecho o al punto.",

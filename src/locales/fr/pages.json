@@ -81,7 +81,7 @@
       {
         "eyebrow": "Guide 03",
         "title": "Laponie moderne",
-        "body": "Comment une nouvelle génération de chefs cuisine les mêmes ingrédients avec le sous-vide, la fermentation et la technique New Nordic. Et où aller les goûter."
+        "body": "Comment une nouvelle génération de chefs cuisine les mêmes ingrédients avec le sous-vide, la fermentation et la technique de la nouvelle cuisine nordique. Et où aller les goûter."
       },
       {
         "eyebrow": "Guide 04",
@@ -91,7 +91,7 @@
       {
         "eyebrow": "Guide 05",
         "title": "Michelin & haute gastronomie",
-        "body": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, et qui pousse la haute gastronomie à l'intérieur du cercle polaire."
+        "body": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, et qui pousse la haute gastronomie à l'intérieur du Cercle polaire arctique."
       },
       {
         "eyebrow": "Guide 06",
@@ -101,7 +101,7 @@
     ],
     "cultureKicker": "Pourquoi ça a ce goût",
     "cultureHeadline": "Quatre choses qui font que la cuisine finlandaise est finlandaise.",
-    "cultureLead": "Retirez les modes et la cuisine finlandaise repose toujours sur ces quatre fondations. Elles expliquent à la fois pourquoi votre petit-déjeuner d'hôtel comprend du pain croustillant de seigle et pourquoi un menu dégustation commence par un poisson au genévrier.",
+    "cultureLead": "Une fois les modes écartées, la cuisine finlandaise repose toujours sur ces quatre fondations. Elles expliquent à la fois pourquoi votre petit-déjeuner d'hôtel comprend du pain croustillant de seigle et pourquoi un menu dégustation commence par un poisson au genévrier.",
     "culture": [
       {
         "n": "01",
@@ -143,7 +143,7 @@
         },
         {
           "question": "Y a-t-il des restaurants étoilés Michelin en Finlande ?",
-          "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses cuisines phares, Nili, Aanaar, Rakas, font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver."
+          "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses tables phares, Nili, Aanaar, Rakas, font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver."
         },
         {
           "question": "Qu’est-ce que la cuisine sâme ?",
@@ -172,7 +172,7 @@
       "secondaryCta": "Recettes qui les utilisent"
     },
     "intro": {
-      "lead": "Le garde-manger lapon est réduit. C’est sa force.",
+      "lead": "Le garde-manger lapon est petit. C’est sa force.",
       "points": [
         {
           "n": "01",
@@ -246,7 +246,7 @@
       "p2": "Le troupeau est sauvage en tout sauf en propriété. Les rennes parcourent librement d'immenses étendues de taïga et de toundra non clôturées, mangeant ce qu'ils trouvent : lichen en hiver (le régime qui donne à la viande sa saveur propre et spécifique), herbes et plantes en été, champignons en automne. Les éleveurs suivent leurs animaux en motoneige et en quad, les rassemblent deux fois par an pour le marquage des oreilles et (à l'automne) pour la sélection à l'abattage, puis les laissent se disperser à nouveau.",
       "p3": "L'abattage a lieu en automne, généralement en octobre-novembre, lorsque les animaux sont à leur poids optimal. Chaque coopérative gère son propre abattoir agréé UE. La majorité de la viande est vendue dans un rayon de quelques centaines de kilomètres autour de là où l'animal a vécu, aux restaurants lapons, à des bouchers spécialisés à Helsinki et dans le reste du sud de la Finlande, et à un marché d'exportation modeste mais sérieux en Europe centrale.",
       "p4": "<strong>Les morceaux que vous verrez sur un menu lapon</strong> correspondent à peu près à un vocabulaire bovin : <em>fileé</em> (filet, terrain du sous-vide), <em>sisäpaisti / ulkopaisti</em> (gîte / aiguillette, rôtis entiers ou tranchés pour les plats fumés à chaud), <em>poronkäristys</em> (sauté de renne, le cheval de bataille quotidien finlandais, fines tranches, beurre, sel, servies sur purée avec airelles) et <em>suovas</em> (selle fumée à froid, mangée en lamelles avec du pain de seigle). Le bidos utilise des morceaux à mijoter plus fermes, généralement épaule et jarret, ce qui explique pourquoi il cuit pendant des heures.",
-      "p5": "Sur le plan éthique, le renne sâme en liberté est l'une des protéines les plus durables d'un menu européen, pas d'élevage intensif, pas d'antibiotiques, pas de pâturage clos, alimentation native. La complication est climatique : les hivers lapons deviennent plus humides, des couches de glace se forment sur la neige, les rennes ne peuvent plus gratter pour atteindre le lichen, et les éleveurs doivent compléter l'alimentation dans certaines coopératives. Cela modifie la chaîne d'approvisionnement et, lentement, la saveur. C'est une histoire à suivre sur la prochaine décennie.",
+      "p5": "Sur le plan éthique, le renne sâme en liberté est l'une des protéines les plus durables d'un menu européen, pas d'élevage intensif, pas d'antibiotiques, pas de pâturage clos, alimentation naturelle. La complication est climatique : les hivers lapons deviennent plus humides, des couches de glace se forment sur la neige, les rennes ne peuvent plus gratter pour atteindre le lichen, et les éleveurs doivent compléter l'alimentation dans certaines coopératives. Cela modifie la chaîne d'approvisionnement et, lentement, la saveur. C'est une histoire à suivre sur la prochaine décennie.",
       "tasteQ": "Quel goût a le renne ?",
       "tasteA1": "Plus doux que la plupart des gibiers. Le renne est maigre, à grain fin, plus proche d’un bon filet de bœuf que d’un gibier corsé, avec une profondeur nette, légèrement sucrée, venue du lichen et des herbes des fjells. Presque sans gras, il se cuit doucement et se sert saignant à point.",
       "tasteA2": "La première rencontre classique, c’est le poronkäristys : de fins copeaux sautés au beurre, servis sur une purée avec des airelles. Aux repas de fête il devient bidos, le ragoût sâme mijoté, et près du feu suovas, salé et légèrement fumé à froid."
@@ -1124,7 +1124,7 @@
       "eyebrow": "Guide 05 · Michelin",
       "title": "Michelin",
       "titleHighlight": "& haute gastronomie.",
-      "subtitle": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, qui pousse la haute gastronomie à l'intérieur du cercle polaire, et comment réserver une table.",
+      "subtitle": "La scène Michelin finlandaise d'un coup d'œil : qui est étoilé, où, qui pousse la haute gastronomie à l'intérieur du Cercle polaire arctique, et comment réserver une table.",
       "primaryCta": "Où réserver en Laponie",
       "secondaryCta": "Salles d'Helsinki"
     },
@@ -1139,7 +1139,7 @@
       },
       {
         "title": "La Laponie est gastronomiquement ambitieuse",
-        "body": "La Laponie elle-même ne détient pas d'étoile Michelin actuellement, mais ses restaurants premium, Nili, Aanaar, Rakas, repoussent ce à quoi peut ressembler une soirée menu dégustation à l'intérieur du cercle polaire, avec des ingrédients cueillis qu'aucune cuisine d'Helsinki ne peut égaler en fraîcheur."
+        "body": "La Laponie elle-même ne détient pas d'étoile Michelin actuellement, mais ses restaurants premium, Nili, Aanaar, Rakas, repoussent ce à quoi peut ressembler une soirée menu dégustation à l'intérieur du Cercle polaire arctique, avec des ingrédients cueillis qu'aucune cuisine d'Helsinki ne peut égaler en fraîcheur."
       },
       {
         "title": "Les réservations comptent",

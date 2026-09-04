@@ -81,12 +81,12 @@
       {
         "eyebrow": "Opas 03",
         "title": "Moderni Lappi",
-        "body": "Miten uusi sukupolvi kokkeja kokkaa samat raaka-aineet sous vide -tekniikalla, fermentoinnilla ja New Nordic -otteella. Missä maistat sen."
+        "body": "Miten uusi sukupolvi kokkeja kokkaa samat raaka-aineet sous vide -tekniikalla, fermentoinnilla ja New Nordic -otteella. Missä sitä maistaa."
       },
       {
         "eyebrow": "Opas 04",
         "title": "Keräilyopas",
-        "body": "Mustikka, puolukka, hilla, sienet, nokkonen, mesiangervo: milloin poimit, miten tunnistat ja miten teet sen kestävästi jokamiehenoikeudella."
+        "body": "Mustikka, puolukka, hilla, sienet, nokkonen, mesiangervo: milloin poimia, miten tunnistaa ja miten tehdä se kestävästi jokamiehenoikeudella."
       },
       {
         "eyebrow": "Opas 05",
@@ -101,7 +101,7 @@
     ],
     "cultureKicker": "Miksi se maistuu juuri tältä",
     "cultureHeadline": "Neljä asiaa, jotka tekevät suomalaisesta ruoasta suomalaista.",
-    "cultureLead": "Kun trendit riisutaan pois, suurin osa suomalaisesta ruoasta lepää näiden neljän perusasian varassa. Ne selittävät kaiken, siitä miksi hotelliaamiaisellasi on näkkileipää siihen, miksi fine dining -menun aloittaa katajalla suolattu kala.",
+    "cultureLead": "Kun trendit riisutaan pois, suurin osa suomalaisesta ruoasta lepää näiden neljän perusasian varassa. Ne selittävät kaiken siitä, miksi hotelliaamiaisellasi on näkkileipää, siihen, miksi fine dining -menun aloittaa katajalla suolattu kala.",
     "culture": [
       {
         "n": "01",
@@ -116,12 +116,12 @@
       {
         "n": "03",
         "title": "Koko eläin käyttöön",
-        "body": "Saamelaisessa ruokakulttuurissa porosta ei mene mitään hukkaan: liha, ydin, veri, rasva, nahka, luut. Reseptit kehittyivät täyskäytön ympärille, siksi bidos käyttää sitkeämpiä paloja ja siksi veriletut tulivat suomalaiseksi perusasiaksi."
+        "body": "Saamelaisessa ruokakulttuurissa porosta ei mene mitään hukkaan: liha, ydin, veri, rasva, nahka, luut. Reseptit kehittyivät täyskäytön ympärille, siksi bidos käyttää sitkeämpiä paloja ja siksi veriletut tulivat suomalaiseksi perusruoaksi."
       },
       {
         "n": "04",
         "title": "Kevyesti maustettua, raaka-ainevetoista",
-        "body": "Suomalainen ruoka harvoin huutaa. Maut ovat tilliä, katajaa, voita, suolaa ja itse raaka-aine. Kokkaus on rakennettu niin, että raaka-aine pääsee ääneen, hiljainen vastakohta etelämmän kovempiäänisille keittiöille."
+        "body": "Suomalainen ruoka harvoin huutaa. Maut ovat tilliä, katajaa, voita, suolaa ja itse raaka-ainetta. Kokkaus on rakennettu niin, että raaka-aine pääsee ääneen, hiljainen vastakohta etelämmille, kovempiäänisille keittiöille."
       }
     ],
     "summer": {
@@ -143,11 +143,11 @@
         },
         {
           "question": "Onko Suomessa Michelin-tähtiravintoloita?",
-          "answer": "Kyllä. Michelin-opas kattaa Suomen, ja viime vuosien Pohjoismaiden oppaissa kaikki Suomen tähtiravintolat ovat olleet Helsingissä. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt, Nili, Aanaar, Rakas, vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta."
+          "answer": "Kyllä. Michelin-opas kattaa Suomen, ja viime vuosien Pohjoismaiden oppaissa kaikki Suomen tähtiravintolat ovat olleet Helsingissä. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt (Nili, Aanaar, Rakas) vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta."
         },
         {
           "question": "Mitä on saamelainen ruoka?",
-          "answer": "Saamelainen ruoka on Saamenmaan eli Sápmin, Pohjois-Suomen, Ruotsin, Norjan ja Venäjän, alkuperäiskansan keittiötä. Sen ytimessä ovat poro, josta käytetään kaikki osat, arktiset kalat, kerätyt marjat ja yrtit sekä hitaat kypsennystavat kuten bidos-pata. Reseptit seuraavat saamelaisten kahdeksan vuodenajan kalenteria."
+          "answer": "Saamelainen ruoka on Saamenmaan eli Sápmin alkuperäiskansan keittiötä; alue kattaa Pohjois-Suomen, Ruotsin, Norjan ja Venäjän. Sen ytimessä ovat poro, josta käytetään kaikki osat, arktiset kalat, kerätyt marjat ja yrtit sekä hitaat kypsennystavat kuten bidos-pata. Reseptit seuraavat saamelaisten kahdeksan vuodenajan kalenteria."
         },
         {
           "question": "Saavatko matkailijat poimia marjoja ja sieniä Suomessa?",
@@ -197,19 +197,19 @@
         "season": "Ympäri vuoden · paras loka–maalis",
         "description": "Arktisen keittiön sydän. Vapaana liikkuva poro kasvaa puhtaassa erämaassa, saamelaisen kulttuurin tärkein proteiini tuhansien vuosien ajan.",
         "nutritional": "Runsaasti proteiinia, vähän rasvaa, B12-vitamiinia ja rautaa",
-        "uses": "Grillaus, kuivaus, savustus, hidasta haudutusta"
+        "uses": "Grillaus, kuivaus, savustus, hidas haudutus"
       },
       {
         "name": "Mustikat ja puolukat",
         "season": "Elo–syyskuu",
         "description": "Arktiset supermarjat täynnä antioksidantteja. Kasvavat villinä keskiyön auringon alla tunturissa ja boreaalisessa metsässä.",
-        "nutritional": "Antioksidantit, C-vitamiini, ravintokuitu",
+        "nutritional": "Antioksidantteja, C-vitamiinia, ravintokuitua",
         "uses": "Hillot, mehut, leivonta, kuivatus"
       },
       {
         "name": "Villisienet, herkkutatti ja rouskut",
         "season": "Heinä–syyskuu",
-        "description": "Metsän kultaa Lapin ikimetsistä. Perinteisesti kuivataan talven säilykkeisiin.",
+        "description": "Metsän kulta Lapin ikimetsistä. Perinteisesti kuivataan talven säilykkeisiin.",
         "nutritional": "Proteiinia, kuitua, D-vitamiinia",
         "uses": "Kuivatus, säilöntä, keitot, kastikkeet"
       },
@@ -242,13 +242,13 @@
     "reindeerDeep": {
       "kicker": "Syvällinen tarkastelu · Poro",
       "headline": "Miten poro päätyy lappilaisen lautaselle.",
-      "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille paimentajille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
+      "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille poromiehille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
       "p2": "Lauma on villiä kaikessa muussa paitsi omistuksessa. Porot kulkevat vapaasti valtavilla aitaamattomilla taiga- ja tunturialueilla, syöden mitä löytävät: jäkälää talvella (tämä antaa lihalle sen erityisen puhtaan maun), heinää ja yrttejä kesällä, sieniä syksyllä. Paimentajat seuraavat eläimiä moottorikelkoilla ja mönkijöillä, kokoavat ne kahdesti vuodessa korvamerkintää ja (syksyllä) teurastusvalintaa varten ja päästävät ne sitten taas vapaiksi.",
       "p3": "Teurastus tapahtuu syksyllä, tyypillisesti loka–marraskuussa, kun eläimet ovat huippupainossaan. Jokainen paliskunta pyörittää omaa EU-hyväksyttyä teurastamoaan. Suurin osa lihasta myydään muutaman sadan kilometrin säteellä eläimen elinpaikasta, Lapin ravintoloille, Helsingin ja Etelä-Suomen lihakaupoille ja pieneen mutta vakavaan vientimarkkinaan Keski-Eurooppaan.",
       "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>filee</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, ja siksi se kypsyy tunteja.",
       "p5": "Eettisesti vapaa­liikkuva, saamelais­paimennettu poro on yksi eurooppalaisen menun kestävimmistä proteiineista, ei lihotusaltaita, ei antibiootteja, ei suljettua laidunta, alkuperäisruokavalio. Mutkan tuo ilmasto: Lapin talvet kostuvat, lumikertymälle muodostuu jääkerroksia, porot eivät pääse jäkälään, ja jotkin paliskunnat joutuvat täydentämään ruokintaa. Se muuttaa toimitusketjua ja, hitaasti, makua. Tämä on tarina, jota kannattaa seurata seuraavan vuosikymmenen ajan.",
       "tasteQ": "Miltä poro maistuu?",
-      "tasteA1": "Miedommalta kuin useimmat riistat. Poro on vähärasvaista ja hienosyistä, lähempänä hyvää naudan sisäfilettä kuin voimakasta riistaa, ja sen puhdas, hennon makea syvyys tulee jäkälästä ja tunturin yrteistä. Koska rasvaa ei juuri ole, liha kypsennetään varoen ja tarjotaan punaisena tai mediumina.",
+      "tasteA1": "Miedompi kuin useimmat riistat. Poro on vähärasvaista ja hienosyistä, lähempänä hyvää naudan sisäfilettä kuin voimakasta riistaa, ja sen puhdas, hennon makea syvyys tulee jäkälästä ja tunturin yrteistä. Koska rasvaa ei juuri ole, liha kypsennetään varoen ja tarjotaan punaisena tai mediumina.",
       "tasteA2": "Klassinen ensikosketus on poronkäristys: ohuiksi höylättyjä siivuja voissa, perunamuusin ja puolukoiden kanssa. Juhlapöydässä porosta tehdään bidos, hidas saamelaismuhennos, ja tunturissa se on suovas, suolattua ja kevyesti kylmäsavustettua."
     },
     "cloudberryDeep": {
