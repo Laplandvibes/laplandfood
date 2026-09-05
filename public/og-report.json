@@ -1,0 +1,87 @@
+{
+  "version": "20260905",
+  "domain": "laplandfood.com",
+  "brand": "FOOD",
+  "tagline": "What Finland's North eats",
+  "generated": "2026-09-05T21:51:04.058Z",
+  "staticFallbackSeason": "summer",
+  "seasons": {
+    "summer": {
+      "heroUrl": "https://laplandfood.com/images/hero-main-wide.avif",
+      "heroAlt": "An overhead Lapland table: reindeer sautéed in a cast-iron pan, bowls of cloudberries, bilberries an",
+      "heroSha": "99b8b64e18e27341",
+      "bytes": 174452,
+      "sha256": "283aefc98166d52d0709a1d2e906d71225c1a6c0f5c42ba33593381489d79c3e",
+      "bandH": 168,
+      "photoPct": 73.3,
+      "ink": 14175,
+      "inkBox": [
+        421,
+        493,
+        778,
+        597
+      ],
+      "safe": true,
+      "accentP10": 5.06,
+      "accentMed": 5.06,
+      "whiteP10": 17.08,
+      "whiteMed": 17.08,
+      "mean": 116.8,
+      "centerSq": 143.6,
+      "photoRegion": 146.1,
+      "photoRegionRef": 146.1,
+      "overlayPixels": 0,
+      "maxDiff": 0,
+      "fit": {
+        "size": 74,
+        "lines": 1,
+        "ts": 30,
+        "tagW": 359,
+        "fits": true,
+        "bandH": 168
+      },
+      "contrastOk": true,
+      "zeroOverlay": true,
+      "errors": []
+    },
+    "winter": {
+      "heroUrl": "https://laplandfood.com/images/hero-main-wide.avif",
+      "heroAlt": "An overhead Lapland table: reindeer sautéed in a cast-iron pan, bowls of cloudberries, bilberries an",
+      "heroSha": "99b8b64e18e27341",
+      "bytes": 174452,
+      "sha256": "283aefc98166d52d0709a1d2e906d71225c1a6c0f5c42ba33593381489d79c3e",
+      "bandH": 168,
+      "photoPct": 73.3,
+      "ink": 14175,
+      "inkBox": [
+        421,
+        493,
+        778,
+        597
+      ],
+      "safe": true,
+      "accentP10": 5.06,
+      "accentMed": 5.06,
+      "whiteP10": 17.08,
+      "whiteMed": 17.08,
+      "mean": 116.8,
+      "centerSq": 143.6,
+      "photoRegion": 146.1,
+      "photoRegionRef": 146.1,
+      "overlayPixels": 0,
+      "maxDiff": 0,
+      "fit": {
+        "size": 74,
+        "lines": 1,
+        "ts": 30,
+        "tagW": 359,
+        "fits": true,
+        "bandH": 168
+      },
+      "contrastOk": true,
+      "zeroOverlay": true,
+      "errors": [],
+      "sameAsSummer": true
+    }
+  }
+}
