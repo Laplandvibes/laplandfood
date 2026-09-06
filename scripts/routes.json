@@ -9,7 +9,20 @@
   },
   {
     "path": "/cloudberry",
-    "jsonKey": "cloudberry"
+    "jsonKey": "cloudberry",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv"
+    ]
   },
   {
     "path": "/traditional-recipes",
