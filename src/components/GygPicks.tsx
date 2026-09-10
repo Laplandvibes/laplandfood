@@ -303,7 +303,7 @@ const catBlurb = (path: string, lang: string): string | null => {
                 <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
               </span>
 
-              <span className="mt-3 text-[11px] uppercase tracking-[0.12em] text-[#002F6C]/55">{t(L.via)}</span>
+              <span className="mt-3 text-[11px] uppercase tracking-[0.12em] text-[#002F6C]/70">{t(L.via)}</span>
             </div>
           </a>
           );

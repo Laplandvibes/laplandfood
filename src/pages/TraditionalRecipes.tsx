@@ -170,17 +170,17 @@ export default function TraditionalRecipes() {
                     <div className="grid grid-cols-3 gap-4 text-center">
                       <div>
                         <Clock className="w-5 h-5 text-vibe-pink mx-auto mb-1.5" />
-                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/60 font-semibold">{t('traditionalRecipes.recipeLabels.time')}</p>
+                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/70 font-semibold">{t('traditionalRecipes.recipeLabels.time')}</p>
                         <p className="text-sm text-[#002F6C] font-semibold mt-0.5">{r.time}</p>
                       </div>
                       <div>
                         <Users className="w-5 h-5 text-vibe-pink mx-auto mb-1.5" />
-                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/60 font-semibold">{t('traditionalRecipes.recipeLabels.serves')}</p>
+                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/70 font-semibold">{t('traditionalRecipes.recipeLabels.serves')}</p>
                         <p className="text-sm text-[#002F6C] font-semibold mt-0.5">{r.serves}</p>
                       </div>
                       <div>
                         <ChefHat className="w-5 h-5 text-vibe-pink mx-auto mb-1.5" />
-                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/60 font-semibold">{t('traditionalRecipes.recipeLabels.level')}</p>
+                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/70 font-semibold">{t('traditionalRecipes.recipeLabels.level')}</p>
                         <p className="text-sm text-[#002F6C] font-semibold mt-0.5">{r.difficulty}</p>
                       </div>
                     </div>
