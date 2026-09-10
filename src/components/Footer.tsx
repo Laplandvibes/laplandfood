@@ -1,3 +1,4 @@
+import JobNetworkBanner from "../shared/JobNetworkBanner";
 import SharedFooter from '../shared/Footer'
 import type { FooterDict } from '../shared/Footer'
 import { useTranslation } from 'react-i18next'
@@ -9,7 +10,7 @@ import { useLocale } from '../i18n/useLocale'
  * Adds a thin affiliate-disclosure band below the Footer copyright strip so
  * the FTC/DSA notice is visible on every page.
  */
-export default function Footer() {
+function Footer() {
   const { t, i18n } = useTranslation('common')
   const { t: tn } = useTranslation('nav')
   const { to } = useLocale()
@@ -107,4 +108,25 @@ export default function Footer() {
           food ja wellness tekivat nain, muut 25 luottavat jaettuun. */}
     </>
   )
+}
+
+/**
+ * Maksetun Network-tason ilmoituskortti tämän sivuston footerin yläpuolella
+ * (10.9.2026, Vesa: "kytke banner").
+ *
+ * 🔴 Footerin sisältöä EI kosketa: alkuperäinen komponentti on yhä Footer ja
+ * tämä kääre vain renderöi bannerin sen eteen. Footerin markup vaihtelee
+ * sivustoittain, joten sen sisälle kirjoittaminen olisi 23 eri muokkausta ja
+ * 23 tapaa rikkoa jaettu footer.
+ *
+ * Banneri palauttaa null kun tämän sivuston nimeä ei ole ostettu yhteenkään
+ * ilmoitukseen, joten näkyvä muutos on nolla ennen ensimmäistä Network-kauppaa.
+ */
+export default function FooterWithNetworkJobs() {
+  return (
+    <>
+      <JobNetworkBanner siteId="laplandfood" />
+      <Footer />
+    </>
+  );
 }
