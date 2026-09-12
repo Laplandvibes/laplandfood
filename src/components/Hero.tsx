@@ -69,7 +69,7 @@ export default function Hero() {
         <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
           {t('hero.kicker')}
         </p>
-        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.92] mb-7 max-w-5xl xl:max-w-6xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)]">
+        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.92] mb-7 max-w-5xl xl:max-w-6xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)] xl:text-[clamp(96px,1.5vw_+_76.8px,115.2px)]">
           {t('hero.h1Part1')}
           <br />
           <span className="text-vibe-pink drop-shadow-[0_0_40px_rgba(236,72,153,0.5)]">{t('hero.h1Part2')}</span>
