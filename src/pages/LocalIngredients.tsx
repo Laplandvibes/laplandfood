@@ -213,7 +213,7 @@ export default function LocalIngredients() {
           </p>
           {/* Syväsivu /cloudberry (P5) jatkaa siitä mihin tämä osio jää. */}
           <p className={BODY_LAST}>
-            <Link to={to('/cloudberry')} className="inline-flex items-center gap-1.5 font-semibold text-vibe-pink underline-offset-4 hover:underline">
+            <Link to={to('/cloudberry')} className="lv-tap inline-flex items-center gap-1.5 font-semibold text-vibe-pink underline-offset-4 hover:underline">
               {t('localIngredients.cloudberryDeep.guideLinkLabel')}
               <ArrowRight className="w-4 h-4" aria-hidden="true" />
             </Link>
