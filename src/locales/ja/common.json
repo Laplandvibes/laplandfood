@@ -90,5 +90,8 @@
       "carRental": "レンタカー",
       "workInLapland": "ラップランドで働く"
     }
+  },
+  "photo": {
+    "credit": "写真：LaplandVibes"
   }
 }

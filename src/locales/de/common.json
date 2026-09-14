@@ -91,5 +91,8 @@
       "carRental": "Mietwagen",
       "workInLapland": "Arbeiten in Lappland"
     }
+  },
+  "photo": {
+    "credit": "Foto: LaplandVibes"
   }
 }

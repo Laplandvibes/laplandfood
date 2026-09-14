@@ -249,7 +249,14 @@
       "p5": "Ethisch betrachtet ist frei weidendes, von Sámi gehütetes Rentier eines der nachhaltigsten Proteine auf europäischen Speisekarten, keine Mastbetriebe, keine Antibiotika, keine geschlossenen Weiden, ursprüngliche Ernährung. Komplizierter wird es durchs Klima: Lapplands Winter werden feuchter, auf der Schneedecke bilden sich Eisschichten, die Rentiere kommen nicht an die Flechte, und manche Genossenschaften müssen zufüttern. Das verändert die Lieferkette und, langsam, den Geschmack. Eine Geschichte, die das kommende Jahrzehnt aufmerksam zu verfolgen lohnt.",
       "tasteQ": "Wie schmeckt Rentier?",
       "tasteA1": "Milder als die meisten Wildarten. Rentier ist mager und feinfaserig, näher an einem guten Rinderfilet als an kräftigem Wild, mit einer klaren, leicht süßlichen Tiefe von Flechten und Fjellkräutern. Weil kaum Fett da ist, wird es schonend gegart und rare bis medium serviert.",
-      "tasteA2": "Die klassische erste Begegnung ist Poronkäristys: hauchdünn gehobelte Scheiben in Butter, serviert auf Kartoffelpüree mit Preiselbeeren. Zu Festessen wird daraus Bidos, der langsame samische Eintopf, und am Feuer Suovas, gesalzen und leicht kaltgeräuchert."
+      "tasteA2": "Die klassische erste Begegnung ist Poronkäristys: hauchdünn gehobelte Scheiben in Butter, serviert auf Kartoffelpüree mit Preiselbeeren. Zu Festessen wird daraus Bidos, der langsame samische Eintopf, und am Feuer Suovas, gesalzen und leicht kaltgeräuchert.",
+      "subheads": [
+        "Wild in allem außer im Besitz",
+        "Die Herbstschlachtung, und wohin das Fleisch geht",
+        "Die Teilstücke, die Ihnen auf der Karte begegnen",
+        "Nachhaltig, bis das Klima dazwischenfunkt"
+      ],
+      "caption": "Ein Rentier ruht am Straßenrand bei Ylläs, Juli 2026"
     },
     "cloudberryDeep": {
       "kicker": "Tiefer Blick · Moltebeere",
@@ -259,7 +266,11 @@
       "p3": "Deshalb kostet ein Kilo frische Moltebeeren auf dem Markt in Rovaniemi Ende Juli typischerweise 25–50 €, das Fünf- bis Zehnfache von Heidelbeeren und deshalb bricht das Angebot zusammen, wenn die Frühjahrsfröste eine Woche später kommen. Das ist auch der Grund, warum das Moltebeerenparfait das Fine-Dining-Dessert Lapplands ist. Jeder Koch möchte sie verwenden, solange sie reichen.",
       "p4": "<strong>Sammel-Ethik:</strong> Moltebeerenpflanzen erholen sich nur langsam. Das Sámi-Prinzip und zugleich die finnische Sammelpraxis lautet: nur vollreife Beeren pflücken, unreife und überreife stehen lassen und die Pflanze niemals abstreifen. Auf einem kleinen Moor reicht ein Kilo für die Familie.",
       "boldPick": "Sammel-Ethik:",
-      "guideLinkLabel": "Zum großen Moltebeeren-Guide"
+      "guideLinkLabel": "Zum großen Moltebeeren-Guide",
+      "subheads": [
+        "Warum der Anbau immer wieder scheitert",
+        "Was ein Kilo kostet, und warum"
+      ]
     },
     "fishDeep": {
       "kicker": "Tiefer Blick · Süßwasserfisch",
@@ -269,7 +280,13 @@
       "p3": "Die Technik selbst ist geradlinig: ein Loch durch 50–80 cm dickes Eis bohren, einen kleinen Jig mit einem Haken absenken, warten. Sie verlangt aber oft Temperaturen unter −15 °C. Traditionell deckte man das Loch zwischen den Besuchen ab, damit es nicht wieder zufror. Heute verwenden die meisten isolierte Zelte (ein kleiner Eisangel-Unterstand ist günstig und verändert das Erlebnis komplett).",
       "p4Prefix": "Auf der Speisekarte: leicht geräucherte Maräne (<em>graavisiika</em>) und Hechtrogen auf Roggenbrot sind die alltäglichen Vorspeisen Lapplands. Ganz gebratene Forelle ist ein klassisches Hauptgericht. Die Sápmi-Fischsuppe (Rezept",
       "p4LinkLabel": "auf der Rezeptseite",
-      "p4Suffix": ") verwendet das, was die Fischer in dieser Woche gebracht haben."
+      "p4Suffix": ") verwendet das, was die Fischer in dieser Woche gebracht haben.",
+      "subheads": [
+        "Warum Winterfisch am besten schmeckt",
+        "So funktioniert das Eisangeln wirklich",
+        "Auf dem Teller"
+      ],
+      "caption": "Räucherfisch, Aioli und Roggenbrot auf einer Terrasse in Kuusamo, Juli 2026"
     },
     "everymansRight": {
       "kicker": "Jedermannsrecht",
@@ -970,7 +987,8 @@
         "Garen Sie alle Wildpilze vor dem Verzehr, auch jene, die technisch roh genießbar wären. Das ist finnischer Brauch, keine starre Regel, aber alle erfahrenen Sammler halten sich daran."
       ],
       "p4": "<strong>Vier Pilze, die ein Anfänger sicher bestimmen lernen kann</strong>, an einem Nachmittag mit dem Bestimmungsbuch, sind: Steinpilz (<em>Boletus edulis</em>), Frühjahrslorchel (<em>Gyromitra esculenta</em>, aber <strong>nur zweimal vorgekocht, das Wasser jeweils weggegossen</strong>; viele Finnen halten sie für köstlich, viele andere meiden sie ganz; beide haben recht), Edelreizker (<em>Lactarius deliciosus</em>) und Pfifferling (<em>Cantharellus cibarius</em>). Von diesen vieren haben nur Steinpilz und Pfifferling in Finnland keine gefährlichen Verwechslungsarten; sie sind die empfohlenen Einstiegspilze.",
-      "p5": "Wenn Sie zum ersten Mal in Lappland Pilze sammeln, tun Sie es mit jemandem, der sich auskennt. Das Kosten-Nutzen-Verhältnis einer geführten 4-Stunden-Tour ist unschlagbar, und in Lappland werden die Touren meist von einheimischen Sammlern geführt, die das zu Hause gelernt haben und nicht aus einem Skript."
+      "p5": "Wenn Sie zum ersten Mal in Lappland Pilze sammeln, tun Sie es mit jemandem, der sich auskennt. Das Kosten-Nutzen-Verhältnis einer geführten 4-Stunden-Tour ist unschlagbar, und in Lappland werden die Touren meist von einheimischen Sammlern geführt, die das zu Hause gelernt haben und nicht aus einem Skript.",
+      "caption": "Lagerfeuer an einem Waldsee in Salla, August 2026. So endet eine geführte Wanderung meistens."
     },
     "calendar": {
       "kicker": "Saisonkalender",

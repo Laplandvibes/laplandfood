@@ -249,7 +249,14 @@
       "p5": "Ethisch gezien is vrij rondtrekkend, door Samen geherderd rendier een van de meest duurzame eiwitten op een Europese kaart, geen vetweide, geen antibiotica, geen omheinde begrazing, een eigen dieet. De complicatie is klimatologisch: Laplandse winters worden natter, ijslagen vormen zich op het sneeuwdek, rendieren kunnen niet meer door het ijs schrapen naar korstmos, en herders moeten in sommige coöperaties bijvoeren. Dat verandert de keten en, langzaam, de smaak. Dat is een verhaal om het komende decennium te volgen.",
       "tasteQ": "Hoe smaakt rendier?",
       "tasteA1": "Milder dan de meeste wildsoorten. Rendier is mager en fijn van draad, dichter bij een goede runderhaas dan bij zwaar wild, met een zuivere, licht zoete diepte die komt van een leven lang grazen op korstmos en kruiden van de fjäll (heuvel). Omdat er nauwelijks vet is, wordt het zachtjes gegaard en rare tot medium geserveerd.",
-      "tasteA2": "De klassieke eerste kennismaking is poronkäristys: flinterdunne plakjes gebakken in boter, geserveerd op aardappelpuree met vossenbessen. Op feesttafels wordt het bidos, de langzame Samische stoofpot, en bij het vuur suovas, gezouten en licht koudgerookt."
+      "tasteA2": "De klassieke eerste kennismaking is poronkäristys: flinterdunne plakjes gebakken in boter, geserveerd op aardappelpuree met vossenbessen. Op feesttafels wordt het bidos, de langzame Samische stoofpot, en bij het vuur suovas, gezouten en licht koudgerookt.",
+      "subheads": [
+        "Wild in alles behalve het eigendom",
+        "De herfstslacht, en waar het vlees heen gaat",
+        "De delen die u op de kaart tegenkomt",
+        "Duurzaam, tot het klimaat zich ermee bemoeit"
+      ],
+      "caption": "Een rendier rust langs de weg bij Ylläs, juli 2026"
     },
     "cloudberryDeep": {
       "kicker": "Verdieping · Kruipbraam",
@@ -258,7 +265,11 @@
       "p2": "Decennia van landbouwkundig onderzoek hebben hem niet kunnen commercialiseren. Kruipbraamplanten zijn tweehuizig (mannelijk en vrouwelijk apart), groeien extreem langzaam, hebben zelfs onder perfecte omstandigheden 6–7 jaar nodig om vrucht te dragen, zijn kwetsbaar voor late voorjaarsvorst die de bloesem van het jaar vernielt, en vragen een specifieke combinatie van vocht, licht en veenchemie die in kassen niet is na te bootsen. Noorse en Finse onderzoekers hebben vooruitgang geboekt met cultivars, maar de commerciële opbrengsten zijn nog een fractie van wilde opbrengsten. De hele Finse aanvoer, voor jamfabrikanten, likeurproducenten (Lakka) en restaurantkeukens, komt uit het wild.",
       "p3": "Daarom kost een kilo verse kruipbramen op een markt in Rovaniemi eind juli doorgaans 25 tot 50 €, vijf tot tien keer de prijs van blauwe bosbessen en daarom stort de aanvoer in als de lentevorst een week te laat komt. Daarom is de kruipbraamparfait ook hét Laplandse fine-diningdessert. Elke kok wil ze gebruiken zolang ze er zijn.",
       "p4": "<strong>Pluk-ethiek:</strong> kruipbraamplanten herstellen traag. Het Samische principe, en ook de Finse plukconventie, is: alleen volledig rijpe bessen meenemen, de onrijpe en overrijpe laten staan, en een plant nooit kaalplukken. Plukt u op een klein veen, dan is een kilo per gezin ruim genoeg.",
-      "guideLinkLabel": "Lees de complete kruipbraamgids"
+      "guideLinkLabel": "Lees de complete kruipbraamgids",
+      "subheads": [
+        "Waarom kweken steeds mislukt",
+        "Wat een kilo kost, en waarom"
+      ]
     },
     "fishDeep": {
       "kicker": "Verdieping · Meervis",
@@ -268,7 +279,13 @@
       "p3": "De techniek zelf is eenvoudig (boor een gat door 50–80 cm ijs, laat een kleine jig met één haak zakken, wacht), maar vraagt temperaturen die vaak onder −15 °C liggen. Traditioneel dekte men het gat tussen de bezoeken af, zodat het niet opnieuw dichtvroor. Tegenwoordig gebruiken de meeste mensen geïsoleerde tenten (een kleine ijsvistent is goedkoop en verandert de ervaring volledig).",
       "p4Prefix": "Op een menu: licht gerookte marene (<em>graavisiika</em>) en snoekkuit op roggebrood zijn alledaagse Laplandse voorgerechten. Een hele gebraden beekforel is het klassieke hoofdgerecht. Samische vissoep (recept op de",
       "p4LinkLabel": "receptenpagina",
-      "p4Suffix": ") gebruikt wat de vissers die week binnenbrachten."
+      "p4Suffix": ") gebruikt wat de vissers die week binnenbrachten.",
+      "subheads": [
+        "Waarom wintervis het lekkerst is",
+        "Zo werkt ijsvissen echt",
+        "Op het bord"
+      ],
+      "caption": "Gerookte vis, aioli en roggebrood op een terras in Kuusamo, juli 2026"
     },
     "everymansRight": {
       "kicker": "Toegangsrecht",
@@ -969,7 +986,8 @@
         "Kook alle wilde paddenstoelen voor consumptie, ook degene die technisch rauw eetbaar zijn. Dit is een Finse conventie meer dan een strikte regel, maar elke ervaren plukker doet het."
       ],
       "p4": "<strong>De vier paddenstoelen die een beginner in één middag veilig kan leren herkennen</strong> met een veldgids zijn: eekhoorntjesbrood (<em>Boletus edulis</em>), valse morielje (<em>Gyromitra esculenta</em>, maar <strong>alleen na tweemaal blancheren met telkens nieuw water</strong>; veel Finnen zullen u zeggen dat hij heerlijk is, veel anderen zullen u zeggen hem te mijden; beide hebben gelijk), oranje melkzwam (<em>Lactarius deliciosus</em>) en cantharel (<em>Cantharellus cibarius</em>). Hiervan hebben eekhoorntjesbrood en cantharel geen gevaarlijke dubbelgangers in Finland en zijn de aanbevolen startpunten.",
-      "p5": "Gaat u voor het eerst paddenstoelen plukken in Lapland, doe dat met iemand die het al weet. De prijs/zekerheid-verhouding van een wandeling van 4 uur is onverslaanbaar, en in Lapland worden de wandelingen meestal geleid door lokale plukkers die dit thuis hebben geleerd, niet uit een script."
+      "p5": "Gaat u voor het eerst paddenstoelen plukken in Lapland, doe dat met iemand die het al weet. De prijs/zekerheid-verhouding van een wandeling van 4 uur is onverslaanbaar, en in Lapland worden de wandelingen meestal geleid door lokale plukkers die dit thuis hebben geleerd, niet uit een script.",
+      "caption": "Kampvuur aan een bosmeer in Salla, augustus 2026. Zo eindigt een begeleide wandeling meestal."
     },
     "calendar": {
       "kicker": "Seizoenskalender",

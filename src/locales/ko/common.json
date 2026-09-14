@@ -90,5 +90,8 @@
       "carRental": "렌터카",
       "workInLapland": "라플란드에서 일하기"
     }
+  },
+  "photo": {
+    "credit": "사진: LaplandVibes"
   }
 }

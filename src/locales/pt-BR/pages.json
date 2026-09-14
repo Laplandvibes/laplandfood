@@ -249,7 +249,14 @@
       "p5": "Do ponto de vista ético, a rena de criação livre pastoreada pelos sámi é uma das proteínas mais sustentáveis de um cardápio europeu, sem confinamento, sem antibióticos, sem pastagem cercada, dieta natural. A complicação é o clima: os invernos na Lapônia estão ficando mais úmidos, camadas de gelo se formam sobre a neve, as renas não conseguem cavar até os líquens e os pastores precisam alimentá-las de forma complementar em algumas cooperativas. Isso muda a cadeia de fornecimento e, aos poucos, o sabor. É uma história para acompanhar na próxima década.",
       "tasteQ": "Qual é o gosto da carne de rena?",
       "tasteA1": "Mais suave que a maioria das carnes de caça. A rena é magra e de fibra fina, mais próxima de um bom filé bovino do que de uma caça intensa, com uma profundidade limpa e levemente adocicada que vem do líquen e das ervas das montanhas. Como quase não tem gordura, é cozida com cuidado e servida malpassada ao ponto.",
-      "tasteA2": "O primeiro encontro clássico é o poronkäristys: lascas finas salteadas na manteiga, servidas sobre purê de batata com airela-vermelha. Nas mesas de festa vira bidos, o ensopado sámi de cozimento lento, e perto do fogo é suovas, salgada e levemente defumada a frio."
+      "tasteA2": "O primeiro encontro clássico é o poronkäristys: lascas finas salteadas na manteiga, servidas sobre purê de batata com airela-vermelha. Nas mesas de festa vira bidos, o ensopado sámi de cozimento lento, e perto do fogo é suovas, salgada e levemente defumada a frio.",
+      "subheads": [
+        "Selvagem em tudo, menos na propriedade",
+        "O abate de outono, e para onde vai a carne",
+        "Os cortes que você vai encontrar no cardápio",
+        "Sustentável, até o clima se intrometer"
+      ],
+      "caption": "Uma rena descansando à beira da estrada perto de Ylläs, julho de 2026"
     },
     "cloudberryDeep": {
       "kicker": "A fundo · A amora ártica",
@@ -258,7 +265,11 @@
       "p2": "Décadas de pesquisa agrícola não conseguiram comercializá-la. As plantas de amora ártica são dioicas (com exemplares machos e fêmeas separados), crescem muito devagar, levam de 6 a 7 anos para frutificar mesmo em condições perfeitas, são vulneráveis às geadas tardias de primavera que destroem as flores do ano e precisam de uma combinação específica de umidade, luz e química de turfa que resistiu à simulação em estufa. Pesquisadores noruegueses e finlandeses avançaram em algumas cultivares, mas a produtividade comercial ainda é uma fração da silvestre. Então todo o fornecimento finlandês, para fabricantes de geleia, produtores de licor (Lakka) e cozinhas de restaurante, é de colheita silvestre.",
       "p3": "É por isso que um quilo de amoras árticas frescas num mercado de Rovaniemi no fim de julho costuma custar de € 25 a € 50, de cinco a dez vezes o preço dos mirtilos e por isso o fornecimento despenca se a geada da primavera chegar uma semana atrasada. É também por isso que o parfait de amora ártica é a sobremesa-ícone da alta gastronomia da Lapônia. Todo chef quer usá-las enquanto duram.",
       "p4": "<strong>Ética da colheita:</strong> as plantas de amora ártica se recuperam devagar. O princípio sámi e a convenção de colheita finlandesa, é pegar apenas as frutas totalmente maduras, deixar as verdes e as passadas, e nunca raspar uma planta. Se você colhe num pântano pequeno, um quilo por família é mais que suficiente.",
-      "guideLinkLabel": "Leia o guia completo da amora ártica"
+      "guideLinkLabel": "Leia o guia completo da amora ártica",
+      "subheads": [
+        "Por que o cultivo continua fracassando",
+        "Quanto custa um quilo, e por quê"
+      ]
     },
     "fishDeep": {
       "kicker": "A fundo · O peixe de lago",
@@ -268,7 +279,13 @@
       "p3": "A técnica em si é simples, você perfura um buraco com um trado através de 50–80 cm de gelo, solta uma pequena isca com um único anzol e espera, mas exige temperaturas muitas vezes abaixo de −15 °C. Tradicionalmente cobria-se o buraco entre as visitas para que ele não congelasse de novo. Hoje a maioria usa barracas isoladas (um pequeno abrigo de pesca no gelo é barato e muda a experiência por completo).",
       "p4Prefix": "No cardápio: o coregono levemente defumado (<em>graavisiika</em>) e a ova de lúcio sobre centeio são entradas cotidianas da Lapônia. Uma truta-marrom assada inteira é o prato principal clássico. A sopa de peixe da Sápmi (receita na",
       "p4LinkLabel": "página de receitas",
-      "p4Suffix": ") usa o que os pescadores trouxeram naquela semana."
+      "p4Suffix": ") usa o que os pescadores trouxeram naquela semana.",
+      "subheads": [
+        "Por que o peixe de inverno é o mais saboroso",
+        "Como funciona de verdade a pesca no gelo",
+        "No prato"
+      ],
+      "caption": "Peixe defumado, aioli e pão de centeio num terraço em Kuusamo, julho de 2026"
     },
     "everymansRight": {
       "kicker": "O direito de acesso à natureza",
@@ -969,7 +986,8 @@
         "Cozinhe todos os cogumelos silvestres antes de comer, mesmo os que tecnicamente podem ser comidos crus. Isso é uma convenção finlandesa, não uma regra estrita, mas é o que todo coletor experiente faz."
       ],
       "p4": "<strong>Os quatro cogumelos que um iniciante pode aprender a identificar com segurança</strong> em uma única tarde com um guia são: o boleto / cep (<em>Boletus edulis</em>), a falsa-morchela (<em>Gyromitra esculenta</em>, mas <strong>somente após escaldar duas vezes e descartar a água</strong>; muitos finlandeses vão dizer que é deliciosa, muitos outros vão dizer para evitá-la por completo; ambos têm razão), o lactário-delicioso (<em>Lactarius deliciosus</em>) e o cantarelo (<em>Cantharellus cibarius</em>). Desses, o boleto e o cantarelo não têm parentes perigosos na Finlândia e são os pontos de partida recomendados.",
-      "p5": "Se você vai colher cogumelos na Lapônia pela primeira vez, faça isso com alguém que já saiba. A relação custo-confiança de uma caminhada guiada de 4 horas é imbatível, e na Lapônia as caminhadas costumam ser conduzidas por coletores locais que aprenderam isso em casa, não em um roteiro."
+      "p5": "Se você vai colher cogumelos na Lapônia pela primeira vez, faça isso com alguém que já saiba. A relação custo-confiança de uma caminhada guiada de 4 horas é imbatível, e na Lapônia as caminhadas costumam ser conduzidas por coletores locais que aprenderam isso em casa, não em um roteiro.",
+      "caption": "Fogueira à beira de um lago na floresta em Salla, agosto de 2026. É assim que um passeio guiado costuma terminar."
     },
     "calendar": {
       "kicker": "Calendário sazonal",

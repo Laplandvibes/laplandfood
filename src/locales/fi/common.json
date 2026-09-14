@@ -90,5 +90,8 @@
       "carRental": "Autovuokraus",
       "workInLapland": "Töihin Lappiin"
     }
+  },
+  "photo": {
+    "credit": "Kuva: LaplandVibes"
   }
 }

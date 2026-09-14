@@ -249,7 +249,14 @@
       "p5": "Eticamente, la renna sami al pascolo brado è una delle proteine più sostenibili di un menù europeo, niente recinto d'ingrasso, niente antibiotici, niente pascolo chiuso, dieta naturale. La complicazione è climatica: gli inverni lapponi diventano più umidi, si formano strati di ghiaccio sulla neve, le renne non riescono a scavare fino al lichene, e gli allevatori devono integrare l'alimentazione in alcune cooperative. Cambia la filiera e, lentamente, il sapore. È una storia da seguire nel prossimo decennio.",
       "tasteQ": "Che sapore ha la renna?",
       "tasteA1": "Più delicato della maggior parte della selvaggina. La renna è magra e a grana fine, più vicina a un buon filetto di manzo che a una selvaggina intensa, con una profondità pulita e appena dolce che viene dal lichene e dalle erbe dei fjäll. Quasi senza grasso, si cuoce con delicatezza e si serve al sangue o a media cottura.",
-      "tasteA2": "Il primo incontro classico è il poronkäristys: fette sottilissime saltate nel burro, servite su purè di patate con mirtilli rossi. Nei giorni di festa diventa bidos, il lento stufato sami, e accanto al fuoco è suovas, salata e leggermente affumicata a freddo."
+      "tasteA2": "Il primo incontro classico è il poronkäristys: fette sottilissime saltate nel burro, servite su purè di patate con mirtilli rossi. Nei giorni di festa diventa bidos, il lento stufato sami, e accanto al fuoco è suovas, salata e leggermente affumicata a freddo.",
+      "subheads": [
+        "Selvatica in tutto tranne che nella proprietà",
+        "La macellazione autunnale, e dove va la carne",
+        "I tagli che troverà nel menù",
+        "Sostenibile, finché il clima non ci si mette di mezzo"
+      ],
+      "caption": "Una renna riposa ai bordi della strada vicino a Ylläs, luglio 2026"
     },
     "cloudberryDeep": {
       "kicker": "Approfondimento · Mora artica",
@@ -258,7 +265,11 @@
       "p2": "Decenni di ricerca agricola non sono riusciti a commercializzarla. Le piante di mora artica sono dioiche (maschili e femminili separate), crescono molto lentamente, impiegano 6–7 anni a fruttificare anche in condizioni perfette, sono vulnerabili alle gelate tardive che distruggono i fiori dell'anno, e richiedono una combinazione specifica di umidità, luce e chimica delle torbiere che ha resistito alla simulazione in serra. I ricercatori norvegesi e finlandesi hanno fatto progressi sulle cultivar ma le rese commerciali sono ancora una frazione di quelle selvatiche. Quindi tutto l'approvvigionamento finlandese, per produttori di marmellate, di liquori (Lakka), per le cucine dei ristoranti, è raccolto in natura.",
       "p3": "È per questo che un chilo di more artiche fresche al mercato di Rovaniemi a fine luglio costa di solito 25–50 €, cinque-dieci volte il prezzo dei mirtilli e perché l'offerta crolla se la gelata di primavera arriva una settimana in ritardo. È anche per questo che il parfait alla mora artica è il dolce dell'alta cucina lappone. Ogni chef vuole usarle finché durano.",
       "p4": "<strong>Etica della raccolta:</strong> le piante di mora artica si riprendono lentamente. Il principio sami e la convenzione di raccolta finlandese, è prendere solo bacche pienamente mature, lasciare quelle acerbe e quelle troppo mature, e non spogliare mai una pianta. Se raccoglie su una piccola torbiera, un chilo a famiglia basta.",
-      "guideLinkLabel": "Legga la guida completa alla mora artica"
+      "guideLinkLabel": "Legga la guida completa alla mora artica",
+      "subheads": [
+        "Perché la coltivazione continua a fallire",
+        "Quanto costa un chilo, e perché"
+      ]
     },
     "fishDeep": {
       "kicker": "Approfondimento · Pesce di lago",
@@ -268,7 +279,13 @@
       "p3": "La tecnica in sé è semplice, perforare un foro attraverso 50–80 cm di ghiaccio, calare una piccola esca con un singolo amo, aspettare, ma richiede temperature spesso inferiori a −15 °C. L'approccio tradizionale prevedeva di coprire il foro tra una visita e l'altra perché non ghiacciasse di nuovo. Oggi la maggior parte usa tende isolate (un piccolo riparo da pesca è economico e cambia completamente l'esperienza).",
       "p4Prefix": "In un menù: coregone leggermente affumicato (<em>graavisiika</em>) e uova di luccio su segale sono antipasti lapponi quotidiani. Una trota fario intera arrostita è il classico secondo. La zuppa di pesce sápmi (ricetta sulla",
       "p4LinkLabel": "pagina ricette",
-      "p4Suffix": ") usa ciò che i pescatori hanno portato quella settimana."
+      "p4Suffix": ") usa ciò che i pescatori hanno portato quella settimana.",
+      "subheads": [
+        "Perché il pesce d'inverno è il più buono",
+        "Come funziona davvero la pesca sul ghiaccio",
+        "Nel piatto"
+      ],
+      "caption": "Pesce affumicato, aioli e pane di segale su una terrazza di Kuusamo, luglio 2026"
     },
     "everymansRight": {
       "kicker": "Diritto di accesso",
@@ -969,7 +986,8 @@
         "Cuocia tutti i funghi selvatici prima di mangiarli, anche quelli tecnicamente commestibili crudi. È una convenzione finlandese più che una regola rigida, ma è ciò che fa ogni raccoglitore esperto."
       ],
       "p4": "<strong>I quattro funghi che un principiante può imparare a riconoscere in sicurezza</strong> in un pomeriggio con una guida sono: porcino (<em>Boletus edulis</em>), falsa spugnola (<em>Gyromitra esculenta</em>, ma <strong>solo dopo due bolliture con cambio d'acqua</strong>; molti finlandesi Le diranno che è deliziosa, molti altri Le diranno di evitarla; entrambi hanno ragione), lattario delizioso (<em>Lactarius deliciosus</em>) e galletto (<em>Cantharellus cibarius</em>). Tra questi, porcino e galletto non hanno specie simili pericolose in Finlandia e sono i punti di partenza consigliati.",
-      "p5": "Se intende raccogliere funghi in Lapponia per la prima volta, lo faccia con qualcuno che già sa. Il rapporto costo-fiducia di una passeggiata guidata di 4 ore è imbattibile e in Lapponia le passeggiate sono di solito guidate da raccoglitori del posto, che questo mestiere l'hanno imparato in casa e non da un copione."
+      "p5": "Se intende raccogliere funghi in Lapponia per la prima volta, lo faccia con qualcuno che già sa. Il rapporto costo-fiducia di una passeggiata guidata di 4 ore è imbattibile e in Lapponia le passeggiate sono di solito guidate da raccoglitori del posto, che questo mestiere l'hanno imparato in casa e non da un copione.",
+      "caption": "Falò in riva a un lago nel bosco a Salla, agosto 2026. Un'uscita guidata finisce di solito così."
     },
     "calendar": {
       "kicker": "Calendario stagionale",

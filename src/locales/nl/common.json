@@ -90,5 +90,8 @@
       "carRental": "Autoverhuur",
       "workInLapland": "Werken in Lapland"
     }
+  },
+  "photo": {
+    "credit": "Foto: LaplandVibes"
   }
 }

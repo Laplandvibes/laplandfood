@@ -40,9 +40,9 @@ const INGREDIENT_IMAGES = [
  * stamp out the same shape), the first paragraph is set as a lede, and each
  * one carries its number so they read as a series with an order.
  */
-function DeepDive({ n, kicker, headline, image, alt, imageRight, children }: {
+function DeepDive({ n, kicker, headline, image, alt, imageRight, caption, credit, children }: {
   n: string; kicker: string; headline: string; image: string; alt: string;
-  imageRight?: boolean; children: ReactNode;
+  imageRight?: boolean; caption?: string; credit?: string; children: ReactNode;
 }) {
   return (
     <section className={imageRight ? 'bg-white py-16 sm:py-20' : 'bg-[#F8FAFC] py-16 sm:py-20'}>
@@ -60,6 +60,15 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, children }: {
               <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                 <img src={image} alt={alt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
               </div>
+              {/* 14.9.2026: poro- ja kalaosion kuvat ovat omia valokuvia (Ylläs
+                  21.7., Kuusamo 16.7.). Kuvateksti kertoo paikan ja ajan — se on
+                  se "elo", joka AI-kuvasta puuttui: oikea paikka, oikea päivä. */}
+              {caption && (
+                <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
+                  {caption}
+                  {credit && <span className="text-[#002F6C]/45"> · {credit}</span>}
+                </p>
+              )}
             </div>
           </div>
 
@@ -86,11 +95,21 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, children }: {
 const LEDE = 'text-lg sm:text-xl text-[#002F6C] leading-relaxed mb-5';
 const BODY = 'text-[#002F6C]/80 leading-relaxed mb-5';
 const BODY_LAST = 'text-[#002F6C]/80 leading-relaxed';
+/* Väliotsikko syväosion kappaleiden väliin (Vesa 14.9.2026: "näihin teksteihin
+   pitää saada eloa enemmän"). Neljä–viisi kappaletta putkeen luki muurina;
+   otsikko per ajatus antaa silmälle askelmat, ja se on samalla se rivi jonka
+   selaaja lukee vaikka jättäisi kappaleet väliin. */
+const SUB = 'font-heading tracking-wide text-2xl sm:text-[26px] text-[#002F6C] mt-8 mb-3 leading-tight';
 
 export default function LocalIngredients() {
   const { t } = useTranslation('pages');
+  const { t: tc } = useTranslation('common');
   const { to } = useLocale();
   const ingredients = (t('localIngredients.ingredients', { returnObjects: true }) as Ingredient[]) || [];
+  const subs = (key: string) => (t(`localIngredients.${key}.subheads`, { returnObjects: true }) as string[]) || [];
+  const reindeerSubs = subs('reindeerDeep');
+  const cloudberrySubs = subs('cloudberryDeep');
+  const fishSubs = subs('fishDeep');
   const nextSteps = (t('localIngredients.nextSteps.items', { returnObjects: true }) as NextStep[]) || [];
 
   return (
@@ -162,16 +181,22 @@ export default function LocalIngredients() {
           kicker={t('localIngredients.reindeerDeep.kicker')}
           headline={t('localIngredients.reindeerDeep.headline')}
           image="/images/lead-reindeer.jpg"
-          alt="A free-ranging reindeer herd strung out across open snow-covered fell in low Arctic light"
+          alt="A collared reindeer resting on gravel at the edge of a birch forest near Ylläs, antlers still in velvet"
+          caption={t('localIngredients.reindeerDeep.caption')}
+          credit={tc('photo.credit')}
         >
           <p className={LEDE}>
             <Trans i18nKey="localIngredients.reindeerDeep.p1" ns="pages" components={{ em: <em /> }} />
           </p>
+          <h3 className={SUB}>{reindeerSubs[0]}</h3>
           <p className={BODY}>{t('localIngredients.reindeerDeep.p2')}</p>
+          <h3 className={SUB}>{reindeerSubs[1]}</h3>
           <p className={BODY}>{t('localIngredients.reindeerDeep.p3')}</p>
+          <h3 className={SUB}>{reindeerSubs[2]}</h3>
           <p className={BODY}>
             <Trans i18nKey="localIngredients.reindeerDeep.p4" ns="pages" components={{ em: <em />, strong: <strong /> }} />
           </p>
+          <h3 className={SUB}>{reindeerSubs[3]}</h3>
           <p className={BODY_LAST}>{t('localIngredients.reindeerDeep.p5')}</p>
           {/* Direct answer to the question travellers actually search for
               ("what does reindeer taste like") — kept as one self-contained
@@ -206,7 +231,9 @@ export default function LocalIngredients() {
           <p className={LEDE}>
             <Trans i18nKey="localIngredients.cloudberryDeep.p1" ns="pages" components={{ em: <em /> }} />
           </p>
+          <h3 className={SUB}>{cloudberrySubs[0]}</h3>
           <p className={BODY}>{t('localIngredients.cloudberryDeep.p2')}</p>
+          <h3 className={SUB}>{cloudberrySubs[1]}</h3>
           <p className={BODY}>{t('localIngredients.cloudberryDeep.p3')}</p>
           <p className={BODY}>
             <Trans i18nKey="localIngredients.cloudberryDeep.p4" ns="pages" components={{ strong: <strong /> }} />
@@ -226,15 +253,20 @@ export default function LocalIngredients() {
           kicker={t('localIngredients.fishDeep.kicker')}
           headline={t('localIngredients.fishDeep.headline')}
           image="/images/lead-lake-fish.jpg"
-          alt="An augered hole in the ice on a frozen Lapland lake, a wooden stool and a thermos beside it and a line of tracks running back to the shore"
+          alt="A plate of smoked fish with aioli on a grey stoneware plate on a sunlit pine table on a Kuusamo terrace"
+          caption={t('localIngredients.fishDeep.caption')}
+          credit={tc('photo.credit')}
         >
           <p className={LEDE}>
             <Trans i18nKey="localIngredients.fishDeep.p1" ns="pages" components={{ strong: <strong /> }} />
           </p>
+          <h3 className={SUB}>{fishSubs[0]}</h3>
           <p className={BODY}>
             <Trans i18nKey="localIngredients.fishDeep.p2" ns="pages" components={{ em: <em /> }} />
           </p>
+          <h3 className={SUB}>{fishSubs[1]}</h3>
           <p className={BODY}>{t('localIngredients.fishDeep.p3')}</p>
+          <h3 className={SUB}>{fishSubs[2]}</h3>
           <p className={BODY_LAST}>
             <Trans i18nKey="localIngredients.fishDeep.p4Prefix" ns="pages" components={{ em: <em /> }} />{' '}
             <Link to={to('/traditional-recipes')} className="text-vibe-pink underline-offset-4 hover:underline">{t('localIngredients.fishDeep.p4LinkLabel')}</Link>

@@ -90,5 +90,8 @@
       "carRental": "Hyrbil",
       "workInLapland": "Jobba i Lappland"
     }
+  },
+  "photo": {
+    "credit": "Foto: LaplandVibes"
   }
 }

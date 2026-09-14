@@ -11,8 +11,12 @@ interface IntroPoint { n: string; title: string; body: string }
  * Restyled 2026-08-24 (Vesa: "kohta 1–3 … visuaalisuus poor"): the section
  * sits on a soft blue panel with two blurred brand-colour glows so it stops
  * reading as bare white; the lead gets a pink rule above it; the cards are
- * white with a watermark numeral, a pink index chip and a hover lift. Pure
- * CSS, no libraries, transforms only.
+ * white with a pink index chip and a hover lift. Pure CSS, no libraries,
+ * transforms only.
+ *
+ * 2026-09-14 (Vesa: "miksi numerot on kahteen kertaan? … tämä ongelma on joka
+ * sivulla"): the 92 px watermark numeral behind each card duplicated the chip
+ * on every pillar page. One number per card, the chip.
  */
 export default function IntroPoints({ sectionKey }: { sectionKey: string }) {
   const { t } = useTranslation('pages');
@@ -34,12 +38,6 @@ export default function IntroPoints({ sectionKey }: { sectionKey: string }) {
               key={p.n}
               className="relative overflow-hidden rounded-2xl bg-white border border-[#002F6C]/10 p-6 shadow-[0_6px_24px_rgba(0,47,108,0.06)] hover:border-vibe-pink/40 hover:-translate-y-0.5 transition-all duration-300"
             >
-              <span
-                aria-hidden="true"
-                className="absolute -top-4 right-2 font-heading text-[92px] leading-none text-[#002F6C]/[0.06] select-none pointer-events-none"
-              >
-                {p.n}
-              </span>
               <span className="relative inline-flex items-center rounded-full bg-vibe-pink/10 text-vibe-pink text-xs font-semibold tracking-[0.14em] px-2.5 py-1 mb-3">
                 {p.n}
               </span>

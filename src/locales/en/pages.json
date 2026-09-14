@@ -249,7 +249,14 @@
       "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu: no feedlot, no antibiotics, no enclosed grazing, a native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to provide supplementary feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade.",
       "tasteQ": "What does reindeer taste like?",
       "tasteA1": "Milder than most game. Reindeer is lean and fine-grained, closer to a good beef fillet than to strong venison, with a clean, faintly sweet depth that comes from a life of grazing lichen and fell herbs. Because there is almost no fat, it is cooked gently and served rare to medium.",
-      "tasteA2": "The classic first meeting is poronkäristys: thin shavings sautéed in butter, served over mashed potato with lingonberries. At festive tables it becomes bidos, the slow Sámi stew, and out on the fells it is suovas, salted and lightly cold-smoked over a fire."
+      "tasteA2": "The classic first meeting is poronkäristys: thin shavings sautéed in butter, served over mashed potato with lingonberries. At festive tables it becomes bidos, the slow Sámi stew, and out on the fells it is suovas, salted and lightly cold-smoked over a fire.",
+      "subheads": [
+        "Wild in everything but ownership",
+        "Autumn slaughter, and where the meat goes",
+        "The cuts you'll meet on a menu",
+        "Sustainable, until the climate steps in"
+      ],
+      "caption": "A reindeer at rest by the road near Ylläs, July 2026"
     },
     "cloudberryDeep": {
       "kicker": "Deep dive · Cloudberry",
@@ -258,7 +265,11 @@
       "p2": "Decades of agricultural research have failed to commercialise it. Cloudberry plants are dioecious (separate male and female), grow extremely slowly, take 6–7 years to fruit even when conditions are perfect, are vulnerable to late spring frosts that destroy the year's flowers, and need a specific combination of moisture, light, and bog chemistry that has resisted greenhouse simulation. Norwegian and Finnish researchers have made progress on cultivars but commercial yields are still a fraction of wild yields. So the entire Finnish supply, for jam manufacturers, liqueur producers (Lakka), restaurant kitchens, is wild-foraged.",
       "p3": "That is why a kilo of fresh cloudberries at a Rovaniemi market in late July typically runs €25–€50, five to ten times the price of bilberries and why supply collapses if the spring frost comes a week late. It is also why cloudberry parfait is the Lapland fine-dining dessert. Every chef wants to use them while they last.",
       "p4": "<strong>Picking ethic:</strong> cloudberry plants are slow to recover. The Sami principle, and the Finnish foraging convention, is to take fully ripe berries only, leave the unripe and overripe ones, and never strip a plant. If you're foraging on a small bog, a kilo per family is plenty.",
-      "guideLinkLabel": "Read the full cloudberry guide"
+      "guideLinkLabel": "Read the full cloudberry guide",
+      "subheads": [
+        "Why farming keeps failing",
+        "What a kilo costs, and why"
+      ]
     },
     "fishDeep": {
       "kicker": "Deep dive · Lake fish",
@@ -268,7 +279,13 @@
       "p3": "The technique itself is straightforward (auger a hole through 50–80 cm of ice, drop a small jig with a single hook, wait), but it requires temperatures often colder than −15 °C. The traditional approach was to cover the hole between visits so it did not freeze over again. Today most people use insulated tents (a small ice-fishing shelter is cheap and changes the experience completely).",
       "p4Prefix": "On a menu: lightly smoked whitefish (<em>graavisiika</em>) and pike-roe-on-rye are everyday Lapland starters. A whole roasted brown trout is the classic main. Sápmi fish soup (recipe on the",
       "p4LinkLabel": "recipes page",
-      "p4Suffix": ") uses whatever the fishermen brought in that week."
+      "p4Suffix": ") uses whatever the fishermen brought in that week.",
+      "subheads": [
+        "Why winter fish tastes best",
+        "How ice fishing actually works",
+        "On the plate"
+      ],
+      "caption": "Smoked fish, aioli and rye on a Kuusamo terrace, July 2026"
     },
     "everymansRight": {
       "kicker": "Everyman's right",
@@ -969,7 +986,8 @@
         "Cook all wild mushrooms before eating, even the ones that are technically edible raw. This is a Finnish convention rather than a strict rule, but it is what every experienced picker does."
       ],
       "p4": "<strong>The four mushrooms a beginner can learn to identify safely</strong> in a single afternoon with a guidebook are: porcini / cep (<em>Boletus edulis</em>), false morel (<em>Gyromitra esculenta</em>, but <strong>only after parboiling twice and discarding the water</strong>; many Finns will tell you it is delicious, many others will tell you to avoid it entirely; both are right), saffron milk cap (<em>Lactarius deliciosus</em>), and chanterelle (<em>Cantharellus cibarius</em>). Of these, porcini and chanterelle have no dangerous look-alikes in Finland and are the recommended starting points.",
-      "p5": "If you are going to pick mushrooms in Lapland for the first time, do it with someone who already knows. The cost-to-confidence ratio of a 4-hour guided walk is hard to beat, and in Lapland the walks are usually led by local foragers who learned this at home rather than from a script."
+      "p5": "If you are going to pick mushrooms in Lapland for the first time, do it with someone who already knows. The cost-to-confidence ratio of a 4-hour guided walk is hard to beat, and in Lapland the walks are usually led by local foragers who learned this at home rather than from a script.",
+      "caption": "Campfire by a forest lake in Salla, August 2026. A guided walk usually ends like this."
     },
     "calendar": {
       "kicker": "Seasonal calendar",

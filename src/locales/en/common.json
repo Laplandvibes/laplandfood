@@ -90,5 +90,8 @@
       "carRental": "Car Rental",
       "workInLapland": "Work in Lapland"
     }
+  },
+  "photo": {
+    "credit": "Photo: LaplandVibes"
   }
 }

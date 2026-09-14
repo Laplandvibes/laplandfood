@@ -249,7 +249,14 @@
       "p5": "Sur le plan éthique, le renne sâme en liberté est l'une des protéines les plus durables d'un menu européen, pas d'élevage intensif, pas d'antibiotiques, pas de pâturage clos, alimentation naturelle. La complication est climatique : les hivers lapons deviennent plus humides, des couches de glace se forment sur la neige, les rennes ne peuvent plus gratter pour atteindre le lichen, et les éleveurs doivent compléter l'alimentation dans certaines coopératives. Cela modifie la chaîne d'approvisionnement et, lentement, la saveur. C'est une histoire à suivre sur la prochaine décennie.",
       "tasteQ": "Quel goût a le renne ?",
       "tasteA1": "Plus doux que la plupart des gibiers. Le renne est maigre, à grain fin, plus proche d’un bon filet de bœuf que d’un gibier corsé, avec une profondeur nette, légèrement sucrée, venue du lichen et des herbes des fjells. Presque sans gras, il se cuit doucement et se sert saignant à point.",
-      "tasteA2": "La première rencontre classique, c’est le poronkäristys : de fins copeaux sautés au beurre, servis sur une purée avec des airelles. Aux repas de fête il devient bidos, le ragoût sâme mijoté, et près du feu suovas, salé et légèrement fumé à froid."
+      "tasteA2": "La première rencontre classique, c’est le poronkäristys : de fins copeaux sautés au beurre, servis sur une purée avec des airelles. Aux repas de fête il devient bidos, le ragoût sâme mijoté, et près du feu suovas, salé et légèrement fumé à froid.",
+      "subheads": [
+        "Sauvage en tout, sauf la propriété",
+        "L'abattage d'automne, et où va la viande",
+        "Les morceaux que vous croiserez sur la carte",
+        "Durable, jusqu'à ce que le climat s'en mêle"
+      ],
+      "caption": "Un renne au repos au bord de la route près d'Ylläs, juillet 2026"
     },
     "cloudberryDeep": {
       "kicker": "À fond · Mûre arctique",
@@ -258,7 +265,11 @@
       "p2": "Des décennies de recherche agricole n'ont pas réussi à la commercialiser. Les plants de mûre arctique sont dioïques (mâles et femelles séparés), poussent extrêmement lentement, prennent 6 à 7 ans pour fructifier même dans des conditions parfaites, sont vulnérables aux gelées de fin de printemps qui détruisent les fleurs de l'année, et exigent une combinaison spécifique d'humidité, de lumière et de chimie de tourbière qui a résisté à la simulation en serre. Les chercheurs norvégiens et finlandais ont progressé sur des cultivars mais les rendements commerciaux restent une fraction des rendements sauvages. Donc tout l'approvisionnement finlandais, pour les fabricants de confitures, les producteurs de liqueur (Lakka), les cuisines de restaurants, est cueilli dans la nature.",
       "p3": "C'est pourquoi un kilo de mûres arctiques fraîches sur un marché de Rovaniemi fin juillet coûte typiquement 25 à 50 €, cinq à dix fois le prix des myrtilles et pourquoi l'offre s'effondre si la gelée de printemps arrive une semaine trop tard. C'est aussi pourquoi le parfait à la mûre arctique est le dessert gastronomique de Laponie. Tous les chefs veulent les utiliser tant qu'elles durent.",
       "p4": "<strong>Éthique de cueillette :</strong> les plants de mûre arctique mettent du temps à se rétablir. Le principe sâme et la convention de cueillette finlandaise, est de prendre uniquement les baies pleinement mûres, de laisser les vertes et les blettes, et de ne jamais dépouiller un plant. Si vous cueillez sur une petite tourbière, un kilo par famille suffit.",
-      "guideLinkLabel": "Lire le guide complet de la mûre arctique"
+      "guideLinkLabel": "Lire le guide complet de la mûre arctique",
+      "subheads": [
+        "Pourquoi la culture échoue encore et encore",
+        "Ce que coûte un kilo, et pourquoi"
+      ]
     },
     "fishDeep": {
       "kicker": "À fond · Poisson de lac",
@@ -268,7 +279,13 @@
       "p3": "La technique elle-même est simple, percer un trou à travers 50-80 cm de glace, descendre un petit leurre avec un hameçon, attendre, mais elle exige des températures souvent inférieures à −15 °C. Traditionnellement, on couvrait le trou entre les visites pour qu'il ne regèle pas. Aujourd'hui, la plupart des gens utilisent des tentes isolées (un petit abri de pêche est bon marché et change complètement l'expérience).",
       "p4Prefix": "À table : le corégone légèrement fumé (<em>graavisiika</em>) et les œufs de brochet sur pain de seigle sont les entrées quotidiennes de la Laponie. Une truite fario entière rôtie est le plat classique. La soupe de poisson sâme (recette sur la",
       "p4LinkLabel": "page recettes",
-      "p4Suffix": ") utilise ce que les pêcheurs ont rapporté cette semaine-là."
+      "p4Suffix": ") utilise ce que les pêcheurs ont rapporté cette semaine-là.",
+      "subheads": [
+        "Pourquoi le poisson d'hiver est le meilleur",
+        "Comment se pratique vraiment la pêche sur glace",
+        "Dans l'assiette"
+      ],
+      "caption": "Poisson fumé, aïoli et pain de seigle sur une terrasse de Kuusamo, juillet 2026"
     },
     "everymansRight": {
       "kicker": "Droit d'accès",
@@ -969,7 +986,8 @@
         "Cuisez tous les champignons sauvages avant de manger, même ceux techniquement comestibles crus. C'est une convention finlandaise plutôt qu'une règle stricte, mais c'est ce que fait tout cueilleur expérimenté."
       ],
       "p4": "<strong>Les quatre champignons qu'un débutant peut apprendre à identifier sans risque</strong> en une après-midi avec un guide sont : le cèpe (<em>Boletus edulis</em>), la fausse morille (<em>Gyromitra esculenta</em>, mais <strong>uniquement après deux ébouillantages successifs avec changement d'eau</strong> ; beaucoup de Finlandais vous diront qu'elle est délicieuse, d'autres vous diront de l'éviter ; les deux ont raison), le lactaire délicieux (<em>Lactarius deliciosus</em>) et la girolle (<em>Cantharellus cibarius</em>). Parmi eux, le cèpe et la girolle n'ont pas de sosie dangereux en Finlande et sont les points de départ recommandés.",
-      "p5": "Si vous comptez cueillir des champignons en Laponie pour la première fois, faites-le avec quelqu'un qui sait déjà. Le rapport coût/confiance d'une balade guidée de 4 heures est imbattable, et en Laponie les balades sont généralement menées par des cueilleurs locaux qui ont appris cela à la maison, pas dans un script."
+      "p5": "Si vous comptez cueillir des champignons en Laponie pour la première fois, faites-le avec quelqu'un qui sait déjà. Le rapport coût/confiance d'une balade guidée de 4 heures est imbattable, et en Laponie les balades sont généralement menées par des cueilleurs locaux qui ont appris cela à la maison, pas dans un script.",
+      "caption": "Feu de camp au bord d'un lac forestier à Salla, août 2026. C'est ainsi que finit généralement une sortie guidée."
     },
     "calendar": {
       "kicker": "Calendrier de saison",

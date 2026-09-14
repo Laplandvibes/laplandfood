@@ -90,5 +90,8 @@
       "carRental": "汽车租赁",
       "workInLapland": "在拉普兰工作"
     }
+  },
+  "photo": {
+    "credit": "摄影：LaplandVibes"
   }
 }

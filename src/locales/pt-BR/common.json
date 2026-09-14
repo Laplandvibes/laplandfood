@@ -90,5 +90,8 @@
       "carRental": "Aluguel de carros",
       "workInLapland": "Trabalhar na Lapônia"
     }
+  },
+  "photo": {
+    "credit": "Foto: LaplandVibes"
   }
 }

@@ -249,7 +249,14 @@
       "p5": "Etiskt sett är frigående, samiskt skött ren ett av de mest hållbara proteinerna på en europeisk meny: ingen industriell uppfödning, inga antibiotika, inget inhägnat bete, naturlig diet. Komplikationen är klimatet: vintrarna i Lappland blir blötare, islager bildas på snötäcket, renarna kommer inte ner till laven, och renskötarna måste stödutfodra i en del renbeteslag. Det förändrar leveranskedjan och, långsamt, smaken. Det är en historia att följa under det kommande decenniet.",
       "tasteQ": "Hur smakar ren?",
       "tasteA1": "Mildare än det mesta viltet. Renkött är magert och finfibrigt, närmare en fin oxfilé än kraftigt vilt, med ett rent, svagt sött djup som kommer från laven och fjällens örter. Eftersom fettet nästan saknas tillagas det varsamt och serveras rare till medium.",
-      "tasteA2": "Den klassiska första kontakten är poronkäristys: tunt hyvlade skivor stekta i smör, serverade på potatismos med lingon. Vid festbordet blir det bidos, den långsamma samiska grytan, och vid elden suovas, saltad och lätt kallrökt."
+      "tasteA2": "Den klassiska första kontakten är poronkäristys: tunt hyvlade skivor stekta i smör, serverade på potatismos med lingon. Vid festbordet blir det bidos, den långsamma samiska grytan, och vid elden suovas, saltad och lätt kallrökt.",
+      "subheads": [
+        "Vild i allt utom ägandet",
+        "Höstslakten, och vart köttet tar vägen",
+        "Styckdetaljerna du möter på menyn",
+        "Hållbart, tills klimatet lägger sig i"
+      ],
+      "caption": "En ren vilar vid vägen nära Ylläs, juli 2026"
     },
     "cloudberryDeep": {
       "kicker": "Fördjupning · Hjortron",
@@ -258,7 +265,11 @@
       "p2": "Decennier av jordbruksforskning har misslyckats med att kommersialisera det. Hjortronplantor är tvåbyggare (skilda han- och honplantor), växer extremt långsamt, tar 6–7 år på sig att bära frukt även under perfekta förhållanden, är känsliga för sena vårfroster som förstör årets blommor, och behöver en specifik kombination av fukt, ljus och myrkemi som har stått emot växthussimulering. Norska och finska forskare har gjort framsteg med sorter, men de kommersiella skördarna är fortfarande en bråkdel av de vilda. Så hela den finska tillgången, för sylttillverkare, likörproducenter (Lakka) och restaurangkök, är vildplockad.",
       "p3": "Det är därför ett kilo färska hjortron på en marknad i Rovaniemi i slutet av juli oftast kostar 25–50 €, fem till tio gånger priset för blåbär, och därför tillgången kollapsar om vårfrosten kommer en vecka för sent. Det är också därför hjortronparfait är Lapplands fine dining-efterrätt. Varje kock vill använda dem medan de finns.",
       "p4": "<strong>Plocketik:</strong> hjortronplantor återhämtar sig långsamt. Den samiska principen och den finska plockningskonventionen är att bara ta fullmogna bär, lämna de omogna och övermogna och aldrig plocka rent en planta. Plockar du på en liten myr räcker ett kilo per familj gott och väl.",
-      "guideLinkLabel": "Läs hela hjortronguiden"
+      "guideLinkLabel": "Läs hela hjortronguiden",
+      "subheads": [
+        "Varför odlingen misslyckas",
+        "Vad ett kilo kostar, och varför"
+      ]
     },
     "fishDeep": {
       "kicker": "Fördjupning · Insjöfisk",
@@ -268,7 +279,13 @@
       "p3": "Tekniken i sig är enkel: borra ett hål genom 50–80 cm is, släpp ner ett litet pirk med en enda krok, vänta, men den kräver temperaturer som ofta är kallare än −15 °C. Traditionellt täckte man hålet mellan besöken så att det inte frös igen. I dag använder de flesta isolerade tält (ett litet pimpeltält är billigt och förändrar upplevelsen helt).",
       "p4Prefix": "På en meny: lättrökt sik (<em>graavisiika</em>) och gäddrom på rågbröd är vardagsförrätter i Lappland. En helstekt öring är den klassiska huvudrätten. Sápmi-fisksoppa (recept på",
       "p4LinkLabel": "receptsidan",
-      "p4Suffix": ") använder det fiskarna fått in den veckan."
+      "p4Suffix": ") använder det fiskarna fått in den veckan.",
+      "subheads": [
+        "Varför vinterfisken smakar bäst",
+        "Så fungerar pimpelfisket",
+        "På tallriken"
+      ],
+      "caption": "Rökt fisk, aioli och rågbröd på en terrass i Kuusamo, juli 2026"
     },
     "everymansRight": {
       "kicker": "Allemansrätten",
@@ -969,7 +986,8 @@
         "Tillaga all vild svamp innan du äter den, även de som tekniskt sett går att äta råa. Det är en finsk konvention snarare än en strikt regel, men det är vad varje erfaren plockare gör."
       ],
       "p4": "<strong>De fyra svampar en nybörjare kan lära sig känna igen säkert</strong> på en enda eftermiddag med en svampbok är: karljohan (<em>Boletus edulis</em>), stenmurkla (<em>Gyromitra esculenta</em>, men <strong>bara efter förvällning två gånger med bortkastat kokvatten</strong>; många finländare säger att den är utsökt, många andra säger att man ska undvika den helt; båda har rätt), läcker riska (<em>Lactarius deliciosus</em>) och kantarell (<em>Cantharellus cibarius</em>). Av dessa har karljohan och kantarell inga farliga lookalikes i Finland och är de rekommenderade utgångspunkterna.",
-      "p5": "Ska du plocka svamp i Lappland för första gången, gör det med någon som redan kan. En 4-timmars guidad vandrings förhållande mellan kostnad och trygghet är oslagbart, och i Lappland leds vandringarna oftast av lokala plockare som lärt sig detta hemma, inte ur ett manus."
+      "p5": "Ska du plocka svamp i Lappland för första gången, gör det med någon som redan kan. En 4-timmars guidad vandrings förhållande mellan kostnad och trygghet är oslagbart, och i Lappland leds vandringarna oftast av lokala plockare som lärt sig detta hemma, inte ur ett manus.",
+      "caption": "Lägereld vid en skogssjö i Salla, augusti 2026. Så slutar en guidad tur oftast."
     },
     "calendar": {
       "kicker": "Säsongskalender",

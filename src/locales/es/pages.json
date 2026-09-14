@@ -249,7 +249,14 @@
       "p5": "Desde el punto de vista ético, el reno en libertad pastoreado por los samis es una de las proteínas más sostenibles de un menú europeo, sin cebadero, sin antibióticos, sin pastoreo cerrado, dieta natural. La complicación es el clima: los inviernos en Laponia son cada vez más húmedos, se forman capas de hielo sobre la nieve, los renos no pueden escarbar hasta los líquenes y los pastores se ven obligados a alimentarlos de forma complementaria en algunas cooperativas. Eso cambia la cadena de suministro y, poco a poco, el sabor. Es una historia que conviene vigilar durante la próxima década.",
       "tasteQ": "¿A qué sabe el reno?",
       "tasteA1": "Más suave que la mayoría de las carnes de caza. El reno es magro y de grano fino, más cercano a un buen solomillo de ternera que a una caza intensa, con una profundidad limpia y levemente dulce que viene del liquen y las hierbas del monte. Como casi no tiene grasa, se cocina con cuidado y se sirve poco hecho o al punto.",
-      "tasteA2": "El primer encuentro clásico es el poronkäristys: láminas finas salteadas en mantequilla sobre puré de patata con arándanos rojos. En las mesas festivas se convierte en bidos, el guiso lento sami, y junto al fuego es suovas, salado y ligeramente ahumado en frío."
+      "tasteA2": "El primer encuentro clásico es el poronkäristys: láminas finas salteadas en mantequilla sobre puré de patata con arándanos rojos. En las mesas festivas se convierte en bidos, el guiso lento sami, y junto al fuego es suovas, salado y ligeramente ahumado en frío.",
+      "subheads": [
+        "Salvaje en todo menos en la propiedad",
+        "El sacrificio de otoño, y adónde va la carne",
+        "Los cortes que encontrará en la carta",
+        "Sostenible, hasta que el clima se entromete"
+      ],
+      "caption": "Un reno descansando junto a la carretera cerca de Ylläs, julio de 2026"
     },
     "cloudberryDeep": {
       "kicker": "A fondo · La mora ártica",
@@ -258,7 +265,11 @@
       "p2": "Décadas de investigación agrícola no han logrado comercializarla. Las plantas de mora ártica son dioicas (con ejemplares macho y hembra separados), crecen muy despacio, tardan entre 6 y 7 años en dar fruto incluso en condiciones perfectas, son vulnerables a las heladas tardías de primavera que destruyen las flores del año y necesitan una combinación concreta de humedad, luz y química de turbera que se ha resistido a la simulación en invernadero. Investigadores noruegos y finlandeses han avanzado con algunos cultivares, pero los rendimientos comerciales siguen siendo una fracción de los silvestres. Así que todo el suministro finlandés, para fabricantes de mermelada, productores de licor (Lakka) y cocinas de restaurante, es de recolección silvestre.",
       "p3": "Por eso un kilo de moras árticas frescas en un mercado de Rovaniemi a finales de julio suele costar entre 25 y 50 €, de cinco a diez veces el precio de los arándanos y por eso el suministro se desploma si la helada de primavera llega una semana tarde. También es la razón por la que el parfait de mora ártica es el postre estrella de la alta cocina de Laponia. Todos los chefs quieren usarlas mientras duran.",
       "p4": "<strong>Ética de la recogida:</strong> las plantas de mora ártica se recuperan despacio. El principio sami y la convención de recolección finlandesa, es coger solo las bayas totalmente maduras, dejar las verdes y las pasadas, y no esquilmar nunca una planta. Si recolectas en una turbera pequeña, un kilo por familia es más que suficiente.",
-      "guideLinkLabel": "Lea la guía completa de la mora ártica"
+      "guideLinkLabel": "Lea la guía completa de la mora ártica",
+      "subheads": [
+        "Por qué el cultivo sigue fracasando",
+        "Cuánto cuesta un kilo, y por qué"
+      ]
     },
     "fishDeep": {
       "kicker": "A fondo · El pescado de lago",
@@ -268,7 +279,13 @@
       "p3": "La técnica en sí es sencilla, perforas un agujero con un berbiquí a través de 50–80 cm de hielo, dejas caer una pequeña pluma con un solo anzuelo y esperas, pero requiere temperaturas a menudo por debajo de los −15 °C. Tradicionalmente se tapaba el agujero entre visitas para que no volviera a helarse. Hoy la mayoría usa tiendas aislantes (un pequeño refugio de pesca en hielo es barato y cambia la experiencia por completo).",
       "p4Prefix": "En el menú: el corégono ligeramente ahumado (<em>graavisiika</em>) y las huevas de lucio sobre pan de centeno son entrantes cotidianos de Laponia. Una trucha común asada entera es el plato principal clásico. La sopa de pescado de Sápmi (receta en la",
       "p4LinkLabel": "página de recetas",
-      "p4Suffix": ") usa lo que los pescadores hayan traído esa semana."
+      "p4Suffix": ") usa lo que los pescadores hayan traído esa semana.",
+      "subheads": [
+        "Por qué el pescado de invierno sabe mejor",
+        "Cómo funciona de verdad la pesca en hielo",
+        "En el plato"
+      ],
+      "caption": "Pescado ahumado, alioli y pan de centeno en una terraza de Kuusamo, julio de 2026"
     },
     "everymansRight": {
       "kicker": "El derecho de acceso a la naturaleza",
@@ -969,7 +986,8 @@
         "Cocina todas las setas silvestres antes de comerlas, incluso las que técnicamente se pueden comer crudas. Esto es una convención finlandesa más que una regla estricta, pero es lo que hace todo recolector con experiencia."
       ],
       "p4": "<strong>Las cuatro setas que un principiante puede aprender a identificar con seguridad</strong> en una sola tarde con una guía son: el boletus / cep (<em>Boletus edulis</em>), la falsa colmenilla (<em>Gyromitra esculenta</em>, pero <strong>solo tras escaldarla dos veces y desechar el agua</strong>; muchos finlandeses le dirán que está deliciosa, muchos otros le dirán que la evite por completo; ambos tienen razón), el níscalo (<em>Lactarius deliciosus</em>) y el rebozuelo (<em>Cantharellus cibarius</em>). De estas, el boletus y el rebozuelo no tienen parientes peligrosos en Finlandia y son los puntos de partida recomendados.",
-      "p5": "Si va a recoger setas en Laponia por primera vez, hágalo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible, y en Laponia los paseos suelen dirigirlos recolectores locales que aprendieron esto en casa, no de un guion."
+      "p5": "Si va a recoger setas en Laponia por primera vez, hágalo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible, y en Laponia los paseos suelen dirigirlos recolectores locales que aprendieron esto en casa, no de un guion.",
+      "caption": "Hoguera junto a un lago del bosque en Salla, agosto de 2026. Así suele terminar una salida guiada."
     },
     "calendar": {
       "kicker": "Calendario de temporada",

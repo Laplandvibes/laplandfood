@@ -249,7 +249,14 @@
       "p5": "Eettisesti vapaa­liikkuva, saamelais­paimennettu poro on yksi eurooppalaisen menun kestävimmistä proteiineista, ei lihotusaltaita, ei antibiootteja, ei suljettua laidunta, alkuperäisruokavalio. Mutkan tuo ilmasto: Lapin talvet kostuvat, lumikertymälle muodostuu jääkerroksia, porot eivät pääse jäkälään, ja jotkin paliskunnat joutuvat täydentämään ruokintaa. Se muuttaa toimitusketjua ja, hitaasti, makua. Tämä on tarina, jota kannattaa seurata seuraavan vuosikymmenen ajan.",
       "tasteQ": "Miltä poro maistuu?",
       "tasteA1": "Miedompi kuin useimmat riistat. Poro on vähärasvaista ja hienosyistä, lähempänä hyvää naudan sisäfilettä kuin voimakasta riistaa, ja sen puhdas, hennon makea syvyys tulee jäkälästä ja tunturin yrteistä. Koska rasvaa ei juuri ole, liha kypsennetään varoen ja tarjotaan punaisena tai mediumina.",
-      "tasteA2": "Klassinen ensikosketus on poronkäristys: ohuiksi höylättyjä siivuja voissa, perunamuusin ja puolukoiden kanssa. Juhlapöydässä porosta tehdään bidos, hidas saamelaismuhennos, ja tunturissa se on suovas, suolattua ja kevyesti kylmäsavustettua."
+      "tasteA2": "Klassinen ensikosketus on poronkäristys: ohuiksi höylättyjä siivuja voissa, perunamuusin ja puolukoiden kanssa. Juhlapöydässä porosta tehdään bidos, hidas saamelaismuhennos, ja tunturissa se on suovas, suolattua ja kevyesti kylmäsavustettua.",
+      "subheads": [
+        "Villi kaikessa muussa paitsi omistuksessa",
+        "Syksyn teurastus, ja minne liha menee",
+        "Palat, jotka menulla tulevat vastaan",
+        "Kestävä, kunnes ilmasto puuttuu peliin"
+      ],
+      "caption": "Poro levolla tien varressa Ylläksellä, heinäkuu 2026"
     },
     "cloudberryDeep": {
       "kicker": "Syvällinen tarkastelu · Hilla",
@@ -259,7 +266,11 @@
       "p3": "Siksi tuoreen hillan kilo Rovaniemen torilla heinäkuun lopussa maksaa tyypillisesti 25–50 €, viidestä kymmeneen kertaa enemmän kuin mustikat, ja siksi tarjonta romahtaa, jos kevät­pakkaset osuvat viikkoa myöhemmin. Tämä on myös syy siihen, miksi hillaparfait on Lapin fine dining -jälkiruoka. Jokainen kokki haluaa käyttää niitä, kunnes ne loppuvat.",
       "p4": "<strong>Poiminta­etiikka:</strong> hilla­kasvit toipuvat hitaasti. Saamelainen periaate ja suomalainen keräily­käytäntö, on poimia vain täysin kypsät marjat, jättää raa'at ja ylikypsät, eikä koskaan riipiä kasvia. Pienellä suolla kilo perheelle riittää.",
       "boldPick": "Poiminta­etiikka:",
-      "guideLinkLabel": "Lue koko hillaopas"
+      "guideLinkLabel": "Lue koko hillaopas",
+      "subheads": [
+        "Miksi viljely ei onnistu",
+        "Mitä kilo maksaa, ja miksi"
+      ]
     },
     "fishDeep": {
       "kicker": "Syvällinen tarkastelu · Järvikala",
@@ -269,7 +280,13 @@
       "p3": "Tekniikka itsessään on suora­viivainen, pora reikä 50–80 cm:n jään läpi, pudota pieni jigi yhdellä koukulla, odota, mutta vaatii usein alle −15 °C lämpötiloja. Perinteisesti reikä peitettiin käyntien välillä, jottei se jäätyisi uudelleen umpeen. Nykyään useimmat käyttävät eristettyjä telttoja (pieni pilkki­suoja on edullinen ja muuttaa kokemuksen täysin).",
       "p4Prefix": "Ruokalistalla: kevyesti savustettu siika (<em>graavisiika</em>) ja haukimäti ruisleivällä ovat Lapin arki­alkuruokia. Kokonaisena paahdettu taimen on klassinen pää­ruoka. Sápmi­kalakeitto (resepti",
       "p4LinkLabel": "reseptisivulla",
-      "p4Suffix": ") käyttää sitä, mitä kalastajat toivat tällä viikolla."
+      "p4Suffix": ") käyttää sitä, mitä kalastajat toivat tällä viikolla.",
+      "subheads": [
+        "Miksi talvikala maistuu parhaalta",
+        "Näin pilkkiminen oikeasti toimii",
+        "Lautasella"
+      ],
+      "caption": "Savukalaa, aiolia ja ruisleipää kuusamolaisella terassilla, heinäkuu 2026"
     },
     "everymansRight": {
       "kicker": "Jokamiehenoikeus",
@@ -970,7 +987,8 @@
         "Kypsennä kaikki villisienet ennen syömistä, jopa ne jotka ovat teknisesti syötäviä raakana. Tämä on suomalainen tapa, ei tiukka sääntö, mutta sitä tekevät kaikki kokeneet poimijat."
       ],
       "p4": "<strong>Neljä sientä, jotka aloittelija voi oppia tunnistamaan turvallisesti</strong> yhden iltapäivän aikana opaskirjalla, ovat: herkkutatti (<em>Boletus edulis</em>), korvasieni (<em>Gyromitra esculenta</em>, mutta <strong>vain kahdesti esikeitettynä ja vesi heitettynä pois</strong>; monet suomalaiset sanovat sen olevan herkullinen, monet toiset välttävät sitä kokonaan; molemmat ovat oikeassa), männynleppärousku (<em>Lactarius deliciosus</em>) ja kantarelli (<em>Cantharellus cibarius</em>). Näistä herkkutatilla ja kantarellilla ei ole vaarallisia lähilajeja Suomessa, ja ne ovat suositeltuja aloitus­kohteita.",
-      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken hinta-hyötysuhde on lyömätön, ja Lapissa retkiä vetävät tyypillisesti paikalliset keräilijät, jotka ovat oppineet tämän kotona eivätkä käsikirjoituksesta."
+      "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken hinta-hyötysuhde on lyömätön, ja Lapissa retkiä vetävät tyypillisesti paikalliset keräilijät, jotka ovat oppineet tämän kotona eivätkä käsikirjoituksesta.",
+      "caption": "Nuotio metsäjärven rannalla Sallassa, elokuu 2026. Opastettu retki päättyy yleensä tähän."
     },
     "calendar": {
       "kicker": "Vuoden­aikakalenteri",
