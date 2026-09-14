@@ -244,7 +244,7 @@
       "headline": "Hur en ren hamnar på en tallrik i Lappland.",
       "p1": "Finlands rennäring regleras av renskötsellagen, som begränsar ägandet till personer som är bosatta i renskötselområdet (i praktiken norra Finland). Djuren tillhör enskilda renskötare men betar tillsammans i renbeteslag, <em>paliskunnat</em>, som delar område och arbete. Det finns omkring 200 000 renar fördelade på ungefär 54 renbeteslag, alla i Lappland och delar av Norra Österbotten.",
       "p2": "Hjorden är vild i allt utom ägandet. Renarna strövar fritt över enorma sträckor av ostängslad taiga och tundra och äter det de hittar: lav på vintern (dieten som ger köttet dess särskilda rena smak), gräs och örter på sommaren, svamp på hösten. Renskötarna spårar sina djur med skotrar och fyrhjulingar, samlar ihop dem två gånger om året för öronmärkning och (på hösten) urval för slakt, och låter dem sedan sprida ut sig igen.",
-      "p3": "Slakten sker på hösten, vanligtvis oktober–november, när djuren väger som mest. Varje renbeteslag driver sitt eget EU-godkända slakteri. Det mesta av köttet säljs inom några hundra kilometer från där djuret levde, till restauranger i Lappland, till specialslaktare i Helsingfors och övriga södra Finland, och till en liten men seriös exportmarknad i Centraleuropa.",
+      "p3": "Slakten sker på hösten, vanligtvis oktober–november, när djuren väger som mest. Köttet går genom renskötselområdets 19 EU-godkända renslakterier, varav 17 ägs av renbeteslagen eller renägarna själva. Det mesta av köttet säljs inom några hundra kilometer från där djuret levde, till restauranger i Lappland, till specialslaktare i Helsingfors och övriga södra Finland, och till en liten men seriös exportmarknad i Centraleuropa.",
       "p4": "<strong>Styckdelarna du ser på en meny i Lappland</strong> motsvarar ungefär en nötköttsvokabulär: <em>filee</em> (filé, sous vide-territorium), <em>sisäpaisti / ulkopaisti</em> (innanlår / ytterlår, helstekt eller skivat till varmrökta rätter), <em>poronkäristys</em> (stekt ren, den finska vardagsklassikern: tunna skivor, smör, salt, serverat på potatismos med lingon) och <em>suovas</em> (kallrökt rensadel, äts i tunna skivor med rågbröd). Bidos använder segare grytbitar, oftast bog och lägg, och därför får den koka i timmar.",
       "p5": "Etiskt sett är frigående, samiskt skött ren ett av de mest hållbara proteinerna på en europeisk meny: ingen industriell uppfödning, inga antibiotika, inget inhägnat bete, naturlig diet. Komplikationen är klimatet: vintrarna i Lappland blir blötare, islager bildas på snötäcket, renarna kommer inte ner till laven, och renskötarna måste stödutfodra i en del renbeteslag. Det förändrar leveranskedjan och, långsamt, smaken. Det är en historia att följa under det kommande decenniet.",
       "tasteQ": "Hur smakar ren?",
@@ -721,7 +721,7 @@
       "headline": "Varför recepten kommer tillbaka.",
       "p1": "Under större delen av 1900-talet fanns samisk mat i två parallella verkligheter. I samiska hem var det bara middag, självklar, oromantiserad, samma mat som förra generationen lagade. Utanför Sápmi var den nästan osynlig: en fotnot i turistbroschyrer, ibland exotiserad, oftare ignorerad.",
       "p2": "Vändningen började i slutet av 00-talet. Det nynordiska köket, som drogs igång av Noma i Köpenhamn, gjorde plockad, hyperlokal, nordisk urfolksmat kortvarigt inne på fine dining-restauranger i hela Skandinavien. Finska kockar märkte att köket som resten av världen blev entusiastisk över, vilda örter, mjölksyrade bär, rökt fisk, långkokt vilt, hade legat på samiska tallrikar i tusen år. Flödet gick åt andra hållet ett tag: samiska tekniker och råvaror flödade in i avsmakningsmenyer i Helsingfors.",
-      "p3": "Sedan började den samiska matvärlden ta tillbaka samtalet. Restaurang Aanaar i Inari byggde ett fine dining-program som utan ursäkter är samiskt först och gastronomiskt sedan. Slow Food Sápmi-avdelningen drev på för skyddad status för traditionella produkter som <em>suovas</em> (kallrökt ren) och <em>guompa</em> (fermenterad kvanne). Samiska kockar började utbilda samiska lärlingar istället för att skicka dem till fransk-klassiska kök. Toppmötet Indigenous Terra Madre 2017 i Inari, en global sammankomst för urfolksmat, var en vändpunkt.",
+      "p3": "Sedan började den samiska matvärlden ta tillbaka samtalet. Restaurang Aanaar i Inari byggde ett fine dining-program som utan ursäkter är samiskt först och gastronomiskt sedan. Slow Food Sápmi fick Slow Food Presidium-status för traditionella produkter som <em>suovas</em> (kallrökt ren) och <em>gurpi</em> (kallrökt renfärs). Samiska kockar började utbilda samiska lärlingar i stället för att skicka dem till fransk-klassiska kök. Slow Foods första Indigenous Terra Madre-möte, som samerna stod värd för i Jokkmokk 2011, var en vändpunkt.",
       "p4": "Nuläget är intressant. Samisk mat finns på Michelin-listade menyer i Helsingfors och på vardagsbordet i Utsjoki, men recepten närmar sig varandra mindre än man skulle tro. Fine dining-versionerna får teknikuppgraderingen, sous vide, mjölksyrning, garnering med plockade blommor. Hemmaversionerna förblir nästan oförändrade. Båda är giltiga. Recepten på den här sidan är hemmaversionerna.",
       "p5Prefix": "Vill du smaka på fine dining-tolkningen, gå till",
       "p5ModernLabel": "Moderna Lappland",
@@ -873,12 +873,12 @@
       "secondaryCta": "Hur de hamnar på tallriken"
     },
     "intro": {
-      "lead": "Att plocka i naturen är inget udda i Finland. Det är en vanlig sommaraktivitet för omkring 40 % av befolkningen.",
+      "lead": "Att plocka i naturen är inget udda i Finland. Långt över hälften av befolkningen plockar vilda bär varje år.",
       "points": [
         {
           "n": "01",
           "title": "Vanligt, inte smalt",
-          "body": "Omkring 40 % av finländarna plockar. Siffran kommer från hushållsundersökningar av Naturresursinstitutet (Luke), och den går tvärs över stad och landsbygd, ålder och inkomst."
+          "body": "57 % av finländarna plockar vilda bär och omkring 40 % plockar svamp. Siffrorna kommer från Naturresursinstitutets (Luke) undersökningar om friluftsliv, och de går tvärs över stad och landsbygd, ålder och inkomst."
         },
         {
           "n": "02",
@@ -1020,7 +1020,7 @@
         "Fiska med ett enda spö och bete (inget tillstånd behövs för enkelt metande, fiskevårdsavgiften täcker de flesta sjöar).",
         "Tälta tillfälligt, oftast en natt, på det mesta av den oodlade marken, på avstånd från hus.",
         "Bada, tvätta dig och använda vatten från alla vattendrag, även privata.",
-        "Korsa frusna sjöar och älvar, köra skoter eller åka skidor på det mesta av den oodlade terrängen (med särskilda regler för skoter)."
+        "Korsa frusna sjöar och älvar till fots eller på skidor. Snöskoter ingår inte i allemansrätten: utanför de officiella lederna krävs markägarens tillstånd."
       ],
       "cannotHeadline": "Du får inte:",
       "cannot": [
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsingfors bär stjärnorna",
-        "body": "Finlands Michelin-listade restauranger är koncentrerade till Helsingfors, nästan varje stjärnmärkt finsk restaurang i de senaste utgåvorna av den nordiska guiden har legat i huvudstaden. Åbo och Tammerfors har funnits på inspektörernas radar men stjärnor kommer och går."
+        "body": "Finlands Michelinrestauranger är koncentrerade till Helsingfors: sex av de åtta stjärnmärkta finska restaurangerna i 2026 års nordiska guide ligger i huvudstaden. Utanför den håller Kaskis i Åbo och Vår i Borgå en stjärna var, och stjärnor kommer och går."
       },
       {
         "title": "Lappland är fine dining-ambitiöst",
@@ -1148,8 +1148,8 @@
     ],
     "helsinki": {
       "kicker": "Michelin i Helsingfors",
-      "headline": "Åtta restauranger värda att boka i Helsingfors.",
-      "lead": "Stjärnbeteckningar ändras från år till år, kontrollera den aktuella listan i guiden innan du bokar. De åtta nedan är restaurangerna som konsekvent legat i eller nära guiden och som resenärer återkommer för att prata om. Prisintervallet följer Michelinguidens konvention: € (under 40 € per person), €€ (40–80 €), €€€ (80–140 €), €€€€ (140+ €).",
+      "headline": "Sju restauranger värda att boka i Helsingfors.",
+      "lead": "Stjärnorna ändras från år till år, så kontrollera den aktuella listan i guiden innan du bokar. De sju nedan finns i 2026 års nordiska guide eller har legat nära den i flera år, och resenärer återkommer för att prata om dem. Prisklasserna är våra egna, per person utan dryck: € (under 40 €), €€ (40–80 €), €€€ (80–140 €), €€€€ (över 140 €).",
       "ctaHotels": "Hotell i Helsingfors",
       "footnote": "Oberoende redaktionellt innehåll. Inte anslutet till Michelinguiden. Stjärnbeteckningar och Bib Gourmand-listningar gäller endast för den aktuella nordiska guideutgåvan, kolla guide.michelin.com innan du bokar.",
       "rooms": [
@@ -1157,49 +1157,50 @@
           "name": "Olo",
           "where": "Pohjoisesplanadi, Helsingfors",
           "angle": "En långlivad fine dining-institution. Avsmakningsmenyer med rötter i finska råvaror och klassisk nordisk teknik.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Palace",
           "where": "10:e våningen, Eteläranta, hamnutsikt",
           "angle": "Gammaldags hamnutsikt över Helsingfors, modernt utförande. Den klassiska finska fiskrätten (gös, kuha) är signaturen.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
           "name": "Demo",
           "where": "Uudenmaankatu, Helsingfors",
           "angle": "En kompakt avsmakningsmenyrestaurang, råvarustyrd, ofta omnämnd i guiden för sitt förhållande mellan pris och skicklighet.",
-          "band": "€€€"
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Grön",
           "where": "Albertinkatu, Helsingfors",
-          "angle": "Växtbaserad avsmakningsmeny (grönsaker, fisk, plockat) med ett stramt vinpaket. Bokas ut snabbast i staden.",
-          "band": "€€€€"
+          "angle": "Växtbaserad avsmakningsmeny (grönsaker, fisk, plockat) med ett stramt vinpaket. Fick sin andra stjärna 2026; bokas ut snabbast i staden.",
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
-          "name": "Inari",
-          "where": "Albertinkatu, Helsingfors",
-          "angle": "Samiskt inspirerad fine dining, samma kockbakgrund som Olo, mindre lokal, mer fokuserad.",
-          "band": "€€€€"
+          "name": "Boreal",
+          "where": "Uudenmaankatu, Helsingfors",
+          "angle": "Öppnade hösten 2025 och fick sin stjärna inom ett år. Kocken Pasha Demins hypersäsongsbetonade överraskningsmeny bygger på fermentering, vilt plockat och små lokala leverantörer.",
+          "band": "€€",
+          "stars": "★ 2026"
         },
         {
-          "name": "Ora",
-          "where": "Huvilakatu, Eira",
-          "angle": "Modernt nordiskt i en lokal i ett bostadskvarter. Ofta hyllad för kocken Sasu Laukkonens råvarudrivna meny.",
-          "band": "€€€€"
-        },
-        {
-          "name": "Finnjävel",
+          "name": "Finnjävel Salonki",
           "where": "Helsingfors",
-          "angle": "Modernt finskt, omtänkta klassiker. Mindre dämpat än de andra; mer teatral servering.",
-          "band": "€€€"
+          "angle": "Modernt finskt, omtänkta klassiker; Salonki är den stjärnmärkta avsmakningssalen. Mindre dämpat än de andra, mer teatral servering.",
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Ultima",
-          "where": "Helsingfors",
-          "angle": "Avsmakningsmeny med råvaror från en vertikal odling i källaren. Den mest genuint \"Helsingfors 2026\"-restaurangen på listan.",
-          "band": "€€€€"
+          "where": "Eteläranta, Salutorget",
+          "angle": "Avsmakningsmeny där en del av råvarorna odlas i huset (hydroponiska örter, svamp på kaffesump). Hållbarhet först, vid Salutorgets strand.",
+          "band": "€€€€",
+          "stars": ""
         }
       ]
     },
@@ -1218,28 +1219,28 @@
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centrala Rovaniemi",
-          "angle": "Den mest omnämnda fine dining-restaurangen i Lappland. Samiskt rotade rätter, sous vide-renfilé med blåbärsreduktion är signaturen, vid sidan av ett program på vilda bär som lutar sig mot det plockare i Inari fått in samma morgon. Öppet kök, varm träinredning, 60 kuvert.",
+          "angle": "Den mest omnämnda fine dining-restaurangen i Lappland. Samiskt rotade rätter: sous vide-renfilé med blåbärsreduktion är signaturen, och programmet på vilda bär lutar sig mot det plockarna i Inari fått in samma morgon. Öppet kök, varm träinredning, en matsal med 65 platser och Nilin Nesti tvärs över gatan.",
           "signature": "Sous vide-renfilé · tallgravad röding · hjortronparfait",
-          "band": "€€€, avsmakningsmeny 68 € · à la carte-huvudrätter 28–42 €",
-          "booking": "Boka 3–4 veckor i förväg på sommaren/i december. Drop-in möjligt tis–ons."
+          "band": "€€€, avsmakningsmeny och à la carte (aktuella priser på nili.fi)",
+          "booking": "Boka 3–4 veckor i förväg på sommaren och i december; bordsbokning online på nili.fi."
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · vid Juutuanjoki-älven",
-          "angle": "Det närmaste en destinationsmiddag djupt inne i sameland. Kocken bygger menyer kring Inaris åtta samiska årstider, mjölksyrade blåbär, rökt renhjärta, kallgravad röding och vinlistan är ovanligt djup för en ort med 7 000 invånare.",
-          "signature": "Avsmakning i 7 rätter på vilda bär · rökt renhjärta · björksirapsparfait",
-          "band": "€€€€, avsmakningsmeny 85 €, med vinpaket 145 €",
-          "booking": "Två sittningar per kväll, 32 kuvert totalt. Boka 6–8 veckor i förväg på vintern och under midnattssolsfönstret."
+          "address": "Wilderness Hotel Juutua (tidigare Hotel Kultahovi), Saarikoskentie 2, Inari · vid Juutuanjoki",
+          "angle": "Det närmaste en destinationsmiddag djupt inne i Sápmi. Köket lagar Inaris eget skafferi: fisk från Enare träsk, ren, kvanne och lav från fjällen, och vinlistan är ovanligt djup för en kommun med 7 000 invånare.",
+          "signature": "Fisk från Enare träsk · ren · kvanne och lav från fjällen",
+          "band": "€€€, 3-rättersmeny 65 € · 5-rättersmeny 90 € (2026), vinpaket 30–41 €",
+          "booking": "Köket öppet dagligen 17–22. Boka 6–8 veckor i förväg på vintern och under midnattssolen."
         },
         {
           "name": "Rakas at Arctic TreeHouse Hotel",
           "city": "Rovaniemi · vid Santa Park",
-          "address": "Tarvantie 3, 7 km från centrala Rovaniemi · taxi eller hotellets skyttelbuss",
-          "angle": "Matsal med glastak vänd mot norr, helt panoramisk över granskogen, utformad så att du kan se norrskenet under avsmakningsmenyn på vintern. Confiterad arktisk sik under vildörtolja är restaurangens signatur, upplagd med plockade microgreens och ätbara blommor.",
-          "signature": "Confiterad arktisk sik · tallgravad öring · choklad- och lingonkupol",
-          "band": "€€€€, fyrarättersmeny 78 € · sjurättersmeny 115 €",
-          "booking": "Hotellgäster har förtur. Icke-gäster bokar 4 veckor i förväg på vintern."
+          "address": "Tarvantie 3, 6 km från Rovaniemi centrum · taxi eller bil",
+          "angle": "I Arctic TreeHouse Hotels huvudbyggnad, 6 km från centrum: lappländska råvaror med modern twist, kottelampor och öppen spis. Renrack med mörk ölsås och hjortronsorbet bär upp avsmakningsmenyn.",
+          "signature": "Renrack · gravad sik från Enare · hjortronsorbet",
+          "band": "€€€€, 7-rätters avsmakningsmeny 120 € · à la carte-huvudrätter 25–49 € (2026)",
+          "booking": "Öppet även för andra än hotellgäster; à la carte dagligen 18–22. Boka i förväg på vintern."
         }
       ]
     },

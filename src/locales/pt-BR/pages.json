@@ -244,7 +244,7 @@
       "headline": "Como uma rena chega a um prato da Lapônia.",
       "p1": "A indústria da rena na Finlândia é regulada pela Lei de Pastoreio de Renas, que restringe a propriedade a pessoas domiciliadas na área de pastoreio (na prática, o norte da Finlândia). Os animais pertencem a pastores individuais, mas pastam juntos em cooperativas, <em>paliskunnat</em>, que compartilham território e trabalho. Há cerca de 200.000 renas em aproximadamente 54 cooperativas, todas na Lapônia e em partes da Ostrobótnia do Norte.",
       "p2": "O rebanho é selvagem em tudo menos na propriedade. As renas vagam livremente por enormes extensões de taiga e tundra sem cercas, comendo o que encontram: líquens no inverno (a dieta que dá à carne seu sabor limpo e característico), gramíneas e ervas no verão, brotos de cogumelos no outono. Os pastores acompanham os animais de moto de neve e quadriciclo, reúnem-nos duas vezes por ano para marcar as orelhas e (no outono) selecionar os que irão ao abate, e depois os deixam se dispersar de novo.",
-      "p3": "O abate acontece no outono, normalmente entre outubro e novembro, quando os animais estão no peso máximo. Cada cooperativa opera o próprio abatedouro aprovado pela UE. A maior parte da carne é vendida a algumas centenas de quilômetros de onde o animal viveu, para restaurantes da Lapônia, para açougues especializados em Helsinque e no resto do sul da Finlândia, e para um mercado de exportação pequeno, mas sério, na Europa Central.",
+      "p3": "O abate acontece no outono, normalmente entre outubro e novembro, quando os animais estão no peso máximo. A carne passa pelos 19 abatedouros de rena aprovados pela UE da área de criação, 17 deles pertencentes às cooperativas ou aos próprios criadores. A maior parte da carne é vendida a algumas centenas de quilômetros de onde o animal viveu, para restaurantes da Lapônia, para açougues especializados em Helsinque e no resto do sul da Finlândia, e para um mercado de exportação pequeno, mas sério, na Europa Central.",
       "p4": "<strong>Os cortes que você verá num cardápio da Lapônia</strong> correspondem, em linhas gerais, ao vocabulário do boi: <em>fileé</em> (filé, território de sous-vide), <em>sisäpaisti / ulkopaisti</em> (coxão mole / coxão duro, assados inteiros ou fatiados para pratos defumados a quente), <em>poronkäristys</em> (rena salteada, o prato do dia a dia por excelência, fatias finas, manteiga, sal, servido sobre purê com airela-vermelha) e <em>suovas</em> (lombo defumado a frio, comido em lascas com pão de centeio). O bidos usa cortes de ensopado mais duros, geralmente paleta e músculo, e por isso cozinha por horas.",
       "p5": "Do ponto de vista ético, a rena de criação livre pastoreada pelos sámi é uma das proteínas mais sustentáveis de um cardápio europeu, sem confinamento, sem antibióticos, sem pastagem cercada, dieta natural. A complicação é o clima: os invernos na Lapônia estão ficando mais úmidos, camadas de gelo se formam sobre a neve, as renas não conseguem cavar até os líquens e os pastores precisam alimentá-las de forma complementar em algumas cooperativas. Isso muda a cadeia de fornecimento e, aos poucos, o sabor. É uma história para acompanhar na próxima década.",
       "tasteQ": "Qual é o gosto da carne de rena?",
@@ -300,7 +300,7 @@
       ]
     }
   },
-  "amora ártica": {
+  "cloudberry": {
     "title": "Amora ártica: a fruta que ninguém cultiva",
     "description": "Qual é o gosto da amora ártica, quando chega a curta temporada, por que o cultivo fracassa, quanto custa o quilo em Rovaniemi e onde prová-la na Lapônia.",
     "hero": {
@@ -667,52 +667,52 @@
       "p2": "Os nomes abaixo são os originais em sámi setentrional. As datas são aproximadas, as estações da Sápmi se regem mais pela fenologia (o que a terra está fazendo) do que pelo calendário.",
       "items": [
         {
-          "sámi": "Dálvi",
           "en": "Inverno",
           "when": "Dez – fev",
-          "body": "Noite polar e o frio mais profundo. As renas estão nas pastagens de inverno, raspando o líquen sob a neve. A casa vive do que foi conservado no outono: rena salgada e defumada a frio (suovas), peixe salgado, frutas congeladas, farinha de centeio. A panela do dia a dia é simples, carne cozida e sopa de peixe. O bidos, o ensopado de rena, fica para casamentos e dias de festa."
+          "body": "Noite polar e o frio mais profundo. As renas estão nas pastagens de inverno, raspando o líquen sob a neve. A casa vive do que foi conservado no outono: rena salgada e defumada a frio (suovas), peixe salgado, frutas congeladas, farinha de centeio. A panela do dia a dia é simples, carne cozida e sopa de peixe. O bidos, o ensopado de rena, fica para casamentos e dias de festa.",
+          "sami": "Dálvi"
         },
         {
-          "sámi": "Giđđadálvi",
           "en": "Inverno-primavera",
           "when": "Mar – abr",
-          "body": "A luz volta. Os rebanhos começam a se mover para as áreas de parição; a parição em si ainda está a semanas de distância. A pesca no gelo está no auge, o sol fica tempo suficiente para pescar no lago sem congelar, e os peixes continuam sob gelo grosso. O coregono defumado domina. Os dias ficam cerca de sete minutos mais longos a cada dia."
+          "body": "A luz volta. Os rebanhos começam a se mover para as áreas de parição; a parição em si ainda está a semanas de distância. A pesca no gelo está no auge, o sol fica tempo suficiente para pescar no lago sem congelar, e os peixes continuam sob gelo grosso. O coregono defumado domina. Os dias ficam cerca de sete minutos mais longos a cada dia.",
+          "sami": "Giđđadálvi"
         },
         {
-          "sámi": "Giđđa",
           "en": "Primavera",
           "when": "Mai",
-          "body": "O degelo, e o mês que os sámi chamam de miessemánnu, o mês dos filhotes. Os filhotes nascem. Surgem as primeiras folhas de bétula e os brotos de urtiga, o primeiro verde fresco em sete meses. A seiva de bétula é colhida e bebida fresca ou fermentada. As aves migratórias voltaram para os montes."
+          "body": "O degelo, e o mês que os sámi chamam de miessemánnu, o mês dos filhotes. Os filhotes nascem. Surgem as primeiras folhas de bétula e os brotos de urtiga, o primeiro verde fresco em sete meses. A seiva de bétula é colhida e bebida fresca ou fermentada. As aves migratórias voltaram para os montes.",
+          "sami": "Giđđa"
         },
         {
-          "sámi": "Giđđageassi",
           "en": "Primavera-verão",
           "when": "Jun",
-          "body": "A primeira metade do sol da meia-noite. Os filhotes correm com o rebanho e começa a marcação das orelhas. O solo finalmente está quente o bastante para as ervas silvestres (ulmária, mil-folhas, angélica). Os assados substituem os ensopados. Leite fresco e manteiga voltam das pastagens da montanha."
+          "body": "A primeira metade do sol da meia-noite. Os filhotes correm com o rebanho e começa a marcação das orelhas. O solo finalmente está quente o bastante para as ervas silvestres (ulmária, mil-folhas, angélica). Os assados substituem os ensopados. Leite fresco e manteiga voltam das pastagens da montanha.",
+          "sami": "Giđđageassi"
         },
         {
-          "sámi": "Geassi",
           "en": "Verão",
           "when": "Jul",
-          "body": "Sol da meia-noite pleno. A colheita da amora ártica, uma janela intensa de cerca de três semanas em que as famílias passam noites inteiras no pântano. As ervas são secas para o inverno; as frutas viram geleia, são congeladas ou fermentadas. A pesca no lago é diária. A cozinha quase não fecha."
+          "body": "Sol da meia-noite pleno. A colheita da amora ártica, uma janela intensa de cerca de três semanas em que as famílias passam noites inteiras no pântano. As ervas são secas para o inverno; as frutas viram geleia, são congeladas ou fermentadas. A pesca no lago é diária. A cozinha quase não fecha.",
+          "sami": "Geassi"
         },
         {
-          "sámi": "Čakčageassi",
           "en": "Verão-outono",
           "when": "Ago – início de set",
-          "body": "Estação do mirtilo e da airela-vermelha. Surgem os cogumelos, boletos, lactários, cantarelos. Os dias ainda são longos; as noites começam a esfriar. As renas estão no peso máximo. A despensa enche: geleias, peixe salgado, cogumelos secos, frutas congeladas."
+          "body": "Estação do mirtilo e da airela-vermelha. Surgem os cogumelos, boletos, lactários, cantarelos. Os dias ainda são longos; as noites começam a esfriar. As renas estão no peso máximo. A despensa enche: geleias, peixe salgado, cogumelos secos, frutas congeladas.",
+          "sami": "Čakčageassi"
         },
         {
-          "sámi": "Čakča",
           "en": "Outono",
           "when": "Set – out",
-          "body": "A temporada de abate. As renas são reunidas; os pastores escolhem quais animais abater para o inverno. A carne é processada: defumada a frio como suovas, seca e congelada. É o banco de proteína que precisa durar sete meses. As primeiras geadas adoçam os mirtilos-vermelhos."
+          "body": "A temporada de abate. As renas são reunidas; os pastores escolhem quais animais abater para o inverno. A carne é processada: defumada a frio como suovas, seca e congelada. É o banco de proteína que precisa durar sete meses. As primeiras geadas adoçam os mirtilos-vermelhos.",
+          "sami": "Čakča"
         },
         {
-          "sámi": "Čakčadálvi",
           "en": "Outono-inverno",
           "when": "Nov",
-          "body": "A escuridão volta. A neve se assenta. Últimos trabalhos de conserva, peixe salgado, geleias na despensa, contagem do estoque. A cozinha se apoia no calor: ensopados, sopas, pão de centeio assado, sucos quentes de frutas. Tudo agora sai da despensa do outono."
+          "body": "A escuridão volta. A neve se assenta. Últimos trabalhos de conserva, peixe salgado, geleias na despensa, contagem do estoque. A cozinha se apoia no calor: ensopados, sopas, pão de centeio assado, sucos quentes de frutas. Tudo agora sai da despensa do outono.",
+          "sami": "Čakčadálvi"
         }
       ]
     },
@@ -721,7 +721,7 @@
       "headline": "Por que as receitas estão voltando.",
       "p1": "Durante a maior parte do século XX, a comida sámi existiu em duas realidades paralelas. Nas casas sámi era simplesmente o jantar, sem afetação, sem romantismo, a mesma comida que a geração anterior cozinhava. Fora da Sápmi era quase invisível: uma nota de rodapé em folhetos turísticos, vez ou outra exotizada, na maioria das vezes ignorada.",
       "p2": "A virada começou no fim dos anos 2000. A cozinha nórdica nova, lançada pelo Noma em Copenhague, deixou brevemente na moda a comida colhida, hiperlocal e indígena do norte nos salões de alta gastronomia de toda a Escandinávia. Os chefs finlandeses notaram que a cozinha que entusiasmava o resto do mundo, ervas silvestres, frutas lactofermentadas, peixe defumado, caça em fogo baixo, estava nos pratos sámi havia mil anos. Por um tempo o fluxo correu no sentido contrário: técnicas e ingredientes sámi foram parar nos menus degustação de Helsinque.",
-      "p3": "Depois o mundo gastronômico sámi começou a reivindicar a conversa. O restaurante Aanaar, em Inari, construiu um programa de alta gastronomia que é, sem pedir desculpas, primeiro sámi e depois gastronômico. O capítulo do Slow Food Sápmi pressionou por status protegido para produtos tradicionais como o <em>suovas</em> (rena defumada a frio) e a <em>guompa</em> (angélica fermentada). Os chefs sámi começaram a formar aprendizes sámi em vez de mandá-los a cozinhas franco-clássicas. A cúpula Indigenous Terra Madre de 2017, em Inari, encontro mundial de comida indígena, , foi um ponto de virada.",
+      "p3": "Depois o mundo gastronômico sámi começou a reivindicar a conversa. O restaurante Aanaar, em Inari, construiu um programa de alta gastronomia que é, sem pedir desculpas, primeiro sámi e depois gastronômico. O Slow Food Sápmi conseguiu o status de Fortaleza Slow Food para produtos tradicionais como o <em>suovas</em> (rena defumada a frio) e o <em>gurpi</em> (carne moída de rena defumada a frio). Os chefs sámi começaram a formar aprendizes sámi em vez de mandá-los a cozinhas franco-clássicas. O primeiro encontro Indigenous Terra Madre do Slow Food, sediado pelos sámi em Jokkmokk em 2011, foi um ponto de virada.",
       "p4": "O momento atual é interessante. A comida sámi está em menus com estrela Michelin de Helsinque e na mesa de cada dia em Utsjoki, mas as receitas convergem menos do que se imaginaria. As versões de alta gastronomia ganham o upgrade técnico, sous-vide, lactofermentação, guarnição de flores colhidas. As versões caseiras seguem quase inalteradas. As duas são válidas. As receitas desta página são as versões caseiras.",
       "p5Prefix": "Se você quer provar a interpretação de alta gastronomia, vá à",
       "p5ModernLabel": "Lapônia moderna",
@@ -873,12 +873,12 @@
       "secondaryCta": "Como isso chega ao prato"
     },
     "intro": {
-      "lead": "Colher na Finlândia não é excêntrico. É uma atividade rotineira de verão para cerca de 40% da população.",
+      "lead": "Colher na Finlândia não é excêntrico. Bem mais da metade da população colhe frutas silvestres todo ano.",
       "points": [
         {
           "n": "01",
           "title": "Corrente principal, não nicho",
-          "body": "Cerca de 40% dos finlandeses coletam. O número vem das pesquisas domiciliares do Instituto de Recursos Naturais da Finlândia (Luke) e atravessa cidade e campo, idade e renda."
+          "body": "57% dos finlandeses colhem frutas silvestres e cerca de 40% colhem cogumelos: os números vêm das pesquisas de recreação na natureza do Instituto de Recursos Naturais da Finlândia (Luke) e atravessam cidade e campo, idade e renda."
         },
         {
           "n": "02",
@@ -1020,7 +1020,7 @@
         "Pescar com uma única vara e isca (sem licença para a pesca básica; a taxa de gestão pesqueira cobre a maioria dos lagos).",
         "Acampar temporariamente, geralmente uma noite, na maior parte das terras não cultivadas, longe das casas.",
         "Nadar, lavar-se e usar a água de qualquer corpo d'água, inclusive os privados.",
-        "Atravessar lagos e rios congelados, andar de moto de neve ou esquiar na maior parte do terreno não cultivado (com as regras específicas da moto de neve)."
+        "Atravessar lagos e rios congelados a pé ou de esqui. A moto de neve não faz parte do direito de acesso à natureza: fora das rotas oficiais é preciso ter a permissão do dono da terra."
       ],
       "cannotHeadline": "Você não pode:",
       "cannot": [
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinque concentra as estrelas",
-        "body": "Os restaurantes finlandeses listados no Michelin se concentram em Helsinque, quase todo restaurante finlandês com estrela nas edições recentes do Guia Nórdico ficou na capital. Turku e Tampere já estiveram no radar dos inspetores, mas as estrelas vão e vêm."
+        "body": "Os restaurantes Michelin da Finlândia se concentram em Helsinque: seis dos oito restaurantes finlandeses estrelados no Guia Nórdico 2026 ficam na capital. Fora dela, o Kaskis, em Turku, e o Vår, em Porvoo, têm uma estrela cada, e as estrelas vão e vêm."
       },
       {
         "title": "A Lapônia é ambiciosa na alta gastronomia",
@@ -1148,8 +1148,8 @@
     ],
     "helsinki": {
       "kicker": "Michelin de Helsinque",
-      "headline": "Oito salões que valem uma reserva em Helsinque.",
-      "lead": "As designações de estrela mudam de ano para ano, verifique a lista vigente no Guia antes de reservar. Os oito abaixo são os salões que estiveram dentro ou perto do Guia de forma consistente e dos quais os viajantes voltam falando. A faixa de preço usa a convenção do Guia Michelin: € (até € 40 por pessoa), €€ (€ 40–80), €€€ (€ 80–140), €€€€ (€ 140+).",
+      "headline": "Sete salões que valem uma reserva em Helsinque.",
+      "lead": "As estrelas mudam de ano para ano, então verifique a lista vigente no Guia antes de reservar. Os sete abaixo estão no Guia Nórdico 2026 ou ficaram perto dele por anos, e os viajantes voltam falando deles. As faixas de preço são nossas, por pessoa sem bebidas: € (até € 40), €€ (€ 40–80), €€€ (€ 80–140), €€€€ (acima de € 140).",
       "ctaHotels": "Hotéis em Helsinque",
       "footnote": "Editorial independente. Sem afiliação com o Guia Michelin. As designações de estrela e as listagens Bib Gourmand só valem na data da edição vigente do Guia Nórdico, consulte guide.michelin.com antes de reservar.",
       "rooms": [
@@ -1157,49 +1157,50 @@
           "name": "Olo",
           "where": "Pohjoisesplanadi, Helsinque",
           "angle": "Instituição da alta gastronomia de longa data. Menus degustação enraizados em ingredientes finlandeses com técnica nórdica clássica.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Palace",
           "where": "10º andar, Eteläranta, vista para o porto",
           "angle": "Vista do porto de Helsinque à moda antiga, execução moderna. O prato clássico de peixe finlandês (kuha, lucioperca) é a assinatura.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
           "name": "Demo",
           "where": "Uudenmaankatu, Helsinque",
           "angle": "Salão compacto de menu degustação, guiado pelo ingrediente, citado com frequência no Guia pela relação valor versus técnica.",
-          "band": "€€€"
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Grön",
           "where": "Albertinkatu, Helsinque",
-          "angle": "Menu degustação de base vegetal (legumes, peixe, colhidos) com uma harmonização enxuta. O que enche mais rápido na cidade.",
-          "band": "€€€€"
+          "angle": "Menu degustação de base vegetal (legumes, peixe, colhidos) com uma harmonização enxuta. Subiu a duas estrelas em 2026; o que enche mais rápido na cidade.",
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
-          "name": "Inari",
-          "where": "Albertinkatu, Helsinque",
-          "angle": "Alta gastronomia de influência sámi, mesma linhagem de chef que o Olo, salão menor, mais focado.",
-          "band": "€€€€"
+          "name": "Boreal",
+          "where": "Uudenmaankatu, Helsinque",
+          "angle": "Abriu no outono de 2025 e ganhou a estrela em menos de um ano. O menu surpresa hipersazonal do chef Pasha Demin se apoia em fermentação, coleta silvestre e pequenos fornecedores locais.",
+          "band": "€€",
+          "stars": "★ 2026"
         },
         {
-          "name": "Ora",
-          "where": "Huvilakatu, Eira",
-          "angle": "Nórdico moderno num salão residencial. Muito elogiado pelo menu guiado pelo ingrediente do chef Sasu Laukkonen.",
-          "band": "€€€€"
-        },
-        {
-          "name": "Finnjävel",
+          "name": "Finnjävel Salonki",
           "where": "Helsinque",
-          "angle": "Finlandês moderno, clássicos reinventados. Menos contido que os outros; serviço mais teatral.",
-          "band": "€€€"
+          "angle": "Finlandês moderno, clássicos reinventados; o Salonki é o salão estrelado do menu degustação. Menos contido que os outros, com serviço mais teatral.",
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Ultima",
-          "where": "Helsinque",
-          "angle": "Menu degustação abastecido por uma fazenda vertical no subsolo. O salão mais genuinamente \"Helsinque 2026\" desta lista.",
-          "band": "€€€€"
+          "where": "Eteläranta, Praça do Mercado",
+          "angle": "Menu degustação com parte dos ingredientes cultivada dentro da casa (ervas hidropônicas, cogumelos em borra de café). Sustentabilidade em primeiro lugar, à beira-d'água na Praça do Mercado.",
+          "band": "€€€€",
+          "stars": ""
         }
       ]
     },
@@ -1218,28 +1219,28 @@
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centro de Rovaniemi",
-          "angle": "O salão de alta gastronomia mais citado da Lapônia. Pratos de raiz sámi: o filé de rena em sous-vide com redução de mirtilo é a assinatura, ao lado de um programa de frutas silvestres que se apoia no que os coletores de Inari trouxeram naquela manhã. Cozinha aberta, interior de madeira aquecida, 60 lugares.",
+          "angle": "O salão de alta gastronomia mais citado da Lapônia. Pratos de raiz sámi: o filé de rena em sous-vide com redução de mirtilo é a assinatura, e o programa de frutas silvestres se apoia no que os coletores de Inari trouxeram naquela manhã. Cozinha aberta, interior de madeira aquecida, um salão de 65 lugares e o Nilin Nesti do outro lado da rua.",
           "signature": "Filé de rena em sous-vide · salvelino-ártico curado em pinheiro · parfait de amora ártica",
-          "band": "€€€, menu degustação € 68 · principais à la carte € 28–42",
-          "booking": "Reserve com 3 a 4 semanas de antecedência no verão / dezembro. Possível entrar sem reserva de ter. a qua."
+          "band": "€€€, menu degustação e à la carte (preços atuais em nili.fi)",
+          "booking": "Reserve com 3 a 4 semanas de antecedência no verão e em dezembro; reserva on-line em nili.fi."
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · às margens do rio Juutuanjoki",
-          "angle": "O mais próximo de uma experiência gastronômica de destino no coração do território sámi. O chef constrói os menus em torno das oito estações sámi de Inari, mirtilos lactofermentados, coração de rena defumado, salvelino-ártico curado a frio e a carta de vinhos é incomumente profunda para uma cidade de 7.000 habitantes.",
-          "signature": "Degustação de frutas silvestres em 7 tempos · coração de rena defumado · parfait de xarope de bétula",
-          "band": "€€€€, menu degustação € 85, com vinhos harmonizados € 145",
-          "booking": "Dois turnos por noite, 32 lugares no total. Reserve com 6 a 8 semanas de antecedência no inverno e na janela do sol da meia-noite."
+          "address": "Wilderness Hotel Juutua (antigo Hotel Kultahovi), Saarikoskentie 2, Inari · às margens do rio Juutuanjoki",
+          "angle": "O mais próximo de uma experiência gastronômica de destino no coração do território sámi. A cozinha trabalha a despensa de Inari: peixe do lago Inari, rena, angélica e líquen das montanhas, e a carta de vinhos é incomumente profunda para um município de 7.000 habitantes.",
+          "signature": "Peixe do lago Inari · rena · angélica e líquen das montanhas",
+          "band": "€€€, menu de 3 tempos € 65 · menu de 5 tempos € 90 (2026), harmonizações € 30–41",
+          "booking": "Cozinha aberta todos os dias das 17h às 22h. Reserve com 6 a 8 semanas de antecedência no inverno e na janela do sol da meia-noite."
         },
         {
           "name": "Rakas no Arctic TreeHouse Hotel",
           "city": "Rovaniemi · região do Santa Park",
-          "address": "Tarvantie 3, a 7 km do centro de Rovaniemi · táxi ou transfer do hotel",
-          "angle": "Salão com teto de vidro voltado para o norte, totalmente panorâmico sobre a floresta de abetos, projetado para você assistir à aurora durante o menu degustação no inverno. O coregono ártico em confit sob óleo de ervas silvestres é a assinatura do salão, empratado com microbrotos colhidos e flores comestíveis.",
-          "signature": "Coregono ártico em confit · truta curada em pinheiro · domo de chocolate e airela",
-          "band": "€€€€, menu de 4 tempos € 78 · menu de 7 tempos € 115",
-          "booking": "Hóspedes do hotel têm prioridade. Não hóspedes reservam com 4 semanas de antecedência no inverno."
+          "address": "Tarvantie 3, a 6 km do centro de Rovaniemi · táxi ou carro",
+          "angle": "No prédio principal do Arctic TreeHouse Hotel, a 6 km do centro: ingredientes lapões com toque moderno, luminárias de pinha e lareira. O carré de rena com molho de cerveja escura e o sorbet de amora ártica sustentam o menu degustação.",
+          "signature": "Carré de rena · coregono de Inari curado · sorbet de amora ártica",
+          "band": "€€€€, menu degustação de 7 tempos € 120 · principais à la carte € 25–49 (2026)",
+          "booking": "Aberto também a quem não se hospeda no hotel; à la carte todos os dias das 18h às 22h. Reserve com antecedência no inverno."
         }
       ]
     },

@@ -11,7 +11,10 @@ import { useLocale } from '../i18n/useLocale';
 import { withReferral } from '../lib/withReferral';
 
 interface Fact { title: string; body: string }
-interface HelsinkiRoom { name: string; where: string; angle: string; band: string }
+/** `stars` = asema Pohjoismaiden oppaassa 2026 ("★★ 2026" / "★ 2026" / ""), sama
+ *  merkkijono kaikilla 12 kielellä — kielineutraali, jotta tähtitilanne päivittyy
+ *  yhdestä paikasta eikä 12 käännöksestä. Faktatarkistus 14.9.2026. */
+interface HelsinkiRoom { name: string; where: string; angle: string; band: string; stars?: string }
 interface LaplandRoom { name: string; city: string; address: string; angle: string; signature: string; band: string; booking: string }
 interface CourseItem { n: string; label: string; body: string }
 interface Note { label: string; body: string }
@@ -20,19 +23,20 @@ const FACT_ICONS = [Award, Sparkles, ChefHat];
 const NOTE_ICONS = [Clock, Wine, Leaf, Users];
 const LAPLAND_IMAGES = ['/images/restaurant-nili.jpg', '/images/restaurant-aanaar.jpg', '/images/restaurant-rakas.jpg'];
 const LAPLAND_SIDS = ['rovaniemi', 'inari', 'arctic_treehouse'];
-// Index-mapped to michelinDining.helsinki.rooms (Olo, Palace, Demo, Grön,
-// Inari, Ora, Finnjävel, Ultima — same order in all 12 locales). Interior
-// mood shots from the existing batch-4 image set.
-const HELSINKI_IMAGES = [
-  '/images/hki-olo.jpg',
-  '/images/hki-palace.jpg',
-  '/images/hki-demo.jpg',
-  '/images/hki-gron.jpg',
-  '/images/hki-inari.jpg',
-  '/images/hki-ora.jpg',
-  '/images/hki-finnjavel.jpg',
-  '/images/hki-ultima.jpg',
-];
+// Keyed by room NAME, not by index: 14.9.2026 the list lost Inari (closed
+// 31.7.2022) and Ora (closed May 2022) and gained Boreal (★ 2026), so an
+// index map would have shown the wrong mood shot under every card. These are
+// decorative AI interior mood shots (aria-hidden), not the actual rooms —
+// Boreal reuses the former Inari frame.
+const HELSINKI_IMAGES: Record<string, string> = {
+  'Olo': '/images/hki-olo.jpg',
+  'Palace': '/images/hki-palace.jpg',
+  'Demo': '/images/hki-demo.jpg',
+  'Grön': '/images/hki-gron.jpg',
+  'Boreal': '/images/hki-inari.jpg',
+  'Finnjävel Salonki': '/images/hki-finnjavel.jpg',
+  'Ultima': '/images/hki-ultima.jpg',
+};
 
 export default function MichelinDining() {
   const { t } = useTranslation('pages');
@@ -116,11 +120,16 @@ export default function MichelinDining() {
             </div>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-              {helsinkiRooms.map((r, idx) => (
+              {helsinkiRooms.map((r) => (
                 <div key={r.name} className="rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-36 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={HELSINKI_IMAGES[idx]} alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    {HELSINKI_IMAGES[r.name] && (
+                      <img src={HELSINKI_IMAGES[r.name]} alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    )}
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.65) 0%, rgba(0,31,74,0.08) 60%)' }} />
+                    {r.stars && (
+                      <span className="absolute top-3 right-4 text-[11px] font-bold tracking-wider bg-white/95 text-[#002F6C] px-2 py-0.5 rounded-full whitespace-nowrap">{r.stars}</span>
+                    )}
                     <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">{r.name}</h3>
                   </div>
                   <div className="p-5">

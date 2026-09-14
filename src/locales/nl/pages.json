@@ -244,7 +244,7 @@
       "headline": "Hoe een rendier op een Laplands bord belandt.",
       "p1": "De Finse rendierindustrie wordt geregeld door de Wet op de rendierherderij, die het eigendom beperkt tot personen woonachtig in het herdersgebied (in feite Noord-Finland). Dieren behoren toe aan individuele herders, maar grazen samen in coöperaties, <em>paliskunnat</em>, die territorium en werk delen. Er zijn rond de 200.000 rendieren in zo'n 54 coöperaties, allemaal in Lapland en delen van Noord-Pohjanmaa.",
       "p2": "De kudde is wild in alles behalve het eigendom. Rendieren trekken vrij over enorme stukken onomheinde taiga en toendra, en eten wat ze vinden: korstmos in de winter (het dieet dat het vlees zijn specifieke schone smaak geeft), grassen en kruiden in de zomer, paddenstoelen in het najaar. Herders volgen hun dieren op sneeuwscooters en quads, verzamelen ze twee keer per jaar voor oormerken en (in de herfst) selectie voor de slacht, en laten ze daarna weer uitwaaieren.",
-      "p3": "De slacht vindt plaats in de herfst, meestal oktober-november, wanneer de dieren op piekgewicht zijn. Elke coöperatie runt zijn eigen EU-goedgekeurde slachterij. Het meeste vlees wordt verkocht binnen een paar honderd kilometer van waar het dier leefde, aan Laplandse restaurants, gespecialiseerde slagers in Helsinki en de rest van Zuid-Finland, en een kleine maar serieuze exportmarkt in Midden-Europa.",
+      "p3": "De slacht vindt plaats in de herfst, meestal oktober-november, wanneer de dieren op piekgewicht zijn. Het vlees gaat door de 19 EU-goedgekeurde rendierslachterijen van het rendierhoudersgebied, waarvan er 17 eigendom zijn van de coöperaties of de houders zelf. Het meeste vlees wordt verkocht binnen een paar honderd kilometer van waar het dier leefde, aan Laplandse restaurants, gespecialiseerde slagers in Helsinki en de rest van Zuid-Finland, en een kleine maar serieuze exportmarkt in Midden-Europa.",
       "p4": "<strong>De delen die u op een Laplands menu ziet</strong> komen ruwweg overeen met rundvleesvocabulaire: <em>fileé</em> (filet, sous-vide-terrein), <em>sisäpaisti / ulkopaisti</em> (binnenbil / bovenbil, in het geheel gebraden of gesneden voor warm-gerookte gerechten), <em>poronkäristys</em> (gesauteerd rendier, het dagelijkse Finse werkpaard, dunne plakjes, boter, zout, geserveerd op puree met vossenbes) en <em>suovas</em> (koudgerookt zadel, in dunne reepjes met roggebrood gegeten). Bidos gebruikt taaiere stoofdelen, meestal schouder en schenkel, en daarom kookt het urenlang.",
       "p5": "Ethisch gezien is vrij rondtrekkend, door Samen geherderd rendier een van de meest duurzame eiwitten op een Europese kaart, geen vetweide, geen antibiotica, geen omheinde begrazing, een eigen dieet. De complicatie is klimatologisch: Laplandse winters worden natter, ijslagen vormen zich op het sneeuwdek, rendieren kunnen niet meer door het ijs schrapen naar korstmos, en herders moeten in sommige coöperaties bijvoeren. Dat verandert de keten en, langzaam, de smaak. Dat is een verhaal om het komende decennium te volgen.",
       "tasteQ": "Hoe smaakt rendier?",
@@ -721,7 +721,7 @@
       "headline": "Waarom de recepten terugkomen.",
       "p1": "Het grootste deel van de 20e eeuw bestond Samisch eten in twee parallelle werkelijkheden. In Samische huizen was het gewoon avondeten, onbewust, ongeromantiseerd, hetzelfde eten dat de vorige generatie kookte. Buiten Sápmi was het bijna onzichtbaar: een voetnoot in toeristische brochures, soms geëxotiseerd, vaker genegeerd.",
       "p2": "De ommekeer begon eind jaren 2000. New Nordic, gestart door Noma in Kopenhagen, maakte geplukt, hyperlokaal en inheems-noordelijk eten kortstondig modieus in fine-diningzalen in Scandinavië. Finse koks merkten dat de keuken waar de rest van de wereld enthousiast over werd, wilde kruiden, lacto-gefermenteerde bessen, gerookte vis, langzaam gegaard wild, al duizend jaar op Samische borden lag. De pijplijn liep een tijdje de andere kant op: Samische technieken en ingrediënten stroomden naar de proefmenu's van Helsinki.",
-      "p3": "Toen begon de Samische voedselwereld het gesprek terug te claimen. Restaurant Aanaar in Inari bouwde een fine-diningprogramma dat onbeschaamd eerst Samisch is en daarna gastronomisch. De afdeling Slow Food Sápmi drong aan op een beschermde status voor traditionele producten als <em>suovas</em> (koudgerookt rendier) en <em>guompa</em> (gefermenteerde engelwortel). Samische koks gingen Samische leerlingen opleiden in plaats van hen naar Frans-klassieke keukens te sturen. De Indigenous Terra Madre-top in Inari in 2017, een wereldwijde bijeenkomst rond inheems eten, was een kantelpunt.",
+      "p3": "Toen begon de Samische voedselwereld het gesprek terug te claimen. Restaurant Aanaar in Inari bouwde een fine-diningprogramma dat onbeschaamd eerst Samisch is en daarna gastronomisch. Slow Food Sápmi kreeg de Slow Food Presidium-status voor traditionele producten als <em>suovas</em> (koudgerookt rendier) en <em>gurpi</em> (koudgerookt rendiergehakt). Samische koks gingen Samische leerlingen opleiden in plaats van hen naar Frans-klassieke keukens te sturen. De eerste Indigenous Terra Madre-bijeenkomst van Slow Food, in 2011 door de Sami georganiseerd in Jokkmokk, was een kantelpunt.",
       "p4": "Het huidige moment is interessant. Samisch eten staat op de Michelin-genoteerde menu's van Helsinki én op de dagelijkse tafel in Utsjoki, maar de recepten convergeren minder dan u zou verwachten. De fine-diningversies krijgen de technische upgrade: sous-vide, lactofermentatie, garnering van geplukte bloemen. De thuisversies blijven vrijwel onveranderd. Beide zijn geldig. De recepten op deze pagina zijn de thuisversies.",
       "p5Prefix": "Wilt u de fine-dining-interpretatie proeven, ga dan naar",
       "p5ModernLabel": "Modern Lapland",
@@ -873,12 +873,12 @@
       "secondaryCta": "Hoe deze op het bord komen"
     },
     "intro": {
-      "lead": "Plukken in Finland is niet excentriek. Het is een routinematige zomeractiviteit voor ongeveer 40 % van de bevolking.",
+      "lead": "Plukken in Finland is niet excentriek. Ruim meer dan de helft van de bevolking plukt elk jaar wilde bessen.",
       "points": [
         {
           "n": "01",
           "title": "Mainstream, geen niche",
-          "body": "Zo’n 40 % van de Finnen plukt. Het cijfer komt uit de huishoudenquêtes van het Natural Resources Institute Finland (Luke) en loopt dwars door stad en platteland, leeftijd en inkomen."
+          "body": "57 % van de Finnen plukt wilde bessen en zo'n 40 % plukt paddenstoelen: de cijfers komen uit de natuurrecreatie-enquêtes van het Natural Resources Institute Finland (Luke) en lopen dwars door stad en platteland, leeftijd en inkomen."
         },
         {
           "n": "02",
@@ -1020,7 +1020,7 @@
         "Vissen met één hengel (hengelen met haak en lijn en ijsvissen zijn gratis; vissen met kunstaas vereist de landelijke visserijbeheerbijdrage).",
         "Tijdelijk kamperen, meestal één nacht, op de meeste ongecultiveerde grond, weg van huizen.",
         "Zwemmen, wassen en water gebruiken uit elk waterlichaam, ook privé.",
-        "Bevroren meren en rivieren oversteken, sneeuwscooteren of skiën op de meeste ongecultiveerde grond (met specifieke regels voor sneeuwscooters)."
+        "Bevroren meren en rivieren oversteken te voet of op ski's. Sneeuwscooters vallen niet onder het allemansrecht: buiten de officiële routes hebt u toestemming van de grondeigenaar nodig."
       ],
       "cannotHeadline": "U mag niet:",
       "cannot": [
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinki draagt de sterren",
-        "body": "Finlands Michelin-vermelde restaurants concentreren zich in Helsinki, bijna elk Fins sterrenrestaurant in recente edities van de Noordse Gids stond in de hoofdstad. Turku en Tampere stonden op de radar van inspecteurs, maar sterren komen en gaan."
+        "body": "Finlands Michelinrestaurants concentreren zich in Helsinki: zes van de acht Finse sterrenrestaurants in de Noordse Gids 2026 staan in de hoofdstad. Daarbuiten houden Kaskis in Turku en Vår in Porvoo elk één ster, en sterren komen en gaan."
       },
       {
         "title": "Lapland heeft fine-dining-ambities",
@@ -1148,8 +1148,8 @@
     ],
     "helsinki": {
       "kicker": "Michelin Helsinki",
-      "headline": "Acht zalen het boeken waard in Helsinki.",
-      "lead": "Steronderscheidingen wisselen per jaar, controleer de actuele lijst in de Gids voor u boekt. De acht hieronder zijn de zalen die consequent in of dichtbij de Gids zijn geweest en waarover reizigers blijven praten. Prijsklasse volgens de Michelin-conventie: € (onder 40 € pp), €€ (40–80), €€€ (80–140), €€€€ (140+).",
+      "headline": "Zeven zalen het boeken waard in Helsinki.",
+      "lead": "Sterren wisselen per jaar, controleer dus de actuele lijst in de Gids voor u boekt. De zeven hieronder staan in de Noordse Gids 2026 of zaten er jarenlang dichtbij, en reizigers blijven erover praten. De prijsklassen zijn de onze, per persoon zonder drank: € (onder 40 €), €€ (40–80 €), €€€ (80–140 €), €€€€ (boven 140 €).",
       "ctaHotels": "Hotels in Helsinki",
       "footnote": "Onafhankelijke redactie. Niet gelieerd aan de Michelin-gids. Ster- en Bib Gourmand-onderscheidingen gelden alleen voor de huidige Noordse Gids, check guide.michelin.com voor u boekt.",
       "rooms": [
@@ -1157,49 +1157,50 @@
           "name": "Olo",
           "where": "Pohjoisesplanadi, Helsinki",
           "angle": "Langlopend fine-dining-instituut. Proefmenu's geworteld in Finse ingrediënten met klassieke Noordse techniek.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Palace",
           "where": "10e verdieping, Eteläranta, havenuitzicht",
           "angle": "Klassiek Helsinki-havenuitzicht, moderne uitvoering. De klassieke snoekbaars (kuha) is de signatuur.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
           "name": "Demo",
           "where": "Uudenmaankatu, Helsinki",
           "angle": "Compacte proefmenu-zaal, ingrediënt-gedreven, vaak in de Gids geciteerd voor verhouding prijs/vakmanschap.",
-          "band": "€€€"
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Grön",
           "where": "Albertinkatu, Helsinki",
-          "angle": "Plantaardig georiënteerd proefmenu (groenten, vis, geplukt) met een strak wijnarrangement. Snelst volgeboekt van de stad.",
-          "band": "€€€€"
+          "angle": "Plantaardig georiënteerd proefmenu (groenten, vis, geplukt) met een strak wijnarrangement. In 2026 naar twee sterren; snelst volgeboekt van de stad.",
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
-          "name": "Inari",
-          "where": "Albertinkatu, Helsinki",
-          "angle": "Samisch-beïnvloede fine dining, zelfde chef-stamboom als Olo, kleinere zaal, meer gefocust.",
-          "band": "€€€€"
+          "name": "Boreal",
+          "where": "Uudenmaankatu, Helsinki",
+          "angle": "Geopend in het najaar van 2025 en binnen een jaar bekroond met een ster. Het hyperseizoensgebonden verrassingsmenu van chef Pasha Demin leunt op fermentatie, wildpluk en kleine lokale leveranciers.",
+          "band": "€€",
+          "stars": "★ 2026"
         },
         {
-          "name": "Ora",
-          "where": "Huvilakatu, Eira",
-          "angle": "Modern Noords in een zaal met huiskamersfeer. Vaak geprezen voor het ingrediënt-gedreven menu van chef Sasu Laukkonen.",
-          "band": "€€€€"
-        },
-        {
-          "name": "Finnjävel",
+          "name": "Finnjävel Salonki",
           "where": "Helsinki",
-          "angle": "Modern Fins, opnieuw bedachte klassiekers. Minder gedempt dan de andere; meer theatrale service.",
-          "band": "€€€"
+          "angle": "Modern Fins, opnieuw bedachte klassiekers; Salonki is de bekroonde proefmenu-zaal. Minder gedempt dan de andere, met meer theatrale service.",
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Ultima",
-          "where": "Helsinki",
-          "angle": "Proefmenu uit een verticale boerderij in de kelder. De meest authentieke \"Helsinki 2026\"-zaal van deze lijst.",
-          "band": "€€€€"
+          "where": "Eteläranta, Marktplein",
+          "angle": "Proefmenu waarvan een deel van de producten in huis groeit (hydroponische kruiden, paddenstoelen op koffiedik). Duurzaamheid eerst, aan het water van het Marktplein.",
+          "band": "€€€€",
+          "stars": ""
         }
       ]
     },
@@ -1218,28 +1219,28 @@
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centrum Rovaniemi",
-          "angle": "De meest geciteerde fine-diningzaal in Lapland. Samisch geworteld, sous-vide rendierfilet met bosbessenreductie is de signatuur, naast een wilde-bessen-programma dat leunt op wat de plukkers van Inari die ochtend binnenbrachten. Open keuken, warm houten interieur, 60 couverts.",
+          "angle": "De meest geciteerde fine-diningzaal in Lapland. Samisch geworteld: sous-vide rendierfilet met bosbessenreductie is de signatuur, en het wildebessenprogramma leunt op wat de plukkers van Inari die ochtend binnenbrachten. Open keuken, warm houten interieur, een zaal met 65 couverts en Nilin Nesti aan de overkant van de straat.",
           "signature": "Sous-vide rendierfilet · in dennen gepekelde beekridder · kruipbraamparfait",
-          "band": "€€€, proefmenu 68 € · hoofdgerechten à la carte 28–42 €",
-          "booking": "Boek 3–4 weken vooruit in zomer / december. Walk-ins mogelijk di–wo."
+          "band": "€€€, proefmenu en à la carte (actuele prijzen op nili.fi)",
+          "booking": "Boek 3–4 weken vooruit in de zomer en in december; online reserveren via nili.fi."
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · aan de Juutuanjoki",
-          "angle": "Het dichtst bij een bestemmingsdiner diep in Samenland. De chef bouwt menu's rond Inari's acht Samische seizoenen (lactogefermenteerde bosbessen, gerookt rendierhart, koudgepekelde beekridder), en de wijnkaart is ongewoon diep voor een plaats van 7.000 inwoners.",
-          "signature": "7-gangenmenu rond wilde bessen · gerookt rendierhart · berkensiroop-parfait",
-          "band": "€€€€, proefmenu 85 €, met wijnarrangement 145 €",
-          "booking": "Twee zittingen per avond, 32 couverts totaal. Boek 6–8 weken vooruit in winter en middernachtzon-venster."
+          "address": "Wilderness Hotel Juutua (voorheen Hotel Kultahovi), Saarikoskentie 2, Inari · aan de Juutuanjoki",
+          "angle": "Het dichtst bij een bestemmingsdiner diep in Samenland. De keuken kookt uit Inari's eigen voorraadkast: vis uit het Inarimeer, rendier, engelwortel en korstmos van de fjells, en de wijnkaart is ongewoon diep voor een gemeente van 7.000 inwoners.",
+          "signature": "Vis uit het Inarimeer · rendier · engelwortel en korstmos van de fjells",
+          "band": "€€€, 3-gangenmenu 65 € · 5-gangenmenu 90 € (2026), wijnarrangementen 30–41 €",
+          "booking": "Keuken dagelijks open van 17 tot 22 uur. Boek 6–8 weken vooruit in de winter en in het middernachtzon-venster."
         },
         {
           "name": "Rakas bij Arctic TreeHouse Hotel",
           "city": "Rovaniemi · gebied Santa Park",
-          "address": "Tarvantie 3, 7 km van centrum Rovaniemi · taxi of hotelshuttle",
-          "angle": "Eetzaal met glazen dak op het noorden, met volledig panorama over het sparrenbos, ontworpen zodat u in de winter tijdens het proefmenu naar het noorderlicht kunt kijken. Confit Arctische marene onder wildekruidenolie is de signatuur van de zaal, opgemaakt met geplukte microgroenten en eetbare bloemen.",
-          "signature": "Confit Arctische marene · in dennen gepekelde forel · chocolade-vossenbeskoepel",
-          "band": "€€€€, 4-gangenmenu 78 € · 7-gangenmenu 115 €",
-          "booking": "Hotelgasten hebben voorrang. Niet-gasten boeken 4 weken vooruit in winter."
+          "address": "Tarvantie 3, 6 km van het centrum van Rovaniemi · taxi of auto",
+          "angle": "In het hoofdgebouw van het Arctic TreeHouse Hotel, 6 km van het centrum: Laplandse ingrediënten met een moderne twist, dennenappellampen en een open haard. Rendierrack met donkerbiersaus en kruipbraamsorbet dragen het proefmenu.",
+          "signature": "Rendierrack · gemarineerde marene uit Inari · kruipbraamsorbet",
+          "band": "€€€€, 7-gangen proefmenu 120 € · hoofdgerechten à la carte 25–49 € (2026)",
+          "booking": "Ook open voor wie niet in het hotel logeert; à la carte dagelijks van 18 tot 22 uur. Boek vooruit in de winter."
         }
       ]
     },

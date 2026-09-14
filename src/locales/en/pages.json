@@ -244,7 +244,7 @@
       "headline": "How a reindeer ends up on a Lapland plate.",
       "p1": "Finland's reindeer industry is regulated under the Reindeer Husbandry Act, which restricts ownership to people domiciled in the reindeer-herding area (effectively northern Finland). Animals belong to individual herders but graze together in cooperatives, <em>paliskunnat</em>, that share territory and labour. There are around 200,000 reindeer across roughly 54 cooperatives, all in Lapland and parts of Northern Ostrobothnia.",
       "p2": "The herd is wild in everything but ownership. Reindeer roam freely across enormous stretches of unfenced taiga and tundra, eating what they find: lichen in winter (the diet that gives the meat its specific clean flavour), grasses and herbs in summer, mushroom flushes in autumn. Herders track their animals on snowmobiles and quad bikes, gather them twice a year for ear-marking and (in autumn) selection for slaughter, then let them disperse again.",
-      "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. Each cooperative runs its own EU-approved slaughterhouse. Most of the meat is sold within a few hundred kilometres of where the animal lived, to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
+      "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. The meat passes through the 19 EU-approved reindeer slaughterhouses of the herding area, 17 of them owned by the cooperatives or the herders themselves. Most of the meat is sold within a few hundred kilometres of where the animal lived, to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
       "p4": "<strong>The cuts you'll see on a Lapland menu</strong> map roughly to a beef vocabulary: <em>fileé</em> (fillet, sous-vide territory), <em>sisäpaisti / ulkopaisti</em> (silverside / topside, roasted whole or sliced for hot-smoked dishes), <em>poronkäristys</em> (sautéed reindeer, the everyday Finnish workhorse, thin slices, butter, salt, served on mash with lingonberry), and <em>suovas</em> (cold-smoked saddle, eaten in slivers with rye bread). Bidos uses tougher stewing cuts, typically shoulder and shank, which is why it cooks for hours.",
       "p5": "Ethically, free-range Sami-herded reindeer is one of the most sustainable proteins on a European menu: no feedlot, no antibiotics, no enclosed grazing, a native diet. The complication is climate: Lapland winters are getting wetter, ice layers form on the snowpack, reindeer cannot scrape through to lichen, and herders are having to provide supplementary feed in some cooperatives. That changes the supply chain and, slowly, the flavour. It is a story to watch over the next decade.",
       "tasteQ": "What does reindeer taste like?",
@@ -721,7 +721,7 @@
       "headline": "Why the recipes are coming back.",
       "p1": "For most of the 20th century, Sami food existed in two parallel realities. In Sami homes it was just dinner, unselfconscious, unromanticised, the same food the previous generation cooked. Outside Sápmi it was almost invisible: a footnote in tourism brochures, occasionally exoticised, more often ignored.",
       "p2": "The reversal started in the late 2000s. New Nordic cuisine, kicked off by Copenhagen's Noma, made foraged, hyper-local, indigenous-northern food briefly fashionable in fine-dining rooms across Scandinavia. Finnish chefs noticed that the cuisine the rest of the world was getting excited about (wild herbs, lacto-fermented berries, smoked fish, slow-cooked game) had been on Sami plates for a thousand years. The pipeline ran the other way for a while: Sami techniques and ingredients flowed into Helsinki tasting menus.",
-      "p3": "Then the Sami food world started reclaiming the conversation. Restaurant Aanaar in Inari built a fine-dining programme that is unapologetically Sami first and fine dining second. The Slow Food Sápmi chapter pushed for protected status for traditional products like <em>suovas</em> (cold-smoked reindeer) and <em>guompa</em> (fermented angelica). Sami chefs started training Sami apprentices instead of sending them to French-classical kitchens. The 2017 Indigenous Terra Madre summit in Inari, a global indigenous-food gathering, was a turning point.",
+      "p3": "Then the Sami food world started reclaiming the conversation. Restaurant Aanaar in Inari built a fine-dining programme that is unapologetically Sami first and fine dining second. The Slow Food Sápmi chapter won Slow Food Presidium status for traditional products like <em>suovas</em> (cold-smoked reindeer) and <em>gurpi</em> (cold-smoked minced reindeer). Sami chefs started training Sami apprentices instead of sending them to French-classical kitchens. Slow Food's first Indigenous Terra Madre gathering, hosted by the Sami in Jokkmokk in 2011, was a turning point.",
       "p4": "The current moment is interesting. Sami food is on Helsinki Michelin-listed menus and on the everyday table in Utsjoki, but the recipes are converging less than you'd expect. The fine-dining versions get the technique upgrade: sous-vide, lacto-fermentation, foraged-flower garnish. The home versions stay almost unchanged. Both are valid. The recipes on this page are the home versions.",
       "p5Prefix": "If you want to taste the fine-dining interpretation, head to",
       "p5ModernLabel": "Modern Lapland",
@@ -873,12 +873,12 @@
       "secondaryCta": "How these end up on the plate"
     },
     "intro": {
-      "lead": "Foraging in Finland is not eccentric. It is a routine summer activity for around 40 % of the population.",
+      "lead": "Foraging in Finland is not eccentric. Well over half the population picks wild berries every year.",
       "points": [
         {
           "n": "01",
           "title": "Mainstream, not niche",
-          "body": "Around 40 % of Finns forage: the number comes from Natural Resources Institute Finland (Luke) household surveys, and it cuts across city and countryside, age and income."
+          "body": "57 % of Finns pick wild berries and about 40 % pick mushrooms: the numbers come from Natural Resources Institute Finland (Luke) outdoor-recreation surveys, and they cut across city and countryside, age and income."
         },
         {
           "n": "02",
@@ -1020,7 +1020,7 @@
         "Fish with a single rod (hook-and-line angling and ice fishing are free; lure fishing requires the national fisheries management fee).",
         "Camp temporarily, typically one night, on most uncultivated land, away from houses.",
         "Swim, wash, and use water from any water body, including private ones.",
-        "Cross frozen lakes and rivers, snowmobile or ski on most uncultivated terrain (with snowmobile-specific rules)."
+        "Cross frozen lakes and rivers on foot or on skis. Snowmobiles are not covered by everyman's right: off the official routes you need the landowner's permission."
       ],
       "cannotHeadline": "You cannot:",
       "cannot": [
@@ -1135,7 +1135,7 @@
     "facts": [
       {
         "title": "Helsinki carries the stars",
-        "body": "Finland's Michelin-listed restaurants are concentrated in Helsinki: in recent editions of the Nordic Guide, almost every starred Finnish restaurant has been in the capital. Turku and Tampere have been on inspectors' radar but stars come and go."
+        "body": "Finland's Michelin-listed restaurants are concentrated in Helsinki: six of the eight starred Finnish restaurants in the 2026 Nordic Guide are in the capital. Outside it, Kaskis in Turku and Vår in Porvoo hold one star each, and stars come and go."
       },
       {
         "title": "Lapland is fine-dining ambitious",
@@ -1148,8 +1148,8 @@
     ],
     "helsinki": {
       "kicker": "Helsinki Michelin",
-      "headline": "Eight rooms worth booking in Helsinki.",
-      "lead": "Star designations change year to year, so verify the current list on the Guide before booking. The eight below are the rooms that have been in or close to the Guide consistently and that travellers come back to talk about. Price band uses the Michelin Guide convention: € (under €40 pp), €€ (€40–€80), €€€ (€80–€140), €€€€ (€140+).",
+      "headline": "Seven rooms worth booking in Helsinki.",
+      "lead": "Star designations change year to year, so verify the current list on the Guide before booking. The seven below are rooms that are in the 2026 Nordic Guide or have been close to it for years, and that travellers come back to talk about. Price bands are ours, per person without drinks: € (under €40), €€ (€40–€80), €€€ (€80–€140), €€€€ (€140+).",
       "ctaHotels": "Hotels in Helsinki",
       "footnote": "Independent editorial. Not affiliated with the Michelin Guide. Star designations and Bib Gourmand listings are valid only as of the current Nordic Guide edition; check guide.michelin.com before you book.",
       "rooms": [
@@ -1157,49 +1157,50 @@
           "name": "Olo",
           "where": "Pohjoisesplanadi, Helsinki",
           "angle": "Long-standing fine-dining institution. Tasting menus rooted in Finnish ingredients with classical Nordic technique.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Palace",
           "where": "10th floor, Eteläranta, harbour view",
           "angle": "Old-school Helsinki harbour view, modern execution. Classic Finnish fish course (kuha pike-perch) is the signature.",
-          "band": "€€€€"
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
           "name": "Demo",
           "where": "Uudenmaankatu, Helsinki",
           "angle": "Compact tasting-menu room, ingredient-led, often cited in the Guide for value-versus-skill ratio.",
-          "band": "€€€"
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Grön",
           "where": "Albertinkatu, Helsinki",
-          "angle": "Plant-led tasting menu (vegetables, fish, foraged) with a tight wine pairing. Books out fastest in the city.",
-          "band": "€€€€"
+          "angle": "Plant-led tasting menu (vegetables, fish, foraged) with a tight wine pairing. Promoted to two stars in 2026; books out fastest in the city.",
+          "band": "€€€€",
+          "stars": "★★ 2026"
         },
         {
-          "name": "Inari",
-          "where": "Albertinkatu, Helsinki",
-          "angle": "Sami-influenced fine dining, same chef pedigree as Olo, smaller room, more focused.",
-          "band": "€€€€"
+          "name": "Boreal",
+          "where": "Uudenmaankatu, Helsinki",
+          "angle": "Opened in autumn 2025 and starred within a year. Chef Pasha Demin's hyper-seasonal surprise menu leans on fermentation, foraging and small local suppliers.",
+          "band": "€€",
+          "stars": "★ 2026"
         },
         {
-          "name": "Ora",
-          "where": "Huvilakatu, Eira",
-          "angle": "Modern Nordic in a residential room. Often praised for chef Sasu Laukkonen's ingredient-driven menu.",
-          "band": "€€€€"
-        },
-        {
-          "name": "Finnjävel",
+          "name": "Finnjävel Salonki",
           "where": "Helsinki",
-          "angle": "Modern Finnish, re-imagined classics. Less hushed than the others; more theatrical service.",
-          "band": "€€€"
+          "angle": "Modern Finnish, re-imagined classics; Salonki is the starred tasting-menu room. Less hushed than the others, more theatrical service.",
+          "band": "€€€",
+          "stars": "★ 2026"
         },
         {
           "name": "Ultima",
-          "where": "Helsinki",
-          "angle": "Tasting menu sourced from a vertical farm in the basement. The most genuinely \"Helsinki 2026\" room on this list.",
-          "band": "€€€€"
+          "where": "Eteläranta, Market Square",
+          "angle": "Tasting menu built partly on produce grown in-house (hydroponic herbs, mushrooms on coffee grounds). Sustainability first, on the Market Square waterfront.",
+          "band": "€€€€",
+          "stars": ""
         }
       ]
     },
@@ -1218,28 +1219,28 @@
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, central Rovaniemi",
-          "angle": "The most-cited fine-dining room in Lapland. Sami-rooted plates, sous-vide reindeer fillet with bilberry reduction is the signature, alongside a wild-berry programme that leans on what Inari foragers brought in that morning. Open kitchen, warm wood interior, 60 covers.",
+          "angle": "The most-cited fine-dining room in Lapland. Sami-rooted plates: sous-vide reindeer fillet with bilberry reduction is the signature, and the wild-berry programme leans on what Inari foragers brought in that morning. Open kitchen, warm wood interior, a 65-seat main room plus Nilin Nesti across the street.",
           "signature": "Sous-vide reindeer fillet · pine-cured Arctic char · cloudberry parfait",
-          "band": "€€€, tasting menu €68 · à la carte mains €28–€42",
-          "booking": "Book 3–4 weeks ahead in summer / December. Walk-ins possible Tue–Wed."
+          "band": "€€€, tasting menu and à la carte (current prices on nili.fi)",
+          "booking": "Book 3–4 weeks ahead in summer and December; online table booking on nili.fi."
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Hotel Kultahovi, Saarikoskentie 2, Inari · on the Juutuanjoki river",
-          "angle": "The closest thing to a destination dining experience deep in Sami country. The chef builds menus around Inari's eight Sami seasons (lacto-fermented bilberries, smoked reindeer heart, cold-cured Arctic char), and the wine list is unusually deep for a municipality of 7,000.",
-          "signature": "7-course wild-berry tasting · smoked reindeer heart · birch-syrup parfait",
-          "band": "€€€€, tasting menu €85, with paired wines €145",
-          "booking": "Two seatings per night, 32 covers total. Book 6–8 weeks ahead in winter and in the midnight-sun window."
+          "address": "Wilderness Hotel Juutua (formerly Hotel Kultahovi), Saarikoskentie 2, Inari · on the Juutuanjoki river",
+          "angle": "The closest thing to a destination dining experience deep in Sami country. The kitchen cooks Inari's own larder: Lake Inari fish, reindeer, angelica and lichen from the fells, and the wine list is unusually deep for a municipality of 7,000.",
+          "signature": "Lake Inari fish · reindeer · angelica and lichen from the fells",
+          "band": "€€€, 3-course menu €65 · 5-course menu €90 (2026), wine pairings €30–€41",
+          "booking": "Kitchen open daily 17–22. Book 6–8 weeks ahead in winter and in the midnight-sun window."
         },
         {
           "name": "Rakas at Arctic TreeHouse Hotel",
           "city": "Rovaniemi · Santa Park area",
-          "address": "Tarvantie 3, 7 km from central Rovaniemi · taxi or hotel shuttle",
-          "angle": "Glass-roofed dining room facing north, fully panoramic over the spruce forest, designed so you can watch the aurora during the tasting menu in winter. Confit Arctic whitefish under wild-herb oil is the room's signature, plated with foraged microgreens and edible flowers.",
-          "signature": "Confit Arctic whitefish · pine-cured trout · chocolate–lingonberry dome",
-          "band": "€€€€, 4-course menu €78 · 7-course menu €115",
-          "booking": "Hotel guests get priority. Non-guests book 4 weeks ahead in winter."
+          "address": "Tarvantie 3, 6 km from central Rovaniemi · taxi or car",
+          "angle": "In the main building of Arctic TreeHouse Hotel, 6 km from the centre: Lapland ingredients with a modern twist, pine-cone lamps and a fireplace. Rack of reindeer with dark-beer sauce and a cloudberry sorbet anchor the tasting menu.",
+          "signature": "Rack of reindeer · cured Inari whitefish · cloudberry sorbet",
+          "band": "€€€€, 7-course tasting menu €120 · à la carte mains €25–€49 (2026)",
+          "booking": "Open to non-guests too; à la carte daily 18–22. Book ahead in winter."
         }
       ]
     },
