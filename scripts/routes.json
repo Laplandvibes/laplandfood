@@ -26,6 +26,78 @@
     ]
   },
   {
+    "path": "/berries",
+    "jsonKey": "berries",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ]
+  },
+  {
+    "path": "/lingonberry",
+    "jsonKey": "lingonberry",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ]
+  },
+  {
+    "path": "/bilberry",
+    "jsonKey": "bilberry",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ]
+  },
+  {
+    "path": "/sea-buckthorn",
+    "jsonKey": "seaBuckthorn",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ]
+  },
+  {
     "path": "/traditional-recipes",
     "jsonKey": "traditionalRecipes"
   },

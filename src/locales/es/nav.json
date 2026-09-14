@@ -3,12 +3,20 @@
     "home": "Inicio",
     "ingredients": "Ingredientes",
     "cloudberry": "Mora ártica",
+    "berries": "Bayas",
     "recipes": "Recetas",
     "modern": "Moderno",
     "foraging": "Recolección",
     "michelin": "Michelin",
     "foodTours": "Tours gastronómicos",
     "about": "Sobre nosotros"
+  },
+  "berries": {
+    "allBerries": "Todas las bayas finlandesas",
+    "bilberry": "Arándano silvestre",
+    "lingonberry": "Arándano rojo",
+    "seaBuckthorn": "Espino amarillo",
+    "readGuide": "Leer la guía completa"
   },
   "ariaHome": "Inicio de LaplandFood",
   "ariaMain": "Navegación principal",

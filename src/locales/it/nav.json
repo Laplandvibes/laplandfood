@@ -3,12 +3,20 @@
     "home": "Home",
     "ingredients": "Ingredienti",
     "cloudberry": "Mora artica",
+    "berries": "Bacche",
     "recipes": "Ricette",
     "modern": "Moderno",
     "foraging": "Raccolta selvatica",
     "michelin": "Michelin",
     "foodTours": "Food tour",
     "about": "Chi siamo"
+  },
+  "berries": {
+    "allBerries": "Tutte le bacche finlandesi",
+    "bilberry": "Mirtillo nero",
+    "lingonberry": "Mirtillo rosso",
+    "seaBuckthorn": "Olivello spinoso",
+    "readGuide": "Legga la guida completa"
   },
   "ariaHome": "Home LaplandFood",
   "ariaMain": "Navigazione principale",

@@ -488,6 +488,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Suomen marjat: hilla, mustikka, puolukka ja tyrni",
+    "description": "Neljä villimarjaa, jotka määrittävät suomalaisen ruoan: miltä kukin maistuu, milloin se kypsyy, missä se kasvaa ja miten sitä poimitaan jokamiehenoikeudella.",
+    "hero": {
+      "eyebrow": "Marjaopas",
+      "title": "Neljä marjaa, yksi",
+      "titleHighlight": "lyhyt kesä.",
+      "subtitle": "Suomen metsät ja rannat tuottavat enemmän villimarjoja kuin koko maa ehtisi koskaan poimia. Nämä neljä muovaavat suomalaisen keittiön. Jokaisella on oma oppaansa.",
+      "primaryCta": "Lue keräilyopas",
+      "secondaryCta": "Kaikki Lapin raaka-aineet"
+    },
+    "intro": {
+      "lead": "Hilla, mustikka, puolukka ja tyrni kypsyvät vuorotellen heinäkuusta lokakuuhun. Yhdessä ne ovat suomalaisen ruokavaraston makeus, happamuus ja väri.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Kaikki villejä",
+          "body": "Yhtäkään neljästä ei viljellä Suomessa mainittavassa mitassa. Koko tarjonta kahvilan piirakasta kaupan mehuun alkaa siitä, että joku poimii."
+        },
+        {
+          "n": "02",
+          "title": "Vapaasti poimittavissa",
+          "body": "Jokamiehenoikeus antaa kenen tahansa, asukkaan tai vierailijan, poimia villimarjoja lähes kaikkialla kysymättä. Säännöt koskevat kunnioitusta, eivät lupia."
+        },
+        {
+          "n": "03",
+          "title": "Sesonkien tikapuut",
+          "body": "Hilla avaa kauden soilla heinäkuussa, mustikka täyttää elokuun, ja puolukka ja tyrni vievät sen lokakuuhun."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "Neljä opasta",
+      "headline": "Valitse marja.",
+      "lead": "Jokainen opas vastaa samoihin kysymyksiin: maku, sesonki, poimintaoikeus, mitä marja on arvoltaan ja missä sen kohtaa.",
+      "cards": [
+        {
+          "name": "Hilla",
+          "latin": "Rubus chamaemorus",
+          "season": "Heinäkuun puolivälistä elokuun puoliväliin",
+          "body": "Suon meripihkanvärinen marja, jota kukaan ei pysty viljelemään. Neljä viikkoa vuodessa, käsin poimittuna, herkun hinnalla.",
+          "cta": "Hillaopas"
+        },
+        {
+          "name": "Mustikka",
+          "latin": "Vaccinium myrtillus",
+          "season": "Heinäkuun lopusta syyskuuhun",
+          "body": "Suomen villi metsämustikka: sinipunainen läpikotaisin, poimitaan ämpäreittäin ja leivotaan jokaiseen elokuun piirakkaan.",
+          "cta": "Mustikkaopas"
+        },
+        {
+          "name": "Puolukka",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Elokuun lopusta lokakuuhun",
+          "body": "Kirpeä punainen marja jokaisen poroannoksen vieressä. Säilyy purkissa ilman sokeria ja makeutuu pakkasen jälkeen.",
+          "cta": "Puolukkaopas"
+        },
+        {
+          "name": "Tyrni",
+          "latin": "Hippophaë rhamnoides",
+          "season": "Syyskuusta lokakuuhun",
+          "body": "Pohjanlahden rannikon hapan oranssi marja, joka poimitaan piikkien seasta ja juodaan mehuna.",
+          "cta": "Tyrniopas"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Sesonki sesongilta",
+      "headline": "Milloin kukin marja on kypsä.",
+      "items": [
+        {
+          "period": "Heinäkuu",
+          "title": "Hilla",
+          "body": "Avoimet suot keskiyön auringon alla, noin kolmen viikon poimintaikkuna heinäkuun puolivälistä."
+        },
+        {
+          "period": "Elokuu",
+          "title": "Mustikka",
+          "body": "Metsän varvikot kaikkialla: kuukausi, jona Suomi täyttää pakastimensa."
+        },
+        {
+          "period": "Syyskuu",
+          "title": "Puolukka",
+          "body": "Kuivat mäntykankaat; ensimmäiset pakkaset makeuttavat marjat."
+        },
+        {
+          "period": "Syys–lokakuu",
+          "title": "Tyrni",
+          "body": "Pohjanlahden kiviset rannat, pohjoisessa Tornioon asti."
+        },
+        {
+          "period": "Marraskuusta eteenpäin",
+          "title": "Purkista",
+          "body": "Hillo, mehu, pakastemarjat ja kiisseli kantavat sesongin talven yli."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Jatka tästä",
+      "headline": "Mihin tämä johtaa.",
+      "items": [
+        {
+          "title": "Opettele keräämään",
+          "body": "Jokamiehenoikeus, sieniturvallisuus ja kuukausikalenteri: oman poimimisen käytännön puoli.",
+          "cta": "Keräilyopas"
+        },
+        {
+          "title": "Laita marjat ruoaksi",
+          "body": "Marjakiisseli ja muut perinnereseptit ohjeineen.",
+          "cta": "Perinnereseptit"
+        },
+        {
+          "title": "Jää sesongiksi",
+          "body": "Heinäkuusta syyskuuhun on marjakausi koko Lapissa. Rovaniemi on toimiva tukikohta metsäpäiville.",
+          "cta": "Selaa majoitusta Rovaniemellä"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Puolukka: Suomen arkinen villimarja",
+    "description": "Miltä puolukka maistuu, milloin sen sesonki on, miksi se säilyy ilman sokeria, miten se eroaa karpalosta ja missä sitä syödään Lapissa.",
+    "hero": {
+      "eyebrow": "Marjaopas · Puolukka",
+      "title": "Puolukka, marja joka",
+      "titleHighlight": "säilyttää itse itsensä.",
+      "subtitle": "Puolukka on se punainen marja jokaisen poronkäristysannoksen vieressä, ja se, jota suomalaisperheet poimivat ämpäreittäin. Tässä on, miltä se maistuu, miksi se säilyy purkissa ilman sokeria ja miten se eroaa karpalosta, johon se usein sekoitetaan.",
+      "primaryCta": "Opettele poimimaan",
+      "secondaryCta": "Kaikki Suomen marjat",
+      "pills": [
+        "Maku",
+        "Sesonki",
+        "Poimintaoikeus",
+        "Puolukka vai karpalo",
+        "Hinta ja arvo",
+        "Hillo ja survos",
+        "Missä maistaa"
+      ]
+    },
+    "intro": {
+      "lead": "Puolukka peittää Suomen kuivat mäntykankaat joka syksy määrinä, joita kukaan ei pysty poimimaan. Ne harvat, jotka poimitaan, päätyvät purkkeihin, puuron päälle ja poron viereen.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Enemmän kuin kukaan ehtii poimia",
+          "body": "Suomen puolukkasato on satoja miljoonia kiloja vuodessa, ja Arktiset Aromit ry:n arvion mukaan siitä poimitaan talteen vain 3–10 prosenttia. Loput ruokkivat linnut, karhut ja ensi vuoden maaperän."
+        },
+        {
+          "n": "02",
+          "title": "Se säilöö itse itsensä",
+          "body": "Puolukassa on luontaista bentsoehappoa, ja siksi purkillinen raakaa survosta säilyy viileässä ruokakomerossa ilman sokeria, keittämistä tai lisäaineita. Se on alkuperäinen suomalainen säilyke."
+        },
+        {
+          "n": "03",
+          "title": "Punainen jokaisella poroannoksella",
+          "body": "Poronkäristystä perunamuusin päällä ei tarjoilla ilman lusikallista puolukkaa. Kirpeys on juuri se, mikä saa rasvaisen lihan toimimaan."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Ensin tärkein kysymys",
+      "headline": "Miltä puolukka maistuu?",
+      "answer": "Kirpeältä, hieman karvaalta ja tuskin lainkaan makealta, puhtaan kuivalla jälkimaulla ja ilman hillan myskiä: ajattele karpaloa, josta sokeri on käännetty pienemmälle ja karvautta lisätty hiukan. Raakana yksi marja saa irvistämään; lämpimän, suolaisen tai maitoisen ruoan seassa sama kirpeys on koko idea.",
+      "p2": "Pakkanen auttaa. Syyskuun ensimmäisten yöpakkasten jälkeen poimitut marjat ovat selvästi miedompia ja makeampia kuin elokuun marjat, ja suomalaiset poimijat ajoittavat retkensä sen mukaan. Täysin kypsä marja on syvänpunainen joka puolelta; vaalea kylki tarkoittaa, että se tarvitsee vielä viikon.",
+      "p3": "Puolukkaa saa harvoin yksinään. Se tulee lisäkkeenä: raakana survoksena hieman sokerin kanssa poronkäristyksen tai lihapullien vieressä, vatkattuna <em>vispipuuroksi</em>, siksi vaaleanpunaiseksi mannapuuroksi, jonka jokainen suomalainen lapsi tuntee, tai lusikoituna lämpimän puuron päälle maidon kanssa."
+    },
+    "season": {
+      "kicker": "Elokuun lopusta lokakuuhun",
+      "headline": "Pitkä, anteeksiantava sesonki.",
+      "lead": "Toisin kuin hilla, puolukka odottaa sinua. Kausi alkaa elokuun lopulla, ja marjat riippuvat varvuissa lokakuulle asti makeutuen jokaisesta pakkasesta.",
+      "phases": [
+        {
+          "period": "Elokuun loppu",
+          "title": "Ensimmäiset punaiset",
+          "body": "Marjat muuttuvat vihertävän valkoisista punaisiksi ensin etelään avautuvilla mäntykankailla. Varhaiset marjat ovat karvaimpia; useimmat poimijat antavat niiden olla viikon tai pari pidempään."
+        },
+        {
+          "period": "Syyskuu",
+          "title": "Pääsato",
+          "body": "Viileät yöt, kuivat päivät ja ensimmäiset pakkaset: silloin perheet lähtevät ämpäreiden kanssa. Marjat ovat kiinteitä, täysin punaisia ja irtoavat varvusta helposti."
+        },
+        {
+          "period": "Lokakuu",
+          "title": "Pakkasten jälkeen",
+          "body": "Pakkasen makeuttamat marjat pysyvät hyvinä varvussa ensimmäiseen pysyvään lumeen asti. Osa vuoden parhaista puolukoista poimitaan lokakuun viimeisinä leutoina päivinä."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jokamiehenoikeus",
+      "headline": "Poimi niin paljon kuin jaksat kantaa.",
+      "p1": "Suomen <em>jokamiehenoikeus</em> antaa kenelle tahansa oikeuden poimia villimarjoja luonnonmaalta, myös yksityismetsästä, ilman lupaa tai maanomistajan suostumusta. Puolukka on marja, jota varten tämä oikeus on käytännössä tehty: runsas, sitkeä eikä kenenkään suojelulistalla.",
+      "p2": "Tavat ovat yksinkertaiset. Pysy poissa pihoilta ja puutarhoista, älä vahingoita varpuja ja käytä poimuria varovasti: kampamallinen poimuri on Suomessa laillinen ja tavallinen, mutta huolimaton vetäisy repii ensi vuoden kasvun.",
+      "ctaPrimary": "Lue keräilyn säännöt",
+      "ctaSecondary": "Katso marjareseptit"
+    },
+    "versus": {
+      "kicker": "Puolukka vai karpalo",
+      "headline": "Sama suku, eri suo.",
+      "p1": "Puolukka ja karpalo ovat läheisiä sukulaisia <em>Vaccinium</em>-suvussa, ja ulkomailla nimet menevät sekaisin. Suomessa ne ovat kaksi eri marjaa kahdesta eri paikasta: puolukka kasvaa kuivilla mäntykankailla, karpalo märillä soilla.",
+      "p2": "Lautasella ero on koko ja terävyys. Puolukka on pieni, kiinteä ja tasaisen kirpeä karvaalla vivahteella; Suomen villi <em>karpalo</em> on suurempi, pehmeämpi ja vielä happamampi, ja kaupan mehuissa käytetty viljelty amerikankarpalo on suurempi vielä ja miedompi.",
+      "p3": "Myös keittiöroolit eroavat. Karpalo tarvitsee keittämistä ja sokeria ollakseen miellyttävä; puolukan voi syödä raakana survoksena, ja siksi suomalaisessa puolukkapurkissa on usein pelkkiä marjoja ja vähän sokeria.",
+      "p4": "<strong>Jos ulkomainen resepti käskee tarjoamaan riistan kanssa karpalokastiketta, puolukka on se pohjoismainen alkuperäinen, josta se polveutuu.</strong>"
+    },
+    "price": {
+      "kicker": "Hinta ja arvo",
+      "headline": "Halpaa kilolta, korvaamatonta purkissa.",
+      "lead": "Puolukka on Suomen suurten määrien villimarja, ja hinta näyttää sen. Vuonna 2025 ostajat ottivat vastaan 9,5 miljoonaa kiloa, enemmän kuin mitään muuta villimarjaa, ja maksoivat poimijoille 1,90 euroa kilolta, kun hillasta maksettiin 13,85 euroa.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "maksettiin poimijoille puolukkakilosta vuonna 2025 Ruokaviraston Marsi-raportin mukaan"
+        },
+        {
+          "value": "9,5 milj. kg",
+          "label": "puolukkaa myytiin ostajille vuonna 2025, suurin määrä kaikista Suomen villimarjoista, saman raportin mukaan"
+        },
+        {
+          "value": "3–10 %",
+          "label": "puolukka- ja mustikkasadosta poimitaan tavallisena vuonna talteen Arktiset Aromit ry:n arvion mukaan"
+        }
+      ],
+      "p2": "Suurin osa poimitusta ei koskaan päädy kauppaan: se menee ämpäristä pakastimeen ja perheen omaan puuroon. Kaupallinen sato menee mehuksi, hilloksi ja jokaisen suomalaisen ruokakaupan pakastemarjahyllyyn."
+    },
+    "products": {
+      "kicker": "Hillo, survos, puuro",
+      "headline": "Miten Suomi syö puolukkansa.",
+      "lead": "Puolukkaa syödään harvoin tuoreena. Se pannaan talteen talveksi, ja sitten se ilmestyy aamiaiselle, päivälliselle ja jälkiruokaan.",
+      "items": [
+        {
+          "title": "Puolukkasurvos",
+          "body": "Marjat survottuna hieman sokerin kanssa, ei muuta. Marjan oman bentsoehapon ansiosta se säilyy jääkaapissa tai kylmässä komerossa kuukausia. Tämä on se purkki poron, lihapullien ja maksan vieressä."
+        },
+        {
+          "title": "Puolukkahillo",
+          "body": "Keitetty versio, makeampi ja sileämpi, on vientiklassikko ja se, jonka useimmat vierailijat tuntevat ruotsalaisesta huonekalukaupasta. Suomessa sitä syödään pannukakun, riisipuuron ja lämpimän puuron kanssa."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Vaaleanpunainen vatkattu puuro: puolukkamehu suurustettuna mannasuurimoilla ja vatkattuna kuohkeaksi, tarjoillaan kylmänä maidon kanssa. Kouluruokalan jälkiruoka, jota aikuisetkin yhä tilaavat."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Missä maistaa",
+      "headline": "Puolukan kohtaaminen Lapissa.",
+      "lead": "Puolukka ei ole herkku, jota pitää metsästää. Se on oletuslisäke, ja syyskuussa sitä on kaikkialla.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Poron vieressä",
+          "body": "Tilaa poronkäristys missä tahansa Lapissa, ja puolukka tulee mukana. Ravintoloissa, jotka tekevät omansa, marjat ovat raakaa survosta ja yhä kirpeitä."
+        },
+        {
+          "n": "02",
+          "title": "Aamiaispöydässä",
+          "body": "Lapin hotelliaamiaisilla puolukkahillo on puuron ja pannukakkujen vieressä. Se on arkisin tapa kohdata marja."
+        },
+        {
+          "n": "03",
+          "title": "Oma ämpäri",
+          "body": "Elokuun lopusta alkaen kävely missä tahansa kuivassa mäntymetsässä tuo puolukat jalkojesi juureen. Opastettu keräilyretki opettaa poimurin käytön, pakkastempun ja hyvät kankaat."
+        }
+      ],
+      "gygCta": "Selaa keräilyretkiä GetYourGuidessa",
+      "diningCta": "Katso fine dining -opas"
+    },
+    "nextSteps": {
+      "kicker": "Jatka tästä",
+      "headline": "Mihin tämä johtaa.",
+      "items": [
+        {
+          "title": "Opettele keräämään",
+          "body": "Jokamiehenoikeus, turvallisuus ja mitä ottaa mukaan: keräilyopas kattaa oman poimimisen käytännön puolen.",
+          "cta": "Keräilyopas"
+        },
+        {
+          "title": "Muut marjat",
+          "body": "Hilla, mustikka ja tyrni saavat kukin oman oppaansa sesonkeineen, makuineen ja löytöpaikkoineen.",
+          "cta": "Kaikki Suomen marjat"
+        },
+        {
+          "title": "Jää sesongiksi",
+          "body": "Syyskuu on Lapissa hiljainen, edullinen ja puolukanpunainen. Rovaniemi on toimiva tukikohta metsäpäiville.",
+          "cta": "Selaa majoitusta Rovaniemellä"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Mustikka: Suomen villi metsämarja",
+    "description": "Miksi suomalainen metsämustikka ei ole pensasmustikka, miltä se maistuu, milloin Lapin sesonki on huipussaan, mitä poimijoille maksetaan ja miten sitä syödään piirakasta keittoon.",
+    "hero": {
+      "eyebrow": "Marjaopas · Mustikka",
+      "title": "Mustikka, sininen joka",
+      "titleHighlight": "värjää sormet.",
+      "subtitle": "Mustikka on marja, jonka lähes jokainen suomalainen on poiminut, se joka värjää koko lapsuuden elokuun, ja se jota vierailijat kutsuvat pensasmustikaksi. Tässä on, miten ne eroavat, miltä se maistuu ja missä se kasvaa Lapissa.",
+      "primaryCta": "Opettele poimimaan",
+      "secondaryCta": "Kaikki Suomen marjat",
+      "pills": [
+        "Maku",
+        "Sesonki",
+        "Poimintaoikeus",
+        "Mustikka vai pensasmustikka",
+        "Hinta ja arvo",
+        "Piirakka ja keitto",
+        "Missä maistaa"
+      ]
+    },
+    "captions": {
+      "taste": "Mustikoita poimittuna Sallan metsässä, elokuu 2026",
+      "versus": "Kypsä mustikka kahden sormen välissä, Salla, elokuu 2026"
+    },
+    "intro": {
+      "lead": "Mustikka on suomalaisen metsän runsain ruoka ja se, jota useimmat ovat oikeasti poimineet. Hyvänä vuonna sato mitataan sadoissa miljoonissa kiloissa.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Villi, ei viljelty",
+          "body": "Jokainen suomalainen mustikka on villi. Se kasvaa polvenkorkuisissa varvuissa mäntyjen ja kuusten alla koko maassa Helsingin puistoista Lapin tuntureille. Kukaan ei istuta sitä."
+        },
+        {
+          "n": "02",
+          "title": "Sininen läpikotaisin",
+          "body": "Halkaise mustikka, ja se on sisältä sinipunainen; halkaise kaupan pensasmustikka, ja se on sisältä vaaleanvihreä. Kädet ja kielen värjäävä väriaine on helpoin tapa erottaa ne."
+        },
+        {
+          "n": "03",
+          "title": "Poimitaan myös elannoksi",
+          "body": "Kaupalliset poimijat myivät ostajille 6,8 miljoonaa kiloa mustikkaa vuonna 2025 ja ansaitsivat 16 miljoonaa euroa, Ruokavirasto raportoi. Silti alan arvion mukaan sadosta poimitaan talteen vain 3–10 prosenttia."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Ensin tärkein kysymys",
+      "headline": "Miltä mustikka maistuu?",
+      "answer": "Makeammalta ja pehmeämmältä kuin karpalo, terävämmältä ja villimmältä kuin viljelty pensasmustikka: mustikka on mehukas, ohutkuorinen ja voimakkaan värinen, ja siinä on kukkainen, hieman parkkihappoinen syvyys, jota pensasmustikassa ei ole. Syö kourallinen suoraan varvusta, ja sormet, huulet ja kieli muuttuvat sinipunaisiksi.",
+      "p2": "Kypsyyden näkee helposti. Kypsä mustikka on hallavan tummansininen ja irtoaa kevyimmästä vedosta; marja, joka vastustaa, on päivän tai pari liian aikainen. Aurinkoisen aukean lämmittämät marjat maistuvat makeimmilta; syvän kuusikon varjomarjat ovat suurempia ja mehukkaampia.",
+      "p3": "Keittiössä maku kantaa kaiken läpi: <em>mustikkapiirakan</em>, <em>mustikkakeiton</em>, lusikallisen aamupuuron tai <em>viilin</em> päälle, ja Lapissa klassisen parin, mustikan ja poron."
+    },
+    "season": {
+      "kicker": "Heinäkuun lopusta syyskuuhun",
+      "headline": "Elokuu kuuluu mustikalle.",
+      "lead": "Etelä-Suomessa ensimmäiset mustikat kypsyvät heinäkuussa. Lapissa kausi on myöhäisempi ja lyhyempi, ja elokuu on se kuukausi.",
+      "phases": [
+        {
+          "period": "Heinäkuun loppu",
+          "title": "Ensimmäiset siniset",
+          "body": "Aurinkoiset rinteet ja aukeat kypsyvät ensin. Lapissa nämä ovat maisteluviikkoja: tarpeeksi kouralliseen kävelyllä, ei vielä ämpäriin."
+        },
+        {
+          "period": "Elokuu",
+          "title": "Huippu",
+          "body": "Metsät ovat täynnä. Perheet poimivat ämpäreittäin, pakastimet täyttyvät, ja jokaisen Lapin kahvilan tiskillä on mustikkapiirakka. Pitkät, valoisat illat tekevät tästä keräilyvuoden helpoimman kuukauden."
+        },
+        {
+          "period": "Syyskuu",
+          "title": "Viimeiset",
+          "body": "Marjat pehmenevät ja putoavat, ja varvut punertuvat. Se, mikä on jäljellä, on makeaa, ja poimijat ovat siirtyneet samoilla retkillä puolukkaan ja sieniin."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jokamiehenoikeus",
+      "headline": "Kuka tahansa saa poimia. Kyllä, sinäkin.",
+      "p1": "Suomen <em>jokamiehenoikeus</em> kattaa mustikan kokonaan: kuka tahansa vierailija saa poimia sitä luonnonmaalta, myös yksityismetsästä, ilman lupaa ja kysymättä. Kaupalliset poimijat työskentelevät saman oikeuden nojalla.",
+      "p2": "Poimurit ovat tavallisia ja laillisia; käytä poimuria varovasti, jotta varpu ei repeä. Pysy poissa pihoilta ja puutarhoista, ja jätä metsä sellaiseksi kuin sen löysit.",
+      "ctaPrimary": "Lue keräilyn säännöt",
+      "ctaSecondary": "Katso marjareseptit"
+    },
+    "versus": {
+      "kicker": "Mustikka vai pensasmustikka",
+      "headline": "Ei sama marja.",
+      "p1": "Mustikka, <em>Vaccinium myrtillus</em>, ja viljelty pensasmustikka, <em>Vaccinium corymbosum</em>, ovat serkuksia, ja useimmilla kielillä, suomi mukaan lukien, molempia kutsutaan mustikaksi. Lautasella ne ovat eri hedelmiä.",
+      "p2": "Mustikat kasvavat yksittäin matalissa metsävarvuissa ja ovat pieniä, tummia ja sinipunaisia läpikotaisin. Pensasmustikat kasvavat terttuina viljelyyn jalostetuissa korkeissa pensaissa, ovat suurempia ja kiinteämpiä ja pysyvät sisältä vaaleina, koska niiden väri on vain kuoressa.",
+      "p3": "Tuo ero on syy siihen, miksi suomalainen mustikkapiirakka vuotaa sinipunaista eikä mustikkamuffini vuoda, ja miksi pakastettuja villimustikoita kannattaa etsiä ulkomaiden kaupoista: maku on tiivistynyt tavalla, johon viljelty marja ei koskaan yllä.",
+      "p4": "<strong>Jos suomalaisessa ruokalistassa lukee englanniksi blueberry, se tarkoittaa metsämustikkaa. Lapissa lautasen sininen marja on villi.</strong>"
+    },
+    "price": {
+      "kicker": "Hinta ja arvo",
+      "headline": "Kaupallisesti Suomen tärkein villimarja.",
+      "lead": "Niin Ruokavirasto itse kuvaa mustikkaa viime vuosina. Vuonna 2025 poimijat ansaitsivat siitä 16 miljoonaa euroa, 2,39 euron kilohinnalla.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "maksettiin poimijoille mustikkakilosta vuonna 2025 Ruokaviraston Marsi-raportin mukaan"
+        },
+        {
+          "value": "16 milj. €",
+          "label": "mustikan poimintatulot Suomessa vuonna 2025 saman raportin mukaan"
+        },
+        {
+          "value": "3–10 %",
+          "label": "mustikka- ja puolukkasadosta poimitaan tavallisena vuonna talteen Arktiset Aromit ry:n arvion mukaan"
+        }
+      ],
+      "p2": "Suurin osa kaupallisesta sadosta pakastetaan ja viedään ulkomaille, iso osa jalostettavaksi muualla. Lapin kahvilassa kohtaamasi marjat tulevat lyhyempää ketjua: jonkun aamusta metsässä, usein kahvilan omistajan."
+    },
+    "products": {
+      "kicker": "Piirakka, keitto, puuro",
+      "headline": "Miten Suomi syö mustikkansa.",
+      "lead": "Tuoreena kourallisittain elokuussa, ja pakastimesta muut yksitoista kuukautta.",
+      "items": [
+        {
+          "title": "Mustikkapiirakka",
+          "body": "Pehmeä, usein kauramurulla katettu piirakka, jossa marjat paistetaan mukaan, kunnes ne vuotavat. Jokaisessa suomalaisessa kahvilassa on sellainen elokuussa, ja hyvät maistuvat metsältä eivätkä sokerilta."
+        },
+        {
+          "title": "Mustikkakeitto",
+          "body": "Marjat haudutettuna hieman sokerin kanssa ja suurustettuna perunajauholla, tarjoillaan lämpimänä tai kylmänä, sellaisenaan tai puuron päällä. Myös hiihtäjän juoma, kaadettuna kuumana termospullosta ladulla."
+        },
+        {
+          "title": "Poron kanssa",
+          "body": "Lapin ravintoloissa mustikkakastike tai maitohapatetut mustikat ovat poronfileen vieressä. Happamuus leikkaa rasvaisuutta; väri hoitaa loput."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Missä maistaa",
+      "headline": "Mustikan kohtaaminen Lapissa.",
+      "lead": "Elokuussa sinun ei tarvitse etsiä. Sesongin ulkopuolella piirakka ja keitto kantavat marjan vuoden läpi.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Mikä tahansa metsä, mikä tahansa elokuu",
+          "body": "Astu merkityltä polulta sivuun Rovaniemen, Levin tai Saariselän lähellä, ja varvut ovat jalkojesi juuressa. Opastettu kävely lisää hyvät paikat ja turvallisuusohjeet."
+        },
+        {
+          "n": "02",
+          "title": "Kahviloiden tiskit",
+          "body": "Mustikkapiirakka vaniljakastikkeen kanssa on Lapin kahvilan oletustilaus loppukesällä. Kysy, poimittiinko marjat lähistöltä; elokuussa vastaus on yleensä kyllä."
+        },
+        {
+          "n": "03",
+          "title": "Maistelumenut",
+          "body": "Lapin fine dining -keittiöt käyttävät mustikkaa hapatettuna, pakastettuna ja kastikkeeksi keitettynä ympäri vuoden. Katso ravintolat ruokailuoppaasta."
+        }
+      ],
+      "gygCta": "Selaa keräilyretkiä GetYourGuidessa",
+      "diningCta": "Katso fine dining -opas"
+    },
+    "nextSteps": {
+      "kicker": "Jatka tästä",
+      "headline": "Mihin tämä johtaa.",
+      "items": [
+        {
+          "title": "Opettele keräämään",
+          "body": "Jokamiehenoikeus, sieniturvallisuus ja mitä ottaa mukaan: keräilyopas kattaa käytännön puolen.",
+          "cta": "Keräilyopas"
+        },
+        {
+          "title": "Muut marjat",
+          "body": "Hilla, puolukka ja tyrni saavat kukin oman oppaansa sesonkeineen, makuineen ja löytöpaikkoineen.",
+          "cta": "Kaikki Suomen marjat"
+        },
+        {
+          "title": "Jää sesongiksi",
+          "body": "Elokuu Lapissa on lämmin, valoisa ja sininen jalkojen alla. Rovaniemi on toimiva tukikohta metsäpäiville.",
+          "cta": "Selaa majoitusta Rovaniemellä"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Tyrni: Suomen happamin marja",
+    "description": "Miltä tyrni maistuu, missä se kasvaa villinä Suomen Pohjanlahden rannikolla, milloin se kypsyy, miksi se poimitaan piikkien seasta ja miten suomalaiset juovat ja käyttävät sitä.",
+    "hero": {
+      "eyebrow": "Marjaopas · Tyrni",
+      "title": "Tyrni, oranssia tulta",
+      "titleHighlight": "rannalta.",
+      "subtitle": "Tyrni ei kasva Lapin sisämaan metsissä lainkaan. Se kasvaa Pohjanlahden kivisillä rannoilla, pohjoisessa Lapin rannikolle Tornioon asti, ja se on suomalaisen ruokavaraston happamin marja ja yksi sen C-vitamiinirikkaimmista. Tässä on, missä se elää, miltä se maistuu ja miksi sen poimiminen on niin vaikeaa.",
+      "primaryCta": "Opettele poimimaan",
+      "secondaryCta": "Kaikki Suomen marjat",
+      "pills": [
+        "Maku",
+        "Sesonki",
+        "Poimintaoikeus",
+        "Miksi piikit",
+        "C-vitamiini",
+        "Mehu ja hillo",
+        "Missä maistaa"
+      ]
+    },
+    "intro": {
+      "lead": "Tyrni on suomalaisten marjojen outolintu: rannikon pensas, piikkien peittämä sato ja niin terävä maku, ettei sitä juuri kukaan syö sellaisenaan.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Rantakasvi, ei metsäkasvi",
+          "body": "Villi tyrni kasvaa Pohjanlahden kallio- ja kivikkorannoilla Uudenkaupungin saaristosta pohjoiseen Tornioon asti sekä Ahvenanmaalla. Lapin sisämaassa sitä ei ole; Tornion ja Kemin rannikko on sen pohjoisraja."
+        },
+        {
+          "n": "02",
+          "title": "Hapan tarkoituksella",
+          "body": "Marjat ovat voimakkaan happamia, hieman karvaita ja hennosti öljyisiä, ja pohjalla on passionhedelmän ja aprikoosin vivahde. Suomalaiset juovat tyrniä laimennettuna, makeutettuna tai jälkiruokaan sekoitettuna, harvoin kourallisittain."
+        },
+        {
+          "n": "03",
+          "title": "Runsaasti C-vitamiinia",
+          "body": "Suomalaisen elintarvikkeiden koostumustietokannan mukaan tyrnissä on noin 100–400 milligrammaa C-vitamiinia sadassa grammassa marjoja, ja siksi suomalaiset pitävät sitä omana sitrushedelmänään."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Ensin tärkein kysymys",
+      "headline": "Miltä tyrni maistuu?",
+      "answer": "Terävältä. Kypsä tyrnimarja on hapan kuin sitruuna, siinä on karvas, hieman öljyinen särmä, ja kun ensijärkytys on ohi, trooppinen vivahde jostain passionhedelmän ja aprikoosin väliltä. Mehu on paksua ja kirkkaan oranssia, ja se värjää kaiken, mihin osuu.",
+      "p2": "Tuo happamuus on syy siihen, ettei marjaa juuri koskaan syödä sellaisenaan. Se laimennetaan mehuksi, makeutetaan hilloksi, pakastetaan sorbetiksi, tai keittiömestarit käyttävät sitä niin kuin sitruunaa: lusikallinen tyrniä leikkaa kerman, valkosuklaan, rasvaisen kalan ja tuhdin poron läpi.",
+      "p3": "Pakkanen ei pehmennä sitä paljoa. Marjat maistuvat lokakuussa jokseenkin samalta kuin syyskuussa; se, mikä muuttuu, on kuinka helposti ne irtoavat piikkisestä oksasta, ja se on poimijan todellinen ongelma."
+    },
+    "season": {
+      "kicker": "Syyskuusta lokakuuhun",
+      "headline": "Kypsä, kun rannikko harmaantuu.",
+      "lead": "Villi tyrni kypsyy syys- ja lokakuussa, kun kesä on jo kaukana Pohjanlahden rannikolta ja marjat ovat rannan kirkkain asia.",
+      "phases": [
+        {
+          "period": "Loppukesä",
+          "title": "Oranssiksi kääntyminen",
+          "body": "Vihreät marjat saavat väriä elokuun mittaan. Tiheät, hopealehtiset pensaat on helppo huomata rantapolulta; hedelmä ei ole vielä piikkien arvoinen."
+        },
+        {
+          "period": "Syyskuu",
+          "title": "Sato alkaa",
+          "body": "Marjat ovat täysin oransseja, mehukkaita ja happamia. Viljelijät leikkaavat hedelmäoksat ja pakastavat ne, jotta marjat voi ravistaa irti; villin marjan poimijat puristavat tai nyppivät ne paikan päällä, hitaasti."
+        },
+        {
+          "period": "Lokakuu",
+          "title": "Myöhäiset marjat",
+          "body": "Kypsät marjat pysyvät oksissa pitkälle syksyyn. Ensimmäisten kovien pakkasten jälkeen ne irtoavat helpommin, ja osa poimijoista odottaa juuri sitä."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jokamiehenoikeus",
+      "headline": "Villit pensaat kyllä, puutarhat ei.",
+      "p1": "Jokamiehenoikeus kattaa villin tyrnin kuten minkä tahansa villimarjan: poimiminen on sallittua luonnontilaisella rannalla, myös yksityisellä rantamaalla, kunhan pysyt poissa taloista ja pihoista. Viljelty tyrni tiloilla ja puutarhoissa on kielletty.",
+      "p2": "Kaksi varoitusta. Älä leikkaa tai katko oksia päästäksesi marjoihin; se on kasvin vahingoittamista, jota oikeus ei salli. Ja käytä hansikkaita: piikit ovat pitkiä, kovia ja kaikkialla.",
+      "ctaPrimary": "Lue keräilyn säännöt",
+      "ctaSecondary": "Katso marjareseptit"
+    },
+    "versus": {
+      "kicker": "Miksi piikit",
+      "headline": "Marja, joka puolustautuu.",
+      "p1": "Tyrnimarjat kasvavat tiiviisti oksia pitkin, jokainen niin lujasti kiinni, että vetäminen yleensä rikkoo sen. Marjojen välissä on useiden senttien mittaisia piikkejä. Pienenkin korillisen poimiminen käsin vaatii kärsivällisyyttä ja paksut hansikkaat.",
+      "p2": "Kaupalliset viljelijät ratkaisevat sen kylmällä. He leikkaavat hedelmäoksat ja pakastavat ne; pakastetut marjat napsahtavat irti siististi ja menevät suoraan puristimeen. Siksi myös suurin osa tyrnistä päätyy sinulle mehuna, soseena tai hillona eikä tuoreena.",
+      "p3": "Pensas on kaksikotinen: koiras- ja naaraskasvit ovat erillisiä, ja vain naaraat tekevät hedelmää, ja siksi tiheä kasvusto rannalla voi olla puoliksi hedelmätön.",
+      "p4": "<strong>Matkailijalle tämä tarkoittaa: tuore tyrni on harvinaista Suomessakin, mutta mehua on jokaisessa ruokakaupassa.</strong>"
+    },
+    "price": {
+      "kicker": "C-vitamiini",
+      "headline": "Miksi suomalaiset kutsuvat sitä sitruksekseen.",
+      "lead": "Tyrni on yksi C-vitamiinirikkaimmista Suomessa villinä kasvavista marjoista: noin 100–400 milligrammaa sadassa grammassa marjoja kansallisen elintarvikkeiden koostumustietokannan mukaan.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "C-vitamiinia 100 grammassa tyrnimarjoja Fineli-tietokannan mukaan, Arktiset Aromit ry:n siteeraamana"
+        },
+        {
+          "value": "Syys–loka",
+          "label": "villin sadon poimintaikkuna Pohjanlahden rannikolla"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "villin tyrnin levinneisyys Pohjanlahden rannikolla, lisäksi Ahvenanmaa"
+        }
+      ],
+      "p2": "Mikään tästä ei tee siitä lääkettä, ja Suomen laki on tarkka siitä, mitä elintarvikkeesta saa väittää. Ota luvut siitä, mitä ne ovat: selityksenä sille, miksi pieni lasillinen mehua maistuu siltä, miltä maistuu."
+    },
+    "products": {
+      "kicker": "Mehu, hillo, jälkiruoka",
+      "headline": "Miten Suomi käyttää happaminta marjaansa.",
+      "lead": "Kukaan ei syö kulhollista tyrniä. Kaikki ovat maistaneet mehua, ja lähes kaikki siitä tulee nykyään viljellyistä pensaista: Ruokaviraston marjakaupparaportti toteaa, että villin tyrnin myynti on lähes kokonaan loppunut viljelyn yleistyttyä.",
+      "items": [
+        {
+          "title": "Tyrnimehu",
+          "body": "Puristettua, makeutettua ja yleensä laimennettua, juodaan pienistä laseista. Kaupan versio on tapa, jolla useimmat suomalaiset kohtaavat marjan; tilan tuorepuristettu versio on terävämpää ja paksumpaa."
+        },
+        {
+          "title": "Hillo ja sose",
+          "body": "Sokerin kanssa keitettynä happamuus muuttuu joksikin marmeladin kaltaiseksi. Levitetään ruisleivälle, lusikoidaan puuron päälle tai tarjoillaan juuston kanssa."
+        },
+        {
+          "title": "Jälkiruokalistalla",
+          "body": "Lapin ja Helsingin maistelumenut käyttävät tyrniä sitruunanaan: sorbettina ruokalajien välissä, curdina valkosuklaan alla, terävänä kastikkeena rasvaisen arktisen kalan vieressä."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Missä maistaa",
+      "headline": "Tyrnin kohtaaminen Suomessa.",
+      "lead": "Pensasta et löydä tuntureilta. Marjan löydät lasista, purkista ja jälkiruoasta kaikkialta maasta.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Tornion ja Kemin rannikko",
+          "body": "Villin levinneisyyden pohjoispää on Meri-Lapin ranta. Etsi tiheitä hopeanvihreitä pensaita kivikkorannoilta; syyskuussa ne ovat erehtymättömiä."
+        },
+        {
+          "n": "02",
+          "title": "Mikä tahansa suomalainen ruokakauppa",
+          "body": "Tyrnimehu, -sose ja -hillo ovat tavallisia elintarvikkeita. Pakastemarjahyllyssä on usein pussi, ja se on helpoin tapa viedä marja kotiin."
+        },
+        {
+          "n": "03",
+          "title": "Jälkiruokalistat",
+          "body": "Kysy tyrniannosta. Lapin fine dining -ravintoloissa se ilmestyy sorbettina, curdina tai kastikkeena useammin kuin mikään muu marja hillaa lukuun ottamatta."
+        }
+      ],
+      "gygCta": "Selaa keräilyretkiä GetYourGuidessa",
+      "diningCta": "Katso fine dining -opas"
+    },
+    "nextSteps": {
+      "kicker": "Jatka tästä",
+      "headline": "Mihin tämä johtaa.",
+      "items": [
+        {
+          "title": "Opettele keräämään",
+          "body": "Jokamiehenoikeus, mitä ottaa mukaan ja miten poimia kasvia vahingoittamatta: keräilyopas.",
+          "cta": "Keräilyopas"
+        },
+        {
+          "title": "Muut marjat",
+          "body": "Hilla, puolukka ja mustikka saavat kukin oman oppaansa sesonkeineen, makuineen ja löytöpaikkoineen.",
+          "cta": "Kaikki Suomen marjat"
+        },
+        {
+          "title": "Jää rannikolle",
+          "body": "Tornio ja Kemi ovat Lapin rannikkokaupungit, helppo tukikohta rantakävelyille syyskuussa.",
+          "cta": "Selaa majoitusta Torniossa"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Saamelainen ruoka ja Lapin perinnereseptit",
     "description": "Neljä saamelaiskeittiön perusruokaa: bidos-poromuhennos, gahkku-leipä, Sápmin kalakeitto ja marjakiisseli. Reseptit ja kahdeksan vuodenajan kalenteri.",
@@ -775,6 +1408,24 @@
       "tours": "Kokki­elämykset",
       "ingredients": "Paikalliset raaka-aineet",
       "modern": "Modernit tulkinnat"
+    },
+    "faq": {
+      "kicker": "Saamelainen ruoka lyhyesti",
+      "headline": "Kolme kysymystä, joita saamelaisesta ruoasta kysytään.",
+      "items": [
+        {
+          "question": "Mitä saamelainen ruoka on?",
+          "answer": "Saamelainen ruoka on Saamenmaan eli Sápmin alkuperäiskansan keittiö. Sápmi ulottuu Suomen, Ruotsin, Norjan ja Venäjän pohjoisosiin. Ruoka rakentuu porolle, josta käytetään jokainen osa, järvi- ja jokikalalle, villimarjoille ja -yrteille sekä hitaille menetelmille: keittämiselle, kylmäsavustukselle, kuivaamiselle ja suolaamiselle. Tämän sivun reseptit ovat kotiversiot."
+        },
+        {
+          "question": "Mitä saamelaiset syövät nykyään?",
+          "answer": "Samoja raaka-aineita, tavallisessa arkipöydässä: poromuhennosta tai poronkäristystä perunan kanssa, kalakeittoa, kuivattua ja savustettua poroa, rieskaa, marjoja puuron kanssa. Nykyajan saamelaisperheet käyvät ruokakaupassa niin kuin kaikki muutkin, ja perinneruoat nostetaan pöytään juhlissa, häissä ja syksyn teurastuksissa."
+        },
+        {
+          "question": "Mitä on bidos?",
+          "answer": "Bidos on saamelainen poromuhennos: lapaa tai potkaa paloina, ruskistettuna ja hiljaa haudutettuna perunan, porkkanan ja sipulin kanssa, kunnes liha hajoaa. Se on juhlaruoka, jota tarjotaan häissä ja kokoontumisissa, ja tämän sivun ensimmäinen resepti."
+        }
+      ]
     }
   },
   "modernLapland": {

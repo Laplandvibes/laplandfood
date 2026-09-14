@@ -3,12 +3,20 @@
     "home": "首页",
     "ingredients": "食材",
     "cloudberry": "云莓",
+    "berries": "浆果",
     "recipes": "食谱",
     "modern": "现代料理",
     "foraging": "野外采集",
     "michelin": "米其林",
     "foodTours": "美食之旅",
     "about": "关于"
+  },
+  "berries": {
+    "allBerries": "芬兰浆果全览",
+    "bilberry": "野生蓝莓",
+    "lingonberry": "越橘",
+    "seaBuckthorn": "沙棘",
+    "readGuide": "阅读完整指南"
   },
   "ariaHome": "LaplandFood 首页",
   "ariaMain": "主导航",

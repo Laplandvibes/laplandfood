@@ -19,7 +19,7 @@ function Footer() {
 
   const foodPillarLinks = [
     // Oma syväsivu ensin (sisäinen, lokaalitietoinen Link), verkosto perässä.
-    { name: tn('links.cloudberry'), href: to('/cloudberry') },
+    { name: tn('links.berries'), href: to('/berries') },
     { name: tx('footer.foodPillars.fineDining')  ?? 'Fine Dining',  href: 'https://laplanddining.com' },
     { name: tx('footer.foodPillars.barsPubs')    ?? 'Bars & Pubs',  href: 'https://laplandbars.com' },
     { name: tx('footer.foodPillars.nightlife')   ?? 'Nightlife',    href: 'https://laplandnightlife.com' },

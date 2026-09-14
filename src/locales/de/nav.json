@@ -3,12 +3,20 @@
     "home": "Startseite",
     "ingredients": "Zutaten",
     "cloudberry": "Moltebeere",
+    "berries": "Beeren",
     "recipes": "Rezepte",
     "modern": "Modernes Lappland",
     "foraging": "Sammeln",
     "michelin": "Michelin",
     "foodTours": "Foodtouren",
     "about": "Über uns"
+  },
+  "berries": {
+    "allBerries": "Alle finnischen Beeren",
+    "bilberry": "Heidelbeere",
+    "lingonberry": "Preiselbeere",
+    "seaBuckthorn": "Sanddorn",
+    "readGuide": "Zum vollständigen Guide"
   },
   "ariaHome": "Startseite von LaplandFood",
   "ariaMain": "Hauptnavigation",

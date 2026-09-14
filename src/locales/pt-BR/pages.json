@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Frutas silvestres da Finlândia: guia das quatro principais",
+    "description": "As quatro frutas silvestres que definem a comida finlandesa: o sabor de cada uma, quando amadurece, onde cresce e como colhê-la com o direito de acesso à natureza.",
+    "hero": {
+      "eyebrow": "O guia das frutas silvestres",
+      "title": "Quatro frutas, um",
+      "titleHighlight": "verão curto.",
+      "subtitle": "As florestas e os litorais da Finlândia produzem mais frutas silvestres do que o país inteiro conseguiria colher. Estas quatro moldam a cozinha finlandesa. Cada uma tem seu próprio guia.",
+      "primaryCta": "Leia o guia de coleta",
+      "secondaryCta": "Todos os ingredientes da Lapônia"
+    },
+    "intro": {
+      "lead": "Amora-ártica, mirtilo silvestre, lingonberry e espinheiro-marítimo amadurecem um depois do outro, de julho a outubro. Juntos, são a doçura, a acidez e a cor da despensa finlandesa.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Todas silvestres",
+          "body": "Nenhuma das quatro é cultivada em escala relevante na Finlândia. Toda a oferta, da torta do café ao suco do supermercado, começa com alguém colhendo."
+        },
+        {
+          "n": "02",
+          "title": "Livres para colher",
+          "body": "O direito de acesso à natureza permite que qualquer pessoa, moradora ou visitante, colha frutas silvestres na maior parte das terras sem pedir. As regras falam de respeito, não de licenças."
+        },
+        {
+          "n": "03",
+          "title": "Uma escada de temporadas",
+          "body": "A amora-ártica abre a temporada nas turfeiras em julho, o mirtilo silvestre preenche agosto, e a lingonberry e o espinheiro-marítimo a levam até outubro."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "Os quatro guias",
+      "headline": "Escolha uma fruta.",
+      "lead": "Cada guia responde às mesmas perguntas: sabor, temporada, o direito de colher, quanto a fruta vale e onde encontrá-la.",
+      "cards": [
+        {
+          "name": "Amora-ártica",
+          "latin": "Rubus chamaemorus",
+          "season": "De meados de julho a meados de agosto",
+          "body": "A fruta âmbar das turfeiras que ninguém consegue cultivar. Quatro semanas por ano, colhida à mão, com preço de iguaria.",
+          "cta": "Guia da amora-ártica"
+        },
+        {
+          "name": "Mirtilo silvestre",
+          "latin": "Vaccinium myrtillus",
+          "season": "Do fim de julho a setembro",
+          "body": "O mirtilo silvestre da Finlândia: roxo até o miolo, colhido aos baldes e assado em toda torta de agosto.",
+          "cta": "Guia do mirtilo silvestre"
+        },
+        {
+          "name": "Lingonberry",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Do fim de agosto a outubro",
+          "body": "A fruta vermelha e ácida ao lado de todo prato de rena. Conserva-se no pote sem açúcar e adoça depois da geada.",
+          "cta": "Guia da lingonberry"
+        },
+        {
+          "name": "Espinheiro-marítimo",
+          "latin": "Hippophaë rhamnoides",
+          "season": "De setembro a outubro",
+          "body": "A fruta laranja e azeda do litoral do golfo de Bótnia, colhida entre espinhos e bebida como suco.",
+          "cta": "Guia do espinheiro-marítimo"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Temporada a temporada",
+      "headline": "Quando cada fruta está madura.",
+      "items": [
+        {
+          "period": "Julho",
+          "title": "Amora-ártica",
+          "body": "Turfeiras abertas sob o sol da meia-noite, uma janela de colheita de cerca de três semanas a partir de meados de julho."
+        },
+        {
+          "period": "Agosto",
+          "title": "Mirtilo silvestre",
+          "body": "Arbustos de floresta por toda parte: o mês em que a Finlândia enche seus freezers."
+        },
+        {
+          "period": "Setembro",
+          "title": "Lingonberry",
+          "body": "Charnecas secas de pinheiros; as primeiras geadas adoçam as frutas."
+        },
+        {
+          "period": "Setembro–outubro",
+          "title": "Espinheiro-marítimo",
+          "body": "Margens pedregosas do golfo de Bótnia, ao norte até Tornio."
+        },
+        {
+          "period": "A partir de novembro",
+          "title": "Do pote",
+          "body": "Geleia, suco, frutas congeladas e kissel levam a temporada pelo inverno."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Continue",
+      "headline": "Aonde isso leva.",
+      "items": [
+        {
+          "title": "Aprenda a colher",
+          "body": "Direito de acesso à natureza, segurança com cogumelos e o calendário mês a mês: o lado prático de colher por conta própria.",
+          "cta": "Guia de coleta"
+        },
+        {
+          "title": "Cozinhe as frutas",
+          "body": "Kissel de frutas silvestres e as outras receitas tradicionais, com o método por escrito.",
+          "cta": "Receitas tradicionais"
+        },
+        {
+          "title": "Fique para a temporada",
+          "body": "De julho a setembro é temporada de frutas silvestres em toda a Lapônia. Rovaniemi é uma base prática para dias de floresta.",
+          "cta": "Ver hospedagem em Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Lingonberry: a fruta silvestre do dia a dia na Finlândia",
+    "description": "Qual é o sabor da lingonberry, quando é a temporada finlandesa, por que ela se conserva sem açúcar, como difere do cranberry e onde comê-la na Lapônia.",
+    "hero": {
+      "eyebrow": "O guia das frutas silvestres · Lingonberry",
+      "title": "Lingonberry, a fruta que",
+      "titleHighlight": "se conserva sozinha.",
+      "subtitle": "A puolukka, a lingonberry ou mirtilo-vermelho, é a fruta vermelha ao lado de todo prato de rena salteada, e a que as famílias finlandesas colhem aos baldes. Aqui está o sabor dela, por que se conserva no pote sem açúcar e como difere do cranberry com que é confundida.",
+      "primaryCta": "Aprenda a colher",
+      "secondaryCta": "Todas as frutas silvestres finlandesas",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Direito de colher",
+        "Lingonberry ou cranberry",
+        "Quanto vale",
+        "Geleia e purê",
+        "Onde provar"
+      ]
+    },
+    "intro": {
+      "lead": "A cada outono, as lingonberries forram os pinhais secos da Finlândia em quantidades que ninguém conseguiria colher. As poucas colhidas acabam em potes, sobre o mingau e ao lado da rena.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Mais do que alguém consegue colher",
+          "body": "A safra silvestre de lingonberry na Finlândia chega a centenas de milhões de quilos por ano, e pela estimativa da associação do setor Arktiset Aromit só 3 a 10 por cento dela são colhidos. O resto alimenta pássaros, ursos e o solo do ano seguinte."
+        },
+        {
+          "n": "02",
+          "title": "Ela se conserva sozinha",
+          "body": "A lingonberry tem ácido benzoico natural, e é por isso que um pote de frutas cruas amassadas se conserva em uma despensa fresca sem açúcar, calor ou aditivos. É a conserva finlandesa original."
+        },
+        {
+          "n": "03",
+          "title": "O vermelho de todo prato de rena",
+          "body": "O poronkäristys, rena salteada sobre purê de batata, não é servido sem uma colherada de lingonberries. É a acidez que faz essa carne farta funcionar."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primeiro, a pergunta principal",
+      "headline": "Qual é o sabor da lingonberry?",
+      "answer": "Ácido, levemente amargo e quase nada doce, com um final limpo e seco e nada do almíscar da amora-ártica: pense em um cranberry com o açúcar abaixado e um pouco mais de amargor. Crua, uma única fruta faz careta; misturada a algo quente, salgado ou lácteo, a mesma acidez vira o ponto.",
+      "p2": "A geada ajuda. As frutas colhidas depois das primeiras geadas noturnas de setembro são visivelmente mais suaves e doces do que as de agosto, e os coletores finlandeses programam as saídas por isso. Uma fruta bem madura é vermelha intensa por todos os lados; um lado pálido quer dizer que ela precisa de mais uma semana.",
+      "p3": "Raramente você receberá lingonberries sozinhas. Elas chegam como acompanhamento: cruas e amassadas com um pouco de açúcar ao lado da rena salteada ou das almôndegas, batidas em <em>vispipuuro</em>, o mingau rosa de semolina que toda criança finlandesa conhece, ou em colheradas sobre mingau quente com leite."
+    },
+    "season": {
+      "kicker": "Do fim de agosto a outubro",
+      "headline": "A temporada longa e generosa.",
+      "lead": "Ao contrário da amora-ártica, a lingonberry espera por você. A temporada abre no fim de agosto e as frutas ficam nos arbustos até outubro, adoçando a cada geada.",
+      "phases": [
+        {
+          "period": "Fim de agosto",
+          "title": "Os primeiros vermelhos",
+          "body": "As frutas passam do branco-esverdeado ao vermelho primeiro nas charnecas de pinheiros voltadas para o sul. As primeiras são as mais amargas; a maioria dos coletores as deixa mais uma ou duas semanas."
+        },
+        {
+          "period": "Setembro",
+          "title": "A safra principal",
+          "body": "Noites frescas, dias secos e as primeiras geadas: é quando as famílias saem com baldes. As frutas estão firmes, bem vermelhas e fáceis de tirar do arbusto."
+        },
+        {
+          "period": "Outubro",
+          "title": "Depois das geadas",
+          "body": "Adoçadas pela geada, as frutas continuam boas na planta até a primeira neve duradoura. Algumas das melhores lingonberries do ano são colhidas nos últimos dias amenos de outubro."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "O direito de acesso à natureza",
+      "headline": "Colha quanto conseguir carregar.",
+      "p1": "O <em>jokamiehenoikeus</em> finlandês, o direito de acesso à natureza, permite a qualquer pessoa colher frutas silvestres em terras não cultivadas, inclusive floresta particular, sem licença e sem autorização do dono. A lingonberry é a fruta para a qual esse direito parece ter sido feito: abundante, resistente e fora de qualquer lista de proteção.",
+      "p2": "A etiqueta é simples. Fique longe de casas e jardins, não danifique os arbustos e use o pente coletor com cuidado: o coletor de pente é legal e comum na Finlândia, mas um puxão descuidado arranca o crescimento do ano seguinte.",
+      "ctaPrimary": "Leia todas as regras de coleta",
+      "ctaSecondary": "Veja as receitas com frutas silvestres"
+    },
+    "versus": {
+      "kicker": "Lingonberry ou cranberry",
+      "headline": "A mesma família, outra turfeira.",
+      "p1": "Lingonberry e cranberry são parentes próximas no gênero <em>Vaccinium</em>, e fora da Finlândia os nomes se trocam. Na Finlândia são duas frutas diferentes de dois lugares diferentes: a lingonberry cresce em charnecas secas de pinheiros, o cranberry em turfeiras úmidas.",
+      "p2": "No prato, a diferença é tamanho e corte. A lingonberry é pequena, firme e uniformemente ácida com uma nota amarga; o cranberry silvestre finlandês, <em>karpalo</em>, é maior, mais macio e ainda mais ácido, e o cranberry americano cultivado do suco de supermercado é maior ainda e mais suave.",
+      "p3": "Os papéis na cozinha também diferem. O cranberry precisa de cozimento e açúcar para ficar agradável; a lingonberry pode ser comida crua e amassada, e é por isso que o pote finlandês de lingonberry muitas vezes leva só frutas e um pouco de açúcar.",
+      "p4": "<strong>Se uma receita estrangeira pede molho de cranberry para caça, a lingonberry é o original nórdico do qual ele descende.</strong>"
+    },
+    "price": {
+      "kicker": "Quanto vale",
+      "headline": "Barata por quilo, inestimável no pote.",
+      "lead": "A lingonberry é a fruta silvestre finlandesa dos grandes volumes, e o preço mostra isso. Em 2025 os compradores receberam 9,5 milhões de quilos, mais do que de qualquer outra fruta silvestre, e pagaram aos coletores 1,90 euro por quilo, contra 13,85 euros pela amora-ártica.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "pagos aos coletores por quilo de lingonberry em 2025, segundo o relatório Marsi da Autoridade Alimentar da Finlândia"
+        },
+        {
+          "value": "9,5 mi kg",
+          "label": "de lingonberry vendidos a compradores em 2025, o maior volume de todas as frutas silvestres finlandesas, segundo o mesmo relatório"
+        },
+        {
+          "value": "3–10 %",
+          "label": "da safra de lingonberry e mirtilo silvestre são colhidos em um ano típico, pela estimativa da associação Arktiset Aromit"
+        }
+      ],
+      "p2": "A maior parte do que é colhido nunca entra no comércio: vai direto do balde para o freezer e para o mingau da família. A safra comercial vira suco, geleia e as frutas congeladas de todo supermercado finlandês."
+    },
+    "products": {
+      "kicker": "Geleia, purê, mingau",
+      "headline": "Como a Finlândia come suas lingonberries.",
+      "lead": "A lingonberry raramente é comida fresca. Ela é guardada para o inverno, e então aparece no café da manhã, no jantar e na sobremesa.",
+      "items": [
+        {
+          "title": "Lingonberries cruas amassadas",
+          "body": "Puolukkasurvos: frutas amassadas com um pouco de açúcar, nada mais. Graças ao ácido benzoico da própria fruta, dura meses na geladeira ou em uma despensa fria. É o pote ao lado da rena, das almôndegas e do fígado."
+        },
+        {
+          "title": "Geleia de lingonberry",
+          "body": "A versão cozida, mais doce e mais lisa, é o clássico de exportação e a que a maioria dos visitantes conhece das lojas suecas de móveis. Na Finlândia acompanha panquecas, arroz-doce e mingau quente."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Mingau rosa batido: suco de lingonberry engrossado com semolina e depois batido até ficar aerado, servido frio com leite. Uma sobremesa de refeitório escolar que os adultos ainda pedem."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Onde provar",
+      "headline": "Encontrando a puolukka na Lapônia.",
+      "lead": "A lingonberry não é uma iguaria que você precisa caçar. É o acompanhamento padrão, e em setembro está em toda parte.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Ao lado da rena",
+          "body": "Peça poronkäristys, rena salteada, em qualquer lugar da Lapônia e as lingonberries vêm junto. Nos restaurantes que fazem a própria, as frutas vêm cruas e amassadas, ainda ácidas."
+        },
+        {
+          "n": "02",
+          "title": "Na mesa do café da manhã",
+          "body": "Os cafés da manhã de hotel em toda a Lapônia colocam a geleia de lingonberry ao lado do mingau e das panquecas. É o jeito mais cotidiano de conhecer a fruta."
+        },
+        {
+          "n": "03",
+          "title": "Seu próprio balde",
+          "body": "A partir do fim de agosto, uma caminhada em qualquer pinhal seco coloca lingonberries aos seus pés. Um passeio de coleta guiado ensina o pente, o truque da geada e as boas charnecas."
+        }
+      ],
+      "gygCta": "Ver passeios de coleta no GetYourGuide",
+      "diningCta": "Ver o guia de alta gastronomia"
+    },
+    "nextSteps": {
+      "kicker": "Continue",
+      "headline": "Aonde isso leva.",
+      "items": [
+        {
+          "title": "Aprenda a colher",
+          "body": "Direito de acesso à natureza, segurança e o que levar: o guia de coleta cobre o lado prático de colher por conta própria.",
+          "cta": "Guia de coleta"
+        },
+        {
+          "title": "As outras frutas",
+          "body": "Amora-ártica, mirtilo silvestre e espinheiro-marítimo têm cada um seu guia, com temporadas, sabor e onde encontrá-los.",
+          "cta": "Todas as frutas silvestres finlandesas"
+        },
+        {
+          "title": "Fique para a temporada",
+          "body": "Setembro na Lapônia é tranquilo, barato e vermelho de lingonberry. Rovaniemi é uma base prática para dias de floresta.",
+          "cta": "Ver hospedagem em Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Mirtilo silvestre: o mirtilo das florestas da Finlândia",
+    "description": "Por que o mirtilo silvestre finlandês não é o mirtilo cultivado, qual é o sabor, quando a temporada na Lapônia atinge o pico, quanto os coletores recebem e como comê-lo, da torta à sopa.",
+    "hero": {
+      "eyebrow": "O guia das frutas silvestres · Mirtilo silvestre",
+      "title": "Mirtilo silvestre, o azul que",
+      "titleHighlight": "mancha os dedos.",
+      "subtitle": "A mustikka é a fruta que quase todo finlandês já colheu, a que colore um agosto inteiro de infância, e a que os visitantes insistem em chamar de mirtilo comum. Aqui está como ela difere, qual é o sabor e onde cresce na Lapônia.",
+      "primaryCta": "Aprenda a colher",
+      "secondaryCta": "Todas as frutas silvestres finlandesas",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Direito de colher",
+        "Silvestre ou cultivado",
+        "Quanto vale",
+        "Torta e sopa",
+        "Onde provar"
+      ]
+    },
+    "captions": {
+      "taste": "Mirtilos silvestres colhidos na floresta de Salla, agosto de 2026",
+      "versus": "Um mirtilo silvestre maduro entre dois dedos, Salla, agosto de 2026"
+    },
+    "intro": {
+      "lead": "O mirtilo silvestre é o alimento mais abundante da floresta finlandesa, e o que a maioria das pessoas de fato já colheu. Em um ano bom, a safra é medida em centenas de milhões de quilos.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Silvestre, não cultivado",
+          "body": "Todo mirtilo silvestre finlandês é silvestre. Ele cresce em arbustos na altura do joelho sob pinheiros e abetos em todo o país, dos parques de Helsinque aos montes da Lapônia. Ninguém o planta."
+        },
+        {
+          "n": "02",
+          "title": "Azul até o miolo",
+          "body": "Corte um mirtilo silvestre e ele é roxo por dentro; corte um mirtilo cultivado de supermercado e ele é verde-claro. O pigmento que mancha mãos e língua é o jeito mais fácil de distingui-los."
+        },
+        {
+          "n": "03",
+          "title": "Colhido também para viver",
+          "body": "Coletores comerciais venderam 6,8 milhões de quilos de mirtilo silvestre a compradores em 2025 e ganharam 16 milhões de euros, informa a Autoridade Alimentar da Finlândia. Mesmo assim, pela estimativa do setor, só 3 a 10 por cento da safra são colhidos."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primeiro, a pergunta principal",
+      "headline": "Qual é o sabor do mirtilo silvestre?",
+      "answer": "Mais doce e macio do que um cranberry, mais vivo e mais selvagem do que um mirtilo cultivado: o mirtilo silvestre é suculento, de casca fina e cor intensa, com uma profundidade floral e levemente tânica que o cultivado não tem. Coma um punhado direto do arbusto e dedos, lábios e língua ficam roxos.",
+      "p2": "A maturação é fácil de ler. Um mirtilo maduro é azul-escuro fosco e solta ao menor puxão; uma fruta que resiste está um ou dois dias adiantada. As frutas aquecidas pelo sol em uma clareira aberta são as mais doces; as de sombra de um bosque fechado de abetos são maiores e mais suculentas.",
+      "p3": "Na cozinha, o sabor atravessa tudo: a torta <em>mustikkapiirakka</em>, a sopa <em>mustikkakeitto</em>, uma colherada sobre o mingau da manhã ou sobre o <em>viili</em>, o leite coalhado, e na Lapônia a combinação clássica de mirtilo silvestre e rena."
+    },
+    "season": {
+      "kicker": "Do fim de julho a setembro",
+      "headline": "Agosto pertence ao mirtilo silvestre.",
+      "lead": "No sul da Finlândia, os primeiros mirtilos silvestres amadurecem em julho. Na Lapônia a temporada é mais tardia e mais curta, e agosto é o mês.",
+      "phases": [
+        {
+          "period": "Fim de julho",
+          "title": "Os primeiros azuis",
+          "body": "Encostas ensolaradas e clareiras amadurecem primeiro. Na Lapônia, são as semanas de degustação: o bastante para um punhado numa caminhada, ainda não para um balde."
+        },
+        {
+          "period": "Agosto",
+          "title": "O pico",
+          "body": "As florestas estão cheias. As famílias colhem aos baldes, os freezers enchem, e todo café da Lapônia tem uma torta de mirtilo no balcão. As noites longas e claras fazem deste o mês mais fácil do ano de coleta."
+        },
+        {
+          "period": "Setembro",
+          "title": "Os últimos",
+          "body": "As frutas amolecem e caem, e os arbustos ficam vermelhos. O que sobra é doce, e os coletores já passaram para lingonberries e cogumelos nas mesmas saídas."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "O direito de acesso à natureza",
+      "headline": "Qualquer pessoa pode colher. Sim, você também.",
+      "p1": "O <em>jokamiehenoikeus</em> finlandês, o direito de acesso à natureza, cobre o mirtilo silvestre por completo: qualquer visitante pode colhê-lo em terras não cultivadas, inclusive floresta particular, sem licença e sem pedir. Os coletores comerciais trabalham sob o mesmo direito.",
+      "p2": "Pentes coletores são comuns e legais; use com cuidado para não rasgar o arbusto. Fique longe de casas e jardins, e deixe a floresta como a encontrou.",
+      "ctaPrimary": "Leia todas as regras de coleta",
+      "ctaSecondary": "Veja as receitas com frutas silvestres"
+    },
+    "versus": {
+      "kicker": "Silvestre ou cultivado",
+      "headline": "Não é a mesma fruta.",
+      "p1": "O mirtilo silvestre, <em>Vaccinium myrtillus</em>, e o mirtilo cultivado, <em>Vaccinium corymbosum</em>, são primos, e na maioria das línguas, o finlandês incluído, os dois se chamam mirtilo. No prato, são frutas diferentes.",
+      "p2": "Os mirtilos silvestres crescem um a um em arbustos baixos de floresta e são pequenos, escuros e roxos até o miolo. Os cultivados crescem em cachos em arbustos altos selecionados para o cultivo, são maiores e mais firmes e ficam pálidos por dentro porque a cor está só na casca.",
+      "p3": "Essa diferença é o motivo de uma torta finlandesa de mirtilo silvestre sangrar roxo e um muffin de mirtilo não, e de valer a pena procurar mirtilos silvestres congelados em lojas no exterior: o sabor é concentrado de um jeito que a fruta cultivada nunca alcança.",
+      "p4": "<strong>Se você vir um cardápio finlandês traduzido como blueberry ou mirtilo, trata-se do mirtilo silvestre. Na Lapônia, a fruta azul no prato é a silvestre.</strong>"
+    },
+    "price": {
+      "kicker": "Quanto vale",
+      "headline": "A fruta silvestre comercialmente mais importante da Finlândia.",
+      "lead": "É assim que a própria Autoridade Alimentar da Finlândia descreve o mirtilo silvestre dos últimos anos. Em 2025 os coletores ganharam 16 milhões de euros com ele, a 2,39 euros o quilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "pagos aos coletores por quilo de mirtilo silvestre em 2025, segundo o relatório Marsi da Autoridade Alimentar da Finlândia"
+        },
+        {
+          "value": "16 mi €",
+          "label": "de renda de coleta com mirtilo silvestre na Finlândia em 2025, segundo o mesmo relatório"
+        },
+        {
+          "value": "3–10 %",
+          "label": "da safra de mirtilo silvestre e lingonberry são colhidos em um ano típico, pela estimativa da associação Arktiset Aromit"
+        }
+      ],
+      "p2": "A maior parte da safra comercial é congelada e exportada, boa parte para ser processada em outro lugar. As frutas que você encontra em um café da Lapônia vêm de uma cadeia mais curta: a manhã de alguém na floresta, muitas vezes do dono do café."
+    },
+    "products": {
+      "kicker": "Torta, sopa, mingau",
+      "headline": "Como a Finlândia come seus mirtilos silvestres.",
+      "lead": "Frescos aos punhados em agosto, e do freezer nos outros onze meses.",
+      "items": [
+        {
+          "title": "Torta de mirtilo silvestre",
+          "body": "Mustikkapiirakka: uma torta macia, muitas vezes coberta com aveia, com as frutas assadas dentro até sangrarem. Todo café finlandês tem uma em agosto, e as boas têm gosto de floresta, não de açúcar."
+        },
+        {
+          "title": "Sopa de mirtilo silvestre",
+          "body": "Mustikkakeitto: frutas cozidas em fogo baixo com um pouco de açúcar e engrossadas com fécula de batata, servidas quentes ou frias, puras ou sobre o mingau. Também a bebida do esquiador, servida quente da garrafa térmica na pista."
+        },
+        {
+          "title": "Com rena",
+          "body": "Nos restaurantes da Lapônia, uma redução de mirtilo silvestre ou mirtilos lactofermentados acompanham o filé de rena. A acidez corta a gordura; a cor faz o resto."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Onde provar",
+      "headline": "Encontrando a mustikka na Lapônia.",
+      "lead": "Em agosto você não vai precisar procurar. Fora da temporada, a torta e a sopa levam a fruta pelo ano inteiro.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Qualquer floresta, qualquer agosto",
+          "body": "Saia de uma trilha sinalizada perto de Rovaniemi, Levi ou Saariselkä e os arbustos estão aos seus pés. Um passeio guiado acrescenta os bons lugares e as orientações de segurança."
+        },
+        {
+          "n": "02",
+          "title": "Balcões de café",
+          "body": "Torta de mirtilo silvestre com molho de baunilha é o pedido padrão em um café da Lapônia no fim do verão. Pergunte se as frutas foram colhidas ali perto; em agosto a resposta costuma ser sim."
+        },
+        {
+          "n": "03",
+          "title": "Menus degustação",
+          "body": "As cozinhas de alta gastronomia da Lapônia usam o mirtilo silvestre fermentado, congelado e reduzido o ano todo. Veja os restaurantes no guia gastronômico."
+        }
+      ],
+      "gygCta": "Ver passeios de coleta no GetYourGuide",
+      "diningCta": "Ver o guia de alta gastronomia"
+    },
+    "nextSteps": {
+      "kicker": "Continue",
+      "headline": "Aonde isso leva.",
+      "items": [
+        {
+          "title": "Aprenda a colher",
+          "body": "Direito de acesso à natureza, segurança com cogumelos e o que levar: o guia de coleta cobre o lado prático.",
+          "cta": "Guia de coleta"
+        },
+        {
+          "title": "As outras frutas",
+          "body": "Amora-ártica, lingonberry e espinheiro-marítimo têm cada um seu guia, com temporadas, sabor e onde encontrá-los.",
+          "cta": "Todas as frutas silvestres finlandesas"
+        },
+        {
+          "title": "Fique para a temporada",
+          "body": "Agosto na Lapônia é quente, claro e azul sob os pés. Rovaniemi é uma base prática para dias de floresta.",
+          "cta": "Ver hospedagem em Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Espinheiro-marítimo: a fruta mais ácida da Finlândia",
+    "description": "Qual é o sabor do espinheiro-marítimo, onde ele cresce silvestre no litoral finlandês do golfo de Bótnia, quando amadurece, por que é colhido entre espinhos e como os finlandeses o bebem e cozinham.",
+    "hero": {
+      "eyebrow": "O guia das frutas silvestres · Espinheiro-marítimo",
+      "title": "Espinheiro-marítimo, fogo laranja",
+      "titleHighlight": "vindo da praia.",
+      "subtitle": "O tyrni não cresce nas florestas do interior da Lapônia. Ele cresce nas margens pedregosas do golfo de Bótnia, ao norte até o litoral lapão em Tornio, e é a fruta mais ácida da despensa finlandesa e uma das mais ricas em vitamina C. Aqui está onde ele vive, qual é o sabor e por que é tão difícil de colher.",
+      "primaryCta": "Aprenda a colher",
+      "secondaryCta": "Todas as frutas silvestres finlandesas",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Direito de colher",
+        "Por que os espinhos",
+        "Vitamina C",
+        "Suco e geleia",
+        "Onde provar"
+      ]
+    },
+    "intro": {
+      "lead": "O espinheiro-marítimo é o excêntrico entre as frutas silvestres finlandesas: um arbusto de litoral, uma safra coberta de espinhos e um sabor tão cortante que quase ninguém o come puro.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Uma planta de praia, não de floresta",
+          "body": "O espinheiro-marítimo silvestre cresce nas margens rochosas e pedregosas do golfo de Bótnia, do arquipélago de Uusikaupunki ao norte até Tornio, e nas ilhas Åland. O interior da Lapônia não tem; o litoral de Tornio e Kemi é seu limite norte."
+        },
+        {
+          "n": "02",
+          "title": "Ácido de propósito",
+          "body": "As frutas são intensamente ácidas, levemente amargas e um pouco oleosas, com uma nota de maracujá e damasco por baixo. Os finlandeses o bebem diluído, adoçado ou incorporado a uma sobremesa, raramente aos punhados."
+        },
+        {
+          "n": "03",
+          "title": "Rico em vitamina C",
+          "body": "O banco de dados finlandês de composição de alimentos dá ao espinheiro-marítimo cerca de 100 a 400 miligramas de vitamina C por 100 gramas de frutas, e é por isso que os finlandeses o tratam como sua própria fruta cítrica."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primeiro, a pergunta principal",
+      "headline": "Qual é o sabor do espinheiro-marítimo?",
+      "answer": "Cortante. Uma fruta madura de espinheiro-marítimo é tão ácida quanto um limão, com uma borda amarga e um pouco oleosa e, passado o susto, uma nota tropical entre maracujá e damasco. O suco é espesso, laranja vivo, e mancha tudo o que toca.",
+      "p2": "Essa acidez é o motivo de a fruta quase nunca ser comida pura. Ela é diluída em suco, adoçada em geleia, congelada em sorbet, ou usada pelos chefs como se usa um limão: uma colherada de espinheiro-marítimo corta creme, chocolate branco, peixe gordo e rena farta.",
+      "p3": "A geada não o suaviza muito. As frutas têm mais ou menos o mesmo sabor em outubro e em setembro; o que muda é a facilidade com que soltam do galho espinhoso, e esse é o problema real do coletor."
+    },
+    "season": {
+      "kicker": "De setembro a outubro",
+      "headline": "Maduro quando o litoral fica cinza.",
+      "lead": "O espinheiro-marítimo silvestre amadurece em setembro e outubro, quando o verão há muito deixou o litoral do golfo de Bótnia e as frutas são a coisa mais brilhante da praia.",
+      "phases": [
+        {
+          "period": "Fim do verão",
+          "title": "Ficando laranja",
+          "body": "As frutas verdes ganham cor ao longo de agosto. Os arbustos, densos e de folhas prateadas, são fáceis de ver da trilha da praia; a fruta ainda não vale os espinhos."
+        },
+        {
+          "period": "Setembro",
+          "title": "A colheita começa",
+          "body": "As frutas estão totalmente laranja, suculentas e ácidas. Os produtores cortam os galhos com fruta e os congelam para poder sacudir as frutas; os coletores silvestres as apertam ou arrancam no lugar, devagar."
+        },
+        {
+          "period": "Outubro",
+          "title": "Frutas tardias",
+          "body": "As frutas maduras ficam nos galhos até bem entrado o outono. Depois das primeiras geadas fortes elas soltam com mais facilidade, e alguns coletores esperam exatamente por isso."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "O direito de acesso à natureza",
+      "headline": "Arbustos silvestres sim, jardins não.",
+      "p1": "O direito de acesso à natureza cobre o espinheiro-marítimo silvestre como qualquer outra fruta silvestre: colher é permitido em praias não cultivadas, inclusive orla particular, desde que você fique longe de casas e quintais. O espinheiro-marítimo cultivado em fazendas e jardins está fora dos limites.",
+      "p2": "Dois avisos. Não corte nem quebre galhos para chegar às frutas; isso é danificar uma planta, o que o direito não permite. E use luvas: os espinhos são longos, duros e estão por toda parte.",
+      "ctaPrimary": "Leia todas as regras de coleta",
+      "ctaSecondary": "Veja as receitas com frutas silvestres"
+    },
+    "versus": {
+      "kicker": "Por que os espinhos",
+      "headline": "A fruta que se defende.",
+      "p1": "As frutas do espinheiro-marítimo crescem apertadas ao longo dos galhos, cada uma tão presa que puxar geralmente a estoura. Entre as frutas há espinhos de vários centímetros. Colher à mão até uma cesta pequena exige paciência e luvas grossas.",
+      "p2": "Os produtores comerciais resolvem isso com frio. Eles cortam os galhos com fruta e os congelam; as frutas congeladas soltam limpas e vão direto para a prensa. É também por isso que a maior parte do espinheiro-marítimo chega a você como suco, purê ou geleia, e não fresco.",
+      "p3": "O arbusto é dioico: plantas masculinas e femininas são separadas, e só as femininas dão fruto, por isso um bosque denso na praia pode ser metade estéril.",
+      "p4": "<strong>A conclusão para quem viaja: espinheiro-marítimo fresco é raro até na Finlândia, mas o suco está em todo supermercado.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamina C",
+      "headline": "Por que os finlandeses o chamam de sua fruta cítrica.",
+      "lead": "O espinheiro-marítimo é uma das frutas mais ricas em vitamina C que crescem silvestres na Finlândia: cerca de 100 a 400 miligramas por 100 gramas de frutas, segundo o banco nacional de composição de alimentos.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "de vitamina C por 100 g de frutas de espinheiro-marítimo, segundo o banco de dados Fineli conforme citado pela associação Arktiset Aromit"
+        },
+        {
+          "value": "Set–out",
+          "label": "a janela da colheita silvestre no litoral do golfo de Bótnia"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "a área silvestre ao longo do golfo de Bótnia, mais as ilhas Åland"
+        }
+      ],
+      "p2": "Nada disso o torna remédio, e a lei finlandesa é rigorosa sobre o que um alimento pode afirmar. Tome os números pelo que são: uma explicação de por que um copinho desse suco tem o sabor que tem."
+    },
+    "products": {
+      "kicker": "Suco, geleia, sobremesa",
+      "headline": "Como a Finlândia usa sua fruta mais ácida.",
+      "lead": "Ninguém come uma tigela de espinheiro-marítimo. Todo mundo já tomou o suco, e quase todo ele vem hoje de arbustos cultivados: o relatório da Autoridade Alimentar da Finlândia sobre o comércio de frutas silvestres registra que as vendas de espinheiro-marítimo silvestre praticamente cessaram desde que o cultivo assumiu.",
+      "items": [
+        {
+          "title": "Suco de espinheiro-marítimo",
+          "body": "Tyrnimehu: prensado, adoçado e geralmente diluído, bebido em copos pequenos. A versão de supermercado é como a maioria dos finlandeses conhece a fruta; a versão prensada na hora, da fazenda, é mais cortante e mais espessa."
+        },
+        {
+          "title": "Geleia e purê",
+          "body": "Cozida com açúcar, a acidez vira algo mais próximo de uma marmelada. Passada no pão de centeio, em colheradas sobre o mingau ou servida com queijo."
+        },
+        {
+          "title": "No cardápio de sobremesas",
+          "body": "Os menus degustação da Lapônia e de Helsinque usam o espinheiro-marítimo como seu limão: um sorbet entre os pratos, um curd sob chocolate branco, um molho cortante ao lado do peixe ártico gordo."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Onde provar",
+      "headline": "Encontrando o tyrni na Finlândia.",
+      "lead": "O arbusto você não vai encontrar nos montes. A fruta você vai encontrar no copo, no pote e na sobremesa, pelo país inteiro.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "O litoral de Tornio e Kemi",
+          "body": "A ponta norte da área silvestre é a praia da Lapônia Marítima. Procure arbustos densos verde-prateados nas praias pedregosas; em setembro são inconfundíveis."
+        },
+        {
+          "n": "02",
+          "title": "Qualquer supermercado finlandês",
+          "body": "Suco, purê e geleia de espinheiro-marítimo são compras comuns. O corredor de congelados costuma ter um saco de frutas, o jeito mais fácil de levar a fruta para casa."
+        },
+        {
+          "n": "03",
+          "title": "Cardápios de sobremesa",
+          "body": "Peça o prato de espinheiro-marítimo. Nos restaurantes de alta gastronomia da Lapônia ele aparece como sorbet, curd ou molho com mais frequência do que qualquer outra fruta, exceto a amora-ártica."
+        }
+      ],
+      "gygCta": "Ver passeios de coleta no GetYourGuide",
+      "diningCta": "Ver o guia de alta gastronomia"
+    },
+    "nextSteps": {
+      "kicker": "Continue",
+      "headline": "Aonde isso leva.",
+      "items": [
+        {
+          "title": "Aprenda a colher",
+          "body": "Direito de acesso à natureza, o que levar e como colher sem danificar uma planta: o guia de coleta.",
+          "cta": "Guia de coleta"
+        },
+        {
+          "title": "As outras frutas",
+          "body": "Amora-ártica, lingonberry e mirtilo silvestre têm cada um seu guia, com temporadas, sabor e onde encontrá-los.",
+          "cta": "Todas as frutas silvestres finlandesas"
+        },
+        {
+          "title": "Fique no litoral",
+          "body": "Tornio e Kemi são as cidades litorâneas da Lapônia, uma base fácil para caminhadas na praia em setembro.",
+          "cta": "Ver hospedagem em Tornio"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Comida sámi: receitas tradicionais da Lapônia",
     "description": "Quatro pratos da cozinha sámi: ensopado de rena bidos, pão gahkku, sopa de peixe de Sápmi e kissel de frutas. Receitas e o calendário de oito estações.",
@@ -774,6 +1407,24 @@
       "tours": "Experiências culinárias",
       "ingredients": "Ingredientes locais",
       "modern": "Interpretações modernas"
+    },
+    "faq": {
+      "kicker": "Comida sámi, em resumo",
+      "headline": "Três perguntas que as pessoas fazem sobre a comida sámi.",
+      "items": [
+        {
+          "question": "O que é a comida sámi?",
+          "answer": "A comida sámi é a cozinha do povo indígena de Sápmi, a terra dos sámi que se estende pelo norte da Finlândia, da Suécia, da Noruega e da Rússia. Ela se apoia na rena, da qual cada parte é aproveitada, no peixe de lago e de rio, nas frutas e ervas silvestres e em métodos lentos: cozimento, defumação a frio, secagem e salga. As receitas desta página são as versões caseiras."
+        },
+        {
+          "question": "O que os sámi comem hoje?",
+          "answer": "Os mesmos ingredientes, em uma mesa comum de dia de semana: ensopado de rena ou rena salteada com batatas, sopa de peixe, rena seca e defumada, pão achatado, frutas silvestres com mingau. As famílias sámi de hoje fazem compras no supermercado como todo mundo, e os pratos tradicionais aparecem nas festas, nos casamentos e no abate de outono."
+        },
+        {
+          "question": "O que é bidos?",
+          "answer": "Bidos é o ensopado sámi de rena: paleta ou pernil em pedaços, dourados e cozidos lentamente com batata, cenoura e cebola até a carne desmanchar. É o prato de celebração, servido em casamentos e reuniões, e a primeira receita desta página."
+        }
+      ]
     }
   },
   "modernLapland": {

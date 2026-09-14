@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Baies finlandaises : mûre arctique, myrtille, airelle et argousier",
+    "description": "Les quatre baies sauvages qui définissent la cuisine finlandaise : le goût de chacune, sa saison, où elle pousse et comment la cueillir grâce au droit d'accès à la nature.",
+    "hero": {
+      "eyebrow": "Le guide des baies",
+      "title": "Quatre baies, un",
+      "titleHighlight": "court été.",
+      "subtitle": "Les forêts et les rivages de Finlande produisent plus de baies sauvages que le pays entier ne pourrait jamais en cueillir. Ces quatre-là façonnent la cuisine finlandaise. Chacune a son guide.",
+      "primaryCta": "Lire le guide de cueillette",
+      "secondaryCta": "Tous les ingrédients de Laponie"
+    },
+    "intro": {
+      "lead": "Mûre arctique, myrtille, airelle rouge et argousier mûrissent l'une après l'autre de juillet à octobre. Ensemble, elles sont le sucre, l'acidité et la couleur du garde-manger finlandais.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Toutes sauvages",
+          "body": "Aucune des quatre n'est cultivée à une échelle notable en Finlande. Toute l'offre, de la tarte du café au jus du supermarché, commence par quelqu'un qui cueille."
+        },
+        {
+          "n": "02",
+          "title": "Libres à cueillir",
+          "body": "Le droit d'accès à la nature permet à chacun, habitant ou visiteur, de cueillir des baies sauvages sur la plupart des terres sans demander. Les règles parlent de respect, pas de permis."
+        },
+        {
+          "n": "03",
+          "title": "Une échelle de saisons",
+          "body": "La mûre arctique ouvre la saison sur les tourbières en juillet, la myrtille remplit août, et l'airelle et l'argousier la prolongent jusqu'en octobre."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "Les quatre guides",
+      "headline": "Choisissez une baie.",
+      "lead": "Chaque guide répond aux mêmes questions : le goût, la saison, le droit de cueillir, ce que vaut la baie et où la rencontrer.",
+      "cards": [
+        {
+          "name": "Mûre arctique",
+          "latin": "Rubus chamaemorus",
+          "season": "De la mi-juillet à la mi-août",
+          "body": "La baie ambrée des tourbières que personne ne sait cultiver. Quatre semaines par an, cueillie à la main, au prix d'un mets rare.",
+          "cta": "Guide de la mûre arctique"
+        },
+        {
+          "name": "Myrtille sauvage",
+          "latin": "Vaccinium myrtillus",
+          "season": "De fin juillet à septembre",
+          "body": "La myrtille sauvage de Finlande : violette jusqu'au cœur, cueillie au seau, cuite dans chaque tarte du mois d'août.",
+          "cta": "Guide de la myrtille"
+        },
+        {
+          "name": "Airelle rouge",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "De fin août à octobre",
+          "body": "La baie rouge et acidulée à côté de chaque assiette de renne. Se conserve en bocal sans sucre et s'adoucit après le gel.",
+          "cta": "Guide de l'airelle"
+        },
+        {
+          "name": "Argousier",
+          "latin": "Hippophaë rhamnoides",
+          "season": "De septembre à octobre",
+          "body": "La baie orange et acide de la côte du golfe de Botnie, cueillie entre les épines et bue en jus.",
+          "cta": "Guide de l'argousier"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Saison après saison",
+      "headline": "Quand chaque baie est mûre.",
+      "items": [
+        {
+          "period": "Juillet",
+          "title": "Mûre arctique",
+          "body": "Tourbières ouvertes sous le soleil de minuit, une fenêtre de cueillette d'environ trois semaines à partir de la mi-juillet."
+        },
+        {
+          "period": "Août",
+          "title": "Myrtille",
+          "body": "Des sous-bois partout : le mois où la Finlande remplit ses congélateurs."
+        },
+        {
+          "period": "Septembre",
+          "title": "Airelle rouge",
+          "body": "Landes sèches de pins ; les premières gelées adoucissent les baies."
+        },
+        {
+          "period": "Septembre–octobre",
+          "title": "Argousier",
+          "body": "Rivages pierreux du golfe de Botnie, au nord jusqu'à Tornio."
+        },
+        {
+          "period": "À partir de novembre",
+          "title": "Du bocal",
+          "body": "Confiture, jus, baies surgelées et kissel portent la saison tout l'hiver."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Pour continuer",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "Apprendre à cueillir",
+          "body": "Droit d'accès à la nature, sécurité des champignons et calendrier mois par mois : le côté pratique de la cueillette.",
+          "cta": "Guide de cueillette"
+        },
+        {
+          "title": "Cuisiner les baies",
+          "body": "Le kissel aux baies sauvages et les autres recettes traditionnelles, méthode détaillée.",
+          "cta": "Recettes traditionnelles"
+        },
+        {
+          "title": "Rester pour la saison",
+          "body": "De juillet à septembre, c'est la saison des baies dans toute la Laponie. Rovaniemi est une base pratique pour des journées en forêt.",
+          "cta": "Voir les hébergements à Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Airelle rouge : la baie sauvage du quotidien finlandais",
+    "description": "Le goût de l'airelle rouge, la saison finlandaise, pourquoi elle se conserve sans sucre, ce qui la distingue de la canneberge et où la manger en Laponie.",
+    "hero": {
+      "eyebrow": "Le guide des baies · Airelle rouge",
+      "title": "L'airelle rouge, la baie qui",
+      "titleHighlight": "se conserve toute seule.",
+      "subtitle": "La puolukka est la baie rouge à côté de chaque assiette d'émincé de renne, et celle que les familles finlandaises cueillent au seau. Voici son goût, pourquoi elle se garde en bocal sans sucre, et ce qui la distingue de la canneberge avec laquelle on la confond.",
+      "primaryCta": "Apprendre à la cueillir",
+      "secondaryCta": "Toutes les baies finlandaises",
+      "pills": [
+        "Goût",
+        "Saison",
+        "Droit de cueillette",
+        "Airelle ou canneberge",
+        "Ce qu'elle vaut",
+        "Confiture et purée",
+        "Où la goûter"
+      ]
+    },
+    "intro": {
+      "lead": "Chaque automne, les airelles tapissent les pinèdes sèches de Finlande en quantités que personne ne pourrait cueillir. Les rares cueillies finissent en bocaux, sur le porridge et à côté du renne.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Plus que quiconque ne peut cueillir",
+          "body": "La récolte sauvage d'airelles en Finlande se chiffre en centaines de millions de kilos par an, et selon l'estimation de l'association professionnelle Arktiset Aromit, seuls 3 à 10 pour cent en sont cueillis. Le reste nourrit les oiseaux, les ours et le sol de l'année suivante."
+        },
+        {
+          "n": "02",
+          "title": "Elle se conserve toute seule",
+          "body": "L'airelle contient de l'acide benzoïque naturel : c'est pourquoi un bocal de baies crues écrasées se garde dans un cellier frais sans sucre, sans cuisson ni additif. C'est la conserve finlandaise originelle."
+        },
+        {
+          "n": "03",
+          "title": "Le rouge de chaque assiette de renne",
+          "body": "Le poronkäristys, émincé de renne sur purée de pommes de terre, ne se sert pas sans une cuillerée d'airelles. C'est l'acidité qui fait fonctionner cette viande riche."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "La première question d'abord",
+      "headline": "Quel goût a l'airelle rouge ?",
+      "answer": "Acidulé, légèrement amer et à peine sucré, avec une finale nette et sèche, sans rien du musc de la mûre arctique : pensez à une canneberge dont on aurait baissé le sucre et monté un peu l'amertume. Crue, une seule baie fait grimacer ; mêlée à quelque chose de chaud, de salé ou de lacté, la même acidité devient tout l'intérêt.",
+      "p2": "Le gel aide. Les baies cueillies après les premières gelées nocturnes de septembre sont nettement plus douces et plus sucrées que celles d'août, et les cueilleurs finlandais planifient leurs sorties en conséquence. Une baie bien mûre est rouge profond sur tout son tour ; un côté pâle veut dire qu'il lui faut encore une semaine.",
+      "p3": "On vous servira rarement des airelles seules. Elles arrivent en accompagnement : crues, écrasées avec un peu de sucre, à côté de l'émincé de renne ou des boulettes, fouettées en <em>vispipuuro</em>, le porridge de semoule rose que tout enfant finlandais connaît, ou à la cuillère sur un porridge chaud avec du lait."
+    },
+    "season": {
+      "kicker": "De fin août à octobre",
+      "headline": "La saison longue et indulgente.",
+      "lead": "Contrairement aux mûres arctiques, les airelles vous attendent. La saison s'ouvre fin août et les baies restent sur les arbrisseaux jusqu'en octobre, s'adoucissant à chaque gelée.",
+      "phases": [
+        {
+          "period": "Fin août",
+          "title": "Les premiers rouges",
+          "body": "Les baies passent du blanc-vert au rouge d'abord sur les landes de pins exposées au sud. Les premières sont les plus amères ; la plupart des cueilleurs les laissent une semaine ou deux de plus."
+        },
+        {
+          "period": "Septembre",
+          "title": "La grande récolte",
+          "body": "Nuits fraîches, journées sèches et premières gelées : c'est là que les familles sortent avec des seaux. Les baies sont fermes, bien rouges et faciles à détacher de l'arbrisseau."
+        },
+        {
+          "period": "Octobre",
+          "title": "Après les gelées",
+          "body": "Adoucies par le gel, les baies restent bonnes sur la plante jusqu'à la première neige durable. Certaines des meilleures airelles de l'année se cueillent lors des derniers jours doux d'octobre."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Droit d'accès",
+      "headline": "Cueillez-en autant que vous pouvez porter.",
+      "p1": "Le <em>jokamiehenoikeus</em> finlandais, le droit d'accès à la nature, permet à chacun de cueillir des baies sauvages sur les terres non cultivées, forêts privées comprises, sans permis ni autorisation du propriétaire. L'airelle est la baie pour laquelle ce droit semble avoir été fait : abondante, robuste et sur aucune liste de protection.",
+      "p2": "L'étiquette est simple. Restez à l'écart des maisons et des jardins, n'abîmez pas les arbrisseaux et utilisez le peigne à baies avec douceur : le cueille-baies à peigne est légal et courant en Finlande, mais un coup négligent arrache la pousse de l'année suivante.",
+      "ctaPrimary": "Lire toutes les règles de cueillette",
+      "ctaSecondary": "Voir les recettes aux baies"
+    },
+    "versus": {
+      "kicker": "Airelle ou canneberge",
+      "headline": "Même famille, autre tourbière.",
+      "p1": "L'airelle rouge et la canneberge sont de proches parentes du genre <em>Vaccinium</em>, et à l'étranger les noms s'échangent. En Finlande, ce sont deux baies différentes venant de deux endroits différents : l'airelle pousse sur les landes sèches de pins, la canneberge dans les tourbières humides.",
+      "p2": "Dans l'assiette, la différence est la taille et le tranchant. Une airelle est petite, ferme et uniformément acidulée avec une note amère ; la canneberge sauvage finlandaise, <em>karpalo</em>, est plus grosse, plus molle et plus acide encore, et la canneberge américaine cultivée des jus de supermarché est plus grosse encore et plus douce.",
+      "p3": "Les rôles en cuisine diffèrent aussi. La canneberge a besoin de cuisson et de sucre pour être agréable ; l'airelle se mange crue écrasée, et c'est pourquoi le bocal d'airelles finlandais ne contient souvent que des baies et un peu de sucre.",
+      "p4": "<strong>Si une recette étrangère demande une sauce aux canneberges pour le gibier, l'airelle est l'original nordique dont elle descend.</strong>"
+    },
+    "price": {
+      "kicker": "Ce qu'elle vaut",
+      "headline": "Bon marché au kilo, inestimable en bocal.",
+      "lead": "L'airelle est la baie sauvage des gros volumes en Finlande, et son prix le montre. En 2025, les acheteurs ont réceptionné 9,5 millions de kilos, plus que de toute autre baie sauvage, et payé les cueilleurs 1,90 euro le kilo, contre 13,85 euros pour la mûre arctique.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "payés aux cueilleurs par kilo d'airelles en 2025, selon le rapport Marsi de l'Autorité alimentaire finlandaise"
+        },
+        {
+          "value": "9,5 M kg",
+          "label": "d'airelles vendues aux acheteurs en 2025, le plus gros volume de toutes les baies sauvages finlandaises, selon le même rapport"
+        },
+        {
+          "value": "3–10 %",
+          "label": "de la récolte d'airelles et de myrtilles sont cueillis une année typique, selon l'estimation de l'association Arktiset Aromit"
+        }
+      ],
+      "p2": "L'essentiel de ce qui est cueilli n'entre jamais dans le commerce : cela passe du seau au congélateur, puis au porridge de la famille. La récolte commerciale alimente les jus, les confitures et le rayon des baies surgelées de chaque supermarché finlandais."
+    },
+    "products": {
+      "kicker": "Confiture, purée, porridge",
+      "headline": "Comment la Finlande mange ses airelles.",
+      "lead": "L'airelle se mange rarement fraîche. On la met en conserve pour l'hiver, puis elle réapparaît au petit-déjeuner, au dîner et au dessert.",
+      "items": [
+        {
+          "title": "Airelles crues écrasées",
+          "body": "Puolukkasurvos : des baies écrasées avec un peu de sucre, rien d'autre. Grâce à l'acide benzoïque de la baie, cela se garde des mois au réfrigérateur ou dans un cellier froid. C'est le bocal à côté du renne, des boulettes et du foie."
+        },
+        {
+          "title": "Confiture d'airelles",
+          "body": "La version cuite, plus douce et plus lisse, est le classique de l'exportation et celle que la plupart des visiteurs connaissent des magasins de meubles suédois. En Finlande, elle accompagne les crêpes, le riz au lait et le porridge chaud."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Porridge rose fouetté : du jus d'airelles épaissi à la semoule puis battu jusqu'à devenir aérien, servi froid avec du lait. Un dessert de cantine scolaire que les adultes commandent encore."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Où la goûter",
+      "headline": "Rencontrer la puolukka en Laponie.",
+      "lead": "L'airelle n'est pas un mets rare qu'il faut traquer. C'est l'accompagnement par défaut, et en septembre elle est partout.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "À côté du renne",
+          "body": "Commandez un poronkäristys, émincé de renne, n'importe où en Laponie et les airelles arrivent avec. Dans les restaurants qui font les leurs, les baies sont crues écrasées et encore acidulées."
+        },
+        {
+          "n": "02",
+          "title": "Sur la table du petit-déjeuner",
+          "body": "Les petits-déjeuners d'hôtel de toute la Laponie posent la confiture d'airelles à côté du porridge et des crêpes. C'est la façon la plus quotidienne de rencontrer la baie."
+        },
+        {
+          "n": "03",
+          "title": "Votre propre seau",
+          "body": "Dès la fin août, une promenade dans n'importe quelle pinède sèche fait apparaître des airelles à vos pieds. Une sortie de cueillette guidée enseigne le peigne, l'astuce du gel et les bonnes landes."
+        }
+      ],
+      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "diningCta": "Voir le guide gastronomique"
+    },
+    "nextSteps": {
+      "kicker": "Pour continuer",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "Apprendre à cueillir",
+          "body": "Droit d'accès à la nature, sécurité et quoi emporter : le guide de cueillette couvre le côté pratique.",
+          "cta": "Guide de cueillette"
+        },
+        {
+          "title": "Les autres baies",
+          "body": "Mûre arctique, myrtille et argousier ont chacune leur guide, avec saisons, goût et où les trouver.",
+          "cta": "Toutes les baies finlandaises"
+        },
+        {
+          "title": "Rester pour la saison",
+          "body": "Septembre est calme, bon marché et rouge airelle en Laponie. Rovaniemi est une base pratique pour des journées en forêt.",
+          "cta": "Voir les hébergements à Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Myrtille sauvage : la myrtille des forêts de Finlande",
+    "description": "Pourquoi la myrtille sauvage finlandaise n'est pas la myrtille cultivée, son goût, le pic de la saison en Laponie, ce que touchent les cueilleurs et comment la manger, de la tarte à la soupe.",
+    "hero": {
+      "eyebrow": "Le guide des baies · Myrtille sauvage",
+      "title": "La myrtille, le bleu qui",
+      "titleHighlight": "tache les doigts.",
+      "subtitle": "La mustikka est la baie que presque chaque Finlandais a cueillie, celle qui colore tout un mois d'août d'enfance, et celle que les visiteurs continuent d'appeler bleuet. Voici ce qui la distingue, son goût et où elle pousse en Laponie.",
+      "primaryCta": "Apprendre à la cueillir",
+      "secondaryCta": "Toutes les baies finlandaises",
+      "pills": [
+        "Goût",
+        "Saison",
+        "Droit de cueillette",
+        "Myrtille sauvage ou cultivée",
+        "Ce qu'elle vaut",
+        "Tarte et soupe",
+        "Où la goûter"
+      ]
+    },
+    "captions": {
+      "taste": "Myrtilles cueillies dans la forêt de Salla, août 2026",
+      "versus": "Une myrtille mûre entre deux doigts, Salla, août 2026"
+    },
+    "intro": {
+      "lead": "La myrtille est l'aliment le plus abondant de la forêt finlandaise, et celui que la plupart des gens ont réellement cueilli. Une bonne année, la récolte se mesure en centaines de millions de kilos.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Sauvage, pas cultivée",
+          "body": "Chaque myrtille finlandaise est sauvage. Elle pousse sur des arbrisseaux hauts comme le genou, sous les pins et les épicéas, dans tout le pays, des parcs d'Helsinki aux fjälls de Laponie. Personne ne la plante."
+        },
+        {
+          "n": "02",
+          "title": "Bleue jusqu'au cœur",
+          "body": "Coupez une myrtille sauvage, elle est violette à l'intérieur ; coupez une myrtille cultivée de supermarché, elle est vert pâle. Le pigment qui tache les mains et la langue est le moyen le plus simple de les distinguer."
+        },
+        {
+          "n": "03",
+          "title": "Cueillie aussi pour gagner sa vie",
+          "body": "Les cueilleurs professionnels ont vendu 6,8 millions de kilos de myrtilles aux acheteurs en 2025 et gagné 16 millions d'euros, rapporte l'Autorité alimentaire finlandaise. Pourtant, selon l'estimation de la filière, seuls 3 à 10 pour cent de la récolte sont cueillis."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "La première question d'abord",
+      "headline": "Quel goût a la myrtille sauvage ?",
+      "answer": "Plus sucrée et plus douce qu'une canneberge, plus vive et plus sauvage qu'une myrtille cultivée : la myrtille sauvage est juteuse, à peau fine et intensément colorée, avec une profondeur florale, légèrement tannique, que la myrtille cultivée n'a pas. Mangez-en une poignée à même l'arbrisseau et vos doigts, vos lèvres et votre langue virent au violet.",
+      "p2": "La maturité se lit facilement. Une myrtille mûre est d'un bleu sombre poudré et se détache à la moindre traction ; une baie qui résiste a un ou deux jours d'avance. Les baies chauffées par le soleil d'une clairière ouverte sont les plus sucrées ; celles de l'ombre d'une pessière profonde sont plus grosses et plus juteuses.",
+      "p3": "En cuisine, le goût traverse tout : la <em>mustikkapiirakka</em>, la tarte, la <em>mustikkakeitto</em>, la soupe, une cuillerée sur le porridge du matin ou sur le <em>viili</em>, le lait caillé, et en Laponie l'accord classique de la myrtille et du renne."
+    },
+    "season": {
+      "kicker": "De fin juillet à septembre",
+      "headline": "Août appartient à la myrtille.",
+      "lead": "Dans le sud de la Finlande, les premières myrtilles mûrissent en juillet. En Laponie, la saison est plus tardive et plus courte, et août est le mois.",
+      "phases": [
+        {
+          "period": "Fin juillet",
+          "title": "Les premiers bleus",
+          "body": "Les pentes ensoleillées et les clairières mûrissent d'abord. En Laponie, ce sont les semaines de dégustation : assez pour une poignée en promenade, pas encore pour un seau."
+        },
+        {
+          "period": "Août",
+          "title": "Le pic",
+          "body": "Les forêts sont pleines. Les familles cueillent au seau, les congélateurs se remplissent, et chaque café de Laponie a une tarte aux myrtilles sur le comptoir. Les longues soirées claires en font le mois le plus facile de l'année de cueillette."
+        },
+        {
+          "period": "Septembre",
+          "title": "Les dernières",
+          "body": "Les baies ramollissent et tombent, les arbrisseaux rougissent. Ce qui reste est sucré, et les cueilleurs sont passés aux airelles et aux champignons lors des mêmes sorties."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Droit d'accès",
+      "headline": "Tout le monde peut cueillir. Oui, vous aussi.",
+      "p1": "Le <em>jokamiehenoikeus</em> finlandais, le droit d'accès à la nature, couvre entièrement la myrtille : tout visiteur peut la cueillir sur les terres non cultivées, forêts privées comprises, sans permis et sans demander. Les cueilleurs professionnels travaillent sous le même droit.",
+      "p2": "Les peignes à baies sont courants et légaux ; utilisez-en un avec douceur pour ne pas déchirer l'arbrisseau. Restez à l'écart des maisons et des jardins, et laissez la forêt comme vous l'avez trouvée.",
+      "ctaPrimary": "Lire toutes les règles de cueillette",
+      "ctaSecondary": "Voir les recettes aux baies"
+    },
+    "versus": {
+      "kicker": "Myrtille sauvage ou cultivée",
+      "headline": "Pas la même baie.",
+      "p1": "La myrtille sauvage, <em>Vaccinium myrtillus</em>, et la myrtille cultivée, <em>Vaccinium corymbosum</em>, sont cousines, et dans la plupart des langues, finnois compris, les deux s'appellent myrtille. Dans l'assiette, ce sont des fruits différents.",
+      "p2": "Les myrtilles sauvages poussent une à une sur de bas arbrisseaux de forêt ; elles sont petites, sombres et violettes jusqu'au cœur. Les myrtilles cultivées poussent en grappes sur de hauts arbustes sélectionnés pour la culture ; elles sont plus grosses, plus fermes et restent pâles à l'intérieur, parce que leur couleur ne tient que dans la peau.",
+      "p3": "C'est cette différence qui fait qu'une tarte aux myrtilles finlandaise saigne violet et qu'un muffin aux myrtilles ne saigne pas, et qui rend les myrtilles sauvages surgelées dignes d'être cherchées dans les magasins à l'étranger : la saveur y est concentrée d'une manière que la baie cultivée n'atteint jamais.",
+      "p4": "<strong>Si un menu finlandais est traduit par bleuet ou blueberry, il s'agit de la myrtille sauvage. En Laponie, la baie bleue dans l'assiette est la sauvage.</strong>"
+    },
+    "price": {
+      "kicker": "Ce qu'elle vaut",
+      "headline": "La baie sauvage la plus importante de Finlande, commercialement.",
+      "lead": "C'est ainsi que l'Autorité alimentaire finlandaise décrit elle-même la myrtille de ces dernières années. En 2025, les cueilleurs en ont tiré 16 millions d'euros, à 2,39 euros le kilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "payés aux cueilleurs par kilo de myrtilles en 2025, selon le rapport Marsi de l'Autorité alimentaire finlandaise"
+        },
+        {
+          "value": "16 M€",
+          "label": "de revenus de cueillette tirés des myrtilles en Finlande en 2025, selon le même rapport"
+        },
+        {
+          "value": "3–10 %",
+          "label": "de la récolte de myrtilles et d'airelles sont cueillis une année typique, selon l'estimation de l'association Arktiset Aromit"
+        }
+      ],
+      "p2": "L'essentiel de la récolte commerciale est surgelé et exporté, en grande partie pour être transformé ailleurs. Les baies que vous rencontrez dans un café de Laponie viennent d'une chaîne plus courte : la matinée en forêt de quelqu'un, souvent du propriétaire du café."
+    },
+    "products": {
+      "kicker": "Tarte, soupe, porridge",
+      "headline": "Comment la Finlande mange ses myrtilles.",
+      "lead": "Fraîches, par poignées, en août, et du congélateur les onze autres mois.",
+      "items": [
+        {
+          "title": "Tarte aux myrtilles",
+          "body": "Mustikkapiirakka : une tarte moelleuse, souvent couverte d'un crumble d'avoine, où les baies cuisent jusqu'à saigner. Chaque café finlandais en a une en août, et les bonnes ont le goût de la forêt plutôt que du sucre."
+        },
+        {
+          "title": "Soupe de myrtilles",
+          "body": "Mustikkakeitto : des baies mijotées avec un peu de sucre et liées à la fécule de pomme de terre, servies chaudes ou froides, seules ou sur le porridge. C'est aussi la boisson du skieur, versée brûlante du thermos sur la piste."
+        },
+        {
+          "title": "Avec le renne",
+          "body": "Dans les restaurants de Laponie, une réduction de myrtilles ou des myrtilles lactofermentées accompagnent le filet de renne. L'acidité coupe la richesse ; la couleur fait le reste."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Où la goûter",
+      "headline": "Rencontrer la mustikka en Laponie.",
+      "lead": "En août, vous n'aurez pas à chercher. Hors saison, la tarte et la soupe portent la baie toute l'année.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "N'importe quelle forêt, n'importe quel mois d'août",
+          "body": "Quittez un sentier balisé près de Rovaniemi, Levi ou Saariselkä et les arbrisseaux sont à vos pieds. Une sortie guidée ajoute les bons coins et les consignes de sécurité."
+        },
+        {
+          "n": "02",
+          "title": "Les comptoirs des cafés",
+          "body": "La tarte aux myrtilles avec sa sauce à la vanille est la commande par défaut d'un café de Laponie en fin d'été. Demandez si les baies ont été cueillies dans les environs ; en août, la réponse est généralement oui."
+        },
+        {
+          "n": "03",
+          "title": "Les menus dégustation",
+          "body": "Les cuisines gastronomiques de Laponie utilisent la myrtille fermentée, surgelée et réduite toute l'année. Voir le guide des restaurants pour les adresses."
+        }
+      ],
+      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "diningCta": "Voir le guide gastronomique"
+    },
+    "nextSteps": {
+      "kicker": "Pour continuer",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "Apprendre à cueillir",
+          "body": "Droit d'accès à la nature, sécurité des champignons et quoi emporter : le guide de cueillette couvre le côté pratique.",
+          "cta": "Guide de cueillette"
+        },
+        {
+          "title": "Les autres baies",
+          "body": "Mûre arctique, airelle et argousier ont chacune leur guide, avec saisons, goût et où les trouver.",
+          "cta": "Toutes les baies finlandaises"
+        },
+        {
+          "title": "Rester pour la saison",
+          "body": "Août en Laponie est chaud, lumineux et bleu sous les pieds. Rovaniemi est une base pratique pour des journées en forêt.",
+          "cta": "Voir les hébergements à Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Argousier : la baie la plus acide de Finlande",
+    "description": "Le goût de l'argousier, où il pousse à l'état sauvage sur la côte finlandaise du golfe de Botnie, quand il mûrit, pourquoi on le cueille entre les épines et comment les Finlandais le boivent et le cuisinent.",
+    "hero": {
+      "eyebrow": "Le guide des baies · Argousier",
+      "title": "L'argousier, feu orange",
+      "titleHighlight": "venu du rivage.",
+      "subtitle": "Le tyrni ne pousse pas du tout dans les forêts de l'intérieur de la Laponie. Il pousse sur les rivages pierreux du golfe de Botnie, au nord jusqu'à la côte lapone à Tornio, et c'est la baie la plus acide du garde-manger finlandais et l'une des plus riches en vitamine C. Voici où il vit, quel goût il a et pourquoi il est si difficile à cueillir.",
+      "primaryCta": "Apprendre à le cueillir",
+      "secondaryCta": "Toutes les baies finlandaises",
+      "pills": [
+        "Goût",
+        "Saison",
+        "Droit de cueillette",
+        "Pourquoi les épines",
+        "Vitamine C",
+        "Jus et confiture",
+        "Où le goûter"
+      ]
+    },
+    "intro": {
+      "lead": "L'argousier est l'original parmi les baies finlandaises : un arbuste de côte, une récolte hérissée d'épines et une saveur si vive que presque personne ne le mange nature.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Une plante de rivage, pas de forêt",
+          "body": "L'argousier sauvage pousse sur les rivages rocheux et pierreux du golfe de Botnie, de l'archipel d'Uusikaupunki jusqu'à Tornio au nord, et sur les îles d'Åland. L'intérieur de la Laponie n'en a pas ; la côte de Tornio et de Kemi est sa limite nord."
+        },
+        {
+          "n": "02",
+          "title": "Acide à dessein",
+          "body": "Les baies sont intensément acides, légèrement amères et faiblement huileuses, avec une note de fruit de la passion et d'abricot en dessous. Les Finlandais le boivent dilué, sucré ou incorporé aux desserts, rarement par poignées."
+        },
+        {
+          "n": "03",
+          "title": "Riche en vitamine C",
+          "body": "La base de données finlandaise de composition des aliments donne à l'argousier environ 100 à 400 milligrammes de vitamine C pour 100 grammes de baies, ce qui explique que les Finlandais le traitent comme leur propre agrume."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "La première question d'abord",
+      "headline": "Quel goût a l'argousier ?",
+      "answer": "Vif. Une baie d'argousier mûre est aussi acide qu'un citron, avec un bord amer, légèrement huileux, et, une fois le choc passé, une note tropicale quelque part entre le fruit de la passion et l'abricot. Le jus est épais, d'un orange éclatant, et tache tout ce qu'il touche.",
+      "p2": "Cette acidité explique pourquoi la baie ne se mange presque jamais nature. On la dilue en jus, on la sucre en confiture, on la glace en sorbet, ou les chefs l'emploient comme on emploie un citron : une cuillerée d'argousier tranche la crème, le chocolat blanc, le poisson gras et le renne corsé.",
+      "p3": "Le gel ne l'adoucit guère. Les baies ont à peu près le même goût en octobre qu'en septembre ; ce qui change, c'est la facilité avec laquelle elles se détachent de la branche épineuse, et c'est là le vrai problème du cueilleur."
+    },
+    "season": {
+      "kicker": "De septembre à octobre",
+      "headline": "Mûr quand la côte devient grise.",
+      "lead": "L'argousier sauvage mûrit en septembre et en octobre, quand l'été a depuis longtemps quitté la côte botnienne et que les baies sont la chose la plus éclatante du rivage.",
+      "phases": [
+        {
+          "period": "Fin d'été",
+          "title": "Il vire à l'orange",
+          "body": "Les baies vertes prennent leur couleur au fil du mois d'août. Les arbustes, denses et au feuillage argenté, sont faciles à repérer depuis le sentier du rivage ; le fruit ne vaut pas encore les épines."
+        },
+        {
+          "period": "Septembre",
+          "title": "La récolte commence",
+          "body": "Les baies sont entièrement orange, juteuses et acides. Les producteurs coupent les branches fruitières et les congèlent pour pouvoir secouer les baies ; les cueilleurs sauvages les pressent ou les pincent sur place, lentement."
+        },
+        {
+          "period": "Octobre",
+          "title": "Les baies tardives",
+          "body": "Les baies mûres restent sur les branches jusque tard dans l'automne. Après les premières fortes gelées, elles se détachent plus facilement, et certains cueilleurs attendent précisément cela."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Droit d'accès",
+      "headline": "Les arbustes sauvages oui, les jardins non.",
+      "p1": "Le droit d'accès à la nature couvre l'argousier sauvage comme toute autre baie sauvage : la cueillette est autorisée sur les rivages non cultivés, littoral privé compris, tant que vous restez à l'écart des maisons et des cours. L'argousier cultivé dans les exploitations et les jardins est hors limites.",
+      "p2": "Deux mises en garde. Ne coupez ni ne cassez de branches pour atteindre les baies ; c'est endommager une plante, ce que le droit n'autorise pas. Et portez des gants : les épines sont longues, dures et partout.",
+      "ctaPrimary": "Lire toutes les règles de cueillette",
+      "ctaSecondary": "Voir les recettes aux baies"
+    },
+    "versus": {
+      "kicker": "Pourquoi les épines",
+      "headline": "La baie qui se défend.",
+      "p1": "Les baies d'argousier poussent serrées le long des branches, chacune si solidement fixée que tirer dessus la fait généralement éclater. Entre les baies se dressent des épines de plusieurs centimètres. Cueillir ne serait-ce qu'un petit panier à la main demande de la patience et des gants épais.",
+      "p2": "Les producteurs professionnels règlent cela par le froid. Ils coupent les branches fruitières et les congèlent ; les baies gelées se détachent net et partent directement au pressoir. C'est aussi pourquoi la plupart de l'argousier vous parvient en jus, en purée ou en confiture plutôt que frais.",
+      "p3": "L'arbuste est dioïque : les plants mâles et femelles sont distincts, et seuls les femelles fructifient, ce qui explique qu'un peuplement dense sur le rivage puisse être à moitié stérile.",
+      "p4": "<strong>Pour le voyageur, la conclusion : l'argousier frais est rare même en Finlande, mais le jus est dans chaque supermarché.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamine C",
+      "headline": "Pourquoi les Finlandais l'appellent leur agrume.",
+      "lead": "L'argousier est l'une des baies les plus riches en vitamine C poussant à l'état sauvage en Finlande : environ 100 à 400 milligrammes pour 100 grammes de baies, selon la base nationale de composition des aliments.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "de vitamine C pour 100 g de baies d'argousier, selon la base Fineli telle que citée par l'association Arktiset Aromit"
+        },
+        {
+          "value": "Sept–oct",
+          "label": "la fenêtre de récolte sauvage sur la côte botnienne"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "l'aire sauvage le long du golfe de Botnie, plus les îles d'Åland"
+        }
+      ],
+      "p2": "Rien de tout cela n'en fait un médicament, et la loi finlandaise est stricte sur ce qu'un aliment peut affirmer. Prenez ces chiffres pour ce qu'ils sont : l'explication du goût qu'a un petit verre de ce jus."
+    },
+    "products": {
+      "kicker": "Jus, confiture, dessert",
+      "headline": "Comment la Finlande utilise sa baie la plus acide.",
+      "lead": "Personne ne mange un bol d'argousier. Tout le monde a bu le jus, et presque tout vient désormais d'arbustes cultivés : le rapport de l'Autorité alimentaire finlandaise sur le commerce des baies note que les ventes d'argousier sauvage ont pratiquement cessé depuis que la culture a pris le relais.",
+      "items": [
+        {
+          "title": "Jus d'argousier",
+          "body": "Tyrnimehu : pressé, sucré et généralement dilué, bu en petits verres. La version de supermarché est celle par laquelle la plupart des Finlandais rencontrent la baie ; la version pressée à la ferme est plus vive et plus épaisse."
+        },
+        {
+          "title": "Confiture et purée",
+          "body": "Cuite avec du sucre, l'acidité se transforme en quelque chose de plus proche d'une marmelade. À tartiner sur du pain de seigle, à la cuillère sur le porridge, ou servie avec du fromage."
+        },
+        {
+          "title": "À la carte des desserts",
+          "body": "Les menus dégustation de Laponie et d'Helsinki utilisent l'argousier comme leur citron : un sorbet entre les plats, un curd sous du chocolat blanc, une sauce vive avec un poisson arctique gras."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Où le goûter",
+      "headline": "Rencontrer le tyrni en Finlande.",
+      "lead": "Vous ne trouverez pas l'arbuste sur les fjälls. Vous trouverez la baie dans le verre, le bocal et le dessert, dans tout le pays.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "La côte de Tornio et de Kemi",
+          "body": "L'extrémité nord de l'aire sauvage est le rivage de la Laponie maritime. Cherchez des arbustes denses vert argenté sur les plages de galets ; en septembre, ils sont reconnaissables entre tous."
+        },
+        {
+          "n": "02",
+          "title": "N'importe quel supermarché finlandais",
+          "body": "Jus, purée et confiture d'argousier sont des produits ordinaires. Le rayon surgelés propose souvent un sachet de baies, le moyen le plus simple de ramener la baie chez vous."
+        },
+        {
+          "n": "03",
+          "title": "Les cartes de desserts",
+          "body": "Demandez le plat à l'argousier. Dans les restaurants gastronomiques de Laponie, il apparaît en sorbet, en curd ou en sauce plus souvent que toute autre baie, sauf la mûre arctique."
+        }
+      ],
+      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "diningCta": "Voir le guide gastronomique"
+    },
+    "nextSteps": {
+      "kicker": "Pour continuer",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "Apprendre à cueillir",
+          "body": "Droit d'accès à la nature, quoi emporter et comment cueillir sans abîmer une plante : le guide de cueillette.",
+          "cta": "Guide de cueillette"
+        },
+        {
+          "title": "Les autres baies",
+          "body": "Mûre arctique, airelle et myrtille ont chacune leur guide, avec saisons, goût et où les trouver.",
+          "cta": "Toutes les baies finlandaises"
+        },
+        {
+          "title": "Rester sur la côte",
+          "body": "Tornio et Kemi sont les villes côtières de la Laponie, une base facile pour des promenades sur le rivage en septembre.",
+          "cta": "Voir les hébergements à Tornio"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Cuisine sâme : recettes lapones traditionnelles",
     "description": "Quatre plats de la cuisine sâme : ragoût de renne bidos, pain gahkku, soupe de poisson de Sápmi et kissel aux baies. Recettes et calendrier des huit saisons.",
@@ -774,6 +1407,24 @@
       "tours": "Expériences culinaires",
       "ingredients": "Ingrédients locaux",
       "modern": "Interprétations modernes"
+    },
+    "faq": {
+      "kicker": "La cuisine samie, en bref",
+      "headline": "Trois questions que l'on pose sur la cuisine samie.",
+      "items": [
+        {
+          "question": "Qu'est-ce que la cuisine samie ?",
+          "answer": "La cuisine samie est la cuisine du peuple autochtone du Sápmi, la terre des Samis qui s'étend sur le nord de la Finlande, de la Suède, de la Norvège et de la Russie. Elle repose sur le renne, dont chaque partie est utilisée, sur le poisson de lac et de rivière, sur les baies et les herbes sauvages, et sur des méthodes lentes : cuisson à l'eau, fumage à froid, séchage et salaison. Les recettes de cette page en sont les versions familiales."
+        },
+        {
+          "question": "Que mangent les Samis aujourd'hui ?",
+          "answer": "Les mêmes ingrédients, sur une table de semaine ordinaire : ragoût de renne ou émincé de renne avec des pommes de terre, soupe de poisson, renne séché et fumé, pain plat, baies avec le porridge. Les foyers samis d'aujourd'hui font leurs courses au supermarché comme tout le monde, et les plats traditionnels sortent pour les fêtes, les mariages et l'abattage d'automne."
+        },
+        {
+          "question": "Qu'est-ce que le bidos ?",
+          "answer": "Le bidos est le ragoût de renne sami : épaule ou jarret en morceaux, saisis puis mijotés lentement avec pomme de terre, carotte et oignon jusqu'à ce que la viande s'effiloche. C'est le plat de fête, servi aux mariages et aux rassemblements, et la première recette de cette page."
+        }
+      ]
     }
   },
   "modernLapland": {

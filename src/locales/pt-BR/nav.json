@@ -3,12 +3,20 @@
     "home": "Início",
     "ingredients": "Ingredientes",
     "cloudberry": "Amora ártica",
+    "berries": "Frutas silvestres",
     "recipes": "Receitas",
     "modern": "Moderno",
     "foraging": "Colheita silvestre",
     "michelin": "Michelin",
     "foodTours": "Tours gastronômicos",
     "about": "Sobre"
+  },
+  "berries": {
+    "allBerries": "Todas as frutas silvestres finlandesas",
+    "bilberry": "Mirtilo silvestre",
+    "lingonberry": "Lingonberry",
+    "seaBuckthorn": "Espinheiro-marítimo",
+    "readGuide": "Leia o guia completo"
   },
   "ariaHome": "Início do LaplandFood",
   "ariaMain": "Navegação principal",

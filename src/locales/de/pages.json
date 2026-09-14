@@ -488,6 +488,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Finnische Beeren: Moltebeere, Heidelbeere, Preiselbeere, Sanddorn",
+    "description": "Die vier wilden Beeren, die die finnische Küche prägen: wie jede schmeckt, wann sie reift, wo sie wächst und wie Sie sie mit dem Jedermannsrecht pflücken.",
+    "hero": {
+      "eyebrow": "Der Beeren-Guide",
+      "title": "Vier Beeren, ein",
+      "titleHighlight": "kurzer Sommer.",
+      "subtitle": "Finnlands Wälder und Küsten tragen mehr wilde Beeren, als das ganze Land je pflücken könnte. Diese vier prägen die finnische Küche. Jede hat ihren eigenen Guide.",
+      "primaryCta": "Zum Sammel-Guide",
+      "secondaryCta": "Alle Zutaten Lapplands"
+    },
+    "intro": {
+      "lead": "Moltebeere, Heidelbeere, Preiselbeere und Sanddorn reifen nacheinander von Juli bis Oktober. Zusammen sind sie die Süße, die Säure und die Farbe der finnischen Vorratskammer.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Alle wild",
+          "body": "Keine der vier wird in Finnland in nennenswertem Umfang angebaut. Das gesamte Angebot, vom Kuchen im Café bis zum Saft im Supermarkt, beginnt damit, dass jemand pflückt."
+        },
+        {
+          "n": "02",
+          "title": "Frei zu pflücken",
+          "body": "Das Jedermannsrecht erlaubt allen, Einheimischen wie Gästen, auf den meisten Flächen wilde Beeren zu pflücken, ohne zu fragen. Die Regeln handeln von Respekt, nicht von Genehmigungen."
+        },
+        {
+          "n": "03",
+          "title": "Eine Leiter aus Saisons",
+          "body": "Die Moltebeere eröffnet die Saison im Juli auf den Mooren, die Heidelbeere füllt den August, und Preiselbeere und Sanddorn tragen sie bis in den Oktober."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "Die vier Guides",
+      "headline": "Wählen Sie eine Beere.",
+      "lead": "Jeder Guide beantwortet dieselben Fragen: Geschmack, Saison, das Recht zu pflücken, was die Beere wert ist und wo Sie ihr begegnen.",
+      "cards": [
+        {
+          "name": "Moltebeere",
+          "latin": "Rubus chamaemorus",
+          "season": "Mitte Juli bis Mitte August",
+          "body": "Die bernsteinfarbene Moorbeere, die niemand anbauen kann. Vier Wochen im Jahr, von Hand gepflückt, zum Preis einer Delikatesse.",
+          "cta": "Zum Moltebeeren-Guide"
+        },
+        {
+          "name": "Heidelbeere",
+          "latin": "Vaccinium myrtillus",
+          "season": "Ende Juli bis September",
+          "body": "Finnlands wilde Heidelbeere: durch und durch violett, eimerweise gepflückt, in jedem Augustkuchen.",
+          "cta": "Zum Heidelbeeren-Guide"
+        },
+        {
+          "name": "Preiselbeere",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Ende August bis Oktober",
+          "body": "Die herbe rote Beere neben jedem Rentierteller. Hält im Glas ohne Zucker und wird nach dem Frost süßer.",
+          "cta": "Zum Preiselbeeren-Guide"
+        },
+        {
+          "name": "Sanddorn",
+          "latin": "Hippophaë rhamnoides",
+          "season": "September bis Oktober",
+          "body": "Die saure orange Beere der Bottnischen Küste, zwischen Dornen gepflückt und als Saft getrunken.",
+          "cta": "Zum Sanddorn-Guide"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Saison für Saison",
+      "headline": "Wann welche Beere reif ist.",
+      "items": [
+        {
+          "period": "Juli",
+          "title": "Moltebeere",
+          "body": "Offene Moore unter der Mitternachtssonne, ein Pflückfenster von etwa drei Wochen ab Mitte Juli."
+        },
+        {
+          "period": "August",
+          "title": "Heidelbeere",
+          "body": "Waldsträucher überall: der Monat, in dem Finnland seine Gefriertruhen füllt."
+        },
+        {
+          "period": "September",
+          "title": "Preiselbeere",
+          "body": "Trockene Kiefernheiden; die ersten Fröste machen die Beeren süßer."
+        },
+        {
+          "period": "September–Oktober",
+          "title": "Sanddorn",
+          "body": "Steinige Ufer des Bottnischen Meerbusens, im Norden bis Tornio."
+        },
+        {
+          "period": "Ab November",
+          "title": "Aus dem Glas",
+          "body": "Konfitüre, Saft, Tiefkühlbeeren und Kissel tragen die Saison durch den Winter."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Weiter geht es",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Sammeln lernen",
+          "body": "Jedermannsrecht, Pilzsicherheit und der Kalender Monat für Monat: die praktische Seite des Selberpflückens.",
+          "cta": "Zum Sammel-Guide"
+        },
+        {
+          "title": "Die Beeren verkochen",
+          "body": "Wildbeeren-Kissel und die anderen traditionellen Rezepte, mit ausgeschriebener Methode.",
+          "cta": "Traditionelle Rezepte"
+        },
+        {
+          "title": "Zur Saison bleiben",
+          "body": "Juli bis September ist Beerenzeit in ganz Lappland. Rovaniemi ist ein brauchbarer Ausgangspunkt für Waldtage.",
+          "cta": "Unterkünfte in Rovaniemi ansehen"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Preiselbeere: Finnlands Alltagsbeere aus dem Wald",
+    "description": "Wie Preiselbeeren schmecken, wann die finnische Saison läuft, warum sie ohne Zucker haltbar sind, wie sie sich von Cranberrys unterscheiden und wo Sie sie in Lappland essen.",
+    "hero": {
+      "eyebrow": "Der Beeren-Guide · Preiselbeere",
+      "title": "Preiselbeere, die Beere, die",
+      "titleHighlight": "sich selbst konserviert.",
+      "subtitle": "Puolukka ist die rote Beere neben jedem Teller Rentiergeschnetzeltes, und die, die finnische Familien eimerweise pflücken. Hier erfahren Sie, wie sie schmeckt, warum sie im Glas ohne Zucker haltbar ist und wie sie sich von der Cranberry unterscheidet, mit der sie verwechselt wird.",
+      "primaryCta": "Sammeln lernen",
+      "secondaryCta": "Alle finnischen Beeren",
+      "pills": [
+        "Geschmack",
+        "Saison",
+        "Das Recht zu pflücken",
+        "Preiselbeere oder Cranberry",
+        "Was sie wert ist",
+        "Konfitüre und Rohmus",
+        "Wo probieren"
+      ]
+    },
+    "intro": {
+      "lead": "Preiselbeeren bedecken Finnlands trockene Kiefernwälder jeden Herbst in Mengen, die niemand pflücken könnte. Die wenigen, die gepflückt werden, landen in Gläsern, auf dem Brei und neben dem Rentier.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Mehr, als irgendjemand pflücken kann",
+          "body": "Finnlands wilde Preiselbeerernte beläuft sich auf Hunderte Millionen Kilo im Jahr, und nach Schätzung des Branchenverbands Arktiset Aromit werden davon nur 3 bis 10 Prozent je gepflückt. Der Rest ernährt Vögel, Bären und den Boden des nächsten Jahres."
+        },
+        {
+          "n": "02",
+          "title": "Sie konserviert sich selbst",
+          "body": "Preiselbeeren enthalten natürliche Benzoesäure, weshalb ein Glas roh zerdrückter Beeren in einer kühlen Speisekammer ohne Zucker, Hitze oder Zusätze haltbar ist. Es ist die ursprüngliche finnische Konserve."
+        },
+        {
+          "n": "03",
+          "title": "Das Rot auf jedem Rentierteller",
+          "body": "Poronkäristys, Rentiergeschnetzeltes auf Kartoffelpüree, wird nicht ohne einen Löffel Preiselbeeren serviert. Die Säure ist es, die das kräftige Fleisch zum Funktionieren bringt."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Die erste Frage zuerst",
+      "headline": "Wie schmeckt eine Preiselbeere?",
+      "answer": "Herb, leicht bitter und kaum süß, mit einem klaren, trockenen Abgang und nichts vom Moschus einer Moltebeere: Denken Sie an eine Cranberry mit heruntergedrehtem Zucker und etwas mehr Bitterkeit. Roh lässt eine einzige Beere Sie das Gesicht verziehen; in etwas Warmes, Herzhaftes oder Milchiges gerührt, wird dieselbe Säure zum eigentlichen Sinn.",
+      "p2": "Frost hilft. Beeren, die nach den ersten Nachtfrösten im September gepflückt werden, sind spürbar milder und süßer als Augustbeeren, und finnische Pflücker legen ihre Touren danach. Vollreife Beeren sind rundum tiefrot; eine blasse Seite heißt, sie braucht noch eine Woche.",
+      "p3": "Preiselbeeren allein werden Ihnen selten serviert. Sie kommen als Beilage: roh zerdrückt mit etwas Zucker neben Rentiergeschnetzeltem oder Fleischbällchen, zu <em>vispipuuro</em> aufgeschlagen, dem rosa Grießbrei, den jedes finnische Kind kennt, oder auf warmen Brei mit Milch gelöffelt."
+    },
+    "season": {
+      "kicker": "Ende August bis Oktober",
+      "headline": "Die lange, nachsichtige Saison.",
+      "lead": "Anders als Moltebeeren warten Preiselbeeren auf Sie. Die Saison beginnt Ende August, und die Beeren hängen bis in den Oktober an den Sträuchern und werden mit jedem Frost süßer.",
+      "phases": [
+        {
+          "period": "Ende August",
+          "title": "Das erste Rot",
+          "body": "Die Beeren färben sich zuerst auf südexponierten Kiefernheiden von weißgrün zu rot. Frühe Beeren sind die bittersten; die meisten Pflücker lassen sie noch ein, zwei Wochen hängen."
+        },
+        {
+          "period": "September",
+          "title": "Die Haupternte",
+          "body": "Kühle Nächte, trockene Tage und die ersten Fröste: Jetzt ziehen die Familien mit Eimern los. Die Beeren sind fest, vollrot und lassen sich leicht vom Strauch streifen."
+        },
+        {
+          "period": "Oktober",
+          "title": "Nach den Frösten",
+          "body": "Frostgesüßte Beeren bleiben bis zum ersten dauerhaften Schnee gut an der Pflanze. Einige der besten Preiselbeeren des Jahres werden an den letzten milden Oktobertagen gepflückt."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jedermannsrecht",
+      "headline": "Pflücken Sie, so viel Sie tragen können.",
+      "p1": "Finnlands <em>jokamiehenoikeus</em>, das Jedermannsrecht, erlaubt allen, auf unbewirtschaftetem Land wilde Beeren zu pflücken, Privatwald eingeschlossen, ohne Genehmigung und ohne Erlaubnis des Grundbesitzers. Die Preiselbeere ist die Beere, für die dieses Recht praktisch gemacht wurde: reichlich, robust und auf niemandes Schutzliste.",
+      "p2": "Die Etikette ist einfach. Halten Sie Abstand zu Häusern und Gärten, beschädigen Sie die Sträucher nicht und benutzen Sie den Beerenkamm behutsam: Der Kammpflücker ist in Finnland legal und üblich, aber ein achtloser Zug reißt den Zuwachs des nächsten Jahres ab.",
+      "ctaPrimary": "Alle Sammelregeln lesen",
+      "ctaSecondary": "Zu den Beerenrezepten"
+    },
+    "versus": {
+      "kicker": "Preiselbeere oder Cranberry",
+      "headline": "Dieselbe Familie, ein anderes Moor.",
+      "p1": "Preiselbeere und Cranberry sind nahe Verwandte in der Gattung <em>Vaccinium</em>, und im Ausland werden die Namen vertauscht. In Finnland sind es zwei verschiedene Beeren von zwei verschiedenen Orten: Preiselbeeren wachsen auf trockenen Kiefernheiden, Cranberrys, die Moosbeeren, in nassen Mooren.",
+      "p2": "Auf dem Teller liegt der Unterschied in Größe und Schärfe. Eine Preiselbeere ist klein, fest und gleichmäßig herb mit einer bitteren Note; die wilde finnische Moosbeere, <em>karpalo</em>, ist größer, weicher und noch saurer, und die kultivierte amerikanische Cranberry im Supermarktsaft ist noch größer und milder.",
+      "p3": "Auch die Rollen in der Küche sind andere. Cranberrys brauchen Kochen und Zucker, um angenehm zu sein; Preiselbeeren lassen sich roh zerdrückt essen, weshalb im finnischen Preiselbeerglas oft nichts als Beeren und ein wenig Zucker ist.",
+      "p4": "<strong>Wenn ein Rezept im Ausland Cranberrysauce zu Wild verlangt, ist die Preiselbeere das nordische Original, von dem es abstammt.</strong>"
+    },
+    "price": {
+      "kicker": "Was sie wert ist",
+      "headline": "Billig pro Kilo, unbezahlbar im Glas.",
+      "lead": "Die Preiselbeere ist Finnlands wilde Beere der großen Mengen, und der Preis zeigt es. 2025 nahmen die Aufkäufer 9,5 Millionen Kilo an, mehr als von jeder anderen wilden Beere, und zahlten den Pflückern 1,90 Euro pro Kilo, gegenüber 13,85 Euro für Moltebeeren.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "wurden Pflückern 2025 pro Kilo Preiselbeeren gezahlt, laut dem Marsi-Bericht der finnischen Lebensmittelbehörde"
+        },
+        {
+          "value": "9,5 Mio. kg",
+          "label": "Preiselbeeren wurden 2025 an Aufkäufer verkauft, die größte Menge aller finnischen Wildbeeren, laut demselben Bericht"
+        },
+        {
+          "value": "3–10 %",
+          "label": "der Preiselbeer- und Heidelbeerernte werden in einem typischen Jahr gepflückt, nach Schätzung des Branchenverbands Arktiset Aromit"
+        }
+      ],
+      "p2": "Das meiste Gepflückte gelangt nie in den Handel: Es geht direkt vom Eimer in die Gefriertruhe und in den Brei der Familie. Die kommerzielle Ernte wird zu Saft, Konfitüre und den Tiefkühlbeeren in jedem finnischen Supermarkt."
+    },
+    "products": {
+      "kicker": "Konfitüre, Rohmus, Brei",
+      "headline": "Wie Finnland seine Preiselbeeren isst.",
+      "lead": "Eine Preiselbeere wird selten frisch gegessen. Sie wird für den Winter eingemacht, und dann taucht sie zum Frühstück, zum Abendessen und zum Dessert auf.",
+      "items": [
+        {
+          "title": "Roh zerdrückte Preiselbeeren",
+          "body": "Puolukkasurvos: Beeren mit etwas Zucker zerdrückt, sonst nichts. Dank der beereneigenen Benzoesäure hält es sich im Kühlschrank oder in einer kalten Speisekammer monatelang. Das ist das Glas neben Rentier, Fleischbällchen und Leber."
+        },
+        {
+          "title": "Preiselbeerkonfitüre",
+          "body": "Die gekochte Version, süßer und glatter, ist der Exportklassiker und die, die die meisten Gäste aus schwedischen Möbelhäusern kennen. In Finnland kommt sie auf Pfannkuchen, Milchreis und warmen Brei."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Rosa geschlagener Brei: Preiselbeersaft mit Grieß gebunden und dann luftig aufgeschlagen, kalt mit Milch serviert. Ein Schulkantinen-Dessert, das Erwachsene immer noch bestellen."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Wo probieren",
+      "headline": "Puolukka in Lappland begegnen.",
+      "lead": "Preiselbeeren sind keine Delikatesse, der Sie nachjagen müssen. Sie sind die Standardbeilage, und im September sind sie überall.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Neben dem Rentier",
+          "body": "Bestellen Sie irgendwo in Lappland poronkäristys, Rentiergeschnetzeltes, und die Preiselbeeren kommen mit. In Restaurants, die ihre eigenen machen, sind die Beeren roh zerdrückt und noch herb."
+        },
+        {
+          "n": "02",
+          "title": "Auf dem Frühstückstisch",
+          "body": "Hotelfrühstücke in ganz Lappland stellen die Preiselbeerkonfitüre neben den Brei und die Pfannkuchen. Es ist die alltäglichste Art, der Beere zu begegnen."
+        },
+        {
+          "n": "03",
+          "title": "Ihr eigener Eimer",
+          "body": "Ab Ende August bringt ein Spaziergang durch jeden trockenen Kiefernwald Preiselbeeren zu Ihren Füßen. Eine geführte Sammeltour lehrt den Pflücker, den Frosttrick und die guten Heiden."
+        }
+      ],
+      "gygCta": "Sammeltouren auf GetYourGuide ansehen",
+      "diningCta": "Zum Fine-Dining-Guide"
+    },
+    "nextSteps": {
+      "kicker": "Weiter geht es",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Sammeln lernen",
+          "body": "Jedermannsrecht, Sicherheit und was Sie mitnehmen: Der Sammel-Guide deckt die praktische Seite des Selberpflückens ab.",
+          "cta": "Zum Sammel-Guide"
+        },
+        {
+          "title": "Die anderen Beeren",
+          "body": "Moltebeere, Heidelbeere und Sanddorn bekommen je einen eigenen Guide, mit Saisons, Geschmack und Fundorten.",
+          "cta": "Alle finnischen Beeren"
+        },
+        {
+          "title": "Zur Saison bleiben",
+          "body": "Der September ist in Lappland ruhig, günstig und preiselbeerrot. Rovaniemi ist ein brauchbarer Ausgangspunkt für Waldtage.",
+          "cta": "Unterkünfte in Rovaniemi ansehen"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Heidelbeere: Finnlands wilde Blaubeere",
+    "description": "Warum die finnische Waldheidelbeere keine Kulturheidelbeere ist, wie sie schmeckt, wann Lapplands Saison ihren Höhepunkt hat, was Pflücker verdienen und wie man sie isst, vom Kuchen bis zur Suppe.",
+    "hero": {
+      "eyebrow": "Der Beeren-Guide · Heidelbeere",
+      "title": "Heidelbeere, das Blau, das",
+      "titleHighlight": "die Finger färbt.",
+      "subtitle": "Mustikka ist die Beere, die fast jeder Finne schon gepflückt hat, die einen ganzen Kindheitsaugust färbt, und die Gäste beharrlich Blaubeere nennen. Hier erfahren Sie, worin der Unterschied liegt, wie sie schmeckt und wo sie in Lappland wächst.",
+      "primaryCta": "Sammeln lernen",
+      "secondaryCta": "Alle finnischen Beeren",
+      "pills": [
+        "Geschmack",
+        "Saison",
+        "Das Recht zu pflücken",
+        "Waldheidelbeere oder Kulturheidelbeere",
+        "Was sie wert ist",
+        "Kuchen und Suppe",
+        "Wo probieren"
+      ]
+    },
+    "captions": {
+      "taste": "Im Wald bei Salla gepflückte Heidelbeeren, August 2026",
+      "versus": "Eine reife Heidelbeere zwischen zwei Fingern, Salla, August 2026"
+    },
+    "intro": {
+      "lead": "Die Heidelbeere ist das reichlichste Nahrungsmittel des finnischen Waldes, und das, das die meisten Menschen tatsächlich gepflückt haben. In einem guten Jahr wird die Ernte in Hunderten Millionen Kilo gemessen.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Wild, nicht angebaut",
+          "body": "Jede finnische Heidelbeere ist wild. Sie wächst an kniehohen Sträuchern unter Kiefern und Fichten im ganzen Land, von den Parks Helsinkis bis zu den Fjälls Lapplands. Niemand pflanzt sie."
+        },
+        {
+          "n": "02",
+          "title": "Blau durch und durch",
+          "body": "Schneiden Sie eine Waldheidelbeere auf, und sie ist innen violett; schneiden Sie eine Kulturheidelbeere aus dem Supermarkt auf, und sie ist blassgrün. Der Farbstoff, der Hände und Zunge färbt, ist die einfachste Art, die beiden zu unterscheiden."
+        },
+        {
+          "n": "03",
+          "title": "Auch zum Broterwerb gepflückt",
+          "body": "Gewerbliche Pflücker verkauften 2025 6,8 Millionen Kilo Heidelbeeren an Aufkäufer und verdienten 16 Millionen Euro, berichtet die finnische Lebensmittelbehörde. Trotzdem werden nach Schätzung der Branche nur 3 bis 10 Prozent der Ernte je gepflückt."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Die erste Frage zuerst",
+      "headline": "Wie schmeckt eine Heidelbeere?",
+      "answer": "Süßer und weicher als eine Cranberry, schärfer und wilder als eine Kulturheidelbeere: Die Waldheidelbeere ist saftig, dünnschalig und intensiv gefärbt, mit einer blumigen, leicht gerbstoffhaltigen Tiefe, die eine Kulturheidelbeere nicht hat. Essen Sie eine Handvoll direkt vom Strauch, und Finger, Lippen und Zunge werden violett.",
+      "p2": "Die Reife ist leicht zu erkennen. Eine reife Heidelbeere ist staubig dunkelblau und löst sich beim leichtesten Zug; eine Beere, die sich wehrt, ist ein, zwei Tage zu früh. Sonnenwarme Beeren aus einer offenen Lichtung schmecken am süßesten; Schattenbeeren aus tiefem Fichtenwald sind größer und saftiger.",
+      "p3": "In der Küche trägt der Geschmack durch alles hindurch: <em>mustikkapiirakka</em>, den Heidelbeerkuchen, <em>mustikkakeitto</em>, die Heidelbeersuppe, einen Löffel auf dem Morgenbrei oder auf <em>viili</em>, der Dickmilch, und in Lappland die klassische Paarung von Heidelbeere und Rentier."
+    },
+    "season": {
+      "kicker": "Ende Juli bis September",
+      "headline": "Der August gehört der Heidelbeere.",
+      "lead": "In Südfinnland reifen die ersten Heidelbeeren im Juli. In Lappland läuft die Saison später und kürzer, und der August ist der Monat.",
+      "phases": [
+        {
+          "period": "Ende Juli",
+          "title": "Das erste Blau",
+          "body": "Sonnige Hänge und Lichtungen reifen zuerst. In Lappland sind das die Probierwochen: genug für eine Handvoll beim Spaziergang, noch nicht für einen Eimer."
+        },
+        {
+          "period": "August",
+          "title": "Der Höhepunkt",
+          "body": "Die Wälder sind voll. Familien pflücken eimerweise, Gefriertruhen füllen sich, und jedes Café in Lappland hat einen Heidelbeerkuchen auf der Theke. Lange, helle Abende machen dies zum leichtesten Monat des Sammeljahres."
+        },
+        {
+          "period": "September",
+          "title": "Die letzten",
+          "body": "Die Beeren werden weich und fallen, und die Sträucher färben sich rot. Was übrig ist, ist süß, und die Pflücker sind auf denselben Touren zu Preiselbeeren und Pilzen übergegangen."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jedermannsrecht",
+      "headline": "Jeder darf pflücken. Ja, auch Sie.",
+      "p1": "Finnlands <em>jokamiehenoikeus</em>, das Jedermannsrecht, deckt Heidelbeeren vollständig ab: Jeder Gast darf sie auf unbewirtschaftetem Land pflücken, Privatwald eingeschlossen, ohne Genehmigung und ohne zu fragen. Gewerbliche Pflücker arbeiten unter demselben Recht.",
+      "p2": "Beerenkämme sind üblich und legal; benutzen Sie ihn behutsam, damit der Strauch nicht zerreißt. Halten Sie Abstand zu Häusern und Gärten, und hinterlassen Sie den Wald, wie Sie ihn vorgefunden haben.",
+      "ctaPrimary": "Alle Sammelregeln lesen",
+      "ctaSecondary": "Zu den Beerenrezepten"
+    },
+    "versus": {
+      "kicker": "Waldheidelbeere oder Kulturheidelbeere",
+      "headline": "Nicht dieselbe Beere.",
+      "p1": "Die Waldheidelbeere, <em>Vaccinium myrtillus</em>, und die Kulturheidelbeere, <em>Vaccinium corymbosum</em>, sind Cousinen, und in den meisten Sprachen, Finnisch eingeschlossen, heißen beide Heidelbeere oder Blaubeere. Auf dem Teller sind es verschiedene Früchte.",
+      "p2": "Waldheidelbeeren wachsen einzeln an niedrigen Waldsträuchern und sind klein, dunkel und durch und durch violett. Kulturheidelbeeren wachsen in Trauben an hohen, für den Anbau gezüchteten Büschen, sind größer und fester und bleiben innen blass, weil ihre Farbe nur in der Schale sitzt.",
+      "p3": "Dieser Unterschied ist der Grund, warum ein finnischer Heidelbeerkuchen violett ausblutet und ein Blaubeermuffin nicht, und warum sich tiefgekühlte wilde Heidelbeeren in Läden im Ausland zu suchen lohnen: Der Geschmack ist auf eine Weise konzentriert, die die Kulturbeere nie erreicht.",
+      "p4": "<strong>Wenn auf einer finnischen Speisekarte die Übersetzung Blaubeere steht, ist die Waldheidelbeere gemeint. In Lappland ist die blaue Beere auf dem Teller die wilde.</strong>"
+    },
+    "price": {
+      "kicker": "Was sie wert ist",
+      "headline": "Finnlands wirtschaftlich wichtigste Wildbeere.",
+      "lead": "So beschreibt die finnische Lebensmittelbehörde selbst die Heidelbeere der letzten Jahre. 2025 verdienten die Pflücker 16 Millionen Euro mit ihr, bei 2,39 Euro pro Kilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "wurden Pflückern 2025 pro Kilo Heidelbeeren gezahlt, laut dem Marsi-Bericht der finnischen Lebensmittelbehörde"
+        },
+        {
+          "value": "16 Mio. €",
+          "label": "Pflückeinkommen aus Heidelbeeren in Finnland 2025, laut demselben Bericht"
+        },
+        {
+          "value": "3–10 %",
+          "label": "der Heidelbeer- und Preiselbeerernte werden in einem typischen Jahr gepflückt, nach Schätzung des Branchenverbands Arktiset Aromit"
+        }
+      ],
+      "p2": "Der Großteil der kommerziellen Ernte wird tiefgekühlt und exportiert, vieles davon zur Verarbeitung anderswo. Die Beeren, denen Sie in einem Café in Lappland begegnen, kommen aus einer kürzeren Kette: aus jemandes Morgen im Wald, oft dem des Cafébesitzers."
+    },
+    "products": {
+      "kicker": "Kuchen, Suppe, Brei",
+      "headline": "Wie Finnland seine Heidelbeeren isst.",
+      "lead": "Frisch handvollweise im August, und aus der Gefriertruhe die anderen elf Monate.",
+      "items": [
+        {
+          "title": "Heidelbeerkuchen",
+          "body": "Mustikkapiirakka: ein weicher, oft mit Haferstreuseln bedeckter Kuchen, in dem die Beeren mitgebacken werden, bis sie ausbluten. Jedes finnische Café hat im August einen, und die guten schmecken nach Wald statt nach Zucker."
+        },
+        {
+          "title": "Heidelbeersuppe",
+          "body": "Mustikkakeitto: Beeren mit etwas Zucker geköchelt und mit Kartoffelstärke gebunden, warm oder kalt serviert, pur oder über Brei. Auch das Getränk der Skiläufer, heiß aus der Thermoskanne auf der Loipe."
+        },
+        {
+          "title": "Zum Rentier",
+          "body": "In Lapplands Restaurants stehen eine Heidelbeerreduktion oder milchsauer vergorene Heidelbeeren neben dem Rentierfilet. Die Säure schneidet durch das Kräftige; die Farbe erledigt den Rest."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Wo probieren",
+      "headline": "Mustikka in Lappland begegnen.",
+      "lead": "Im August müssen Sie nicht suchen. Außerhalb der Saison tragen Kuchen und Suppe die Beere durchs Jahr.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Jeder Wald, jeder August",
+          "body": "Treten Sie in der Nähe von Rovaniemi, Levi oder Saariselkä von einem markierten Weg ab, und die Sträucher liegen zu Ihren Füßen. Eine geführte Wanderung fügt die guten Stellen und die Sicherheitseinweisung hinzu."
+        },
+        {
+          "n": "02",
+          "title": "Cafétheken",
+          "body": "Heidelbeerkuchen mit Vanillesauce ist im Spätsommer die Standardbestellung in einem Café in Lappland. Fragen Sie, ob die Beeren aus der Gegend gepflückt wurden; im August lautet die Antwort meist ja."
+        },
+        {
+          "n": "03",
+          "title": "Degustationsmenüs",
+          "body": "Lapplands Fine-Dining-Küchen verwenden Heidelbeeren das ganze Jahr über fermentiert, tiefgekühlt und reduziert. Die Restaurants finden Sie im Dining-Guide."
+        }
+      ],
+      "gygCta": "Sammeltouren auf GetYourGuide ansehen",
+      "diningCta": "Zum Fine-Dining-Guide"
+    },
+    "nextSteps": {
+      "kicker": "Weiter geht es",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Sammeln lernen",
+          "body": "Jedermannsrecht, Pilzsicherheit und was Sie mitnehmen: Der Sammel-Guide deckt die praktische Seite ab.",
+          "cta": "Zum Sammel-Guide"
+        },
+        {
+          "title": "Die anderen Beeren",
+          "body": "Moltebeere, Preiselbeere und Sanddorn bekommen je einen eigenen Guide, mit Saisons, Geschmack und Fundorten.",
+          "cta": "Alle finnischen Beeren"
+        },
+        {
+          "title": "Zur Saison bleiben",
+          "body": "Der August in Lappland ist warm, hell und blau unter den Füßen. Rovaniemi ist ein brauchbarer Ausgangspunkt für Waldtage.",
+          "cta": "Unterkünfte in Rovaniemi ansehen"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Sanddorn: Finnlands sauerste Beere",
+    "description": "Wie Sanddorn schmeckt, wo er an Finnlands Bottnischer Küste wild wächst, wann er reift, warum er zwischen Dornen gepflückt wird und wie Finnen ihn trinken und verarbeiten.",
+    "hero": {
+      "eyebrow": "Der Beeren-Guide · Sanddorn",
+      "title": "Sanddorn, oranges Feuer",
+      "titleHighlight": "vom Ufer.",
+      "subtitle": "Tyrni wächst in den Wäldern des lappländischen Binnenlands überhaupt nicht. Er wächst an den steinigen Ufern des Bottnischen Meerbusens, im Norden bis zur lappländischen Küste bei Tornio, und er ist die sauerste Beere der finnischen Vorratskammer und eine der vitamin-C-reichsten. Hier erfahren Sie, wo er lebt, wie er schmeckt und warum er so schwer zu pflücken ist.",
+      "primaryCta": "Sammeln lernen",
+      "secondaryCta": "Alle finnischen Beeren",
+      "pills": [
+        "Geschmack",
+        "Saison",
+        "Das Recht zu pflücken",
+        "Warum die Dornen",
+        "Vitamin C",
+        "Saft und Konfitüre",
+        "Wo probieren"
+      ]
+    },
+    "intro": {
+      "lead": "Sanddorn ist der Sonderling unter den finnischen Beeren: ein Küstenstrauch, eine dornenbewehrte Ernte und ein Geschmack so scharf, dass ihn fast niemand pur isst.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Eine Uferpflanze, keine Waldpflanze",
+          "body": "Wilder Sanddorn wächst an den felsigen und steinigen Ufern des Bottnischen Meerbusens, von den Schären bei Uusikaupunki nordwärts bis Tornio, und auf den Åland-Inseln. Das lappländische Binnenland hat keinen; die Küste bei Tornio und Kemi ist seine Nordgrenze."
+        },
+        {
+          "n": "02",
+          "title": "Sauer mit Absicht",
+          "body": "Die Beeren sind intensiv sauer, leicht bitter und schwach ölig, mit einer Note von Passionsfrucht und Aprikose darunter. Finnen trinken ihn verdünnt, gesüßt oder ins Dessert gerührt, selten handvollweise."
+        },
+        {
+          "n": "03",
+          "title": "Reich an Vitamin C",
+          "body": "Die finnische Lebensmittel-Nährwertdatenbank gibt für Sanddorn rund 100 bis 400 Milligramm Vitamin C pro 100 Gramm Beeren an, weshalb Finnen ihn als ihre eigene Zitrusfrucht behandeln."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Die erste Frage zuerst",
+      "headline": "Wie schmeckt Sanddorn?",
+      "answer": "Scharf. Eine reife Sanddornbeere ist so sauer wie eine Zitrone, mit einer bitteren, leicht öligen Kante und, sobald der Schock vorbei ist, einer tropischen Note irgendwo zwischen Passionsfrucht und Aprikose. Der Saft ist dick und leuchtend orange und färbt alles, was er berührt.",
+      "p2": "Diese Säure ist der Grund, warum die Beere fast nie pur gegessen wird. Sie wird zu Saft verdünnt, zu Konfitüre gesüßt, zu Sorbet gefroren oder von Köchen so eingesetzt, wie man eine Zitrone einsetzt: Ein Löffel Sanddorn schneidet durch Sahne, weiße Schokolade, öligen Fisch und kräftiges Rentier.",
+      "p3": "Frost mildert ihn kaum. Die Beeren schmecken im Oktober fast wie im September; was sich ändert, ist, wie leicht sie sich vom dornigen Zweig lösen, und das ist das eigentliche Problem des Pflückers."
+    },
+    "season": {
+      "kicker": "September bis Oktober",
+      "headline": "Reif, wenn die Küste grau wird.",
+      "lead": "Wilder Sanddorn reift im September und Oktober, wenn der Sommer die Bottnische Küste längst verlassen hat und die Beeren das Leuchtendste am Ufer sind.",
+      "phases": [
+        {
+          "period": "Spätsommer",
+          "title": "Es wird orange",
+          "body": "Die grünen Beeren färben sich im Lauf des August. Die Sträucher, dicht und silberblättrig, sind vom Uferweg leicht zu erkennen; die Frucht ist die Dornen noch nicht wert."
+        },
+        {
+          "period": "September",
+          "title": "Die Ernte beginnt",
+          "body": "Die Beeren sind ganz orange, saftig und sauer. Anbauer schneiden fruchttragende Zweige und frieren sie ein, damit sich die Beeren abschütteln lassen; Wildpflücker drücken oder zupfen sie an Ort und Stelle, langsam."
+        },
+        {
+          "period": "Oktober",
+          "title": "Späte Beeren",
+          "body": "Reife Beeren bleiben bis weit in den Herbst an den Zweigen. Nach den ersten harten Frösten lösen sie sich leichter, und manche Pflücker warten genau darauf."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Jedermannsrecht",
+      "headline": "Wilde Sträucher ja, Gärten nein.",
+      "p1": "Das Jedermannsrecht deckt wilden Sanddorn wie jede andere Wildbeere ab: Pflücken ist an unbewirtschafteten Ufern erlaubt, private Uferlinie eingeschlossen, solange Sie Abstand zu Häusern und Höfen halten. Angebauter Sanddorn auf Höfen und in Gärten ist tabu.",
+      "p2": "Zwei Warnungen. Schneiden oder brechen Sie keine Zweige ab, um an die Beeren zu kommen; das ist Beschädigung einer Pflanze, die das Recht nicht erlaubt. Und tragen Sie Handschuhe: Die Dornen sind lang, hart und überall.",
+      "ctaPrimary": "Alle Sammelregeln lesen",
+      "ctaSecondary": "Zu den Beerenrezepten"
+    },
+    "versus": {
+      "kicker": "Warum die Dornen",
+      "headline": "Die Beere, die sich wehrt.",
+      "p1": "Sanddornbeeren sitzen dicht gedrängt entlang der Zweige, jede so fest, dass Ziehen sie meist platzen lässt. Zwischen den Beeren sitzen mehrere Zentimeter lange Dornen. Auch nur einen kleinen Korb von Hand zu pflücken braucht Geduld und dicke Handschuhe.",
+      "p2": "Gewerbliche Anbauer lösen das mit Kälte. Sie schneiden fruchttragende Zweige und frieren sie ein; gefrorene Beeren brechen sauber ab und gehen direkt in die Presse. Deshalb erreicht Sie der meiste Sanddorn auch als Saft, Püree oder Konfitüre und nicht frisch.",
+      "p3": "Der Strauch ist zweihäusig: Männliche und weibliche Pflanzen sind getrennt, und nur die weiblichen tragen Früchte, weshalb ein dichter Bestand am Ufer zur Hälfte unfruchtbar sein kann.",
+      "p4": "<strong>Für Reisende heißt das: Frischer Sanddorn ist selbst in Finnland selten, aber der Saft steht in jedem Supermarkt.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamin C",
+      "headline": "Warum Finnen ihn ihre Zitrusfrucht nennen.",
+      "lead": "Sanddorn ist eine der vitamin-C-reichsten Beeren, die in Finnland wild wachsen: rund 100 bis 400 Milligramm pro 100 Gramm Beeren, laut der nationalen Lebensmittel-Nährwertdatenbank.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "Vitamin C pro 100 g Sanddornbeeren, laut der Datenbank Fineli, wie vom Branchenverband Arktiset Aromit zitiert"
+        },
+        {
+          "value": "Sept–Okt",
+          "label": "das Erntefenster für wilden Sanddorn an der Bottnischen Küste"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "das wilde Verbreitungsgebiet entlang des Bottnischen Meerbusens, dazu die Åland-Inseln"
+        }
+      ],
+      "p2": "Nichts davon macht ihn zum Medikament, und das finnische Recht ist streng damit, was ein Lebensmittel behaupten darf. Nehmen Sie die Zahlen als das, was sie sind: eine Erklärung dafür, warum ein kleines Glas des Safts so schmeckt, wie es schmeckt."
+    },
+    "products": {
+      "kicker": "Saft, Konfitüre, Dessert",
+      "headline": "Wie Finnland seine sauerste Beere verwendet.",
+      "lead": "Niemand isst eine Schale Sanddorn. Jeder hat den Saft getrunken, und fast alles davon kommt inzwischen von angebauten Sträuchern: Der Beerenhandelsbericht der finnischen Lebensmittelbehörde vermerkt, dass der Verkauf von wildem Sanddorn praktisch zum Erliegen gekommen ist, seit der Anbau übernommen hat.",
+      "items": [
+        {
+          "title": "Sanddornsaft",
+          "body": "Tyrnimehu: gepresst, gesüßt und meist verdünnt, in kleinen Gläsern getrunken. Die Supermarktversion ist der Weg, auf dem die meisten Finnen der Beere begegnen; die frisch gepresste Hofversion ist schärfer und dicker."
+        },
+        {
+          "title": "Konfitüre und Püree",
+          "body": "Mit Zucker gekocht wird aus der Säure etwas, das einer Marmelade näherkommt. Auf Roggenbrot gestrichen, über Brei gelöffelt oder zu Käse serviert."
+        },
+        {
+          "title": "Auf der Dessertkarte",
+          "body": "Die Degustationsmenüs Lapplands und Helsinkis verwenden Sanddorn als ihre Zitrone: ein Sorbet zwischen den Gängen, ein Curd unter weißer Schokolade, eine scharfe Sauce zu öligem arktischem Fisch."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Wo probieren",
+      "headline": "Tyrni in Finnland begegnen.",
+      "lead": "Den Strauch finden Sie nicht auf den Fjälls. Die Beere finden Sie im Glas, im Einmachglas und im Dessert, im ganzen Land.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Die Küste bei Tornio und Kemi",
+          "body": "Das nördliche Ende des wilden Verbreitungsgebiets ist das Ufer von Meer-Lappland. Achten Sie auf dichte silbergrüne Sträucher an steinigen Stränden; im September sind sie unverkennbar."
+        },
+        {
+          "n": "02",
+          "title": "Jeder finnische Supermarkt",
+          "body": "Sanddornsaft, Püree und Konfitüre sind gewöhnliche Lebensmittel. Im Tiefkühlregal liegt oft ein Beutel Beeren, der einfachste Weg, die Beere mit nach Hause zu nehmen."
+        },
+        {
+          "n": "03",
+          "title": "Dessertkarten",
+          "body": "Fragen Sie nach dem Sanddorngang. In Lapplands Fine-Dining-Restaurants taucht er als Sorbet, Curd oder Sauce öfter auf als jede andere Beere außer der Moltebeere."
+        }
+      ],
+      "gygCta": "Sammeltouren auf GetYourGuide ansehen",
+      "diningCta": "Zum Fine-Dining-Guide"
+    },
+    "nextSteps": {
+      "kicker": "Weiter geht es",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Sammeln lernen",
+          "body": "Jedermannsrecht, was Sie mitnehmen und wie Sie pflücken, ohne eine Pflanze zu beschädigen: der Sammel-Guide.",
+          "cta": "Zum Sammel-Guide"
+        },
+        {
+          "title": "Die anderen Beeren",
+          "body": "Moltebeere, Preiselbeere und Heidelbeere bekommen je einen eigenen Guide, mit Saisons, Geschmack und Fundorten.",
+          "cta": "Alle finnischen Beeren"
+        },
+        {
+          "title": "An der Küste bleiben",
+          "body": "Tornio und Kemi sind Lapplands Küstenstädte, ein bequemer Ausgangspunkt für Uferspaziergänge im September.",
+          "cta": "Unterkünfte in Tornio ansehen"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Samische Küche: traditionelle Lappland-Rezepte",
     "description": "Vier Gerichte der samischen Küche: Bidos-Eintopf, Gahkku-Fladenbrot, Sápmi-Fischsuppe, Beeren-Kissel. Mit Rezepten und dem Acht-Jahreszeiten-Kalender.",
@@ -775,6 +1408,24 @@
       "tours": "Kocherlebnisse",
       "ingredients": "Lokale Zutaten",
       "modern": "Moderne Interpretationen"
+    },
+    "faq": {
+      "kicker": "Samische Küche, kurz gefasst",
+      "headline": "Drei Fragen, die zur samischen Küche gestellt werden.",
+      "items": [
+        {
+          "question": "Was ist samisches Essen?",
+          "answer": "Samisches Essen ist die Küche der indigenen Bevölkerung von Sápmi, dem Land der Samen im Norden Finnlands, Schwedens, Norwegens und Russlands. Sie baut auf dem Rentier auf, von dem jeder Teil verwendet wird, auf See- und Flussfisch, auf wilden Beeren und Kräutern und auf langsamen Methoden: Kochen, Kalträuchern, Trocknen und Salzen. Die Rezepte auf dieser Seite sind die Hausversionen."
+        },
+        {
+          "question": "Was essen Samen heute?",
+          "answer": "Dieselben Zutaten, auf einem ganz normalen Alltagstisch: Rentiereintopf oder Rentiergeschnetzeltes mit Kartoffeln, Fischsuppe, getrocknetes und geräuchertes Rentier, Fladenbrot, Beeren zum Brei. Moderne samische Haushalte kaufen im Supermarkt ein wie alle anderen, und die traditionellen Gerichte kommen zu Festen, Hochzeiten und zur Schlachtung im Herbst auf den Tisch."
+        },
+        {
+          "question": "Was ist Bidos?",
+          "answer": "Bidos ist der samische Rentiereintopf: Schulter oder Haxe in Stücken, angebraten und langsam mit Kartoffeln, Karotten und Zwiebeln geschmort, bis das Fleisch zerfällt. Es ist das Festtagsgericht, das bei Hochzeiten und Zusammenkünften serviert wird, und das erste Rezept auf dieser Seite."
+        }
+      ]
     }
   },
   "modernLapland": {

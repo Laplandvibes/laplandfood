@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Bacche finlandesi: mora artica, mirtilli e olivello spinoso",
+    "description": "Le quattro bacche selvatiche che definiscono la cucina finlandese: che sapore ha ciascuna, quando matura, dove cresce e come raccoglierla con il diritto di accesso alla natura.",
+    "hero": {
+      "eyebrow": "La guida alle bacche",
+      "title": "Quattro bacche, una",
+      "titleHighlight": "breve estate.",
+      "subtitle": "Le foreste e le coste della Finlandia producono più bacche selvatiche di quante l'intero Paese potrebbe mai raccogliere. Queste quattro plasmano la cucina finlandese. Ognuna ha la sua guida.",
+      "primaryCta": "Legga la guida alla raccolta",
+      "secondaryCta": "Tutti gli ingredienti della Lapponia"
+    },
+    "intro": {
+      "lead": "Mora artica, mirtillo nero, mirtillo rosso e olivello spinoso maturano uno dopo l'altro da luglio a ottobre. Insieme sono la dolcezza, l'acidità e il colore della dispensa finlandese.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Tutte selvatiche",
+          "body": "Nessuna delle quattro viene coltivata su scala apprezzabile in Finlandia. L'intera offerta, dalla torta del caffè al succo del supermercato, comincia con qualcuno che raccoglie."
+        },
+        {
+          "n": "02",
+          "title": "Libere da raccogliere",
+          "body": "Il diritto di accesso alla natura permette a chiunque, residente o visitatore, di raccogliere bacche selvatiche quasi ovunque senza chiedere. Le regole riguardano il rispetto, non i permessi."
+        },
+        {
+          "n": "03",
+          "title": "Una scala di stagioni",
+          "body": "La mora artica apre la stagione nelle torbiere a luglio, il mirtillo nero riempie agosto, e mirtillo rosso e olivello spinoso la portano fino a ottobre."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "Le quattro guide",
+      "headline": "Scelga una bacca.",
+      "lead": "Ogni guida risponde alle stesse domande: sapore, stagione, il diritto di raccogliere, quanto vale la bacca e dove incontrarla.",
+      "cards": [
+        {
+          "name": "Mora artica",
+          "latin": "Rubus chamaemorus",
+          "season": "Da metà luglio a metà agosto",
+          "body": "La bacca ambrata delle torbiere che nessuno sa coltivare. Quattro settimane l'anno, raccolta a mano, al prezzo di una prelibatezza.",
+          "cta": "Guida alla mora artica"
+        },
+        {
+          "name": "Mirtillo nero",
+          "latin": "Vaccinium myrtillus",
+          "season": "Da fine luglio a settembre",
+          "body": "Il mirtillo selvatico della Finlandia: viola fino al cuore, raccolto a secchi e cotto in ogni torta di agosto.",
+          "cta": "Guida al mirtillo nero"
+        },
+        {
+          "name": "Mirtillo rosso",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Da fine agosto a ottobre",
+          "body": "La bacca rossa e aspra accanto a ogni piatto di renna. Si conserva in vasetto senza zucchero e si addolcisce dopo il gelo.",
+          "cta": "Guida al mirtillo rosso"
+        },
+        {
+          "name": "Olivello spinoso",
+          "latin": "Hippophaë rhamnoides",
+          "season": "Da settembre a ottobre",
+          "body": "La bacca arancione e acida della costa del golfo di Botnia, raccolta tra le spine e bevuta come succo.",
+          "cta": "Guida all'olivello spinoso"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Stagione per stagione",
+      "headline": "Quando matura ogni bacca.",
+      "items": [
+        {
+          "period": "Luglio",
+          "title": "Mora artica",
+          "body": "Torbiere aperte sotto il sole di mezzanotte, una finestra di raccolta di circa tre settimane da metà luglio."
+        },
+        {
+          "period": "Agosto",
+          "title": "Mirtillo nero",
+          "body": "Arbusti di sottobosco ovunque: il mese in cui la Finlandia riempie i congelatori."
+        },
+        {
+          "period": "Settembre",
+          "title": "Mirtillo rosso",
+          "body": "Brughiere secche di pini; le prime gelate addolciscono le bacche."
+        },
+        {
+          "period": "Settembre–ottobre",
+          "title": "Olivello spinoso",
+          "body": "Rive sassose del golfo di Botnia, a nord fino a Tornio."
+        },
+        {
+          "period": "Da novembre",
+          "title": "Dal vasetto",
+          "body": "Confettura, succo, bacche surgelate e kissel portano la stagione attraverso l'inverno."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "Impari a raccogliere",
+          "body": "Diritto di accesso alla natura, sicurezza con i funghi e calendario mese per mese: il lato pratico del raccogliere da sé.",
+          "cta": "Guida alla raccolta"
+        },
+        {
+          "title": "Cucini le bacche",
+          "body": "Il kissel di bacche selvatiche e le altre ricette tradizionali, con il metodo scritto per esteso.",
+          "cta": "Ricette tradizionali"
+        },
+        {
+          "title": "Si fermi per la stagione",
+          "body": "Da luglio a settembre è stagione di bacche in tutta la Lapponia. Rovaniemi è una base pratica per giornate nel bosco.",
+          "cta": "Sfogli gli alloggi a Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Mirtillo rosso: la bacca selvatica di tutti i giorni in Finlandia",
+    "description": "Che sapore ha il mirtillo rosso, quando cade la stagione finlandese, perché si conserva senza zucchero, in cosa differisce dal cranberry e dove mangiarlo in Lapponia.",
+    "hero": {
+      "eyebrow": "La guida alle bacche · Mirtillo rosso",
+      "title": "Mirtillo rosso, la bacca che",
+      "titleHighlight": "si conserva da sola.",
+      "subtitle": "La puolukka è la bacca rossa accanto a ogni piatto di renna saltata, e quella che le famiglie finlandesi raccolgono a secchi. Ecco che sapore ha, perché si conserva in vasetto senza zucchero e in cosa differisce dal cranberry con cui viene confusa.",
+      "primaryCta": "Impari a raccoglierlo",
+      "secondaryCta": "Tutte le bacche finlandesi",
+      "pills": [
+        "Sapore",
+        "Stagione",
+        "Diritto di raccolta",
+        "Mirtillo rosso o cranberry",
+        "Quanto vale",
+        "Confettura e purea",
+        "Dove assaggiarlo"
+      ]
+    },
+    "intro": {
+      "lead": "Ogni autunno i mirtilli rossi tappezzano le pinete secche della Finlandia in quantità che nessuno potrebbe raccogliere. I pochi raccolti finiscono nei vasetti, sul porridge e accanto alla renna.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Più di quanto chiunque possa raccogliere",
+          "body": "Il raccolto selvatico di mirtillo rosso in Finlandia ammonta a centinaia di milioni di chili l'anno, e secondo la stima dell'associazione di settore Arktiset Aromit ne viene raccolto solo il 3–10 per cento. Il resto nutre uccelli, orsi e il suolo dell'anno dopo."
+        },
+        {
+          "n": "02",
+          "title": "Si conserva da solo",
+          "body": "Il mirtillo rosso contiene acido benzoico naturale, ed è per questo che un vasetto di bacche crude schiacciate si conserva in una dispensa fresca senza zucchero, calore o additivi. È la conserva finlandese originale."
+        },
+        {
+          "n": "03",
+          "title": "Il rosso di ogni piatto di renna",
+          "body": "Il poronkäristys, renna saltata su purè di patate, non si serve senza un cucchiaio di mirtilli rossi. È l'acidità a far funzionare quella carne ricca."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Prima la domanda principale",
+      "headline": "Che sapore ha il mirtillo rosso?",
+      "answer": "Aspro, leggermente amaro e appena dolce, con un finale pulito e secco e niente del muschio della mora artica: pensi a un cranberry con lo zucchero abbassato e un po' più di amaro. Cruda, una sola bacca fa storcere il viso; mescolata a qualcosa di caldo, salato o a base di latte, la stessa acidità diventa il punto.",
+      "p2": "Il gelo aiuta. Le bacche raccolte dopo le prime gelate notturne di settembre sono nettamente più morbide e dolci di quelle di agosto, e i raccoglitori finlandesi programmano le uscite di conseguenza. Una bacca matura è rosso intenso tutt'intorno; un lato pallido significa che le serve un'altra settimana.",
+      "p3": "Raramente Le serviranno mirtilli rossi da soli. Arrivano come contorno: crudi e schiacciati con poco zucchero accanto alla renna saltata o alle polpette, montati in <em>vispipuuro</em>, il porridge rosa di semolino che ogni bambino finlandese conosce, o a cucchiaiate sul porridge caldo con il latte."
+    },
+    "season": {
+      "kicker": "Da fine agosto a ottobre",
+      "headline": "La stagione lunga e indulgente.",
+      "lead": "A differenza della mora artica, il mirtillo rosso La aspetta. La stagione si apre a fine agosto e le bacche restano sugli arbusti fino a ottobre, addolcendosi a ogni gelata.",
+      "phases": [
+        {
+          "period": "Fine agosto",
+          "title": "I primi rossi",
+          "body": "Le bacche passano dal bianco-verde al rosso prima sulle brughiere di pini esposte a sud. Le prime sono le più amare; la maggior parte dei raccoglitori le lascia una o due settimane in più."
+        },
+        {
+          "period": "Settembre",
+          "title": "Il raccolto principale",
+          "body": "Notti fresche, giornate asciutte e prime gelate: è allora che le famiglie escono con i secchi. Le bacche sono sode, completamente rosse e si staccano facilmente dall'arbusto."
+        },
+        {
+          "period": "Ottobre",
+          "title": "Dopo le gelate",
+          "body": "Le bacche addolcite dal gelo restano buone sulla pianta fino alla prima neve duratura. Alcuni dei migliori mirtilli rossi dell'anno si raccolgono negli ultimi giorni miti di ottobre."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Diritto di accesso",
+      "headline": "Ne raccolga quanti riesce a portare.",
+      "p1": "Il <em>jokamiehenoikeus</em> finlandese, il diritto di accesso alla natura, permette a chiunque di raccogliere bacche selvatiche su terreni non coltivati, bosco privato compreso, senza permesso né autorizzazione del proprietario. Il mirtillo rosso è la bacca per cui questo diritto sembra fatto: abbondante, resistente e fuori da ogni lista di protezione.",
+      "p2": "Il galateo è semplice. Stia lontano da case e giardini, non danneggi gli arbusti e usi il pettine da bacche con delicatezza: il raccoglitore a pettine è legale e comune in Finlandia, ma uno strappo distratto porta via la crescita dell'anno dopo.",
+      "ctaPrimary": "Legga tutte le regole di raccolta",
+      "ctaSecondary": "Veda le ricette con le bacche"
+    },
+    "versus": {
+      "kicker": "Mirtillo rosso o cranberry",
+      "headline": "Stessa famiglia, un'altra torbiera.",
+      "p1": "Mirtillo rosso e cranberry sono parenti stretti nel genere <em>Vaccinium</em>, e all'estero i nomi si scambiano. In Finlandia sono due bacche diverse di due posti diversi: il mirtillo rosso cresce sulle brughiere secche di pini, il cranberry, cioè il mirtillo palustre, nelle torbiere umide.",
+      "p2": "Nel piatto la differenza è dimensione e taglio. Un mirtillo rosso è piccolo, sodo e uniformemente aspro con una nota amara; il mirtillo palustre selvatico finlandese, <em>karpalo</em>, è più grande, più morbido e ancora più acido, e il cranberry americano coltivato dei succhi da supermercato è più grande ancora e più mite.",
+      "p3": "Anche i ruoli in cucina sono diversi. Il cranberry ha bisogno di cottura e zucchero per essere gradevole; il mirtillo rosso si può mangiare crudo schiacciato, ed è per questo che il vasetto finlandese di mirtilli rossi spesso contiene solo bacche e poco zucchero.",
+      "p4": "<strong>Se una ricetta straniera chiede salsa di cranberry con la selvaggina, il mirtillo rosso è l'originale nordico da cui discende.</strong>"
+    },
+    "price": {
+      "kicker": "Quanto vale",
+      "headline": "Economico al chilo, impagabile nel vasetto.",
+      "lead": "Il mirtillo rosso è la bacca selvatica finlandese dei grandi volumi, e il prezzo lo dimostra. Nel 2025 gli acquirenti hanno ritirato 9,5 milioni di chili, più di qualsiasi altra bacca selvatica, e hanno pagato ai raccoglitori 1,90 euro al chilo, contro i 13,85 euro della mora artica.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "pagati ai raccoglitori per chilo di mirtilli rossi nel 2025, secondo il rapporto Marsi dell'Autorità alimentare finlandese"
+        },
+        {
+          "value": "9,5 M kg",
+          "label": "di mirtilli rossi venduti agli acquirenti nel 2025, il volume più alto di tutte le bacche selvatiche finlandesi, secondo lo stesso rapporto"
+        },
+        {
+          "value": "3–10 %",
+          "label": "del raccolto di mirtilli rossi e neri viene raccolto in un anno tipico, secondo la stima dell'associazione Arktiset Aromit"
+        }
+      ],
+      "p2": "La maggior parte di ciò che viene raccolto non entra mai nel commercio: passa dal secchio al congelatore e al porridge di famiglia. Il raccolto commerciale diventa succo, confettura e le bacche surgelate di ogni supermercato finlandese."
+    },
+    "products": {
+      "kicker": "Confettura, purea, porridge",
+      "headline": "Come la Finlandia mangia i suoi mirtilli rossi.",
+      "lead": "Un mirtillo rosso si mangia raramente fresco. Si mette via per l'inverno, e poi ricompare a colazione, a cena e al dessert.",
+      "items": [
+        {
+          "title": "Mirtilli rossi crudi schiacciati",
+          "body": "Puolukkasurvos: bacche schiacciate con poco zucchero, nient'altro. Grazie all'acido benzoico della bacca stessa si conserva per mesi in frigorifero o in una dispensa fredda. È il vasetto accanto a renna, polpette e fegato."
+        },
+        {
+          "title": "Confettura di mirtilli rossi",
+          "body": "La versione cotta, più dolce e più liscia, è il classico da esportazione e quella che la maggior parte dei visitatori conosce dai negozi di mobili svedesi. In Finlandia accompagna frittelle, riso al latte e porridge caldo."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Porridge rosa montato: succo di mirtilli rossi addensato con semolino e poi sbattuto fino a diventare soffice, servito freddo con il latte. Un dessert da mensa scolastica che gli adulti ordinano ancora."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove assaggiarlo",
+      "headline": "Incontrare la puolukka in Lapponia.",
+      "lead": "Il mirtillo rosso non è una prelibatezza da inseguire. È il contorno predefinito, e a settembre è ovunque.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Accanto alla renna",
+          "body": "Ordini un poronkäristys, renna saltata, ovunque in Lapponia e i mirtilli rossi arrivano con lui. Nei ristoranti che li preparano in casa, le bacche sono crude schiacciate e ancora aspre."
+        },
+        {
+          "n": "02",
+          "title": "Sul tavolo della colazione",
+          "body": "Le colazioni d'albergo di tutta la Lapponia mettono la confettura di mirtilli rossi accanto al porridge e alle frittelle. È il modo più quotidiano di incontrare la bacca."
+        },
+        {
+          "n": "03",
+          "title": "Il Suo secchio",
+          "body": "Da fine agosto, una passeggiata in qualsiasi pineta secca Le porta i mirtilli rossi ai piedi. Un'uscita di raccolta guidata insegna il pettine, il trucco del gelo e le brughiere buone."
+        }
+      ],
+      "gygCta": "Sfogli le uscite di raccolta su GetYourGuide",
+      "diningCta": "Veda la guida al fine dining"
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "Impari a raccogliere",
+          "body": "Diritto di accesso alla natura, sicurezza e cosa portare: la guida alla raccolta copre il lato pratico del raccogliere da sé.",
+          "cta": "Guida alla raccolta"
+        },
+        {
+          "title": "Le altre bacche",
+          "body": "Mora artica, mirtillo nero e olivello spinoso hanno ciascuno la propria guida, con stagioni, sapore e dove trovarli.",
+          "cta": "Tutte le bacche finlandesi"
+        },
+        {
+          "title": "Si fermi per la stagione",
+          "body": "Settembre in Lapponia è tranquillo, economico e rosso di mirtilli. Rovaniemi è una base pratica per giornate nel bosco.",
+          "cta": "Sfogli gli alloggi a Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Mirtillo nero: il mirtillo selvatico della Finlandia",
+    "description": "Perché il mirtillo nero finlandese non è il mirtillo coltivato, che sapore ha, quando la stagione in Lapponia è al culmine, quanto guadagnano i raccoglitori e come mangiarlo, dalla torta alla zuppa.",
+    "hero": {
+      "eyebrow": "La guida alle bacche · Mirtillo nero",
+      "title": "Mirtillo nero, il blu che",
+      "titleHighlight": "macchia le dita.",
+      "subtitle": "La mustikka è la bacca che quasi ogni finlandese ha raccolto, quella che colora un intero agosto d'infanzia, e quella che i visitatori continuano a chiamare mirtillo gigante. Ecco in cosa differisce, che sapore ha e dove cresce in Lapponia.",
+      "primaryCta": "Impari a raccoglierlo",
+      "secondaryCta": "Tutte le bacche finlandesi",
+      "pills": [
+        "Sapore",
+        "Stagione",
+        "Diritto di raccolta",
+        "Mirtillo nero o coltivato",
+        "Quanto vale",
+        "Torta e zuppa",
+        "Dove assaggiarlo"
+      ]
+    },
+    "captions": {
+      "taste": "Mirtilli neri raccolti nel bosco di Salla, agosto 2026",
+      "versus": "Un mirtillo nero maturo tra due dita, Salla, agosto 2026"
+    },
+    "intro": {
+      "lead": "Il mirtillo nero è l'alimento più abbondante del bosco finlandese, e quello che la maggior parte delle persone ha davvero raccolto. In un buon anno il raccolto si misura in centinaia di milioni di chili.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Selvatico, non coltivato",
+          "body": "Ogni mirtillo nero finlandese è selvatico. Cresce su arbusti alti fino al ginocchio sotto pini e abeti in tutto il Paese, dai parchi di Helsinki alle montagne della Lapponia. Nessuno lo pianta."
+        },
+        {
+          "n": "02",
+          "title": "Blu fino al cuore",
+          "body": "Tagli un mirtillo nero ed è viola dentro; tagli un mirtillo coltivato del supermercato ed è verde pallido. Il pigmento che macchia mani e lingua è il modo più semplice per distinguerli."
+        },
+        {
+          "n": "03",
+          "title": "Raccolto anche per vivere",
+          "body": "I raccoglitori professionisti hanno venduto 6,8 milioni di chili di mirtilli neri agli acquirenti nel 2025 e guadagnato 16 milioni di euro, riferisce l'Autorità alimentare finlandese. Eppure, secondo la stima del settore, viene raccolto solo il 3–10 per cento del raccolto."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Prima la domanda principale",
+      "headline": "Che sapore ha il mirtillo nero?",
+      "answer": "Più dolce e morbido di un cranberry, più vivo e più selvatico di un mirtillo coltivato: il mirtillo nero è succoso, dalla buccia sottile e dal colore intenso, con una profondità floreale, leggermente tannica, che il mirtillo coltivato non ha. Ne mangi una manciata direttamente dall'arbusto e dita, labbra e lingua diventano viola.",
+      "p2": "La maturazione si legge facilmente. Un mirtillo maturo è di un blu scuro pruinoso e si stacca al minimo tocco; una bacca che resiste è in anticipo di un giorno o due. Le bacche scaldate dal sole in una radura aperta sono le più dolci; quelle d'ombra di un fitto bosco di abeti sono più grandi e più succose.",
+      "p3": "In cucina il sapore attraversa tutto: la torta <em>mustikkapiirakka</em>, la zuppa <em>mustikkakeitto</em>, un cucchiaio sul porridge del mattino o sul <em>viili</em>, il latte cagliato, e in Lapponia l'abbinamento classico di mirtillo nero e renna."
+    },
+    "season": {
+      "kicker": "Da fine luglio a settembre",
+      "headline": "Agosto appartiene al mirtillo nero.",
+      "lead": "Nel sud della Finlandia i primi mirtilli neri maturano a luglio. In Lapponia la stagione è più tardiva e più corta, e agosto è il mese.",
+      "phases": [
+        {
+          "period": "Fine luglio",
+          "title": "I primi blu",
+          "body": "I pendii soleggiati e le radure maturano per primi. In Lapponia sono le settimane dell'assaggio: abbastanza per una manciata in passeggiata, non ancora per un secchio."
+        },
+        {
+          "period": "Agosto",
+          "title": "Il culmine",
+          "body": "I boschi sono pieni. Le famiglie raccolgono a secchi, i congelatori si riempiono e ogni caffè della Lapponia ha una torta di mirtilli sul banco. Le lunghe serate luminose ne fanno il mese più facile dell'anno di raccolta."
+        },
+        {
+          "period": "Settembre",
+          "title": "Gli ultimi",
+          "body": "Le bacche si ammorbidiscono e cadono, e gli arbusti diventano rossi. Ciò che resta è dolce, e i raccoglitori sono passati a mirtilli rossi e funghi nelle stesse uscite."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Diritto di accesso",
+      "headline": "Chiunque può raccogliere. Sì, anche Lei.",
+      "p1": "Il <em>jokamiehenoikeus</em> finlandese, il diritto di accesso alla natura, copre completamente il mirtillo nero: qualsiasi visitatore può raccoglierlo su terreni non coltivati, bosco privato compreso, senza permesso e senza chiedere. I raccoglitori professionisti lavorano con lo stesso diritto.",
+      "p2": "I pettini da bacche sono comuni e legali; lo usi con delicatezza perché l'arbusto non si strappi. Stia lontano da case e giardini, e lasci il bosco come lo ha trovato.",
+      "ctaPrimary": "Legga tutte le regole di raccolta",
+      "ctaSecondary": "Veda le ricette con le bacche"
+    },
+    "versus": {
+      "kicker": "Mirtillo nero o coltivato",
+      "headline": "Non è la stessa bacca.",
+      "p1": "Il mirtillo nero, <em>Vaccinium myrtillus</em>, e il mirtillo coltivato, <em>Vaccinium corymbosum</em>, sono cugini, e nella maggior parte delle lingue, finlandese compreso, entrambi si chiamano mirtillo. Nel piatto sono frutti diversi.",
+      "p2": "I mirtilli neri crescono uno a uno su bassi arbusti di bosco e sono piccoli, scuri e viola fino al cuore. I mirtilli coltivati crescono a grappoli su cespugli alti selezionati per la coltivazione, sono più grandi e più sodi e restano pallidi dentro perché il loro colore sta solo nella buccia.",
+      "p3": "Quella differenza è il motivo per cui una torta finlandese di mirtilli neri sanguina viola e un muffin ai mirtilli no, e per cui vale la pena cercare i mirtilli neri surgelati nei negozi all'estero: il sapore è concentrato in un modo che la bacca coltivata non raggiunge mai.",
+      "p4": "<strong>Se vede un menu finlandese tradotto con blueberry o mirtillo gigante, si tratta del mirtillo nero. In Lapponia la bacca blu nel piatto è quella selvatica.</strong>"
+    },
+    "price": {
+      "kicker": "Quanto vale",
+      "headline": "La bacca selvatica commercialmente più importante della Finlandia.",
+      "lead": "Così l'Autorità alimentare finlandese stessa descrive il mirtillo nero degli ultimi anni. Nel 2025 i raccoglitori ne hanno ricavato 16 milioni di euro, a 2,39 euro al chilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "pagati ai raccoglitori per chilo di mirtilli neri nel 2025, secondo il rapporto Marsi dell'Autorità alimentare finlandese"
+        },
+        {
+          "value": "16 M€",
+          "label": "di ricavi dalla raccolta di mirtilli neri in Finlandia nel 2025, secondo lo stesso rapporto"
+        },
+        {
+          "value": "3–10 %",
+          "label": "del raccolto di mirtilli neri e rossi viene raccolto in un anno tipico, secondo la stima dell'associazione Arktiset Aromit"
+        }
+      ],
+      "p2": "La maggior parte del raccolto commerciale viene surgelata ed esportata, in buona parte per essere lavorata altrove. Le bacche che incontra in un caffè della Lapponia arrivano da una filiera più corta: la mattinata nel bosco di qualcuno, spesso del proprietario del caffè."
+    },
+    "products": {
+      "kicker": "Torta, zuppa, porridge",
+      "headline": "Come la Finlandia mangia i suoi mirtilli neri.",
+      "lead": "Freschi a manciate ad agosto, e dal congelatore gli altri undici mesi.",
+      "items": [
+        {
+          "title": "Torta di mirtilli neri",
+          "body": "Mustikkapiirakka: una torta morbida, spesso coperta di avena, con le bacche cotte dentro finché sanguinano. Ogni caffè finlandese ne ha una ad agosto, e quelle buone sanno di bosco più che di zucchero."
+        },
+        {
+          "title": "Zuppa di mirtilli neri",
+          "body": "Mustikkakeitto: bacche cotte piano con poco zucchero e addensate con fecola di patate, servite calde o fredde, da sole o sul porridge. Anche la bevanda dello sciatore, versata bollente dal thermos sulla pista."
+        },
+        {
+          "title": "Con la renna",
+          "body": "Nei ristoranti della Lapponia una riduzione di mirtilli neri o mirtilli lattofermentati accompagnano il filetto di renna. L'acidità taglia la ricchezza; il colore fa il resto."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove assaggiarlo",
+      "headline": "Incontrare la mustikka in Lapponia.",
+      "lead": "Ad agosto non dovrà cercare. Fuori stagione, torta e zuppa portano la bacca per tutto l'anno.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Qualsiasi bosco, qualsiasi agosto",
+          "body": "Esca da un sentiero segnato vicino a Rovaniemi, Levi o Saariselkä e gli arbusti sono ai Suoi piedi. Una passeggiata guidata aggiunge i posti buoni e le istruzioni di sicurezza."
+        },
+        {
+          "n": "02",
+          "title": "I banchi dei caffè",
+          "body": "La torta di mirtilli neri con salsa alla vaniglia è l'ordinazione standard in un caffè della Lapponia a fine estate. Chieda se le bacche sono state raccolte in zona; ad agosto la risposta è di solito sì."
+        },
+        {
+          "n": "03",
+          "title": "I menu degustazione",
+          "body": "Le cucine di alta gamma della Lapponia usano il mirtillo nero fermentato, surgelato e ridotto tutto l'anno. Veda i ristoranti nella guida gastronomica."
+        }
+      ],
+      "gygCta": "Sfogli le uscite di raccolta su GetYourGuide",
+      "diningCta": "Veda la guida al fine dining"
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "Impari a raccogliere",
+          "body": "Diritto di accesso alla natura, sicurezza con i funghi e cosa portare: la guida alla raccolta copre il lato pratico.",
+          "cta": "Guida alla raccolta"
+        },
+        {
+          "title": "Le altre bacche",
+          "body": "Mora artica, mirtillo rosso e olivello spinoso hanno ciascuno la propria guida, con stagioni, sapore e dove trovarli.",
+          "cta": "Tutte le bacche finlandesi"
+        },
+        {
+          "title": "Si fermi per la stagione",
+          "body": "Agosto in Lapponia è caldo, luminoso e blu sotto i piedi. Rovaniemi è una base pratica per giornate nel bosco.",
+          "cta": "Sfogli gli alloggi a Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Olivello spinoso: la bacca più acida della Finlandia",
+    "description": "Che sapore ha l'olivello spinoso, dove cresce spontaneo sulla costa finlandese del golfo di Botnia, quando matura, perché si raccoglie tra le spine e come i finlandesi lo bevono e lo cucinano.",
+    "hero": {
+      "eyebrow": "La guida alle bacche · Olivello spinoso",
+      "title": "Olivello spinoso, fuoco arancione",
+      "titleHighlight": "dalla riva.",
+      "subtitle": "Il tyrni non cresce affatto nei boschi dell'interno della Lapponia. Cresce sulle rive sassose del golfo di Botnia, a nord fino alla costa lappone di Tornio, ed è la bacca più acida della dispensa finlandese e una delle più ricche di vitamina C. Ecco dove vive, che sapore ha e perché è così difficile da raccogliere.",
+      "primaryCta": "Impari a raccoglierlo",
+      "secondaryCta": "Tutte le bacche finlandesi",
+      "pills": [
+        "Sapore",
+        "Stagione",
+        "Diritto di raccolta",
+        "Perché le spine",
+        "Vitamina C",
+        "Succo e confettura",
+        "Dove assaggiarlo"
+      ]
+    },
+    "intro": {
+      "lead": "L'olivello spinoso è l'eccentrico tra le bacche finlandesi: un arbusto di costa, un raccolto coperto di spine e un sapore così tagliente che quasi nessuno lo mangia al naturale.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Una pianta di riva, non di bosco",
+          "body": "L'olivello spinoso selvatico cresce sulle rive rocciose e sassose del golfo di Botnia, dall'arcipelago di Uusikaupunki a nord fino a Tornio, e sulle isole Åland. L'interno della Lapponia non ne ha; la costa di Tornio e Kemi è il suo limite settentrionale."
+        },
+        {
+          "n": "02",
+          "title": "Acido di proposito",
+          "body": "Le bacche sono intensamente acide, leggermente amare e appena oleose, con una nota di frutto della passione e albicocca sotto. I finlandesi lo bevono diluito, zuccherato o incorporato in un dessert, raramente a manciate."
+        },
+        {
+          "n": "03",
+          "title": "Ricco di vitamina C",
+          "body": "La banca dati finlandese sulla composizione degli alimenti attribuisce all'olivello spinoso circa 100–400 milligrammi di vitamina C per 100 grammi di bacche, ed è per questo che i finlandesi lo trattano come il proprio agrume."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Prima la domanda principale",
+      "headline": "Che sapore ha l'olivello spinoso?",
+      "answer": "Tagliente. Una bacca matura di olivello spinoso è acida come un limone, con un bordo amaro, leggermente oleoso, e, passato lo shock, una nota tropicale tra il frutto della passione e l'albicocca. Il succo è denso, di un arancione brillante, e macchia tutto ciò che tocca.",
+      "p2": "Quell'acidità è il motivo per cui la bacca non si mangia quasi mai al naturale. Si diluisce in succo, si zucchera in confettura, si gela in sorbetto, o gli chef la usano come si usa un limone: un cucchiaio di olivello spinoso taglia la panna, il cioccolato bianco, il pesce grasso e la renna sostanziosa.",
+      "p3": "Il gelo non lo addolcisce molto. Le bacche a ottobre sanno più o meno come a settembre; ciò che cambia è quanto facilmente si staccano dal ramo spinoso, e quello è il vero problema del raccoglitore."
+    },
+    "season": {
+      "kicker": "Da settembre a ottobre",
+      "headline": "Maturo quando la costa diventa grigia.",
+      "lead": "L'olivello spinoso selvatico matura a settembre e ottobre, quando l'estate ha lasciato da tempo la costa botnica e le bacche sono la cosa più luminosa sulla riva.",
+      "phases": [
+        {
+          "period": "Fine estate",
+          "title": "Diventa arancione",
+          "body": "Le bacche verdi prendono colore nel corso di agosto. Gli arbusti, fitti e dalle foglie argentate, sono facili da individuare dal sentiero della riva; il frutto non vale ancora le spine."
+        },
+        {
+          "period": "Settembre",
+          "title": "Inizia il raccolto",
+          "body": "Le bacche sono completamente arancioni, succose e acide. I coltivatori tagliano i rami fruttiferi e li congelano per poter scuotere via le bacche; i raccoglitori selvatici le premono o le staccano sul posto, lentamente."
+        },
+        {
+          "period": "Ottobre",
+          "title": "Bacche tardive",
+          "body": "Le bacche mature restano sui rami fino a autunno inoltrato. Dopo le prime gelate forti si staccano più facilmente, e alcuni raccoglitori aspettano proprio quello."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Diritto di accesso",
+      "headline": "Arbusti selvatici sì, giardini no.",
+      "p1": "Il diritto di accesso alla natura copre l'olivello spinoso selvatico come ogni altra bacca selvatica: la raccolta è consentita sulle rive non coltivate, litorale privato compreso, purché Lei stia lontano da case e cortili. L'olivello spinoso coltivato nelle aziende agricole e nei giardini è off limits.",
+      "p2": "Due avvertenze. Non tagli né spezzi rami per arrivare alle bacche; è danneggiare una pianta, cosa che il diritto non consente. E indossi i guanti: le spine sono lunghe, dure e ovunque.",
+      "ctaPrimary": "Legga tutte le regole di raccolta",
+      "ctaSecondary": "Veda le ricette con le bacche"
+    },
+    "versus": {
+      "kicker": "Perché le spine",
+      "headline": "La bacca che si difende.",
+      "p1": "Le bacche di olivello spinoso crescono fitte lungo i rami, ciascuna così saldamente attaccata che tirandola di solito scoppia. Tra le bacche stanno spine lunghe diversi centimetri. Raccogliere a mano anche solo un cestino richiede pazienza e guanti spessi.",
+      "p2": "I coltivatori professionali risolvono con il freddo. Tagliano i rami fruttiferi e li congelano; le bacche congelate si staccano di netto e vanno dritte alla pressa. È anche per questo che la maggior parte dell'olivello spinoso Le arriva come succo, purea o confettura e non fresco.",
+      "p3": "L'arbusto è dioico: piante maschili e femminili sono separate, e solo le femminili fruttificano, per cui un popolamento fitto sulla riva può essere sterile per metà.",
+      "p4": "<strong>La conclusione per chi viaggia: l'olivello spinoso fresco è raro anche in Finlandia, ma il succo è in ogni supermercato.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamina C",
+      "headline": "Perché i finlandesi lo chiamano il loro agrume.",
+      "lead": "L'olivello spinoso è una delle bacche più ricche di vitamina C che crescono spontanee in Finlandia: circa 100–400 milligrammi per 100 grammi di bacche, secondo la banca dati nazionale sulla composizione degli alimenti.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "di vitamina C per 100 g di bacche di olivello spinoso, secondo la banca dati Fineli come citata dall'associazione Arktiset Aromit"
+        },
+        {
+          "value": "Sett–ott",
+          "label": "la finestra del raccolto selvatico sulla costa botnica"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "l'areale selvatico lungo il golfo di Botnia, più le isole Åland"
+        }
+      ],
+      "p2": "Niente di tutto questo ne fa una medicina, e la legge finlandese è severa su ciò che un alimento può dichiarare. Prenda i numeri per quello che sono: una spiegazione del perché un bicchierino di questo succo sa di quello che sa."
+    },
+    "products": {
+      "kicker": "Succo, confettura, dessert",
+      "headline": "Come la Finlandia usa la sua bacca più acida.",
+      "lead": "Nessuno mangia una ciotola di olivello spinoso. Tutti hanno bevuto il succo, e quasi tutto oggi viene da arbusti coltivati: il rapporto dell'Autorità alimentare finlandese sul commercio delle bacche annota che le vendite di olivello spinoso selvatico sono quasi del tutto cessate da quando la coltivazione ha preso il sopravvento.",
+      "items": [
+        {
+          "title": "Succo di olivello spinoso",
+          "body": "Tyrnimehu: spremuto, zuccherato e di solito diluito, bevuto in bicchierini. La versione da supermercato è il modo in cui la maggior parte dei finlandesi incontra la bacca; la versione spremuta fresca in fattoria è più tagliente e più densa."
+        },
+        {
+          "title": "Confettura e purea",
+          "body": "Cotta con lo zucchero, l'acidità diventa qualcosa di più vicino a una marmellata. Spalmata sul pane di segale, a cucchiaiate sul porridge o servita con il formaggio."
+        },
+        {
+          "title": "Nel menu dei dessert",
+          "body": "I menu degustazione della Lapponia e di Helsinki usano l'olivello spinoso come il loro limone: un sorbetto tra le portate, una crema sotto il cioccolato bianco, una salsa tagliente accanto al pesce artico grasso."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove assaggiarlo",
+      "headline": "Incontrare il tyrni in Finlandia.",
+      "lead": "L'arbusto non lo troverà sulle montagne. La bacca la troverà nel bicchiere, nel vasetto e nel dessert, in tutto il Paese.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "La costa di Tornio e Kemi",
+          "body": "L'estremità nord dell'areale selvatico è la riva della Lapponia marittima. Cerchi arbusti fitti verde argento sulle spiagge sassose; a settembre sono inconfondibili."
+        },
+        {
+          "n": "02",
+          "title": "Qualsiasi supermercato finlandese",
+          "body": "Succo, purea e confettura di olivello spinoso sono prodotti comuni. Il reparto surgelati ha spesso un sacchetto di bacche, il modo più semplice per portare la bacca a casa."
+        },
+        {
+          "n": "03",
+          "title": "I menu dei dessert",
+          "body": "Chieda la portata all'olivello spinoso. Nei ristoranti di alta cucina della Lapponia compare come sorbetto, crema o salsa più spesso di qualsiasi altra bacca tranne la mora artica."
+        }
+      ],
+      "gygCta": "Sfogli le uscite di raccolta su GetYourGuide",
+      "diningCta": "Veda la guida al fine dining"
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "Impari a raccogliere",
+          "body": "Diritto di accesso alla natura, cosa portare e come raccogliere senza danneggiare una pianta: la guida alla raccolta.",
+          "cta": "Guida alla raccolta"
+        },
+        {
+          "title": "Le altre bacche",
+          "body": "Mora artica, mirtillo rosso e mirtillo nero hanno ciascuno la propria guida, con stagioni, sapore e dove trovarli.",
+          "cta": "Tutte le bacche finlandesi"
+        },
+        {
+          "title": "Si fermi sulla costa",
+          "body": "Tornio e Kemi sono le città costiere della Lapponia, una base comoda per passeggiate sulla riva a settembre.",
+          "cta": "Sfogli gli alloggi a Tornio"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Cucina sami: ricette tradizionali di Lapponia",
     "description": "Quattro piatti della cucina sami: stufato di renna bidos, pane gahkku, zuppa di pesce di Sápmi e kissel di bacche. Ricette e il calendario delle otto stagioni.",
@@ -774,6 +1407,24 @@
       "tours": "Esperienze culinarie",
       "ingredients": "Ingredienti locali",
       "modern": "Interpretazioni moderne"
+    },
+    "faq": {
+      "kicker": "La cucina sami, in breve",
+      "headline": "Tre domande che si fanno sulla cucina sami.",
+      "items": [
+        {
+          "question": "Che cos'è la cucina sami?",
+          "answer": "La cucina sami è la cucina del popolo indigeno del Sápmi, la terra dei sami che si estende sul nord di Finlandia, Svezia, Norvegia e Russia. Si fonda sulla renna, di cui si usa ogni parte, sul pesce di lago e di fiume, sulle bacche e le erbe selvatiche e su metodi lenti: bollitura, affumicatura a freddo, essiccazione e salatura. Le ricette di questa pagina sono le versioni casalinghe."
+        },
+        {
+          "question": "Che cosa mangiano i sami oggi?",
+          "answer": "Gli stessi ingredienti, su una normale tavola di tutti i giorni: stufato di renna o renna saltata con le patate, zuppa di pesce, renna essiccata e affumicata, pane piatto, bacche con il porridge. Le famiglie sami di oggi fanno la spesa al supermercato come tutti, e i piatti tradizionali escono per le feste, i matrimoni e la macellazione d'autunno."
+        },
+        {
+          "question": "Che cos'è il bidos?",
+          "answer": "Il bidos è lo stufato sami di renna: spalla o stinco a pezzi, rosolati e cotti a fuoco lento con patate, carote e cipolla finché la carne si sfalda. È il piatto delle celebrazioni, servito ai matrimoni e alle riunioni, e la prima ricetta di questa pagina."
+        }
+      ]
     }
   },
   "modernLapland": {

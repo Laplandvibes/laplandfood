@@ -3,12 +3,20 @@
     "home": "Etusivu",
     "ingredients": "Raaka-aineet",
     "cloudberry": "Hilla",
+    "berries": "Marjat",
     "recipes": "Reseptit",
     "modern": "Nykypäivä",
     "foraging": "Keräily",
     "michelin": "Michelin",
     "foodTours": "Ruokaretket",
     "about": "Tietoa"
+  },
+  "berries": {
+    "allBerries": "Kaikki Suomen marjat",
+    "bilberry": "Mustikka",
+    "lingonberry": "Puolukka",
+    "seaBuckthorn": "Tyrni",
+    "readGuide": "Lue koko opas"
   },
   "ariaHome": "LaplandFood-etusivu",
   "ariaMain": "Päänavigaatio",

@@ -3,12 +3,20 @@
     "home": "홈",
     "ingredients": "식재료",
     "cloudberry": "클라우드베리",
+    "berries": "베리",
     "recipes": "레시피",
     "modern": "모던",
     "foraging": "채집",
     "michelin": "미슐랭",
     "foodTours": "푸드 투어",
     "about": "소개"
+  },
+  "berries": {
+    "allBerries": "핀란드 베리 전체",
+    "bilberry": "빌베리",
+    "lingonberry": "링곤베리",
+    "seaBuckthorn": "씨벅톤",
+    "readGuide": "전체 가이드 읽기"
   },
   "ariaHome": "LaplandFood 홈으로",
   "ariaMain": "주 메뉴",

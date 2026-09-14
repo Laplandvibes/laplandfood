@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Finska bär: hjortron, blåbär, lingon och havtorn",
+    "description": "De fyra vilda bär som definierar finsk mat: hur vart och ett smakar, när det mognar, var det växer och hur du plockar det med allemansrätten.",
+    "hero": {
+      "eyebrow": "Bärguiden",
+      "title": "Fyra bär, en",
+      "titleHighlight": "kort sommar.",
+      "subtitle": "Finlands skogar och stränder ger fler vilda bär än hela landet någonsin skulle hinna plocka. De här fyra formar det finska köket. Vart och ett har sin egen guide.",
+      "primaryCta": "Läs plockguiden",
+      "secondaryCta": "Alla Lapplands råvaror"
+    },
+    "intro": {
+      "lead": "Hjortron, blåbär, lingon och havtorn mognar efter varandra från juli till oktober. Tillsammans är de det finska skafferiets sötma, syra och färg.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Alla vilda",
+          "body": "Inget av de fyra odlas i någon nämnvärd skala i Finland. Hela utbudet, från kaféets paj till mataffärens saft, börjar med att någon plockar."
+        },
+        {
+          "n": "02",
+          "title": "Fria att plocka",
+          "body": "Allemansrätten låter vem som helst, ortsbo eller besökare, plocka vilda bär på det mesta av marken utan att fråga. Reglerna handlar om respekt, inte om tillstånd."
+        },
+        {
+          "n": "03",
+          "title": "En stege av säsonger",
+          "body": "Hjortron öppnar säsongen på myrarna i juli, blåbär fyller augusti, och lingon och havtorn bär den in i oktober."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "De fyra guiderna",
+      "headline": "Välj ett bär.",
+      "lead": "Varje guide svarar på samma frågor: smak, säsong, rätten att plocka, vad bäret är värt och var du möter det.",
+      "cards": [
+        {
+          "name": "Hjortron",
+          "latin": "Rubus chamaemorus",
+          "season": "Mitten av juli till mitten av augusti",
+          "body": "Myrens bärnstensfärgade bär som ingen kan odla. Fyra veckor om året, handplockat, prissatt som en delikatess.",
+          "cta": "Hjortronguiden"
+        },
+        {
+          "name": "Blåbär",
+          "latin": "Vaccinium myrtillus",
+          "season": "Slutet av juli till september",
+          "body": "Finlands vilda blåbär: lila rakt igenom, plockas hinkvis och bakas in i varenda augustipaj.",
+          "cta": "Blåbärsguiden"
+        },
+        {
+          "name": "Lingon",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Slutet av augusti till oktober",
+          "body": "Det syrliga röda bäret bredvid varje rentallrik. Håller sig i burken utan socker och blir sötare efter frost.",
+          "cta": "Lingonguiden"
+        },
+        {
+          "name": "Havtorn",
+          "latin": "Hippophaë rhamnoides",
+          "season": "September till oktober",
+          "body": "Bottenvikskustens sura orange bär, plockat bland taggar och drucket som saft.",
+          "cta": "Havtornsguiden"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Säsong för säsong",
+      "headline": "När varje bär är moget.",
+      "items": [
+        {
+          "period": "Juli",
+          "title": "Hjortron",
+          "body": "Öppna myrar under midnattssolen, ett plockfönster på ungefär tre veckor från mitten av juli."
+        },
+        {
+          "period": "Augusti",
+          "title": "Blåbär",
+          "body": "Skogsris överallt: månaden då Finland fyller sina frysar."
+        },
+        {
+          "period": "September",
+          "title": "Lingon",
+          "body": "Torra tallhedar; de första frostnätterna gör bären sötare."
+        },
+        {
+          "period": "September–oktober",
+          "title": "Havtorn",
+          "body": "Bottenvikens steniga stränder, norrut ända till Torneå."
+        },
+        {
+          "period": "Från november",
+          "title": "Ur burken",
+          "body": "Sylt, saft, frysta bär och kräm bär säsongen genom vintern."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Fortsätt",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Lär dig plocka",
+          "body": "Allemansrätten, svampsäkerhet och kalendern månad för månad: den praktiska sidan av att plocka själv.",
+          "cta": "Plockguiden"
+        },
+        {
+          "title": "Laga bären",
+          "body": "Kräm på vilda bär och de andra traditionella recepten, med metoden utskriven.",
+          "cta": "Traditionella recept"
+        },
+        {
+          "title": "Stanna över säsongen",
+          "body": "Juli till september är bärsäsong i hela Lappland. Rovaniemi fungerar bra som bas för skogsdagar.",
+          "cta": "Se boenden i Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Lingon: Finlands vardagliga vilda bär",
+    "description": "Hur lingon smakar, när den finska säsongen pågår, varför de håller sig utan socker, hur de skiljer sig från tranbär och var du äter dem i Lappland.",
+    "hero": {
+      "eyebrow": "Bärguiden · Lingon",
+      "title": "Lingon, bäret som",
+      "titleHighlight": "konserverar sig självt.",
+      "subtitle": "Puolukka är det röda bäret bredvid varje tallrik renskav, och det som finska familjer plockar hinkvis. Här är hur det smakar, varför det håller sig i burken utan socker och hur det skiljer sig från tranbäret det förväxlas med.",
+      "primaryCta": "Lär dig plocka det",
+      "secondaryCta": "Alla finska bär",
+      "pills": [
+        "Smak",
+        "Säsong",
+        "Rätten att plocka",
+        "Lingon eller tranbär",
+        "Vad det är värt",
+        "Sylt och rårörda",
+        "Var du smakar det"
+      ]
+    },
+    "intro": {
+      "lead": "Lingon täcker Finlands torra tallskogar varje höst i mängder som ingen skulle kunna plocka. De få som plockas hamnar i burkar, på gröten och bredvid renen.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Mer än någon hinner plocka",
+          "body": "Finlands vilda lingonskörd uppgår till hundratals miljoner kilo om året, och enligt branschföreningen Arktiset Aromits uppskattning plockas bara 3 till 10 procent av den. Resten föder fåglar, björnar och nästa års jord."
+        },
+        {
+          "n": "02",
+          "title": "Det konserverar sig självt",
+          "body": "Lingon innehåller naturlig bensoesyra, och därför håller sig en burk rårörda bär i ett svalt skafferi utan socker, värme eller tillsatser. Det är den ursprungliga finska konserven."
+        },
+        {
+          "n": "03",
+          "title": "Det röda på varje rentallrik",
+          "body": "Poronkäristys, renskav på potatismos, serveras inte utan en sked lingon. Syran är det som får det feta köttet att fungera."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Första frågan först",
+      "headline": "Hur smakar lingon?",
+      "answer": "Syrligt, lätt beskt och knappt sött, med en ren, torr eftersmak och inget av hjortronets mysk: tänk tranbär med sockret nedskruvat och lite mer beska. Rått får ett enda bär dig att grimasera; rört i något varmt, salt eller mjölkigt blir samma syra själva poängen.",
+      "p2": "Frost hjälper. Bär plockade efter septembers första frostnätter är märkbart mildare och sötare än augustibär, och finska plockare lägger sina turer därefter. Fullt mogna bär är djupröda hela vägen runt; en blek sida betyder att det behöver en vecka till.",
+      "p3": "Du får sällan lingon serverade ensamma. De kommer som tillbehör: rårörda med lite socker bredvid renskav eller köttbullar, vispade till <em>vispipuuro</em>, den rosa mannagrynsgröt som varje finskt barn känner till, eller skedade över varm gröt med mjölk."
+    },
+    "season": {
+      "kicker": "Slutet av augusti till oktober",
+      "headline": "Den långa, förlåtande säsongen.",
+      "lead": "Till skillnad från hjortron väntar lingonen på dig. Säsongen öppnar i slutet av augusti och bären hänger kvar på riset in i oktober och blir sötare för varje frost.",
+      "phases": [
+        {
+          "period": "Slutet av augusti",
+          "title": "De första röda",
+          "body": "Bären går från vitgrönt till rött på sydvända tallhedar först. Tidiga bär är de beskaste; de flesta plockare låter dem hänga en vecka eller två till."
+        },
+        {
+          "period": "September",
+          "title": "Huvudskörden",
+          "body": "Svala nätter, torra dagar och de första frostnätterna: då går familjerna ut med hinkar. Bären är fasta, helt röda och lätta att repa av riset."
+        },
+        {
+          "period": "Oktober",
+          "title": "Efter frosten",
+          "body": "Frostsötade bär håller sig fina på plantan fram till den första bestående snön. Några av årets bästa lingon plockas under oktobers sista milda dagar."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Allemansrätten",
+      "headline": "Plocka så mycket du orkar bära.",
+      "p1": "Finlands allemansrätt, <em>jokamiehenoikeus</em>, låter vem som helst plocka vilda bär på mark som inte odlas, privat skog inräknad, utan tillstånd och utan markägarens lov. Lingon är bäret som den här rätten praktiskt taget är gjord för: rikligt, tåligt och inte på någons skyddslista.",
+      "p2": "Etiketten är enkel. Håll dig borta från hus och trädgårdar, skada inte riset, och använd bärplockaren varsamt: kamplockaren är laglig och vanlig i Finland, men ett vårdslöst drag sliter av nästa års tillväxt.",
+      "ctaPrimary": "Läs alla regler för plockning",
+      "ctaSecondary": "Se bärrecepten"
+    },
+    "versus": {
+      "kicker": "Lingon eller tranbär",
+      "headline": "Samma släkte, en annan myr.",
+      "p1": "Lingon och tranbär är nära släktingar i släktet <em>Vaccinium</em>, och utomlands byts namnen ofta om. I Finland är de två olika bär från två olika platser: lingon växer på torra tallhedar, tranbär på blöta myrar.",
+      "p2": "På tallriken är skillnaden storlek och skärpa. Ett lingon är litet, fast och jämnt syrligt med en besk ton; det vilda finska tranbäret, <em>karpalo</em>, är större, mjukare och ännu surare, och det odlade amerikanska tranbäret i mataffärens juice är större igen och mildare.",
+      "p3": "Rollerna i köket skiljer sig också. Tranbär behöver kokning och socker för att bli goda; lingon kan ätas rårörda, och därför är den finska lingonburken ofta inget annat än bär och lite socker.",
+      "p4": "<strong>Om ett recept utomlands vill ha tranbärssås till vilt, är lingon det nordiska originalet det härstammar från.</strong>"
+    },
+    "price": {
+      "kicker": "Vad det är värt",
+      "headline": "Billigt per kilo, ovärderligt i burken.",
+      "lead": "Lingon är Finlands vilda bär för stora volymer, och priset visar det. År 2025 tog uppköparna emot 9,5 miljoner kilo, mer än av något annat vilt bär, och betalade plockarna 1,90 euro per kilo, mot 13,85 euro för hjortron.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "betalades till plockarna per kilo lingon 2025, enligt finska Livsmedelsverkets Marsi-rapport"
+        },
+        {
+          "value": "9,5 miljoner kg",
+          "label": "lingon såldes till uppköpare 2025, den största volymen av alla finska vilda bär, enligt samma rapport"
+        },
+        {
+          "value": "3–10 %",
+          "label": "av lingon- och blåbärsskörden plockas ett normalt år, enligt branschföreningen Arktiset Aromits uppskattning"
+        }
+      ],
+      "p2": "Det mesta som plockas når aldrig handeln: det går direkt från hink till frys till familjens egen gröt. Den kommersiella skörden blir saft, sylt och frysta bär i varje finsk mataffär."
+    },
+    "products": {
+      "kicker": "Sylt, rårörda, gröt",
+      "headline": "Så äter Finland sina lingon.",
+      "lead": "Ett lingon äts sällan färskt. Det läggs in för vintern, och sedan dyker det upp till frukost, middag och efterrätt.",
+      "items": [
+        {
+          "title": "Rårörda lingon",
+          "body": "Puolukkasurvos: bär mosade med lite socker, inget annat. Tack vare bärets egen bensoesyra håller de sig i kylen eller ett kallt skafferi i månader. Det här är burken bredvid ren, köttbullar och lever."
+        },
+        {
+          "title": "Lingonsylt",
+          "body": "Den kokta versionen, sötare och slätare, är exportklassikern och den de flesta besökare känner igen från svenska möbelvaruhus. I Finland äts den till pannkakor, risgrynsgröt och varm gröt."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Rosa vispad gröt: lingonsaft redd med mannagryn och sedan vispad luftig, serverad kall med mjölk. En skolmatsefterrätt som vuxna fortfarande beställer."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Var du smakar det",
+      "headline": "Så möter du puolukka i Lappland.",
+      "lead": "Lingon är ingen delikatess du behöver jaga. Det är standardtillbehöret, och i september finns det överallt.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Bredvid renen",
+          "body": "Beställ poronkäristys, renskav, var som helst i Lappland så kommer lingonen med. På restauranger som gör sina egna är bären rårörda och fortfarande syrliga."
+        },
+        {
+          "n": "02",
+          "title": "På frukostbordet",
+          "body": "Hotellfrukostar över hela Lappland ställer lingonsylten bredvid gröten och pannkakorna. Det är det vardagligaste sättet att möta bäret."
+        },
+        {
+          "n": "03",
+          "title": "Din egen hink",
+          "body": "Från slutet av augusti ger en promenad i vilken torr tallskog som helst lingon vid dina fötter. En guidad plocktur lär dig plockaren, frostknepet och de bra hedarna."
+        }
+      ],
+      "gygCta": "Bläddra bland plockturer på GetYourGuide",
+      "diningCta": "Se fine dining-guiden"
+    },
+    "nextSteps": {
+      "kicker": "Fortsätt",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Lär dig plocka",
+          "body": "Allemansrätten, säkerhet och vad du ska ha med: plockguiden täcker den praktiska sidan av att plocka själv.",
+          "cta": "Plockguiden"
+        },
+        {
+          "title": "De andra bären",
+          "body": "Hjortron, blåbär och havtorn får var sin guide, med säsonger, smak och var du hittar dem.",
+          "cta": "Alla finska bär"
+        },
+        {
+          "title": "Stanna över säsongen",
+          "body": "September är tyst, billigt och lingonrött i Lappland. Rovaniemi fungerar bra som bas för skogsdagar.",
+          "cta": "Se boenden i Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Blåbär: Finlands vilda blåbär",
+    "description": "Varför det finska skogsblåbäret inte är ett odlat blåbär, hur det smakar, när Lapplands säsong toppar, vad plockarna får betalt och hur du äter det från paj till soppa.",
+    "hero": {
+      "eyebrow": "Bärguiden · Blåbär",
+      "title": "Blåbär, det blå som",
+      "titleHighlight": "färgar fingrarna.",
+      "subtitle": "Mustikka är bäret som nästan varje finländare har plockat, det som färgar en hel barndoms augusti, och det som besökare envisas med att kalla amerikanskt blåbär. Här är hur de skiljer sig, hur det smakar och var det växer i Lappland.",
+      "primaryCta": "Lär dig plocka det",
+      "secondaryCta": "Alla finska bär",
+      "pills": [
+        "Smak",
+        "Säsong",
+        "Rätten att plocka",
+        "Skogsblåbär eller odlat",
+        "Vad det är värt",
+        "Paj och soppa",
+        "Var du smakar det"
+      ]
+    },
+    "captions": {
+      "taste": "Blåbär plockade i skogen i Salla, augusti 2026",
+      "versus": "Ett moget blåbär mellan två fingrar, Salla, augusti 2026"
+    },
+    "intro": {
+      "lead": "Blåbäret är den finska skogens rikligaste mat, och det som de flesta faktiskt har plockat. Ett gott år mäts skörden i hundratals miljoner kilo.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Vilt, inte odlat",
+          "body": "Varje finskt blåbär är vilt. Det växer på knähöga ris under tallar och granar i hela landet, från Helsingfors parker till Lapplands fjäll. Ingen planterar det."
+        },
+        {
+          "n": "02",
+          "title": "Blått rakt igenom",
+          "body": "Skär ett skogsblåbär och det är lila inuti; skär ett odlat blåbär från affären och det är blekgrönt. Färgämnet som färgar händer och tunga är det enklaste sättet att skilja dem åt."
+        },
+        {
+          "n": "03",
+          "title": "Plockas också för brödfödan",
+          "body": "Kommersiella plockare sålde 6,8 miljoner kilo blåbär till uppköpare 2025 och tjänade 16 miljoner euro, rapporterar finska Livsmedelsverket. Ändå plockas enligt branschens uppskattning bara 3 till 10 procent av skörden."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Första frågan först",
+      "headline": "Hur smakar blåbär?",
+      "answer": "Sötare och mjukare än tranbär, skarpare och vildare än ett odlat blåbär: skogsblåbäret är saftigt, tunnskaligt och intensivt färgat, med ett blommigt, lätt strävt djup som det odlade bäret inte har. Ät en näve direkt från riset och fingrar, läppar och tunga blir lila.",
+      "p2": "Mognaden är lätt att läsa. Ett moget blåbär är dammigt mörkblått och lossnar vid minsta drag; ett bär som gör motstånd är en dag eller två för tidigt. Solvarma bär från en öppen glänta smakar sötast; skuggbär från djup granskog är större och saftigare.",
+      "p3": "I köket bär smaken igenom allt: <em>mustikkapiirakka</em>, blåbärspaj, <em>mustikkakeitto</em>, blåbärssoppa, en sked på morgongröten eller på <em>viili</em>, filmjölk, och i Lappland den klassiska kombinationen blåbär och ren."
+    },
+    "season": {
+      "kicker": "Slutet av juli till september",
+      "headline": "Augusti tillhör blåbäret.",
+      "lead": "I södra Finland mognar de första blåbären i juli. I Lappland är säsongen senare och kortare, och augusti är månaden.",
+      "phases": [
+        {
+          "period": "Slutet av juli",
+          "title": "De första blå",
+          "body": "Soliga sluttningar och gläntor mognar först. I Lappland är det här smakveckorna: nog för en näve på en promenad, ännu inte för en hink."
+        },
+        {
+          "period": "Augusti",
+          "title": "Toppen",
+          "body": "Skogarna är fulla. Familjer plockar hinkvis, frysarna fylls, och varje kafé i Lappland har en blåbärspaj på disken. Långa, ljusa kvällar gör det här till plockårets enklaste månad."
+        },
+        {
+          "period": "September",
+          "title": "De sista",
+          "body": "Bären mjuknar och faller och riset blir rött. Det som finns kvar är sött, och plockarna har gått över till lingon och svamp på samma turer."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Allemansrätten",
+      "headline": "Vem som helst får plocka. Ja, du också.",
+      "p1": "Finlands allemansrätt, <em>jokamiehenoikeus</em>, täcker blåbär helt: varje besökare får plocka dem på mark som inte odlas, privatägd skog inräknad, utan tillstånd och utan att fråga. Kommersiella plockare arbetar under samma rätt.",
+      "p2": "Bärplockare är vanliga och lagliga; använd den varsamt så att riset inte slits sönder. Håll dig borta från hus och trädgårdar, och lämna skogen som du fann den.",
+      "ctaPrimary": "Läs alla regler för plockning",
+      "ctaSecondary": "Se bärrecepten"
+    },
+    "versus": {
+      "kicker": "Skogsblåbär eller odlat blåbär",
+      "headline": "Inte samma bär.",
+      "p1": "Skogsblåbäret, <em>Vaccinium myrtillus</em>, och det odlade amerikanska blåbäret, <em>Vaccinium corymbosum</em>, är kusiner, och på de flesta språk, finska inräknat, kallas båda blåbär. På tallriken är de olika frukter.",
+      "p2": "Skogsblåbär växer ett och ett på låga ris och är små, mörka och lila rakt igenom. Odlade blåbär växer i klasar på höga buskar förädlade för odling, är större och fastare och förblir bleka inuti eftersom färgen bara sitter i skalet.",
+      "p3": "Den skillnaden är skälet till att en finsk blåbärspaj blöder lila medan en blåbärsmuffin inte gör det, och till att frysta vilda blåbär är värda att leta efter i butiker utomlands: smaken är koncentrerad på ett sätt som det odlade bäret aldrig når.",
+      "p4": "<strong>Om du ser en finsk meny översatt till blueberry betyder det skogsblåbär. I Lappland är det blå bäret på tallriken det vilda.</strong>"
+    },
+    "price": {
+      "kicker": "Vad det är värt",
+      "headline": "Finlands kommersiellt viktigaste vilda bär.",
+      "lead": "Så beskriver finska Livsmedelsverket självt blåbäret de senaste åren. År 2025 tjänade plockarna 16 miljoner euro på det, till 2,39 euro per kilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "betalades till plockarna per kilo blåbär 2025, enligt finska Livsmedelsverkets Marsi-rapport"
+        },
+        {
+          "value": "16 miljoner €",
+          "label": "i plockinkomster från blåbär i Finland 2025, enligt samma rapport"
+        },
+        {
+          "value": "3–10 %",
+          "label": "av blåbärs- och lingonskörden plockas ett normalt år, enligt branschföreningen Arktiset Aromits uppskattning"
+        }
+      ],
+      "p2": "Det mesta av den kommersiella skörden fryses och exporteras, en stor del för att förädlas någon annanstans. Bären du möter på ett kafé i Lappland kommer från en kortare kedja: någons morgon i skogen, ofta kaféägarens."
+    },
+    "products": {
+      "kicker": "Paj, soppa, gröt",
+      "headline": "Så äter Finland sina blåbär.",
+      "lead": "Färska nävvis i augusti, och ur frysen de andra elva månaderna.",
+      "items": [
+        {
+          "title": "Blåbärspaj",
+          "body": "Mustikkapiirakka: en mjuk paj, ofta med havretäcke, där bären gräddas med tills de blöder. Varje finskt kafé har en i augusti, och de bra smakar skog snarare än socker."
+        },
+        {
+          "title": "Blåbärssoppa",
+          "body": "Mustikkakeitto: bär sjudna med lite socker och redda med potatismjöl, serverad varm eller kall, för sig själv eller över gröt. Också skidåkarens dryck, hälld het ur termosen i spåret."
+        },
+        {
+          "title": "Till ren",
+          "body": "På Lapplands restauranger står en blåbärsreduktion eller mjölksyrade blåbär bredvid renfilén. Syran skär igenom fettet; färgen sköter resten."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Var du smakar det",
+      "headline": "Så möter du mustikka i Lappland.",
+      "lead": "I augusti behöver du inte leta. Utanför säsongen bär pajen och soppan bäret genom året.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Vilken skog som helst, vilken augusti som helst",
+          "body": "Kliv av en markerad led nära Rovaniemi, Levi eller Saariselkä så finns riset vid dina fötter. En guidad tur lägger till de bra ställena och säkerhetsgenomgången."
+        },
+        {
+          "n": "02",
+          "title": "Kafédiskar",
+          "body": "Blåbärspaj med vaniljsås är standardbeställningen på ett kafé i Lappland på sensommaren. Fråga om bären plockades lokalt; i augusti är svaret oftast ja."
+        },
+        {
+          "n": "03",
+          "title": "Avsmakningsmenyer",
+          "body": "Lapplands fine dining-kök använder blåbär i syrad, fryst och reducerad form året om. Se restaurangerna i matguiden."
+        }
+      ],
+      "gygCta": "Bläddra bland plockturer på GetYourGuide",
+      "diningCta": "Se fine dining-guiden"
+    },
+    "nextSteps": {
+      "kicker": "Fortsätt",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Lär dig plocka",
+          "body": "Allemansrätten, svampsäkerhet och vad du ska ha med: plockguiden täcker den praktiska sidan.",
+          "cta": "Plockguiden"
+        },
+        {
+          "title": "De andra bären",
+          "body": "Hjortron, lingon och havtorn får var sin guide, med säsonger, smak och var du hittar dem.",
+          "cta": "Alla finska bär"
+        },
+        {
+          "title": "Stanna över säsongen",
+          "body": "Augusti i Lappland är varm, ljus och blå under fötterna. Rovaniemi fungerar bra som bas för skogsdagar.",
+          "cta": "Se boenden i Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Havtorn: Finlands suraste bär",
+    "description": "Hur havtorn smakar, var det växer vilt vid Finlands bottniska kust, när det mognar, varför det plockas bland taggar och hur finländare dricker och lagar det.",
+    "hero": {
+      "eyebrow": "Bärguiden · Havtorn",
+      "title": "Havtorn, orange eld",
+      "titleHighlight": "från stranden.",
+      "subtitle": "Tyrni växer inte alls i inlandet i Lappland. Det växer på Bottniska vikens steniga stränder, norrut ända till Lapplands kust vid Torneå, och det är det suraste bäret i det finska skafferiet och ett av de C-vitaminrikaste. Här är var det lever, hur det smakar och varför det är så svårt att plocka.",
+      "primaryCta": "Lär dig plocka det",
+      "secondaryCta": "Alla finska bär",
+      "pills": [
+        "Smak",
+        "Säsong",
+        "Rätten att plocka",
+        "Därför taggarna",
+        "C-vitamin",
+        "Saft och sylt",
+        "Var du smakar det"
+      ]
+    },
+    "intro": {
+      "lead": "Havtorn är den udda fågeln bland finska bär: en kustbuske, en taggtäckt skörd och en smak så skarp att nästan ingen äter den som den är.",
+      "points": [
+        {
+          "n": "01",
+          "title": "En strandväxt, inte en skogsväxt",
+          "body": "Vild havtorn växer på Bottniska vikens klipp- och stenstränder, från Nystads skärgård norrut till Torneå, och på Åland. Lapplands inland har ingen; kusten vid Torneå och Kemi är dess nordgräns."
+        },
+        {
+          "n": "02",
+          "title": "Sur med flit",
+          "body": "Bären är intensivt sura, lätt beska och svagt oljiga, med en ton av passionsfrukt och aprikos under. Finländare dricker den utspädd, sötad eller vänd i efterrätt, sällan nävvis."
+        },
+        {
+          "n": "03",
+          "title": "Rik på C-vitamin",
+          "body": "Finska livsmedelsdatabasen anger ungefär 100 till 400 milligram C-vitamin per 100 gram havtornsbär, vilket är skälet till att finländare ser den som sin egen citrusfrukt."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Första frågan först",
+      "headline": "Hur smakar havtorn?",
+      "answer": "Skarpt. Ett moget havtornsbär är surt som en citron, med en besk, lätt oljig kant och, när chocken lagt sig, en tropisk ton någonstans mellan passionsfrukt och aprikos. Saften är tjock och klart orange och färgar allt den rör vid.",
+      "p2": "Den syran är skälet till att bäret nästan aldrig äts som det är. Det späds till saft, sötas till sylt, fryses till sorbet, eller används av kockar som en citron används: en sked havtorn skär igenom grädde, vit choklad, fet fisk och kraftig ren.",
+      "p3": "Frost mildrar det inte mycket. Bären smakar ungefär likadant i oktober som i september; det som ändras är hur lätt de lossnar från den taggiga grenen, vilket är plockarens verkliga problem."
+    },
+    "season": {
+      "kicker": "September till oktober",
+      "headline": "Moget när kusten blir grå.",
+      "lead": "Vild havtorn mognar i september och oktober, när sommaren för länge sedan lämnat den bottniska kusten och bären är det klaraste på stranden.",
+      "phases": [
+        {
+          "period": "Sensommar",
+          "title": "Blir orange",
+          "body": "De gröna bären får färg under augusti. Buskarna, täta och silverbladiga, är lätta att se från strandstigen; frukten är ännu inte värd taggarna."
+        },
+        {
+          "period": "September",
+          "title": "Skörden börjar",
+          "body": "Bären är helt orange, saftiga och sura. Odlare klipper fruktbärande grenar och fryser dem så att bären kan skakas av; vildplockare pressar eller nyper dem på plats, långsamt."
+        },
+        {
+          "period": "Oktober",
+          "title": "Sena bär",
+          "body": "Mogna bär sitter kvar på grenarna långt in på hösten. Efter de första hårda frostnätterna lossnar de lättare, och några plockare väntar på just det."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Allemansrätten",
+      "headline": "Vilda buskar ja, trädgårdar nej.",
+      "p1": "Allemansrätten täcker vild havtorn som vilket annat vilt bär som helst: plockning är tillåten på strand som inte odlas, privat strandlinje inräknad, så länge du håller dig borta från hus och gårdar. Odlad havtorn på gårdar och i trädgårdar är förbjuden.",
+      "p2": "Två varningar. Klipp eller bryt inte grenar för att komma åt bären; det är att skada en växt, vilket rätten inte tillåter. Och ha handskar: taggarna är långa, hårda och överallt.",
+      "ctaPrimary": "Läs alla regler för plockning",
+      "ctaSecondary": "Se bärrecepten"
+    },
+    "versus": {
+      "kicker": "Därför taggarna",
+      "headline": "Bäret som slår tillbaka.",
+      "p1": "Havtornsbär sitter tätt packade längs grenarna, vart och ett så hårt fäst att det oftast spricker när man drar. Mellan bären sitter taggar på flera centimeter. Att plocka ens en liten korg för hand kräver tålamod och tjocka handskar.",
+      "p2": "Kommersiella odlare löser det med kyla. De klipper fruktbärande grenar och fryser dem; frysta bär knäpps av rent och går direkt till pressen. Det är också därför det mesta av havtornet når dig som saft, puré eller sylt snarare än färskt.",
+      "p3": "Busken är tvåbyggare: han- och honplantor är skilda, och bara honorna bär frukt, vilket är skälet till att ett tätt bestånd på stranden kan vara till hälften ofruktsamt.",
+      "p4": "<strong>Slutsatsen för en resenär: färsk havtorn är sällsynt även i Finland, men saften finns i varje mataffär.</strong>"
+    },
+    "price": {
+      "kicker": "C-vitamin",
+      "headline": "Därför kallar finländare det sin citrus.",
+      "lead": "Havtorn är ett av de C-vitaminrikaste bären som växer vilt i Finland: ungefär 100 till 400 milligram per 100 gram bär, enligt den nationella livsmedelsdatabasen.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "C-vitamin per 100 g havtornsbär, enligt databasen Fineli så som branschföreningen Arktiset Aromit citerar den"
+        },
+        {
+          "value": "Sept–okt",
+          "label": "fönstret för den vilda skörden vid den bottniska kusten"
+        },
+        {
+          "value": "Nystad – Torneå",
+          "label": "den vilda utbredningen längs Bottniska viken, plus Åland"
+        }
+      ],
+      "p2": "Inget av det här gör det till medicin, och finsk lag är sträng med vad ett livsmedel får påstå. Ta siffrorna för vad de är: en förklaring till varför ett litet glas av saften smakar som det gör."
+    },
+    "products": {
+      "kicker": "Saft, sylt, efterrätt",
+      "headline": "Så använder Finland sitt suraste bär.",
+      "lead": "Ingen äter en skål havtorn. Alla har druckit saften, och nästan all kommer numera från odlade buskar: finska Livsmedelsverkets rapport om bärhandeln konstaterar att försäljningen av vild havtorn så gott som upphört sedan odlingen tog över.",
+      "items": [
+        {
+          "title": "Havtornssaft",
+          "body": "Tyrnimehu: pressad, sötad och oftast utspädd, drucken i små glas. Mataffärens version är hur de flesta finländare möter bäret; gårdens färskpressade är skarpare och tjockare."
+        },
+        {
+          "title": "Sylt och puré",
+          "body": "Kokt med socker blir syran till något närmare marmelad. Bres på rågbröd, skedas över gröt eller serveras till ost."
+        },
+        {
+          "title": "På efterrättsmenyn",
+          "body": "Lapplands och Helsingfors avsmakningsmenyer använder havtorn som sin citron: en sorbet mellan rätterna, en curd under vit choklad, en skarp sås till fet arktisk fisk."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Var du smakar det",
+      "headline": "Så möter du tyrni i Finland.",
+      "lead": "Busken hittar du inte på fjället. Bäret hittar du i glaset, burken och efterrätten, över hela landet.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Kusten vid Torneå och Kemi",
+          "body": "Den nordliga änden av den vilda utbredningen är Havslapplands strand. Leta efter täta silvergröna buskar på steniga stränder; i september är de omisskännliga."
+        },
+        {
+          "n": "02",
+          "title": "Vilken finsk mataffär som helst",
+          "body": "Havtornssaft, puré och sylt är vanliga dagligvaror. Frysdisken har ofta en påse bär, vilket är det enklaste sättet att ta med bäret hem."
+        },
+        {
+          "n": "03",
+          "title": "Efterrättsmenyer",
+          "body": "Fråga efter havtornsrätten. I Lapplands fine dining-salar dyker den upp som sorbet, curd eller sås oftare än något annat bär utom hjortron."
+        }
+      ],
+      "gygCta": "Bläddra bland plockturer på GetYourGuide",
+      "diningCta": "Se fine dining-guiden"
+    },
+    "nextSteps": {
+      "kicker": "Fortsätt",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Lär dig plocka",
+          "body": "Allemansrätten, vad du ska ha med och hur du plockar utan att skada en växt: plockguiden.",
+          "cta": "Plockguiden"
+        },
+        {
+          "title": "De andra bären",
+          "body": "Hjortron, lingon och blåbär får var sin guide, med säsonger, smak och var du hittar dem.",
+          "cta": "Alla finska bär"
+        },
+        {
+          "title": "Stanna vid kusten",
+          "body": "Torneå och Kemi är Lapplands kuststäder, en enkel bas för strandpromenader i september.",
+          "cta": "Se boenden i Torneå"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Samisk mat och traditionella Lapplandsrecept",
     "description": "Fyra rätter ur det samiska köket: bidos-rengryta, gahkku-bröd, Sápmi-fisksoppa och bärkräm. Fullständiga recept och de åtta årstidernas kalender.",
@@ -774,6 +1407,24 @@
       "tours": "Matlagningsupplevelser",
       "ingredients": "Lokala råvaror",
       "modern": "Moderna tolkningar"
+    },
+    "faq": {
+      "kicker": "Samisk mat i korthet",
+      "headline": "Tre frågor folk ställer om samisk mat.",
+      "items": [
+        {
+          "question": "Vad är samisk mat?",
+          "answer": "Samisk mat är urfolkets kök i Sápmi, samernas hemland i norra Finland, Sverige, Norge och Ryssland. Det bygger på ren, där varje del av djuret används, på sjö- och älvfisk, på vilda bär och örter och på långsamma metoder: kokning, kallrökning, torkning och saltning. Recepten på den här sidan är hemversionerna."
+        },
+        {
+          "question": "Vad äter samer i dag?",
+          "answer": "Samma råvaror, på ett vanligt vardagsbord: rengryta eller renskav med potatis, fisksoppa, torkad och rökt ren, tunnbröd, bär till gröten. Moderna samiska hushåll handlar i mataffären som alla andra, och de traditionella rätterna kommer fram vid fester, bröllop och höstens slakt."
+        },
+        {
+          "question": "Vad är bidos?",
+          "answer": "Bidos är den samiska rengrytan: bog eller lägg i bitar, brynt och långsamt sjudet med potatis, morot och lök tills köttet faller isär. Det är festrätten, som serveras på bröllop och sammankomster, och det första receptet på den här sidan."
+        }
+      ]
     }
   },
   "modernLapland": {

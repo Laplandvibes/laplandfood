@@ -3,12 +3,20 @@
     "home": "Hem",
     "ingredients": "Råvaror",
     "cloudberry": "Hjortron",
+    "berries": "Bär",
     "recipes": "Recept",
     "modern": "Modernt",
     "foraging": "Plockning",
     "michelin": "Michelin",
     "foodTours": "Matturer",
     "about": "Om oss"
+  },
+  "berries": {
+    "allBerries": "Alla finska bär",
+    "bilberry": "Blåbär",
+    "lingonberry": "Lingon",
+    "seaBuckthorn": "Havtorn",
+    "readGuide": "Läs hela guiden"
   },
   "ariaHome": "LaplandFood-startsida",
   "ariaMain": "Huvudnavigering",

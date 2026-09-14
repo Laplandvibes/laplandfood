@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Finnish Berries: Cloudberry, Bilberry, Lingonberry, Sea Buckthorn",
+    "description": "The four wild berries that define Finnish food: what each tastes like, when it ripens, where it grows and how to pick it under everyman's right.",
+    "hero": {
+      "eyebrow": "The berry guide",
+      "title": "Four berries, one",
+      "titleHighlight": "short summer.",
+      "subtitle": "Finland's forests and shores produce more wild berries than the whole country could ever pick. These four are the ones that shape the Finnish kitchen. Each has its own guide.",
+      "primaryCta": "Read the foraging guide",
+      "secondaryCta": "All Lapland ingredients"
+    },
+    "intro": {
+      "lead": "Cloudberry, bilberry, lingonberry and sea buckthorn ripen one after another from July to October. Together they are the Finnish larder's sweetness, sharpness and colour.",
+      "points": [
+        {
+          "n": "01",
+          "title": "All wild",
+          "body": "None of the four is farmed at any scale in Finland. The whole supply, from the café pie to the supermarket juice, starts with someone picking."
+        },
+        {
+          "n": "02",
+          "title": "Free to pick",
+          "body": "Everyman's right lets anyone, resident or visitor, pick wild berries on most land without asking. The rules are about respect, not permits."
+        },
+        {
+          "n": "03",
+          "title": "A ladder of seasons",
+          "body": "Cloudberries open the season on the bogs in July, bilberries fill August, and lingonberries and sea buckthorn carry it into October."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "The four guides",
+      "headline": "Pick a berry.",
+      "lead": "Each guide answers the same questions: taste, season, the right to pick, what it is worth and where to meet it.",
+      "cards": [
+        {
+          "name": "Cloudberry",
+          "latin": "Rubus chamaemorus",
+          "season": "Mid-July to mid-August",
+          "body": "The amber bog berry nobody can farm. Four weeks a year, picked by hand, priced like a delicacy.",
+          "cta": "Cloudberry guide"
+        },
+        {
+          "name": "Bilberry",
+          "latin": "Vaccinium myrtillus",
+          "season": "Late July to September",
+          "body": "Finland's wild blueberry: purple right through, picked by the bucket, baked into every August pie.",
+          "cta": "Bilberry guide"
+        },
+        {
+          "name": "Lingonberry",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Late August to October",
+          "body": "The tart red berry beside every reindeer plate. Keeps in a jar without sugar and sweetens after frost.",
+          "cta": "Lingonberry guide"
+        },
+        {
+          "name": "Sea buckthorn",
+          "latin": "Hippophaë rhamnoides",
+          "season": "September to October",
+          "body": "The sour orange berry of the Bothnian coast, picked from thorns and drunk as juice.",
+          "cta": "Sea buckthorn guide"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Season by season",
+      "headline": "When each berry is ripe.",
+      "items": [
+        {
+          "period": "July",
+          "title": "Cloudberry",
+          "body": "Open bogs under the midnight sun, a picking window of about three weeks from mid-July."
+        },
+        {
+          "period": "August",
+          "title": "Bilberry",
+          "body": "Forest shrubs everywhere: the month Finland fills its freezers."
+        },
+        {
+          "period": "September",
+          "title": "Lingonberry",
+          "body": "Dry pine heaths; the first frosts make the berries sweeter."
+        },
+        {
+          "period": "September–October",
+          "title": "Sea buckthorn",
+          "body": "Stony shores of the Gulf of Bothnia, north as far as Tornio."
+        },
+        {
+          "period": "November onwards",
+          "title": "From the jar",
+          "body": "Jam, juice, frozen berries and kissel carry the season through the winter."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Keep going",
+      "headline": "Where this leads.",
+      "items": [
+        {
+          "title": "Learn to forage",
+          "body": "Everyman's right, mushroom safety and the month-by-month calendar: the practical side of picking your own.",
+          "cta": "Foraging guide"
+        },
+        {
+          "title": "Cook the berries",
+          "body": "Wild-berry kissel and the other traditional recipes, with the method written out.",
+          "cta": "Traditional recipes"
+        },
+        {
+          "title": "Stay for the season",
+          "body": "July to September is berry season across Lapland. Rovaniemi makes a workable base for forest days.",
+          "cta": "Browse stays in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Lingonberry: Finland's Everyday Wild Berry",
+    "description": "What lingonberries taste like, when the Finnish season runs, why they keep without sugar, how they differ from cranberries and where to eat them in Lapland.",
+    "hero": {
+      "eyebrow": "The berry guide · Lingonberry",
+      "title": "Lingonberry, the berry that",
+      "titleHighlight": "keeps itself.",
+      "subtitle": "Puolukka is the red berry beside every plate of sautéed reindeer, and the one Finnish families pick by the bucket. Here is what it tastes like, why it keeps in a jar without sugar, and how it differs from the cranberry it gets mistaken for.",
+      "primaryCta": "Learn to forage it",
+      "secondaryCta": "All Finnish berries",
+      "pills": [
+        "Taste",
+        "Season",
+        "The right to pick",
+        "Lingonberry vs cranberry",
+        "What it's worth",
+        "Jam & sauce",
+        "Where to taste it"
+      ]
+    },
+    "intro": {
+      "lead": "Lingonberries carpet Finland's dry pine forests every autumn in quantities nobody could pick. The few that are picked end up in jars, on porridge and beside reindeer.",
+      "points": [
+        {
+          "n": "01",
+          "title": "More than anyone can pick",
+          "body": "Finland's wild lingonberry crop runs to hundreds of millions of kilos a year, and by the Arctic Flavours Association's estimate only 3 to 10 per cent of it is ever picked. The rest feeds birds, bears and next year's soil."
+        },
+        {
+          "n": "02",
+          "title": "It preserves itself",
+          "body": "Lingonberries carry natural benzoic acid, which is why a jar of raw crushed berries keeps in a cool larder without sugar, heat or additives. It is the original Finnish preserve."
+        },
+        {
+          "n": "03",
+          "title": "The red on every reindeer plate",
+          "body": "Poronkäristys, sautéed reindeer on mashed potato, is not served without a spoon of lingonberries. The sharpness is what makes the rich meat work."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "First question first",
+      "headline": "What does a lingonberry taste like?",
+      "answer": "Tart, slightly bitter and barely sweet, with a clean dry finish and none of the musk of a cloudberry: think of a cranberry with the sugar turned down and a little more bitterness. Raw, one berry makes you wince; stirred into something warm, savoury or dairy, the same tartness becomes the point.",
+      "p2": "Frost helps. Berries picked after the first night frosts of September are noticeably milder and sweeter than August ones, and Finnish pickers time their trips accordingly. Fully ripe berries are deep red all the way round; a pale side means it needs another week.",
+      "p3": "You will rarely be served lingonberries alone. They arrive as a side: raw crushed with a little sugar next to sautéed reindeer or meatballs, whipped into <em>vispipuuro</em>, the pink semolina porridge every Finnish child knows, or spooned over warm porridge with milk."
+    },
+    "season": {
+      "kicker": "Late August to October",
+      "headline": "The long, forgiving season.",
+      "lead": "Unlike cloudberries, lingonberries wait for you. The season opens in late August and the berries hang on the shrubs into October, sweetening with every frost.",
+      "phases": [
+        {
+          "period": "Late August",
+          "title": "First reds",
+          "body": "The berries turn from white-green to red on south-facing pine heaths first. Early berries are the most bitter; most pickers leave them a week or two longer."
+        },
+        {
+          "period": "September",
+          "title": "The main harvest",
+          "body": "Cool nights, dry days and the first frosts: this is when families go out with buckets. The berries are firm, fully red and easy to strip from the shrub."
+        },
+        {
+          "period": "October",
+          "title": "After the frosts",
+          "body": "Frost-sweetened berries stay good on the plant until the first lasting snow. Some of the year's best lingonberries are picked in the last mild days of October."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Everyman's right",
+      "headline": "Pick as many as you can carry.",
+      "p1": "Finland's <em>jokamiehenoikeus</em> lets anyone pick wild berries on uncultivated land, including private forest, without a permit or a landowner's permission. Lingonberries are the berry this right was practically made for: abundant, hardy and on nobody's protected list.",
+      "p2": "The etiquette is simple. Stay clear of houses and gardens, do not damage the shrubs, and use a berry picker gently: the comb-style scoop is legal and normal in Finland, but a careless swipe tears next year's growth.",
+      "ctaPrimary": "Read the full foraging rules",
+      "ctaSecondary": "See the berry recipes"
+    },
+    "versus": {
+      "kicker": "Lingonberry vs cranberry",
+      "headline": "The same family, a different bog.",
+      "p1": "Lingonberry and cranberry are close relatives in the <em>Vaccinium</em> genus, and abroad the names get swapped. In Finland they are two different berries from two different places: lingonberries grow on dry pine heaths, cranberries in wet bogs.",
+      "p2": "On the plate the difference is size and edge. A lingonberry is small, firm and evenly tart with a bitter note; the wild Finnish cranberry, <em>karpalo</em>, is larger, softer and sharper still, and the cultivated American cranberry in supermarket juice is bigger again and milder.",
+      "p3": "The kitchen roles differ too. Cranberries need cooking and sugar to be pleasant; lingonberries can be eaten raw crushed, which is why the Finnish lingonberry jar is often nothing but berries and a little sugar.",
+      "p4": "<strong>If a recipe abroad calls for cranberry sauce with game, lingonberry is the Nordic original it descends from.</strong>"
+    },
+    "price": {
+      "kicker": "What it's worth",
+      "headline": "Cheap by the kilo, priceless by the jar.",
+      "lead": "Lingonberry is Finland's high-volume wild berry, and its price shows it. In 2025 buyers took in 9.5 million kilos, more than of any other wild berry, and paid pickers 1.90 euros a kilo, against 13.85 euros for cloudberries.",
+      "facts": [
+        {
+          "value": "1.90 €",
+          "label": "paid to pickers per kilo of lingonberries in 2025, according to the Finnish Food Authority's Marsi report"
+        },
+        {
+          "value": "9.5 M kg",
+          "label": "of lingonberries sold to buyers in 2025, the largest volume of any Finnish wild berry, per the same report"
+        },
+        {
+          "value": "3–10 %",
+          "label": "of the lingonberry and bilberry crop is picked in a typical year, by the Arctic Flavours Association's estimate"
+        }
+      ],
+      "p2": "Most of what is picked never enters the trade at all: it goes straight from bucket to freezer to the family's own porridge. The commercial crop feeds juice, jam and the frozen-berry shelves of every Finnish supermarket."
+    },
+    "products": {
+      "kicker": "Jam, sauce, porridge",
+      "headline": "How Finland eats its lingonberries.",
+      "lead": "A lingonberry rarely gets eaten fresh. It is put up for winter, and then it turns up at breakfast, dinner and dessert.",
+      "items": [
+        {
+          "title": "Raw crushed lingonberries",
+          "body": "Puolukkasurvos: berries crushed with a little sugar, nothing else. Thanks to the berry's own benzoic acid it keeps in the fridge or a cold larder for months. This is the jar beside reindeer, meatballs and liver."
+        },
+        {
+          "title": "Lingonberry jam",
+          "body": "The cooked version, sweeter and smoother, is the export classic and the one most visitors know from Swedish furniture stores. In Finland it goes on pancakes, rice pudding and warm porridge."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Pink whipped porridge: lingonberry juice thickened with semolina, then beaten until airy and served cold with milk. A school-lunch dessert that adults still order."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Where to taste it",
+      "headline": "Meeting puolukka in Lapland.",
+      "lead": "Lingonberries are not a delicacy you have to hunt for. They are the default side, and in September they are everywhere.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Beside the reindeer",
+          "body": "Order poronkäristys, sautéed reindeer, anywhere in Lapland and lingonberries arrive with it. In restaurants that make their own, the berries are raw-crushed and still tart."
+        },
+        {
+          "n": "02",
+          "title": "On the breakfast table",
+          "body": "Hotel breakfasts across Lapland put lingonberry jam next to the porridge and the pancakes. It is the most everyday way to meet the berry."
+        },
+        {
+          "n": "03",
+          "title": "Your own bucket",
+          "body": "From late August, a walk in any dry pine forest turns up lingonberries at your feet. A guided foraging walk teaches the picker, the frost trick and the good heaths."
+        }
+      ],
+      "gygCta": "Browse foraging trips on GetYourGuide",
+      "diningCta": "See the fine-dining guide"
+    },
+    "nextSteps": {
+      "kicker": "Keep going",
+      "headline": "Where this leads.",
+      "items": [
+        {
+          "title": "Learn to forage",
+          "body": "Everyman's right, safety and what to carry: the foraging guide covers the practical side of picking your own.",
+          "cta": "Foraging guide"
+        },
+        {
+          "title": "The other berries",
+          "body": "Cloudberry, bilberry and sea buckthorn each get their own guide, with seasons, taste and where to find them.",
+          "cta": "All Finnish berries"
+        },
+        {
+          "title": "Stay for the season",
+          "body": "September is quiet, cheap and berry-red in Lapland. Rovaniemi makes a workable base for forest days.",
+          "cta": "Browse stays in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Bilberry: Finland's Wild Blueberry",
+    "description": "Why the Finnish bilberry is not a blueberry, what it tastes like, when the Lapland season peaks, what pickers are paid, and how to eat it from pie to soup.",
+    "hero": {
+      "eyebrow": "The berry guide · Bilberry",
+      "title": "Bilberry, the blue that",
+      "titleHighlight": "stains your fingers.",
+      "subtitle": "Mustikka is the berry nearly every Finn has picked, the one that colours a whole August of childhood, and the one visitors keep calling a blueberry. Here is how it differs, what it tastes like, and where it grows in Lapland.",
+      "primaryCta": "Learn to forage it",
+      "secondaryCta": "All Finnish berries",
+      "pills": [
+        "Taste",
+        "Season",
+        "The right to pick",
+        "Bilberry vs blueberry",
+        "What it's worth",
+        "Pie & soup",
+        "Where to taste it"
+      ]
+    },
+    "captions": {
+      "taste": "Bilberries picked in the forest at Salla, August 2026",
+      "versus": "A ripe bilberry between two fingers, Salla, August 2026"
+    },
+    "intro": {
+      "lead": "The bilberry is the most abundant food in the Finnish forest, and the one most people have actually picked. In a good year the crop is measured in hundreds of millions of kilos.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Wild, not farmed",
+          "body": "Every Finnish bilberry is wild. It grows on knee-high shrubs under pines and spruces across the whole country, from the parks of Helsinki to the fells of Lapland. Nobody plants it."
+        },
+        {
+          "n": "02",
+          "title": "Blue right through",
+          "body": "Cut a bilberry and it is purple inside; cut a supermarket blueberry and it is pale green. The pigment that stains your hands and tongue is the easiest way to tell the two apart."
+        },
+        {
+          "n": "03",
+          "title": "Picked for a living, too",
+          "body": "Commercial pickers sold 6.8 million kilos of bilberries to buyers in 2025 and earned 16 million euros, the Finnish Food Authority reports. Even so, by industry estimate only 3 to 10 per cent of the crop is ever picked."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "First question first",
+      "headline": "What does a bilberry taste like?",
+      "answer": "Sweeter and softer than a cranberry, sharper and wilder than a cultivated blueberry: the bilberry is juicy, thin-skinned and intensely coloured, with a floral, slightly tannic depth a blueberry does not have. Eat a handful straight from the shrub and your fingers, lips and tongue turn purple.",
+      "p2": "Ripeness is easy to read. A ripe bilberry is dusty dark blue and comes off with the lightest pull; a berry that resists is a day or two early. Sun-warmed berries from an open clearing taste sweetest; shade berries from deep spruce forest are bigger and juicier.",
+      "p3": "In the kitchen the flavour carries through everything: <em>mustikkapiirakka</em> pie, <em>mustikkakeitto</em> soup, a spoonful on morning porridge or <em>viili</em>, and in Lapland the classic pairing of bilberry with reindeer."
+    },
+    "season": {
+      "kicker": "Late July to September",
+      "headline": "August belongs to the bilberry.",
+      "lead": "In southern Finland the first bilberries ripen in July. In Lapland the season runs later and shorter, and August is the month.",
+      "phases": [
+        {
+          "period": "Late July",
+          "title": "The first blues",
+          "body": "Sunny slopes and clearings ripen first. In Lapland these are the tasting weeks: enough for a handful on a walk, not yet enough for a bucket."
+        },
+        {
+          "period": "August",
+          "title": "Peak",
+          "body": "The forests are full. Families pick by the bucket, freezers fill, and every café in Lapland has a bilberry pie on the counter. Long, light evenings make this the easiest month of the foraging year."
+        },
+        {
+          "period": "September",
+          "title": "The last of them",
+          "body": "Berries soften and drop and the shrubs turn red. What is left is sweet, and the pickers have moved on to lingonberries and mushrooms on the same trips."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Everyman's right",
+      "headline": "Anyone may pick. Yes, you too.",
+      "p1": "Finland's <em>jokamiehenoikeus</em> covers bilberries completely: any visitor may pick them on uncultivated land, including privately owned forest, with no permit and no need to ask. Commercial pickers work under the same right.",
+      "p2": "Berry-picker scoops are normal and legal; use one gently so the shrub is not torn. Keep away from houses and gardens, and leave the forest as you found it.",
+      "ctaPrimary": "Read the full foraging rules",
+      "ctaSecondary": "See the berry recipes"
+    },
+    "versus": {
+      "kicker": "Bilberry vs blueberry",
+      "headline": "Not the same berry.",
+      "p1": "The bilberry, <em>Vaccinium myrtillus</em>, and the cultivated blueberry, <em>Vaccinium corymbosum</em>, are cousins, and in most languages, Finnish included, both get called blueberry. On the plate they are different fruits.",
+      "p2": "Bilberries grow singly on low forest shrubs and are small, dark and purple all the way through. Blueberries grow in clusters on tall bushes bred for farming, are larger and firmer, and stay pale inside because their colour sits only in the skin.",
+      "p3": "That difference is why a Finnish bilberry pie bleeds purple and a blueberry muffin does not, and why frozen wild bilberries are worth seeking out in shops abroad: the flavour is concentrated in a way the farmed berry never reaches.",
+      "p4": "<strong>If you see a Finnish menu translated as blueberry, it means bilberry. In Lapland the blue berry on the plate is the wild one.</strong>"
+    },
+    "price": {
+      "kicker": "What it's worth",
+      "headline": "Finland's most important wild berry, commercially.",
+      "lead": "That is the Finnish Food Authority's own description of the bilberry in recent years. In 2025 pickers earned 16 million euros from it, at 2.39 euros a kilo.",
+      "facts": [
+        {
+          "value": "2.39 €",
+          "label": "paid to pickers per kilo of bilberries in 2025, according to the Finnish Food Authority's Marsi report"
+        },
+        {
+          "value": "16 M€",
+          "label": "picking income from bilberries in Finland in 2025, per the same report"
+        },
+        {
+          "value": "3–10 %",
+          "label": "of the bilberry and lingonberry crop is picked in a typical year, by the Arctic Flavours Association's estimate"
+        }
+      ],
+      "p2": "Most of the commercial crop is frozen and exported, much of it to be processed elsewhere. The berries you meet in a Lapland café come from a shorter chain: someone's morning in the forest, often the café owner's."
+    },
+    "products": {
+      "kicker": "Pie, soup, porridge",
+      "headline": "How Finland eats its bilberries.",
+      "lead": "Fresh by the handful in August, and from the freezer for the other eleven months.",
+      "items": [
+        {
+          "title": "Bilberry pie",
+          "body": "Mustikkapiirakka: a soft, often oat-topped pie with the berries baked in until they bleed. Every Finnish café has one in August, and the good ones taste of forest rather than sugar."
+        },
+        {
+          "title": "Bilberry soup",
+          "body": "Mustikkakeitto: berries simmered with a little sugar and thickened with potato starch, served warm or cold, on its own or over porridge. Also the skier's drink, poured hot from a thermos on the trail."
+        },
+        {
+          "title": "With reindeer",
+          "body": "In Lapland's restaurants a bilberry reduction or lacto-fermented bilberries sit beside reindeer fillet. The acidity cuts the richness; the colour does the rest."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Where to taste it",
+      "headline": "Meeting mustikka in Lapland.",
+      "lead": "In August you will not have to look. Out of season the pie and the soup carry the berry through the year.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Any forest, any August",
+          "body": "Step off a marked trail near Rovaniemi, Levi or Saariselkä and the shrubs are at your feet. A guided walk adds the good spots and the safety briefing."
+        },
+        {
+          "n": "02",
+          "title": "Café counters",
+          "body": "Bilberry pie with vanilla sauce is the default Lapland café order in late summer. Ask whether the berries were picked locally; in August the answer is usually yes."
+        },
+        {
+          "n": "03",
+          "title": "Tasting menus",
+          "body": "Lapland's fine-dining kitchens use bilberries in fermented, frozen and reduced forms all year. See the dining guide for the rooms."
+        }
+      ],
+      "gygCta": "Browse foraging trips on GetYourGuide",
+      "diningCta": "See the fine-dining guide"
+    },
+    "nextSteps": {
+      "kicker": "Keep going",
+      "headline": "Where this leads.",
+      "items": [
+        {
+          "title": "Learn to forage",
+          "body": "Everyman's right, mushroom safety and what to carry: the foraging guide covers the practical side.",
+          "cta": "Foraging guide"
+        },
+        {
+          "title": "The other berries",
+          "body": "Cloudberry, lingonberry and sea buckthorn each get their own guide, with seasons, taste and where to find them.",
+          "cta": "All Finnish berries"
+        },
+        {
+          "title": "Stay for the season",
+          "body": "August in Lapland is warm, light and blue underfoot. Rovaniemi makes a workable base for forest days.",
+          "cta": "Browse stays in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Sea Buckthorn: Finland's Sourest Berry",
+    "description": "What sea buckthorn tastes like, where it grows wild on Finland's Bothnian Bay coast, when it ripens, why it is picked from thorns, and how Finns drink and cook it.",
+    "hero": {
+      "eyebrow": "The berry guide · Sea buckthorn",
+      "title": "Sea buckthorn, orange fire",
+      "titleHighlight": "from the shore.",
+      "subtitle": "Tyrni does not grow in the forests of inland Lapland at all. It grows on the stony shores of the Gulf of Bothnia, north as far as the Lapland coast at Tornio, and it is the sourest berry in the Finnish larder and one of its richest in vitamin C. Here is where it lives, what it tastes like and why it is so hard to pick.",
+      "primaryCta": "Learn to forage it",
+      "secondaryCta": "All Finnish berries",
+      "pills": [
+        "Taste",
+        "Season",
+        "The right to pick",
+        "Why the thorns",
+        "Vitamin C",
+        "Juice & jam",
+        "Where to taste it"
+      ]
+    },
+    "intro": {
+      "lead": "Sea buckthorn is the odd one out among Finnish berries: a coastal shrub, a thorn-covered harvest and a flavour so sharp that almost nobody eats it plain.",
+      "points": [
+        {
+          "n": "01",
+          "title": "A shore plant, not a forest one",
+          "body": "Wild sea buckthorn grows on the rocky and stony shores of the Gulf of Bothnia, from the Uusikaupunki archipelago north to Tornio, and on the Åland islands. Inland Lapland has none; the coast at Tornio and Kemi is its northern edge."
+        },
+        {
+          "n": "02",
+          "title": "Sour on purpose",
+          "body": "The berries are intensely sour, slightly bitter and faintly oily, with a passion-fruit and apricot note underneath. Finns drink it diluted, sweetened or folded into dessert, rarely by the handful."
+        },
+        {
+          "n": "03",
+          "title": "Rich in vitamin C",
+          "body": "Finnish food-composition data puts sea buckthorn at roughly 100 to 400 milligrams of vitamin C per 100 grams of berries, which is why Finns treat it as their own citrus."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "First question first",
+      "headline": "What does sea buckthorn taste like?",
+      "answer": "Sharp. A ripe sea buckthorn berry is as sour as a lemon, with a bitter, slightly oily edge and, once the shock passes, a tropical note somewhere between passion fruit and apricot. The juice is thick and bright orange and stains everything it touches.",
+      "p2": "That sourness is why the berry is almost never eaten plain. It is diluted into juice, sweetened into jam, frozen into sorbet, or used by chefs the way a lemon is used: a spoon of sea buckthorn cuts through cream, white chocolate, oily fish and rich reindeer.",
+      "p3": "Frost does not soften it much. The berries taste much the same in October as in September; what changes is how easily they come off the thorny branch, which is the picker's real problem."
+    },
+    "season": {
+      "kicker": "September to October",
+      "headline": "Ripe when the coast turns grey.",
+      "lead": "Wild sea buckthorn ripens in September and October, when summer is long gone from the Bothnian coast and the berries are the brightest thing on the shore.",
+      "phases": [
+        {
+          "period": "Late summer",
+          "title": "Turning orange",
+          "body": "The green berries colour through August. The shrubs, dense and silver-leaved, are easy to spot from the shore path; the fruit is not yet worth the thorns."
+        },
+        {
+          "period": "September",
+          "title": "Harvest begins",
+          "body": "Berries are fully orange, juicy and sour. Growers cut fruiting branches and freeze them so the berries can be shaken off; wild pickers press or pluck them in place, slowly."
+        },
+        {
+          "period": "October",
+          "title": "Late berries",
+          "body": "Ripe berries stay on the branches well into autumn. After the first hard frosts they detach more easily, and some pickers wait for exactly that."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Everyman's right",
+      "headline": "Wild shrubs yes, gardens no.",
+      "p1": "Everyman's right covers wild sea buckthorn like any other wild berry: picking is allowed on uncultivated shore, including private shoreline, as long as you stay clear of houses and yards. Cultivated sea buckthorn on farms and in gardens is off limits.",
+      "p2": "Two cautions. Do not cut or break branches to get at the berries; that is damaging a plant, which the right does not allow. And wear gloves: the thorns are long, hard and everywhere.",
+      "ctaPrimary": "Read the full foraging rules",
+      "ctaSecondary": "See the berry recipes"
+    },
+    "versus": {
+      "kicker": "Why the thorns",
+      "headline": "The berry that fights back.",
+      "p1": "Sea buckthorn berries grow packed tight along the branches, each one fixed so firmly that pulling it usually bursts it. Between the berries sit thorns several centimetres long. Picking even a small basket by hand takes patience and thick gloves.",
+      "p2": "Commercial growers solve it with cold. They cut fruiting branches and freeze them; frozen berries snap off cleanly and go straight to the press. That is also why most sea buckthorn reaches you as juice, purée or jam rather than fresh.",
+      "p3": "The shrub is dioecious: male and female plants are separate, and only the females fruit, which is why a dense stand on the shore can be half barren.",
+      "p4": "<strong>The upshot for a traveller: fresh sea buckthorn is rare even in Finland, but the juice is in every supermarket.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamin C",
+      "headline": "Why Finns call it their citrus.",
+      "lead": "Sea buckthorn is one of the most vitamin-C-rich berries growing wild in Finland: roughly 100 to 400 milligrams per 100 grams of berries, according to the national food-composition database.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "vitamin C per 100 g of sea buckthorn berries, per the Fineli database as cited by the Arctic Flavours Association"
+        },
+        {
+          "value": "Sept–Oct",
+          "label": "the wild harvest window on the Bothnian coast"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "the wild range along the Gulf of Bothnia, plus the Åland islands"
+        }
+      ],
+      "p2": "None of this makes it medicine, and Finnish law is strict about what a food may claim. Treat the numbers as what they are: an explanation of why a small glass of the juice tastes the way it does."
+    },
+    "products": {
+      "kicker": "Juice, jam, dessert",
+      "headline": "How Finland uses its sourest berry.",
+      "lead": "Nobody eats a bowl of sea buckthorn. Everybody has had the juice, and almost all of it now comes from cultivated bushes: the Finnish Food Authority's berry-trade report notes that sales of wild sea buckthorn have all but ceased since farming took over.",
+      "items": [
+        {
+          "title": "Sea buckthorn juice",
+          "body": "Tyrnimehu: pressed, sweetened and usually diluted, drunk in small glasses. The supermarket version is the way most Finns meet the berry; the fresh-pressed farm version is sharper and thicker."
+        },
+        {
+          "title": "Jam and purée",
+          "body": "Cooked with sugar, the sourness turns into something closer to a marmalade. Spread on rye, spooned over porridge, or served with cheese."
+        },
+        {
+          "title": "On the dessert menu",
+          "body": "Lapland's and Helsinki's tasting menus use sea buckthorn as their lemon: a sorbet between courses, a curd under white chocolate, a sharp sauce beside oily Arctic fish."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Where to taste it",
+      "headline": "Meeting tyrni in Finland.",
+      "lead": "You will not find the shrub in the fells. You will find the berry in the glass, the jar and the dessert, all over the country.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "The coast at Tornio and Kemi",
+          "body": "The northern end of the wild range is Sea Lapland's shore. Look for dense silver-green shrubs on stony beaches; in September they are unmistakable."
+        },
+        {
+          "n": "02",
+          "title": "Any Finnish supermarket",
+          "body": "Sea buckthorn juice, purée and jam are ordinary groceries. The frozen-berry aisle often has a bag, which is the easiest way to take the berry home."
+        },
+        {
+          "n": "03",
+          "title": "Dessert menus",
+          "body": "Ask for the sea buckthorn course. In Lapland's fine-dining rooms it turns up as sorbet, curd or sauce more often than any other berry except cloudberry."
+        }
+      ],
+      "gygCta": "Browse foraging trips on GetYourGuide",
+      "diningCta": "See the fine-dining guide"
+    },
+    "nextSteps": {
+      "kicker": "Keep going",
+      "headline": "Where this leads.",
+      "items": [
+        {
+          "title": "Learn to forage",
+          "body": "Everyman's right, what to carry and how to pick without damaging a plant: the foraging guide.",
+          "cta": "Foraging guide"
+        },
+        {
+          "title": "The other berries",
+          "body": "Cloudberry, lingonberry and bilberry each get their own guide, with seasons, taste and where to find them.",
+          "cta": "All Finnish berries"
+        },
+        {
+          "title": "Stay on the coast",
+          "body": "Tornio and Kemi are Lapland's coastal towns, an easy base for shore walks in September.",
+          "cta": "Browse stays in Tornio"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Sámi Food & Traditional Lapland Recipes",
     "description": "Four dishes from the Sámi kitchen: bidos reindeer stew, gahkku flatbread, Sápmi fish soup and wild-berry kissel. Full recipes and the eight-season calendar.",
@@ -774,6 +1407,24 @@
       "tours": "Cooking experiences",
       "ingredients": "Local ingredients",
       "modern": "Modern interpretations"
+    },
+    "faq": {
+      "kicker": "Sámi food, in short",
+      "headline": "Three questions people ask about Sámi food.",
+      "items": [
+        {
+          "question": "What is Sámi food?",
+          "answer": "Sámi food is the indigenous cuisine of Sápmi, the Sámi homeland across northern Finland, Sweden, Norway and Russia. It is built on reindeer, with every part of the animal used, on lake and river fish, on wild berries and herbs, and on slow methods: boiling, cold-smoking, drying and salting. The recipes on this page are the home versions."
+        },
+        {
+          "question": "What do Sámi people eat today?",
+          "answer": "The same ingredients, on an ordinary weekday table: reindeer stew or sautéed reindeer with potatoes, fish soup, dried and smoked reindeer, flatbread, berries with porridge. Modern Sámi households shop in supermarkets like everyone else, and the traditional dishes come out for feasts, weddings and the autumn slaughter."
+        },
+        {
+          "question": "What is bidos?",
+          "answer": "Bidos is the Sámi reindeer stew: shoulder or shank cut into pieces, browned and simmered slowly with potato, carrot and onion until the meat falls apart. It is the celebration dish, served at weddings and gatherings, and the first recipe on this page."
+        }
+      ]
     }
   },
   "modernLapland": {

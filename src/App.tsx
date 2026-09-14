@@ -7,6 +7,10 @@ import ScrollToTop from './components/ScrollToTop'
 const Home = lazy(() => import('./pages/Home'))
 const LocalIngredients = lazy(() => import('./pages/LocalIngredients'))
 const Cloudberry = lazy(() => import('./pages/Cloudberry'))
+const Berries = lazy(() => import('./pages/Berries'))
+const Lingonberry = lazy(() => import('./pages/Lingonberry'))
+const Bilberry = lazy(() => import('./pages/Bilberry'))
+const SeaBuckthorn = lazy(() => import('./pages/SeaBuckthorn'))
 const TraditionalRecipes = lazy(() => import('./pages/TraditionalRecipes'))
 const ModernLapland = lazy(() => import('./pages/ModernLapland'))
 const ForagingGuide = lazy(() => import('./pages/ForagingGuide'))
@@ -33,6 +37,10 @@ const PAGES: { path: string; element: React.ReactNode }[] = [
   { path: '/', element: <Home /> },
   { path: '/local-ingredients', element: <LocalIngredients /> },
   { path: '/cloudberry', element: <Cloudberry /> },
+  { path: '/berries', element: <Berries /> },
+  { path: '/lingonberry', element: <Lingonberry /> },
+  { path: '/bilberry', element: <Bilberry /> },
+  { path: '/sea-buckthorn', element: <SeaBuckthorn /> },
   { path: '/traditional-recipes', element: <TraditionalRecipes /> },
   { path: '/modern-lapland', element: <ModernLapland /> },
   { path: '/foraging-guide', element: <ForagingGuide /> },

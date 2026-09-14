@@ -3,12 +3,20 @@
     "home": "Home",
     "ingredients": "Ingrediënten",
     "cloudberry": "Kruipbraam",
+    "berries": "Bessen",
     "recipes": "Recepten",
     "modern": "Modern",
     "foraging": "Verzamelen",
     "michelin": "Michelin",
     "foodTours": "Foodtours",
     "about": "Over ons"
+  },
+  "berries": {
+    "allBerries": "Alle Finse bessen",
+    "bilberry": "Blauwe bosbes",
+    "lingonberry": "Vossenbes",
+    "seaBuckthorn": "Duindoorn",
+    "readGuide": "Lees de volledige gids"
   },
   "ariaHome": "LaplandFood home",
   "ariaMain": "Hoofdnavigatie",

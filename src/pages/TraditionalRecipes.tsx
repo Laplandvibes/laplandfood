@@ -15,21 +15,16 @@ interface SapmiItem { title: string; body: string }
 interface Recipe { name: string; difficulty: string; time: string; serves: string; tradition: string; description: string; ingredients: string[]; instructions: string[]; tips: string }
 interface SeasonItem { sami: string; en: string; when: string; body: string }
 interface MethodItem { title: string; body: string }
+interface FaqItem { question: string; answer: string }
 
-const articleSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Article',
-  headline: 'Traditional Sami Recipes: Authentic Lapland Food Culture',
-  about: 'Sami cuisine, traditional Finnish Lapland recipes',
-  publisher: { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' },
-  inLanguage: 'en'
-,
-  author: { "@type": "Organization", name: "LaplandFood", url: "https://laplandfood.com" },
-  datePublished: "2025-01-01T00:00:00+02:00",
-  dateModified: "2026-05-16T00:00:00+02:00",
-  image: "https://laplandfood.com/og/traditional-recipes-1200x630.jpg",
-  mainEntityOfPage: { "@type": "WebPage", "@id": "https://laplandfood.com" },
-};
+const ORG = { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' };
+const PUBLISHED = '2025-01-01T00:00:00+02:00';
+const MODIFIED = '2026-09-14T00:00:00+03:00';
+// Index-mapped to `traditionalRecipes.recipes` (same order in all 12 locales).
+// ISO 8601 durations for the Recipe rich result; the visible "3–4 hours" etc.
+// stay as written, these are the machine-readable midpoints.
+const RECIPE_TOTAL_TIME = ['PT3H30M', 'PT1H15M', 'PT45M', 'PT30M'];
+const RECIPE_CATEGORY = ['Main course', 'Bread', 'Soup', 'Dessert'];
 
 const CONTEXT_ICONS = [Flame, Clock, Users];
 const RECIPE_IMAGES = ['/images/recipe-bidos.jpg', '/images/recipe-gahkku.jpg', '/images/recipe-fish-soup.jpg', '/images/recipe-kissel.jpg'];
@@ -49,15 +44,66 @@ const METHOD_IMAGES = ['/images/cook-open-fire.jpg', '/images/cook-earth-oven.jp
 export default function TraditionalRecipes() {
   const { t } = useTranslation('pages');
   const { to } = useLocale();
+  const faq = (t('traditionalRecipes.faq.items', { returnObjects: true }) as FaqItem[]) || [];
   const context = (t('traditionalRecipes.context.items', { returnObjects: true }) as ContextItem[]) || [];
   const sapmi = (t('traditionalRecipes.sapmi.items', { returnObjects: true }) as SapmiItem[]) || [];
   const recipes = (t('traditionalRecipes.recipes', { returnObjects: true }) as Recipe[]) || [];
   const seasons = (t('traditionalRecipes.seasons.items', { returnObjects: true }) as SeasonItem[]) || [];
   const methods = (t('traditionalRecipes.methods.items', { returnObjects: true }) as MethodItem[]) || [];
 
+  // 14.9.2026 (Vesa: "reseptien rikastettu hakutulos (Recipe-skeema) ja
+  // reseptisivun Sami food -kärki"): Article + neljä Recipe-solmua + FAQPage
+  // yhdessä @graphissa, kaikki sivun omasta lokalisoidusta datasta. Ei
+  // arvosanoja eikä ravintoarvoja — niitä ei ole, joten niitä ei keksitä.
+  const pageUrl = `https://laplandfood.com${to('/traditional-recipes')}`.replace(/\/?$/, '/');
+  const schema = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Article',
+        headline: t('traditionalRecipes.title'),
+        description: t('traditionalRecipes.description'),
+        about: 'Sámi cuisine, traditional Finnish Lapland recipes',
+        publisher: ORG,
+        author: ORG,
+        datePublished: PUBLISHED,
+        dateModified: MODIFIED,
+        image: 'https://laplandfood.com/og/traditional-recipes-1200x630.jpg',
+        mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+      },
+      ...recipes.map((r, i) => ({
+        '@type': 'Recipe',
+        '@id': `${pageUrl}#recipe-${i}`,
+        name: r.name,
+        description: r.description,
+        image: [`https://laplandfood.com${RECIPE_IMAGES[i]}`],
+        author: ORG,
+        datePublished: PUBLISHED,
+        recipeCuisine: 'Sámi',
+        recipeCategory: RECIPE_CATEGORY[i],
+        keywords: r.tradition,
+        totalTime: RECIPE_TOTAL_TIME[i],
+        recipeYield: r.serves,
+        recipeIngredient: r.ingredients,
+        recipeInstructions: r.instructions.map((step, n) => ({ '@type': 'HowToStep', position: n + 1, text: step })),
+        mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+      })),
+      ...(faq.length > 0
+        ? [{
+            '@type': 'FAQPage',
+            mainEntity: faq.map(f => ({
+              '@type': 'Question',
+              name: f.question,
+              acceptedAnswer: { '@type': 'Answer', text: f.answer },
+            })),
+          }]
+        : []),
+    ],
+  };
+
   return (
     <>
-      <SEO titleKey="traditionalRecipes.title" descriptionKey="traditionalRecipes.description" path={'/traditional-recipes'} schema={articleSchema} />
+      <SEO titleKey="traditionalRecipes.title" descriptionKey="traditionalRecipes.description" path={'/traditional-recipes'} schema={schema} />
       <div className="min-h-screen bg-white">
         <Nav />
 
@@ -126,6 +172,31 @@ export default function TraditionalRecipes() {
                 </div>
               ))}
             </div>
+          </div>
+        </section>
+
+        {/* Sámi food, in short — the three questions people search for
+            (Vesa 14.9.2026: reseptisivun "Sami food" -kärki). Vastaukset ovat
+            aina auki DOMissa, ei haitaria: haku ja lukija näkevät saman tekstin,
+            ja FAQPage-skeema yllä tulee samasta datasta. */}
+        <section id="sami-food" className="scroll-mt-24 bg-[#F8FAFC] py-16 sm:py-20">
+          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
+            <div className="max-w-3xl mb-8">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                {t('traditionalRecipes.faq.kicker')}
+              </p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+                {t('traditionalRecipes.faq.headline')}
+              </h2>
+            </div>
+            <dl className="grid md:grid-cols-3 gap-5">
+              {faq.map((f) => (
+                <div key={f.question} className="rounded-2xl bg-white border border-[#002F6C]/10 p-6 flex flex-col">
+                  <dt className="font-heading tracking-wide text-2xl text-[#002F6C] leading-tight mb-3">{f.question}</dt>
+                  <dd className="text-sm sm:text-[15px] text-[#002F6C]/80 leading-relaxed m-0">{f.answer}</dd>
+                </div>
+              ))}
+            </dl>
           </div>
         </section>
 

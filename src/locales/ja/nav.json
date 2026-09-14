@@ -3,12 +3,20 @@
     "home": "ホーム",
     "ingredients": "食材",
     "cloudberry": "クラウドベリー",
+    "berries": "ベリー",
     "recipes": "レシピ",
     "modern": "モダン",
     "foraging": "採集",
     "michelin": "ミシュラン",
     "foodTours": "フードツアー",
     "about": "概要"
+  },
+  "berries": {
+    "allBerries": "フィンランドのベリーすべて",
+    "bilberry": "ビルベリー",
+    "lingonberry": "リンゴンベリー",
+    "seaBuckthorn": "シーバックソーン",
+    "readGuide": "ガイド全文を読む"
   },
   "ariaHome": "LaplandFoodホームへ",
   "ariaMain": "メインナビゲーション",

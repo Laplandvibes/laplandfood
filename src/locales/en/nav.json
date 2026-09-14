@@ -3,12 +3,20 @@
     "home": "Home",
     "ingredients": "Ingredients",
     "cloudberry": "Cloudberry",
+    "berries": "Berries",
     "recipes": "Recipes",
     "modern": "Modern",
     "foraging": "Foraging",
     "michelin": "Michelin",
     "foodTours": "Food Tours",
     "about": "About"
+  },
+  "berries": {
+    "allBerries": "All Finnish berries",
+    "bilberry": "Bilberry",
+    "lingonberry": "Lingonberry",
+    "seaBuckthorn": "Sea buckthorn",
+    "readGuide": "Read the full guide"
   },
   "ariaHome": "LaplandFood home",
   "ariaMain": "Main navigation",

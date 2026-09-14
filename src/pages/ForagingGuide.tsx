@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Trans, useTranslation } from 'react-i18next';
-import { AlertTriangle, MapPin, Calendar, Check, X } from 'lucide-react';
+import { AlertTriangle, MapPin, Calendar, Check, X, ArrowRight } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
@@ -21,10 +21,13 @@ const ITEM_IMAGES = [
   '/images/forage-mushrooms.jpg',
   '/images/forage-nettle.jpg',
 ];
+// Kolme ensimmäistä korttia ovat marjoja, joilla on oma syväsivu (14.9.2026).
+const ITEM_GUIDE_HREFS: (string | null)[] = ['/bilberry', '/lingonberry', '/cloudberry', null, null];
 
 export default function ForagingGuide() {
   const { t } = useTranslation('pages');
   const { t: tc } = useTranslation('common');
+  const { t: tn } = useTranslation('nav');
   const { to } = useLocale();
   const items = (t('foragingGuide.items', { returnObjects: true }) as ForageItem[]) || [];
   const rules = (t('foragingGuide.mushroomSafety.rules', { returnObjects: true }) as string[]) || [];
@@ -115,6 +118,14 @@ export default function ForagingGuide() {
                         <p className="text-[#002F6C]/80 leading-snug">{it.sustainability}</p>
                       </div>
                     </div>
+                    {ITEM_GUIDE_HREFS[i] && (
+                      <Link
+                        to={to(ITEM_GUIDE_HREFS[i] as string)}
+                        className="lv-tap mt-4 inline-flex items-center gap-1.5 self-start text-xs font-semibold uppercase tracking-wider text-vibe-pink hover:text-[#002F6C] transition-colors"
+                      >
+                        {tn('berries.readGuide')} <ArrowRight className="w-3.5 h-3.5" aria-hidden="true" />
+                      </Link>
+                    )}
                   </div>
                 </article>
               ))}

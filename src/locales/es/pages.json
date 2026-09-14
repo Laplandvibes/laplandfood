@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Bayas de Finlandia: mora ártica, arándanos y espino amarillo",
+    "description": "Las cuatro bayas silvestres que definen la comida finlandesa: a qué sabe cada una, cuándo madura, dónde crece y cómo recogerla con el derecho de acceso a la naturaleza.",
+    "hero": {
+      "eyebrow": "La guía de bayas",
+      "title": "Cuatro bayas, un",
+      "titleHighlight": "verano corto.",
+      "subtitle": "Los bosques y las costas de Finlandia producen más bayas silvestres de las que el país entero podría recoger jamás. Estas cuatro dan forma a la cocina finlandesa. Cada una tiene su propia guía.",
+      "primaryCta": "Leer la guía de recolección",
+      "secondaryCta": "Todos los ingredientes de Laponia"
+    },
+    "intro": {
+      "lead": "Mora ártica, arándano silvestre, arándano rojo y espino amarillo maduran uno tras otro de julio a octubre. Juntos son el dulzor, la acidez y el color de la despensa finlandesa.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Todas silvestres",
+          "body": "Ninguna de las cuatro se cultiva a escala apreciable en Finlandia. Toda la oferta, desde la tarta de la cafetería hasta el jugo del supermercado, empieza con alguien que recoge."
+        },
+        {
+          "n": "02",
+          "title": "Libres para recoger",
+          "body": "El derecho de acceso a la naturaleza permite a cualquiera, residente o visitante, recoger bayas silvestres en la mayor parte del territorio sin pedir permiso. Las reglas tratan de respeto, no de licencias."
+        },
+        {
+          "n": "03",
+          "title": "Una escalera de temporadas",
+          "body": "La mora ártica abre la temporada en las turberas en julio, el arándano silvestre llena agosto, y el arándano rojo y el espino amarillo la llevan hasta octubre."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "Las cuatro guías",
+      "headline": "Elija una baya.",
+      "lead": "Cada guía responde a las mismas preguntas: sabor, temporada, el derecho a recoger, cuánto vale y dónde encontrarla.",
+      "cards": [
+        {
+          "name": "Mora ártica",
+          "latin": "Rubus chamaemorus",
+          "season": "De mediados de julio a mediados de agosto",
+          "body": "La baya ámbar de las turberas que nadie sabe cultivar. Cuatro semanas al año, recogida a mano, con precio de manjar.",
+          "cta": "Guía de la mora ártica"
+        },
+        {
+          "name": "Arándano silvestre",
+          "latin": "Vaccinium myrtillus",
+          "season": "De finales de julio a septiembre",
+          "body": "El arándano silvestre de Finlandia: morado hasta el centro, recogido por baldes y horneado en cada tarta de agosto.",
+          "cta": "Guía del arándano silvestre"
+        },
+        {
+          "name": "Arándano rojo",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "De finales de agosto a octubre",
+          "body": "La baya roja y ácida junto a cada plato de reno. Se conserva en frasco sin azúcar y se endulza tras la helada.",
+          "cta": "Guía del arándano rojo"
+        },
+        {
+          "name": "Espino amarillo",
+          "latin": "Hippophaë rhamnoides",
+          "season": "De septiembre a octubre",
+          "body": "La baya naranja y agria de la costa del golfo de Botnia, recogida entre espinas y bebida como jugo.",
+          "cta": "Guía del espino amarillo"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Temporada a temporada",
+      "headline": "Cuándo madura cada baya.",
+      "items": [
+        {
+          "period": "Julio",
+          "title": "Mora ártica",
+          "body": "Turberas abiertas bajo el sol de medianoche, una ventana de recolección de unas tres semanas desde mediados de julio."
+        },
+        {
+          "period": "Agosto",
+          "title": "Arándano silvestre",
+          "body": "Matas de bosque por todas partes: el mes en que Finlandia llena sus congeladores."
+        },
+        {
+          "period": "Septiembre",
+          "title": "Arándano rojo",
+          "body": "Brezales secos de pino; las primeras heladas endulzan las bayas."
+        },
+        {
+          "period": "Septiembre–octubre",
+          "title": "Espino amarillo",
+          "body": "Orillas pedregosas del golfo de Botnia, hacia el norte hasta Tornio."
+        },
+        {
+          "period": "Desde noviembre",
+          "title": "Del frasco",
+          "body": "Mermelada, jugo, bayas congeladas y kissel llevan la temporada a través del invierno."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "Aprenda a recolectar",
+          "body": "Derecho de acceso a la naturaleza, seguridad con las setas y el calendario mes a mes: el lado práctico de recoger por su cuenta.",
+          "cta": "Guía de recolección"
+        },
+        {
+          "title": "Cocine las bayas",
+          "body": "Kissel de bayas silvestres y las demás recetas tradicionales, con el método explicado.",
+          "cta": "Recetas tradicionales"
+        },
+        {
+          "title": "Quédese en temporada",
+          "body": "De julio a septiembre es temporada de bayas en toda Laponia. Rovaniemi es una base práctica para días de bosque.",
+          "cta": "Ver alojamiento en Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Arándano rojo: la baya silvestre cotidiana de Finlandia",
+    "description": "A qué sabe el arándano rojo, cuándo es la temporada finlandesa, por qué se conserva sin azúcar, en qué se diferencia del cranberry y dónde comerlo en Laponia.",
+    "hero": {
+      "eyebrow": "La guía de bayas · Arándano rojo",
+      "title": "Arándano rojo, la baya que",
+      "titleHighlight": "se conserva sola.",
+      "subtitle": "La puolukka es la baya roja junto a cada plato de reno salteado, y la que las familias finlandesas recogen por baldes. Aquí tiene a qué sabe, por qué se conserva en frasco sin azúcar y en qué se diferencia del cranberry con el que se confunde.",
+      "primaryCta": "Aprenda a recolectarlo",
+      "secondaryCta": "Todas las bayas finlandesas",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Derecho a recolectar",
+        "Arándano rojo o cranberry",
+        "Cuánto vale",
+        "Mermelada y puré",
+        "Dónde probarlo"
+      ]
+    },
+    "intro": {
+      "lead": "Los arándanos rojos tapizan los pinares secos de Finlandia cada otoño en cantidades que nadie podría recoger. Los pocos que se recogen acaban en frascos, sobre la avena y junto al reno.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Más de lo que nadie puede recoger",
+          "body": "La cosecha silvestre de arándano rojo en Finlandia asciende a cientos de millones de kilos al año, y según la estimación de la asociación del sector Arktiset Aromit solo se recoge entre el 3 y el 10 por ciento. El resto alimenta a pájaros, osos y el suelo del año siguiente."
+        },
+        {
+          "n": "02",
+          "title": "Se conserva solo",
+          "body": "El arándano rojo contiene ácido benzoico natural, y por eso un frasco de bayas crudas machacadas se conserva en una despensa fresca sin azúcar, calor ni aditivos. Es la conserva finlandesa original."
+        },
+        {
+          "n": "03",
+          "title": "El rojo de cada plato de reno",
+          "body": "El poronkäristys, reno salteado sobre puré de papa, no se sirve sin una cucharada de arándanos rojos. La acidez es lo que hace funcionar esa carne tan sustanciosa."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primero lo primero",
+      "headline": "¿A qué sabe el arándano rojo?",
+      "answer": "Ácido, ligeramente amargo y apenas dulce, con un final limpio y seco y nada del almizcle de la mora ártica: piense en un cranberry con el azúcar bajado y un poco más de amargor. Crudo, una sola baya hace torcer el gesto; mezclada con algo caliente, salado o lácteo, esa misma acidez es precisamente el punto.",
+      "p2": "La helada ayuda. Las bayas recogidas después de las primeras heladas nocturnas de septiembre son claramente más suaves y dulces que las de agosto, y los recolectores finlandeses programan sus salidas en consecuencia. Una baya madura del todo es de un rojo intenso por todos lados; un lado pálido significa que necesita otra semana.",
+      "p3": "Rara vez le servirán arándanos rojos solos. Llegan como acompañamiento: crudos y machacados con un poco de azúcar junto al reno salteado o las albóndigas, batidos en <em>vispipuuro</em>, la papilla rosada de sémola que todo niño finlandés conoce, o a cucharadas sobre la avena caliente con leche."
+    },
+    "season": {
+      "kicker": "De finales de agosto a octubre",
+      "headline": "La temporada larga e indulgente.",
+      "lead": "A diferencia de la mora ártica, el arándano rojo lo espera. La temporada se abre a finales de agosto y las bayas aguantan en las matas hasta octubre, endulzándose con cada helada.",
+      "phases": [
+        {
+          "period": "Finales de agosto",
+          "title": "Los primeros rojos",
+          "body": "Las bayas pasan del blanco verdoso al rojo primero en los brezales de pino orientados al sur. Las primeras son las más amargas; la mayoría de los recolectores las deja una o dos semanas más."
+        },
+        {
+          "period": "Septiembre",
+          "title": "La cosecha principal",
+          "body": "Noches frescas, días secos y las primeras heladas: es cuando las familias salen con baldes. Las bayas están firmes, bien rojas y se desprenden fácilmente de la mata."
+        },
+        {
+          "period": "Octubre",
+          "title": "Después de las heladas",
+          "body": "Las bayas endulzadas por la helada siguen buenas en la planta hasta la primera nieve duradera. Algunos de los mejores arándanos rojos del año se recogen en los últimos días templados de octubre."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "El derecho de acceso a la naturaleza",
+      "headline": "Recoja tantos como pueda cargar.",
+      "p1": "El <em>jokamiehenoikeus</em> finlandés, el derecho de acceso a la naturaleza, permite a cualquiera recoger bayas silvestres en tierra no cultivada, bosque privado incluido, sin permiso ni autorización del propietario. El arándano rojo es la baya para la que este derecho parece hecho: abundante, resistente y fuera de cualquier lista de protección.",
+      "p2": "La etiqueta es sencilla. Manténgase lejos de casas y jardines, no dañe las matas y use el peine recolector con cuidado: el recolector de peine es legal y habitual en Finlandia, pero un tirón descuidado arranca el crecimiento del año siguiente.",
+      "ctaPrimary": "Leer todas las reglas de recolección",
+      "ctaSecondary": "Ver las recetas con bayas"
+    },
+    "versus": {
+      "kicker": "Arándano rojo o cranberry",
+      "headline": "La misma familia, otra turbera.",
+      "p1": "El arándano rojo y el cranberry son parientes cercanos del género <em>Vaccinium</em>, y fuera de Finlandia los nombres se intercambian. En Finlandia son dos bayas distintas de dos lugares distintos: el arándano rojo crece en brezales secos de pino, el arándano agrio o cranberry en turberas húmedas.",
+      "p2": "En el plato la diferencia es el tamaño y el filo. El arándano rojo es pequeño, firme y uniformemente ácido con una nota amarga; el arándano agrio silvestre finlandés, <em>karpalo</em>, es más grande, más blando y aún más ácido, y el cranberry americano cultivado del jugo de supermercado es más grande todavía y más suave.",
+      "p3": "Los papeles en la cocina también difieren. El cranberry necesita cocción y azúcar para resultar agradable; el arándano rojo puede comerse crudo y machacado, y por eso el frasco finlandés de arándano rojo suele llevar solo bayas y un poco de azúcar.",
+      "p4": "<strong>Si una receta extranjera pide salsa de cranberry para la caza, el arándano rojo es el original nórdico del que desciende.</strong>"
+    },
+    "price": {
+      "kicker": "Cuánto vale",
+      "headline": "Barato por kilo, invaluable en el frasco.",
+      "lead": "El arándano rojo es la baya silvestre finlandesa de los grandes volúmenes, y su precio lo demuestra. En 2025 los compradores recibieron 9,5 millones de kilos, más que de cualquier otra baya silvestre, y pagaron a los recolectores 1,90 euros por kilo, frente a 13,85 euros por la mora ártica.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "pagados a los recolectores por kilo de arándano rojo en 2025, según el informe Marsi de la Autoridad Alimentaria de Finlandia"
+        },
+        {
+          "value": "9,5 M kg",
+          "label": "de arándano rojo vendidos a compradores en 2025, el mayor volumen de todas las bayas silvestres finlandesas, según el mismo informe"
+        },
+        {
+          "value": "3–10 %",
+          "label": "de la cosecha de arándano rojo y arándano silvestre se recoge en un año típico, según la estimación de la asociación Arktiset Aromit"
+        }
+      ],
+      "p2": "La mayor parte de lo recogido nunca entra en el comercio: pasa del balde al congelador y a la avena de la familia. La cosecha comercial se convierte en jugo, mermelada y las bayas congeladas de cada supermercado finlandés."
+    },
+    "products": {
+      "kicker": "Mermelada, puré, avena",
+      "headline": "Cómo come Finlandia sus arándanos rojos.",
+      "lead": "El arándano rojo rara vez se come fresco. Se guarda para el invierno, y entonces aparece en el desayuno, la cena y el postre.",
+      "items": [
+        {
+          "title": "Arándanos rojos crudos machacados",
+          "body": "Puolukkasurvos: bayas machacadas con un poco de azúcar, nada más. Gracias al ácido benzoico de la propia baya se conserva meses en la nevera o en una despensa fría. Es el frasco junto al reno, las albóndigas y el hígado."
+        },
+        {
+          "title": "Mermelada de arándano rojo",
+          "body": "La versión cocida, más dulce y más lisa, es el clásico de exportación y la que la mayoría de los visitantes conoce por las tiendas suecas de muebles. En Finlandia acompaña panqueques, arroz con leche y avena caliente."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Papilla rosada batida: jugo de arándano rojo espesado con sémola y luego batido hasta quedar esponjoso, servido frío con leche. Un postre de comedor escolar que los adultos siguen pidiendo."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde probarlo",
+      "headline": "Encontrar la puolukka en Laponia.",
+      "lead": "El arándano rojo no es un manjar que haya que perseguir. Es el acompañamiento por defecto, y en septiembre está en todas partes.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Junto al reno",
+          "body": "Pida poronkäristys, reno salteado, en cualquier lugar de Laponia y los arándanos rojos llegan con él. En los restaurantes que los preparan en casa, las bayas van crudas y machacadas, todavía ácidas."
+        },
+        {
+          "n": "02",
+          "title": "En la mesa del desayuno",
+          "body": "Los desayunos de hotel de toda Laponia ponen la mermelada de arándano rojo junto a la avena y los panqueques. Es la forma más cotidiana de conocer la baya."
+        },
+        {
+          "n": "03",
+          "title": "Su propio balde",
+          "body": "Desde finales de agosto, un paseo por cualquier pinar seco pone arándanos rojos a sus pies. Una salida de recolección guiada enseña el peine, el truco de la helada y los buenos brezales."
+        }
+      ],
+      "gygCta": "Ver salidas de recolección en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "Aprenda a recolectar",
+          "body": "Derecho de acceso a la naturaleza, seguridad y qué llevar: la guía de recolección cubre el lado práctico de recoger por su cuenta.",
+          "cta": "Guía de recolección"
+        },
+        {
+          "title": "Las otras bayas",
+          "body": "Mora ártica, arándano silvestre y espino amarillo tienen cada uno su guía, con temporadas, sabor y dónde encontrarlos.",
+          "cta": "Todas las bayas finlandesas"
+        },
+        {
+          "title": "Quédese en temporada",
+          "body": "Septiembre en Laponia es tranquilo, barato y rojo de arándanos. Rovaniemi es una base práctica para días de bosque.",
+          "cta": "Ver alojamiento en Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Arándano silvestre: el arándano de los bosques de Finlandia",
+    "description": "Por qué el arándano silvestre finlandés no es el arándano cultivado, a qué sabe, cuándo alcanza su punto la temporada en Laponia, cuánto cobran los recolectores y cómo comerlo, de la tarta a la sopa.",
+    "hero": {
+      "eyebrow": "La guía de bayas · Arándano silvestre",
+      "title": "Arándano silvestre, el azul que",
+      "titleHighlight": "tiñe los dedos.",
+      "subtitle": "La mustikka es la baya que casi todo finlandés ha recogido, la que colorea un agosto entero de la infancia, y la que los visitantes insisten en llamar arándano azul. Aquí tiene en qué se diferencia, a qué sabe y dónde crece en Laponia.",
+      "primaryCta": "Aprenda a recolectarlo",
+      "secondaryCta": "Todas las bayas finlandesas",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Derecho a recolectar",
+        "Silvestre o cultivado",
+        "Cuánto vale",
+        "Tarta y sopa",
+        "Dónde probarlo"
+      ]
+    },
+    "captions": {
+      "taste": "Arándanos silvestres recogidos en el bosque de Salla, agosto de 2026",
+      "versus": "Un arándano silvestre maduro entre dos dedos, Salla, agosto de 2026"
+    },
+    "intro": {
+      "lead": "El arándano silvestre es el alimento más abundante del bosque finlandés, y el que la mayoría de la gente ha recogido de verdad. En un buen año la cosecha se mide en cientos de millones de kilos.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Silvestre, no cultivado",
+          "body": "Cada arándano silvestre finlandés es silvestre. Crece en matas a la altura de la rodilla bajo pinos y abetos en todo el país, desde los parques de Helsinki hasta los montes de Laponia. Nadie lo planta."
+        },
+        {
+          "n": "02",
+          "title": "Azul hasta el centro",
+          "body": "Corte un arándano silvestre y es morado por dentro; corte un arándano cultivado de supermercado y es verde pálido. El pigmento que tiñe las manos y la lengua es la forma más fácil de distinguirlos."
+        },
+        {
+          "n": "03",
+          "title": "También se recoge para vivir",
+          "body": "Los recolectores comerciales vendieron 6,8 millones de kilos de arándano silvestre a los compradores en 2025 y ganaron 16 millones de euros, informa la Autoridad Alimentaria de Finlandia. Aun así, según la estimación del sector, solo se recoge entre el 3 y el 10 por ciento de la cosecha."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primero lo primero",
+      "headline": "¿A qué sabe el arándano silvestre?",
+      "answer": "Más dulce y suave que un cranberry, más vivo y más silvestre que un arándano cultivado: el arándano silvestre es jugoso, de piel fina y color intenso, con una profundidad floral y ligeramente tánica que el cultivado no tiene. Coma un puñado directamente de la mata y los dedos, los labios y la lengua se ponen morados.",
+      "p2": "La madurez se lee fácil. Un arándano maduro es de un azul oscuro empolvado y se suelta con el tirón más leve; una baya que se resiste va uno o dos días adelantada. Las bayas calentadas por el sol en un claro abierto saben más dulces; las de sombra de un abetal profundo son más grandes y jugosas.",
+      "p3": "En la cocina el sabor lo atraviesa todo: la tarta <em>mustikkapiirakka</em>, la sopa <em>mustikkakeitto</em>, una cucharada sobre la avena de la mañana o sobre el <em>viili</em>, la leche cuajada, y en Laponia el maridaje clásico de arándano silvestre y reno."
+    },
+    "season": {
+      "kicker": "De finales de julio a septiembre",
+      "headline": "Agosto pertenece al arándano silvestre.",
+      "lead": "En el sur de Finlandia los primeros arándanos silvestres maduran en julio. En Laponia la temporada es más tardía y más corta, y agosto es el mes.",
+      "phases": [
+        {
+          "period": "Finales de julio",
+          "title": "Los primeros azules",
+          "body": "Las laderas soleadas y los claros maduran primero. En Laponia son las semanas de degustación: suficiente para un puñado en un paseo, todavía no para un balde."
+        },
+        {
+          "period": "Agosto",
+          "title": "El punto alto",
+          "body": "Los bosques están llenos. Las familias recogen por baldes, los congeladores se llenan y cada cafetería de Laponia tiene una tarta de arándanos en el mostrador. Las tardes largas y luminosas lo convierten en el mes más fácil del año de recolección."
+        },
+        {
+          "period": "Septiembre",
+          "title": "Los últimos",
+          "body": "Las bayas se ablandan y caen, y las matas se vuelven rojas. Lo que queda es dulce, y los recolectores han pasado a los arándanos rojos y las setas en las mismas salidas."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "El derecho de acceso a la naturaleza",
+      "headline": "Cualquiera puede recoger. Sí, usted también.",
+      "p1": "El <em>jokamiehenoikeus</em> finlandés, el derecho de acceso a la naturaleza, cubre por completo el arándano silvestre: cualquier visitante puede recogerlo en tierra no cultivada, bosque privado incluido, sin permiso y sin preguntar. Los recolectores comerciales trabajan bajo el mismo derecho.",
+      "p2": "Los peines recolectores son habituales y legales; úselo con cuidado para no desgarrar la mata. Manténgase lejos de casas y jardines, y deje el bosque como lo encontró.",
+      "ctaPrimary": "Leer todas las reglas de recolección",
+      "ctaSecondary": "Ver las recetas con bayas"
+    },
+    "versus": {
+      "kicker": "Arándano silvestre o cultivado",
+      "headline": "No es la misma baya.",
+      "p1": "El arándano silvestre, <em>Vaccinium myrtillus</em>, y el arándano cultivado, <em>Vaccinium corymbosum</em>, son primos, y en la mayoría de los idiomas, el finés incluido, a ambos se les llama arándano. En el plato son frutas distintas.",
+      "p2": "Los arándanos silvestres crecen de uno en uno en matas bajas de bosque y son pequeños, oscuros y morados hasta el centro. Los cultivados crecen en racimos en arbustos altos seleccionados para el cultivo, son más grandes y firmes y se quedan pálidos por dentro porque su color está solo en la piel.",
+      "p3": "Esa diferencia es la razón de que una tarta finlandesa de arándanos silvestres sangre morado y un muffin de arándanos no, y de que valga la pena buscar arándanos silvestres congelados en las tiendas del extranjero: el sabor está concentrado de una forma que la baya cultivada nunca alcanza.",
+      "p4": "<strong>Si ve una carta finlandesa traducida como blueberry o arándano azul, se refiere al arándano silvestre. En Laponia, la baya azul del plato es la silvestre.</strong>"
+    },
+    "price": {
+      "kicker": "Cuánto vale",
+      "headline": "La baya silvestre comercialmente más importante de Finlandia.",
+      "lead": "Así describe la propia Autoridad Alimentaria de Finlandia al arándano silvestre en los últimos años. En 2025 los recolectores ganaron con él 16 millones de euros, a 2,39 euros el kilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "pagados a los recolectores por kilo de arándano silvestre en 2025, según el informe Marsi de la Autoridad Alimentaria de Finlandia"
+        },
+        {
+          "value": "16 M€",
+          "label": "de ingresos por recolección de arándano silvestre en Finlandia en 2025, según el mismo informe"
+        },
+        {
+          "value": "3–10 %",
+          "label": "de la cosecha de arándano silvestre y arándano rojo se recoge en un año típico, según la estimación de la asociación Arktiset Aromit"
+        }
+      ],
+      "p2": "La mayor parte de la cosecha comercial se congela y se exporta, buena parte para procesarse en otro lugar. Las bayas que encuentra en una cafetería de Laponia vienen de una cadena más corta: la mañana en el bosque de alguien, a menudo del dueño de la cafetería."
+    },
+    "products": {
+      "kicker": "Tarta, sopa, avena",
+      "headline": "Cómo come Finlandia sus arándanos silvestres.",
+      "lead": "Frescos a puñados en agosto, y del congelador los otros once meses.",
+      "items": [
+        {
+          "title": "Tarta de arándanos silvestres",
+          "body": "Mustikkapiirakka: una tarta tierna, a menudo cubierta de avena, con las bayas horneadas dentro hasta que sangran. Cada cafetería finlandesa tiene una en agosto, y las buenas saben a bosque y no a azúcar."
+        },
+        {
+          "title": "Sopa de arándanos silvestres",
+          "body": "Mustikkakeitto: bayas cocidas a fuego lento con un poco de azúcar y espesadas con fécula de papa, servidas calientes o frías, solas o sobre la avena. También la bebida del esquiador, servida caliente del termo en la pista."
+        },
+        {
+          "title": "Con reno",
+          "body": "En los restaurantes de Laponia una reducción de arándanos silvestres o arándanos lactofermentados acompañan al filete de reno. La acidez corta lo sustancioso; el color hace el resto."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde probarlo",
+      "headline": "Encontrar la mustikka en Laponia.",
+      "lead": "En agosto no tendrá que buscar. Fuera de temporada, la tarta y la sopa llevan la baya todo el año.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Cualquier bosque, cualquier agosto",
+          "body": "Salga de un sendero señalizado cerca de Rovaniemi, Levi o Saariselkä y las matas están a sus pies. Un paseo guiado añade los buenos rincones y las indicaciones de seguridad."
+        },
+        {
+          "n": "02",
+          "title": "Mostradores de cafetería",
+          "body": "La tarta de arándanos silvestres con salsa de vainilla es el pedido por defecto en una cafetería de Laponia a finales del verano. Pregunte si las bayas se recogieron cerca; en agosto la respuesta suele ser sí."
+        },
+        {
+          "n": "03",
+          "title": "Menús de degustación",
+          "body": "Las cocinas de alta gama de Laponia usan el arándano silvestre fermentado, congelado y reducido todo el año. Vea los restaurantes en la guía gastronómica."
+        }
+      ],
+      "gygCta": "Ver salidas de recolección en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "Aprenda a recolectar",
+          "body": "Derecho de acceso a la naturaleza, seguridad con las setas y qué llevar: la guía de recolección cubre el lado práctico.",
+          "cta": "Guía de recolección"
+        },
+        {
+          "title": "Las otras bayas",
+          "body": "Mora ártica, arándano rojo y espino amarillo tienen cada uno su guía, con temporadas, sabor y dónde encontrarlos.",
+          "cta": "Todas las bayas finlandesas"
+        },
+        {
+          "title": "Quédese en temporada",
+          "body": "Agosto en Laponia es cálido, luminoso y azul bajo los pies. Rovaniemi es una base práctica para días de bosque.",
+          "cta": "Ver alojamiento en Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Espino amarillo: la baya más ácida de Finlandia",
+    "description": "A qué sabe el espino amarillo, dónde crece silvestre en la costa finlandesa del golfo de Botnia, cuándo madura, por qué se recoge entre espinas y cómo lo beben y cocinan los finlandeses.",
+    "hero": {
+      "eyebrow": "La guía de bayas · Espino amarillo",
+      "title": "Espino amarillo, fuego naranja",
+      "titleHighlight": "desde la orilla.",
+      "subtitle": "El tyrni no crece en absoluto en los bosques del interior de Laponia. Crece en las orillas pedregosas del golfo de Botnia, hacia el norte hasta la costa lapona en Tornio, y es la baya más ácida de la despensa finlandesa y una de las más ricas en vitamina C. Aquí tiene dónde vive, a qué sabe y por qué es tan difícil de recoger.",
+      "primaryCta": "Aprenda a recolectarlo",
+      "secondaryCta": "Todas las bayas finlandesas",
+      "pills": [
+        "Sabor",
+        "Temporada",
+        "Derecho a recolectar",
+        "Por qué las espinas",
+        "Vitamina C",
+        "Jugo y mermelada",
+        "Dónde probarlo"
+      ]
+    },
+    "intro": {
+      "lead": "El espino amarillo es el bicho raro entre las bayas finlandesas: un arbusto de costa, una cosecha cubierta de espinas y un sabor tan afilado que casi nadie lo come solo.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Una planta de orilla, no de bosque",
+          "body": "El espino amarillo silvestre crece en las orillas rocosas y pedregosas del golfo de Botnia, desde el archipiélago de Uusikaupunki hacia el norte hasta Tornio, y en las islas Åland. El interior de Laponia no tiene; la costa de Tornio y Kemi es su límite norte."
+        },
+        {
+          "n": "02",
+          "title": "Ácido a propósito",
+          "body": "Las bayas son intensamente ácidas, ligeramente amargas y levemente oleosas, con una nota de maracuyá y albaricoque por debajo. Los finlandeses lo beben diluido, endulzado o incorporado a un postre, rara vez a puñados."
+        },
+        {
+          "n": "03",
+          "title": "Rico en vitamina C",
+          "body": "La base de datos finlandesa de composición de alimentos sitúa el espino amarillo en unos 100 a 400 miligramos de vitamina C por 100 gramos de bayas, y por eso los finlandeses lo tratan como su propio cítrico."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Primero lo primero",
+      "headline": "¿A qué sabe el espino amarillo?",
+      "answer": "Afilado. Una baya madura de espino amarillo es tan ácida como un limón, con un borde amargo y ligeramente oleoso y, pasado el susto, una nota tropical entre el maracuyá y el albaricoque. El jugo es espeso, de un naranja brillante, y tiñe todo lo que toca.",
+      "p2": "Esa acidez es la razón de que la baya casi nunca se coma sola. Se diluye en jugo, se endulza en mermelada, se congela en sorbete, o los chefs la usan como se usa un limón: una cucharada de espino amarillo corta la nata, el chocolate blanco, el pescado graso y el reno contundente.",
+      "p3": "La helada no lo suaviza mucho. Las bayas saben casi igual en octubre que en septiembre; lo que cambia es lo fácil que se desprenden de la rama espinosa, y ese es el verdadero problema del recolector."
+    },
+    "season": {
+      "kicker": "De septiembre a octubre",
+      "headline": "Maduro cuando la costa se vuelve gris.",
+      "lead": "El espino amarillo silvestre madura en septiembre y octubre, cuando el verano hace tiempo que se fue de la costa botniana y las bayas son lo más brillante de la orilla.",
+      "phases": [
+        {
+          "period": "Final del verano",
+          "title": "Se pone naranja",
+          "body": "Las bayas verdes toman color a lo largo de agosto. Los arbustos, densos y de hojas plateadas, se distinguen fácilmente desde el sendero de la orilla; el fruto todavía no vale las espinas."
+        },
+        {
+          "period": "Septiembre",
+          "title": "Empieza la cosecha",
+          "body": "Las bayas están del todo naranjas, jugosas y ácidas. Los cultivadores cortan las ramas con fruto y las congelan para poder sacudir las bayas; los recolectores silvestres las exprimen o las arrancan en el sitio, despacio."
+        },
+        {
+          "period": "Octubre",
+          "title": "Bayas tardías",
+          "body": "Las bayas maduras siguen en las ramas hasta bien entrado el otoño. Tras las primeras heladas fuertes se desprenden con más facilidad, y algunos recolectores esperan exactamente eso."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "El derecho de acceso a la naturaleza",
+      "headline": "Arbustos silvestres sí, jardines no.",
+      "p1": "El derecho de acceso a la naturaleza cubre el espino amarillo silvestre como cualquier otra baya silvestre: recoger está permitido en orillas no cultivadas, litoral privado incluido, siempre que se mantenga lejos de casas y patios. El espino amarillo cultivado en fincas y jardines está prohibido.",
+      "p2": "Dos advertencias. No corte ni rompa ramas para llegar a las bayas; eso es dañar una planta, y el derecho no lo permite. Y lleve guantes: las espinas son largas, duras y están por todas partes.",
+      "ctaPrimary": "Leer todas las reglas de recolección",
+      "ctaSecondary": "Ver las recetas con bayas"
+    },
+    "versus": {
+      "kicker": "Por qué las espinas",
+      "headline": "La baya que se defiende.",
+      "p1": "Las bayas de espino amarillo crecen apretadas a lo largo de las ramas, cada una tan bien sujeta que al tirar suele reventar. Entre las bayas hay espinas de varios centímetros. Recoger a mano aunque sea una cesta pequeña exige paciencia y guantes gruesos.",
+      "p2": "Los cultivadores comerciales lo resuelven con frío. Cortan las ramas con fruto y las congelan; las bayas congeladas se desprenden limpiamente y van directas a la prensa. Por eso, además, la mayor parte del espino amarillo le llega como jugo, puré o mermelada y no fresco.",
+      "p3": "El arbusto es dioico: las plantas macho y hembra son distintas, y solo las hembras dan fruto, por lo que un rodal denso en la orilla puede ser estéril a medias.",
+      "p4": "<strong>La conclusión para quien viaja: el espino amarillo fresco es raro incluso en Finlandia, pero el jugo está en cualquier supermercado.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamina C",
+      "headline": "Por qué los finlandeses lo llaman su cítrico.",
+      "lead": "El espino amarillo es una de las bayas más ricas en vitamina C que crecen silvestres en Finlandia: unos 100 a 400 miligramos por 100 gramos de bayas, según la base nacional de composición de alimentos.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "de vitamina C por 100 g de bayas de espino amarillo, según la base de datos Fineli tal como la cita la asociación Arktiset Aromit"
+        },
+        {
+          "value": "Sept–oct",
+          "label": "la ventana de cosecha silvestre en la costa botniana"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "el área silvestre a lo largo del golfo de Botnia, más las islas Åland"
+        }
+      ],
+      "p2": "Nada de esto lo convierte en medicina, y la ley finlandesa es estricta con lo que un alimento puede afirmar. Tome las cifras como lo que son: una explicación de por qué un vasito de este jugo sabe como sabe."
+    },
+    "products": {
+      "kicker": "Jugo, mermelada, postre",
+      "headline": "Cómo usa Finlandia su baya más ácida.",
+      "lead": "Nadie se come un bol de espino amarillo. Todo el mundo ha probado el jugo, y casi todo viene hoy de arbustos cultivados: el informe de la Autoridad Alimentaria de Finlandia sobre el comercio de bayas señala que las ventas de espino amarillo silvestre prácticamente han cesado desde que el cultivo tomó el relevo.",
+      "items": [
+        {
+          "title": "Jugo de espino amarillo",
+          "body": "Tyrnimehu: prensado, endulzado y casi siempre diluido, bebido en vasos pequeños. La versión de supermercado es como la mayoría de los finlandeses conoce la baya; la versión recién prensada de granja es más afilada y espesa."
+        },
+        {
+          "title": "Mermelada y puré",
+          "body": "Cocida con azúcar, la acidez se convierte en algo más cercano a una mermelada de cítricos. Se unta en pan de centeno, se sirve a cucharadas sobre la avena o acompaña al queso."
+        },
+        {
+          "title": "En la carta de postres",
+          "body": "Los menús de degustación de Laponia y Helsinki usan el espino amarillo como su limón: un sorbete entre platos, una crema bajo chocolate blanco, una salsa afilada junto al pescado ártico graso."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde probarlo",
+      "headline": "Encontrar el tyrni en Finlandia.",
+      "lead": "El arbusto no lo encontrará en los montes. La baya la encontrará en el vaso, el frasco y el postre, en todo el país.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "La costa de Tornio y Kemi",
+          "body": "El extremo norte del área silvestre es la orilla de la Laponia marítima. Busque arbustos densos de color verde plateado en las playas pedregosas; en septiembre son inconfundibles."
+        },
+        {
+          "n": "02",
+          "title": "Cualquier supermercado finlandés",
+          "body": "El jugo, el puré y la mermelada de espino amarillo son productos corrientes. El pasillo de congelados suele tener una bolsa de bayas, la forma más fácil de llevarse la baya a casa."
+        },
+        {
+          "n": "03",
+          "title": "Cartas de postres",
+          "body": "Pida el plato de espino amarillo. En los restaurantes de alta cocina de Laponia aparece como sorbete, crema o salsa más a menudo que cualquier otra baya salvo la mora ártica."
+        }
+      ],
+      "gygCta": "Ver salidas de recolección en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "Aprenda a recolectar",
+          "body": "Derecho de acceso a la naturaleza, qué llevar y cómo recoger sin dañar una planta: la guía de recolección.",
+          "cta": "Guía de recolección"
+        },
+        {
+          "title": "Las otras bayas",
+          "body": "Mora ártica, arándano rojo y arándano silvestre tienen cada uno su guía, con temporadas, sabor y dónde encontrarlos.",
+          "cta": "Todas las bayas finlandesas"
+        },
+        {
+          "title": "Quédese en la costa",
+          "body": "Tornio y Kemi son las ciudades costeras de Laponia, una base fácil para paseos por la orilla en septiembre.",
+          "cta": "Ver alojamiento en Tornio"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Comida sami: recetas tradicionales de Laponia",
     "description": "Cuatro platos de la cocina sami: estofado de reno bidos, pan gahkku, sopa de pescado de Sápmi y kissel de bayas. Recetas y el calendario de ocho estaciones.",
@@ -774,6 +1407,24 @@
       "tours": "Experiencias culinarias",
       "ingredients": "Ingredientes locales",
       "modern": "Interpretaciones modernas"
+    },
+    "faq": {
+      "kicker": "La comida sami, en breve",
+      "headline": "Tres preguntas que la gente hace sobre la comida sami.",
+      "items": [
+        {
+          "question": "¿Qué es la comida sami?",
+          "answer": "La comida sami es la cocina del pueblo indígena de Sápmi, la tierra de los sami que abarca el norte de Finlandia, Suecia, Noruega y Rusia. Se basa en el reno, del que se aprovecha cada parte, en el pescado de lago y de río, en bayas y hierbas silvestres y en métodos lentos: hervir, ahumar en frío, secar y salar. Las recetas de esta página son las versiones caseras."
+        },
+        {
+          "question": "¿Qué comen los sami hoy?",
+          "answer": "Los mismos ingredientes, en una mesa cotidiana cualquiera: estofado de reno o reno salteado con papas, sopa de pescado, reno seco y ahumado, pan plano, bayas con la avena. Los hogares sami de hoy compran en el supermercado como todo el mundo, y los platos tradicionales salen en las fiestas, las bodas y la matanza de otoño."
+        },
+        {
+          "question": "¿Qué es el bidos?",
+          "answer": "El bidos es el estofado sami de reno: paleta o jarrete en trozos, dorados y cocidos a fuego lento con papa, zanahoria y cebolla hasta que la carne se deshace. Es el plato de celebración, servido en bodas y reuniones, y la primera receta de esta página."
+        }
+      ]
     }
   },
   "modernLapland": {

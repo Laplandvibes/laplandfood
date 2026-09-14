@@ -487,6 +487,639 @@
       ]
     }
   },
+  "berries": {
+    "title": "Finse bessen: kruipbraam, blauwe bosbes, vossenbes en duindoorn",
+    "description": "De vier wilde bessen die het Finse eten bepalen: hoe elke bes smaakt, wanneer ze rijpt, waar ze groeit en hoe u ze plukt met het toegangsrecht tot de natuur.",
+    "hero": {
+      "eyebrow": "De bessengids",
+      "title": "Vier bessen, één",
+      "titleHighlight": "korte zomer.",
+      "subtitle": "De bossen en kusten van Finland brengen meer wilde bessen voort dan het hele land ooit zou kunnen plukken. Deze vier vormen de Finse keuken. Elke bes heeft haar eigen gids.",
+      "primaryCta": "Lees de plukgids",
+      "secondaryCta": "Alle ingrediënten van Lapland"
+    },
+    "intro": {
+      "lead": "Kruipbraam, blauwe bosbes, vossenbes en duindoorn rijpen na elkaar van juli tot oktober. Samen zijn ze de zoetheid, de zuurheid en de kleur van de Finse voorraadkast.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Allemaal wild",
+          "body": "Geen van de vier wordt in Finland op noemenswaardige schaal gekweekt. Het hele aanbod, van de taart in het café tot het sap in de supermarkt, begint met iemand die plukt."
+        },
+        {
+          "n": "02",
+          "title": "Vrij te plukken",
+          "body": "Het toegangsrecht tot de natuur laat iedereen, inwoner of bezoeker, op de meeste grond wilde bessen plukken zonder te vragen. De regels gaan over respect, niet over vergunningen."
+        },
+        {
+          "n": "03",
+          "title": "Een ladder van seizoenen",
+          "body": "De kruipbraam opent het seizoen op de venen in juli, de blauwe bosbes vult augustus, en vossenbes en duindoorn dragen het door tot in oktober."
+        }
+      ]
+    },
+    "guides": {
+      "kicker": "De vier gidsen",
+      "headline": "Kies een bes.",
+      "lead": "Elke gids beantwoordt dezelfde vragen: smaak, seizoen, het plukrecht, wat de bes waard is en waar u haar tegenkomt.",
+      "cards": [
+        {
+          "name": "Kruipbraam",
+          "latin": "Rubus chamaemorus",
+          "season": "Half juli tot half augustus",
+          "body": "De amberkleurige veenbes die niemand kan kweken. Vier weken per jaar, met de hand geplukt, geprijsd als een delicatesse.",
+          "cta": "Kruipbraamgids"
+        },
+        {
+          "name": "Blauwe bosbes",
+          "latin": "Vaccinium myrtillus",
+          "season": "Eind juli tot september",
+          "body": "De wilde blauwe bes van Finland: paars tot in de kern, per emmer geplukt en in elke augustustaart gebakken.",
+          "cta": "Bosbessengids"
+        },
+        {
+          "name": "Vossenbes",
+          "latin": "Vaccinium vitis-idaea",
+          "season": "Eind augustus tot oktober",
+          "body": "De zure rode bes naast elk rendierbord. Blijft goed in de pot zonder suiker en wordt zoeter na de vorst.",
+          "cta": "Vossenbessengids"
+        },
+        {
+          "name": "Duindoorn",
+          "latin": "Hippophaë rhamnoides",
+          "season": "September tot oktober",
+          "body": "De zure oranje bes van de Botnische kust, tussen de doorns geplukt en als sap gedronken.",
+          "cta": "Duindoorngids"
+        }
+      ]
+    },
+    "calendar": {
+      "kicker": "Seizoen na seizoen",
+      "headline": "Wanneer elke bes rijp is.",
+      "items": [
+        {
+          "period": "Juli",
+          "title": "Kruipbraam",
+          "body": "Open venen onder de middernachtzon, een plukvenster van ongeveer drie weken vanaf half juli."
+        },
+        {
+          "period": "Augustus",
+          "title": "Blauwe bosbes",
+          "body": "Bosstruiken overal: de maand waarin Finland zijn vriezers vult."
+        },
+        {
+          "period": "September",
+          "title": "Vossenbes",
+          "body": "Droge dennenheiden; de eerste nachtvorst maakt de bessen zoeter."
+        },
+        {
+          "period": "September–oktober",
+          "title": "Duindoorn",
+          "body": "Stenige oevers van de Botnische Golf, noordwaarts tot Tornio."
+        },
+        {
+          "period": "Vanaf november",
+          "title": "Uit de pot",
+          "body": "Jam, sap, diepvriesbessen en kissel dragen het seizoen door de winter."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "Leer plukken",
+          "body": "Toegangsrecht tot de natuur, paddenstoelveiligheid en de kalender maand voor maand: de praktische kant van zelf plukken.",
+          "cta": "Plukgids"
+        },
+        {
+          "title": "Kook de bessen",
+          "body": "Kissel van wilde bessen en de andere traditionele recepten, met de werkwijze uitgeschreven.",
+          "cta": "Traditionele recepten"
+        },
+        {
+          "title": "Blijf voor het seizoen",
+          "body": "Juli tot september is bessenseizoen in heel Lapland. Rovaniemi is een werkbare uitvalsbasis voor bosdagen.",
+          "cta": "Bekijk verblijven in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "lingonberry": {
+    "title": "Vossenbes: de alledaagse wilde bes van Finland",
+    "description": "Hoe vossenbessen smaken, wanneer het Finse seizoen loopt, waarom ze zonder suiker goed blijven, hoe ze verschillen van cranberry's en waar u ze in Lapland eet.",
+    "hero": {
+      "eyebrow": "De bessengids · Vossenbes",
+      "title": "Vossenbes, de bes die",
+      "titleHighlight": "zichzelf bewaart.",
+      "subtitle": "Puolukka is de rode bes naast elk bord gebakken rendier, en de bes die Finse gezinnen per emmer plukken. Hier leest u hoe ze smaakt, waarom ze in een pot zonder suiker goed blijft en hoe ze verschilt van de cranberry waarmee ze wordt verward.",
+      "primaryCta": "Leer ze plukken",
+      "secondaryCta": "Alle Finse bessen",
+      "pills": [
+        "Smaak",
+        "Seizoen",
+        "Plukrecht",
+        "Vossenbes of cranberry",
+        "Wat ze waard is",
+        "Jam en moes",
+        "Waar te proeven"
+      ]
+    },
+    "intro": {
+      "lead": "Elke herfst bedekken vossenbessen de droge dennenbossen van Finland in hoeveelheden die niemand zou kunnen plukken. De weinige die geplukt worden, belanden in potten, op de pap en naast het rendier.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Meer dan iemand kan plukken",
+          "body": "De wilde vossenbessenoogst van Finland loopt op tot honderden miljoenen kilo's per jaar, en volgens de schatting van de branchevereniging Arktiset Aromit wordt daarvan maar 3 tot 10 procent ooit geplukt. De rest voedt vogels, beren en de bodem van volgend jaar."
+        },
+        {
+          "n": "02",
+          "title": "Ze bewaart zichzelf",
+          "body": "Vossenbessen bevatten van nature benzoëzuur, en daarom blijft een pot rauw geplette bessen in een koele voorraadkast goed zonder suiker, hitte of toevoegingen. Het is de oorspronkelijke Finse conserve."
+        },
+        {
+          "n": "03",
+          "title": "Het rood op elk rendierbord",
+          "body": "Poronkäristys, gebakken rendier op aardappelpuree, wordt niet geserveerd zonder een lepel vossenbessen. De zuurheid is wat het rijke vlees laat werken."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Eerst de hoofdvraag",
+      "headline": "Hoe smaakt een vossenbes?",
+      "answer": "Zuur, licht bitter en nauwelijks zoet, met een schone, droge afdronk en niets van de muskus van een kruipbraam: denk aan een cranberry met de suiker lager gedraaid en iets meer bitterheid. Rauw laat één bes u al een grimas trekken; door iets warms, hartigs of zuivels geroerd wordt diezelfde zuurheid juist het punt.",
+      "p2": "Vorst helpt. Bessen die na de eerste nachtvorst van september zijn geplukt, zijn merkbaar milder en zoeter dan augustusbessen, en Finse plukkers plannen hun tochten daarop. Volrijpe bessen zijn rondom dieprood; een bleke zijde betekent dat de bes nog een week nodig heeft.",
+      "p3": "U krijgt zelden vossenbessen alleen geserveerd. Ze komen als bijgerecht: rauw geplet met wat suiker naast gebakken rendier of gehaktballen, opgeklopt tot <em>vispipuuro</em>, de roze griesmeelpap die elk Fins kind kent, of gelepeld over warme pap met melk."
+    },
+    "season": {
+      "kicker": "Eind augustus tot oktober",
+      "headline": "Het lange, vergevingsgezinde seizoen.",
+      "lead": "Anders dan kruipbramen wachten vossenbessen op u. Het seizoen opent eind augustus en de bessen blijven tot in oktober aan de struiken hangen, met elke vorst zoeter.",
+      "phases": [
+        {
+          "period": "Eind augustus",
+          "title": "Het eerste rood",
+          "body": "De bessen kleuren eerst op zuidgerichte dennenheiden van witgroen naar rood. Vroege bessen zijn het bitterst; de meeste plukkers laten ze nog een week of twee hangen."
+        },
+        {
+          "period": "September",
+          "title": "De hoofdoogst",
+          "body": "Koele nachten, droge dagen en de eerste vorst: dan trekken gezinnen erop uit met emmers. De bessen zijn stevig, helemaal rood en makkelijk van de struik te strippen."
+        },
+        {
+          "period": "Oktober",
+          "title": "Na de vorst",
+          "body": "Door vorst verzoete bessen blijven goed aan de plant tot de eerste blijvende sneeuw. Sommige van de beste vossenbessen van het jaar worden in de laatste zachte dagen van oktober geplukt."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Toegangsrecht",
+      "headline": "Pluk zoveel u kunt dragen.",
+      "p1": "Het Finse <em>jokamiehenoikeus</em>, het toegangsrecht tot de natuur, laat iedereen wilde bessen plukken op niet-bebouwd land, privébos inbegrepen, zonder vergunning en zonder toestemming van de grondeigenaar. De vossenbes is de bes waarvoor dit recht praktisch gemaakt is: overvloedig, taai en op niemands beschermingslijst.",
+      "p2": "De etiquette is simpel. Blijf weg van huizen en tuinen, beschadig de struiken niet en gebruik de bessenplukker voorzichtig: de kamplukker is legaal en gewoon in Finland, maar een onachtzame haal scheurt de groei van volgend jaar af.",
+      "ctaPrimary": "Lees alle plukregels",
+      "ctaSecondary": "Bekijk de bessenrecepten"
+    },
+    "versus": {
+      "kicker": "Vossenbes of cranberry",
+      "headline": "Dezelfde familie, een ander veen.",
+      "p1": "Vossenbes en cranberry zijn naaste verwanten in het geslacht <em>Vaccinium</em>, en in het buitenland worden de namen verwisseld. In Finland zijn het twee verschillende bessen van twee verschillende plekken: vossenbessen groeien op droge dennenheiden, cranberry's, de veenbessen, in natte venen.",
+      "p2": "Op het bord zit het verschil in grootte en scherpte. Een vossenbes is klein, stevig en gelijkmatig zuur met een bittere toets; de wilde Finse veenbes, <em>karpalo</em>, is groter, zachter en nog zuurder, en de gekweekte Amerikaanse cranberry in supermarktsap is nog groter en milder.",
+      "p3": "De rollen in de keuken verschillen ook. Cranberry's hebben koken en suiker nodig om aangenaam te zijn; vossenbessen kunnen rauw geplet gegeten worden, en daarom zit er in de Finse vossenbessenpot vaak niets anders dan bessen en een beetje suiker.",
+      "p4": "<strong>Als een buitenlands recept cranberrysaus bij wild vraagt, is de vossenbes het Noordse origineel waar die van afstamt.</strong>"
+    },
+    "price": {
+      "kicker": "Wat ze waard is",
+      "headline": "Goedkoop per kilo, onbetaalbaar in de pot.",
+      "lead": "De vossenbes is de wilde bes van de grote volumes in Finland, en de prijs laat dat zien. In 2025 namen opkopers 9,5 miljoen kilo af, meer dan van welke andere wilde bes ook, en betaalden ze plukkers 1,90 euro per kilo, tegenover 13,85 euro voor kruipbramen.",
+      "facts": [
+        {
+          "value": "1,90 €",
+          "label": "betaald aan plukkers per kilo vossenbessen in 2025, volgens het Marsi-rapport van de Finse Voedselautoriteit"
+        },
+        {
+          "value": "9,5 mln kg",
+          "label": "vossenbessen verkocht aan opkopers in 2025, het grootste volume van alle Finse wilde bessen, volgens hetzelfde rapport"
+        },
+        {
+          "value": "3–10 %",
+          "label": "van de vossenbessen- en bosbessenoogst wordt in een gemiddeld jaar geplukt, volgens de schatting van de branchevereniging Arktiset Aromit"
+        }
+      ],
+      "p2": "Het meeste van wat geplukt wordt, komt nooit in de handel: het gaat rechtstreeks van emmer naar vriezer naar de pap van het gezin. De commerciële oogst wordt sap, jam en de diepvriesbessen in elke Finse supermarkt."
+    },
+    "products": {
+      "kicker": "Jam, moes, pap",
+      "headline": "Hoe Finland zijn vossenbessen eet.",
+      "lead": "Een vossenbes wordt zelden vers gegeten. Ze wordt ingemaakt voor de winter, en dan duikt ze op bij het ontbijt, het avondeten en het toetje.",
+      "items": [
+        {
+          "title": "Rauw geplette vossenbessen",
+          "body": "Puolukkasurvos: bessen geplet met een beetje suiker, verder niets. Dankzij het eigen benzoëzuur van de bes blijft het maandenlang goed in de koelkast of een koude voorraadkast. Dit is de pot naast rendier, gehaktballen en lever."
+        },
+        {
+          "title": "Vossenbessenjam",
+          "body": "De gekookte versie, zoeter en gladder, is de exportklassieker en de jam die de meeste bezoekers kennen van Zweedse meubelwinkels. In Finland gaat ze op pannenkoeken, rijstpap en warme pap."
+        },
+        {
+          "title": "Vispipuuro",
+          "body": "Roze opgeklopte pap: vossenbessensap gebonden met griesmeel en dan luchtig geklopt, koud geserveerd met melk. Een schoolkantinetoetje dat volwassenen nog steeds bestellen."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te proeven",
+      "headline": "Puolukka tegenkomen in Lapland.",
+      "lead": "Vossenbessen zijn geen delicatesse waar u naar moet zoeken. Ze zijn het standaardbijgerecht, en in september zijn ze overal.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Naast het rendier",
+          "body": "Bestel poronkäristys, gebakken rendier, waar dan ook in Lapland en de vossenbessen komen erbij. In restaurants die ze zelf maken, zijn de bessen rauw geplet en nog zuur."
+        },
+        {
+          "n": "02",
+          "title": "Op de ontbijttafel",
+          "body": "Hotelontbijten in heel Lapland zetten vossenbessenjam naast de pap en de pannenkoeken. Het is de meest alledaagse manier om de bes te leren kennen."
+        },
+        {
+          "n": "03",
+          "title": "Uw eigen emmer",
+          "body": "Vanaf eind augustus levert een wandeling door elk droog dennenbos vossenbessen aan uw voeten op. Een begeleide pluktocht leert u de plukker, de vorsttruc en de goede heiden."
+        }
+      ],
+      "gygCta": "Bekijk plukexcursies op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "Leer plukken",
+          "body": "Toegangsrecht tot de natuur, veiligheid en wat u meeneemt: de plukgids behandelt de praktische kant van zelf plukken.",
+          "cta": "Plukgids"
+        },
+        {
+          "title": "De andere bessen",
+          "body": "Kruipbraam, blauwe bosbes en duindoorn hebben elk hun eigen gids, met seizoenen, smaak en waar u ze vindt.",
+          "cta": "Alle Finse bessen"
+        },
+        {
+          "title": "Blijf voor het seizoen",
+          "body": "September is stil, goedkoop en vossenbesrood in Lapland. Rovaniemi is een werkbare uitvalsbasis voor bosdagen.",
+          "cta": "Bekijk verblijven in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "bilberry": {
+    "title": "Blauwe bosbes: de wilde blauwe bes van Finland",
+    "description": "Waarom de Finse blauwe bosbes geen gekweekte blauwe bes is, hoe ze smaakt, wanneer het seizoen in Lapland piekt, wat plukkers betaald krijgen en hoe u ze eet, van taart tot soep.",
+    "hero": {
+      "eyebrow": "De bessengids · Blauwe bosbes",
+      "title": "Blauwe bosbes, het blauw dat",
+      "titleHighlight": "uw vingers kleurt.",
+      "subtitle": "Mustikka is de bes die bijna elke Fin weleens heeft geplukt, de bes die een hele augustus van de kindertijd kleurt, en de bes die bezoekers blauwe bes blijven noemen. Hier leest u hoe ze verschilt, hoe ze smaakt en waar ze in Lapland groeit.",
+      "primaryCta": "Leer ze plukken",
+      "secondaryCta": "Alle Finse bessen",
+      "pills": [
+        "Smaak",
+        "Seizoen",
+        "Plukrecht",
+        "Bosbes of gekweekte blauwe bes",
+        "Wat ze waard is",
+        "Taart en soep",
+        "Waar te proeven"
+      ]
+    },
+    "captions": {
+      "taste": "Bosbessen geplukt in het bos bij Salla, augustus 2026",
+      "versus": "Een rijpe bosbes tussen twee vingers, Salla, augustus 2026"
+    },
+    "intro": {
+      "lead": "De blauwe bosbes is het overvloedigste voedsel van het Finse bos, en het voedsel dat de meeste mensen echt hebben geplukt. In een goed jaar wordt de oogst in honderden miljoenen kilo's gemeten.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Wild, niet gekweekt",
+          "body": "Elke Finse bosbes is wild. Ze groeit op kniehoge struiken onder dennen en sparren door het hele land, van de parken van Helsinki tot de fjells van Lapland. Niemand plant haar."
+        },
+        {
+          "n": "02",
+          "title": "Blauw tot in de kern",
+          "body": "Snijd een bosbes door en ze is vanbinnen paars; snijd een gekweekte blauwe bes uit de supermarkt door en ze is bleekgroen. Het pigment dat uw handen en tong kleurt, is de makkelijkste manier om ze uit elkaar te houden."
+        },
+        {
+          "n": "03",
+          "title": "Ook geplukt voor de kost",
+          "body": "Commerciële plukkers verkochten in 2025 6,8 miljoen kilo bosbessen aan opkopers en verdienden 16 miljoen euro, meldt de Finse Voedselautoriteit. Toch wordt volgens de schatting van de sector maar 3 tot 10 procent van de oogst ooit geplukt."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Eerst de hoofdvraag",
+      "headline": "Hoe smaakt een blauwe bosbes?",
+      "answer": "Zoeter en zachter dan een cranberry, scherper en wilder dan een gekweekte blauwe bes: de bosbes is sappig, dunhuidig en intens gekleurd, met een bloemige, licht tanninerijke diepte die een gekweekte blauwe bes niet heeft. Eet een handvol zo van de struik en uw vingers, lippen en tong worden paars.",
+      "p2": "Rijpheid is makkelijk af te lezen. Een rijpe bosbes is dof donkerblauw en laat los bij het lichtste trekje; een bes die weerstand biedt, is een dag of twee te vroeg. Zonverwarmde bessen uit een open plek smaken het zoetst; schaduwbessen uit diep sparrenbos zijn groter en sappiger.",
+      "p3": "In de keuken draagt de smaak overal doorheen: <em>mustikkapiirakka</em>, de taart, <em>mustikkakeitto</em>, de soep, een lepel op de ochtendpap of op <em>viili</em>, de dikke zure melk, en in Lapland de klassieke combinatie van bosbes en rendier."
+    },
+    "season": {
+      "kicker": "Eind juli tot september",
+      "headline": "Augustus is van de bosbes.",
+      "lead": "In Zuid-Finland rijpen de eerste bosbessen in juli. In Lapland loopt het seizoen later en korter, en augustus is de maand.",
+      "phases": [
+        {
+          "period": "Eind juli",
+          "title": "Het eerste blauw",
+          "body": "Zonnige hellingen en open plekken rijpen het eerst. In Lapland zijn dit de proefweken: genoeg voor een handvol tijdens een wandeling, nog niet voor een emmer."
+        },
+        {
+          "period": "Augustus",
+          "title": "De piek",
+          "body": "De bossen zijn vol. Gezinnen plukken per emmer, vriezers raken vol en elk café in Lapland heeft een bosbessentaart op de toonbank. Lange, lichte avonden maken dit de makkelijkste maand van het plukjaar."
+        },
+        {
+          "period": "September",
+          "title": "De laatste",
+          "body": "De bessen worden zacht en vallen, en de struiken kleuren rood. Wat overblijft is zoet, en de plukkers zijn op dezelfde tochten overgestapt op vossenbessen en paddenstoelen."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Toegangsrecht",
+      "headline": "Iedereen mag plukken. Ja, u ook.",
+      "p1": "Het Finse <em>jokamiehenoikeus</em>, het toegangsrecht tot de natuur, dekt bosbessen volledig: elke bezoeker mag ze plukken op niet-bebouwd land, privébos inbegrepen, zonder vergunning en zonder te vragen. Commerciële plukkers werken onder hetzelfde recht.",
+      "p2": "Bessenplukkers zijn gewoon en legaal; gebruik er een voorzichtig, zodat de struik niet scheurt. Blijf weg van huizen en tuinen, en laat het bos achter zoals u het aantrof.",
+      "ctaPrimary": "Lees alle plukregels",
+      "ctaSecondary": "Bekijk de bessenrecepten"
+    },
+    "versus": {
+      "kicker": "Bosbes of gekweekte blauwe bes",
+      "headline": "Niet dezelfde bes.",
+      "p1": "De blauwe bosbes, <em>Vaccinium myrtillus</em>, en de gekweekte blauwe bes, <em>Vaccinium corymbosum</em>, zijn neven, en in de meeste talen, het Fins inbegrepen, heten ze allebei blauwe bes. Op het bord zijn het verschillende vruchten.",
+      "p2": "Bosbessen groeien één voor één aan lage bosstruiken en zijn klein, donker en paars tot in de kern. Gekweekte blauwe bessen groeien in trossen aan hoge, voor de teelt veredelde struiken, zijn groter en steviger en blijven vanbinnen bleek omdat hun kleur alleen in de schil zit.",
+      "p3": "Dat verschil is de reden dat een Finse bosbessentaart paars uitloopt en een blueberrymuffin niet, en dat diepgevroren wilde bosbessen in winkels in het buitenland de moeite van het zoeken waard zijn: de smaak is geconcentreerd op een manier die de gekweekte bes nooit haalt.",
+      "p4": "<strong>Ziet u een Finse menukaart vertaald met blueberry of blauwe bes, dan gaat het om de bosbes. In Lapland is de blauwe bes op het bord de wilde.</strong>"
+    },
+    "price": {
+      "kicker": "Wat ze waard is",
+      "headline": "Commercieel de belangrijkste wilde bes van Finland.",
+      "lead": "Zo omschrijft de Finse Voedselautoriteit zelf de bosbes van de afgelopen jaren. In 2025 verdienden plukkers er 16 miljoen euro mee, tegen 2,39 euro per kilo.",
+      "facts": [
+        {
+          "value": "2,39 €",
+          "label": "betaald aan plukkers per kilo bosbessen in 2025, volgens het Marsi-rapport van de Finse Voedselautoriteit"
+        },
+        {
+          "value": "16 mln €",
+          "label": "aan plukinkomsten uit bosbessen in Finland in 2025, volgens hetzelfde rapport"
+        },
+        {
+          "value": "3–10 %",
+          "label": "van de bosbessen- en vossenbessenoogst wordt in een gemiddeld jaar geplukt, volgens de schatting van de branchevereniging Arktiset Aromit"
+        }
+      ],
+      "p2": "Het grootste deel van de commerciële oogst wordt ingevroren en geëxporteerd, veel ervan om elders verwerkt te worden. De bessen die u in een café in Lapland tegenkomt, komen uit een kortere keten: iemands ochtend in het bos, vaak die van de café-eigenaar."
+    },
+    "products": {
+      "kicker": "Taart, soep, pap",
+      "headline": "Hoe Finland zijn bosbessen eet.",
+      "lead": "Vers per handvol in augustus, en uit de vriezer de andere elf maanden.",
+      "items": [
+        {
+          "title": "Bosbessentaart",
+          "body": "Mustikkapiirakka: een zachte taart, vaak met een havertopping, waarin de bessen meebakken tot ze uitlopen. Elk Fins café heeft er in augustus een, en de goede smaken naar bos in plaats van naar suiker."
+        },
+        {
+          "title": "Bosbessensoep",
+          "body": "Mustikkakeitto: bessen zachtjes gekookt met een beetje suiker en gebonden met aardappelzetmeel, warm of koud geserveerd, alleen of over pap. Ook de drank van de langlaufer, heet uit de thermosfles op de loipe."
+        },
+        {
+          "title": "Bij rendier",
+          "body": "In de restaurants van Lapland staat een bosbessenreductie of melkzuurgefermenteerde bosbessen naast de rendierfilet. De zuurheid snijdt door de rijkdom; de kleur doet de rest."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te proeven",
+      "headline": "Mustikka tegenkomen in Lapland.",
+      "lead": "In augustus hoeft u niet te zoeken. Buiten het seizoen dragen de taart en de soep de bes door het jaar.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "Elk bos, elke augustus",
+          "body": "Stap bij Rovaniemi, Levi of Saariselkä van een gemarkeerd pad af en de struiken liggen aan uw voeten. Een begeleide wandeling voegt de goede plekken en de veiligheidsuitleg toe."
+        },
+        {
+          "n": "02",
+          "title": "Cafétoonbanken",
+          "body": "Bosbessentaart met vanillesaus is de standaardbestelling in een café in Lapland in de nazomer. Vraag of de bessen lokaal geplukt zijn; in augustus is het antwoord meestal ja."
+        },
+        {
+          "n": "03",
+          "title": "Proeverijmenu's",
+          "body": "De fine-diningkeukens van Lapland gebruiken bosbessen het hele jaar door gefermenteerd, ingevroren en gereduceerd. Zie de restaurantgids voor de adressen."
+        }
+      ],
+      "gygCta": "Bekijk plukexcursies op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "Leer plukken",
+          "body": "Toegangsrecht tot de natuur, paddenstoelveiligheid en wat u meeneemt: de plukgids behandelt de praktische kant.",
+          "cta": "Plukgids"
+        },
+        {
+          "title": "De andere bessen",
+          "body": "Kruipbraam, vossenbes en duindoorn hebben elk hun eigen gids, met seizoenen, smaak en waar u ze vindt.",
+          "cta": "Alle Finse bessen"
+        },
+        {
+          "title": "Blijf voor het seizoen",
+          "body": "Augustus in Lapland is warm, licht en blauw onder de voeten. Rovaniemi is een werkbare uitvalsbasis voor bosdagen.",
+          "cta": "Bekijk verblijven in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "seaBuckthorn": {
+    "title": "Duindoorn: de zuurste bes van Finland",
+    "description": "Hoe duindoorn smaakt, waar hij wild groeit aan de Finse kust van de Botnische Golf, wanneer hij rijpt, waarom hij tussen doorns geplukt wordt en hoe Finnen hem drinken en koken.",
+    "hero": {
+      "eyebrow": "De bessengids · Duindoorn",
+      "title": "Duindoorn, oranje vuur",
+      "titleHighlight": "van de oever.",
+      "subtitle": "Tyrni groeit helemaal niet in de bossen van het binnenland van Lapland. Hij groeit op de stenige oevers van de Botnische Golf, noordwaarts tot de Laplandse kust bij Tornio, en het is de zuurste bes van de Finse voorraadkast en een van de rijkste aan vitamine C. Hier leest u waar hij leeft, hoe hij smaakt en waarom hij zo moeilijk te plukken is.",
+      "primaryCta": "Leer hem plukken",
+      "secondaryCta": "Alle Finse bessen",
+      "pills": [
+        "Smaak",
+        "Seizoen",
+        "Plukrecht",
+        "Waarom de doorns",
+        "Vitamine C",
+        "Sap en jam",
+        "Waar te proeven"
+      ]
+    },
+    "intro": {
+      "lead": "Duindoorn is de vreemde eend onder de Finse bessen: een kuststruik, een oogst vol doorns en een smaak zo scherp dat bijna niemand hem puur eet.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Een oeverplant, geen bosplant",
+          "body": "Wilde duindoorn groeit op de rotsige en stenige oevers van de Botnische Golf, van de archipel van Uusikaupunki noordwaarts tot Tornio, en op de Ålandeilanden. Het binnenland van Lapland heeft er geen; de kust bij Tornio en Kemi is zijn noordgrens."
+        },
+        {
+          "n": "02",
+          "title": "Zuur met opzet",
+          "body": "De bessen zijn intens zuur, licht bitter en vaag olieachtig, met daaronder een toets van passievrucht en abrikoos. Finnen drinken hem verdund, gezoet of door een toetje gevouwen, zelden per handvol."
+        },
+        {
+          "n": "03",
+          "title": "Rijk aan vitamine C",
+          "body": "De Finse voedingsmiddelendatabank geeft voor duindoorn ongeveer 100 tot 400 milligram vitamine C per 100 gram bessen, en daarom behandelen Finnen hem als hun eigen citrusvrucht."
+        }
+      ]
+    },
+    "taste": {
+      "kicker": "Eerst de hoofdvraag",
+      "headline": "Hoe smaakt duindoorn?",
+      "answer": "Scherp. Een rijpe duindoornbes is zo zuur als een citroen, met een bittere, licht olieachtige rand en, als de schok voorbij is, een tropische toets ergens tussen passievrucht en abrikoos. Het sap is dik en feloranje en kleurt alles wat het aanraakt.",
+      "p2": "Die zuurheid is de reden dat de bes bijna nooit puur gegeten wordt. Hij wordt verdund tot sap, gezoet tot jam, ingevroren tot sorbet, of door koks gebruikt zoals een citroen wordt gebruikt: een lepel duindoorn snijdt door room, witte chocolade, vette vis en rijk rendier.",
+      "p3": "Vorst verzacht hem nauwelijks. De bessen smaken in oktober vrijwel hetzelfde als in september; wat verandert is hoe makkelijk ze van de doornige tak loskomen, en dat is het echte probleem van de plukker."
+    },
+    "season": {
+      "kicker": "September tot oktober",
+      "headline": "Rijp als de kust grijs wordt.",
+      "lead": "Wilde duindoorn rijpt in september en oktober, als de zomer allang van de Botnische kust verdwenen is en de bessen het felste zijn wat er op de oever te zien is.",
+      "phases": [
+        {
+          "period": "Nazomer",
+          "title": "Oranje worden",
+          "body": "De groene bessen kleuren in de loop van augustus. De struiken, dicht en zilverbladig, zijn makkelijk te herkennen vanaf het oeverpad; de vrucht is de doorns nog niet waard."
+        },
+        {
+          "period": "September",
+          "title": "De oogst begint",
+          "body": "De bessen zijn helemaal oranje, sappig en zuur. Telers knippen vruchtdragende takken af en vriezen ze in zodat de bessen eraf geschud kunnen worden; wilde plukkers drukken of plukken ze ter plekke, langzaam."
+        },
+        {
+          "period": "Oktober",
+          "title": "Late bessen",
+          "body": "Rijpe bessen blijven tot diep in de herfst aan de takken. Na de eerste strenge vorst laten ze makkelijker los, en sommige plukkers wachten precies daarop."
+        }
+      ]
+    },
+    "rights": {
+      "kicker": "Toegangsrecht",
+      "headline": "Wilde struiken ja, tuinen nee.",
+      "p1": "Het toegangsrecht tot de natuur dekt wilde duindoorn zoals elke andere wilde bes: plukken is toegestaan op niet-bebouwde oevers, privéoever inbegrepen, zolang u wegblijft van huizen en erven. Gekweekte duindoorn op boerderijen en in tuinen is verboden terrein.",
+      "p2": "Twee waarschuwingen. Knip of breek geen takken af om bij de bessen te komen; dat is een plant beschadigen, en dat staat het recht niet toe. En draag handschoenen: de doorns zijn lang, hard en overal.",
+      "ctaPrimary": "Lees alle plukregels",
+      "ctaSecondary": "Bekijk de bessenrecepten"
+    },
+    "versus": {
+      "kicker": "Waarom de doorns",
+      "headline": "De bes die terugvecht.",
+      "p1": "Duindoornbessen zitten dicht opeen langs de takken, elk zo stevig vast dat trekken ze meestal laat barsten. Tussen de bessen zitten doorns van meerdere centimeters. Zelfs een klein mandje met de hand plukken vraagt geduld en dikke handschoenen.",
+      "p2": "Commerciële telers lossen het op met kou. Ze knippen vruchtdragende takken af en vriezen ze in; bevroren bessen knappen er schoon af en gaan rechtstreeks de pers in. Daarom bereikt de meeste duindoorn u ook als sap, puree of jam en niet vers.",
+      "p3": "De struik is tweehuizig: mannelijke en vrouwelijke planten zijn gescheiden, en alleen de vrouwelijke dragen vrucht, waardoor een dichte begroeiing op de oever voor de helft onvruchtbaar kan zijn.",
+      "p4": "<strong>De conclusie voor een reiziger: verse duindoorn is zelfs in Finland zeldzaam, maar het sap ligt in elke supermarkt.</strong>"
+    },
+    "price": {
+      "kicker": "Vitamine C",
+      "headline": "Waarom Finnen hem hun citrus noemen.",
+      "lead": "Duindoorn is een van de vitamine-C-rijkste bessen die wild in Finland groeien: ongeveer 100 tot 400 milligram per 100 gram bessen, volgens de nationale voedingsmiddelendatabank.",
+      "facts": [
+        {
+          "value": "100–400 mg",
+          "label": "vitamine C per 100 g duindoornbessen, volgens de Fineli-databank zoals aangehaald door de branchevereniging Arktiset Aromit"
+        },
+        {
+          "value": "Sept–okt",
+          "label": "het venster voor de wilde oogst aan de Botnische kust"
+        },
+        {
+          "value": "Uusikaupunki – Tornio",
+          "label": "het wilde verspreidingsgebied langs de Botnische Golf, plus de Ålandeilanden"
+        }
+      ],
+      "p2": "Niets hiervan maakt er een medicijn van, en de Finse wet is streng over wat een levensmiddel mag beweren. Neem de cijfers voor wat ze zijn: een verklaring waarom een klein glas van het sap smaakt zoals het smaakt."
+    },
+    "products": {
+      "kicker": "Sap, jam, toetje",
+      "headline": "Hoe Finland zijn zuurste bes gebruikt.",
+      "lead": "Niemand eet een kom duindoorn. Iedereen heeft het sap gedronken, en bijna al dat sap komt tegenwoordig van gekweekte struiken: het bessenhandelsrapport van de Finse Voedselautoriteit merkt op dat de verkoop van wilde duindoorn vrijwel is opgehouden sinds de teelt het heeft overgenomen.",
+      "items": [
+        {
+          "title": "Duindoornsap",
+          "body": "Tyrnimehu: geperst, gezoet en meestal verdund, gedronken uit kleine glazen. De supermarktversie is hoe de meeste Finnen de bes leren kennen; de versgeperste boerderijversie is scherper en dikker."
+        },
+        {
+          "title": "Jam en puree",
+          "body": "Gekookt met suiker verandert de zuurheid in iets wat dichter bij marmelade komt. Gesmeerd op roggebrood, gelepeld over pap of geserveerd bij kaas."
+        },
+        {
+          "title": "Op de dessertkaart",
+          "body": "De proeverijmenu's van Lapland en Helsinki gebruiken duindoorn als hun citroen: een sorbet tussen de gangen, een curd onder witte chocolade, een scherpe saus bij vette Arctische vis."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te proeven",
+      "headline": "Tyrni tegenkomen in Finland.",
+      "lead": "De struik vindt u niet op de fjells. De bes vindt u in het glas, de pot en het toetje, door het hele land.",
+      "ways": [
+        {
+          "n": "01",
+          "title": "De kust bij Tornio en Kemi",
+          "body": "Het noordelijke einde van het wilde verspreidingsgebied is de oever van Zee-Lapland. Zoek naar dichte zilvergroene struiken op stenige stranden; in september zijn ze onmiskenbaar."
+        },
+        {
+          "n": "02",
+          "title": "Elke Finse supermarkt",
+          "body": "Duindoornsap, -puree en -jam zijn gewone boodschappen. In het diepvriesvak ligt vaak een zak bessen, de makkelijkste manier om de bes mee naar huis te nemen."
+        },
+        {
+          "n": "03",
+          "title": "Dessertkaarten",
+          "body": "Vraag om de duindoorngang. In de fine-diningzalen van Lapland duikt hij vaker op als sorbet, curd of saus dan welke andere bes ook, behalve de kruipbraam."
+        }
+      ],
+      "gygCta": "Bekijk plukexcursies op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "Leer plukken",
+          "body": "Toegangsrecht tot de natuur, wat u meeneemt en hoe u plukt zonder een plant te beschadigen: de plukgids.",
+          "cta": "Plukgids"
+        },
+        {
+          "title": "De andere bessen",
+          "body": "Kruipbraam, vossenbes en blauwe bosbes hebben elk hun eigen gids, met seizoenen, smaak en waar u ze vindt.",
+          "cta": "Alle Finse bessen"
+        },
+        {
+          "title": "Blijf aan de kust",
+          "body": "Tornio en Kemi zijn de kuststeden van Lapland, een makkelijke uitvalsbasis voor oeverwandelingen in september.",
+          "cta": "Bekijk verblijven in Tornio"
+        }
+      ]
+    }
+  },
   "traditionalRecipes": {
     "title": "Sami-eten: traditionele Laplandse recepten",
     "description": "Vier gerechten uit de Samische keuken: bidos-rendierstoof, gahkku-platbrood, Sápmi-vissoep en bessenkissel. Volledige recepten en de acht-seizoenenkalender.",
@@ -774,6 +1407,24 @@
       "tours": "Kookbelevingen",
       "ingredients": "Lokale ingrediënten",
       "modern": "Moderne interpretaties"
+    },
+    "faq": {
+      "kicker": "Samisch eten, in het kort",
+      "headline": "Drie vragen die mensen stellen over Samisch eten.",
+      "items": [
+        {
+          "question": "Wat is Samisch eten?",
+          "answer": "Samisch eten is de keuken van het inheemse volk van Sápmi, het land van de Samen in het noorden van Finland, Zweden, Noorwegen en Rusland. Het is gebouwd op het rendier, waarvan elk deel wordt gebruikt, op meer- en riviervis, op wilde bessen en kruiden en op langzame methoden: koken, koud roken, drogen en zouten. De recepten op deze pagina zijn de huisversies."
+        },
+        {
+          "question": "Wat eten Samen vandaag?",
+          "answer": "Dezelfde ingrediënten, op een gewone doordeweekse tafel: rendierstoofpot of gebakken rendier met aardappelen, vissoep, gedroogd en gerookt rendier, platbrood, bessen bij de pap. Moderne Samische huishoudens doen boodschappen in de supermarkt zoals iedereen, en de traditionele gerechten komen op tafel bij feesten, bruiloften en de najaarsslacht."
+        },
+        {
+          "question": "Wat is bidos?",
+          "answer": "Bidos is de Samische rendierstoofpot: schouder of schenkel in stukken, aangebraden en langzaam gestoofd met aardappel, wortel en ui tot het vlees uit elkaar valt. Het is het feestgerecht, geserveerd op bruiloften en bijeenkomsten, en het eerste recept op deze pagina."
+        }
+      ]
     }
   },
   "modernLapland": {

@@ -6,7 +6,11 @@
 
 - [Home](https://laplandfood.com/): How Finland eats: recipes, Michelin and tours
 - [Local Ingredients](https://laplandfood.com/local-ingredients): Where Lapland's ingredients come from
+- [Finnish Berries](https://laplandfood.com/berries): The four wild berries of the Finnish kitchen, with a guide for each
 - [Cloudberry](https://laplandfood.com/cloudberry): The Arctic berry no one can farm
+- [Bilberry](https://laplandfood.com/bilberry): Finland's wild blueberry and how it differs from the farmed one
+- [Lingonberry](https://laplandfood.com/lingonberry): The tart red berry beside every reindeer plate
+- [Sea Buckthorn](https://laplandfood.com/sea-buckthorn): The sour orange berry of the Bothnian coast
 - [Traditional Recipes](https://laplandfood.com/traditional-recipes): Traditional Finnish and Lapland recipes
 - [Modern Lapland](https://laplandfood.com/modern-lapland): Modern Lapland food scene
 - [Foraging Guide](https://laplandfood.com/foraging-guide): Foraging berries, mushrooms and wild food

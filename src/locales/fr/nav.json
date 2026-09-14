@@ -3,12 +3,20 @@
     "home": "Accueil",
     "ingredients": "Ingrédients",
     "cloudberry": "Mûre arctique",
+    "berries": "Baies",
     "recipes": "Recettes",
     "modern": "Moderne",
     "foraging": "Cueillette",
     "michelin": "Michelin",
     "foodTours": "Tours culinaires",
     "about": "À propos"
+  },
+  "berries": {
+    "allBerries": "Toutes les baies finlandaises",
+    "bilberry": "Myrtille sauvage",
+    "lingonberry": "Airelle rouge",
+    "seaBuckthorn": "Argousier",
+    "readGuide": "Lire le guide complet"
   },
   "ariaHome": "Accueil LaplandFood",
   "ariaMain": "Navigation principale",
