@@ -724,24 +724,27 @@ interface ChromeCopy {
   adLabel: string
   worldwide: string
   cta: string
+  /** "Katso koko valikoima" — sama sanamuoto kuin jaetussa ProductRailissa,
+   *  jotta sama mainostaja puhuu samalla tavalla joka pinnalla. */
+  ctaAll: string
   soldBy: string
 }
 
 /** adLabel/worldwide/soldBy sanasta sanaan samat kuin FinnishPantryAd:ssa,
  *  jotta mainosmerkintä on identtinen joka Suomikauppa-pinnalla. */
 const CHROME: Record<Locale, ChromeCopy> = {
-  en: { adLabel: 'Ad', worldwide: 'Ships worldwide', cta: 'View product', soldBy: 'Sold by Suomikauppa.fi' },
-  fi: { adLabel: 'Mainos', worldwide: 'Toimitus maailmanlaajuisesti', cta: 'Katso tuote', soldBy: 'Myynti: Suomikauppa.fi' },
-  de: { adLabel: 'Anzeige', worldwide: 'Weltweiter Versand', cta: 'Zum Produkt', soldBy: 'Verkauf durch Suomikauppa.fi' },
-  ja: { adLabel: '広告', worldwide: '世界中へ配送', cta: '商品を見る', soldBy: '販売：Suomikauppa.fi' },
-  es: { adLabel: 'Anuncio', worldwide: 'Envíos a todo el mundo', cta: 'Ver producto', soldBy: 'Vendido por Suomikauppa.fi' },
-  'pt-BR': { adLabel: 'Anúncio', worldwide: 'Envio para todo o mundo', cta: 'Ver produto', soldBy: 'Vendido pela Suomikauppa.fi' },
-  'zh-CN': { adLabel: '广告', worldwide: '全球配送', cta: '查看商品', soldBy: '由 Suomikauppa.fi 销售' },
-  ko: { adLabel: '광고', worldwide: '전 세계 배송', cta: '상품 보기', soldBy: 'Suomikauppa.fi 판매' },
-  fr: { adLabel: 'Annonce', worldwide: 'Livraison dans le monde entier', cta: 'Voir le produit', soldBy: 'Vendu par Suomikauppa.fi' },
-  it: { adLabel: 'Annuncio', worldwide: 'Spedizione in tutto il mondo', cta: 'Veda il prodotto', soldBy: 'Venduto da Suomikauppa.fi' },
-  nl: { adLabel: 'Advertentie', worldwide: 'Wereldwijde verzending', cta: 'Bekijk product', soldBy: 'Verkocht door Suomikauppa.fi' },
-  sv: { adLabel: 'Annons', worldwide: 'Skickar över hela världen', cta: 'Se produkten', soldBy: 'Säljs av Suomikauppa.fi' },
+  en: { adLabel: 'Ad', worldwide: 'Ships worldwide', cta: 'View product', ctaAll: 'See the full range', soldBy: 'Sold by Suomikauppa.fi' },
+  fi: { adLabel: 'Mainos', worldwide: 'Toimitus maailmanlaajuisesti', cta: 'Katso tuote', ctaAll: 'Katso koko valikoima', soldBy: 'Myynti: Suomikauppa.fi' },
+  de: { adLabel: 'Anzeige', worldwide: 'Weltweiter Versand', cta: 'Zum Produkt', ctaAll: 'Zum ganzen Sortiment', soldBy: 'Verkauf durch Suomikauppa.fi' },
+  ja: { adLabel: '広告', worldwide: '世界中へ配送', cta: '商品を見る', ctaAll: '全商品を見る', soldBy: '販売：Suomikauppa.fi' },
+  es: { adLabel: 'Anuncio', worldwide: 'Envíos a todo el mundo', cta: 'Ver producto', ctaAll: 'Ver todo el catálogo', soldBy: 'Vendido por Suomikauppa.fi' },
+  'pt-BR': { adLabel: 'Anúncio', worldwide: 'Envio para todo o mundo', cta: 'Ver produto', ctaAll: 'Ver o catálogo completo', soldBy: 'Vendido pela Suomikauppa.fi' },
+  'zh-CN': { adLabel: '广告', worldwide: '全球配送', cta: '查看商品', ctaAll: '查看全部商品', soldBy: '由 Suomikauppa.fi 销售' },
+  ko: { adLabel: '광고', worldwide: '전 세계 배송', cta: '상품 보기', ctaAll: '전체 상품 보기', soldBy: 'Suomikauppa.fi 판매' },
+  fr: { adLabel: 'Annonce', worldwide: 'Livraison dans le monde entier', cta: 'Voir le produit', ctaAll: 'Voir toute la gamme', soldBy: 'Vendu par Suomikauppa.fi' },
+  it: { adLabel: 'Annuncio', worldwide: 'Spedizione in tutto il mondo', cta: 'Veda il prodotto', ctaAll: 'Veda tutto il catalogo', soldBy: 'Venduto da Suomikauppa.fi' },
+  nl: { adLabel: 'Advertentie', worldwide: 'Wereldwijde verzending', cta: 'Bekijk product', ctaAll: 'Bekijk het hele assortiment', soldBy: 'Verkocht door Suomikauppa.fi' },
+  sv: { adLabel: 'Annons', worldwide: 'Skickar över hela världen', cta: 'Se produkten', ctaAll: 'Se hela sortimentet', soldBy: 'Säljs av Suomikauppa.fi' },
 }
 
 export default function SuomikauppaPicks({
@@ -762,17 +765,42 @@ export default function SuomikauppaPicks({
       style={{ borderTop: `3px solid ${FIN_BLUE}` }}
       aria-label={c.headline}
     >
-      <div className="mb-4 flex flex-col gap-1.5">
-        <span
-          className="inline-flex w-fit items-center rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.16em]"
-          style={{ backgroundColor: 'rgba(0,47,108,0.08)', color: FIN_BLUE }}
+      {/* Kumppanin brandi nakyviin (Vesa 15.9.). Logo on tumma muste
+          lapinakyvalla taustalla, joten valkoisella kortilla se ei tarvitse
+          laattaa — sama polariteettisaanto kuin jaetussa AdUnitissa. */}
+      <div className="mb-5 flex flex-wrap items-center justify-between gap-x-6 gap-y-3">
+        <div className="flex flex-col gap-2">
+          <span
+            className="inline-flex w-fit items-center rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.16em]"
+            style={{ backgroundColor: 'rgba(0,47,108,0.08)', color: FIN_BLUE }}
+          >
+            {chrome.adLabel}
+          </span>
+          <img
+            src="/images/partners/suomikauppa/logo.png"
+            alt="Suomikauppa.fi"
+            width={381}
+            height={88}
+            loading="lazy"
+            decoding="async"
+            className="h-7 w-auto max-w-[9.5rem] object-contain"
+          />
+        </div>
+        <a
+          href={`https://go.laplandvibes.com/go/suomikauppa?sid=${variant}_rail_all`}
+          target="_blank"
+          rel="sponsored nofollow noopener"
+          onClick={() => trackAffiliateClick(`${variant}_rail_all`, 'suomikauppa')}
+          className="group/all inline-flex min-h-11 items-center gap-1.5 rounded-full px-4 text-[13px] font-semibold text-white no-underline transition-transform active:scale-[0.97]"
+          style={{ backgroundColor: FIN_BLUE }}
         >
-          {chrome.adLabel}
-        </span>
-        <p className="text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: FIN_BLUE }}>
-          {c.eyebrow}
-        </p>
+          {chrome.ctaAll}
+          <ArrowUpRight className="h-3.5 w-3.5 transition-transform group-hover/all:translate-x-0.5 group-hover/all:-translate-y-0.5" aria-hidden="true" />
+        </a>
       </div>
+      <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: FIN_BLUE }}>
+        {c.eyebrow}
+      </p>
 
       <h2 className="mb-3 max-w-2xl text-2xl font-bold leading-tight sm:text-3xl">{c.headline}</h2>
       <p className="max-w-2xl text-sm leading-relaxed text-slate-600 sm:text-base">{c.body}</p>
