@@ -200,7 +200,7 @@ export default function ForagingGuide() {
                 </div>
                 <figcaption className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
                   {t('foragingGuide.mushroomSafety.caption')}
-                  <span className="text-[#002F6C]/45"> · {tc('photo.credit')}</span>
+                  <span className="text-[#002F6C]/70"> · {tc('photo.credit')}</span>
                 </figcaption>
               </figure>
               <div className="text-[#002F6C]/85 space-y-5">

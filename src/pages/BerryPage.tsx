@@ -73,7 +73,7 @@ function ImageProse({ id, kicker, headline, image, alt, caption, credit, imageRi
                 {caption && (
                   <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
                     {caption}
-                    {credit && <span className="text-[#002F6C]/45"> · {credit}</span>}
+                    {credit && <span className="text-[#002F6C]/70"> · {credit}</span>}
                   </p>
                 )}
               </div>
