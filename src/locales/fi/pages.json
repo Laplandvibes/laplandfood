@@ -586,10 +586,10 @@
       ]
     },
     "other": {
-      "kicker": "Ja loput",
-      "headline": "Suomessa on paljon enemmän marjoja kuin neljä.",
-      "lead": "Arktiset Aromit ry laskee Suomen luonnosta noin 50 luonnonvaraista marjalajia, joista 37 on syötäviä. Nämä neljä ovat ne, joita poimitaan ämpäreittäin ja jotka päätyvät ravintolan lautaselle. Tässä kuusi seuraavaa, jotka kannattaa tunnistaa nimeltä.",
-      "note": "Lajimäärä: Arktiset Aromit ry.",
+      "kicker": "Muut marjat",
+      "headline": "Suomen luonnossa kasvaa noin 50 marjaa.",
+      "lead": "Arktiset Aromit ry laskee niistä 37 syötäviksi. Tässä kuusi, jotka kannattaa tunnistaa nimeltä.",
+      "note": "Lähde: Arktiset Aromit ry (arktisetaromit.fi).",
       "items": [
         {
           "name": "Karpalo",

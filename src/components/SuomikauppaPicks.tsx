@@ -57,6 +57,18 @@ function hrefFor(sid: string, handle: string): string {
   return `https://go.laplandvibes.com/go/suomikauppa?sid=${sid}&dest=${encodeURIComponent(dest)}`
 }
 
+/**
+ * Tuotekuva = kaupan OMA tuotekuva, haettu heidan tuotesivunsa og:imagesta ja
+ * tallennettu handlen nimella (`scripts`-ajo 15.9.2026). Polku johdetaan
+ * handlesta, jolloin kuva ei voi osoittaa eri tuotteeseen kuin linkki.
+ *
+ * 🔴 Vesa 15.9.2026: kortit olivat pelkkaa tekstia, vaikka verkoston
+ * mainosstandardi sanoo etta mainos on kuva. Portti `gate:kumppanikuvat`
+ * ei nahnyt tata: se tarkistaa etta renderoity kuva EI OLE RIKKI, joten
+ * rivi jossa ei ole yhtaan kuvaa lapaisi sen tyhjana.
+ */
+const imageForHandle = (handle: string) => `/images/partners/suomikauppa/${handle}.webp`
+
 const PRODUCTS: Record<SuomikauppaPicksVariant, Product[]> = {
   reindeer: [
     {
@@ -248,9 +260,13 @@ const PRODUCTS: Record<SuomikauppaPicksVariant, Product[]> = {
   rye: [
     {
       sid: 'food_guide_rye_jalkiuuni',
-      handle: 'oululainen-jalkiuuni-aito-ruis-4kpl-240g',
+      // 🔴 15.9.2026: edellinen handle `oululainen-jalkiuuni-aito-ruis-4kpl-240g`
+      // palautti kaupan tuotesivulta 404 — tuote oli poistunut valikoimasta ja
+      // kortti osoitti kuolleeseen sivuun. Vaihdettu saman tuoteperheen
+      // myynnissa olevaan; kuvaustekstit 12 kielella patevat sellaisenaan.
+      handle: 'oululainen-jalkiuuni-ohut-taysjyvaruis-6kpl-240g',
       brand: 'Oululainen',
-      name: 'Jälkiuuni Aito Ruis',
+      name: 'Jälkiuuni ohut täysjyväruis',
       desc: {
         en: 'Slow-baked wholegrain rye bread',
         fi: 'Hitaasti paistettu täysjyväruisleipä',
@@ -772,6 +788,19 @@ export default function SuomikauppaPicks({
             className="group flex flex-col rounded-2xl border border-slate-900/10 bg-white p-5 no-underline transition-all hover:-translate-y-0.5 hover:shadow-[0_10px_28px_rgba(0,47,108,0.12)]"
             style={{ borderColor: 'rgba(0,47,108,0.14)' }}
           >
+            {/* Kaupan omat tuotekuvat on kuvattu tummalle taustalle, joten kuva
+                tayttaa laatan reunasta reunaan. Valkoinen laatta + padding teki
+                niista mustia laatikoita valkoisen kehyksen sisalla. */}
+            <div className="mb-4 aspect-square overflow-hidden rounded-xl bg-slate-100 ring-1 ring-slate-900/5">
+              <img
+                src={imageForHandle(p.handle)}
+                alt={p.name}
+                loading="lazy"
+                decoding="async"
+                onError={(e) => { e.currentTarget.closest('div')!.style.display = 'none' }}
+                className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+              />
+            </div>
             <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-400">{p.brand}</p>
             <p className="mt-1 font-bold leading-snug" style={{ color: FIN_BLUE }}>
               {p.name}

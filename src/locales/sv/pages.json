@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "Och resten",
-      "headline": "Finland har långt fler än fyra bär.",
-      "lead": "Föreningen Arktiset Aromit räknar ungefär 50 vilda bärarter i Finland, varav 37 är ätliga. De fyra ovan är de som plockas hinkvis och når restaurangtallriken. Här är de sex följande som är värda att kunna vid namn.",
-      "note": "Antal arter: Arktiset Aromit ry.",
+      "kicker": "Andra bär",
+      "headline": "Finland har omkring 50 vilda bär.",
+      "lead": "Föreningen Arktiset Aromit räknar 37 av dem som ätliga. Här är sex som är värda att kunna vid namn.",
+      "note": "Källa: Arktiset Aromit ry (arktisetaromit.fi).",
       "items": [
         {
           "name": "Tranbär",

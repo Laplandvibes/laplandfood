@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "还有其余的",
-      "headline": "芬兰的浆果远不止四种。",
-      "lead": "据行业协会 Arktiset Aromit 统计，芬兰的野外约有50种野生浆果，其中37种可以食用。上面这四种是成桶采摘、能端上餐厅餐桌的。下面是接下来值得记住名字的六种。",
-      "note": "物种数量来源：Arktiset Aromit 协会。",
+      "kicker": "其他浆果",
+      "headline": "芬兰约有50种野生浆果。",
+      "lead": "Arktiset Aromit 协会认为其中37种可以食用。下面是值得记住名字的六种。",
+      "note": "来源：Arktiset Aromit 协会（arktisetaromit.fi）。",
       "items": [
         {
           "name": "蔓越莓",

@@ -586,10 +586,10 @@
       ]
     },
     "other": {
-      "kicker": "Und der Rest",
-      "headline": "Finnland hat weit mehr als vier Beeren.",
-      "lead": "Der Verband Arktiset Aromit zählt in Finnland rund 50 wilde Beerenarten, von denen 37 essbar sind. Die vier oben sind jene, die eimerweise gepflückt werden und auf den Restaurantteller kommen. Hier die nächsten sechs, die Sie beim Namen kennen sollten.",
-      "note": "Artenzahl: Arktiset Aromit ry (Verband Arktische Aromen).",
+      "kicker": "Weitere Beeren",
+      "headline": "Finnland hat rund 50 wilde Beeren.",
+      "lead": "Der Verband Arktiset Aromit zählt 37 davon als essbar. Hier sind sechs, die Sie beim Namen kennen sollten.",
+      "note": "Quelle: Arktiset Aromit ry (arktisetaromit.fi).",
       "items": [
         {
           "name": "Moosbeere",

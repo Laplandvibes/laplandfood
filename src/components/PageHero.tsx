@@ -63,7 +63,7 @@ export default function PageHero({
 
   return (
     <>
-    <section className="relative pt-16 min-h-[60svh] md:min-h-[68svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+    <section className="relative pt-16 min-h-[72svh] md:min-h-[80svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
       <img
         src={imageUrl}
         alt={imageAlt}
@@ -75,11 +75,11 @@ export default function PageHero({
       />
       {/* Below lg the text is centred, so use an even scrim; from lg the left
           scrim keeps the left-aligned H1 legible while the photo shows right. */}
-      <div className="absolute inset-0 bg-[#001F4A]/50 lg:hidden" />
-      <div className="absolute inset-0 hidden lg:block bg-gradient-to-r from-[#001F4A]/70 via-[#002F6C]/30 to-transparent" />
-      <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/40 to-transparent" />
+      <div className="absolute inset-0 bg-[#001F4A]/40 lg:hidden" />
+      <div className="absolute inset-0 hidden lg:block bg-gradient-to-r from-[#001F4A]/58 via-[#002F6C]/16 to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/26 to-transparent" />
 
-      <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center items-center text-center lg:items-start lg:text-left min-h-[60svh] md:min-h-[68svh]">
+      <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center items-center text-center lg:items-start lg:text-left min-h-[72svh] md:min-h-[80svh]">
         {eyebrow && (
           <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-4 drop-shadow-[0_2px_12px_rgba(0,15,40,0.9)]">
             {eyebrow}

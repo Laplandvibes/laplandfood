@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "E le altre",
-      "headline": "La Finlandia ha molte più di quattro bacche.",
-      "lead": "L'associazione Arktiset Aromit conta circa 50 specie di bacche selvatiche in Finlandia, di cui 37 commestibili. Le quattro qui sopra sono quelle che si raccolgono a secchi e arrivano nel piatto del ristorante. Ecco le sei successive che vale la pena saper nominare.",
-      "note": "Numero di specie: associazione Arktiset Aromit.",
+      "kicker": "Altre bacche",
+      "headline": "La Finlandia ha circa 50 bacche selvatiche.",
+      "lead": "L'associazione Arktiset Aromit ne conta 37 commestibili. Eccone sei che vale la pena saper nominare.",
+      "note": "Fonte: associazione Arktiset Aromit (arktisetaromit.fi).",
       "items": [
         {
           "name": "Mirtillo palustre",

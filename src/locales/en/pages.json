@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "And the rest",
-      "headline": "Finland has far more than four berries.",
-      "lead": "The Arctic Flavours Association counts roughly 50 wild berry species in Finland, of which 37 are edible. The four above are the ones that fill buckets and reach restaurant plates. Here are the next six worth knowing by name.",
-      "note": "Species count: Arctic Flavours Association (Arktiset Aromit ry).",
+      "kicker": "Other berries",
+      "headline": "Finland has around 50 wild berries.",
+      "lead": "The Arctic Flavours Association counts 37 of them as edible. Here are six worth knowing by name.",
+      "note": "Source: Arctic Flavours Association (arktisetaromit.fi).",
       "items": [
         {
           "name": "Cranberry",

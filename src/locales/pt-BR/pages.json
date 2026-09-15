@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "E as demais",
-      "headline": "A Finlândia tem muito mais do que quatro frutas silvestres.",
-      "lead": "A associação Arktiset Aromit conta cerca de 50 espécies de frutas silvestres na Finlândia, das quais 37 são comestíveis. As quatro acima são as que se colhem aos baldes e chegam ao prato dos restaurantes. Estas são as seis seguintes que vale a pena saber nomear.",
-      "note": "Número de espécies: associação Arktiset Aromit.",
+      "kicker": "Outras frutas silvestres",
+      "headline": "A Finlândia tem cerca de 50 frutas silvestres.",
+      "lead": "A associação Arktiset Aromit considera 37 delas comestíveis. Aqui vão seis que vale a pena saber nomear.",
+      "note": "Fonte: associação Arktiset Aromit (arktisetaromit.fi).",
       "items": [
         {
           "name": "Oxicoco",

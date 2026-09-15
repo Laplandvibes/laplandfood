@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "Y las demás",
-      "headline": "Finlandia tiene muchas más de cuatro bayas.",
-      "lead": "La asociación Arktiset Aromit cuenta unas 50 especies de bayas silvestres en Finlandia, de las cuales 37 son comestibles. Las cuatro anteriores son las que se recogen por baldes y llegan al plato de los restaurantes. Estas son las seis siguientes que conviene saber nombrar.",
-      "note": "Número de especies: asociación Arktiset Aromit.",
+      "kicker": "Otras bayas",
+      "headline": "Finlandia tiene unas 50 bayas silvestres.",
+      "lead": "La asociación Arktiset Aromit considera comestibles 37 de ellas. Aquí van seis que conviene saber nombrar.",
+      "note": "Fuente: asociación Arktiset Aromit (arktisetaromit.fi).",
       "items": [
         {
           "name": "Arándano agrio",

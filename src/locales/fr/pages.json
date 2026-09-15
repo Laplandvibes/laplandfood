@@ -585,10 +585,10 @@
       ]
     },
     "other": {
-      "kicker": "Et les autres",
-      "headline": "La Finlande a bien plus que quatre baies.",
-      "lead": "L'association Arktiset Aromit recense environ 50 espèces de baies sauvages en Finlande, dont 37 sont comestibles. Les quatre ci-dessus sont celles qu'on cueille au seau et qui arrivent dans l'assiette des restaurants. Voici les six suivantes qu'il vaut la peine de savoir nommer.",
-      "note": "Nombre d'espèces : association Arktiset Aromit.",
+      "kicker": "Autres baies",
+      "headline": "La Finlande compte environ 50 baies sauvages.",
+      "lead": "L'association Arktiset Aromit en recense 37 comestibles. En voici six qu'il vaut la peine de savoir nommer.",
+      "note": "Source : association Arktiset Aromit (arktisetaromit.fi).",
       "items": [
         {
           "name": "Canneberge",
