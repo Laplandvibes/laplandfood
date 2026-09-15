@@ -28,6 +28,14 @@ interface NextStep { title: string; body: string; cta: string }
  */
 const PILL_ANCHORS = ['#taste', '#season', '#right-to-pick', '#why-wild', '#price', '#products', '#where-to-taste'];
 
+// Index-mapped `cloudberry.products.items`-taulukkoon (sama jarjestys 12 kielella).
+const PRODUCT_IMAGES = ['/images/cloudberry-jam-cheese.webp', '/images/cloudberry-liqueur.jpg', '/images/cloudberry-parfait.jpg'];
+const PRODUCT_ALTS = [
+  'Toasted wedges of Finnish bread cheese topped with cloudberry jam, a bowl of the jam beside the plate',
+  'A small glass of amber cloudberry liqueur with a plain bottle behind it and loose cloudberries on a dark table',
+  'A wedge of frozen cloudberry parfait on a dark plate, topped with whole amber cloudberries and a crisp wafer',
+];
+
 const LEDE = 'text-lg sm:text-xl text-[#002F6C] leading-relaxed mb-5';
 const BODY = 'text-[#002F6C]/80 leading-relaxed mb-5';
 const BODY_LAST = 'text-[#002F6C]/80 leading-relaxed';
@@ -224,28 +232,30 @@ export default function Cloudberry() {
         {/* Jam, liqueur, parfait */}
         <section id="products" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="grid lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] gap-8 lg:gap-12 items-center mb-10">
-              <div>
-                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-                  {t('cloudberry.products.kicker')}
-                </p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
-                  {t('cloudberry.products.headline')}
-                </h2>
-                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed max-w-2xl">
-                  {t('cloudberry.products.lead')}
-                </p>
-              </div>
-              <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                <img src="/images/cloudberry-jam-cheese.webp" alt="Toasted wedges of Finnish bread cheese topped with cloudberry jam, a bowl of the jam beside the plate" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-              </div>
+            <div className="max-w-3xl mb-10">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                {t('cloudberry.products.kicker')}
+              </p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
+                {t('cloudberry.products.headline')}
+              </h2>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">
+                {t('cloudberry.products.lead')}
+              </p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
-              {products.map(pr => (
-                <div key={pr.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
-                  <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>
-                  <p className="text-sm text-[#002F6C]/80 leading-relaxed">{pr.body}</p>
-                </div>
+            {/* Kortin kuva kertoo mita kortissa lukee (Vesa 15.9.). Hillokuva
+                siirtyi osion otsikosta siihen korttiin joka puhuu hillosta. */}
+            <div className="grid md:grid-cols-3 gap-5 sm:gap-6">
+              {products.map((pr, i) => (
+                <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
+                  <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+                    <img src={PRODUCT_IMAGES[i]} alt={PRODUCT_ALTS[i]} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                  </div>
+                  <div className="p-6">
+                    <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>
+                    <p className="text-sm text-[#002F6C]/80 leading-relaxed">{pr.body}</p>
+                  </div>
+                </article>
               ))}
             </div>
           </div>

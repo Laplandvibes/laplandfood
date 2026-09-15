@@ -37,7 +37,10 @@ export interface BerryConfig {
   hero: { image: string; alt: string };
   taste: { image?: string; alt?: string; ownPhoto?: boolean };
   versus: { image?: string; alt?: string; ownPhoto?: boolean };
-  products: { image?: string; alt?: string };
+  /** Yksi kuva per tuotekortti, indeksi vastaa `products.items`-taulukkoa
+   *  (sama jarjestys kaikilla 12 kielella). Vesa 15.9.: paljaat tekstikortit
+   *  eivat kelpaa, kun sivu kertoo mita marjasta tehdaan. */
+  products: { images: string[]; alts: string[] };
   gyg: { query: string; sid: string };
   stay: { destination: string; sid: string };
   about: string;
@@ -240,27 +243,25 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           </div>
         </section>
 
-        {/* Products */}
+        {/* Products — jokainen kortti nayttaa mita siina lukee (Vesa 15.9.). */}
         <section id="products" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className={cfg.products.image ? 'grid lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] gap-8 lg:gap-12 items-center mb-10' : 'max-w-3xl mb-10'}>
-              <div>
-                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.products.kicker`)}</p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.products.headline`)}</h2>
-                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed max-w-2xl">{t(`${k}.products.lead`)}</p>
-              </div>
-              {cfg.products.image && (
-                <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                  <img src={cfg.products.image} alt={cfg.products.alt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                </div>
-              )}
+            <div className="max-w-3xl mb-10">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.products.kicker`)}</p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.products.headline`)}</h2>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.products.lead`)}</p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
-              {products.map(pr => (
-                <div key={pr.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
-                  <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>
-                  <p className="text-sm text-[#002F6C]/80 leading-relaxed">{pr.body}</p>
-                </div>
+            <div className="grid md:grid-cols-3 gap-5 sm:gap-6">
+              {products.map((pr, i) => (
+                <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
+                  <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+                    <img src={cfg.products.images[i]} alt={cfg.products.alts[i] ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                  </div>
+                  <div className="p-6">
+                    <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>
+                    <p className="text-sm text-[#002F6C]/80 leading-relaxed">{pr.body}</p>
+                  </div>
+                </article>
               ))}
             </div>
           </div>

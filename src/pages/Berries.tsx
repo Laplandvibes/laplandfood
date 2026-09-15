@@ -13,6 +13,7 @@ import { useLocale } from '../i18n/useLocale';
 
 interface GuideCard { name: string; latin: string; season: string; body: string; cta: string }
 interface CalendarItem { period: string; title: string; body: string }
+interface OtherBerry { name: string; latin: string; when: string; body: string }
 interface NextStep { title: string; body: string; cta: string }
 
 /**
@@ -45,6 +46,7 @@ export default function Berries() {
   const cards = (t('berries.guides.cards', { returnObjects: true }) as GuideCard[]) || [];
   const calendar = (t('berries.calendar.items', { returnObjects: true }) as CalendarItem[]) || [];
   const nextSteps = (t('berries.nextSteps.items', { returnObjects: true }) as NextStep[]) || [];
+  const other = (t('berries.other.items', { returnObjects: true }) as OtherBerry[]) || [];
 
   const pageUrl = `https://laplandfood.com${to('/berries')}`.replace(/\/?$/, '/');
   const schema = {
@@ -142,6 +144,31 @@ export default function Berries() {
                 </li>
               ))}
             </ol>
+          </div>
+        </section>
+
+        {/* Ja loput. Vesa 15.9.2026 luki alavalikon ja huomasi katteettoman
+            lupauksen: nelja marjaa ei ole "kaikki Suomen marjat". Arktiset
+            Aromit ry:n oma virke sanoo noin 50 lajia, joista 37 syotavia
+            (haettu 15.9.2026) — ja sivu sanoo sen nyt itse. */}
+        <section id="other-berries" className="scroll-mt-24 bg-white py-16 sm:py-20">
+          <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
+            <div className="max-w-3xl mb-10">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t('berries.other.kicker')}</p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t('berries.other.headline')}</h2>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t('berries.other.lead')}</p>
+            </div>
+            <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-5">
+              {other.map(o => (
+                <li key={o.name} className="border-t-2 border-[#002F6C]/15 pt-4">
+                  <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] leading-tight">{o.name}</h3>
+                  <p className="text-xs italic text-[#002F6C]/55 mt-0.5">{o.latin}</p>
+                  <p className="text-[11px] uppercase tracking-[0.16em] font-semibold text-vibe-pink mt-2">{o.when}</p>
+                  <p className="text-sm text-[#002F6C]/80 leading-relaxed mt-2">{o.body}</p>
+                </li>
+              ))}
+            </ul>
+            <p className="text-xs text-[#002F6C]/50 mt-8">{t('berries.other.note')}</p>
           </div>
         </section>
 

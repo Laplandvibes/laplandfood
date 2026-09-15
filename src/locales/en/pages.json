@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "And the rest",
+      "headline": "Finland has far more than four berries.",
+      "lead": "The Arctic Flavours Association counts roughly 50 wild berry species in Finland, of which 37 are edible. The four above are the ones that fill buckets and reach restaurant plates. Here are the next six worth knowing by name.",
+      "note": "Species count: Arctic Flavours Association (Arktiset Aromit ry).",
+      "items": [
+        {
+          "name": "Cranberry",
+          "latin": "Vaccinium oxycoccos",
+          "when": "September–October, and again in spring",
+          "body": "The sharp red berry of open bogs. It survives the winter under the snow, and some of the crop is picked only in spring once the snow has melted."
+        },
+        {
+          "name": "Raspberry",
+          "latin": "Rubus idaeus",
+          "when": "July–August",
+          "body": "The same species as the garden raspberry, but smaller and more aromatic in the wild. It colonises clearings and forest edges."
+        },
+        {
+          "name": "Crowberry",
+          "latin": "Empetrum nigrum",
+          "when": "August–September",
+          "body": "The black berry of the fells and the barest heaths. Juicy but mild, so it usually ends up as juice or mixed in with stronger berries."
+        },
+        {
+          "name": "Arctic bramble",
+          "latin": "Rubus arcticus",
+          "when": "July–August",
+          "body": "Rare and extraordinarily fragrant. Best known as a liqueur; finding it in the wild is a matter of luck."
+        },
+        {
+          "name": "Bog bilberry",
+          "latin": "Vaccinium uliginosum",
+          "when": "August–September",
+          "body": "A bog and marsh berry that looks like a bilberry but is pale inside. The old belief that it makes you drunk is still repeated, though the berry itself is edible."
+        },
+        {
+          "name": "Rowanberry",
+          "latin": "Sorbus aucuparia",
+          "when": "September–October",
+          "body": "A tart orange-red berry that grows on a tree. Frost and cooking soften the bitterness; as a jelly it belongs beside game."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Keep going",
       "headline": "Where this leads.",
@@ -615,7 +659,7 @@
       "titleHighlight": "keeps itself.",
       "subtitle": "Puolukka is the red berry beside every plate of sautéed reindeer, and the one Finnish families pick by the bucket. Here is what it tastes like, why it keeps in a jar without sugar, and how it differs from the cranberry it gets mistaken for.",
       "primaryCta": "Learn to forage it",
-      "secondaryCta": "All Finnish berries",
+      "secondaryCta": "The berry guide",
       "pills": [
         "Taste",
         "Season",
@@ -766,7 +810,7 @@
         {
           "title": "The other berries",
           "body": "Cloudberry, bilberry and sea buckthorn each get their own guide, with seasons, taste and where to find them.",
-          "cta": "All Finnish berries"
+          "cta": "The berry guide"
         },
         {
           "title": "Stay for the season",
@@ -785,7 +829,7 @@
       "titleHighlight": "stains your fingers.",
       "subtitle": "Mustikka is the berry nearly every Finn has picked, the one that colours a whole August of childhood, and the one visitors keep calling a blueberry. Here is how it differs, what it tastes like, and where it grows in Lapland.",
       "primaryCta": "Learn to forage it",
-      "secondaryCta": "All Finnish berries",
+      "secondaryCta": "The berry guide",
       "pills": [
         "Taste",
         "Season",
@@ -940,7 +984,7 @@
         {
           "title": "The other berries",
           "body": "Cloudberry, lingonberry and sea buckthorn each get their own guide, with seasons, taste and where to find them.",
-          "cta": "All Finnish berries"
+          "cta": "The berry guide"
         },
         {
           "title": "Stay for the season",
@@ -959,7 +1003,7 @@
       "titleHighlight": "from the shore.",
       "subtitle": "Tyrni does not grow in the forests of inland Lapland at all. It grows on the stony shores of the Gulf of Bothnia, north as far as the Lapland coast at Tornio, and it is the sourest berry in the Finnish larder and one of its richest in vitamin C. Here is where it lives, what it tastes like and why it is so hard to pick.",
       "primaryCta": "Learn to forage it",
-      "secondaryCta": "All Finnish berries",
+      "secondaryCta": "The berry guide",
       "pills": [
         "Taste",
         "Season",
@@ -1110,7 +1154,7 @@
         {
           "title": "The other berries",
           "body": "Cloudberry, lingonberry and bilberry each get their own guide, with seasons, taste and where to find them.",
-          "cta": "All Finnish berries"
+          "cta": "The berry guide"
         },
         {
           "title": "Stay on the coast",

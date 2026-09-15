@@ -21,8 +21,12 @@ const BILBERRY: BerryConfig = {
     ownPhoto: true,
   },
   products: {
-    image: '/images/bilberry-pie.jpg',
-    alt: 'Bilberry crumble pie on a wooden table in a cabin kitchen, a bowl of berries beside it',
+    images: ['/images/bilberry-pie.jpg', '/images/bilberry-soup.jpg', '/images/bilberry-reindeer.jpg'],
+    alts: [
+      'Bilberry crumble pie on a wooden table in a cabin kitchen, a bowl of berries beside it',
+      'An enamel mug of hot bilberry soup and a steel vacuum flask on a snowy bench beside a ski trail',
+      'Slices of rare reindeer fillet with a dark bilberry reduction and whole bilberries on a stone plate',
+    ],
   },
   gyg: { query: 'Lapland foraging tour', sid: 'bilberry_foraging_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'bilberry_stay_rovaniemi' },

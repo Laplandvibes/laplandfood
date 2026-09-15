@@ -16,7 +16,14 @@ const LINGONBERRY: BerryConfig = {
     alt: 'Lingonberry shrub with clusters of ripe red berries on pale lichen under pines',
   },
   versus: {},
-  products: {},
+  products: {
+    images: ['/images/lingonberry-survos.jpg', '/images/lingonberry-jam.jpg', '/images/lingonberry-vispipuuro.jpg'],
+    alts: [
+      'A jar of raw crushed lingonberries with a wooden spoon, a bowl of whole berries and dark rye bread on a pine table',
+      'A white bowl of cooked lingonberry jam beside a stack of golden Finnish oven-pancake squares',
+      'A bowl of pale pink whipped semolina porridge with a jug of milk and loose lingonberries',
+    ],
+  },
   gyg: { query: 'Lapland foraging tour', sid: 'lingonberry_foraging_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'lingonberry_stay_rovaniemi' },
   about: 'Lingonberry (Vaccinium vitis-idaea), Finnish wild berries',

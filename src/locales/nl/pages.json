@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "En de rest",
+      "headline": "Finland heeft veel meer dan vier bessen.",
+      "lead": "De vereniging Arktiset Aromit telt in Finland ongeveer 50 wilde bessensoorten, waarvan er 37 eetbaar zijn. De vier hierboven zijn degene die emmervol geplukt worden en op het restaurantbord belanden. Hier zijn de zes volgende die u bij naam zou moeten kennen.",
+      "note": "Aantal soorten: vereniging Arktiset Aromit.",
+      "items": [
+        {
+          "name": "Kleine veenbes",
+          "latin": "Vaccinium oxycoccos",
+          "when": "September–oktober en opnieuw in het voorjaar",
+          "body": "De scherpe rode bes van open venen. Hij overleeft de winter onder de sneeuw, en een deel van de oogst wordt pas in het voorjaar geplukt, als de sneeuw weg is."
+        },
+        {
+          "name": "Framboos",
+          "latin": "Rubus idaeus",
+          "when": "Juli–augustus",
+          "body": "Dezelfde soort als de tuinframboos, maar in het wild kleiner en aromatischer. Hij verovert kapvlaktes en bosranden."
+        },
+        {
+          "name": "Kraaihei",
+          "latin": "Empetrum nigrum",
+          "when": "Augustus–september",
+          "body": "De zwarte bes van de fjells en de schraalste heiden. Sappig maar mild, dus hij wordt meestal sap of gaat mee met krachtiger bessen."
+        },
+        {
+          "name": "Noordse braam",
+          "latin": "Rubus arcticus",
+          "when": "Juli–augustus",
+          "body": "Zeldzaam en buitengewoon geurig. Vooral bekend als likeur; hem in het wild vinden is een kwestie van geluk."
+        },
+        {
+          "name": "Rijsbes",
+          "latin": "Vaccinium uliginosum",
+          "when": "Augustus–september",
+          "body": "Een veenbes die op de blauwe bosbes lijkt maar vanbinnen bleek is. Het oude geloof dat je er dronken van wordt leeft nog, al is de bes zelf eetbaar."
+        },
+        {
+          "name": "Lijsterbes",
+          "latin": "Sorbus aucuparia",
+          "when": "September–oktober",
+          "body": "Een wrange oranjerode bes die aan een boom groeit. Vorst en koken halen de bitterheid eruit; als gelei hoort hij bij wild."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Verder",
       "headline": "Waar dit toe leidt.",
@@ -615,7 +659,7 @@
       "titleHighlight": "zichzelf bewaart.",
       "subtitle": "Puolukka is de rode bes naast elk bord gebakken rendier, en de bes die Finse gezinnen per emmer plukken. Hier leest u hoe ze smaakt, waarom ze in een pot zonder suiker goed blijft en hoe ze verschilt van de cranberry waarmee ze wordt verward.",
       "primaryCta": "Leer ze plukken",
-      "secondaryCta": "Alle Finse bessen",
+      "secondaryCta": "De bessengids",
       "pills": [
         "Smaak",
         "Seizoen",
@@ -766,7 +810,7 @@
         {
           "title": "De andere bessen",
           "body": "Kruipbraam, blauwe bosbes en duindoorn hebben elk hun eigen gids, met seizoenen, smaak en waar u ze vindt.",
-          "cta": "Alle Finse bessen"
+          "cta": "De bessengids"
         },
         {
           "title": "Blijf voor het seizoen",
@@ -785,7 +829,7 @@
       "titleHighlight": "uw vingers kleurt.",
       "subtitle": "Mustikka is de bes die bijna elke Fin weleens heeft geplukt, de bes die een hele augustus van de kindertijd kleurt, en de bes die bezoekers blauwe bes blijven noemen. Hier leest u hoe ze verschilt, hoe ze smaakt en waar ze in Lapland groeit.",
       "primaryCta": "Leer ze plukken",
-      "secondaryCta": "Alle Finse bessen",
+      "secondaryCta": "De bessengids",
       "pills": [
         "Smaak",
         "Seizoen",
@@ -940,7 +984,7 @@
         {
           "title": "De andere bessen",
           "body": "Kruipbraam, vossenbes en duindoorn hebben elk hun eigen gids, met seizoenen, smaak en waar u ze vindt.",
-          "cta": "Alle Finse bessen"
+          "cta": "De bessengids"
         },
         {
           "title": "Blijf voor het seizoen",
@@ -959,7 +1003,7 @@
       "titleHighlight": "van de oever.",
       "subtitle": "Tyrni groeit helemaal niet in de bossen van het binnenland van Lapland. Hij groeit op de stenige oevers van de Botnische Golf, noordwaarts tot de Laplandse kust bij Tornio, en het is de zuurste bes van de Finse voorraadkast en een van de rijkste aan vitamine C. Hier leest u waar hij leeft, hoe hij smaakt en waarom hij zo moeilijk te plukken is.",
       "primaryCta": "Leer hem plukken",
-      "secondaryCta": "Alle Finse bessen",
+      "secondaryCta": "De bessengids",
       "pills": [
         "Smaak",
         "Seizoen",
@@ -1110,7 +1154,7 @@
         {
           "title": "De andere bessen",
           "body": "Kruipbraam, vossenbes en blauwe bosbes hebben elk hun eigen gids, met seizoenen, smaak en waar u ze vindt.",
-          "cta": "Alle Finse bessen"
+          "cta": "De bessengids"
         },
         {
           "title": "Blijf aan de kust",

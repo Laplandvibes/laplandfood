@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "Och resten",
+      "headline": "Finland har långt fler än fyra bär.",
+      "lead": "Föreningen Arktiset Aromit räknar ungefär 50 vilda bärarter i Finland, varav 37 är ätliga. De fyra ovan är de som plockas hinkvis och når restaurangtallriken. Här är de sex följande som är värda att kunna vid namn.",
+      "note": "Antal arter: Arktiset Aromit ry.",
+      "items": [
+        {
+          "name": "Tranbär",
+          "latin": "Vaccinium oxycoccos",
+          "when": "September–oktober, och igen på våren",
+          "body": "De öppna myrarnas syrliga röda bär. Det överlever vintern under snön, och en del av skörden plockas först på våren när snön smält."
+        },
+        {
+          "name": "Hallon",
+          "latin": "Rubus idaeus",
+          "when": "Juli–augusti",
+          "body": "Samma art som trädgårdshallonet, men mindre och mer aromatiskt i det vilda. Det tar över hyggen och skogsbryn."
+        },
+        {
+          "name": "Kråkbär",
+          "latin": "Empetrum nigrum",
+          "when": "Augusti–september",
+          "body": "Fjällens och de magraste hedarnas svarta bär. Saftigt men milt, så det blir oftast saft eller blandas med kraftigare bär."
+        },
+        {
+          "name": "Åkerbär",
+          "latin": "Rubus arcticus",
+          "when": "Juli–augusti",
+          "body": "Sällsynt och ovanligt doftande. Mest känt som likör; att hitta det i naturen är en lyckträff."
+        },
+        {
+          "name": "Odon",
+          "latin": "Vaccinium uliginosum",
+          "when": "Augusti–september",
+          "body": "Myrarnas bär, likt blåbäret men ljust inuti. Den gamla föreställningen att det gör en berusad lever kvar, fast bäret i sig är ätligt."
+        },
+        {
+          "name": "Rönnbär",
+          "latin": "Sorbus aucuparia",
+          "when": "September–oktober",
+          "body": "Ett syrligt orangerött bär som växer på träd. Frost och kokning mjukar upp beskan; som gelé hör det till viltet."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Fortsätt",
       "headline": "Vart det här leder.",
@@ -615,7 +659,7 @@
       "titleHighlight": "konserverar sig självt.",
       "subtitle": "Puolukka är det röda bäret bredvid varje tallrik renskav, och det som finska familjer plockar hinkvis. Här är hur det smakar, varför det håller sig i burken utan socker och hur det skiljer sig från tranbäret det förväxlas med.",
       "primaryCta": "Lär dig plocka det",
-      "secondaryCta": "Alla finska bär",
+      "secondaryCta": "Bärguiden",
       "pills": [
         "Smak",
         "Säsong",
@@ -766,7 +810,7 @@
         {
           "title": "De andra bären",
           "body": "Hjortron, blåbär och havtorn får var sin guide, med säsonger, smak och var du hittar dem.",
-          "cta": "Alla finska bär"
+          "cta": "Bärguiden"
         },
         {
           "title": "Stanna över säsongen",
@@ -785,7 +829,7 @@
       "titleHighlight": "färgar fingrarna.",
       "subtitle": "Mustikka är bäret som nästan varje finländare har plockat, det som färgar en hel barndoms augusti, och det som besökare envisas med att kalla amerikanskt blåbär. Här är hur de skiljer sig, hur det smakar och var det växer i Lappland.",
       "primaryCta": "Lär dig plocka det",
-      "secondaryCta": "Alla finska bär",
+      "secondaryCta": "Bärguiden",
       "pills": [
         "Smak",
         "Säsong",
@@ -940,7 +984,7 @@
         {
           "title": "De andra bären",
           "body": "Hjortron, lingon och havtorn får var sin guide, med säsonger, smak och var du hittar dem.",
-          "cta": "Alla finska bär"
+          "cta": "Bärguiden"
         },
         {
           "title": "Stanna över säsongen",
@@ -959,7 +1003,7 @@
       "titleHighlight": "från stranden.",
       "subtitle": "Tyrni växer inte alls i inlandet i Lappland. Det växer på Bottniska vikens steniga stränder, norrut ända till Lapplands kust vid Torneå, och det är det suraste bäret i det finska skafferiet och ett av de C-vitaminrikaste. Här är var det lever, hur det smakar och varför det är så svårt att plocka.",
       "primaryCta": "Lär dig plocka det",
-      "secondaryCta": "Alla finska bär",
+      "secondaryCta": "Bärguiden",
       "pills": [
         "Smak",
         "Säsong",
@@ -1110,7 +1154,7 @@
         {
           "title": "De andra bären",
           "body": "Hjortron, lingon och blåbär får var sin guide, med säsonger, smak och var du hittar dem.",
-          "cta": "Alla finska bär"
+          "cta": "Bärguiden"
         },
         {
           "title": "Stanna vid kusten",

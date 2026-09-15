@@ -585,6 +585,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "Und der Rest",
+      "headline": "Finnland hat weit mehr als vier Beeren.",
+      "lead": "Der Verband Arktiset Aromit zählt in Finnland rund 50 wilde Beerenarten, von denen 37 essbar sind. Die vier oben sind jene, die eimerweise gepflückt werden und auf den Restaurantteller kommen. Hier die nächsten sechs, die Sie beim Namen kennen sollten.",
+      "note": "Artenzahl: Arktiset Aromit ry (Verband Arktische Aromen).",
+      "items": [
+        {
+          "name": "Moosbeere",
+          "latin": "Vaccinium oxycoccos",
+          "when": "September–Oktober und erneut im Frühjahr",
+          "body": "Die herbe rote Beere der offenen Moore. Sie übersteht den Winter unter dem Schnee, und ein Teil der Ernte wird erst im Frühjahr nach der Schneeschmelze gepflückt."
+        },
+        {
+          "name": "Himbeere",
+          "latin": "Rubus idaeus",
+          "when": "Juli–August",
+          "body": "Dieselbe Art wie die Gartenhimbeere, wild aber kleiner und aromatischer. Sie erobert Kahlschläge und Waldränder."
+        },
+        {
+          "name": "Krähenbeere",
+          "latin": "Empetrum nigrum",
+          "when": "August–September",
+          "body": "Die schwarze Beere der Fjälls und der kargsten Heiden. Saftig, aber mild, deshalb wird sie meist zu Saft verarbeitet oder unter kräftigere Beeren gemischt."
+        },
+        {
+          "name": "Allackerbeere",
+          "latin": "Rubus arcticus",
+          "when": "Juli–August",
+          "body": "Selten und außergewöhnlich duftend. Am bekanntesten als Likör; sie in der Natur zu finden ist Glückssache."
+        },
+        {
+          "name": "Rauschbeere",
+          "latin": "Vaccinium uliginosum",
+          "when": "August–September",
+          "body": "Eine Moorbeere, die wie eine Heidelbeere aussieht, innen aber hell ist. Der alte Glaube, sie mache betrunken, hält sich noch immer, obwohl die Beere selbst essbar ist."
+        },
+        {
+          "name": "Vogelbeere",
+          "latin": "Sorbus aucuparia",
+          "when": "September–Oktober",
+          "body": "Eine herbe orangerote Beere, die am Baum wächst. Frost und Kochen nehmen ihr die Bitterkeit; als Gelee gehört sie zum Wild."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Weiter geht es",
       "headline": "Wohin das führt.",
@@ -616,7 +660,7 @@
       "titleHighlight": "sich selbst konserviert.",
       "subtitle": "Puolukka ist die rote Beere neben jedem Teller Rentiergeschnetzeltes, und die, die finnische Familien eimerweise pflücken. Hier erfahren Sie, wie sie schmeckt, warum sie im Glas ohne Zucker haltbar ist und wie sie sich von der Cranberry unterscheidet, mit der sie verwechselt wird.",
       "primaryCta": "Sammeln lernen",
-      "secondaryCta": "Alle finnischen Beeren",
+      "secondaryCta": "Der Beeren-Guide",
       "pills": [
         "Geschmack",
         "Saison",
@@ -767,7 +811,7 @@
         {
           "title": "Die anderen Beeren",
           "body": "Moltebeere, Heidelbeere und Sanddorn bekommen je einen eigenen Guide, mit Saisons, Geschmack und Fundorten.",
-          "cta": "Alle finnischen Beeren"
+          "cta": "Der Beeren-Guide"
         },
         {
           "title": "Zur Saison bleiben",
@@ -786,7 +830,7 @@
       "titleHighlight": "die Finger färbt.",
       "subtitle": "Mustikka ist die Beere, die fast jeder Finne schon gepflückt hat, die einen ganzen Kindheitsaugust färbt, und die Gäste beharrlich Blaubeere nennen. Hier erfahren Sie, worin der Unterschied liegt, wie sie schmeckt und wo sie in Lappland wächst.",
       "primaryCta": "Sammeln lernen",
-      "secondaryCta": "Alle finnischen Beeren",
+      "secondaryCta": "Der Beeren-Guide",
       "pills": [
         "Geschmack",
         "Saison",
@@ -941,7 +985,7 @@
         {
           "title": "Die anderen Beeren",
           "body": "Moltebeere, Preiselbeere und Sanddorn bekommen je einen eigenen Guide, mit Saisons, Geschmack und Fundorten.",
-          "cta": "Alle finnischen Beeren"
+          "cta": "Der Beeren-Guide"
         },
         {
           "title": "Zur Saison bleiben",
@@ -960,7 +1004,7 @@
       "titleHighlight": "vom Ufer.",
       "subtitle": "Tyrni wächst in den Wäldern des lappländischen Binnenlands überhaupt nicht. Er wächst an den steinigen Ufern des Bottnischen Meerbusens, im Norden bis zur lappländischen Küste bei Tornio, und er ist die sauerste Beere der finnischen Vorratskammer und eine der vitamin-C-reichsten. Hier erfahren Sie, wo er lebt, wie er schmeckt und warum er so schwer zu pflücken ist.",
       "primaryCta": "Sammeln lernen",
-      "secondaryCta": "Alle finnischen Beeren",
+      "secondaryCta": "Der Beeren-Guide",
       "pills": [
         "Geschmack",
         "Saison",
@@ -1111,7 +1155,7 @@
         {
           "title": "Die anderen Beeren",
           "body": "Moltebeere, Preiselbeere und Heidelbeere bekommen je einen eigenen Guide, mit Saisons, Geschmack und Fundorten.",
-          "cta": "Alle finnischen Beeren"
+          "cta": "Der Beeren-Guide"
         },
         {
           "title": "An der Küste bleiben",

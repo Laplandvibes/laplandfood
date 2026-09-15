@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "Y las demás",
+      "headline": "Finlandia tiene muchas más de cuatro bayas.",
+      "lead": "La asociación Arktiset Aromit cuenta unas 50 especies de bayas silvestres en Finlandia, de las cuales 37 son comestibles. Las cuatro anteriores son las que se recogen por baldes y llegan al plato de los restaurantes. Estas son las seis siguientes que conviene saber nombrar.",
+      "note": "Número de especies: asociación Arktiset Aromit.",
+      "items": [
+        {
+          "name": "Arándano agrio",
+          "latin": "Vaccinium oxycoccos",
+          "when": "Septiembre–octubre y de nuevo en primavera",
+          "body": "La baya roja y ácida de las turberas abiertas. Sobrevive al invierno bajo la nieve, y parte de la cosecha se recoge solo en primavera, cuando la nieve se ha derretido."
+        },
+        {
+          "name": "Frambuesa silvestre",
+          "latin": "Rubus idaeus",
+          "when": "Julio–agosto",
+          "body": "La misma especie que la frambuesa de jardín, pero más pequeña y más aromática en estado silvestre. Coloniza claros y linderos del bosque."
+        },
+        {
+          "name": "Camarina negra",
+          "latin": "Empetrum nigrum",
+          "when": "Agosto–septiembre",
+          "body": "La baya negra de los montes y de los brezales más pobres. Jugosa pero suave, así que suele acabar en zumo o mezclada con bayas más intensas."
+        },
+        {
+          "name": "Zarza ártica",
+          "latin": "Rubus arcticus",
+          "when": "Julio–agosto",
+          "body": "Rara y extraordinariamente aromática. Conocida sobre todo como licor; encontrarla en la naturaleza es cuestión de suerte."
+        },
+        {
+          "name": "Arándano uliginoso",
+          "latin": "Vaccinium uliginosum",
+          "when": "Agosto–septiembre",
+          "body": "Una baya de turbera que parece un arándano silvestre pero es pálida por dentro. La vieja creencia de que emborracha sigue repitiéndose, aunque la baya en sí es comestible."
+        },
+        {
+          "name": "Baya de serbal",
+          "latin": "Sorbus aucuparia",
+          "when": "Septiembre–octubre",
+          "body": "Una baya ácida de color rojo anaranjado que crece en un árbol. La helada y la cocción suavizan el amargor; en jalea acompaña a la caza."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Siga adelante",
       "headline": "Adónde lleva esto.",
@@ -615,7 +659,7 @@
       "titleHighlight": "se conserva sola.",
       "subtitle": "La puolukka es la baya roja junto a cada plato de reno salteado, y la que las familias finlandesas recogen por baldes. Aquí tiene a qué sabe, por qué se conserva en frasco sin azúcar y en qué se diferencia del cranberry con el que se confunde.",
       "primaryCta": "Aprenda a recolectarlo",
-      "secondaryCta": "Todas las bayas finlandesas",
+      "secondaryCta": "La guía de bayas",
       "pills": [
         "Sabor",
         "Temporada",
@@ -766,7 +810,7 @@
         {
           "title": "Las otras bayas",
           "body": "Mora ártica, arándano silvestre y espino amarillo tienen cada uno su guía, con temporadas, sabor y dónde encontrarlos.",
-          "cta": "Todas las bayas finlandesas"
+          "cta": "La guía de bayas"
         },
         {
           "title": "Quédese en temporada",
@@ -785,7 +829,7 @@
       "titleHighlight": "tiñe los dedos.",
       "subtitle": "La mustikka es la baya que casi todo finlandés ha recogido, la que colorea un agosto entero de la infancia, y la que los visitantes insisten en llamar arándano azul. Aquí tiene en qué se diferencia, a qué sabe y dónde crece en Laponia.",
       "primaryCta": "Aprenda a recolectarlo",
-      "secondaryCta": "Todas las bayas finlandesas",
+      "secondaryCta": "La guía de bayas",
       "pills": [
         "Sabor",
         "Temporada",
@@ -940,7 +984,7 @@
         {
           "title": "Las otras bayas",
           "body": "Mora ártica, arándano rojo y espino amarillo tienen cada uno su guía, con temporadas, sabor y dónde encontrarlos.",
-          "cta": "Todas las bayas finlandesas"
+          "cta": "La guía de bayas"
         },
         {
           "title": "Quédese en temporada",
@@ -959,7 +1003,7 @@
       "titleHighlight": "desde la orilla.",
       "subtitle": "El tyrni no crece en absoluto en los bosques del interior de Laponia. Crece en las orillas pedregosas del golfo de Botnia, hacia el norte hasta la costa lapona en Tornio, y es la baya más ácida de la despensa finlandesa y una de las más ricas en vitamina C. Aquí tiene dónde vive, a qué sabe y por qué es tan difícil de recoger.",
       "primaryCta": "Aprenda a recolectarlo",
-      "secondaryCta": "Todas las bayas finlandesas",
+      "secondaryCta": "La guía de bayas",
       "pills": [
         "Sabor",
         "Temporada",
@@ -1110,7 +1154,7 @@
         {
           "title": "Las otras bayas",
           "body": "Mora ártica, arándano rojo y arándano silvestre tienen cada uno su guía, con temporadas, sabor y dónde encontrarlos.",
-          "cta": "Todas las bayas finlandesas"
+          "cta": "La guía de bayas"
         },
         {
           "title": "Quédese en la costa",

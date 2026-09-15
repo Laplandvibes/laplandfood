@@ -585,6 +585,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "Ja loput",
+      "headline": "Suomessa on paljon enemmän marjoja kuin neljä.",
+      "lead": "Arktiset Aromit ry laskee Suomen luonnosta noin 50 luonnonvaraista marjalajia, joista 37 on syötäviä. Nämä neljä ovat ne, joita poimitaan ämpäreittäin ja jotka päätyvät ravintolan lautaselle. Tässä kuusi seuraavaa, jotka kannattaa tunnistaa nimeltä.",
+      "note": "Lajimäärä: Arktiset Aromit ry.",
+      "items": [
+        {
+          "name": "Karpalo",
+          "latin": "Vaccinium oxycoccos",
+          "when": "Syys–lokakuu ja uudelleen keväällä",
+          "body": "Avosoiden hapan punainen marja. Se kestää talven lumen alla, ja osa sadosta poimitaan vasta keväällä lumen sulettua."
+        },
+        {
+          "name": "Vadelma",
+          "latin": "Rubus idaeus",
+          "when": "Heinä–elokuu",
+          "body": "Sama laji kuin puutarhavadelma, mutta luonnossa pienempi ja aromikkaampi. Valtaa hakkuuaukot ja metsänreunat."
+        },
+        {
+          "name": "Variksenmarja",
+          "latin": "Empetrum nigrum",
+          "when": "Elo–syyskuu",
+          "body": "Tunturien ja karuimpien kankaiden musta marja. Mehukas mutta mieto, joten se päätyy yleensä mehuun tai voimakkaampien marjojen sekaan."
+        },
+        {
+          "name": "Mesimarja",
+          "latin": "Rubus arcticus",
+          "when": "Heinä–elokuu",
+          "body": "Harvinainen ja poikkeuksellisen tuoksuva. Tunnetuin liköörinä; luonnosta löytäminen on onnenkauppa."
+        },
+        {
+          "name": "Juolukka",
+          "latin": "Vaccinium uliginosum",
+          "when": "Elo–syyskuu",
+          "body": "Soiden ja rämeiden marja, mustikan näköinen mutta sisältä vaalea. Vanha uskomus juolukan humalluttavuudesta elää yhä, vaikka marja itse on syötävä."
+        },
+        {
+          "name": "Pihlajanmarja",
+          "latin": "Sorbus aucuparia",
+          "when": "Syys–lokakuu",
+          "body": "Puussa kasvava kirpeä oranssinpunainen marja. Pakkanen ja kypsennys pehmentävät kitkeryyden; hyytelönä se kuuluu riistan viereen."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Jatka tästä",
       "headline": "Mihin tämä johtaa.",
@@ -616,7 +660,7 @@
       "titleHighlight": "säilyttää itse itsensä.",
       "subtitle": "Puolukka on se punainen marja jokaisen poronkäristysannoksen vieressä, ja se, jota suomalaisperheet poimivat ämpäreittäin. Tässä on, miltä se maistuu, miksi se säilyy purkissa ilman sokeria ja miten se eroaa karpalosta, johon se usein sekoitetaan.",
       "primaryCta": "Opettele poimimaan",
-      "secondaryCta": "Kaikki Suomen marjat",
+      "secondaryCta": "Marjaopas",
       "pills": [
         "Maku",
         "Sesonki",
@@ -767,7 +811,7 @@
         {
           "title": "Muut marjat",
           "body": "Hilla, mustikka ja tyrni saavat kukin oman oppaansa sesonkeineen, makuineen ja löytöpaikkoineen.",
-          "cta": "Kaikki Suomen marjat"
+          "cta": "Marjaopas"
         },
         {
           "title": "Jää sesongiksi",
@@ -786,7 +830,7 @@
       "titleHighlight": "värjää sormet.",
       "subtitle": "Mustikka on marja, jonka lähes jokainen suomalainen on poiminut, se joka värjää koko lapsuuden elokuun, ja se jota vierailijat kutsuvat pensasmustikaksi. Tässä on, miten ne eroavat, miltä se maistuu ja missä se kasvaa Lapissa.",
       "primaryCta": "Opettele poimimaan",
-      "secondaryCta": "Kaikki Suomen marjat",
+      "secondaryCta": "Marjaopas",
       "pills": [
         "Maku",
         "Sesonki",
@@ -941,7 +985,7 @@
         {
           "title": "Muut marjat",
           "body": "Hilla, puolukka ja tyrni saavat kukin oman oppaansa sesonkeineen, makuineen ja löytöpaikkoineen.",
-          "cta": "Kaikki Suomen marjat"
+          "cta": "Marjaopas"
         },
         {
           "title": "Jää sesongiksi",
@@ -960,7 +1004,7 @@
       "titleHighlight": "rannalta.",
       "subtitle": "Tyrni ei kasva Lapin sisämaan metsissä lainkaan. Se kasvaa Pohjanlahden kivisillä rannoilla, pohjoisessa Lapin rannikolle Tornioon asti, ja se on suomalaisen ruokavaraston happamin marja ja yksi sen C-vitamiinirikkaimmista. Tässä on, missä se elää, miltä se maistuu ja miksi sen poimiminen on niin vaikeaa.",
       "primaryCta": "Opettele poimimaan",
-      "secondaryCta": "Kaikki Suomen marjat",
+      "secondaryCta": "Marjaopas",
       "pills": [
         "Maku",
         "Sesonki",
@@ -1111,7 +1155,7 @@
         {
           "title": "Muut marjat",
           "body": "Hilla, puolukka ja mustikka saavat kukin oman oppaansa sesonkeineen, makuineen ja löytöpaikkoineen.",
-          "cta": "Kaikki Suomen marjat"
+          "cta": "Marjaopas"
         },
         {
           "title": "Jää rannikolle",

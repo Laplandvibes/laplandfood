@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "E as demais",
+      "headline": "A Finlândia tem muito mais do que quatro frutas silvestres.",
+      "lead": "A associação Arktiset Aromit conta cerca de 50 espécies de frutas silvestres na Finlândia, das quais 37 são comestíveis. As quatro acima são as que se colhem aos baldes e chegam ao prato dos restaurantes. Estas são as seis seguintes que vale a pena saber nomear.",
+      "note": "Número de espécies: associação Arktiset Aromit.",
+      "items": [
+        {
+          "name": "Oxicoco",
+          "latin": "Vaccinium oxycoccos",
+          "when": "Setembro–outubro e de novo na primavera",
+          "body": "A fruta vermelha e ácida das turfeiras abertas. Ela atravessa o inverno sob a neve, e parte da colheita só é feita na primavera, quando a neve derrete."
+        },
+        {
+          "name": "Framboesa silvestre",
+          "latin": "Rubus idaeus",
+          "when": "Julho–agosto",
+          "body": "A mesma espécie da framboesa de jardim, mas menor e mais aromática no mato. Ela toma conta de clareiras e bordas de floresta."
+        },
+        {
+          "name": "Camarinha-preta",
+          "latin": "Empetrum nigrum",
+          "when": "Agosto–setembro",
+          "body": "A fruta preta das montanhas e das charnecas mais pobres. Suculenta porém suave, então costuma virar suco ou entrar misturada a frutas mais marcantes."
+        },
+        {
+          "name": "Amora-ártica-rasteira",
+          "latin": "Rubus arcticus",
+          "when": "Julho–agosto",
+          "body": "Rara e extraordinariamente perfumada. Conhecida sobretudo como licor; achá-la na natureza é questão de sorte."
+        },
+        {
+          "name": "Mirtilo-do-brejo",
+          "latin": "Vaccinium uliginosum",
+          "when": "Agosto–setembro",
+          "body": "Uma fruta de turfeira parecida com o mirtilo silvestre, mas clara por dentro. A velha crença de que embriaga ainda se repete, embora a fruta em si seja comestível."
+        },
+        {
+          "name": "Fruto da sorveira",
+          "latin": "Sorbus aucuparia",
+          "when": "Setembro–outubro",
+          "body": "Uma fruta ácida alaranjada que cresce em árvore. A geada e o cozimento suavizam o amargor; em geleia, acompanha a caça."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Continue",
       "headline": "Aonde isso leva.",
@@ -615,7 +659,7 @@
       "titleHighlight": "se conserva sozinha.",
       "subtitle": "A puolukka, a lingonberry ou mirtilo-vermelho, é a fruta vermelha ao lado de todo prato de rena salteada, e a que as famílias finlandesas colhem aos baldes. Aqui está o sabor dela, por que se conserva no pote sem açúcar e como difere do cranberry com que é confundida.",
       "primaryCta": "Aprenda a colher",
-      "secondaryCta": "Todas as frutas silvestres finlandesas",
+      "secondaryCta": "O guia das frutas silvestres",
       "pills": [
         "Sabor",
         "Temporada",
@@ -766,7 +810,7 @@
         {
           "title": "As outras frutas",
           "body": "Amora-ártica, mirtilo silvestre e espinheiro-marítimo têm cada um seu guia, com temporadas, sabor e onde encontrá-los.",
-          "cta": "Todas as frutas silvestres finlandesas"
+          "cta": "O guia das frutas silvestres"
         },
         {
           "title": "Fique para a temporada",
@@ -785,7 +829,7 @@
       "titleHighlight": "mancha os dedos.",
       "subtitle": "A mustikka é a fruta que quase todo finlandês já colheu, a que colore um agosto inteiro de infância, e a que os visitantes insistem em chamar de mirtilo comum. Aqui está como ela difere, qual é o sabor e onde cresce na Lapônia.",
       "primaryCta": "Aprenda a colher",
-      "secondaryCta": "Todas as frutas silvestres finlandesas",
+      "secondaryCta": "O guia das frutas silvestres",
       "pills": [
         "Sabor",
         "Temporada",
@@ -940,7 +984,7 @@
         {
           "title": "As outras frutas",
           "body": "Amora-ártica, lingonberry e espinheiro-marítimo têm cada um seu guia, com temporadas, sabor e onde encontrá-los.",
-          "cta": "Todas as frutas silvestres finlandesas"
+          "cta": "O guia das frutas silvestres"
         },
         {
           "title": "Fique para a temporada",
@@ -959,7 +1003,7 @@
       "titleHighlight": "vindo da praia.",
       "subtitle": "O tyrni não cresce nas florestas do interior da Lapônia. Ele cresce nas margens pedregosas do golfo de Bótnia, ao norte até o litoral lapão em Tornio, e é a fruta mais ácida da despensa finlandesa e uma das mais ricas em vitamina C. Aqui está onde ele vive, qual é o sabor e por que é tão difícil de colher.",
       "primaryCta": "Aprenda a colher",
-      "secondaryCta": "Todas as frutas silvestres finlandesas",
+      "secondaryCta": "O guia das frutas silvestres",
       "pills": [
         "Sabor",
         "Temporada",
@@ -1110,7 +1154,7 @@
         {
           "title": "As outras frutas",
           "body": "Amora-ártica, lingonberry e mirtilo silvestre têm cada um seu guia, com temporadas, sabor e onde encontrá-los.",
-          "cta": "Todas as frutas silvestres finlandesas"
+          "cta": "O guia das frutas silvestres"
         },
         {
           "title": "Fique no litoral",

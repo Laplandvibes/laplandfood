@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "E le altre",
+      "headline": "La Finlandia ha molte più di quattro bacche.",
+      "lead": "L'associazione Arktiset Aromit conta circa 50 specie di bacche selvatiche in Finlandia, di cui 37 commestibili. Le quattro qui sopra sono quelle che si raccolgono a secchi e arrivano nel piatto del ristorante. Ecco le sei successive che vale la pena saper nominare.",
+      "note": "Numero di specie: associazione Arktiset Aromit.",
+      "items": [
+        {
+          "name": "Mirtillo palustre",
+          "latin": "Vaccinium oxycoccos",
+          "when": "Settembre–ottobre e di nuovo in primavera",
+          "body": "La bacca rossa e aspra delle torbiere aperte. Supera l'inverno sotto la neve, e parte del raccolto si coglie solo in primavera, a neve sciolta."
+        },
+        {
+          "name": "Lampone selvatico",
+          "latin": "Rubus idaeus",
+          "when": "Luglio–agosto",
+          "body": "La stessa specie del lampone da giardino, ma più piccolo e più aromatico allo stato selvatico. Colonizza i tagli boschivi e i margini della foresta."
+        },
+        {
+          "name": "Empetro nero",
+          "latin": "Empetrum nigrum",
+          "when": "Agosto–settembre",
+          "body": "La bacca nera delle montagne e delle brughiere più povere. Succosa ma delicata, perciò finisce quasi sempre in succo o mescolata a bacche più decise."
+        },
+        {
+          "name": "Rovo artico",
+          "latin": "Rubus arcticus",
+          "when": "Luglio–agosto",
+          "body": "Raro e straordinariamente profumato. Noto soprattutto come liquore; trovarlo in natura è questione di fortuna."
+        },
+        {
+          "name": "Mirtillo di palude",
+          "latin": "Vaccinium uliginosum",
+          "when": "Agosto–settembre",
+          "body": "Una bacca di torbiera che somiglia al mirtillo nero ma è chiara all'interno. La vecchia credenza che ubriachi si ripete ancora, benché la bacca sia commestibile."
+        },
+        {
+          "name": "Bacca di sorbo",
+          "latin": "Sorbus aucuparia",
+          "when": "Settembre–ottobre",
+          "body": "Una bacca aspra rosso-arancio che cresce su un albero. Il gelo e la cottura ne smorzano l'amaro; in gelatina accompagna la selvaggina."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Prosegua",
       "headline": "Dove porta tutto questo.",
@@ -615,7 +659,7 @@
       "titleHighlight": "si conserva da sola.",
       "subtitle": "La puolukka è la bacca rossa accanto a ogni piatto di renna saltata, e quella che le famiglie finlandesi raccolgono a secchi. Ecco che sapore ha, perché si conserva in vasetto senza zucchero e in cosa differisce dal cranberry con cui viene confusa.",
       "primaryCta": "Impari a raccoglierlo",
-      "secondaryCta": "Tutte le bacche finlandesi",
+      "secondaryCta": "La guida alle bacche",
       "pills": [
         "Sapore",
         "Stagione",
@@ -766,7 +810,7 @@
         {
           "title": "Le altre bacche",
           "body": "Mora artica, mirtillo nero e olivello spinoso hanno ciascuno la propria guida, con stagioni, sapore e dove trovarli.",
-          "cta": "Tutte le bacche finlandesi"
+          "cta": "La guida alle bacche"
         },
         {
           "title": "Si fermi per la stagione",
@@ -785,7 +829,7 @@
       "titleHighlight": "macchia le dita.",
       "subtitle": "La mustikka è la bacca che quasi ogni finlandese ha raccolto, quella che colora un intero agosto d'infanzia, e quella che i visitatori continuano a chiamare mirtillo gigante. Ecco in cosa differisce, che sapore ha e dove cresce in Lapponia.",
       "primaryCta": "Impari a raccoglierlo",
-      "secondaryCta": "Tutte le bacche finlandesi",
+      "secondaryCta": "La guida alle bacche",
       "pills": [
         "Sapore",
         "Stagione",
@@ -940,7 +984,7 @@
         {
           "title": "Le altre bacche",
           "body": "Mora artica, mirtillo rosso e olivello spinoso hanno ciascuno la propria guida, con stagioni, sapore e dove trovarli.",
-          "cta": "Tutte le bacche finlandesi"
+          "cta": "La guida alle bacche"
         },
         {
           "title": "Si fermi per la stagione",
@@ -959,7 +1003,7 @@
       "titleHighlight": "dalla riva.",
       "subtitle": "Il tyrni non cresce affatto nei boschi dell'interno della Lapponia. Cresce sulle rive sassose del golfo di Botnia, a nord fino alla costa lappone di Tornio, ed è la bacca più acida della dispensa finlandese e una delle più ricche di vitamina C. Ecco dove vive, che sapore ha e perché è così difficile da raccogliere.",
       "primaryCta": "Impari a raccoglierlo",
-      "secondaryCta": "Tutte le bacche finlandesi",
+      "secondaryCta": "La guida alle bacche",
       "pills": [
         "Sapore",
         "Stagione",
@@ -1110,7 +1154,7 @@
         {
           "title": "Le altre bacche",
           "body": "Mora artica, mirtillo rosso e mirtillo nero hanno ciascuno la propria guida, con stagioni, sapore e dove trovarli.",
-          "cta": "Tutte le bacche finlandesi"
+          "cta": "La guida alle bacche"
         },
         {
           "title": "Si fermi sulla costa",

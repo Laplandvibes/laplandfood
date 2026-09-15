@@ -584,6 +584,50 @@
         }
       ]
     },
+    "other": {
+      "kicker": "Et les autres",
+      "headline": "La Finlande a bien plus que quatre baies.",
+      "lead": "L'association Arktiset Aromit recense environ 50 espèces de baies sauvages en Finlande, dont 37 sont comestibles. Les quatre ci-dessus sont celles qu'on cueille au seau et qui arrivent dans l'assiette des restaurants. Voici les six suivantes qu'il vaut la peine de savoir nommer.",
+      "note": "Nombre d'espèces : association Arktiset Aromit.",
+      "items": [
+        {
+          "name": "Canneberge",
+          "latin": "Vaccinium oxycoccos",
+          "when": "Septembre–octobre, puis au printemps",
+          "body": "La baie rouge et acide des tourbières ouvertes. Elle passe l'hiver sous la neige, et une partie de la récolte ne se cueille qu'au printemps, une fois la neige fondue."
+        },
+        {
+          "name": "Framboise sauvage",
+          "latin": "Rubus idaeus",
+          "when": "Juillet–août",
+          "body": "La même espèce que la framboise de jardin, mais plus petite et plus parfumée à l'état sauvage. Elle colonise les coupes forestières et les lisières."
+        },
+        {
+          "name": "Camarine noire",
+          "latin": "Empetrum nigrum",
+          "when": "Août–septembre",
+          "body": "La baie noire des fjälls et des landes les plus pauvres. Juteuse mais douce, elle finit le plus souvent en jus ou mêlée à des baies plus marquées."
+        },
+        {
+          "name": "Ronce arctique",
+          "latin": "Rubus arcticus",
+          "when": "Juillet–août",
+          "body": "Rare et extraordinairement parfumée. Surtout connue en liqueur ; la trouver dans la nature relève de la chance."
+        },
+        {
+          "name": "Airelle des marais",
+          "latin": "Vaccinium uliginosum",
+          "when": "Août–septembre",
+          "body": "Une baie de tourbière qui ressemble à la myrtille mais reste pâle à l'intérieur. La vieille croyance qu'elle enivre se répète encore, alors que la baie elle-même est comestible."
+        },
+        {
+          "name": "Baie de sorbier",
+          "latin": "Sorbus aucuparia",
+          "when": "Septembre–octobre",
+          "body": "Une baie orangée et âpre qui pousse sur un arbre. Le gel et la cuisson adoucissent l'amertume ; en gelée, elle accompagne le gibier."
+        }
+      ]
+    },
     "nextSteps": {
       "kicker": "Pour continuer",
       "headline": "Où cela mène.",
@@ -615,7 +659,7 @@
       "titleHighlight": "se conserve toute seule.",
       "subtitle": "La puolukka est la baie rouge à côté de chaque assiette d'émincé de renne, et celle que les familles finlandaises cueillent au seau. Voici son goût, pourquoi elle se garde en bocal sans sucre, et ce qui la distingue de la canneberge avec laquelle on la confond.",
       "primaryCta": "Apprendre à la cueillir",
-      "secondaryCta": "Toutes les baies finlandaises",
+      "secondaryCta": "Le guide des baies",
       "pills": [
         "Goût",
         "Saison",
@@ -766,7 +810,7 @@
         {
           "title": "Les autres baies",
           "body": "Mûre arctique, myrtille et argousier ont chacune leur guide, avec saisons, goût et où les trouver.",
-          "cta": "Toutes les baies finlandaises"
+          "cta": "Le guide des baies"
         },
         {
           "title": "Rester pour la saison",
@@ -785,7 +829,7 @@
       "titleHighlight": "tache les doigts.",
       "subtitle": "La mustikka est la baie que presque chaque Finlandais a cueillie, celle qui colore tout un mois d'août d'enfance, et celle que les visiteurs continuent d'appeler bleuet. Voici ce qui la distingue, son goût et où elle pousse en Laponie.",
       "primaryCta": "Apprendre à la cueillir",
-      "secondaryCta": "Toutes les baies finlandaises",
+      "secondaryCta": "Le guide des baies",
       "pills": [
         "Goût",
         "Saison",
@@ -940,7 +984,7 @@
         {
           "title": "Les autres baies",
           "body": "Mûre arctique, airelle et argousier ont chacune leur guide, avec saisons, goût et où les trouver.",
-          "cta": "Toutes les baies finlandaises"
+          "cta": "Le guide des baies"
         },
         {
           "title": "Rester pour la saison",
@@ -959,7 +1003,7 @@
       "titleHighlight": "venu du rivage.",
       "subtitle": "Le tyrni ne pousse pas du tout dans les forêts de l'intérieur de la Laponie. Il pousse sur les rivages pierreux du golfe de Botnie, au nord jusqu'à la côte lapone à Tornio, et c'est la baie la plus acide du garde-manger finlandais et l'une des plus riches en vitamine C. Voici où il vit, quel goût il a et pourquoi il est si difficile à cueillir.",
       "primaryCta": "Apprendre à le cueillir",
-      "secondaryCta": "Toutes les baies finlandaises",
+      "secondaryCta": "Le guide des baies",
       "pills": [
         "Goût",
         "Saison",
@@ -1110,7 +1154,7 @@
         {
           "title": "Les autres baies",
           "body": "Mûre arctique, airelle et myrtille ont chacune leur guide, avec saisons, goût et où les trouver.",
-          "cta": "Toutes les baies finlandaises"
+          "cta": "Le guide des baies"
         },
         {
           "title": "Rester sur la côte",
