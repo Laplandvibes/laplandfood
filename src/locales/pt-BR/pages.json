@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Receitas autênticas",
-    "recipesHeadline": "Quatro receitas para começar.",
+    "recipesHeadline": "Outros três que vale a pena saber.",
     "recipeLabels": {
       "time": "Tempo",
       "serves": "Rende",
@@ -1469,6 +1469,10 @@
           "answer": "Bidos é o ensopado sámi de rena: paleta ou pernil em pedaços, dourados e cozidos lentamente com batata, cenoura e cebola até a carne desmanchar. É o prato de celebração, servido em casamentos e reuniões, e a primeira receita desta página."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Comece por aqui",
+      "headline": "Se for cozinhar um prato só, cozinhe este."
     }
   },
   "modernLapland": {

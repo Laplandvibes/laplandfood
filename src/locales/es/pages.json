@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Recetas auténticas",
-    "recipesHeadline": "Cuatro recetas para empezar.",
+    "recipesHeadline": "Otros tres que vale la pena saber.",
     "recipeLabels": {
       "time": "Tiempo",
       "serves": "Raciones",
@@ -1469,6 +1469,10 @@
           "answer": "El bidos es el estofado sami de reno: paleta o jarrete en trozos, dorados y cocidos a fuego lento con papa, zanahoria y cebolla hasta que la carne se deshace. Es el plato de celebración, servido en bodas y reuniones, y la primera receta de esta página."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Empiece por aquí",
+      "headline": "Si cocina un solo plato, cocine este."
     }
   },
   "modernLapland": {

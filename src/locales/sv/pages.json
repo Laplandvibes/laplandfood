@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Autentiska recept",
-    "recipesHeadline": "Fyra recept att börja med.",
+    "recipesHeadline": "Tre till som är värda att kunna.",
     "recipeLabels": {
       "time": "Tid",
       "serves": "Portioner",
@@ -1469,6 +1469,10 @@
           "answer": "Bidos är den samiska rengrytan: bog eller lägg i bitar, brynt och långsamt sjudet med potatis, morot och lök tills köttet faller isär. Det är festrätten, som serveras på bröllop och sammankomster, och det första receptet på den här sidan."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Börja här",
+      "headline": "Lagar du bara en rätt, laga den här."
     }
   },
   "modernLapland": {

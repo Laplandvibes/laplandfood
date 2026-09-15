@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "地道食谱",
-    "recipesHeadline": "先从这四道开始。",
+    "recipesHeadline": "另外三道，值得学会。",
     "recipeLabels": {
       "time": "时间",
       "serves": "份量",
@@ -1469,6 +1469,10 @@
           "answer": "Bidos 是萨米驯鹿炖菜：肩肉或腱子肉切块，煎上色后与土豆、胡萝卜、洋葱一起慢炖，直到肉质酥烂。它是庆典菜肴，婚礼和聚会上都会端出，也是本页的第一道食谱。"
         }
       ]
+    },
+    "featured": {
+      "kicker": "从这里开始",
+      "headline": "只做一道菜的话，就做这道。"
     }
   },
   "modernLapland": {

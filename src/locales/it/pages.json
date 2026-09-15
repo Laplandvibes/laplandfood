@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Ricette autentiche",
-    "recipesHeadline": "Quattro ricette per cominciare.",
+    "recipesHeadline": "Altri tre che vale la pena conoscere.",
     "recipeLabels": {
       "time": "Tempo",
       "serves": "Per",
@@ -1469,6 +1469,10 @@
           "answer": "Il bidos è lo stufato sami di renna: spalla o stinco a pezzi, rosolati e cotti a fuoco lento con patate, carote e cipolla finché la carne si sfalda. È il piatto delle celebrazioni, servito ai matrimoni e alle riunioni, e la prima ricetta di questa pagina."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Inizi da qui",
+      "headline": "Se cucina un solo piatto, cucini questo."
     }
   },
   "modernLapland": {

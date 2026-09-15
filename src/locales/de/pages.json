@@ -1234,7 +1234,7 @@
       ]
     },
     "recipesKicker": "Authentische Rezepte",
-    "recipesHeadline": "Vier Rezepte für den Anfang.",
+    "recipesHeadline": "Drei weitere, die sich lohnen.",
     "recipeLabels": {
       "time": "Zeit",
       "serves": "Portionen",
@@ -1470,6 +1470,10 @@
           "answer": "Bidos ist der samische Rentiereintopf: Schulter oder Haxe in Stücken, angebraten und langsam mit Kartoffeln, Karotten und Zwiebeln geschmort, bis das Fleisch zerfällt. Es ist das Festtagsgericht, das bei Hochzeiten und Zusammenkünften serviert wird, und das erste Rezept auf dieser Seite."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Fangen Sie hier an",
+      "headline": "Wenn Sie ein Gericht kochen, dann dieses."
     }
   },
   "modernLapland": {

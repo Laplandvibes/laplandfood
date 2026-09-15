@@ -1234,7 +1234,7 @@
       ]
     },
     "recipesKicker": "Aitoja reseptejä",
-    "recipesHeadline": "Neljä reseptiä, joista aloittaa.",
+    "recipesHeadline": "Kolme muuta, jotka kannattaa osata.",
     "recipeLabels": {
       "time": "Aika",
       "serves": "Annoksia",
@@ -1470,6 +1470,10 @@
           "answer": "Bidos on saamelainen poromuhennos: lapaa tai potkaa paloina, ruskistettuna ja hiljaa haudutettuna perunan, porkkanan ja sipulin kanssa, kunnes liha hajoaa. Se on juhlaruoka, jota tarjotaan häissä ja kokoontumisissa, ja tämän sivun ensimmäinen resepti."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Aloita tästä",
+      "headline": "Jos teet vain yhden ruoan, tee tämä."
     }
   },
   "modernLapland": {

@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Authentieke recepten",
-    "recipesHeadline": "Vier recepten om mee te beginnen.",
+    "recipesHeadline": "Nog drie die de moeite waard zijn.",
     "recipeLabels": {
       "time": "Tijd",
       "serves": "Voor",
@@ -1469,6 +1469,10 @@
           "answer": "Bidos is de Samische rendierstoofpot: schouder of schenkel in stukken, aangebraden en langzaam gestoofd met aardappel, wortel en ui tot het vlees uit elkaar valt. Het is het feestgerecht, geserveerd op bruiloften en bijeenkomsten, en het eerste recept op deze pagina."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Begin hier",
+      "headline": "Kookt u één gerecht, kook dan dit."
     }
   },
   "modernLapland": {

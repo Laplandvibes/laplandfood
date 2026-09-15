@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Authentic recipes",
-    "recipesHeadline": "Four recipes to start with.",
+    "recipesHeadline": "Three more worth knowing.",
     "recipeLabels": {
       "time": "Time",
       "serves": "Serves",
@@ -1469,6 +1469,10 @@
           "answer": "Bidos is the Sámi reindeer stew: shoulder or shank cut into pieces, browned and simmered slowly with potato, carrot and onion until the meat falls apart. It is the celebration dish, served at weddings and gatherings, and the first recipe on this page."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Start here",
+      "headline": "If you cook one dish, cook this one."
     }
   },
   "modernLapland": {

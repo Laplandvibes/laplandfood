@@ -48,6 +48,10 @@ export default function TraditionalRecipes() {
   const context = (t('traditionalRecipes.context.items', { returnObjects: true }) as ContextItem[]) || [];
   const sapmi = (t('traditionalRecipes.sapmi.items', { returnObjects: true }) as SapmiItem[]) || [];
   const recipes = (t('traditionalRecipes.recipes', { returnObjects: true }) as Recipe[]) || [];
+  // Vesa 15.9.: ensimmainen resepti nousee heti johdannon jalkeen, loput
+  // jaavat kokoelmaan kontekstiosioiden alle. Bidos on juhlaruoka ja sivun
+  // vahvin kuva, joten se on se "wau resepti" jolla lukija pysaytetaan.
+  const [featured, ...restRecipes] = recipes;
   const seasons = (t('traditionalRecipes.seasons.items', { returnObjects: true }) as SeasonItem[]) || [];
   const methods = (t('traditionalRecipes.methods.items', { returnObjects: true }) as MethodItem[]) || [];
 
@@ -117,10 +121,95 @@ export default function TraditionalRecipes() {
           primaryCta={{ label: t('traditionalRecipes.hero.primaryCta'), href: `${to('/traditional-recipes')}#recipes` }}
           secondaryCta={{ label: t('traditionalRecipes.hero.secondaryCta'), href: to('/modern-lapland') }}
           pills={recipes.map(r => r.name)}
-          pillHrefs={recipes.map((_, idx) => `#recipe-${idx}`)}
+          pillHrefs={recipes.map((_, idx) => (idx === 0 ? '#recipes' : `#recipe-${idx}`))}
         />
 
         <IntroPoints sectionKey="traditionalRecipes" />
+
+        {/* Wau-resepti heti: sivu on nimeltaan Reseptit, joten ensimmainen
+            resepti tulee ennen kulttuuritaustaa (Vesa 15.9.). */}
+        {featured && (
+          <section id="recipes" className="scroll-mt-24 bg-white py-16 sm:py-20">
+            <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
+              <div className="max-w-3xl mb-8">
+                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                  {t('traditionalRecipes.featured.kicker')}
+                </p>
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">
+                  {t('traditionalRecipes.featured.headline')}
+                </h2>
+              </div>
+              <article className="overflow-hidden rounded-3xl border border-[#002F6C]/10 bg-[#F8FAFC]">
+                <div className="grid lg:grid-cols-[minmax(0,6fr)_minmax(0,6fr)]">
+                  <div className="relative min-h-[260px] lg:min-h-[420px] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+                    <img src={RECIPE_IMAGES[0]} alt={featured.name} loading="eager" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 h-full w-full object-cover" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-[#002F6C]/70 via-transparent to-transparent" />
+                    <div className="absolute bottom-5 left-6 right-6">
+                      <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-3 py-1.5 rounded-full">
+                        {featured.tradition}
+                      </span>
+                      <h3 className="font-heading tracking-wide text-3xl sm:text-4xl text-white leading-tight mt-3">
+                        {featured.name}
+                      </h3>
+                    </div>
+                  </div>
+                  <div className="p-7 sm:p-9">
+                    <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mb-6">{featured.description}</p>
+                    <div className="grid grid-cols-3 gap-4 text-center mb-7">
+                      <div>
+                        <Clock className="w-5 h-5 text-vibe-pink mx-auto mb-1.5" />
+                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/70 font-semibold">{t('traditionalRecipes.recipeLabels.time')}</p>
+                        <p className="text-sm text-[#002F6C] font-semibold mt-0.5">{featured.time}</p>
+                      </div>
+                      <div>
+                        <Users className="w-5 h-5 text-vibe-pink mx-auto mb-1.5" />
+                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/70 font-semibold">{t('traditionalRecipes.recipeLabels.serves')}</p>
+                        <p className="text-sm text-[#002F6C] font-semibold mt-0.5">{featured.serves}</p>
+                      </div>
+                      <div>
+                        <ChefHat className="w-5 h-5 text-vibe-pink mx-auto mb-1.5" />
+                        <p className="text-xs uppercase tracking-wider text-[#002F6C]/70 font-semibold">{t('traditionalRecipes.recipeLabels.level')}</p>
+                        <p className="text-sm text-[#002F6C] font-semibold mt-0.5">{featured.difficulty}</p>
+                      </div>
+                    </div>
+                    <div className="grid sm:grid-cols-2 gap-7">
+                      <div>
+                        <h4 className="font-heading tracking-wide text-xl text-[#002F6C] mb-3">{t('traditionalRecipes.recipeLabels.ingredients')}</h4>
+                        <ul className="space-y-2">
+                          {featured.ingredients.map(ing => (
+                            <li key={ing} className="flex gap-2.5 text-sm text-[#002F6C]/85">
+                              <span className="w-1.5 h-1.5 rounded-full bg-vibe-pink mt-2 flex-shrink-0" />
+                              {ing}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                      <div>
+                        <h4 className="font-heading tracking-wide text-xl text-[#002F6C] mb-3">{t('traditionalRecipes.recipeLabels.instructions')}</h4>
+                        <ol className="space-y-3">
+                          {featured.instructions.map((step, i) => (
+                            <li key={step} className="flex gap-3 text-sm text-[#002F6C]/85">
+                              <span className="flex-shrink-0 w-6 h-6 rounded-full bg-vibe-pink/15 text-vibe-pink text-xs font-bold flex items-center justify-center">
+                                {i + 1}
+                              </span>
+                              <span className="leading-relaxed">{step}</span>
+                            </li>
+                          ))}
+                        </ol>
+                      </div>
+                    </div>
+                    <div className="mt-7 rounded-2xl bg-white border-l-4 border-vibe-pink p-5">
+                      <p className="text-xs uppercase tracking-[0.18em] font-semibold text-vibe-pink mb-1">
+                        {t('traditionalRecipes.recipeLabels.tip')}
+                      </p>
+                      <p className="text-sm text-[#002F6C]/80 italic leading-relaxed">{featured.tips}</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </div>
+          </section>
+        )}
 
         {/* Cultural context */}
         <section className="bg-white py-16 sm:py-20">
@@ -201,7 +290,7 @@ export default function TraditionalRecipes() {
         </section>
 
         {/* Recipes */}
-        <section id="recipes" className="bg-white py-20 sm:py-24">
+        <section id="more-recipes" className="bg-white py-20 sm:py-24">
           {/* 🔴 Oli max-w-4xl + space-y-12 = neljä reseptiä yhtenä 896 px:n
               pylväänä keskellä 1920 px:n ruutua, ja sivun korkeus turhaan
               nelinkertainen (Vesa 2026-08-10). Leveys 7xl ja kortit 2×2 xl:stä
@@ -219,7 +308,7 @@ export default function TraditionalRecipes() {
             </div>
 
             <div className="grid xl:grid-cols-2 gap-8 items-start">
-              {recipes.map((r, idx) => (
+              {restRecipes.map((r, i) => { const idx = i + 1; return (
                 <article key={r.name} id={`recipe-${idx}`} className="scroll-mt-24 rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-56 sm:h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={RECIPE_IMAGES[idx]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
@@ -291,7 +380,7 @@ export default function TraditionalRecipes() {
                     </div>
                   </div>
                 </article>
-              ))}
+              ); })}
             </div>
           </div>
         </section>

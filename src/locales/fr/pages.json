@@ -1233,7 +1233,7 @@
       ]
     },
     "recipesKicker": "Recettes authentiques",
-    "recipesHeadline": "Quatre recettes pour commencer.",
+    "recipesHeadline": "Trois autres qui valent le détour.",
     "recipeLabels": {
       "time": "Temps",
       "serves": "Pour",
@@ -1469,6 +1469,10 @@
           "answer": "Le bidos est le ragoût de renne sami : épaule ou jarret en morceaux, saisis puis mijotés lentement avec pomme de terre, carotte et oignon jusqu'à ce que la viande s'effiloche. C'est le plat de fête, servi aux mariages et aux rassemblements, et la première recette de cette page."
         }
       ]
+    },
+    "featured": {
+      "kicker": "Commencez ici",
+      "headline": "Si vous ne cuisinez qu'un plat, faites celui-ci."
     }
   },
   "modernLapland": {
