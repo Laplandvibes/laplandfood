@@ -242,7 +242,7 @@
     "reindeerDeep": {
       "kicker": "Fördjupning · Ren",
       "headline": "Hur en ren hamnar på en tallrik i Lappland.",
-      "p1": "Finlands rennäring regleras av renskötsellagen, som begränsar ägandet till personer som är bosatta i renskötselområdet (i praktiken norra Finland). Djuren tillhör enskilda renskötare men betar tillsammans i renbeteslag, <em>paliskunnat</em>, som delar område och arbete. Det finns omkring 200 000 renar fördelade på ungefär 54 renbeteslag, alla i Lappland och delar av Norra Österbotten.",
+      "p1": "Finlands rennäring regleras av renskötsellagen, som begränsar ägandet till personer som är bosatta i renskötselområdet (i praktiken norra Finland). Djuren tillhör enskilda renskötare men betar tillsammans i renbeteslag, <em>paliskunnat</em>, som delar område och arbete. Det finns omkring 200 000 renar fördelade på ungefär 54 renbeteslag, alla i Lappland och delar av Norra Österbotten.",
       "p2": "Hjorden är vild i allt utom ägandet. Renarna strövar fritt över enorma sträckor av ostängslad taiga och tundra och äter det de hittar: lav på vintern (dieten som ger köttet dess särskilda rena smak), gräs och örter på sommaren, svamp på hösten. Renskötarna spårar sina djur med skotrar och fyrhjulingar, samlar ihop dem två gånger om året för öronmärkning och (på hösten) urval för slakt, och låter dem sedan sprida ut sig igen.",
       "p3": "Slakten sker på hösten, vanligtvis oktober–november, när djuren väger som mest. Köttet går genom renskötselområdets 19 EU-godkända renslakterier, varav 17 ägs av renbeteslagen eller renägarna själva. Det mesta av köttet säljs inom några hundra kilometer från där djuret levde, till restauranger i Lappland, till specialslaktare i Helsingfors och övriga södra Finland, och till en liten men seriös exportmarknad i Centraleuropa.",
       "p4": "<strong>Styckdelarna du ser på en meny i Lappland</strong> motsvarar ungefär en nötköttsvokabulär: <em>filee</em> (filé, sous vide-territorium), <em>sisäpaisti / ulkopaisti</em> (innanlår / ytterlår, helstekt eller skivat till varmrökta rätter), <em>poronkäristys</em> (stekt ren, den finska vardagsklassikern: tunna skivor, smör, salt, serverat på potatismos med lingon) och <em>suovas</em> (kallrökt rensadel, äts i tunna skivor med rågbröd). Bidos använder segare grytbitar, oftast bog och lägg, och därför får den koka i timmar.",
@@ -274,7 +274,7 @@
     "fishDeep": {
       "kicker": "Fördjupning · Insjöfisk",
       "headline": "Varför pimpelfiske ger årets bästa fisk.",
-      "p1": "Lappland vilar på ungefär 6 000 sjöar, de flesta rena nog att dricka ur under en långvandring. De fyra fiskar som betyder något på tallriken är <strong>sik (siika)</strong>, <strong>gädda (hauki)</strong>, <strong>abborre (ahven)</strong> och <strong>öring / röding (taimen / nieriä)</strong>. Alla fyra är inhemska, alla fyra fångas i kommersiell mängd av både småfiskare och pimpelfiskeentusiaster, alla fyra dyker upp i olika former på menyerna i Lappland.",
+      "p1": "Lappland vilar på ungefär 6 000 sjöar, de flesta rena nog att dricka ur under en långvandring. De fyra fiskar som betyder något på tallriken är <strong>sik (siika)</strong>, <strong>gädda (hauki)</strong>, <strong>abborre (ahven)</strong> och <strong>öring / röding (taimen / nieriä)</strong>. Alla fyra är inhemska, alla fyra fångas i kommersiell mängd av både småfiskare och pimpelfiskeentusiaster, alla fyra dyker upp i olika former på menyerna i Lappland.",
       "p2": "Pimpelfiske, <em>pilkkiminen</em>, är mer än en lokal hobby. Det är fiskemetoden som ger årets mest smakrika arktiska insjöfisk. Så här: på vintern är sjövattnet som kallast och klarast. Fiskens ämnesomsättning saktar ner, fettdepåerna stelnar och parasiter dör bort (inga varmvattenvektorer). Köttet från en pimplad sik i februari är fastare, sötare och renare i smaken än samma fisk fångad i juli. Kockarna i Lappland planerar sina menyer efter det.",
       "p3": "Tekniken i sig är enkel: borra ett hål genom 50–80 cm is, släpp ner ett litet pirk med en enda krok, vänta, men den kräver temperaturer som ofta är kallare än −15 °C. Traditionellt täckte man hålet mellan besöken så att det inte frös igen. I dag använder de flesta isolerade tält (ett litet pimpeltält är billigt och förändrar upplevelsen helt).",
       "p4Prefix": "På en meny: lättrökt sik (<em>graavisiika</em>) och gäddrom på rågbröd är vardagsförrätter i Lappland. En helstekt öring är den klassiska huvudrätten. Sápmi-fisksoppa (recept på",
@@ -1220,7 +1220,7 @@
       "items": [
         {
           "title": "Sápmi, hemlandet",
-          "body": "Sápmi omfattar ungefär 400 000 km² i fyra länder. Finska Sápmi (Saamelaisten kotiseutualue) är Finlands nordligaste region, kommunerna Enontekiö, Inari och Utsjoki."
+          "body": "Sápmi omfattar ungefär 400 000 km² i fyra länder. Finska Sápmi (Saamelaisten kotiseutualue) är Finlands nordligaste region, kommunerna Enontekiö, Inari och Utsjoki."
         },
         {
           "title": "Samiska språk",
@@ -1945,7 +1945,7 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Wilderness Hotel Juutua (tidigare Hotel Kultahovi), Saarikoskentie 2, Inari · vid Juutuanjoki",
-          "angle": "Det närmaste en destinationsmiddag djupt inne i Sápmi. Köket lagar Inaris eget skafferi: fisk från Enare träsk, ren, kvanne och lav från fjällen, och vinlistan är ovanligt djup för en kommun med 7 000 invånare.",
+          "angle": "Det närmaste en destinationsmiddag djupt inne i Sápmi. Köket lagar Inaris eget skafferi: fisk från Enare träsk, ren, kvanne och lav från fjällen, och vinlistan är ovanligt djup för en kommun med 7 000 invånare.",
           "signature": "Fisk från Enare träsk · ren · kvanne och lav från fjällen",
           "band": "€€€, 3-rättersmeny 65 € · 5-rättersmeny 90 € (2026), vinpaket 30–41 €",
           "booking": "Köket öppet dagligen 17–22. Boka 6–8 veckor i förväg på vintern och under midnattssolen."

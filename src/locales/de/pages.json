@@ -242,7 +242,7 @@
     "reindeerDeep": {
       "kicker": "Tiefer Blick · Rentier",
       "headline": "Wie das Rentier auf den Teller in Lappland kommt.",
-      "p1": "Finnlands Rentierwirtschaft wird durch das Rentierwirtschaftsgesetz geregelt, das den Besitz auf Bewohner des Rentierwirtschaftsgebiets (praktisch Nordfinnland) beschränkt. Die Tiere gehören einzelnen Hirten, weiden aber gemeinsam in Rentiergenossenschaften, den <em>paliskunnat</em>, die Gebiet und Arbeit teilen. Es gibt insgesamt rund 200 000 Rentiere in etwa 54 Genossenschaften, alle in Lappland und in Teilen von Nord-Ostbottnien.",
+      "p1": "Finnlands Rentierwirtschaft wird durch das Rentierwirtschaftsgesetz geregelt, das den Besitz auf Bewohner des Rentierwirtschaftsgebiets (praktisch Nordfinnland) beschränkt. Die Tiere gehören einzelnen Hirten, weiden aber gemeinsam in Rentiergenossenschaften, den <em>paliskunnat</em>, die Gebiet und Arbeit teilen. Es gibt insgesamt rund 200 000 Rentiere in etwa 54 Genossenschaften, alle in Lappland und in Teilen von Nord-Ostbottnien.",
       "p2": "Die Herde ist in allem außer dem Eigentum wild. Die Rentiere ziehen frei über weite unbezäunte Taiga- und Fjällgebiete und fressen, was sie finden: Flechten im Winter (das verleiht dem Fleisch seinen besonders reinen Geschmack), Gräser und Kräuter im Sommer, Pilze im Herbst. Die Hirten folgen den Tieren mit Schneemobilen und Quads, treiben sie zweimal im Jahr für Ohrenmarkierung und (im Herbst) Schlachtauswahl zusammen und lassen sie dann wieder frei.",
       "p3": "Die Schlachtung findet im Herbst statt, typischerweise Oktober–November, wenn die Tiere ihr Höchstgewicht haben. Das Fleisch geht durch die 19 EU-zugelassenen Rentierschlachthöfe des Rentierzuchtgebiets, von denen 17 den Genossenschaften oder den Rentierhaltern selbst gehören. Der größte Teil des Fleisches wird im Umkreis von wenigen hundert Kilometern vom Lebensraum des Tieres verkauft, an Restaurants in Lappland, Fleischereien in Helsinki und Südfinnland und einen kleinen, aber ernstzunehmenden Exportmarkt in Mitteleuropa.",
       "p4": "<strong>Die Stücke, die Sie auf Lapplands Speisekarten finden</strong>, entsprechen grob dem Rindfleisch-Vokabular: <em>filee</em> (Filet, Sous-vide-Terrain), <em>sisäpaisti / ulkopaisti</em> (Innen- und Außenkeule, ganz gebraten oder in Scheiben für warm geräucherte Gerichte), <em>poronkäristys</em> (der alltägliche finnische Klassiker, dünne Streifen, Butter, Salz, mit Kartoffelpüree und Preiselbeere), und <em>suovas</em> (kalt geräuchertes Sattelfleisch, hauchdünn auf Roggenbrot). Bidos verwendet zähere Schmorstücke, typischerweise Schulter und Hachse, deshalb gart er stundenlang.",
@@ -275,7 +275,7 @@
     "fishDeep": {
       "kicker": "Tiefer Blick · Süßwasserfisch",
       "headline": "Warum Eisangel-Fisch der beste des Jahres ist.",
-      "p1": "Lappland hat etwa 6 000 Seen, die meisten von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Maräne</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
+      "p1": "Lappland hat etwa 6 000 Seen, die meisten von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Maräne</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
       "p2": "Eisangeln ist mehr als ein lokales Hobby. Es ist die Fangmethode, die den geschmackvollsten arktischen Süßwasserfisch des Jahres liefert. Hier der Grund: Im Winter ist die Wassertemperatur auf dem Tiefpunkt und die Klarheit am höchsten. Der Stoffwechsel der Fische verlangsamt sich, die Fettreserven verdichten sich und Parasiten sterben ab (keine Warmwasservektoren). Das Fleisch einer im Februar geangelten Maräne ist dichter, süßer und reiner im Geschmack als bei demselben Fisch im Juli. Die Köche Lapplands stimmen ihre Menüs entsprechend ab.",
       "p3": "Die Technik selbst ist geradlinig: ein Loch durch 50–80 cm dickes Eis bohren, einen kleinen Jig mit einem Haken absenken, warten. Sie verlangt aber oft Temperaturen unter −15 °C. Traditionell deckte man das Loch zwischen den Besuchen ab, damit es nicht wieder zufror. Heute verwenden die meisten isolierte Zelte (ein kleiner Eisangel-Unterstand ist günstig und verändert das Erlebnis komplett).",
       "p4Prefix": "Auf der Speisekarte: leicht geräucherte Maräne (<em>graavisiika</em>) und Hechtrogen auf Roggenbrot sind die alltäglichen Vorspeisen Lapplands. Ganz gebratene Forelle ist ein klassisches Hauptgericht. Die Sápmi-Fischsuppe (Rezept",
@@ -1221,7 +1221,7 @@
       "items": [
         {
           "title": "Sápmi, das Heimatland",
-          "body": "Sápmi umfasst rund 400 000 km² in vier Staaten. Das finnische Sápmi (das Sámi-Heimatgebiet) ist die nördlichste Region Finnlands, Enontekiö, Inari und Utsjoki."
+          "body": "Sápmi umfasst rund 400 000 km² in vier Staaten. Das finnische Sápmi (das Sámi-Heimatgebiet) ist die nördlichste Region Finnlands, Enontekiö, Inari und Utsjoki."
         },
         {
           "title": "Die Sámi-Sprachen",
@@ -1946,7 +1946,7 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Wilderness Hotel Juutua (ehemals Hotel Kultahovi), Saarikoskentie 2, Inari · am Ufer des Juutuanjoki",
-          "angle": "Am nächsten an einem Destination-Dining-Erlebnis tief im Sámi-Land. Die Küche kocht aus Inaris eigener Speisekammer: Fisch aus dem Inarisee, Rentier, Engelwurz und Flechten von den Fjells, und die Weinkarte ist für eine Gemeinde mit 7 000 Einwohnern ungewöhnlich tief.",
+          "angle": "Am nächsten an einem Destination-Dining-Erlebnis tief im Sámi-Land. Die Küche kocht aus Inaris eigener Speisekammer: Fisch aus dem Inarisee, Rentier, Engelwurz und Flechten von den Fjells, und die Weinkarte ist für eine Gemeinde mit 7 000 Einwohnern ungewöhnlich tief.",
           "signature": "Fisch aus dem Inarisee · Rentier · Engelwurz und Flechten von den Fjells",
           "band": "€€€, 3-Gang-Menü 65 € · 5-Gang-Menü 90 € (2026), Weinbegleitung 30–41 €",
           "booking": "Küche täglich 17–22 Uhr geöffnet. Im Winter und im Mitternachtssonnen-Fenster 6–8 Wochen im Voraus reservieren."

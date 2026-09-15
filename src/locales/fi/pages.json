@@ -242,7 +242,7 @@
     "reindeerDeep": {
       "kicker": "Syvällinen tarkastelu · Poro",
       "headline": "Miten poro päätyy lappilaisen lautaselle.",
-      "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille poromiehille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
+      "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille poromiehille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
       "p2": "Lauma on villiä kaikessa muussa paitsi omistuksessa. Porot kulkevat vapaasti valtavilla aitaamattomilla taiga- ja tunturialueilla, syöden mitä löytävät: jäkälää talvella (tämä antaa lihalle sen erityisen puhtaan maun), heinää ja yrttejä kesällä, sieniä syksyllä. Paimentajat seuraavat eläimiä moottorikelkoilla ja mönkijöillä, kokoavat ne kahdesti vuodessa korvamerkintää ja (syksyllä) teurastusvalintaa varten ja päästävät ne sitten taas vapaiksi.",
       "p3": "Teurastus tapahtuu syksyllä, tyypillisesti loka–marraskuussa, kun eläimet ovat huippupainossaan. Liha kulkee poronhoitoalueen 19 EU-hyväksytyn poroteurastamon kautta, joista 17 on paliskuntien tai poronomistajien omia. Suurin osa lihasta myydään muutaman sadan kilometrin säteellä eläimen elinpaikasta, Lapin ravintoloille, Helsingin ja Etelä-Suomen lihakaupoille ja pieneen mutta vakavaan vientimarkkinaan Keski-Eurooppaan.",
       "p4": "<strong>Lapin menulta löytyvät palat</strong> vastaavat karkeasti naudan­liha­sanastoa: <em>filee</em> (filee, sous vide -aluetta), <em>sisäpaisti / ulkopaisti</em> (kokonaisena paahdettuja tai siivutettuja kuumasavustettaviin annoksiin), <em>poronkäristys</em> (jokapäiväinen suomalainen klassikko, ohuet siivut, voi, suola, perunamuusilla ja puolukalla), ja <em>suovas</em> (kylmäsavustettu satulan­liha, ohuina siivuina ruisleivän kanssa). Bidos käyttää sitkeämpiä haudutuspaloja, tyypillisesti lapaa ja potkaa, ja siksi se kypsyy tunteja.",
@@ -275,7 +275,7 @@
     "fishDeep": {
       "kicker": "Syvällinen tarkastelu · Järvikala",
       "headline": "Miksi pilkkikala on vuoden parasta kalaa.",
-      "p1": "Lapissa on noin 6 000 järveä, useimmat niistä riittävän puhtaita juotavaksi pitkällä vaelluksella. Lautasella merkittävät neljä kalaa ovat <strong>siika</strong>, <strong>hauki</strong>, <strong>ahven</strong> ja <strong>taimen / nieriä</strong>. Kaikki neljä ovat kotoperäisiä, kaikkia neljää saadaan kaupallisesti sekä pien­kalastajilta että pilkkijöiltä, kaikki neljä ilmestyvät eri muodoissa Lapin ruokalistoille.",
+      "p1": "Lapissa on noin 6 000 järveä, useimmat niistä riittävän puhtaita juotavaksi pitkällä vaelluksella. Lautasella merkittävät neljä kalaa ovat <strong>siika</strong>, <strong>hauki</strong>, <strong>ahven</strong> ja <strong>taimen / nieriä</strong>. Kaikki neljä ovat kotoperäisiä, kaikkia neljää saadaan kaupallisesti sekä pien­kalastajilta että pilkkijöiltä, kaikki neljä ilmestyvät eri muodoissa Lapin ruokalistoille.",
       "p2": "Pilkkiminen on enemmän kuin paikallinen harrastus. Se on kalastusmenetelmä, joka tuottaa vuoden maukkainta arktista järvikalaa. Tässä syy: talvella järviveden lämpö­tila on alimmillaan ja kirkkaus suurimmillaan. Kalojen aineen­vaihdunta hidastuu, rasva­varastot tiivistyvät ja loiset kuolevat (ei lämpimän veden vektoreita). Helmikuussa pilkityn siian liha on tiheämpää, makeampaa ja puhtaamman makuista kuin saman kalan heinä­kuussa. Lapin kokit ajoittavat menut sen mukaan.",
       "p3": "Tekniikka itsessään on suora­viivainen, pora reikä 50–80 cm:n jään läpi, pudota pieni jigi yhdellä koukulla, odota, mutta vaatii usein alle −15 °C lämpötiloja. Perinteisesti reikä peitettiin käyntien välillä, jottei se jäätyisi uudelleen umpeen. Nykyään useimmat käyttävät eristettyjä telttoja (pieni pilkki­suoja on edullinen ja muuttaa kokemuksen täysin).",
       "p4Prefix": "Ruokalistalla: kevyesti savustettu siika (<em>graavisiika</em>) ja haukimäti ruisleivällä ovat Lapin arki­alkuruokia. Kokonaisena paahdettu taimen on klassinen pää­ruoka. Sápmi­kalakeitto (resepti",
@@ -1221,7 +1221,7 @@
       "items": [
         {
           "title": "Sápmi, kotimaa",
-          "body": "Sápmi kattaa noin 400 000 km² neljässä valtiossa. Suomen Sápmi (Saamelaisten kotiseutualue) on Suomen pohjoisin alue, Enontekiö, Inari ja Utsjoki."
+          "body": "Sápmi kattaa noin 400 000 km² neljässä valtiossa. Suomen Sápmi (Saamelaisten kotiseutualue) on Suomen pohjoisin alue, Enontekiö, Inari ja Utsjoki."
         },
         {
           "title": "Saamen kielet",
@@ -1946,7 +1946,7 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Wilderness Hotel Juutua (entinen Hotelli Kultahovi), Saarikoskentie 2, Inari · Juutuanjoen rannalla",
-          "angle": "Aidoin destination dining -elämys syvällä Saamenmaassa. Keittiö kokkaa Inarin omasta aitasta: Inarijärven kalaa, poroa, väinönputkea ja tunturien jäkälää, ja viinilista on epätavallisen syvä 7 000 asukkaan kunnassa.",
+          "angle": "Aidoin destination dining -elämys syvällä Saamenmaassa. Keittiö kokkaa Inarin omasta aitasta: Inarijärven kalaa, poroa, väinönputkea ja tunturien jäkälää, ja viinilista on epätavallisen syvä 7 000 asukkaan kunnassa.",
           "signature": "Inarijärven kala · poro · väinönputki ja tunturien jäkälä",
           "band": "€€€, 3 ruokalajin menu 65 € · 5 ruokalajin menu 90 € (2026), viiniparit 30–41 €",
           "booking": "Keittiö auki joka päivä 17–22. Varaa 6–8 viikkoa etukäteen talvella ja keskiyön auringon aikaan."
