@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import { Award, Sparkles, ChefHat, Star, Wine, Clock, Users, Leaf, MapPin, ArrowUpRight } from 'lucide-react';
+import { Star, Wine, Clock, Users, Leaf, MapPin, ArrowUpRight } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import PageHero from '../components/PageHero';
@@ -10,37 +10,33 @@ import AffiliateCTA from '../components/AffiliateCTA';
 import { useLocale } from '../i18n/useLocale';
 
 /**
- * Michelin ja fine dining — kirjoitettu uusiksi 16.9.2026 (Vesa).
+ * Michelin ja fine dining — Suomen tähtilista 2026 + Lapin kolme salia.
  *
- * 🔴🔴 MITÄ SIVULLA OLI VIKANA. Vesa luki sivun ja kysyi kolme asiaa: *"mitä nuo
- * euron merkit ovat? google arvostelut voisivat olla aidotkin? … mikä helvetin
- * viinipari. mitä tämä osio yrittää tehdä ja onnistuuko?"* Vastaus mitattuna:
+ * 🔴🔴 17.9.2026 (Vesa): edellisen päivän uudelleenkirjoitus poisti Helsingin
+ * tähtiravintolat kokonaan ja otsikoi sivun "Lapissa ei ole yhtään tähteä" ja
+ * "emmekä ole syöneet niissä". Vesa: *"olisihan siellä voinut pitää ne suomen
+ * michelin ravintolat? miksi ne piti poistaa kokonaan?"* ja *"emme ole käyneet
+ * niissä? ketä vittua tällänen kiinnostaa?"* Hän oli oikeassa kummassakin:
  *
- * 1. Sivu lainasi Michelinin auktoriteettia. Hintaluokat €/€€/€€€/€€€€ olivat
- *    MEIDÄN keksimämme — sivu myönsi sen itse keskellä kappaletta — ja ne olivat
- *    myös vääriä: Nili oli merkitty €€€ = 80–140 €/hlö, kun ravintolan oma sivu
- *    myi 16.9.2026 neljän ruokalajin menua 45 €:lla. Michelin käyttää täsmälleen
- *    samaa merkintätapaa, joten olimme ottaneet heidän asteikkonsa ulkoasun ja
- *    täyttäneet sen arvauksilla. Siksi sivu tarvitsi alaviitteen "ei yhteyksiä
- *    Michelin-oppaaseen": se näytti siltä että se olisi opas.
- * 2. Helsingin seitsemän korttia olivat sivun suurin lohko, 800 km väärässä
- *    paikassa, meidän piirtämillämme ★-merkeillä ja AI-kuvilla ravintoloista
- *    joissa emme ole käyneet. Nyt lyhyt rehellinen lohko + linkki oppaaseen.
- * 3. 🔴🔴 Lapin korteissa oli AI-kuva `alt="Ravintola Nili"` — eli tekaistu kuva
- *    oikean yrityksen salista. Se on sama sääntö kuin kumppanin tuotteella:
- *    tietystä oikeasta kohteesta ei esitetä keksittyä kuvaa. Gradientti on
- *    rehellisempi kuin väärä kuva, joten kuvat poistettiin kunnes on oma.
- * 4. Yleinen kahdeksan ruokalajin tasting menu -läpikäynti poistettiin
- *    kokonaan: se ei kuvannut yhtäkään oikeaa ravintolaa.
+ * 1. Lista on julkinen fakta (Pohjoismaiden opas 2026, julkistettu 1.6.2026),
+ *    ja Michelinin nimen käyttö sen lähteenä on viittaavaa käyttöä. 16.9. oikeat
+ *    viat olivat KEKSITTY hinta-asteikko €–€€€€ ja AI-kuvat oikeista saleista —
+ *    ne pysyvät poissa. Lista itse ei ollut vika.
+ * 2. Otsikko kertoo mitä sivulla ON (Suomen tähdet + Lapin salit), ei mitä
+ *    siellä ei ole. Sama sääntö kuin marjasivulla 15.9. ("heivaa vittun tuo neljä").
+ * 3. Toimituksen omat kokemukset eivät ole lukijan asia. Korttien faktat ovat
+ *    oppaan ja ravintoloiden omia (tähtivuodet, keittiömestarit), ei arvioita.
  *
- * 🟢 Tilalle: Googlen oikeat käyttäjäarviot omasta viikkotilannekuvastamme
- * (`openhours.json`, mitattu 11.9.2026 — jo maksettu, ei uutta rajapintakulua)
- * ja ravintoloiden omilta sivuilta tarkistetut aukioloajat.
+ * Kortissa EI ole hintaluokkaa, katuosoitetta eikä kuvaa: hintaa emme voi
+ * todentaa, osoitteet muuttuvat (Demo muutti 2025) ja ravintolan salista ei
+ * esitetä generoitua kuvaa. Tähdet ja kaupunki riittävät — varaus tehdään
+ * ravintolan omalla sivulla, ja linkki oppaaseen on yksi.
  *
- * Rima on Tietoa-sivulta: ystävän pitäisi pystyä lukemaan tämä ja varaamaan pöytä.
+ * Lapin kolme salia: Googlen arviot viikkotilannekuvasta
+ * (`scripts/update-restaurant-ratings.mjs`), aukiolot ravintoloiden sivuilta 16.9.2026.
  */
 
-interface Point { title: string; body: string }
+interface StarRoom { name: string; city: string; stars: string; angle: string }
 interface LaplandRoom {
   name: string; city: string; address: string; angle: string;
   order: string; hours: string; booking: string;
@@ -49,15 +45,16 @@ interface LaplandRoom {
 }
 interface Note { label: string; body: string }
 
-const POINT_ICONS = [Award, Sparkles, ChefHat];
 const NOTE_ICONS = [Clock, Wine, Leaf, Users];
 const LAPLAND_SIDS = ['rovaniemi', 'inari', 'arctic_treehouse'];
-const MICHELIN_URL = 'https://guide.michelin.com/en/fi/restaurants';
+// Suomen valikoima englanniksi: sama maa/kieli-polku kuin oppaan omissa artikkeli- ja
+// ravintolaosoitteissa (guide.michelin.com/fi/en/…). Vanha /en/fi/ oli päätelty, ei luettu.
+const MICHELIN_URL = 'https://guide.michelin.com/fi/en/restaurants';
 
 export default function MichelinDining() {
   const { t } = useTranslation('pages');
   const { to } = useLocale();
-  const points = (t('michelinDining.answer.points', { returnObjects: true }) as Point[]) || [];
+  const starRooms = (t('michelinDining.michelin.rooms', { returnObjects: true }) as StarRoom[]) || [];
   const laplandRooms = (t('michelinDining.lapland.rooms', { returnObjects: true }) as LaplandRoom[]) || [];
   const notes = (t('michelinDining.before.items', { returnObjects: true }) as Note[]) || [];
 
@@ -73,48 +70,78 @@ export default function MichelinDining() {
           subtitle={t('michelinDining.hero.subtitle')}
           imageUrl="/images/hero-michelin.jpg"
           imageAlt="Tasting-menu plating with foraged herbs and gold-rimmed dishware on a dark linen table"
-          primaryCta={{ label: t('michelinDining.hero.primaryCta'), href: `${to('/michelin-dining')}#lapland` }}
-          secondaryCta={{ label: t('michelinDining.hero.secondaryCta'), href: `${to('/michelin-dining')}#helsinki` }}
+          primaryCta={{ label: t('michelinDining.hero.primaryCta'), href: `${to('/michelin-dining')}#michelin` }}
+          secondaryCta={{ label: t('michelinDining.hero.secondaryCta'), href: `${to('/michelin-dining')}#lapland` }}
           pills={laplandRooms.map(r => r.name)}
           pillHrefs={laplandRooms.map((_, i) => `#lapland-room-${i}`)}
         />
 
-        {/* Suora vastaus: Lapissa ei ole tähtiä */}
-        <section className="bg-white py-16 sm:py-20">
-          <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
+        {/* Suomen tähtilista 2026 — sivun lupaus, siksi ensimmäisenä */}
+        <section id="michelin" className="scroll-mt-16 bg-[#F8FAFC] py-16 sm:py-20">
+          <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-10">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-                {t('michelinDining.answer.kicker')}
+                {t('michelinDining.michelin.kicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
-                {t('michelinDining.answer.headline')}
+                {t('michelinDining.michelin.headline')}
               </h2>
               <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed">
-                {t('michelinDining.answer.leadPrefix')}{' '}
-                <a href={MICHELIN_URL} target="_blank" rel="noopener" className="text-vibe-pink underline-offset-4 hover:underline">
-                  guide.michelin.com
-                </a>
-                {t('michelinDining.answer.leadSuffix')}
+                {t('michelinDining.michelin.lead')}
               </p>
             </div>
 
-            <div className="grid md:grid-cols-3 gap-5">
-              {points.map((p, i) => {
-                const Icon = POINT_ICONS[i];
+            <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {starRooms.map((r) => {
+                const two = (r.stars.match(/★/g) || []).length >= 2;
+                const starsLabel = t(two ? 'michelinDining.michelin.labels.twoStars' : 'michelinDining.michelin.labels.oneStar');
                 return (
-                  <div key={p.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
-                    {Icon && <Icon className="w-6 h-6 text-vibe-pink mb-3" />}
-                    <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{p.title}</h3>
-                    <p className="text-sm text-[#002F6C]/75 leading-relaxed">{p.body}</p>
-                  </div>
+                  <article key={r.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden">
+                    {/* Ei kuvaa eikä hintaluokkaa: ks. tiedoston alun perustelu. */}
+                    <div className="bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] px-5 pt-5 pb-4">
+                      <span role="img" aria-label={starsLabel} title={starsLabel} className="inline-block text-[11px] font-bold tracking-wider bg-white/95 text-[#002F6C] px-2.5 py-0.5 rounded-full whitespace-nowrap">
+                        {r.stars}
+                      </span>
+                      <h3 className="font-heading tracking-wide text-2xl text-white leading-tight mt-3">{r.name}</h3>
+                      <p className="mt-1 flex items-center gap-1 text-xs text-white/80">
+                        <MapPin className="w-3 h-3 flex-shrink-0" aria-hidden="true" /> {r.city}
+                      </p>
+                    </div>
+                    <p className="p-5 text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
+                  </article>
                 );
               })}
+            </div>
+
+            <div className="mt-5 rounded-2xl bg-white border border-[#002F6C]/10 p-5 sm:p-6 sm:flex sm:items-baseline sm:gap-6">
+              <p className="font-heading tracking-wide text-xl text-[#002F6C] mb-1 sm:mb-0 sm:w-52 sm:flex-shrink-0">
+                {t('michelinDining.michelin.bibLabel')}
+              </p>
+              <p className="text-sm text-[#002F6C]/75 leading-relaxed">{t('michelinDining.michelin.bibBody')}</p>
+            </div>
+
+            <p className="mt-8 max-w-3xl text-base text-[#002F6C]/75 leading-relaxed">
+              {t('michelinDining.michelin.note')}
+            </p>
+            <div className="mt-5 flex flex-col sm:flex-row gap-3">
+              <a
+                href={MICHELIN_URL}
+                target="_blank"
+                rel="noopener"
+                className="inline-flex items-center justify-center gap-1.5 min-h-11 border border-[#002F6C]/25 text-[#002F6C] hover:bg-[#002F6C]/5 font-semibold px-6 rounded-full transition-colors text-sm"
+              >
+                {t('michelinDining.michelin.linkLabel')}
+                <ArrowUpRight className="w-4 h-4" aria-hidden="true" />
+              </a>
+              <AffiliateCTA partner="hotels" sid="michelin_helsinki" destination="Helsinki, Finland" className="inline-flex items-center justify-center min-h-11 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-6 rounded-full transition-colors text-sm">
+                {t('michelinDining.michelin.ctaHotels')}
+              </AffiliateCTA>
             </div>
           </div>
         </section>
 
-        {/* Lapin kolme salia — sivun ydin, siksi ennen Helsinkiä */}
-        <section id="lapland" className="bg-[#002F6C] py-16 sm:py-20 text-white">
+        {/* Lapin kolme salia — sivun toinen puoli */}
+        <section id="lapland" className="scroll-mt-16 bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-10 max-w-3xl mx-auto">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
@@ -125,6 +152,9 @@ export default function MichelinDining() {
               </h2>
               <p className="text-base text-white/80">
                 {t('michelinDining.lapland.lead')}
+              </p>
+              <p className="text-base text-white/80 mt-3">
+                {t('michelinDining.lapland.booking')}
               </p>
             </div>
 
@@ -174,38 +204,6 @@ export default function MichelinDining() {
                   </article>
                 );
               })}
-            </div>
-          </div>
-        </section>
-
-        {/* Helsinki: lyhyt ja rehellinen, ei meidan arvioita */}
-        <section id="helsinki" className="bg-[#F8FAFC] py-16 sm:py-20">
-          <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-              {t('michelinDining.helsinki.kicker')}
-            </p>
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl md:text-5xl text-[#002F6C] mb-5">
-              {t('michelinDining.helsinki.headline')}
-            </h2>
-            <p className="text-base text-[#002F6C]/75 leading-relaxed mb-4">
-              {t('michelinDining.helsinki.lead')}
-            </p>
-            <p className="text-base text-[#002F6C]/75 leading-relaxed mb-7">
-              {t('michelinDining.helsinki.note')}
-            </p>
-            <div className="flex flex-col sm:flex-row gap-3">
-              <a
-                href={MICHELIN_URL}
-                target="_blank"
-                rel="noopener"
-                className="inline-flex items-center justify-center gap-1.5 min-h-11 border border-[#002F6C]/25 text-[#002F6C] hover:bg-[#002F6C]/5 font-semibold px-6 rounded-full transition-colors text-sm"
-              >
-                {t('michelinDining.helsinki.linkLabel')}
-                <ArrowUpRight className="w-4 h-4" aria-hidden="true" />
-              </a>
-              <AffiliateCTA partner="hotels" sid="michelin_helsinki" destination="Helsinki, Finland" className="inline-flex items-center justify-center min-h-11 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-6 rounded-full transition-colors text-sm">
-                {t('michelinDining.helsinki.ctaHotels')}
-              </AffiliateCTA>
             </div>
           </div>
         </section>
@@ -261,7 +259,7 @@ export default function MichelinDining() {
           </div>
         </section>
 
-        {/* Lahderivi: mista luvut ovat ja milloin mitattu */}
+        {/* Lähderivi: mistä tähdet, luvut ja päivämäärät ovat */}
         <section className="bg-white pb-14">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
             <p className="text-xs text-[#002F6C]/70 leading-relaxed border-t border-[#002F6C]/10 pt-6">

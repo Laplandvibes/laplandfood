@@ -143,7 +143,7 @@
         },
         {
           "question": "Does Finland have Michelin-starred restaurants?",
-          "answer": "Yes. The Michelin Guide covers Finland, and in recent Nordic editions almost every starred Finnish restaurant has been in Helsinki. Lapland itself does not currently hold a star, but its flagship kitchens (Nili, Aanaar, Rakas) are pushing tasting-menu dining inside the Arctic Circle. Star lists change every year, so check the current Guide before booking."
+          "answer": "Yes. The Michelin Guide covers Finland. In the 2026 Nordic Guide 8 Finnish restaurants are starred: 6 in Helsinki, 1 in Turku and 1 in Porvoo. Lapland itself does not currently hold a star, but its flagship kitchens (Nili, Aanaar, Rakas) are pushing tasting-menu dining inside the Arctic Circle. Star lists change every year, so check the current Guide before booking."
         },
         {
           "question": "What is Sami food?",
@@ -1835,35 +1835,79 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining in Lapland: three rooms, not one Michelin star",
-    "description": "Lapland has no Michelin stars. Nili, Aanaar and Rakas are the three rooms where you eat best: opening hours, booking windows and what to order.",
+    "title": "Michelin stars in Finland 2026 and where to eat in Lapland",
+    "description": "All 8 Michelin-starred restaurants in Finland in 2026, plus the 3 Lapland rooms worth the drive: opening hours, booking windows and what to order.",
     "hero": {
       "eyebrow": "Guide 05 · Fine dining",
-      "title": "Lapland has",
-      "titleHighlight": "no Michelin stars.",
-      "subtitle": "Finland's stars are in Helsinki, 800 kilometres south. That does not mean you eat badly up here. It means the best food in Lapland is not on the star list. This page tells you where it is.",
-      "primaryCta": "The three rooms",
-      "secondaryCta": "What about Helsinki?"
+      "title": "Michelin stars in Finland,",
+      "titleHighlight": "and where to eat in Lapland.",
+      "subtitle": "8 restaurants are starred in the 2026 Nordic Guide: 6 in Helsinki, 1 in Turku, 1 in Porvoo. Up here the best food is in 3 small rooms in Rovaniemi and Inari. This page has both, with what to order and when to book.",
+      "primaryCta": "The 2026 star list",
+      "secondaryCta": "The three Lapland rooms"
     },
-    "answer": {
-      "kicker": "Straight answer",
-      "headline": "Three things before you book.",
-      "leadPrefix": "The Michelin guide is updated every year and stars move. The list in force is always at",
-      "leadSuffix": ". These three things do not move.",
-      "points": [
+    "michelin": {
+      "kicker": "MICHELIN Guide Nordic Countries 2026",
+      "headline": "Finland's eight starred restaurants.",
+      "lead": "The 2026 selection was announced on 1 June 2026: Grön rose to two stars, Boreal earned its first, and every other Finnish star was retained. The list changes every year, so check the Guide before you book.",
+      "labels": {
+        "oneStar": "One Michelin star, 2026",
+        "twoStars": "Two Michelin stars, 2026"
+      },
+      "rooms": [
         {
-          "title": "The stars are down south",
-          "body": "Finland's starred restaurants are in Helsinki, with one in Turku and one in Porvoo. Lapland has none. If you come here for a star, you will not find one."
+          "name": "Palace",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Finland's first star in 1987 and a second since 2022. Tenth floor above the South Harbour: Nordic clarity with French technique."
         },
         {
-          "title": "Three rooms anyway",
-          "body": "Nili and Rakas in Rovaniemi, Aanaar in Inari. The ingredients come from nearby and the plate is thought through. We do not claim they are star level. We say they are the best there is up here."
+          "name": "Grön",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Starred since 2018, two stars from 2026. Toni Kostian's tiny room with an open kitchen: vegetables from the restaurant's own garden, everything else from within Finland."
         },
         {
-          "title": "Book early or miss out",
-          "body": "These rooms are small. From mid-December to February, and during the midnight sun, tables go weeks ahead. We suggest booking about six weeks before your trip."
+          "name": "Boreal",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "New star in 2026. Pasha Demin's menu is built on the short northern seasons: wild produce, fermentation and preserving."
+        },
+        {
+          "name": "Demo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Starred since 2007. Finnish and European produce, polished cooking in a classic structure."
+        },
+        {
+          "name": "Finnjävel Salonki",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Finnish classics rebuilt as modern fine dining. Salonki is the house's starred tasting-menu room."
+        },
+        {
+          "name": "Olo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Starred since 2011. Modern Nordic tasting menus from northern seasonal ingredients, on the Esplanade."
+        },
+        {
+          "name": "Kaskis",
+          "city": "Turku",
+          "stars": "★ 2026",
+          "angle": "Starred since 2022, the first outside Helsinki. Erik Mansikka and Simo Raisio's tasting menu: big flavours in a small room."
+        },
+        {
+          "name": "Vår",
+          "city": "Porvoo",
+          "stars": "★ 2026",
+          "angle": "Starred since 2023 and the first in Porvoo, about an hour's drive east of Helsinki."
         }
-      ]
+      ],
+      "bibLabel": "Bib Gourmand 2026",
+      "bibBody": "The Guide's good-value mark went to three Helsinki restaurants: Nolla, 305 and Bona Fide.",
+      "linkLabel": "Full 2026 list on guide.michelin.com",
+      "note": "Helsinki is 800 kilometres south of Rovaniemi, so it is a different trip from this one. Book directly with the restaurant.",
+      "ctaHotels": "Hotels in Helsinki"
     },
     "lapland": {
       "kicker": "The three rooms",
@@ -1910,15 +1954,8 @@
           "rating": "",
           "ratingCount": "Not in our snapshot yet"
         }
-      ]
-    },
-    "helsinki": {
-      "kicker": "What about Helsinki",
-      "headline": "The stars are in Helsinki, and we have not eaten in them.",
-      "lead": "Almost all of Finland's Michelin stars are in Helsinki. We do not list them here as our own reviews, because we have not been to all of them and we are not Michelin. The guide is updated every year and stars move, so the correct list is on the guide's own site.",
-      "linkLabel": "See the star list on guide.michelin.com",
-      "note": "If your trip goes through Helsinki, book directly with the restaurant. Helsinki is 800 kilometres south of Rovaniemi, which makes it a different trip from this one.",
-      "ctaHotels": "Hotels in Helsinki"
+      ],
+      "booking": "The rooms are small. From mid-December to February and under the midnight sun, tables go weeks ahead."
     },
     "before": {
       "headline": "Four things worth knowing beforehand.",
@@ -1950,7 +1987,7 @@
       "tourPrefix": "Would you rather have a guide who handles the transport, the bookings and the chef introductions?",
       "tourLabel": "Book an Arctic fine dining tour"
     },
-    "sources": "Opening hours and menu details from the restaurants' own sites, 16 September 2026. Google ratings and Nili's opening hours from our own weekly snapshot, 11 September 2026; Rakas is not in it yet. Star information: guide.michelin.com. We are not connected to the Michelin guide and we do not rate restaurants on their behalf."
+    "sources": "Star designations: MICHELIN Guide Nordic Countries 2026, announced 1 June 2026; first-star years from the Guide and the restaurants' own announcements. Opening hours and menu details from the restaurants' own sites, 16 September 2026. Google ratings and Nili's opening hours from our own weekly snapshot, 11 September 2026; Rakas is not in it yet."
   },
   "about": {
     "title": "About LaplandFood",

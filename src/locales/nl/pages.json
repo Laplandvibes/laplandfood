@@ -143,7 +143,7 @@
         },
         {
           "question": "Heeft Finland restaurants met een Michelinster?",
-          "answer": "Ja. De Michelingids beoordeelt Finland, en de sterrenrestaurants in de recente Noordse edities lagen bijna allemaal in Helsinki. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens, Nili, Aanaar, Rakas, tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; raadpleeg de actuele gids voordat u reserveert."
+          "answer": "Ja. De Michelingids beoordeelt Finland. In de Noordse gids 2026 hebben acht Finse restaurants een ster: zes in Helsinki, een in Turku en een in Porvoo. Lapland zelf heeft momenteel geen ster, maar zijn topkeukens, Nili, Aanaar, Rakas, tillen het degustatiemenu boven de poolcirkel naar een hoger niveau. De sterrenlijst verandert elk jaar; raadpleeg de actuele gids voordat u reserveert."
         },
         {
           "question": "Wat is Samisch eten?",
@@ -1835,35 +1835,79 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining in Lapland: drie zalen, geen enkele Michelinster",
-    "description": "Lapland heeft geen Michelinsterren. Nili, Aanaar en Rakas zijn de drie zalen waar u het best eet: openingstijden, reserveertermijnen en wat u moet bestellen.",
+    "title": "Michelinsterren in Finland 2026 en waar u eet in Lapland",
+    "description": "Alle acht Michelinrestaurants van Finland in 2026, plus de drie zalen in Lapland die de rit waard zijn: openingstijden, reserveertermijnen en wat u bestelt.",
     "hero": {
       "eyebrow": "Gids 05 · Fine dining",
-      "title": "Lapland heeft",
-      "titleHighlight": "geen enkele ster.",
-      "subtitle": "De Finse sterren liggen in Helsinki, 800 kilometer zuidelijker. Dat betekent niet dat u hier slecht eet. Het betekent dat het beste eten van Lapland niet op de sterrenlijst staat. Deze pagina vertelt u waar het wel staat.",
-      "primaryCta": "De drie zalen",
-      "secondaryCta": "En Helsinki?"
+      "title": "De Michelinsterren van Finland,",
+      "titleHighlight": "en waar u eet in Lapland.",
+      "subtitle": "Acht Finse restaurants hebben een ster in de Noordse gids 2026: zes in Helsinki, een in Turku, een in Porvoo. Hier in het noorden zit het beste eten in drie kleine zalen in Rovaniemi en Inari. Deze pagina heeft allebei, met wat u bestelt en wanneer u reserveert.",
+      "primaryCta": "De sterrenlijst 2026",
+      "secondaryCta": "De drie zalen in Lapland"
     },
-    "answer": {
-      "kicker": "Zonder omwegen",
-      "headline": "Drie dingen voordat u reserveert.",
-      "leadPrefix": "De Michelingids wordt elk jaar bijgewerkt en sterren verschuiven. De geldende lijst staat altijd op",
-      "leadSuffix": ". Deze drie dingen verschuiven niet.",
-      "points": [
+    "michelin": {
+      "kicker": "MICHELIN Gids Noordse landen 2026",
+      "headline": "De acht sterrenrestaurants van Finland.",
+      "lead": "De selectie 2026 werd bekendgemaakt op 1 juni 2026: Grön steeg naar twee sterren, Boreal kreeg zijn eerste en alle andere Finse sterren bleven staan. De lijst verandert elk jaar, dus raadpleeg de gids voordat u reserveert.",
+      "labels": {
+        "oneStar": "Eén Michelinster 2026",
+        "twoStars": "Twee Michelinsterren 2026"
+      },
+      "rooms": [
         {
-          "title": "De sterren liggen in het zuiden",
-          "body": "De sterrenrestaurants van Finland liggen in Helsinki, met één in Turku en één in Porvoo. Lapland heeft er geen. Komt u hier voor een ster, dan vindt u die niet."
+          "name": "Palace",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "De eerste ster van Finland in 1987, een tweede sinds 2022. Tiende verdieping boven de zuidhaven: Noordse helderheid met Franse techniek."
         },
         {
-          "title": "Toch drie zalen",
-          "body": "Nili en Rakas in Rovaniemi, Aanaar in Inari. De ingrediënten komen van dichtbij en het bord is tot het eind doordacht. Wij beweren niet dat ze sterrenniveau halen. Wij zeggen dat ze het beste zijn wat er hier is."
+          "name": "Grön",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Ster sinds 2018, twee sterren vanaf 2026. Het piepkleine zaaltje van Toni Kostian met open keuken: groenten uit de eigen tuin, de rest uit Finland."
         },
         {
-          "title": "Reserveer op tijd",
-          "body": "Deze zalen zijn klein. Van half december tot februari en tijdens de middernachtzon zijn de tafels weken vooraf weg. Wij raden aan ongeveer zes weken voor de reis te reserveren."
+          "name": "Boreal",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Nieuwe ster in 2026. Het menu van Pasha Demin bouwt op de korte seizoenen van het noorden: wilde producten, fermentatie en inmaak."
+        },
+        {
+          "name": "Demo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Ster sinds 2007. Finse en Europese producten, verfijnd koken in een klassieke opbouw."
+        },
+        {
+          "name": "Finnjävel Salonki",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Finse klassiekers opnieuw opgebouwd als moderne fine dining. Salonki is de bekroonde degustatiezaal van het huis."
+        },
+        {
+          "name": "Olo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Ster sinds 2011. Moderne Noordse degustatiemenu's van noordelijke seizoensproducten, aan de Esplanadi."
+        },
+        {
+          "name": "Kaskis",
+          "city": "Turku",
+          "stars": "★ 2026",
+          "angle": "Ster sinds 2022, de eerste buiten Helsinki. Het degustatiemenu van Erik Mansikka en Simo Raisio: grote smaken in een kleine zaal."
+        },
+        {
+          "name": "Vår",
+          "city": "Porvoo",
+          "stars": "★ 2026",
+          "angle": "Ster sinds 2023, de eerste in Porvoo. Ongeveer een uur rijden ten oosten van Helsinki."
         }
-      ]
+      ],
+      "bibLabel": "Bib Gourmand 2026",
+      "bibBody": "Het prijs-kwaliteitskenmerk van de gids ging naar drie restaurants in Helsinki: Nolla, 305 en Bona Fide.",
+      "linkLabel": "De volledige lijst 2026 op guide.michelin.com",
+      "note": "Helsinki ligt 800 kilometer ten zuiden van Rovaniemi, dus dat is een andere reis dan deze. Reserveer rechtstreeks bij het restaurant.",
+      "ctaHotels": "Hotels in Helsinki"
     },
     "lapland": {
       "kicker": "De drie zalen",
@@ -1910,15 +1954,8 @@
           "rating": "",
           "ratingCount": "Nog niet in onze meting"
         }
-      ]
-    },
-    "helsinki": {
-      "kicker": "En Helsinki",
-      "headline": "De sterren liggen in Helsinki, en daar hebben wij niet gegeten.",
-      "lead": "Bijna alle Michelinsterren van Finland liggen in Helsinki. Wij zetten ze hier niet neer als eigen beoordelingen, omdat wij niet in alle zijn geweest en omdat wij Michelin niet zijn. De gids wordt elk jaar bijgewerkt en sterren verschuiven, dus de juiste lijst staat op de site van de gids.",
-      "linkLabel": "Bekijk de sterrenlijst op guide.michelin.com",
-      "note": "Gaat uw reis via Helsinki, reserveer dan rechtstreeks bij het restaurant. Helsinki ligt 800 kilometer ten zuiden van Rovaniemi, dus dat is een andere reis dan deze.",
-      "ctaHotels": "Hotels in Helsinki"
+      ],
+      "booking": "De zalen zijn klein. Van half december tot februari en onder de middernachtzon zijn de tafels weken van tevoren weg."
     },
     "before": {
       "headline": "Vier dingen die u vooraf wilt weten.",
@@ -1950,7 +1987,7 @@
       "tourPrefix": "Wilt u liever een gids die het vervoer, de reserveringen en de kennismaking met de koks regelt?",
       "tourLabel": "Boek een Arctische fine-diningtour"
     },
-    "sources": "Openingstijden en menugegevens van de eigen sites van de restaurants, 16 september 2026. Google-beoordelingen en de openingstijden van Nili uit onze eigen wekelijkse meting, 11 september 2026; Rakas zit er nog niet in. Sterreninformatie: guide.michelin.com. Wij hebben geen band met de Michelingids en beoordelen geen restaurants namens de gids."
+    "sources": "Sterren: MICHELIN Gids Noordse landen 2026, bekendgemaakt op 1 juni 2026; jaren van de eerste ster uit de gids en de eigen berichten van de restaurants. Openingstijden en menugegevens van de eigen sites van de restaurants, 16 september 2026. Google-beoordelingen en de openingstijden van Nili uit onze eigen wekelijkse meting, 11 september 2026; Rakas zit er nog niet in."
   },
   "about": {
     "title": "Over LaplandFood",

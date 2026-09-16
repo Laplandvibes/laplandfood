@@ -143,7 +143,7 @@
         },
         {
           "question": "Onko Suomessa Michelin-tähtiravintoloita?",
-          "answer": "Kyllä. Michelin-opas kattaa Suomen, ja viime vuosien Pohjoismaiden oppaissa kaikki Suomen tähtiravintolat ovat olleet Helsingissä. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt (Nili, Aanaar, Rakas) vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta."
+          "answer": "Kyllä. Michelin-opas kattaa Suomen. Pohjoismaiden oppaassa 2026 on kahdeksan suomalaista tähtiravintolaa: kuusi Helsingissä, yksi Turussa ja yksi Porvoossa. Lapissa ei tällä hetkellä ole tähteä, mutta sen lippulaivakeittiöt (Nili, Aanaar, Rakas) vievät maistelumenyitä eteenpäin napapiirin pohjoispuolella. Tähtilistat muuttuvat vuosittain, joten tarkista ajantasainen opas ennen varausta."
         },
         {
           "question": "Mitä on saamelainen ruoka?",
@@ -1836,35 +1836,79 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining Lapissa: kolme salia, ei yhtään Michelin-tähteä",
-    "description": "Lapissa ei ole Michelin-tähtiä. Nili, Aanaar ja Rakas ovat ne kolme salia, joissa syödään parhaiten: aukioloajat, varausajat ja mitä tilata.",
+    "title": "Michelin-tähdet Suomessa 2026 ja missä Lapissa syödään",
+    "description": "Suomen kahdeksan Michelin-tähtiravintolaa 2026 sekä Lapin kolme salia, joiden takia kannattaa ajaa: aukioloajat, varausajat ja mitä tilata.",
     "hero": {
       "eyebrow": "Opas 05 · Fine dining",
-      "title": "Lapissa ei ole",
-      "titleHighlight": "yhtään tähteä.",
-      "subtitle": "Suomen Michelin-tähdet ovat Helsingissä, 800 kilometriä etelämpänä. Se ei tarkoita, etteikö Lapissa syötäisi hyvin. Se tarkoittaa, että paras ruoka täällä ei ole tähtilistalla. Tällä sivulla kerrotaan, missä se on.",
-      "primaryCta": "Lapin kolme salia",
-      "secondaryCta": "Entä Helsinki?"
+      "title": "Suomen Michelin-tähdet",
+      "titleHighlight": "ja missä Lapissa syödään.",
+      "subtitle": "Pohjoismaiden oppaassa 2026 on kahdeksan suomalaista tähtiravintolaa: kuusi Helsingissä, yksi Turussa ja yksi Porvoossa. Täällä pohjoisessa paras ruoka löytyy kolmesta pienestä salista Rovaniemellä ja Inarissa. Tällä sivulla ovat molemmat, ja lisäksi mitä tilata ja milloin varata.",
+      "primaryCta": "Tähtilista 2026",
+      "secondaryCta": "Lapin kolme salia"
     },
-    "answer": {
-      "kicker": "Suoraan sanottuna",
-      "headline": "Kolme asiaa ennen kuin varaat.",
-      "leadPrefix": "Michelin-opas päivittyy vuosittain ja tähdet liikkuvat. Voimassa oleva lista on aina osoitteessa",
-      "leadSuffix": ". Nämä kolme asiaa eivät liiku.",
-      "points": [
+    "michelin": {
+      "kicker": "Pohjoismaiden Michelin-opas 2026",
+      "headline": "Suomen kahdeksan tähtiravintolaa.",
+      "lead": "Vuoden 2026 valinnat julkistettiin 1. kesäkuuta 2026: Grön nousi kahteen tähteen, Boreal sai ensimmäisensä ja kaikki muut suomalaiset tähdet säilyivät. Lista muuttuu joka vuosi, joten tarkista opas ennen varausta.",
+      "labels": {
+        "oneStar": "Yksi Michelin-tähti 2026",
+        "twoStars": "Kaksi Michelin-tähteä 2026"
+      },
+      "rooms": [
         {
-          "title": "Tähdet ovat etelässä",
-          "body": "Suomen tähtiravintolat ovat Helsingissä, yksi Turussa ja yksi Porvoossa. Lapissa ei ole yhtään. Jos tulet tänne tähden takia, et löydä sitä."
+          "name": "Palace",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Suomen ensimmäinen tähti 1987, toinen vuodesta 2022. Kymmenes kerros Eteläsataman yllä: pohjoista selkeyttä ranskalaisella tekniikalla."
         },
         {
-          "title": "Kolme salia silti",
-          "body": "Nili ja Rakas Rovaniemellä, Aanaar Inarissa. Raaka-aine tulee läheltä ja lautanen on mietitty loppuun asti. Emme väitä niitä tähtitasoisiksi. Sanomme, että ne ovat parasta mitä täällä on."
+          "name": "Grön",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Tähti vuodesta 2018, kaksi tähteä vuodesta 2026. Toni Kostianin pieni sali avokeittiöineen: vihannekset omasta puutarhasta, muut raaka-aineet Suomesta."
         },
         {
-          "title": "Varaa ajoissa",
-          "body": "Salit ovat pieniä. Joulukuun puolivälistä helmikuulle ja keskiyön auringon aikaan pöydät menevät viikkoja etukäteen. Suosittelemme varaamaan noin kuusi viikkoa ennen matkaa."
+          "name": "Boreal",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Uusi tähti 2026. Pasha Deminin menu rakentuu pohjoisen lyhyille kausille: villit raaka-aineet, fermentointi ja säilöntä."
+        },
+        {
+          "name": "Demo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Tähti vuodesta 2007. Suomalaisia ja eurooppalaisia raaka-aineita, hiottua ruoanlaittoa klassisessa rakenteessa."
+        },
+        {
+          "name": "Finnjävel Salonki",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Suomalaiset klassikot rakennettuna uudelleen moderniksi fine diningiksi. Salonki on talon tähditetty maistelumenusali."
+        },
+        {
+          "name": "Olo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Tähti vuodesta 2011. Modernia pohjoismaista maistelumenua pohjoisen kauden raaka-aineista, Esplanadin varrella."
+        },
+        {
+          "name": "Kaskis",
+          "city": "Turku",
+          "stars": "★ 2026",
+          "angle": "Tähti vuodesta 2022, ensimmäinen Helsingin ulkopuolella. Erik Mansikan ja Simo Raision maistelumenu: isoja makuja pienessä salissa."
+        },
+        {
+          "name": "Vår",
+          "city": "Porvoo",
+          "stars": "★ 2026",
+          "angle": "Tähti vuodesta 2023, Porvoon ensimmäinen. Noin tunnin ajomatka Helsingistä itään."
         }
-      ]
+      ],
+      "bibLabel": "Bib Gourmand 2026",
+      "bibBody": "Oppaan hinta-laatu-merkinnän saivat kolme helsinkiläistä ravintolaa: Nolla, 305 ja Bona Fide.",
+      "linkLabel": "Koko lista 2026 guide.michelin.comissa",
+      "note": "Helsinki on 800 kilometriä Rovaniemeltä etelään, eli se on eri matka kuin tämä. Varaa pöytä suoraan ravintolasta.",
+      "ctaHotels": "Hotellit Helsingissä"
     },
     "lapland": {
       "kicker": "Lapin kolme salia",
@@ -1911,15 +1955,8 @@
           "rating": "",
           "ratingCount": "Ei vielä tilannekuvassamme"
         }
-      ]
-    },
-    "helsinki": {
-      "kicker": "Entä Helsinki",
-      "headline": "Tähdet ovat Helsingissä, emmekä ole syöneet niissä.",
-      "lead": "Suomen Michelin-tähdet ovat lähes kaikki Helsingissä. Emme listaa niitä täällä omina arvioinamme, koska emme ole käyneet niissä kaikissa emmekä ole Michelin. Opas päivittyy joka vuosi ja tähdet liikkuvat, joten oikea lista on oppaan omilla sivuilla.",
-      "linkLabel": "Katso tähtilista guide.michelin.comista",
-      "note": "Jos matkasi kulkee Helsingin kautta, varaa suoraan ravintolasta. Helsinki on 800 kilometriä Rovaniemeltä etelään, eli se on eri matka kuin tämä.",
-      "ctaHotels": "Hotellit Helsingissä"
+      ],
+      "booking": "Salit ovat pieniä. Joulukuun puolivälistä helmikuulle ja keskiyön auringon aikaan pöydät menevät viikkoja etukäteen."
     },
     "before": {
       "headline": "Neljä asiaa, jotka kannattaa tietää etukäteen.",
@@ -1951,7 +1988,7 @@
       "tourPrefix": "Haluatko oppaan, joka hoitaa kuljetuksen, varaukset ja kokkiesittelyt puolestasi?",
       "tourLabel": "Varaa arktinen fine dining -kierros"
     },
-    "sources": "Aukioloajat ja menutiedot ravintoloiden omilta sivuilta 16.9.2026. Googlen arviot ja Nilin aukioloajat omasta viikoittaisesta tilannekuvastamme 11.9.2026; Rakas ei ole siinä vielä mukana. Tähtitiedot: guide.michelin.com. Emme ole yhteydessä Michelin-oppaaseen emmekä arvioi ravintoloita heidän puolestaan."
+    "sources": "Tähtimerkinnät: Pohjoismaiden Michelin-opas 2026, julkistettu 1. kesäkuuta 2026; ensimmäisten tähtien vuodet oppaasta ja ravintoloiden omista tiedotteista. Aukioloajat ja menutiedot ravintoloiden omilta sivuilta 16.9.2026. Googlen arviot ja Nilin aukioloajat omasta viikoittaisesta tilannekuvastamme 11.9.2026; Rakas ei ole siinä vielä mukana."
   },
   "about": {
     "title": "Tietoa LaplandFoodista",

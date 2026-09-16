@@ -143,7 +143,7 @@
         },
         {
           "question": "¿Hay restaurantes con estrella Michelin en Finlandia?",
-          "answer": "Sí. La Guía Michelin cubre Finlandia, y los restaurantes con estrella de las últimas ediciones nórdicas han estado todos en Helsinki. Laponia no tiene actualmente ninguna estrella, pero sus restaurantes insignia, Nili, Aanaar, Rakas, están impulsando el menú degustación dentro del Círculo Polar Ártico. La lista de estrellas cambia cada año: consulta la guía vigente antes de reservar."
+          "answer": "Sí. La Guía Michelin cubre Finlandia. En la guía nórdica 2026 hay ocho restaurantes finlandeses con estrella: seis en Helsinki, uno en Turku y uno en Porvoo. Laponia no tiene actualmente ninguna estrella, pero sus restaurantes insignia, Nili, Aanaar, Rakas, están impulsando el menú degustación dentro del Círculo Polar Ártico. La lista de estrellas cambia cada año: consulte la guía vigente antes de reservar."
         },
         {
           "question": "¿Qué es la comida sami?",
@@ -1835,35 +1835,79 @@
     ]
   },
   "michelinDining": {
-    "title": "Alta cocina en Laponia: tres salas, ninguna estrella Michelin",
-    "description": "Laponia no tiene estrellas Michelin. Nili, Aanaar y Rakas son las tres salas donde mejor se come: horarios, plazos de reserva y qué pedir.",
+    "title": "Michelin en Finlandia 2026 y dónde comer en Laponia",
+    "description": "Los ocho restaurantes con estrella Michelin de Finlandia en 2026, más las tres salas de Laponia que merecen el viaje: horarios, plazos de reserva y qué pedir.",
     "hero": {
       "eyebrow": "Guía 05 · Alta cocina",
-      "title": "Laponia no tiene",
-      "titleHighlight": "ninguna estrella.",
-      "subtitle": "Las estrellas de Finlandia están en Helsinki, 800 kilómetros más al sur. Eso no significa que aquí se coma mal. Significa que la mejor mesa de Laponia no está en la lista de estrellas. Esta página le dice dónde está.",
-      "primaryCta": "Las tres salas",
-      "secondaryCta": "¿Y Helsinki?"
+      "title": "Las estrellas Michelin de Finlandia,",
+      "titleHighlight": "y dónde comer en Laponia.",
+      "subtitle": "Ocho restaurantes finlandeses tienen estrella en la guía nórdica 2026: seis en Helsinki, uno en Turku y uno en Porvoo. Aquí arriba, la mejor cocina está en tres salas pequeñas de Rovaniemi e Inari. Esta página reúne las dos cosas, con qué pedir y cuándo reservar.",
+      "primaryCta": "La lista de estrellas 2026",
+      "secondaryCta": "Las tres salas de Laponia"
     },
-    "answer": {
-      "kicker": "Dicho claramente",
-      "headline": "Tres cosas antes de reservar.",
-      "leadPrefix": "La guía Michelin se actualiza cada año y las estrellas se mueven. La lista vigente está siempre en",
-      "leadSuffix": ". Estas tres cosas no se mueven.",
-      "points": [
+    "michelin": {
+      "kicker": "Guía MICHELIN Países Nórdicos 2026",
+      "headline": "Los ocho restaurantes con estrella de Finlandia.",
+      "lead": "La selección 2026 se anunció el 1 de junio de 2026: Grön subió a dos estrellas, Boreal obtuvo la primera y todas las demás estrellas finlandesas se mantuvieron. La lista cambia cada año, así que consulte la guía antes de reservar.",
+      "labels": {
+        "oneStar": "Una estrella Michelin 2026",
+        "twoStars": "Dos estrellas Michelin 2026"
+      },
+      "rooms": [
         {
-          "title": "Las estrellas están en el sur",
-          "body": "Los restaurantes con estrella de Finlandia están en Helsinki, más uno en Turku y otro en Porvoo. Laponia no tiene ninguno. Si viene aquí por una estrella, no la encontrará."
+          "name": "Palace",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Primera estrella de Finlandia en 1987 y segunda desde 2022. Décimo piso sobre el puerto sur: claridad nórdica con técnica francesa."
         },
         {
-          "title": "Tres salas aun así",
-          "body": "Nili y Rakas en Rovaniemi, Aanaar en Inari. El producto viene de cerca y el plato está pensado hasta el final. No decimos que estén a nivel de estrella. Decimos que son lo mejor que hay aquí arriba."
+          "name": "Grön",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Con estrella desde 2018, dos estrellas desde 2026. La pequeñísima sala de Toni Kostian, con cocina abierta: verduras de la huerta propia y el resto de Finlandia."
         },
         {
-          "title": "Reserve con tiempo",
-          "body": "Son salas pequeñas. De mediados de diciembre a febrero y durante el sol de medianoche, las mesas vuelan con semanas de antelación. Recomendamos reservar unas seis semanas antes del viaje."
+          "name": "Boreal",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Nueva estrella en 2026. El menú de Pasha Demin se apoya en las estaciones cortas del norte: productos silvestres, fermentación y conservas."
+        },
+        {
+          "name": "Demo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Con estrella desde 2007. Producto finlandés y europeo, cocina precisa en una estructura clásica."
+        },
+        {
+          "name": "Finnjävel Salonki",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Clásicos finlandeses reconstruidos como alta cocina moderna. Salonki es la sala con estrella del menú degustación de la casa."
+        },
+        {
+          "name": "Olo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Con estrella desde 2011. Menús degustación nórdicos modernos con producto de temporada del norte, en la Esplanada."
+        },
+        {
+          "name": "Kaskis",
+          "city": "Turku",
+          "stars": "★ 2026",
+          "angle": "Con estrella desde 2022, la primera fuera de Helsinki. El menú degustación de Erik Mansikka y Simo Raisio: sabores grandes en una sala pequeña."
+        },
+        {
+          "name": "Vår",
+          "city": "Porvoo",
+          "stars": "★ 2026",
+          "angle": "Con estrella desde 2023, la primera de Porvoo. A una hora en auto al este de Helsinki, aproximadamente."
         }
-      ]
+      ],
+      "bibLabel": "Bib Gourmand 2026",
+      "bibBody": "El distintivo de buena relación calidad-precio de la guía fue para tres restaurantes de Helsinki: Nolla, 305 y Bona Fide.",
+      "linkLabel": "Lista completa 2026 en guide.michelin.com",
+      "note": "Helsinki está a 800 kilómetros al sur de Rovaniemi, así que es otro viaje distinto a este. Reserve directamente con el restaurante.",
+      "ctaHotels": "Hoteles en Helsinki"
     },
     "lapland": {
       "kicker": "Las tres salas",
@@ -1910,15 +1954,8 @@
           "rating": "",
           "ratingCount": "Todavía no está en nuestro registro"
         }
-      ]
-    },
-    "helsinki": {
-      "kicker": "Y Helsinki",
-      "headline": "Las estrellas están en Helsinki, y nosotros no hemos comido allí.",
-      "lead": "Casi todas las estrellas Michelin de Finlandia están en Helsinki. No las listamos aquí como valoraciones propias, porque no hemos estado en todas y porque no somos Michelin. La guía se actualiza cada año y las estrellas se mueven, así que la lista correcta está en la web de la guía.",
-      "linkLabel": "Ver la lista de estrellas en guide.michelin.com",
-      "note": "Si su viaje pasa por Helsinki, reserve directamente con el restaurante. Helsinki está a 800 kilómetros al sur de Rovaniemi, así que es otro viaje distinto a este.",
-      "ctaHotels": "Hoteles en Helsinki"
+      ],
+      "booking": "Las salas son pequeñas. De mediados de diciembre a febrero y bajo el sol de medianoche, las mesas se agotan con semanas de antelación."
     },
     "before": {
       "headline": "Cuatro cosas que conviene saber antes.",
@@ -1950,7 +1987,7 @@
       "tourPrefix": "¿Prefiere un guía que se encargue del transporte, las reservas y las visitas a la cocina?",
       "tourLabel": "Reservar una ruta gastronómica ártica"
     },
-    "sources": "Horarios y datos de menús tomados de las webs de los propios restaurantes el 16 de septiembre de 2026. Valoraciones de Google y horarios de Nili de nuestro propio registro semanal, 11 de septiembre de 2026; Rakas todavía no está incluido. Datos sobre estrellas: guide.michelin.com. No tenemos vínculo con la guía Michelin ni valoramos restaurantes en su nombre."
+    "sources": "Estrellas: Guía MICHELIN Países Nórdicos 2026, anunciada el 1 de junio de 2026; años de la primera estrella según la guía y los comunicados de los propios restaurantes. Horarios y datos de menús tomados de las webs de los propios restaurantes el 16 de septiembre de 2026. Valoraciones de Google y horarios de Nili de nuestro propio registro semanal, 11 de septiembre de 2026; el Rakas aún no está incluido."
   },
   "about": {
     "title": "Sobre LaplandFood",

@@ -143,7 +143,7 @@
         },
         {
           "question": "Har Finland restauranger med Michelin-stjärnor?",
-          "answer": "Ja. Michelinguiden täcker Finland, och de stjärnmärkta restaurangerna i de senaste nordiska utgåvorna har alla legat i Helsingfors. Lappland självt har för närvarande ingen stjärna, men dess flaggskeppskök, Nili, Aanaar, Rakas, driver avsmakningsmenyer norr om polcirkeln. Stjärnlistorna ändras varje år, så kolla den aktuella guiden innan du bokar."
+          "answer": "Ja. Michelinguiden täcker Finland. I Nordenguiden 2026 har åtta finländska restauranger stjärna: sex i Helsingfors, en i Åbo och en i Borgå. Lappland självt har för närvarande ingen stjärna, men dess flaggskeppskök, Nili, Aanaar, Rakas, driver avsmakningsmenyer norr om polcirkeln. Stjärnlistorna ändras varje år, så kolla den aktuella guiden innan du bokar."
         },
         {
           "question": "Vad är samisk mat?",
@@ -1835,35 +1835,79 @@
     ]
   },
   "michelinDining": {
-    "title": "Fine dining i Lappland: tre hus, inte en enda Michelinstjärna",
-    "description": "Lappland har inga Michelinstjärnor. Nili, Aanaar och Rakas är de tre hus där man äter bäst: öppettider, bokningstider och vad du ska beställa.",
+    "title": "Michelinstjärnor i Finland 2026 och var man äter i Lappland",
+    "description": "Finlands åtta Michelinrestauranger 2026 samt de tre hus i Lappland som är värda resan: öppettider, bokningstider och vad du ska beställa.",
     "hero": {
       "eyebrow": "Guide 05 · Fine dining",
-      "title": "Lappland har",
-      "titleHighlight": "inte en enda stjärna.",
-      "subtitle": "Finlands stjärnor finns i Helsingfors, 800 kilometer söderut. Det betyder inte att man äter dåligt här uppe. Det betyder att den bästa maten i Lappland inte står på stjärnlistan. Den här sidan berättar var den finns.",
-      "primaryCta": "De tre husen",
-      "secondaryCta": "Och Helsingfors?"
+      "title": "Finlands Michelinstjärnor",
+      "titleHighlight": "och var man äter i Lappland.",
+      "subtitle": "Åtta finländska restauranger har stjärna i Nordenguiden 2026: sex i Helsingfors, en i Åbo och en i Borgå. Här uppe finns den bästa maten i tre små hus i Rovaniemi och Enare. Den här sidan har båda, plus vad du ska beställa och när du ska boka.",
+      "primaryCta": "Stjärnlistan 2026",
+      "secondaryCta": "De tre husen i Lappland"
     },
-    "answer": {
-      "kicker": "Rakt på sak",
-      "headline": "Tre saker innan du bokar.",
-      "leadPrefix": "Michelinguiden uppdateras varje år och stjärnor flyttar på sig. Den gällande listan finns alltid på",
-      "leadSuffix": ". De här tre sakerna flyttar inte på sig.",
-      "points": [
+    "michelin": {
+      "kicker": "Michelinguiden Norden 2026",
+      "headline": "Finlands åtta stjärnrestauranger.",
+      "lead": "Urvalet för 2026 tillkännagavs den 1 juni 2026: Grön gick upp till två stjärnor, Boreal fick sin första och alla andra finländska stjärnor behölls. Listan ändras varje år, så kolla guiden innan du bokar.",
+      "labels": {
+        "oneStar": "En Michelinstjärna 2026",
+        "twoStars": "Två Michelinstjärnor 2026"
+      },
+      "rooms": [
         {
-          "title": "Stjärnorna finns i söder",
-          "body": "Finlands stjärnkrogar finns i Helsingfors, plus en i Åbo och en i Borgå. I Lappland finns ingen. Kommer du hit för en stjärna hittar du ingen."
+          "name": "Palace",
+          "city": "Helsingfors",
+          "stars": "★★ 2026",
+          "angle": "Finlands första stjärna 1987 och en andra sedan 2022. Tionde våningen ovanför Södra hamnen: nordisk klarhet med fransk teknik."
         },
         {
-          "title": "Tre hus ändå",
-          "body": "Nili och Rakas i Rovaniemi, Aanaar i Enare. Råvaran kommer nära ifrån och tallriken är tänkt hela vägen. Vi påstår inte att de håller stjärnnivå. Vi säger att de är det bästa som finns här uppe."
+          "name": "Grön",
+          "city": "Helsingfors",
+          "stars": "★★ 2026",
+          "angle": "Stjärna sedan 2018, två stjärnor från 2026. Toni Kostians lilla matsal med öppet kök: grönsaker från restaurangens egen odling, resten från Finland."
         },
         {
-          "title": "Boka tidigt",
-          "body": "Husen är små. Från mitten av december till februari och under midnattssolen går borden veckor i förväg. Vi rekommenderar att boka ungefär sex veckor före resan."
+          "name": "Boreal",
+          "city": "Helsingfors",
+          "stars": "★ 2026",
+          "angle": "Ny stjärna 2026. Pasha Demins meny bygger på nordens korta säsonger: vilda råvaror, fermentering och konservering."
+        },
+        {
+          "name": "Demo",
+          "city": "Helsingfors",
+          "stars": "★ 2026",
+          "angle": "Stjärna sedan 2007. Finländska och europeiska råvaror, slipad matlagning i klassisk form."
+        },
+        {
+          "name": "Finnjävel Salonki",
+          "city": "Helsingfors",
+          "stars": "★ 2026",
+          "angle": "Finländska klassiker ombyggda till modern fine dining. Salonki är husets stjärnmärkta avsmakningsmatsal."
+        },
+        {
+          "name": "Olo",
+          "city": "Helsingfors",
+          "stars": "★ 2026",
+          "angle": "Stjärna sedan 2011. Modern nordisk avsmakningsmeny på nordliga säsongsråvaror, vid Esplanaden."
+        },
+        {
+          "name": "Kaskis",
+          "city": "Åbo",
+          "stars": "★ 2026",
+          "angle": "Stjärna sedan 2022, den första utanför Helsingfors. Erik Mansikkas och Simo Raisios avsmakningsmeny: stora smaker i en liten matsal."
+        },
+        {
+          "name": "Vår",
+          "city": "Borgå",
+          "stars": "★ 2026",
+          "angle": "Stjärna sedan 2023, den första i Borgå. Ungefär en timmes bilresa öster om Helsingfors."
         }
-      ]
+      ],
+      "bibLabel": "Bib Gourmand 2026",
+      "bibBody": "Guidens prisvärdhetsmärke gick till tre restauranger i Helsingfors: Nolla, 305 och Bona Fide.",
+      "linkLabel": "Hela listan 2026 på guide.michelin.com",
+      "note": "Helsingfors ligger 800 kilometer söder om Rovaniemi, så det är en annan resa än den här. Boka direkt hos restaurangen.",
+      "ctaHotels": "Hotell i Helsingfors"
     },
     "lapland": {
       "kicker": "De tre husen",
@@ -1910,15 +1954,8 @@
           "rating": "",
           "ratingCount": "Ännu inte med i vår datauppdatering"
         }
-      ]
-    },
-    "helsinki": {
-      "kicker": "Och Helsingfors",
-      "headline": "Stjärnorna finns i Helsingfors, och vi har inte ätit på dem.",
-      "lead": "Nästan alla Finlands Michelinstjärnor finns i Helsingfors. Vi listar dem inte här som våra egna omdömen, eftersom vi inte har varit på alla och eftersom vi inte är Michelin. Guiden uppdateras varje år och stjärnor flyttar på sig, så den rätta listan finns på guidens egen sida.",
-      "linkLabel": "Se stjärnlistan på guide.michelin.com",
-      "note": "Går din resa via Helsingfors, boka direkt hos restaurangen. Helsingfors ligger 800 kilometer söder om Rovaniemi, så det är en annan resa än den här.",
-      "ctaHotels": "Hotell i Helsingfors"
+      ],
+      "booking": "Husen är små. Från mitten av december till februari och under midnattssolen går borden veckor i förväg."
     },
     "before": {
       "headline": "Fyra saker som är värda att veta i förväg.",
@@ -1950,7 +1987,7 @@
       "tourPrefix": "Vill du hellre ha en guide som sköter transporten, bokningarna och kockpresentationerna?",
       "tourLabel": "Boka en arktisk fine dining-tur"
     },
-    "sources": "Öppettider och menyuppgifter från restaurangernas egna sidor, 16.9.2026. Google-betyg och Nilis öppettider från vår egen veckovisa datauppdatering, 11.9.2026; Rakas är ännu inte med. Stjärnuppgifter: guide.michelin.com. Vi har ingen koppling till Michelinguiden och betygsätter inte restauranger för dess räkning."
+    "sources": "Stjärnor: Michelinguiden Norden 2026, tillkännagiven 1 juni 2026; årtal för första stjärnan från guiden och restaurangernas egna meddelanden. Öppettider och menyuppgifter från restaurangernas egna sidor, 16.9.2026. Google-betyg och Nilis öppettider från vår egen veckovisa datauppdatering, 11.9.2026; Rakas är ännu inte med."
   },
   "about": {
     "title": "Om LaplandFood",

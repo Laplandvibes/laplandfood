@@ -143,7 +143,7 @@
         },
         {
           "question": "Y a-t-il des restaurants étoilés Michelin en Finlande ?",
-          "answer": "Oui. Le Guide Michelin couvre la Finlande, et les restaurants étoilés des dernières éditions nordiques se trouvaient tous à Helsinki. La Laponie n’a actuellement aucune étoile, mais ses tables phares, Nili, Aanaar, Rakas, font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver."
+          "answer": "Oui. Le Guide Michelin couvre la Finlande. Dans le guide nordique 2026, huit restaurants finlandais sont étoilés : six à Helsinki, un à Turku et un à Porvoo. La Laponie n’a actuellement aucune étoile, mais ses tables phares, Nili, Aanaar, Rakas, font progresser le menu dégustation au-delà du cercle polaire. La liste des étoiles change chaque année : vérifiez le guide en vigueur avant de réserver."
         },
         {
           "question": "Qu’est-ce que la cuisine sâme ?",
@@ -1835,35 +1835,79 @@
     ]
   },
   "michelinDining": {
-    "title": "Gastronomie en Laponie : trois tables, aucune étoile Michelin",
-    "description": "La Laponie n'a aucune étoile Michelin. Nili, Aanaar et Rakas sont les trois tables où l'on mange le mieux : horaires, délais de réservation et quoi commander.",
+    "title": "Étoiles Michelin en Finlande 2026 et où manger en Laponie",
+    "description": "Les huit restaurants étoilés de Finlande en 2026, plus les trois tables de Laponie qui valent la route : horaires, délais de réservation et quoi commander.",
     "hero": {
       "eyebrow": "Guide 05 · Gastronomie",
-      "title": "La Laponie n'a",
-      "titleHighlight": "aucune étoile.",
-      "subtitle": "Les étoiles finlandaises sont à Helsinki, 800 kilomètres plus au sud. Cela ne veut pas dire qu'on mange mal ici. Cela veut dire que la meilleure table de Laponie n'est pas sur la liste étoilée. Cette page vous dit où elle est.",
-      "primaryCta": "Les trois tables",
-      "secondaryCta": "Et Helsinki ?"
+      "title": "Les étoiles Michelin de Finlande,",
+      "titleHighlight": "et où manger en Laponie.",
+      "subtitle": "Huit restaurants finlandais sont étoilés dans le guide nordique 2026 : six à Helsinki, un à Turku, un à Porvoo. Ici, dans le Nord, la meilleure cuisine se trouve dans trois petites salles à Rovaniemi et à Inari. Cette page réunit les deux, avec quoi commander et quand réserver.",
+      "primaryCta": "La liste étoilée 2026",
+      "secondaryCta": "Les trois tables de Laponie"
     },
-    "answer": {
-      "kicker": "Pour être clair",
-      "headline": "Trois choses avant de réserver.",
-      "leadPrefix": "Le guide Michelin est mis à jour chaque année et les étoiles bougent. La liste en vigueur se trouve toujours sur",
-      "leadSuffix": ". Ces trois choses-là ne bougent pas.",
-      "points": [
+    "michelin": {
+      "kicker": "Guide MICHELIN Pays nordiques 2026",
+      "headline": "Les huit tables étoilées de Finlande.",
+      "lead": "La sélection 2026 a été annoncée le 1er juin 2026 : Grön est passé à deux étoiles, Boreal a obtenu sa première, et toutes les autres étoiles finlandaises ont été confirmées. La liste change chaque année, vérifiez donc le guide avant de réserver.",
+      "labels": {
+        "oneStar": "Une étoile Michelin 2026",
+        "twoStars": "Deux étoiles Michelin 2026"
+      },
+      "rooms": [
         {
-          "title": "Les étoiles sont au sud",
-          "body": "Les restaurants étoilés de Finlande sont à Helsinki, avec un à Turku et un à Porvoo. La Laponie n'en a aucun. Si vous venez ici pour une étoile, vous n'en trouverez pas."
+          "name": "Palace",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Première étoile de Finlande en 1987, la seconde depuis 2022. Dixième étage au-dessus du port sud : clarté nordique et technique française."
         },
         {
-          "title": "Trois tables quand même",
-          "body": "Nili et Rakas à Rovaniemi, Aanaar à Inari. Les produits viennent d'à côté et l'assiette est pensée jusqu'au bout. Nous ne prétendons pas qu'elles ont le niveau d'une étoile. Nous disons qu'elles sont ce qu'il y a de mieux ici."
+          "name": "Grön",
+          "city": "Helsinki",
+          "stars": "★★ 2026",
+          "angle": "Étoilé depuis 2018, deux étoiles depuis 2026. La minuscule salle de Toni Kostian, cuisine ouverte : légumes du potager du restaurant, le reste vient de Finlande."
         },
         {
-          "title": "Réservez tôt",
-          "body": "Ces tables sont petites. De la mi-décembre à février et pendant le soleil de minuit, les places partent des semaines à l'avance. Nous conseillons de réserver environ six semaines avant le voyage."
+          "name": "Boreal",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Nouvelle étoile en 2026. Le menu de Pasha Demin s'appuie sur les saisons courtes du Nord : produits sauvages, fermentation et conserves."
+        },
+        {
+          "name": "Demo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Étoilé depuis 2007. Produits finlandais et européens, cuisine précise dans une structure classique."
+        },
+        {
+          "name": "Finnjävel Salonki",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Les classiques finlandais reconstruits en gastronomie moderne. Salonki est la salle étoilée du menu dégustation de la maison."
+        },
+        {
+          "name": "Olo",
+          "city": "Helsinki",
+          "stars": "★ 2026",
+          "angle": "Étoilé depuis 2011. Menus dégustation nordiques modernes à partir de produits de saison du Nord, sur l'Esplanade."
+        },
+        {
+          "name": "Kaskis",
+          "city": "Turku",
+          "stars": "★ 2026",
+          "angle": "Étoilé depuis 2022, le premier hors d'Helsinki. Le menu dégustation d'Erik Mansikka et Simo Raisio : de grandes saveurs dans une petite salle."
+        },
+        {
+          "name": "Vår",
+          "city": "Porvoo",
+          "stars": "★ 2026",
+          "angle": "Étoilé depuis 2023, le premier à Porvoo. À environ une heure de route à l'est d'Helsinki."
         }
-      ]
+      ],
+      "bibLabel": "Bib Gourmand 2026",
+      "bibBody": "La distinction bon rapport qualité-prix du guide est allée à trois tables d'Helsinki : Nolla, 305 et Bona Fide.",
+      "linkLabel": "La liste complète 2026 sur guide.michelin.com",
+      "note": "Helsinki est à 800 kilomètres au sud de Rovaniemi, c'est donc un autre voyage que celui-ci. Réservez directement auprès du restaurant.",
+      "ctaHotels": "Hôtels à Helsinki"
     },
     "lapland": {
       "kicker": "Les trois tables",
@@ -1910,15 +1954,8 @@
           "rating": "",
           "ratingCount": "Pas encore dans notre relevé"
         }
-      ]
-    },
-    "helsinki": {
-      "kicker": "Et Helsinki",
-      "headline": "Les étoiles sont à Helsinki, et nous n'y avons pas mangé.",
-      "lead": "Presque toutes les étoiles Michelin de Finlande sont à Helsinki. Nous ne les présentons pas ici comme nos propres avis, parce que nous ne sommes pas allés dans toutes et parce que nous ne sommes pas Michelin. Le guide est mis à jour chaque année et les étoiles bougent, donc la bonne liste est sur le site du guide.",
-      "linkLabel": "Voir la liste étoilée sur guide.michelin.com",
-      "note": "Si votre voyage passe par Helsinki, réservez directement auprès du restaurant. Helsinki est à 800 kilomètres au sud de Rovaniemi, c'est donc un autre voyage que celui-ci.",
-      "ctaHotels": "Hôtels à Helsinki"
+      ],
+      "booking": "Les salles sont petites. De la mi-décembre à février et sous le soleil de minuit, les tables partent des semaines à l'avance."
     },
     "before": {
       "headline": "Quatre choses à savoir avant de venir.",
@@ -1950,7 +1987,7 @@
       "tourPrefix": "Préférez-vous un guide qui s'occupe du transport, des réservations et des rencontres avec les chefs ?",
       "tourLabel": "Réserver une tournée gastronomique arctique"
     },
-    "sources": "Horaires et informations sur les menus relevés sur les sites des restaurants, le 16 septembre 2026. Notes Google et horaires de Nili issus de notre relevé hebdomadaire, le 11 septembre 2026 ; Rakas n'y figure pas encore. Informations sur les étoiles : guide.michelin.com. Nous ne sommes pas liés au guide Michelin et nous ne notons pas les restaurants en son nom."
+    "sources": "Étoiles : Guide MICHELIN Pays nordiques 2026, annoncé le 1er juin 2026 ; années de première étoile d'après le guide et les communiqués des restaurants. Horaires et informations sur les menus relevés sur les sites des restaurants, le 16 septembre 2026. Notes Google et horaires de Nili issus de notre relevé hebdomadaire, le 11 septembre 2026 ; Rakas n'y figure pas encore."
   },
   "about": {
     "title": "À propos de LaplandFood",

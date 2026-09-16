@@ -666,12 +666,42 @@ function harvestFromObject(node, out, meta, seen, budget) {
     return;
   }
   if (typeof node === 'object') {
+    // [LV-HEAD-PAIR 2026-09-17] A short heading ("Palace", "Ravintola Nili",
+    // "Villi, ei viljelty") falls under harvestKeep's minimum length, so the
+    // crawlable body carried the paragraph WITHOUT the thing it is about: the
+    // laplandfood Michelin list prerendered as 8 descriptions and 0 restaurant
+    // names (measured 17.9.2026, dist/fi/michelin-dining). Same defect class as
+    // the faqNQ+faqNA pairing in harvestFromTsBlock. Pair a too-short heading
+    // with the object's first kept paragraph as ONE string; a heading long
+    // enough to survive on its own is left to the normal loop below.
+    let head = null;
+    for (const hk of ['name', 'title', 'question', 'q', 'headline', 'heading']) {
+      const hv = node[hk];
+      if (typeof hv !== 'string') continue;
+      const h = hv.replace(/\s+/g, ' ').trim();
+      if (!h || seen.has(h) || h.includes('{') || h.includes('}')) continue;
+      if (meta && (h === meta.title || h === meta.description)) continue;
+      const cjk = (h.match(/[぀-ヿ㐀-䶿一-鿿가-힯]/g) || []).length;
+      const minLen = cjk > h.length * 0.3 ? 18 : 40;
+      if (h.length >= minLen) continue;
+      head = { key: hk, text: h };
+      break;
+    }
     for (const [k, v] of Object.entries(node)) {
       if (budget.words <= 0) return;
       if (HARVEST_SKIP_KEY_RE.test(k)) continue;
       if (typeof v === 'string') {
+        if (head && k === head.key) continue;
         const kept = harvestKeep(v, meta, seen);
-        if (kept) { out.push(kept); budget.words -= kept.split(/\s+/).length; }
+        if (kept) {
+          let line = kept;
+          if (head) {
+            line = /[.!?:]$/.test(head.text) ? `${head.text} ${kept}` : `${head.text}: ${kept}`;
+            seen.add(head.text);
+            head = null;
+          }
+          out.push(line); budget.words -= line.split(/\s+/).length;
+        }
       } else harvestFromObject(v, out, meta, seen, budget);
     }
   }
