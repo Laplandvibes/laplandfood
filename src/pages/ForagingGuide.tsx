@@ -188,7 +188,13 @@ export default function ForagingGuide() {
 
             {/* Aloittelijan lajit + Lapin-huomio omalle riville — nämä ovat eri
                 kysymys kuin säännöt. 14.9.2026 (Vesa: "jotain kuvaa ja elämää
-                tähän?"): oma valokuva Sallan nuotiolta 11.8.2026 tekstin viereen.
+                tähän?"): oma valokuva Sallan nuotiolta tekstin viereen.
+                🔴 16.9.2026 RUUTU VAIHDETTU (Vesa: "ei kait samaa kuvaa käytetä
+                kahta kertaa"): ensimmäinen valintani 085302 on jo hubin blogin
+                herona JA laplanddiningin Salla-kortissa — sama kuva kolmella
+                sivustolla. Nyt saman nuotion käyttämätön ruutu 084815, ja
+                kuvateksti menetti sanan "metsäjärven rannalla", koska järvi ei
+                näy tässä rajauksessa.
                 Se on juuri se kohtaus josta p5 puhuu (opastettu retki päättyy
                 nuotioruokaan), eli kuva sanoo samaa kuin teksti. Tunnistuskuvia
                 myrkkysienistä EI generoida: väärin piirretty kavalakärpässieni
@@ -196,7 +202,7 @@ export default function ForagingGuide() {
             <div className="grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] gap-8 lg:gap-12 mt-12 items-start">
               <figure className="m-0">
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                  <img src="/images/forage-campfire.jpg" alt="A campfire burning in an iron fire bowl on the shore of a forest lake in Salla, spruce forest and clouds behind" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                  <img src="/images/forage-campfire.jpg" alt="Flames rising from birch logs in an iron fire bowl in Salla, spruce forest and blue sky behind" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                 </div>
                 <figcaption className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
                   {t('foragingGuide.mushroomSafety.caption')}

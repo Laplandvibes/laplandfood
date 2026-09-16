@@ -226,17 +226,29 @@ export default function NordicbuddiesPicks({ className = '' }: { className?: str
       style={{ borderTop: `3px solid ${FIN_BLUE}` }}
       aria-label={c.headline}
     >
-      <div className="mb-4 flex flex-col gap-1.5">
+      {/* Kumppanin merkki. Kaupan etusivulla on VALKOINEN sanamerkki (heidan
+          oma navi on tumma); tama kortti on valkoinen, joten kaytossa on heidan
+          tumma versionsa. Mitattu muste 3/3/3 => ~20:1 valkoista vasten. */}
+      <div className="mb-5 flex flex-col gap-2">
         <span
           className="inline-flex w-fit items-center rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.16em]"
           style={{ backgroundColor: 'rgba(0,47,108,0.08)', color: FIN_BLUE }}
         >
           {c.adLabel}
         </span>
-        <p className="text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: FIN_BLUE }}>
-          {c.eyebrow}
-        </p>
+        <img
+          src="/images/partners/nordicbuddies/logo.png"
+          alt="Nordicbuddies"
+          width={357}
+          height={128}
+          loading="lazy"
+          decoding="async"
+          className="h-7 w-auto max-w-[10rem] object-contain"
+        />
       </div>
+      <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: FIN_BLUE }}>
+        {c.eyebrow}
+      </p>
 
       <h2 className="mb-3 max-w-2xl text-2xl font-bold leading-tight sm:text-3xl">{c.headline}</h2>
       <p className="max-w-2xl text-sm leading-relaxed text-slate-600 sm:text-base">{c.body}</p>
@@ -252,6 +264,19 @@ export default function NordicbuddiesPicks({ className = '' }: { className?: str
             className="group flex flex-col rounded-2xl border bg-white p-5 no-underline transition-all hover:-translate-y-0.5 hover:shadow-[0_10px_28px_rgba(0,47,108,0.12)]"
             style={{ borderColor: 'rgba(0,47,108,0.14)' }}
           >
+            {/* 🔴 Toisin kuin Suomikaupan kuvat, naman kaupan tuotekuvat ovat
+                valkoisella pohjalla ja ilmavia => object-contain, ei cover:
+                rajaus soisi pullon reunat pois. Lahde: kaupan oma tuotesivu. */}
+            <div className="mb-4 aspect-[4/3] overflow-hidden rounded-xl bg-white ring-1 ring-slate-900/5">
+              <img
+                src={`/images/partners/nordicbuddies/${p.handle}.webp`}
+                alt={p.name}
+                loading="lazy"
+                decoding="async"
+                onError={(e) => { e.currentTarget.closest('div')!.style.display = 'none' }}
+                className="h-full w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"
+              />
+            </div>
             <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-400">Nordicbuddies</p>
             <p className="mt-1 font-bold leading-snug" style={{ color: FIN_BLUE }}>
               {p.name}

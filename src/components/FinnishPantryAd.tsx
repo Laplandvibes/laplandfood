@@ -30,6 +30,57 @@ const HREF =
   'https://go.laplandvibes.com/go/suomikauppa' +
   `?sid=${SID}&dest=${encodeURIComponent(DEST)}`
 
+/**
+ * Neljä tuotetta, jotka kortin oma teksti nimeää: hillo, ruis, kahvi, salmiakki.
+ * Mainos on kuva (CLAUDE.md mainosstandardi) — tämä kortti oli pelkkää tekstiä
+ * 15.9. asti, ja Vesa näki sen sivun alalaidassa 16.9.
+ *
+ * 🔴 Kuvat ovat kaupan omilta tuotesivuilta (og:image) = ainoa sallittu lähde
+ * kumppanin tuotteelle. Tiedostonimi johdetaan handlesta, joten kuva ei voi
+ * osoittaa eri tuotteeseen kuin linkki. Tuotenimet ovat tuotenimiä eikä niitä
+ * käännetä; siksi tämä lohko ei tarvitse 12 kielen copya.
+ *
+ * 🔴 Ei lihaa eikä maitoa: kortin oma teksti sanoo etteivät ne lähde EU:n
+ * ulkopuolelle. Nämä neljä ovat kuivia tai suljettuja.
+ */
+interface PantryProduct {
+  sid: string
+  handle: string
+  brand: string
+  name: string
+}
+
+const PRODUCTS: PantryProduct[] = [
+  {
+    sid: 'local_ingredients_pantry_lingonberry',
+    handle: 'finnish-flavours-suomalainen-puolukkahillo-400g',
+    brand: 'Finnish Flavours',
+    name: 'Puolukkahillo 400 g',
+  },
+  {
+    sid: 'local_ingredients_pantry_rye',
+    handle: 'oululainen-jalkiuuni-ohut-taysjyvaruis-6kpl-240g',
+    brand: 'Oululainen',
+    name: 'Jälkiuuni ruisleipä',
+  },
+  {
+    sid: 'local_ingredients_pantry_coffee',
+    handle: 'meira-kulta-katriina-perinteinen-500g-pannujauhatus-kahvi',
+    brand: 'Meira',
+    name: 'Kulta Katriina 500 g',
+  },
+  {
+    sid: 'local_ingredients_pantry_salmiakki',
+    handle: 'fazer-super-salmiakki-80g',
+    brand: 'Fazer',
+    name: 'Super Salmiakki 80 g',
+  },
+]
+
+const productHref = (sid: string, handle: string) =>
+  'https://go.laplandvibes.com/go/suomikauppa' +
+  `?sid=${sid}&dest=${encodeURIComponent(`https://suomikauppa.fi/products/${handle}`)}`
+
 interface Copy {
   adLabel: string
   eyebrow: string
@@ -179,20 +230,63 @@ export default function FinnishPantryAd({ className = '' }: { className?: string
       style={{ borderTop: `3px solid ${FIN_BLUE}` }}
       aria-label={c.headline}
     >
-      <div className="mb-4 flex flex-col gap-1.5">
+      {/* Kumppanin merkki nakyviin, sama polariteettisaanto kuin jaetussa
+          AdUnitissa: tumma piirros valkoisella kortilla, ei laattaa. */}
+      <div className="mb-5 flex flex-col gap-2">
         <span
           className="inline-flex w-fit items-center rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.16em]"
           style={{ backgroundColor: 'rgba(0,47,108,0.08)', color: FIN_BLUE }}
         >
           {c.adLabel}
         </span>
-        <p className="text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: FIN_BLUE }}>
-          {c.eyebrow}
-        </p>
+        <img
+          src="/images/partners/suomikauppa/logo.png"
+          alt="Suomikauppa.fi"
+          width={381}
+          height={88}
+          loading="lazy"
+          decoding="async"
+          className="h-7 w-auto max-w-[9.5rem] object-contain"
+        />
       </div>
+      <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: FIN_BLUE }}>
+        {c.eyebrow}
+      </p>
 
       <h2 className="mb-3 max-w-2xl text-2xl font-bold leading-tight sm:text-3xl">{c.headline}</h2>
       <p className="max-w-2xl text-sm leading-relaxed text-slate-600 sm:text-base">{c.body}</p>
+
+      {/* Kaupan omat tuotekuvat on kuvattu tummalle taustalle reunasta reunaan,
+          joten kuva tayttaa laatan (object-cover). Valkoinen laatta + padding
+          teki niista mustia laatikoita — mitattu 15.9. */}
+      <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
+        {PRODUCTS.map((p) => (
+          <a
+            key={p.sid}
+            href={productHref(p.sid, p.handle)}
+            target="_blank"
+            rel="sponsored nofollow noopener"
+            onClick={() => trackAffiliateClick(p.sid, 'suomikauppa')}
+            className="group flex flex-col rounded-2xl border bg-white p-3 no-underline transition-all hover:-translate-y-0.5 hover:shadow-[0_10px_28px_rgba(0,47,108,0.12)]"
+            style={{ borderColor: 'rgba(0,47,108,0.14)' }}
+          >
+            <div className="mb-3 aspect-square overflow-hidden rounded-xl bg-slate-100 ring-1 ring-slate-900/5">
+              <img
+                src={`/images/partners/suomikauppa/${p.handle}.webp`}
+                alt={`${p.brand} ${p.name}`}
+                loading="lazy"
+                decoding="async"
+                onError={(e) => { e.currentTarget.closest('div')!.style.display = 'none' }}
+                className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+              />
+            </div>
+            <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-400">{p.brand}</p>
+            <p className="mt-0.5 text-sm font-bold leading-snug" style={{ color: FIN_BLUE }}>
+              {p.name}
+            </p>
+          </a>
+        ))}
+      </div>
 
       <ul className="mt-5 flex flex-wrap gap-x-5 gap-y-2.5">
         {facts.map((f) => (
