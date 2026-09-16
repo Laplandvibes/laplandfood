@@ -1835,209 +1835,122 @@
     ]
   },
   "michelinDining": {
-    "title": "Michelin i Finland och fine dining i Lappland",
-    "description": "Var Finlands Michelinstjärnor faktiskt finns, och Lapplands spets: Nili, Aanaar och Rakas. Menyns gång, bokningstider och ärliga råd.",
+    "title": "Fine dining i Lappland: tre hus, inte en enda Michelinstjärna",
+    "description": "Lappland har inga Michelinstjärnor. Nili, Aanaar och Rakas är de tre hus där man äter bäst: öppettider, bokningstider och vad du ska beställa.",
     "hero": {
-      "eyebrow": "Guide 05 · Michelin",
-      "title": "Michelin",
-      "titleHighlight": "och fine dining.",
-      "subtitle": "Finlands Michelin-scen i korthet: vad som har stjärnor och var, vad som driver fine dining norr om polcirkeln, och hur du faktiskt bokar ett bord.",
-      "primaryCta": "Var du bokar i Lappland",
-      "secondaryCta": "Restauranger i Helsingfors"
+      "eyebrow": "Guide 05 · Fine dining",
+      "title": "Lappland har",
+      "titleHighlight": "inte en enda stjärna.",
+      "subtitle": "Finlands stjärnor finns i Helsingfors, 800 kilometer söderut. Det betyder inte att man äter dåligt här uppe. Det betyder att den bästa maten i Lappland inte står på stjärnlistan. Den här sidan berättar var den finns.",
+      "primaryCta": "De tre husen",
+      "secondaryCta": "Och Helsingfors?"
     },
-    "factsKicker": "Läget för fine dining i Finland",
-    "factsHeadline": "Tre saker att veta först.",
-    "factsLeadPrefix": "Michelinguiden för de nordiska länderna uppdateras varje år, för den aktuella stjärnlistan, kolla alltid",
-    "factsLeadSuffix": ". Den strukturella bilden nedan är stabil och rätt utgångspunkt om du planerar en fine dining-resa till Finland.",
-    "facts": [
-      {
-        "title": "Helsingfors bär stjärnorna",
-        "body": "Finlands Michelinrestauranger är koncentrerade till Helsingfors: sex av de åtta stjärnmärkta finska restaurangerna i 2026 års nordiska guide ligger i huvudstaden. Utanför den håller Kaskis i Åbo och Vår i Borgå en stjärna var, och stjärnor kommer och går."
-      },
-      {
-        "title": "Lappland är fine dining-ambitiöst",
-        "body": "Lappland självt har för närvarande ingen Michelin-stjärna, men dess premiumrestauranger, Nili, Aanaar, Rakas, driver hur en avsmakningsmenykväll ser ut norr om polcirkeln, med plockade råvaror som inget kök i Helsingfors kan matcha i färskhet."
-      },
-      {
-        "title": "Bordsbokning spelar roll",
-        "body": "Lapplands flaggskepp är små (ofta 30–60 kuvert) och platserna vid kockbordet fylls snabbast. Boka högvintern (mitten av dec → feb) och midnattssolsfönstret (6 juni → 7 juli i Rovaniemi) minst 6–8 veckor i förväg. Michelin-restaurangerna i Helsingfors har regelbundet 4–6 veckors väntetid."
-      }
-    ],
-    "helsinki": {
-      "kicker": "Michelin i Helsingfors",
-      "headline": "Sju restauranger värda att boka i Helsingfors.",
-      "lead": "Stjärnorna ändras från år till år, så kontrollera den aktuella listan i guiden innan du bokar. De sju nedan finns i 2026 års nordiska guide eller har legat nära den i flera år, och resenärer återkommer för att prata om dem. Prisklasserna är våra egna, per person utan dryck: € (under 40 €), €€ (40–80 €), €€€ (80–140 €), €€€€ (över 140 €).",
-      "ctaHotels": "Hotell i Helsingfors",
-      "footnote": "Oberoende redaktionellt innehåll. Inte anslutet till Michelinguiden. Stjärnbeteckningar och Bib Gourmand-listningar gäller endast för den aktuella nordiska guideutgåvan, kolla guide.michelin.com innan du bokar.",
-      "rooms": [
+    "answer": {
+      "kicker": "Rakt på sak",
+      "headline": "Tre saker innan du bokar.",
+      "leadPrefix": "Michelinguiden uppdateras varje år och stjärnor flyttar på sig. Den gällande listan finns alltid på",
+      "leadSuffix": ". De här tre sakerna flyttar inte på sig.",
+      "points": [
         {
-          "name": "Olo",
-          "where": "Pohjoisesplanadi, Helsingfors",
-          "angle": "En långlivad fine dining-institution. Avsmakningsmenyer med rötter i finska råvaror och klassisk nordisk teknik.",
-          "band": "€€€€",
-          "stars": "★ 2026"
+          "title": "Stjärnorna finns i söder",
+          "body": "Finlands stjärnkrogar finns i Helsingfors, plus en i Åbo och en i Borgå. I Lappland finns ingen. Kommer du hit för en stjärna hittar du ingen."
         },
         {
-          "name": "Palace",
-          "where": "10:e våningen, Eteläranta, hamnutsikt",
-          "angle": "Gammaldags hamnutsikt över Helsingfors, modernt utförande. Den klassiska finska fiskrätten (gös, kuha) är signaturen.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
+          "title": "Tre hus ändå",
+          "body": "Nili och Rakas i Rovaniemi, Aanaar i Enare. Råvaran kommer nära ifrån och tallriken är tänkt hela vägen. Vi påstår inte att de håller stjärnnivå. Vi säger att de är det bästa som finns här uppe."
         },
         {
-          "name": "Demo",
-          "where": "Uudenmaankatu, Helsingfors",
-          "angle": "En kompakt avsmakningsmenyrestaurang, råvarustyrd, ofta omnämnd i guiden för sitt förhållande mellan pris och skicklighet.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Grön",
-          "where": "Albertinkatu, Helsingfors",
-          "angle": "Växtbaserad avsmakningsmeny (grönsaker, fisk, plockat) med ett stramt vinpaket. Fick sin andra stjärna 2026; bokas ut snabbast i staden.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
-        },
-        {
-          "name": "Boreal",
-          "where": "Uudenmaankatu, Helsingfors",
-          "angle": "Öppnade hösten 2025 och fick sin stjärna inom ett år. Kocken Pasha Demins hypersäsongsbetonade överraskningsmeny bygger på fermentering, vilt plockat och små lokala leverantörer.",
-          "band": "€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Finnjävel Salonki",
-          "where": "Helsingfors",
-          "angle": "Modernt finskt, omtänkta klassiker; Salonki är den stjärnmärkta avsmakningssalen. Mindre dämpat än de andra, mer teatral servering.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Ultima",
-          "where": "Eteläranta, Salutorget",
-          "angle": "Avsmakningsmeny där en del av råvarorna odlas i huset (hydroponiska örter, svamp på kaffesump). Hållbarhet först, vid Salutorgets strand.",
-          "band": "€€€€",
-          "stars": ""
+          "title": "Boka tidigt",
+          "body": "Husen är små. Från mitten av december till februari och under midnattssolen går borden veckor i förväg. Vi rekommenderar att boka ungefär sex veckor före resan."
         }
       ]
     },
     "lapland": {
-      "kicker": "Fine dining i Lappland",
-      "headline": "Tre restauranger att boka.",
-      "lead": "Det här är köken som tar matlagningen tillräckligt allvarligt för att konkurrera med Helsingfors på hantverket på tallriken, samtidigt som de hämtar allt från Lappland. Ingen har en Michelin-stjärna i skrivande stund, men på fem års sikt skulle vilken som helst av dem kunna få det.",
+      "kicker": "De tre husen",
+      "headline": "Där man äter bäst i Lappland.",
+      "lead": "De här tre hämtar sina råvaror nära och gör mer av dem än ren och potatis. Öppettider och menyuppgifter kontrollerades på restaurangernas egna sidor 16.9.2026. Stjärnsiffrorna är Googles användarbetyg, inte våra egna omdömen.",
       "labels": {
-        "signature": "Signaturrätter",
-        "band": "Prisintervall",
+        "rating": "Google-betyg",
+        "order": "Beställ detta",
+        "hours": "Öppettider",
         "booking": "Bokning",
         "hotelsNearPrefix": "Hotell:"
       },
       "rooms": [
         {
-          "name": "Ravintola Nili",
+          "name": "Restaurant Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centrala Rovaniemi",
-          "angle": "Den mest omnämnda fine dining-restaurangen i Lappland. Samiskt rotade rätter: sous vide-renfilé med blåbärsreduktion är signaturen, och programmet på vilda bär lutar sig mot det plockarna i Inari fått in samma morgon. Öppet kök, varm träinredning, en matsal med 65 platser och Nilin Nesti tvärs över gatan.",
-          "signature": "Sous vide-renfilé · tallgravad röding · hjortronparfait",
-          "band": "€€€, avsmakningsmeny och à la carte (aktuella priser på nili.fi)",
-          "booking": "Boka 3–4 veckor i förväg på sommaren och i december; bordsbokning online på nili.fi."
+          "angle": "Lapplands mest kända restaurang, och ryktet är förtjänat. Renen kommer från renskötare i trakten och bären från plockare. Salen är i timmer och varm, och huset fyllde 20 år hösten 2026.",
+          "order": "Ren. Det är hela husets idé. Menyn växlar med säsongen.",
+          "hours": "Tis–lör 16–23, sön 14–23. Stängt måndagar.",
+          "booking": "Bordsbokning på nili.fi. I september 2026 kostade en meny med fyra rätter 45 euro per person.",
+          "rating": "4,5",
+          "ratingCount": "3 052 recensioner"
         },
         {
           "name": "Restaurant Aanaar",
-          "city": "Inari",
-          "address": "Wilderness Hotel Juutua (tidigare Hotel Kultahovi), Saarikoskentie 2, Inari · vid Juutuanjoki",
-          "angle": "Det närmaste en destinationsmiddag djupt inne i Sápmi. Köket lagar Inaris eget skafferi: fisk från Enare träsk, ren, kvanne och lav från fjällen, och vinlistan är ovanligt djup för en kommun med 7 000 invånare.",
-          "signature": "Fisk från Enare träsk · ren · kvanne och lav från fjällen",
-          "band": "€€€, 3-rättersmeny 65 € · 5-rättersmeny 90 € (2026), vinpaket 30–41 €",
-          "booking": "Köket öppet dagligen 17–22. Boka 6–8 veckor i förväg på vintern och under midnattssolen."
+          "city": "Enare",
+          "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Enare",
+          "angle": "Restaurangen ligger vid Juutuanjoki mitt i sameland, och det syns på tallriken: fisk från Enare träsk, ren och örter från fjällen. I Enare bor omkring 7 000 människor, och ändå är det värt att köra hit.",
+          "order": "Fisk från Enare träsk.",
+          "hours": "Köket 17–22, beställningar senast 21. Baren 9–23.",
+          "booking": "Bokning via hotellet. På vintern och under midnattssolen, boka i god tid.",
+          "rating": "4,8",
+          "ratingCount": "482 recensioner"
         },
         {
-          "name": "Rakas at Arctic TreeHouse Hotel",
-          "city": "Rovaniemi · vid Santa Park",
-          "address": "Tarvantie 3, 6 km från Rovaniemi centrum · taxi eller bil",
-          "angle": "I Arctic TreeHouse Hotels huvudbyggnad, 6 km från centrum: lappländska råvaror med modern twist, kottelampor och öppen spis. Renrack med mörk ölsås och hjortronsorbet bär upp avsmakningsmenyn.",
-          "signature": "Renrack · gravad sik från Enare · hjortronsorbet",
-          "band": "€€€€, 7-rätters avsmakningsmeny 120 € · à la carte-huvudrätter 25–49 € (2026)",
-          "booking": "Öppet även för andra än hotellgäster; à la carte dagligen 18–22. Boka i förväg på vintern."
+          "name": "Rakas Restaurant & Bar",
+          "city": "Rovaniemi",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, cirka 6 km från centrum",
+          "angle": "Hotellets huvudrestaurang, öppen även för andra än hotellgäster. Köket gör modern à la carte av lappländska råvaror, och huset fyllde 10 år 2026. Hit tar du dig med taxi eller egen bil.",
+          "order": "Fråga efter säsongens smakmeny.",
+          "hours": "À la carte varje dag 18–22.30, köket stänger 22.",
+          "booking": "Boka i förväg under vintersäsongen.",
+          "rating": "",
+          "ratingCount": "Ännu inte med i vår datauppdatering"
         }
       ]
     },
-    "courseFlow": {
-      "kicker": "Vad du faktiskt betalar för",
-      "headline": "En finsk avsmakningsmeny, rätt för rätt.",
-      "lead": "Strukturen är densamma i både Michelin-restaurangerna i Helsingfors och Lapplands flaggskeppskök. Att känna till det ungefärliga flödet hjälper dig att dosera vinet, spara plats till efterrätten och inte få panik när notan kommer.",
-      "items": [
-        {
-          "n": "01",
-          "label": "Välkomsttilltugg",
-          "body": "Två eller tre små tilltugg vid bordet, inlagda grönsaker, rökt fisk på råg, en shot buljong på plockade örter. Sätter säsongens ton."
-        },
-        {
-          "n": "02",
-          "label": "Kall öppning",
-          "body": "Röding eller sik i någon form, gravad, rökt eller som tartar. Nästan alltid med ett inslag av plockade örter."
-        },
-        {
-          "n": "03",
-          "label": "Varm förrätt",
-          "body": "Svamp- eller rotfruktsrätt på hösten; bär- eller örtdriven rätt på sommaren. Här visar kockarna upp sitt fermenteringsarbete."
-        },
-        {
-          "n": "04",
-          "label": "Fiskrätt",
-          "body": "Gös, öring eller gädda, beroende på vad de lokala fiskarna fått in. Tillagad rosa i mitten, med en smör- eller gräddsås."
-        },
-        {
-          "n": "05",
-          "label": "Ren eller vilt",
-          "body": "Huvudproteinet. Filé sous vide, långbräserad bog eller rökt sadel. Blåbär, lingon eller enbär förankrar tallriken."
-        },
-        {
-          "n": "06",
-          "label": "Ost (valfritt)",
-          "body": "Lagrad finsk ost, i Lappi- eller Tervaleipäjuusto-stil, med tjärhonung eller hjortronsylt."
-        },
-        {
-          "n": "07",
-          "label": "Fördessert",
-          "body": "En liten gomrensare, björksavssorbet, hjortronconsommé, lingongranité."
-        },
-        {
-          "n": "08",
-          "label": "Efterrätt",
-          "body": "Hjortronparfait eller choklad- och lingonkupol är de två vanligaste. Kaffet kommer i en kopparkittel."
-        }
-      ]
+    "helsinki": {
+      "kicker": "Och Helsingfors",
+      "headline": "Stjärnorna finns i Helsingfors, och vi har inte ätit på dem.",
+      "lead": "Nästan alla Finlands Michelinstjärnor finns i Helsingfors. Vi listar dem inte här som våra egna omdömen, eftersom vi inte har varit på alla och eftersom vi inte är Michelin. Guiden uppdateras varje år och stjärnor flyttar på sig, så den rätta listan finns på guidens egen sida.",
+      "linkLabel": "Se stjärnlistan på guide.michelin.com",
+      "note": "Går din resa via Helsingfors, boka direkt hos restaurangen. Helsingfors ligger 800 kilometer söder om Rovaniemi, så det är en annan resa än den här.",
+      "ctaHotels": "Hotell i Helsingfors"
     },
-    "bookingNotes": {
-      "headline": "Fyra saker förstagångsbesökare gör fel.",
-      "lead": "Lapplandsköken är förlåtande. De är ändå små lokaler med kockledd servering. Det här är de fyra rättelser vi ger en vän inför den första bokningen.",
+    "before": {
+      "headline": "Fyra saker som är värda att veta i förväg.",
+      "lead": "De här husen är små och kvällen är lång. Så här blir den som den ska.",
       "items": [
         {
-          "label": "Räkna med minst 3 timmar",
-          "body": "En full avsmakningsmeny i Lappland tar 2,5–3,5 timmar. Boka ingen föreställning klockan 21 efteråt."
+          "label": "Boka hela kvällen",
+          "body": "En meny med flera rätter tar två och en halv timme, ibland tre. Boka inte bord precis innan du ska vara någon annanstans."
         },
         {
-          "label": "Vinpaket lönar sig",
-          "body": "De flesta av Lapplands flaggskepp har en sommelier som väljer europeiska viner från små producenter. Vinpaket kostar 45–95 € utöver menyn."
+          "label": "Vin till varje rätt",
+          "body": "Husen erbjuder viner valda till varje rätt vid sidan av menyn. Det är oftast kvällens bästa tillägg, och det kostar ofta lika mycket som menyn. Fråga om priset när du bokar."
         },
         {
-          "label": "Berätta om allergier tidigt",
-          "body": "Avsmakningsmenyer är förbestämda och innehåller komplexa plockade råvaror. Allergier / vegetariskt / veganskt: nämn det vid bokningen, inte på kvällen."
+          "label": "Berätta om kosten när du bokar",
+          "body": "Menyerna planeras dagar i förväg. Allergi, vegetariskt eller veganskt går lätt att ordna om du säger det vid bokningen. Vid bordet på kvällen är det svårt."
         },
         {
-          "label": "Ledigt men vårdat",
-          "body": "Ingen restaurang i Finland avvisar dig i jeans, men lokalerna förväntar sig lite ansträngning. Sneakers och luvtröjor känns malplacerade."
+          "label": "Klä dig städat",
+          "body": "Jeans går bra. Sneakers och hoodie sticker ut i de här husen, även om ingen avvisas i dörren."
         }
       ]
     },
     "stayNear": {
-      "headline": "Bo nära köken.",
-      "lead": "För en fine dining-resa är den enklaste planen ett hotell inom 10 minuters promenad (eller kort taxiresa) från där du äter. Rovaniemi för Nili/Rakas, Inari för Aanaar.",
-      "ctaRovaniemi": "Hotell nära Rovaniemi",
-      "ctaInari": "Hotell nära Inari",
-      "tourPrefix": "Vill du ha en guide som sköter transporten, bokningarna och introduktionerna till kockarna åt dig?",
+      "headline": "Bo inom gångavstånd.",
+      "lead": "Efter en fine dining-kväll är den renaste planen ett hotell inom gångavstånd eller en kort taxiresa bort. Rovaniemi för Nili och Rakas, Enare för Aanaar.",
+      "ctaRovaniemi": "Hotell i Rovaniemi",
+      "ctaInari": "Hotell i Enare",
+      "tourPrefix": "Vill du hellre ha en guide som sköter transporten, bokningarna och kockpresentationerna?",
       "tourLabel": "Boka en arktisk fine dining-tur"
-    }
+    },
+    "sources": "Öppettider och menyuppgifter från restaurangernas egna sidor, 16.9.2026. Google-betyg och Nilis öppettider från vår egen veckovisa datauppdatering, 11.9.2026; Rakas är ännu inte med. Stjärnuppgifter: guide.michelin.com. Vi har ingen koppling till Michelinguiden och betygsätter inte restauranger för dess räkning."
   },
   "about": {
     "title": "Om LaplandFood",

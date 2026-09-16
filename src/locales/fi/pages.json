@@ -1836,99 +1836,44 @@
     ]
   },
   "michelinDining": {
-    "title": "Michelin Suomessa ja Lapin fine dining",
-    "description": "Missä Suomen Michelin-tähdet oikeasti ovat, ja Lapin fine diningin kärki: Nili, Aanaar ja Rakas. Tasting-menun kulku, varausajat ja rehellinen neuvo.",
+    "title": "Fine dining Lapissa: kolme salia, ei yhtään Michelin-tähteä",
+    "description": "Lapissa ei ole Michelin-tähtiä. Nili, Aanaar ja Rakas ovat ne kolme salia, joissa syödään parhaiten: aukioloajat, varausajat ja mitä tilata.",
     "hero": {
-      "eyebrow": "Opas 05 · Michelin",
-      "title": "Michelin",
-      "titleHighlight": "ja fine dining.",
-      "subtitle": "Suomen Michelin-skene yhdellä silmäyksellä: mikä on tähditetty ja missä, mikä vie fine diningia eteenpäin napapiirin pohjoispuolella ja miten pöytä oikeasti varataan.",
-      "primaryCta": "Mistä varata Lapissa",
-      "secondaryCta": "Helsingin ravintolat"
+      "eyebrow": "Opas 05 · Fine dining",
+      "title": "Lapissa ei ole",
+      "titleHighlight": "yhtään tähteä.",
+      "subtitle": "Suomen Michelin-tähdet ovat Helsingissä, 800 kilometriä etelämpänä. Se ei tarkoita, etteikö Lapissa syötäisi hyvin. Se tarkoittaa, että paras ruoka täällä ei ole tähtilistalla. Tällä sivulla kerrotaan, missä se on.",
+      "primaryCta": "Lapin kolme salia",
+      "secondaryCta": "Entä Helsinki?"
     },
-    "factsKicker": "Suomen fine dining -tilanne",
-    "factsHeadline": "Kolme asiaa, jotka kannattaa tietää ensin.",
-    "factsLeadPrefix": "Pohjois­maiden Michelin-opas päivittyy joka vuosi, voimassa olevan tähti­listan löydät aina osoitteesta",
-    "factsLeadSuffix": ". Alla oleva rakenteellinen kuva on vakaa ja oikea aloitus­piste, jos suunnittelet fine dining -matkaa Suomeen.",
-    "facts": [
-      {
-        "title": "Tähdet ovat Helsingissä",
-        "body": "Suomen Michelin-ravintolat keskittyvät Helsinkiin: vuoden 2026 Pohjoismaiden oppaan kahdeksasta tähtiravintolasta kuusi on pääkaupungissa. Sen ulkopuolella yhden tähden pitävät Kaskis Turussa ja Vår Porvoossa, ja tähdet tulevat ja menevät."
-      },
-      {
-        "title": "Lappi pyrkii fine diningiin",
-        "body": "Lapilla itsellään ei tällä hetkellä ole Michelin-tähteä, mutta sen huippu­ravintolat, Nili, Aanaar, Rakas, uudelleen­määrittelevät, miltä tasting menu -ilta näyttää napa­piirin pohjois­puolella, keräillyillä raaka-aineilla, joiden tuoreutta yksikään Helsingin keittiö ei pysty matkimaan."
-      },
-      {
-        "title": "Varaukset merkitsevät",
-        "body": "Lapin lippu­laivat ovat pieniä (usein 30–60 paikkaa) ja kokin­pöydän paikat täyttyvät nopeimmin. Varaa talven huippu­kausi (joulu­kuun puoli­väli → helmikuu) ja keskiyön auringon ikkuna (Rovaniemellä 6.6.–7.7.) vähintään 6–8 viikkoa etukäteen. Helsingin Michelin-saleissa odotus on tavallisesti 4–6 viikkoa."
-      }
-    ],
-    "helsinki": {
-      "kicker": "Helsingin Michelin",
-      "headline": "Helsingin seitsemän Michelin-tason salia.",
-      "lead": "Tähtimerkinnät vaihtuvat vuodesta toiseen, joten varmenna ajantasainen lista oppaasta ennen varausta. Alla olevat seitsemän ovat saleja, jotka ovat vuoden 2026 Pohjoismaiden oppaassa tai olleet sen tuntumassa vuosia, ja joista matkailijat puhuvat. Hintaluokat ovat omiamme, per henkilö ilman juomia: € (alle 40 €), €€ (40–80 €), €€€ (80–140 €), €€€€ (yli 140 €).",
-      "ctaHotels": "Hotellit Helsingissä",
-      "footnote": "Riippumaton toimitus. Ei yhteyksiä Michelin-oppaaseen. Tähti­merkinnät ja Bib Gourmand -listaukset ovat voimassa vain nykyisen Pohjois­maiden oppaan painoksen mukaan, tarkista guide.michelin.com ennen varausta.",
-      "rooms": [
+    "answer": {
+      "kicker": "Suoraan sanottuna",
+      "headline": "Kolme asiaa ennen kuin varaat.",
+      "leadPrefix": "Michelin-opas päivittyy vuosittain ja tähdet liikkuvat. Voimassa oleva lista on aina osoitteessa",
+      "leadSuffix": ". Nämä kolme asiaa eivät liiku.",
+      "points": [
         {
-          "name": "Olo",
-          "where": "Pohjoisesplanadi, Helsinki",
-          "angle": "Pitkä­aikainen fine dining -instituutio. Tasting menut suomalaisilla raaka-aineilla ja klassisella pohjois­maisella tekniikalla.",
-          "band": "€€€€",
-          "stars": "★ 2026"
+          "title": "Tähdet ovat etelässä",
+          "body": "Suomen tähtiravintolat ovat Helsingissä, yksi Turussa ja yksi Porvoossa. Lapissa ei ole yhtään. Jos tulet tänne tähden takia, et löydä sitä."
         },
         {
-          "name": "Palace",
-          "where": "10. kerros, Eteläranta, satama­näkymä",
-          "angle": "Vanhan koulun Helsingin satama­näkymä, moderni toteutus. Kuha­annos on tunnusmerkki.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
+          "title": "Kolme salia silti",
+          "body": "Nili ja Rakas Rovaniemellä, Aanaar Inarissa. Raaka-aine tulee läheltä ja lautanen on mietitty loppuun asti. Emme väitä niitä tähtitasoisiksi. Sanomme, että ne ovat parasta mitä täällä on."
         },
         {
-          "name": "Demo",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Tiivis tasting menu -sali, raaka-aine­vetoinen, usein mainittu oppaassa hinta–laatu-suhteen vuoksi.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Grön",
-          "where": "Albertinkatu, Helsinki",
-          "angle": "Kasvipainotteinen tasting menu (vihannekset, kala, keräily) tiukalla viiniparilla. Nousi kahteen tähteen 2026; Helsingin nopeimmin loppuunmyyty.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
-        },
-        {
-          "name": "Boreal",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Avattiin syksyllä 2025 ja sai tähden alle vuodessa. Keittiömestari Pasha Deminin sesongin mukaan elävä yllätysmenu nojaa fermentointiin, keräilyyn ja pieniin lähituottajiin.",
-          "band": "€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Finnjävel Salonki",
-          "where": "Helsinki",
-          "angle": "Modernia suomalaista, uudelleentulkittuja klassikoita; Salonki on tähditetty tasting menu -sali. Vähemmän hiljainen kuin muut, teatraalisempi tarjoilu.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Ultima",
-          "where": "Eteläranta, Kauppatori",
-          "angle": "Tasting menu, jonka raaka-aineista osa kasvatetaan talon sisällä (hydroponiset yrtit, sienet kahvinporoissa). Vastuullisuus edellä, Kauppatorin rannassa.",
-          "band": "€€€€",
-          "stars": ""
+          "title": "Varaa ajoissa",
+          "body": "Salit ovat pieniä. Joulukuun puolivälistä helmikuulle ja keskiyön auringon aikaan pöydät menevät viikkoja etukäteen. Suosittelemme varaamaan noin kuusi viikkoa ennen matkaa."
         }
       ]
     },
     "lapland": {
-      "kicker": "Lapin fine dining",
-      "headline": "Lapin kolme fine dining -salia.",
-      "lead": "Nämä ovat keittiöt, jotka ottavat kokkaamisen tarpeeksi vakavasti kilpaillakseen Helsingin kanssa lautas­työn tasolla samalla kun raaka-aineet hankitaan kokonaan Lapista. Yhdelläkään niistä ei ole Michelin-tähteä kirjoitus­hetkellä, mutta viiden vuoden aika­jänteellä millä tahansa voisi olla.",
+      "kicker": "Lapin kolme salia",
+      "headline": "Missä Lapissa syödään parhaiten.",
+      "lead": "Nämä kolme hakevat raaka-aineensa läheltä ja tekevät niistä enemmän kuin poroa ja perunaa. Aukioloajat ja menutiedot on tarkistettu ravintoloiden omilta sivuilta 16.9.2026. Tähtiluvut ovat Googlen käyttäjäarvioita, eivät meidän arvioitamme.",
       "labels": {
-        "signature": "Tunnus­annokset",
-        "band": "Hinta­luokka",
+        "rating": "Googlen arvio",
+        "order": "Tilaa tämä",
+        "hours": "Aukiolo",
         "booking": "Varaus",
         "hotelsNearPrefix": "Hotellit:"
       },
@@ -1936,109 +1881,77 @@
         {
           "name": "Ravintola Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, Rovaniemen keskusta",
-          "angle": "Lapin eniten mainittu fine dining -sali. Saamelaisjuurinen lautanen: sous vide -poronfilee mustikkareduktiolla on tunnus, ja villimarjaohjelma nojaa siihen, mitä Inarin keräilijät toivat samana aamuna. Avoin keittiö, lämmin puusisustus, 65 paikan sali ja Nilin Nesti kadun toisella puolella.",
-          "signature": "Sous vide -poronfilee · männyn­suolatettu nieriä · hilla­parfait",
-          "band": "€€€, tasting menu ja à la carte (ajantasaiset hinnat nili.fi:ssä)",
-          "booking": "Varaa 3–4 viikkoa etukäteen kesällä ja joulukuussa; pöytävaraus verkossa nili.fi:ssä."
+          "address": "Valtakatu 20, Rovaniemen keskustassa",
+          "angle": "Lapin tunnetuin ravintola, ja tunnettuus on ansaittua. Poro tulee paikallisilta poromiehiltä ja marjat keräilijöiltä. Sali on hirsinen ja lämmin, ja talo täytti 20 vuotta syksyllä 2026.",
+          "order": "Poroa. Se on koko talon idea. Menu vaihtuu kauden mukaan.",
+          "hours": "Ti–la 16–23, su 14–23. Maanantaisin kiinni.",
+          "booking": "Pöytävaraus nili.fi:ssä. Syyskuussa 2026 neljän ruokalajin menu maksoi 45 euroa henkilöltä.",
+          "rating": "4,5",
+          "ratingCount": "3 052 arvostelua"
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Wilderness Hotel Juutua (entinen Hotelli Kultahovi), Saarikoskentie 2, Inari · Juutuanjoen rannalla",
-          "angle": "Aidoin destination dining -elämys syvällä Saamenmaassa. Keittiö kokkaa Inarin omasta aitasta: Inarijärven kalaa, poroa, väinönputkea ja tunturien jäkälää, ja viinilista on epätavallisen syvä 7 000 asukkaan kunnassa.",
-          "signature": "Inarijärven kala · poro · väinönputki ja tunturien jäkälä",
-          "band": "€€€, 3 ruokalajin menu 65 € · 5 ruokalajin menu 90 € (2026), viiniparit 30–41 €",
-          "booking": "Keittiö auki joka päivä 17–22. Varaa 6–8 viikkoa etukäteen talvella ja keskiyön auringon aikaan."
+          "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
+          "angle": "Ravintola on Juutuanjoen rannalla keskellä saamelaisaluetta, ja se näkyy lautasella: Inarijärven kalaa, poroa ja tunturin yrttejä. Inarissa asuu noin 7 000 ihmistä, ja tämä on silti sali, jonka takia kannattaa ajaa.",
+          "order": "Inarijärven kalaa.",
+          "hours": "Keittiö 17–22, tilaukset sisään klo 21 mennessä. Baari auki 9–23.",
+          "booking": "Varaus hotellin kautta. Talvella ja keskiyön auringon aikaan varaa hyvissä ajoin.",
+          "rating": "4,8",
+          "ratingCount": "482 arvostelua"
         },
         {
-          "name": "Rakas at Arctic TreeHouse Hotel",
-          "city": "Rovaniemi · Santa Park -alue",
-          "address": "Tarvantie 3, 6 km Rovaniemen keskustasta · taksilla tai autolla",
-          "angle": "Arctic TreeHouse Hotelin päärakennuksessa, 6 km keskustasta: Lapin raaka-aineita modernilla otteella, käpylamput ja takka. Poron kare tummaoluskastikkeella ja hillasorbetti kantavat maistelumenua.",
-          "signature": "Poron kare · graavattu Inarin siika · hillasorbetti",
-          "band": "€€€€, 7 ruokalajin maistelumenu 120 € · à la carte -pääruoat 25–49 € (2026)",
-          "booking": "Avoin myös muille kuin hotellivieraille; à la carte joka päivä 18–22. Varaa etukäteen talvella."
+          "name": "Rakas Restaurant & Bar",
+          "city": "Rovaniemi",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, noin 6 km keskustasta",
+          "angle": "Hotellin pääravintola, joka on avoin myös muille kuin hotellivieraille. Keittiö tekee Lapin raaka-aineista modernia à la cartea, ja talo täytti 10 vuotta 2026. Tänne pääsee taksilla tai omalla autolla.",
+          "order": "Kysy kauden maistelumenu.",
+          "hours": "À la carte joka päivä 18–22.30, keittiö sulkeutuu 22.00.",
+          "booking": "Varaa etukäteen talvikaudella.",
+          "rating": "",
+          "ratingCount": "Ei vielä tilannekuvassamme"
         }
       ]
     },
-    "courseFlow": {
-      "kicker": "Mistä oikeasti maksat",
-      "headline": "Suomalainen tasting menu, ruokalaji kerrallaan.",
-      "lead": "Rakenne on yhtenäinen sekä Helsingin Michelin-saleissa että Lapin lippu­laiva­keittiöissä. Karkean kulun tunteminen auttaa rytmittämään viinit, jättämään tilaa jälki­ruokaan ja ettei laskun kohdalla jäädy paniikkiin.",
-      "items": [
-        {
-          "n": "01",
-          "label": "Tervetulo­palat",
-          "body": "Kaksi tai kolme pientä palaa pöydässä, pikkelöityjä vihanneksia, savukala ruisleivällä, keräilyyrtti­liemi. Asettaa kausiluonteisen sävyn."
-        },
-        {
-          "n": "02",
-          "label": "Kylmä alku",
-          "body": "Nieriä tai siika jossakin muodossa, suolatettuna, savustettuna tai tartarina. Lähes aina keräily­yrteillä."
-        },
-        {
-          "n": "03",
-          "label": "Lämmin alku­ruoka",
-          "body": "Sieni- tai juures­annos syksyllä; marja- tai yrtti­vetoinen lautanen kesällä. Tässä kokit näyttävät fermentointi­työnsä."
-        },
-        {
-          "n": "04",
-          "label": "Kala­ruoka",
-          "body": "Kuha, taimen tai hauki, sen mukaan, mitä paikalliset kalastajat toivat. Kypsennetty keskelle vaalean­punaiseksi voi- tai kerma­kastikkeen kanssa."
-        },
-        {
-          "n": "05",
-          "label": "Poro tai riista",
-          "body": "Pää­proteiini. Filee sous vide, hidasti haudutettu lapa tai savustettu satula. Mustikka, puolukka tai kataja ankkuroi annoksen."
-        },
-        {
-          "n": "06",
-          "label": "Juusto (valinnainen)",
-          "body": "Kypsä suomalainen juusto, Lappi tai Terva­leipä­juusto -tyylinen, terva­hunajan tai hilla­säilykkeen kanssa."
-        },
-        {
-          "n": "07",
-          "label": "Esi­jälki­ruoka",
-          "body": "Pieni maku­kuvan­puhdistaja, koivun­mahla­sorbet, hilla­consommé, puolukka­granita."
-        },
-        {
-          "n": "08",
-          "label": "Jälki­ruoka",
-          "body": "Hilla­parfait tai suklaa–puolukka­kupoli ovat kaksi yleisintä. Kahvi tulee kupari­pannussa."
-        }
-      ]
+    "helsinki": {
+      "kicker": "Entä Helsinki",
+      "headline": "Tähdet ovat Helsingissä, emmekä ole syöneet niissä.",
+      "lead": "Suomen Michelin-tähdet ovat lähes kaikki Helsingissä. Emme listaa niitä täällä omina arvioinamme, koska emme ole käyneet niissä kaikissa emmekä ole Michelin. Opas päivittyy joka vuosi ja tähdet liikkuvat, joten oikea lista on oppaan omilla sivuilla.",
+      "linkLabel": "Katso tähtilista guide.michelin.comista",
+      "note": "Jos matkasi kulkee Helsingin kautta, varaa suoraan ravintolasta. Helsinki on 800 kilometriä Rovaniemeltä etelään, eli se on eri matka kuin tämä.",
+      "ctaHotels": "Hotellit Helsingissä"
     },
-    "bookingNotes": {
-      "headline": "Neljä asiaa, jotka aloittelijat tekevät väärin.",
-      "lead": "Lapin keittiöt antavat anteeksi. Ne ovat silti pieniä saleja kokki­vetoisella tarjoilulla. Tässä neljä korjausta, jotka annamme ystävälle ennen ensimmäistä varausta.",
+    "before": {
+      "headline": "Neljä asiaa, jotka kannattaa tietää etukäteen.",
+      "lead": "Nämä salit ovat pieniä ja ilta on pitkä. Näin siitä tulee sellainen kuin pitää.",
       "items": [
         {
-          "label": "Suunnittele 3 tuntia minimi",
-          "body": "Täysi Lapin tasting menu kestää 2,5–3,5 tuntia. Älä varaa klo 21 esitystä jälkeen."
+          "label": "Varaa koko ilta",
+          "body": "Usean ruokalajin menu kestää kaksi ja puoli tuntia, joskus kolme. Älä varaa pöytää juuri ennen kuin sinun pitää olla jossain muualla."
         },
         {
-          "label": "Viini­pari kannattaa",
-          "body": "Useimmilla Lapin lippu­laivoilla on sommelier, joka valitsee pien­tuottajien eurooppalaisia viinejä. Parit maksavat 45–95 € menun päälle."
+          "label": "Viinit ruokalajeittain",
+          "body": "Salit tarjoavat menun rinnalle viinit ruokalajeittain. Se on yleensä illan paras lisäys ja maksaa usein yhtä paljon kuin menu itse. Kysy hinta varauksen yhteydessä."
         },
         {
-          "label": "Kerro allergioista ajoissa",
-          "body": "Tasting menut on rakennettu etukäteen ja sisältävät monimutkaisia keräily­raaka-aineita. Allergiat / kasvis / vegaani: ilmoita varauksen yhteydessä, ei illalla."
+          "label": "Kerro ruokavaliosta varatessa",
+          "body": "Menut suunnitellaan päiviä etukäteen. Allergia, kasvis tai vegaani hoituu helposti, jos siitä kertoo varatessa. Pöydässä illalla se on vaikeaa."
         },
         {
-          "label": "Smart casual",
-          "body": "Mikään suomalainen ravintola ei käännytä farkuissa, mutta salit odottavat panostusta. Lenkki­kengät ja huppari tuntuvat sopimattomalta."
+          "label": "Pukeudu siististi",
+          "body": "Farkut käyvät. Lenkkarit ja huppari erottuvat näissä saleissa, vaikka kukaan ei käännytä ovelta."
         }
       ]
     },
     "stayNear": {
-      "headline": "Yövy keittiöiden lähellä.",
-      "lead": "Fine dining -matkalla puhtain suunnitelma on hotelli 10 minuutin kävelyn (tai lyhyen taksin) etäisyydellä siitä missä syöt. Rovaniemi Niliä / Rakasta varten, Inari Aanaaria varten.",
+      "headline": "Yövy kävelymatkan päässä.",
+      "lead": "Fine dining -illan jälkeen paras suunnitelma on hotelli kävelymatkan tai lyhyen taksimatkan päässä. Rovaniemi Niliä ja Rakasta varten, Inari Aanaaria varten.",
       "ctaRovaniemi": "Hotellit Rovaniemellä",
       "ctaInari": "Hotellit Inarissa",
-      "tourPrefix": "Haluatko oppaan, joka hoitaa kuljetuksen, varaukset ja kokki­esittelyt puolestasi?",
+      "tourPrefix": "Haluatko oppaan, joka hoitaa kuljetuksen, varaukset ja kokkiesittelyt puolestasi?",
       "tourLabel": "Varaa arktinen fine dining -kierros"
-    }
+    },
+    "sources": "Aukioloajat ja menutiedot ravintoloiden omilta sivuilta 16.9.2026. Googlen arviot ja Nilin aukioloajat omasta viikoittaisesta tilannekuvastamme 11.9.2026; Rakas ei ole siinä vielä mukana. Tähtitiedot: guide.michelin.com. Emme ole yhteydessä Michelin-oppaaseen emmekä arvioi ravintoloita heidän puolestaan."
   },
   "about": {
     "title": "Tietoa LaplandFoodista",

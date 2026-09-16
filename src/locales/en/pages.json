@@ -1835,209 +1835,122 @@
     ]
   },
   "michelinDining": {
-    "title": "Michelin in Finland & Lapland Fine Dining",
-    "description": "Where Finland’s Michelin stars actually are, and Lapland’s fine-dining flagships Nili, Aanaar and Rakas. Tasting-menu flow, booking lead times, honest advice.",
+    "title": "Fine dining in Lapland: three rooms, not one Michelin star",
+    "description": "Lapland has no Michelin stars. Nili, Aanaar and Rakas are the three rooms where you eat best: opening hours, booking windows and what to order.",
     "hero": {
-      "eyebrow": "Guide 05 · Michelin",
-      "title": "Michelin",
-      "titleHighlight": "& fine dining.",
-      "subtitle": "Finland's Michelin scene at a glance: what is starred and where, what is pushing fine dining inside the Arctic Circle, and how to actually book a table.",
-      "primaryCta": "Where to book in Lapland",
-      "secondaryCta": "Helsinki rooms"
+      "eyebrow": "Guide 05 · Fine dining",
+      "title": "Lapland has",
+      "titleHighlight": "no Michelin stars.",
+      "subtitle": "Finland's stars are in Helsinki, 800 kilometres south. That does not mean you eat badly up here. It means the best food in Lapland is not on the star list. This page tells you where it is.",
+      "primaryCta": "The three rooms",
+      "secondaryCta": "What about Helsinki?"
     },
-    "factsKicker": "The state of fine dining in Finland",
-    "factsHeadline": "Three things to know first.",
-    "factsLeadPrefix": "The Michelin Guide for Nordic countries updates each year; for the current star list always check",
-    "factsLeadSuffix": ". The structural picture below is stable and is the right starting point if you're planning a fine-dining trip to Finland.",
-    "facts": [
-      {
-        "title": "Helsinki carries the stars",
-        "body": "Finland's Michelin-listed restaurants are concentrated in Helsinki: six of the eight starred Finnish restaurants in the 2026 Nordic Guide are in the capital. Outside it, Kaskis in Turku and Vår in Porvoo hold one star each, and stars come and go."
-      },
-      {
-        "title": "Lapland is fine-dining ambitious",
-        "body": "Lapland itself does not currently hold a Michelin star, but its premium restaurants (Nili, Aanaar, Rakas) are pushing what a tasting-menu evening looks like inside the Arctic Circle, with foraged ingredients no Helsinki kitchen can match for freshness."
-      },
-      {
-        "title": "Reservations matter",
-        "body": "Lapland flagships are small (often 30–60 covers) and the chef-table seats fill fastest. Book peak winter (mid-Dec → Feb) and the midnight-sun window (Jun 6 → Jul 7 in Rovaniemi) at least 6–8 weeks ahead. Helsinki Michelin rooms regularly have 4–6 week waits."
-      }
-    ],
-    "helsinki": {
-      "kicker": "Helsinki Michelin",
-      "headline": "Seven rooms worth booking in Helsinki.",
-      "lead": "Star designations change year to year, so verify the current list on the Guide before booking. The seven below are rooms that are in the 2026 Nordic Guide or have been close to it for years, and that travellers come back to talk about. Price bands are ours, per person without drinks: € (under €40), €€ (€40–€80), €€€ (€80–€140), €€€€ (€140+).",
-      "ctaHotels": "Hotels in Helsinki",
-      "footnote": "Independent editorial. Not affiliated with the Michelin Guide. Star designations and Bib Gourmand listings are valid only as of the current Nordic Guide edition; check guide.michelin.com before you book.",
-      "rooms": [
+    "answer": {
+      "kicker": "Straight answer",
+      "headline": "Three things before you book.",
+      "leadPrefix": "The Michelin guide is updated every year and stars move. The list in force is always at",
+      "leadSuffix": ". These three things do not move.",
+      "points": [
         {
-          "name": "Olo",
-          "where": "Pohjoisesplanadi, Helsinki",
-          "angle": "Long-standing fine-dining institution. Tasting menus rooted in Finnish ingredients with classical Nordic technique.",
-          "band": "€€€€",
-          "stars": "★ 2026"
+          "title": "The stars are down south",
+          "body": "Finland's starred restaurants are in Helsinki, with one in Turku and one in Porvoo. Lapland has none. If you come here for a star, you will not find one."
         },
         {
-          "name": "Palace",
-          "where": "10th floor, Eteläranta, harbour view",
-          "angle": "Old-school Helsinki harbour view, modern execution. Classic Finnish fish course (kuha pike-perch) is the signature.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
+          "title": "Three rooms anyway",
+          "body": "Nili and Rakas in Rovaniemi, Aanaar in Inari. The ingredients come from nearby and the plate is thought through. We do not claim they are star level. We say they are the best there is up here."
         },
         {
-          "name": "Demo",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Compact tasting-menu room, ingredient-led, often cited in the Guide for value-versus-skill ratio.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Grön",
-          "where": "Albertinkatu, Helsinki",
-          "angle": "Plant-led tasting menu (vegetables, fish, foraged) with a tight wine pairing. Promoted to two stars in 2026; books out fastest in the city.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
-        },
-        {
-          "name": "Boreal",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Opened in autumn 2025 and starred within a year. Chef Pasha Demin's hyper-seasonal surprise menu leans on fermentation, foraging and small local suppliers.",
-          "band": "€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Finnjävel Salonki",
-          "where": "Helsinki",
-          "angle": "Modern Finnish, re-imagined classics; Salonki is the starred tasting-menu room. Less hushed than the others, more theatrical service.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Ultima",
-          "where": "Eteläranta, Market Square",
-          "angle": "Tasting menu built partly on produce grown in-house (hydroponic herbs, mushrooms on coffee grounds). Sustainability first, on the Market Square waterfront.",
-          "band": "€€€€",
-          "stars": ""
+          "title": "Book early or miss out",
+          "body": "These rooms are small. From mid-December to February, and during the midnight sun, tables go weeks ahead. We suggest booking about six weeks before your trip."
         }
       ]
     },
     "lapland": {
-      "kicker": "Lapland fine dining",
-      "headline": "Three rooms to book.",
-      "lead": "These are the kitchens that take the cooking seriously enough to compete with Helsinki on plate-craft, while sourcing overwhelmingly from Lapland. None hold a Michelin star at the time of writing, but in a five-year horizon any of them could.",
+      "kicker": "The three rooms",
+      "headline": "Where you eat best in Lapland.",
+      "lead": "These three source their ingredients close by and do more with them than reindeer and potato. Opening hours and menu details were checked on the restaurants' own sites on 16 September 2026. The star figures are Google user ratings, not our own scores.",
       "labels": {
-        "signature": "Signature plates",
-        "band": "Price band",
+        "rating": "Google rating",
+        "order": "Order this",
+        "hours": "Hours",
         "booking": "Booking",
         "hotelsNearPrefix": "Hotels:"
       },
       "rooms": [
         {
-          "name": "Ravintola Nili",
+          "name": "Restaurant Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, central Rovaniemi",
-          "angle": "The most-cited fine-dining room in Lapland. Sami-rooted plates: sous-vide reindeer fillet with bilberry reduction is the signature, and the wild-berry programme leans on what Inari foragers brought in that morning. Open kitchen, warm wood interior, a 65-seat main room plus Nilin Nesti across the street.",
-          "signature": "Sous-vide reindeer fillet · pine-cured Arctic char · cloudberry parfait",
-          "band": "€€€, tasting menu and à la carte (current prices on nili.fi)",
-          "booking": "Book 3–4 weeks ahead in summer and December; online table booking on nili.fi."
+          "angle": "The best-known restaurant in Lapland, and the reputation is earned. The reindeer comes from local herders and the berries from pickers. The room is timber and warm, and the house turned 20 in autumn 2026.",
+          "order": "Reindeer. It is the whole point of the place. The menu changes with the season.",
+          "hours": "Tue–Sat 16:00–23:00, Sun 14:00–23:00. Closed Mondays.",
+          "booking": "Table booking at nili.fi. In September 2026 a four-course menu was 45 euros per person.",
+          "rating": "4.5",
+          "ratingCount": "3,052 reviews"
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Wilderness Hotel Juutua (formerly Hotel Kultahovi), Saarikoskentie 2, Inari · on the Juutuanjoki river",
-          "angle": "The closest thing to a destination dining experience deep in Sami country. The kitchen cooks Inari's own larder: Lake Inari fish, reindeer, angelica and lichen from the fells, and the wine list is unusually deep for a municipality of 7,000.",
-          "signature": "Lake Inari fish · reindeer · angelica and lichen from the fells",
-          "band": "€€€, 3-course menu €65 · 5-course menu €90 (2026), wine pairings €30–€41",
-          "booking": "Kitchen open daily 17–22. Book 6–8 weeks ahead in winter and in the midnight-sun window."
+          "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
+          "angle": "The restaurant sits on the bank of the Juutuanjoki in the middle of the Sámi homeland, and it shows on the plate: fish from Lake Inari, reindeer, and herbs from the fells. About 7,000 people live in Inari, and this is still a room worth the drive.",
+          "order": "Fish from Lake Inari.",
+          "hours": "Kitchen 17:00–22:00, orders in by 21:00. Bar open 09:00–23:00.",
+          "booking": "Book through the hotel. In winter and during the midnight sun, book well ahead.",
+          "rating": "4.8",
+          "ratingCount": "482 reviews"
         },
         {
-          "name": "Rakas at Arctic TreeHouse Hotel",
-          "city": "Rovaniemi · Santa Park area",
-          "address": "Tarvantie 3, 6 km from central Rovaniemi · taxi or car",
-          "angle": "In the main building of Arctic TreeHouse Hotel, 6 km from the centre: Lapland ingredients with a modern twist, pine-cone lamps and a fireplace. Rack of reindeer with dark-beer sauce and a cloudberry sorbet anchor the tasting menu.",
-          "signature": "Rack of reindeer · cured Inari whitefish · cloudberry sorbet",
-          "band": "€€€€, 7-course tasting menu €120 · à la carte mains €25–€49 (2026)",
-          "booking": "Open to non-guests too; à la carte daily 18–22. Book ahead in winter."
+          "name": "Rakas Restaurant & Bar",
+          "city": "Rovaniemi",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, about 6 km from the centre",
+          "angle": "The hotel's main restaurant, open to non-guests as well. The kitchen turns Lapland ingredients into modern à la carte, and the house turned 10 in 2026. Come by taxi or your own car.",
+          "order": "Ask about the seasonal tasting menu.",
+          "hours": "À la carte daily 18:00–22:30, kitchen closes at 22:00.",
+          "booking": "Book ahead in the winter season.",
+          "rating": "",
+          "ratingCount": "Not in our snapshot yet"
         }
       ]
     },
-    "courseFlow": {
-      "kicker": "What you're actually paying for",
-      "headline": "A Finnish tasting menu, course by course.",
-      "lead": "The structure is consistent across both Helsinki Michelin rooms and Lapland's flagship kitchens. Knowing the rough flow helps you pace the wine, leave room for dessert, and not panic when the bill arrives.",
-      "items": [
-        {
-          "n": "01",
-          "label": "Welcome bites",
-          "body": "Two or three small bites at the table: pickled vegetables, smoked fish on rye, a foraged-herb broth shot. Sets the seasonal tone."
-        },
-        {
-          "n": "02",
-          "label": "Cold opener",
-          "body": "Arctic char or whitefish in some form: cured, smoked, or as tartare. Almost always with a foraged-herb element."
-        },
-        {
-          "n": "03",
-          "label": "Hot starter",
-          "body": "Mushroom or root vegetable dish in autumn; berry or herb-led plate in summer. Where chefs show off their fermentation work."
-        },
-        {
-          "n": "04",
-          "label": "Fish course",
-          "body": "Pike-perch, trout, or pike, depending on what the local fishermen brought in. Cooked to centre-pink, with a butter-or-cream sauce."
-        },
-        {
-          "n": "05",
-          "label": "Reindeer or game",
-          "body": "The main protein. Fillet sous-vide, slow-braised shoulder, or smoked saddle. Bilberry, lingonberry, or juniper anchor the plate."
-        },
-        {
-          "n": "06",
-          "label": "Cheese (optional)",
-          "body": "Aged Finnish cheese, Lappi-style, with a tar-honey or cloudberry preserve."
-        },
-        {
-          "n": "07",
-          "label": "Pre-dessert",
-          "body": "A small palate cleanser: birch-sap sorbet, cloudberry consommé, lingonberry granita."
-        },
-        {
-          "n": "08",
-          "label": "Dessert",
-          "body": "Cloudberry parfait or chocolate–lingonberry dome are the two most common. Coffee comes in a copper kettle."
-        }
-      ]
+    "helsinki": {
+      "kicker": "What about Helsinki",
+      "headline": "The stars are in Helsinki, and we have not eaten in them.",
+      "lead": "Almost all of Finland's Michelin stars are in Helsinki. We do not list them here as our own reviews, because we have not been to all of them and we are not Michelin. The guide is updated every year and stars move, so the correct list is on the guide's own site.",
+      "linkLabel": "See the star list on guide.michelin.com",
+      "note": "If your trip goes through Helsinki, book directly with the restaurant. Helsinki is 800 kilometres south of Rovaniemi, which makes it a different trip from this one.",
+      "ctaHotels": "Hotels in Helsinki"
     },
-    "bookingNotes": {
-      "headline": "Four things first-timers get wrong.",
-      "lead": "Lapland kitchens are forgiving, but they are still small rooms with chef-led service. These are the four corrections we hand to a friend before their first booking.",
+    "before": {
+      "headline": "Four things worth knowing beforehand.",
+      "lead": "These rooms are small and the evening is long. This is how it turns out the way it should.",
       "items": [
         {
-          "label": "Plan 3 hours minimum",
-          "body": "A full Lapland tasting menu runs 2.5–3.5 hours. Don't book a 9 pm show afterwards."
+          "label": "Book the whole evening",
+          "body": "A multi-course menu runs two and a half hours, sometimes three. Do not book a table right before you have to be somewhere else."
         },
         {
-          "label": "Wine pairing pays off",
-          "body": "Most Lapland flagships have a sommelier picking small-producer European wines. Pairings run €45–€95 on top of the menu."
+          "label": "Wine by the course",
+          "body": "The rooms offer wines matched to each course alongside the menu. It is usually the best addition of the evening, and it often costs as much as the menu itself. Ask the price when you book."
         },
         {
-          "label": "Tell them about allergies early",
-          "body": "Tasting menus are pre-built and use complex foraged ingredients. Allergies / vegetarian / vegan: flag at booking, not on the night."
+          "label": "Mention your diet when booking",
+          "body": "Menus are planned days ahead. An allergy, vegetarian or vegan is easy to handle if you say so when booking. At the table in the evening it is hard."
         },
         {
-          "label": "Smart casual",
-          "body": "No restaurant in Finland will turn you away in jeans, but the rooms expect an effort. Trainers and hoodies feel out of place."
+          "label": "Dress tidily",
+          "body": "Jeans are fine. Trainers and a hoodie stand out in these rooms, even though nobody is turned away at the door."
         }
       ]
     },
     "stayNear": {
-      "headline": "Stay near the kitchens.",
-      "lead": "For a fine-dining trip the cleanest plan is a hotel within a 10-minute walk (or short taxi) of where you're eating. Rovaniemi for Nili / Rakas, Inari for Aanaar.",
-      "ctaRovaniemi": "Hotels near Rovaniemi",
-      "ctaInari": "Hotels near Inari",
-      "tourPrefix": "Want a guide who handles the transport, the reservations, and chef introductions for you?",
-      "tourLabel": "Book an Arctic fine-dining tour"
-    }
+      "headline": "Stay within walking distance.",
+      "lead": "After a fine dining evening the cleanest plan is a hotel a walk or a short taxi ride away. Rovaniemi for Nili and Rakas, Inari for Aanaar.",
+      "ctaRovaniemi": "Hotels in Rovaniemi",
+      "ctaInari": "Hotels in Inari",
+      "tourPrefix": "Would you rather have a guide who handles the transport, the bookings and the chef introductions?",
+      "tourLabel": "Book an Arctic fine dining tour"
+    },
+    "sources": "Opening hours and menu details from the restaurants' own sites, 16 September 2026. Google ratings and Nili's opening hours from our own weekly snapshot, 11 September 2026; Rakas is not in it yet. Star information: guide.michelin.com. We are not connected to the Michelin guide and we do not rate restaurants on their behalf."
   },
   "about": {
     "title": "About LaplandFood",

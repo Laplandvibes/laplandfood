@@ -1835,209 +1835,122 @@
     ]
   },
   "michelinDining": {
-    "title": "Michelin in Finland en fine dining in Lapland",
-    "description": "Waar de Michelinsterren van Finland echt zitten, en de Laplandse top: Nili, Aanaar en Rakas. Menuverloop, reserveringstermijnen en eerlijk advies.",
+    "title": "Fine dining in Lapland: drie zalen, geen enkele Michelinster",
+    "description": "Lapland heeft geen Michelinsterren. Nili, Aanaar en Rakas zijn de drie zalen waar u het best eet: openingstijden, reserveertermijnen en wat u moet bestellen.",
     "hero": {
-      "eyebrow": "Gids 05 · Michelin",
-      "title": "Michelin",
-      "titleHighlight": "& fine dining.",
-      "subtitle": "De Finse Michelin-scène in één oogopslag: wat heeft een ster, waar, wat duwt fine dining boven de Poolcirkel vooruit, en hoe boekt u een tafel.",
-      "primaryCta": "Waar boeken in Lapland",
-      "secondaryCta": "Helsinki-zalen"
+      "eyebrow": "Gids 05 · Fine dining",
+      "title": "Lapland heeft",
+      "titleHighlight": "geen enkele ster.",
+      "subtitle": "De Finse sterren liggen in Helsinki, 800 kilometer zuidelijker. Dat betekent niet dat u hier slecht eet. Het betekent dat het beste eten van Lapland niet op de sterrenlijst staat. Deze pagina vertelt u waar het wel staat.",
+      "primaryCta": "De drie zalen",
+      "secondaryCta": "En Helsinki?"
     },
-    "factsKicker": "De stand van fine dining in Finland",
-    "factsHeadline": "Drie dingen om eerst te weten.",
-    "factsLeadPrefix": "De Michelin-gids voor Noordse landen wordt jaarlijks bijgewerkt, voor de huidige sterrenlijst altijd",
-    "factsLeadSuffix": " controleren. Het structurele beeld hieronder is stabiel en is het juiste startpunt als u een fine-diningreis naar Finland plant.",
-    "facts": [
-      {
-        "title": "Helsinki draagt de sterren",
-        "body": "Finlands Michelinrestaurants concentreren zich in Helsinki: zes van de acht Finse sterrenrestaurants in de Noordse Gids 2026 staan in de hoofdstad. Daarbuiten houden Kaskis in Turku en Vår in Porvoo elk één ster, en sterren komen en gaan."
-      },
-      {
-        "title": "Lapland heeft fine-dining-ambities",
-        "body": "Lapland zelf heeft momenteel geen Michelin-ster, maar zijn premium restaurants, Nili, Aanaar, Rakas, duwen wat een proefmenu-avond binnen de Poolcirkel kan zijn vooruit, met geplukte ingrediënten waarvan geen Helsinki-keuken qua versheid kan tippen."
-      },
-      {
-        "title": "Reserveringen tellen",
-        "body": "Laplandse vlaggenschepen zijn klein (vaak 30–60 couverts) en de chefstafel-plaatsen raken het snelst vol. Boek de winterpiek (half dec → feb) en het middernachtzon-venster (6 juni → 7 juli in Rovaniemi) minstens 6–8 weken vooruit. Helsinki-Michelin-zalen hebben regelmatig 4–6 weken wachttijd."
-      }
-    ],
-    "helsinki": {
-      "kicker": "Michelin Helsinki",
-      "headline": "Zeven zalen het boeken waard in Helsinki.",
-      "lead": "Sterren wisselen per jaar, controleer dus de actuele lijst in de Gids voor u boekt. De zeven hieronder staan in de Noordse Gids 2026 of zaten er jarenlang dichtbij, en reizigers blijven erover praten. De prijsklassen zijn de onze, per persoon zonder drank: € (onder 40 €), €€ (40–80 €), €€€ (80–140 €), €€€€ (boven 140 €).",
-      "ctaHotels": "Hotels in Helsinki",
-      "footnote": "Onafhankelijke redactie. Niet gelieerd aan de Michelin-gids. Ster- en Bib Gourmand-onderscheidingen gelden alleen voor de huidige Noordse Gids, check guide.michelin.com voor u boekt.",
-      "rooms": [
+    "answer": {
+      "kicker": "Zonder omwegen",
+      "headline": "Drie dingen voordat u reserveert.",
+      "leadPrefix": "De Michelingids wordt elk jaar bijgewerkt en sterren verschuiven. De geldende lijst staat altijd op",
+      "leadSuffix": ". Deze drie dingen verschuiven niet.",
+      "points": [
         {
-          "name": "Olo",
-          "where": "Pohjoisesplanadi, Helsinki",
-          "angle": "Langlopend fine-dining-instituut. Proefmenu's geworteld in Finse ingrediënten met klassieke Noordse techniek.",
-          "band": "€€€€",
-          "stars": "★ 2026"
+          "title": "De sterren liggen in het zuiden",
+          "body": "De sterrenrestaurants van Finland liggen in Helsinki, met één in Turku en één in Porvoo. Lapland heeft er geen. Komt u hier voor een ster, dan vindt u die niet."
         },
         {
-          "name": "Palace",
-          "where": "10e verdieping, Eteläranta, havenuitzicht",
-          "angle": "Klassiek Helsinki-havenuitzicht, moderne uitvoering. De klassieke snoekbaars (kuha) is de signatuur.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
+          "title": "Toch drie zalen",
+          "body": "Nili en Rakas in Rovaniemi, Aanaar in Inari. De ingrediënten komen van dichtbij en het bord is tot het eind doordacht. Wij beweren niet dat ze sterrenniveau halen. Wij zeggen dat ze het beste zijn wat er hier is."
         },
         {
-          "name": "Demo",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Compacte proefmenu-zaal, ingrediënt-gedreven, vaak in de Gids geciteerd voor verhouding prijs/vakmanschap.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Grön",
-          "where": "Albertinkatu, Helsinki",
-          "angle": "Plantaardig georiënteerd proefmenu (groenten, vis, geplukt) met een strak wijnarrangement. In 2026 naar twee sterren; snelst volgeboekt van de stad.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
-        },
-        {
-          "name": "Boreal",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Geopend in het najaar van 2025 en binnen een jaar bekroond met een ster. Het hyperseizoensgebonden verrassingsmenu van chef Pasha Demin leunt op fermentatie, wildpluk en kleine lokale leveranciers.",
-          "band": "€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Finnjävel Salonki",
-          "where": "Helsinki",
-          "angle": "Modern Fins, opnieuw bedachte klassiekers; Salonki is de bekroonde proefmenu-zaal. Minder gedempt dan de andere, met meer theatrale service.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Ultima",
-          "where": "Eteläranta, Marktplein",
-          "angle": "Proefmenu waarvan een deel van de producten in huis groeit (hydroponische kruiden, paddenstoelen op koffiedik). Duurzaamheid eerst, aan het water van het Marktplein.",
-          "band": "€€€€",
-          "stars": ""
+          "title": "Reserveer op tijd",
+          "body": "Deze zalen zijn klein. Van half december tot februari en tijdens de middernachtzon zijn de tafels weken vooraf weg. Wij raden aan ongeveer zes weken voor de reis te reserveren."
         }
       ]
     },
     "lapland": {
-      "kicker": "Fine dining in Lapland",
-      "headline": "Drie zalen om te boeken.",
-      "lead": "Dit zijn de keukens die het koken serieus genoeg nemen om met Helsinki te concurreren op bordvakmanschap, terwijl ze vrijwel volledig uit Lapland worden bevoorraad. Geen van hen heeft op het moment van schrijven een Michelin-ster, maar op een horizon van vijf jaar zou elk van hen het kunnen krijgen.",
+      "kicker": "De drie zalen",
+      "headline": "Waar u in Lapland het best eet.",
+      "lead": "Deze drie halen hun ingrediënten van dichtbij en maken er meer van dan rendier met aardappel. Openingstijden en menugegevens zijn op 16 september 2026 gecontroleerd op de eigen sites van de restaurants. De cijfers zijn gebruikersbeoordelingen van Google, geen oordelen van ons.",
       "labels": {
-        "signature": "Signatuurgerechten",
-        "band": "Prijsklasse",
-        "booking": "Reservering",
+        "rating": "Google-beoordeling",
+        "order": "Bestel dit",
+        "hours": "Openingstijden",
+        "booking": "Reserveren",
         "hotelsNearPrefix": "Hotels:"
       },
       "rooms": [
         {
-          "name": "Ravintola Nili",
+          "name": "Restaurant Nili",
           "city": "Rovaniemi",
-          "address": "Valtakatu 20, centrum Rovaniemi",
-          "angle": "De meest geciteerde fine-diningzaal in Lapland. Samisch geworteld: sous-vide rendierfilet met bosbessenreductie is de signatuur, en het wildebessenprogramma leunt op wat de plukkers van Inari die ochtend binnenbrachten. Open keuken, warm houten interieur, een zaal met 65 couverts en Nilin Nesti aan de overkant van de straat.",
-          "signature": "Sous-vide rendierfilet · in dennen gepekelde beekridder · kruipbraamparfait",
-          "band": "€€€, proefmenu en à la carte (actuele prijzen op nili.fi)",
-          "booking": "Boek 3–4 weken vooruit in de zomer en in december; online reserveren via nili.fi."
+          "address": "Valtakatu 20, centrum van Rovaniemi",
+          "angle": "Het bekendste restaurant van Lapland, en die naam is verdiend. Het rendier komt van herders uit de streek en de bessen van plukkers. De zaal is van hout en warm, en het huis werd in het najaar van 2026 twintig jaar.",
+          "order": "Rendier. Daar draait het hele huis om. Het menu wisselt met het seizoen.",
+          "hours": "Di–za 16.00–23.00, zo 14.00–23.00. Maandag gesloten.",
+          "booking": "Tafel reserveren op nili.fi. In september 2026 kostte een viergangenmenu 45 euro per persoon.",
+          "rating": "4,5",
+          "ratingCount": "3.052 beoordelingen"
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Wilderness Hotel Juutua (voorheen Hotel Kultahovi), Saarikoskentie 2, Inari · aan de Juutuanjoki",
-          "angle": "Het dichtst bij een bestemmingsdiner diep in Samenland. De keuken kookt uit Inari's eigen voorraadkast: vis uit het Inarimeer, rendier, engelwortel en korstmos van de fjells, en de wijnkaart is ongewoon diep voor een gemeente van 7.000 inwoners.",
-          "signature": "Vis uit het Inarimeer · rendier · engelwortel en korstmos van de fjells",
-          "band": "€€€, 3-gangenmenu 65 € · 5-gangenmenu 90 € (2026), wijnarrangementen 30–41 €",
-          "booking": "Keuken dagelijks open van 17 tot 22 uur. Boek 6–8 weken vooruit in de winter en in het middernachtzon-venster."
+          "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
+          "angle": "Het restaurant ligt aan de Juutuanjoki midden in Sámi-gebied, en dat is te zien op het bord: vis uit het Inarimeer, rendier en kruiden van de fjells. In Inari wonen ongeveer 7.000 mensen, en toch is het de rit waard.",
+          "order": "Vis uit het Inarimeer.",
+          "hours": "Keuken 17.00–22.00, bestellingen tot 21.00. Bar 9.00–23.00.",
+          "booking": "Reserveren via het hotel. In de winter en tijdens de middernachtzon ruim op tijd reserveren.",
+          "rating": "4,8",
+          "ratingCount": "482 beoordelingen"
         },
         {
-          "name": "Rakas bij Arctic TreeHouse Hotel",
-          "city": "Rovaniemi · gebied Santa Park",
-          "address": "Tarvantie 3, 6 km van het centrum van Rovaniemi · taxi of auto",
-          "angle": "In het hoofdgebouw van het Arctic TreeHouse Hotel, 6 km van het centrum: Laplandse ingrediënten met een moderne twist, dennenappellampen en een open haard. Rendierrack met donkerbiersaus en kruipbraamsorbet dragen het proefmenu.",
-          "signature": "Rendierrack · gemarineerde marene uit Inari · kruipbraamsorbet",
-          "band": "€€€€, 7-gangen proefmenu 120 € · hoofdgerechten à la carte 25–49 € (2026)",
-          "booking": "Ook open voor wie niet in het hotel logeert; à la carte dagelijks van 18 tot 22 uur. Boek vooruit in de winter."
+          "name": "Rakas Restaurant & Bar",
+          "city": "Rovaniemi",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, ongeveer 6 km van het centrum",
+          "angle": "Het hoofdrestaurant van het hotel, ook open voor wie er niet logeert. De keuken maakt van Laplandse ingrediënten een moderne kaart, en het huis werd in 2026 tien jaar. U komt er met de taxi of met de eigen auto.",
+          "order": "Vraag naar het seizoensmenu.",
+          "hours": "À la carte dagelijks 18.00–22.30, de keuken sluit om 22.00.",
+          "booking": "Reserveer vooraf in het winterseizoen.",
+          "rating": "",
+          "ratingCount": "Nog niet in onze meting"
         }
       ]
     },
-    "courseFlow": {
-      "kicker": "Waarvoor u eigenlijk betaalt",
-      "headline": "Een Fins proefmenu, gang per gang.",
-      "lead": "De structuur is consistent over zowel de Helsinki-Michelin-zalen als Laplands vlaggenschipkeukens. De ruwe lijn kennen helpt u de wijn te doseren, ruimte voor dessert te laten en niet in paniek te raken als de rekening komt.",
-      "items": [
-        {
-          "n": "01",
-          "label": "Welkomshapjes",
-          "body": "Twee of drie kleine hapjes aan tafel: ingelegde groente, gerookte vis op roggebrood, een shotje bouillon van geplukte kruiden. Zet de seizoenstoon."
-        },
-        {
-          "n": "02",
-          "label": "Koude opener",
-          "body": "Beekridder of marene in een of andere vorm: gepekeld, gerookt of als tartaar. Bijna altijd met een element van geplukte kruiden."
-        },
-        {
-          "n": "03",
-          "label": "Warm voorgerecht",
-          "body": "Paddenstoel- of wortelgerecht in de herfst; bessen- of kruiden-gedreven gerecht in de zomer. Hier laten de koks hun fermentatiewerk zien."
-        },
-        {
-          "n": "04",
-          "label": "Visgang",
-          "body": "Snoekbaars, forel of snoek, afhankelijk van wat de plaatselijke vissers binnenbrachten. Rosé gegaard, met een boter- of roomsaus."
-        },
-        {
-          "n": "05",
-          "label": "Rendier of wild",
-          "body": "Het hoofdgerecht. Filet sous-vide, langzaam gesmoorde schouder of gerookt zadel. Bosbes, vossenbes of jeneverbes verankeren het bord."
-        },
-        {
-          "n": "06",
-          "label": "Kaas (optioneel)",
-          "body": "Gerijpte Finse kaas in Lappi-stijl, met teerhoning of kruipbraamjam."
-        },
-        {
-          "n": "07",
-          "label": "Pre-dessert",
-          "body": "Een kleine smaakverfrisser: berkensapsorbet, kruipbraamconsommé, vossenbessengranita."
-        },
-        {
-          "n": "08",
-          "label": "Dessert",
-          "body": "Kruipbraamparfait of chocolade-vossenbeskoepel zijn de twee meest voorkomende. De koffie komt in een koperen koffiepot."
-        }
-      ]
+    "helsinki": {
+      "kicker": "En Helsinki",
+      "headline": "De sterren liggen in Helsinki, en daar hebben wij niet gegeten.",
+      "lead": "Bijna alle Michelinsterren van Finland liggen in Helsinki. Wij zetten ze hier niet neer als eigen beoordelingen, omdat wij niet in alle zijn geweest en omdat wij Michelin niet zijn. De gids wordt elk jaar bijgewerkt en sterren verschuiven, dus de juiste lijst staat op de site van de gids.",
+      "linkLabel": "Bekijk de sterrenlijst op guide.michelin.com",
+      "note": "Gaat uw reis via Helsinki, reserveer dan rechtstreeks bij het restaurant. Helsinki ligt 800 kilometer ten zuiden van Rovaniemi, dus dat is een andere reis dan deze.",
+      "ctaHotels": "Hotels in Helsinki"
     },
-    "bookingNotes": {
-      "headline": "Vier dingen die beginners verkeerd doen.",
-      "lead": "Laplandse keukens zijn vergevingsgezind, maar het blijven kleine zalen met chef-geleide bediening. Dit zijn de vier correcties die we een vriend meegeven voor zijn eerste boeking.",
+    "before": {
+      "headline": "Vier dingen die u vooraf wilt weten.",
+      "lead": "Deze zalen zijn klein en de avond is lang. Zo wordt het zoals het hoort.",
       "items": [
         {
-          "label": "Plan minimaal 3 uur",
-          "body": "Een vol Laplands proefmenu duurt 2,5–3,5 uur. Boek daarna geen voorstelling van 21.00 uur."
+          "label": "Reserveer de hele avond",
+          "body": "Een menu met meerdere gangen duurt tweeënhalf uur, soms drie. Reserveer geen tafel vlak voordat u ergens anders moet zijn."
         },
         {
-          "label": "Wijnarrangement loont",
-          "body": "De meeste Laplandse vlaggenschepen hebben een sommelier die kleine Europese producenten kiest. Arrangementen kosten 45–95 € bovenop het menu."
+          "label": "Wijnen per gang",
+          "body": "De zalen bieden naast het menu wijnen die bij elke gang zijn gekozen. Dat is meestal de beste aanvulling van de avond, en het kost vaak evenveel als het menu zelf. Vraag bij het reserveren naar de prijs."
         },
         {
-          "label": "Meld allergieën vroeg",
-          "body": "Proefmenu's zijn vooraf samengesteld en bevatten complexe geplukte ingrediënten. Allergieën / vegetarisch / vegan: meld bij boeking, niet op de avond zelf."
+          "label": "Meld uw dieet bij het reserveren",
+          "body": "Menu's worden dagen vooraf bedacht. Een allergie, vegetarisch of veganistisch is makkelijk te regelen als u het bij de reservering zegt. Aan tafel 's avonds is het lastig."
         },
         {
-          "label": "Smart casual",
-          "body": "Geen restaurant in Finland zal u in jeans weigeren, maar de zalen verwachten wel wat moeite. Sneakers en hoodies vallen uit de toon."
+          "label": "Kleed u netjes",
+          "body": "Spijkerbroek kan prima. Sneakers en een hoodie vallen op in deze zalen, ook al wordt niemand aan de deur geweigerd."
         }
       ]
     },
     "stayNear": {
-      "headline": "Slaap dicht bij de keukens.",
-      "lead": "Voor een fine-diningreis is het simpelste plan een hotel op 10 minuten lopen (of korte taxi) van waar u eet. Rovaniemi voor Nili / Rakas, Inari voor Aanaar.",
-      "ctaRovaniemi": "Hotels bij Rovaniemi",
-      "ctaInari": "Hotels bij Inari",
-      "tourPrefix": "Wilt u een gids die transport, reserveringen en chef-introducties voor u regelt?",
+      "headline": "Slaap op loopafstand.",
+      "lead": "Na een fine-diningavond is een hotel op loopafstand of een korte taxirit het schoonste plan. Rovaniemi voor Nili en Rakas, Inari voor Aanaar.",
+      "ctaRovaniemi": "Hotels in Rovaniemi",
+      "ctaInari": "Hotels in Inari",
+      "tourPrefix": "Wilt u liever een gids die het vervoer, de reserveringen en de kennismaking met de koks regelt?",
       "tourLabel": "Boek een Arctische fine-diningtour"
-    }
+    },
+    "sources": "Openingstijden en menugegevens van de eigen sites van de restaurants, 16 september 2026. Google-beoordelingen en de openingstijden van Nili uit onze eigen wekelijkse meting, 11 september 2026; Rakas zit er nog niet in. Sterreninformatie: guide.michelin.com. Wij hebben geen band met de Michelingids en beoordelen geen restaurants namens de gids."
   },
   "about": {
     "title": "Over LaplandFood",

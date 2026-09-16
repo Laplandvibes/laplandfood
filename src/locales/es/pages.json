@@ -1835,209 +1835,122 @@
     ]
   },
   "michelinDining": {
-    "title": "Michelin en Finlandia y alta cocina en Laponia",
-    "description": "Dónde están realmente las estrellas Michelin de Finlandia, y la alta cocina de Laponia: Nili, Aanaar y Rakas. Menú degustación, reservas y consejo honesto.",
+    "title": "Alta cocina en Laponia: tres salas, ninguna estrella Michelin",
+    "description": "Laponia no tiene estrellas Michelin. Nili, Aanaar y Rakas son las tres salas donde mejor se come: horarios, plazos de reserva y qué pedir.",
     "hero": {
-      "eyebrow": "Guía 05 · Michelin",
-      "title": "Michelin",
-      "titleHighlight": "y alta cocina.",
-      "subtitle": "La escena Michelin de Finlandia de un vistazo: qué tiene estrella, dónde, qué está empujando la alta cocina dentro del Círculo Polar Ártico y cómo reservar mesa de verdad.",
-      "primaryCta": "Dónde reservar en Laponia",
-      "secondaryCta": "Salas de Helsinki"
+      "eyebrow": "Guía 05 · Alta cocina",
+      "title": "Laponia no tiene",
+      "titleHighlight": "ninguna estrella.",
+      "subtitle": "Las estrellas de Finlandia están en Helsinki, 800 kilómetros más al sur. Eso no significa que aquí se coma mal. Significa que la mejor mesa de Laponia no está en la lista de estrellas. Esta página le dice dónde está.",
+      "primaryCta": "Las tres salas",
+      "secondaryCta": "¿Y Helsinki?"
     },
-    "factsKicker": "El estado de la alta cocina en Finlandia",
-    "factsHeadline": "Tres cosas que conviene saber primero.",
-    "factsLeadPrefix": "La Guía Michelin de los países nórdicos se actualiza cada año, para la lista de estrellas vigente, consulta siempre",
-    "factsLeadSuffix": ". El panorama estructural de abajo es estable y es el punto de partida adecuado si planeas un viaje de alta cocina a Finlandia.",
-    "facts": [
-      {
-        "title": "Helsinki acapara las estrellas",
-        "body": "Los restaurantes Michelin de Finlandia se concentran en Helsinki: seis de los ocho restaurantes finlandeses con estrella en la Guía Nórdica 2026 están en la capital. Fuera de ella, Kaskis en Turku y Vår en Porvoo tienen una estrella cada uno, y las estrellas van y vienen."
-      },
-      {
-        "title": "Laponia es ambiciosa en alta cocina",
-        "body": "Laponia en sí no tiene actualmente ninguna estrella Michelin, pero sus restaurantes premium, Nili, Aanaar, Rakas, están empujando lo que puede ser una velada de menú degustación dentro del Círculo Polar Ártico, con ingredientes recolectados que ninguna cocina de Helsinki puede igualar en frescura."
-      },
-      {
-        "title": "Las reservas importan",
-        "body": "Los buques insignia de Laponia son pequeños (a menudo de 30 a 60 cubiertos) y los puestos de la mesa del chef se llenan los primeros. Para el pico de invierno (mediados de dic. → feb.) y la ventana del sol de medianoche (6 de jun. → 7 de jul. en Rovaniemi), reserva al menos con 6–8 semanas de antelación. Las salas Michelin de Helsinki tienen con frecuencia esperas de 4–6 semanas."
-      }
-    ],
-    "helsinki": {
-      "kicker": "Michelin de Helsinki",
-      "headline": "Siete salas que merece reservar en Helsinki.",
-      "lead": "Las estrellas cambian de un año a otro, así que verifique la lista vigente en la Guía antes de reservar. Las siete de abajo están en la Guía Nórdica 2026 o han estado cerca de ella durante años, y los viajeros vuelven hablando de ellas. Las bandas de precio son nuestras, por persona sin bebidas: € (menos de 40 €), €€ (40–80 €), €€€ (80–140 €), €€€€ (más de 140 €).",
-      "ctaHotels": "Hoteles en Helsinki",
-      "footnote": "Editorial independiente. Sin afiliación con la Guía Michelin. Las distinciones de estrellas y los listados Bib Gourmand solo son válidos a fecha de la edición vigente de la Guía Nórdica, consulta guide.michelin.com antes de reservar.",
-      "rooms": [
+    "answer": {
+      "kicker": "Dicho claramente",
+      "headline": "Tres cosas antes de reservar.",
+      "leadPrefix": "La guía Michelin se actualiza cada año y las estrellas se mueven. La lista vigente está siempre en",
+      "leadSuffix": ". Estas tres cosas no se mueven.",
+      "points": [
         {
-          "name": "Olo",
-          "where": "Pohjoisesplanadi, Helsinki",
-          "angle": "Institución de la alta cocina de larga trayectoria. Menús degustación arraigados en ingredientes finlandeses con técnica nórdica clásica.",
-          "band": "€€€€",
-          "stars": "★ 2026"
+          "title": "Las estrellas están en el sur",
+          "body": "Los restaurantes con estrella de Finlandia están en Helsinki, más uno en Turku y otro en Porvoo. Laponia no tiene ninguno. Si viene aquí por una estrella, no la encontrará."
         },
         {
-          "name": "Palace",
-          "where": "Planta 10, Eteläranta, vistas al puerto",
-          "angle": "Vista al puerto de Helsinki a la antigua usanza, ejecución moderna. El plato clásico de pescado finlandés (kuha, lucioperca) es la firma.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
+          "title": "Tres salas aun así",
+          "body": "Nili y Rakas en Rovaniemi, Aanaar en Inari. El producto viene de cerca y el plato está pensado hasta el final. No decimos que estén a nivel de estrella. Decimos que son lo mejor que hay aquí arriba."
         },
         {
-          "name": "Demo",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Sala compacta de menú degustación, guiada por el ingrediente, citada a menudo en la Guía por su relación calidad-oficio.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Grön",
-          "where": "Albertinkatu, Helsinki",
-          "angle": "Menú degustación de raíz vegetal (verduras, pescado, recolectado) con un maridaje ajustado. Subió a dos estrellas en 2026; el que antes se llena de la ciudad.",
-          "band": "€€€€",
-          "stars": "★★ 2026"
-        },
-        {
-          "name": "Boreal",
-          "where": "Uudenmaankatu, Helsinki",
-          "angle": "Abrió en otoño de 2025 y logró la estrella en menos de un año. El menú sorpresa hiperestacional del chef Pasha Demin se apoya en la fermentación, la recolección y pequeños proveedores locales.",
-          "band": "€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Finnjävel Salonki",
-          "where": "Helsinki",
-          "angle": "Cocina finlandesa moderna, clásicos reinventados; Salonki es la sala con estrella del menú degustación. Menos silenciosa que las demás, con un servicio más teatral.",
-          "band": "€€€",
-          "stars": "★ 2026"
-        },
-        {
-          "name": "Ultima",
-          "where": "Eteläranta, Plaza del Mercado",
-          "angle": "Menú degustación con parte de los productos cultivados en la propia casa (hierbas hidropónicas, setas sobre posos de café). Sostenibilidad ante todo, a orillas de la Plaza del Mercado.",
-          "band": "€€€€",
-          "stars": ""
+          "title": "Reserve con tiempo",
+          "body": "Son salas pequeñas. De mediados de diciembre a febrero y durante el sol de medianoche, las mesas vuelan con semanas de antelación. Recomendamos reservar unas seis semanas antes del viaje."
         }
       ]
     },
     "lapland": {
-      "kicker": "Alta cocina de Laponia",
-      "headline": "Tres salas para reservar.",
-      "lead": "Estas son las cocinas que se toman la cocina lo bastante en serio como para competir con Helsinki en oficio de plato, abasteciéndose por completo de Laponia. Ninguna tiene estrella Michelin a fecha de hoy, pero en un horizonte de cinco años cualquiera de ellas podría.",
+      "kicker": "Las tres salas",
+      "headline": "Dónde se come mejor en Laponia.",
+      "lead": "Estas tres se abastecen cerca y hacen con ello algo más que reno con patatas. Los horarios y los datos de los menús se comprobaron en las webs de los propios restaurantes el 16 de septiembre de 2026. Las puntuaciones son valoraciones de usuarios de Google, no valoraciones nuestras.",
       "labels": {
-        "signature": "Platos de autor",
-        "band": "Banda de precio",
+        "rating": "Valoración en Google",
+        "order": "Pida esto",
+        "hours": "Horario",
         "booking": "Reserva",
         "hotelsNearPrefix": "Hoteles:"
       },
       "rooms": [
         {
-          "name": "Ravintola Nili",
+          "name": "Restaurant Nili",
           "city": "Rovaniemi",
           "address": "Valtakatu 20, centro de Rovaniemi",
-          "angle": "La sala de alta cocina más citada de Laponia. Platos de raíz sami: el solomillo de reno a baja temperatura con reducción de arándano es la firma, y el programa de bayas silvestres se apoya en lo que los recolectores de Inari trajeron esa mañana. Cocina abierta, interior de madera cálida, una sala de 65 cubiertos y el Nilin Nesti al otro lado de la calle.",
-          "signature": "Solomillo de reno a baja temperatura · salvelino ártico curado en pino · parfait de mora ártica",
-          "band": "€€€, menú degustación y carta (precios actuales en nili.fi)",
-          "booking": "Reserve con 3–4 semanas de antelación en verano y diciembre; reserva en línea en nili.fi."
+          "angle": "El restaurante más conocido de Laponia, y la fama es merecida. El reno viene de pastores de la zona y las bayas de recolectores. La sala es de madera y cálida, y la casa cumplió 20 años en el otoño de 2026.",
+          "order": "Reno. Es la idea entera de la casa. El menú cambia con la temporada.",
+          "hours": "Mar–sáb 16:00–23:00, dom 14:00–23:00. Cerrado los lunes.",
+          "booking": "Reserva de mesa en nili.fi. En septiembre de 2026, un menú de cuatro platos costaba 45 euros por persona.",
+          "rating": "4,5",
+          "ratingCount": "3052 reseñas"
         },
         {
           "name": "Restaurant Aanaar",
           "city": "Inari",
-          "address": "Wilderness Hotel Juutua (antiguo Hotel Kultahovi), Saarikoskentie 2, Inari · a orillas del río Juutuanjoki",
-          "angle": "Lo más parecido a una experiencia gastronómica de destino en pleno corazón del país sami. La cocina trabaja la despensa de Inari: pescado del lago Inari, reno, angélica y liquen de las montañas, y la carta de vinos es inusualmente profunda para un municipio de 7.000 habitantes.",
-          "signature": "Pescado del lago Inari · reno · angélica y liquen de las montañas",
-          "band": "€€€, menú de 3 pases 65 € · menú de 5 pases 90 € (2026), maridajes 30–41 €",
-          "booking": "Cocina abierta todos los días de 17 a 22 h. Reserve con 6–8 semanas de antelación en invierno y en la ventana del sol de medianoche."
+          "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
+          "angle": "El restaurante está a orillas del Juutuanjoki, en pleno territorio sami, y se nota en el plato: pescado del lago Inari, reno y hierbas de las montañas. En Inari viven unas 7000 personas, y aun así merece el viaje en coche.",
+          "order": "Pescado del lago Inari.",
+          "hours": "Cocina 17:00–22:00, pedidos hasta las 21:00. Bar 9:00–23:00.",
+          "booking": "Reserva a través del hotel. En invierno y durante el sol de medianoche, reserve con mucha antelación.",
+          "rating": "4,8",
+          "ratingCount": "482 reseñas"
         },
         {
-          "name": "Rakas en Arctic TreeHouse Hotel",
-          "city": "Rovaniemi · zona de Santa Park",
-          "address": "Tarvantie 3, a 6 km del centro de Rovaniemi · taxi o coche",
-          "angle": "En el edificio principal del Arctic TreeHouse Hotel, a 6 km del centro: ingredientes lapones con un toque moderno, lámparas de piña y chimenea. El carré de reno con salsa de cerveza negra y el sorbete de mora ártica sostienen el menú degustación.",
-          "signature": "Carré de reno · corégono de Inari curado · sorbete de mora ártica",
-          "band": "€€€€, menú degustación de 7 pases 120 € · principales a la carta 25–49 € (2026)",
-          "booking": "Abierto también a quienes no se alojan en el hotel; carta todos los días de 18 a 22 h. Reserve con antelación en invierno."
+          "name": "Rakas Restaurant & Bar",
+          "city": "Rovaniemi",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, a unos 6 km del centro",
+          "angle": "El restaurante principal del hotel, abierto también a quien no se aloja allí. La cocina convierte el producto lapón en una carta moderna, y la casa cumplió 10 años en 2026. Se llega en taxi o en coche propio.",
+          "order": "Pregunte por el menú degustación de temporada.",
+          "hours": "Carta todos los días 18:00–22:30, la cocina cierra a las 22:00.",
+          "booking": "Reserve con antelación en temporada de invierno.",
+          "rating": "",
+          "ratingCount": "Todavía no está en nuestro registro"
         }
       ]
     },
-    "courseFlow": {
-      "kicker": "Por qué está pagando en realidad",
-      "headline": "Un menú degustación finlandés, pase a pase.",
-      "lead": "La estructura es coherente tanto en las salas Michelin de Helsinki como en las cocinas insignia de Laponia. Conocer la secuencia aproximada ayuda a dosificar el vino, dejar sitio para el postre y no entrar en pánico cuando llega la cuenta.",
-      "items": [
-        {
-          "n": "01",
-          "label": "Aperitivos de bienvenida",
-          "body": "Dos o tres bocados pequeños en la mesa, verduras encurtidas, pescado ahumado sobre centeno, un chupito de caldo de hierbas recolectadas. Marca el tono de la temporada."
-        },
-        {
-          "n": "02",
-          "label": "Entrante frío",
-          "body": "Salvelino ártico o corégono de alguna forma, curado, ahumado o en tartar. Casi siempre con un elemento de hierba recolectada."
-        },
-        {
-          "n": "03",
-          "label": "Entrante caliente",
-          "body": "Plato de setas o de raíz en otoño; plato de bayas o de hierbas en verano. Donde los chefs lucen su trabajo de fermentación."
-        },
-        {
-          "n": "04",
-          "label": "Plato de pescado",
-          "body": "Lucioperca, trucha o lucio, según lo que hayan traído los pescadores locales. Cocinado rosado en el centro, con una salsa de mantequilla o nata."
-        },
-        {
-          "n": "05",
-          "label": "Reno o caza",
-          "body": "La proteína principal. Solomillo a baja temperatura, paletilla a fuego lento o lomo ahumado. Arándano, arándano rojo o enebro anclan el plato."
-        },
-        {
-          "n": "06",
-          "label": "Queso (opcional)",
-          "body": "Queso finlandés curado, estilo Lappi o Tervaleipäjuusto, con una confitura de alquitrán y miel o de mora ártica."
-        },
-        {
-          "n": "07",
-          "label": "Prepostre",
-          "body": "Un pequeño limpiador de paladar, sorbete de savia de abedul, consomé de mora ártica, granizado de arándano rojo."
-        },
-        {
-          "n": "08",
-          "label": "Postre",
-          "body": "El parfait de mora ártica o la cúpula de chocolate y arándano rojo son los dos más comunes. El café llega en una cafetera de cobre."
-        }
-      ]
+    "helsinki": {
+      "kicker": "Y Helsinki",
+      "headline": "Las estrellas están en Helsinki, y nosotros no hemos comido allí.",
+      "lead": "Casi todas las estrellas Michelin de Finlandia están en Helsinki. No las listamos aquí como valoraciones propias, porque no hemos estado en todas y porque no somos Michelin. La guía se actualiza cada año y las estrellas se mueven, así que la lista correcta está en la web de la guía.",
+      "linkLabel": "Ver la lista de estrellas en guide.michelin.com",
+      "note": "Si su viaje pasa por Helsinki, reserve directamente con el restaurante. Helsinki está a 800 kilómetros al sur de Rovaniemi, así que es otro viaje distinto a este.",
+      "ctaHotels": "Hoteles en Helsinki"
     },
-    "bookingNotes": {
-      "headline": "Cuatro cosas que los primerizos hacen mal.",
-      "lead": "Las cocinas de Laponia son indulgentes. Aun así son salas pequeñas con servicio dirigido por el chef. Estas son las cuatro correcciones que le damos a un amigo antes de su primera reserva.",
+    "before": {
+      "headline": "Cuatro cosas que conviene saber antes.",
+      "lead": "Estas salas son pequeñas y la velada es larga. Así sale como debe salir.",
       "items": [
         {
-          "label": "Calcula 3 horas como mínimo",
-          "body": "Un menú degustación completo de Laponia dura entre 2,5 y 3,5 horas. No reserves un espectáculo a las 21:00 después."
+          "label": "Reserve la velada entera",
+          "body": "Un menú de varios platos dura dos horas y media, a veces tres. No reserve mesa justo antes de tener que estar en otro sitio."
         },
         {
-          "label": "El maridaje merece la pena",
-          "body": "La mayoría de los buques insignia de Laponia tienen un sumiller eligiendo vinos europeos de pequeño productor. Los maridajes cuestan entre 45 y 95 € sobre el menú."
+          "label": "Vinos por plato",
+          "body": "Las salas ofrecen vinos elegidos para cada plato junto al menú. Suele ser el mejor añadido de la noche, y a menudo cuesta lo mismo que el menú. Pregunte el precio al reservar."
         },
         {
-          "label": "Avisa pronto de las alergias",
-          "body": "Los menús degustación están prediseñados y traen ingredientes recolectados complejos. Alergias / vegetariano / vegano: indícalo al reservar, no la misma noche."
+          "label": "Diga su dieta al reservar",
+          "body": "Los menús se planifican con días de antelación. Una alergia, una opción vegetariana o vegana se resuelve fácil si lo dice al reservar. En la mesa por la noche es difícil."
         },
         {
-          "label": "Elegante informal",
-          "body": "Ningún restaurante de Finlandia le rechazará en vaqueros, pero las salas esperan un esfuerzo. Las zapatillas y las sudaderas desentonan."
+          "label": "Vista con cuidado",
+          "body": "Los vaqueros valen. Las zapatillas y la sudadera con capucha destacan en estas salas, aunque a nadie se le rechaza en la puerta."
         }
       ]
     },
     "stayNear": {
-      "headline": "Alójate cerca de las cocinas.",
-      "lead": "Para un viaje de alta cocina, el plan más limpio es un hotel a 10 minutos a pie (o un taxi corto) de donde vayas a comer. Rovaniemi para Nili / Rakas, Inari para Aanaar.",
-      "ctaRovaniemi": "Hoteles cerca de Rovaniemi",
-      "ctaInari": "Hoteles cerca de Inari",
-      "tourPrefix": "¿Quiere un guía que se encargue del transporte, las reservas y las presentaciones con el chef por usted?",
-      "tourLabel": "Reservar un tour de alta cocina ártica"
-    }
+      "headline": "Duerma a poca distancia a pie.",
+      "lead": "Después de una velada de alta cocina, el plan más limpio es un hotel a pie o a un taxi corto. Rovaniemi para Nili y Rakas, Inari para Aanaar.",
+      "ctaRovaniemi": "Hoteles en Rovaniemi",
+      "ctaInari": "Hoteles en Inari",
+      "tourPrefix": "¿Prefiere un guía que se encargue del transporte, las reservas y las visitas a la cocina?",
+      "tourLabel": "Reservar una ruta gastronómica ártica"
+    },
+    "sources": "Horarios y datos de menús tomados de las webs de los propios restaurantes el 16 de septiembre de 2026. Valoraciones de Google y horarios de Nili de nuestro propio registro semanal, 11 de septiembre de 2026; Rakas todavía no está incluido. Datos sobre estrellas: guide.michelin.com. No tenemos vínculo con la guía Michelin ni valoramos restaurantes en su nombre."
   },
   "about": {
     "title": "Sobre LaplandFood",
