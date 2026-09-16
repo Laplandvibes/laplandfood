@@ -1955,93 +1955,93 @@
   },
   "about": {
     "title": "Über LaplandFood",
-    "description": "Was LaplandFood ist, wie Themen gewählt werden, redaktionelle Grundsätze und wie Partnerlinks gekennzeichnet sind. Teil des #LaplandVibes-Netzwerks.",
+    "description": "Was LaplandFood ist, wie Themen ausgewählt werden, unsere redaktionellen Grundsätze und wie Partnerlinks gekennzeichnet sind. Teil des #LaplandVibes-Netzwerks.",
     "hero": {
       "kicker": "Über LaplandFood",
-      "headline": "Finnisches Essen, von innen geschrieben.",
-      "lead": "LaplandFood ist die Kulturkarten-Seite des LaplandVibes-Netzwerks: unabhängige Redaktion zur finnischen Esskultur, zur Herkunft der Zutaten, zu traditionellen Sámi-Rezepten, zur modernen arktischen Küche und dazu, wo in Lappland tatsächlich gegessen wird."
+      "headline": "Finnisches Essen, von hier oben geschrieben.",
+      "lead": "LaplandFood handelt vom finnischen Essen: woher die Zutaten kommen, was die samische Küche daraus macht, was moderne arktische Küche bedeutet und wo man in Lappland wirklich isst. Die Seite gehört zum LaplandVibes-Netzwerk, die Redaktion ist unabhängig."
     },
     "why": {
       "headline": "Warum es diese Seite gibt.",
-      "p1": "Das meiste, was auf Englisch über Lapplands Küche geschrieben wird, liegt an einem von zwei Extremen: luftige Prospektsprache („magische samische Aromen unter der Mitternachtssonne“) oder komplett belegte akademische Ethnografie, die niemand liest, bevor er einen Tisch bucht. Wir zielen auf die Lücke dazwischen: klare Sätze, konkrete Zutaten und konkrete Restaurants, Zahlen nur, wo Zahlen helfen, geschrieben nördlich des Polarkreises statt an einem Schreibtisch in London.",
-      "p3": "Der Maßstab, den wir an uns anlegen: <strong>Ein Freund, der zum ersten Mal nach Lappland kommt, sollte drei Seiten hier lesen und mit genug Wissen losziehen können, um eine echte Food-Reise zu planen.</strong> Besteht ein Abschnitt diesen Test nicht, schreiben wir ihn neu."
+      "p1": "Das meiste, was auf Englisch über Lapplands Essen geschrieben wird, landet an einem von zwei Extremen. Auf der einen Seite Prospektsprache, magische samische Aromen unter der Mitternachtssonne. Auf der anderen wissenschaftliche Texte, die niemand am Handy liest, bevor er einen Tisch reserviert. Wir schreiben dazwischen: kurze Sätze, genaue Zutaten und genaue Restaurants, Zahlen nur dann, wenn sie helfen, nördlich des Polarkreises statt am Schreibtisch in London.",
+      "p3": "Der Maßstab, den wir an uns anlegen: <strong>Ein Freund, der zum ersten Mal nach Lappland kommt, sollte hier drei Seiten lesen und danach genug verstehen, um eine echte kulinarische Reise zu planen.</strong> Besteht ein Abschnitt diesen Test nicht, schreiben wir ihn neu."
     },
     "cover": {
-      "headline": "Was wir abdecken.",
-      "lead": "Sechs Guides. Jeder ist eine tiefe Seite, die für sich stehen könnte. Zusammen ergeben sie den Feldführer, den wir uns am Anfang gewünscht hätten.",
+      "headline": "Was wir behandeln.",
+      "lead": "Sechs Guides. Jeder funktioniert für sich, und zusammen sind sie der Guide, den wir selbst gern gehabt hätten, als wir damit anfingen.",
       "items": [
         {
           "t": "Lokale Zutaten",
-          "body": "Was hier wächst, schwimmt und wandert. Rentier, Moltebeere, Heidelbeere, arktischer Fisch, gesammelte Kräuter. Woher sie kommen, wann sie am besten sind.",
+          "body": "Was hier wächst, schwimmt und wandert. Rentier, Moltebeere, Blaubeere, arktischer Fisch und gesammelte Kräuter: woher sie kommen und wann sie am besten sind.",
           "href": "/local-ingredients"
         },
         {
           "t": "Traditionelle Rezepte",
-          "body": "Bidos, Gahkku, Sápmi-Fischsuppe, Beerenkissel, mit dem kulturellen Kontext, der erklärt, warum sie so sind, wie sie sind.",
+          "body": "Bidos, Gahkku, samische Fischsuppe und Beerenkissel, mit dem kulturellen Hintergrund, der erklärt, warum sie so sind, wie sie sind.",
           "href": "/traditional-recipes"
         },
         {
           "t": "Modernes Lappland",
-          "body": "New-Nordic-Technik auf Lappland-Zutaten angewendet. Sous-vide, Fermentation, Kaltsalzen, gesammelte Garnituren. Wo Sie das probieren können.",
+          "body": "Neue nordische Technik auf lappländische Zutaten angewandt. Sous vide, Fermentation, Beizen und gesammelte Garnituren, und wo Sie das probieren.",
           "href": "/modern-lapland"
         },
         {
           "t": "Sammelguide",
-          "body": "Fünf zentrale Wildnahrungen, Pilzsicherheit im Detail, ein 8-Monats-Saisonkalender und das Jedermannsrecht, das das Ganze legalisiert.",
+          "body": "Die fünf wichtigsten Wildpflanzen, Pilzsicherheit Schritt für Schritt, ein Saisonkalender über acht Monate und das Jedermannsrecht, das das Sammeln erlaubt.",
           "href": "/foraging-guide"
         },
         {
           "t": "Michelin und Fine Dining",
-          "body": "Die Michelin-Szene Helsinkis, die drei Spitzenhäuser Lapplands, wie ein Tasting-Menü wirklich aussieht und wie eine Reservierung funktioniert.",
+          "body": "Warum Lappland keinen einzigen Stern hat, welche drei Häuser trotzdem die besten sind und wie Sie dort einen Tisch bekommen.",
           "href": "/michelin-dining"
         },
         {
-          "t": "Kulinarische Touren und Kochschulen",
-          "body": "Esserlebnisse, die eine Buchung wert sind, Sámi-Esstouren, Fine-Dining-Rundgänge, Sammeltouren. Kuratiert, nicht vollständig.",
+          "t": "Kulinarische Touren und Kochkurse",
+          "body": "Kulinarische Erlebnisse, die eine Buchung wert sind: samische Essensreisen, Fine-Dining-Touren und Sammelausflüge. Eine ausgewählte Liste, keine vollständige.",
           "href": "/food-tours"
         }
       ]
     },
     "principles": {
-      "headline": "Wie wir unsere Empfehlungen wählen.",
-      "lead": "Wir sind ein unabhängiger Verlag. Die folgenden Prinzipien halten uns ehrlich.",
+      "headline": "Wie wir auswählen, was wir empfehlen.",
+      "lead": "Wir sind ein unabhängiger Verlag. Diese Regeln entscheiden, was auf die Seite kommt.",
       "items": [
         {
-          "t": "Empfehlen wie an einen Freund",
-          "body": "Der einfachste Filter. Jedes Restaurant, jede Tour, jeder Zutatenlieferant und jeder Erzeuger auf dieser Seite ist einer, an den wir einen Freund schicken würden. Wenn wir das nicht täten, kommt es nicht auf die Seite."
+          "t": "Empfiehl es wie einem Freund",
+          "body": "Der einfachste Filter. Jedes Restaurant, jede Tour und jeder Erzeuger auf dieser Seite ist einer, zu dem wir einen Freund schicken würden. Wenn nicht, kommt er nicht auf die Seite."
         },
         {
-          "t": "Genauigkeit vor Atmosphäre",
-          "body": "Eine Aussage wie „Lapplands bestes Fine Dining“ ist ohne Präzision sinnlos. Wir sagen, was zu bestellen ist, was es kostet, wann reserviert werden muss und wo Sie hingehen. Was wir nicht präzise belegen können, lassen wir weg."
+          "t": "Genauigkeit statt Stimmung",
+          "body": "Eine Aussage wie „das beste Fine Dining Lapplands“ bedeutet ohne Genauigkeit nichts. Wir sagen Ihnen, was Sie bestellen sollten, was es kostet, wann Sie reservieren müssen und von wo aus Sie hinlaufen. Was wir nicht prüfen können, lassen wir weg."
         },
         {
-          "t": "Partnerschaft verändert die Redaktion nicht",
-          "body": "Einige Buchungslinks zahlen uns eine Provision, wenn Sie über sie buchen. Keiner dieser Links schaltet Inhalte frei, ändert die Reihenfolge der Empfehlungen oder kauft sich einen Platz auf der Seite. Dieselben Restaurants wären auch ohne Partnerprogramm hier."
+          "t": "Partnerschaften ändern die Redaktion nicht",
+          "body": "Einige Buchungslinks zahlen uns eine Provision, wenn Sie darüber buchen. Keiner davon schaltet Inhalte frei, ändert die Reihenfolge der Empfehlungen oder kauft einen Platz auf der Seite. Dieselben Restaurants stünden hier, gäbe es kein Partnerprogramm."
         },
         {
-          "t": "Keine erfundenen Statistiken, keine erfundenen Zitate",
-          "body": "Wenn wir eine Zahl nennen, gibt es eine Quelle, auf die wir verweisen könnten. Wenn wir einen Koch zitieren, haben wir mit ihm gesprochen. Wenn wir uns bei etwas nicht sicher sind, die aktuelle Zahl der Michelin-Sterne, das genaue Startjahr einer Tradition, sagen wir das und verweisen auf eine maßgebliche Quelle."
+          "t": "Keine erfundenen Zahlen, keine erfundenen Zitate",
+          "body": "Wenn wir eine Zahl nennen, hat sie eine Quelle. Wenn wir einen Koch zitieren, haben wir mit ihm gesprochen. Wenn wir uns bei etwas unsicher sind, sagen wir es und verlinken die Quelle."
         },
         {
-          "t": "Aktualisieren statt löschen",
-          "body": "Restaurants schließen, Köche wechseln, Preise bewegen sich. Wenn wir feststellen, dass eine Seite falsch ist, aktualisieren wir sie mit Datumsstempel. Wir tun nicht so, als hätte es die falsche Version nie gegeben."
+          "t": "Aktualisieren, nicht löschen",
+          "body": "Restaurants schließen, Köche wechseln, Preise bewegen sich. Wenn wir merken, dass eine Seite falsch ist, korrigieren wir sie und setzen ein Datum darunter. Wir tun nicht so, als hätte es die falsche Fassung nie gegeben."
         }
       ]
     },
     "network": {
-      "kicker": "Netzwerk",
-      "headline": "Wo Sie das finden, was diese Seite nicht abdeckt.",
-      "lead": "LaplandFood ist eine Kulturkarten-Seite. Sie ist absichtlich kein Restaurantverzeichnis und keine Buchungsmaschine. Die folgenden Schwesterseiten übernehmen dort, wo wir aufhören:",
-      "diningBody": "Wo Sie <em>tatsächlich einen Tisch reservieren</em>. Restaurantverzeichnis mit Menüs, Öffnungszeiten und direkten Reservierungslinks. Wenn ein Haus hier gelistet ist, finden Sie es dort auf seiner eigenen Seite.",
-      "barsBody": "Bars, Brauereien, Eisbars, Hotelbars, Pubs, in die Finnen wirklich gehen. Getränkekultur, Öffnungszeiten, was eingeschenkt wird.",
-      "nightlifeBody": "Lapplands Nachtleben: DJs, späte Küchen, Live-Musik-Locations, der Kalender der Polarnacht-Partys. Wohin die Nacht geht.",
-      "footnote": "Die Netzwerkleiste am Fuß jeder Seite listet alle LaplandVibes-Seiten (wo übernachten, was tun, Transport, Skigebiete, Huskysafaris, Natur, Arbeiten in Lappland, …)."
+      "kicker": "Das Netzwerk",
+      "headline": "Wo Sie finden, was diese Seite nicht behandelt.",
+      "lead": "LaplandFood handelt davon, was man in Lappland isst und warum. Es ist kein Restaurantverzeichnis und kein Buchungsportal, und soll es auch nicht sein. Diese Schwesterseiten machen dort weiter, wo diese aufhört:",
+      "diningBody": "Wo Sie <em>wirklich einen Tisch reservieren</em>. Ein Verzeichnis Restaurant für Restaurant mit Speisekarten, Öffnungszeiten und direkten Buchungslinks. Was hier erwähnt wird, steht dort.",
+      "barsBody": "Bars, Brauereien, Eisbars, Hotelbars und die Kneipen, in die Finnen tatsächlich gehen. Trinkkultur, Öffnungszeiten und was ins Glas kommt.",
+      "nightlifeBody": "Lappland nach Einbruch der Dunkelheit: DJs, späte Küchen, Livemusik und der Partykalender der Polarnacht.",
+      "footnote": "Die Netzwerkleiste am Fuß jeder Seite listet alle LaplandVibes-Seiten auf: Unterkunft, Aktivitäten, Transport, Skigebiete, Huskysafaris, Natur und Arbeiten in Lappland."
     },
     "contact": {
-      "headline": "Kontakt aufnehmen.",
-      "p1Prefix": "Für alle Anfragen, Redaktion, Partnerschaften, Presse, Korrekturen, faktische Einwände, schreiben Sie an",
+      "headline": "Kontakt.",
+      "p1Prefix": "Redaktion, Partnerschaften, Presse, Korrekturen und Meinungsverschiedenheiten über Fakten: schreiben Sie an",
       "p1Suffix": ". Wir antworten auf Finnisch oder Englisch, in der Regel innerhalb von zwei Werktagen.",
-      "p2": "<strong>Wenn Sie einen Fehler bemerken</strong>, ein geschlossenes Restaurant, eine falsche Öffnungszeit, einen nicht mehr stimmenden Preis, eine falsche Angabe, sagen Sie uns bitte Bescheid. Wir aktualisieren schneller, als wir veröffentlichen.",
+      "p2": "<strong>Wenn Sie einen Fehler entdecken, sagen Sie es uns.</strong> Ein geschlossenes Restaurant, falsche Öffnungszeiten, ein Preis, der nicht mehr stimmt, oder jede andere falsche Angabe. Wir korrigieren schneller, als wir veröffentlichen.",
       "p3Prefix": "Datenschutz, Nutzungsbedingungen und Cookie-Richtlinie finden Sie auf den Seiten",
       "privacyLabel": "Datenschutz",
       "termsLabel": "Nutzungsbedingungen",

@@ -1954,96 +1954,96 @@
   },
   "about": {
     "title": "Over LaplandFood",
-    "description": "Wat LaplandFood is, hoe onderwerpen worden gekozen, onze redactionele principes en hoe affiliatelinks worden gemarkeerd. Deel van het #LaplandVibes-netwerk.",
+    "description": "Wat LaplandFood is, hoe onderwerpen worden gekozen, onze redactionele uitgangspunten en hoe partnerlinks worden aangeduid. Onderdeel van het #LaplandVibes-netwerk.",
     "hero": {
       "kicker": "Over LaplandFood",
-      "headline": "Finse keuken, geschreven van binnenuit.",
-      "lead": "LaplandFood is de \"culturele kaart\"-zustersite in het LaplandVibes-netwerk: onafhankelijke redactie over Finse eetcultuur, herkomst, traditionele Samische recepten, moderne Arctische keukens en waar u in Lapland echt eet."
+      "headline": "Fins eten, van hieruit geschreven.",
+      "lead": "LaplandFood gaat over Fins eten: waar de ingrediënten vandaan komen, wat de Sámi-keuken ermee doet, wat moderne Arctische keuken betekent en waar je in Lapland echt eet. De site hoort bij het LaplandVibes-netwerk, en de redactie is onafhankelijk."
     },
     "why": {
       "headline": "Waarom deze site bestaat.",
-      "p1": "Het meeste wat in het Engels over Laplands eten wordt geschreven, zit op een van twee extremen: luchtige brochuretaal (\"magische Samische smaken onder de middernachtzon\") of volledig van voetnoten voorziene academische etnografie die niemand leest voordat hij een tafel boekt. Wij mikken op het gat ertussen: heldere zinnen, concrete ingrediënten en concrete restaurants, cijfers alleen waar ze helpen, geschreven vanuit het noorden van de poolcirkel en niet vanachter een bureau in Londen.",
-      "p3": "De lat die we onszelf opleggen: <strong>een vriend die voor het eerst in Lapland aankomt, zou hier drie pagina’s moeten kunnen lezen en met genoeg vertrekken om een echte foodtrip te plannen.</strong> Zakt een sectie voor die test, dan schrijven we hem opnieuw."
+      "p1": "Het meeste wat er in het Engels over het eten van Lapland wordt geschreven, belandt in een van twee uitersten. Aan de ene kant brochuretaal, magische Sámi-smaken onder de middernachtzon. Aan de andere kant onderzoeksproza dat niemand op zijn telefoon leest voordat hij een tafel reserveert. Wij schrijven ertussenin: korte zinnen, precieze ingrediënten en precieze restaurants, cijfers alleen als ze helpen, ten noorden van de poolcirkel in plaats van achter een bureau in Londen.",
+      "p3": "De lat die wij onszelf leggen: <strong>een vriend die voor het eerst naar Lapland komt, moet hier drie pagina's kunnen lezen en met genoeg begrip weggaan om een echte culinaire reis te plannen.</strong> Haalt een onderdeel die test niet, dan schrijven we het opnieuw."
     },
     "cover": {
       "headline": "Wat we behandelen.",
-      "lead": "Zes gidsen. Elk een diepe pagina die op zichzelf kan staan. Samen vormen ze de veldgids waarvan we wilden dat hij bestond toen we over deze regio begonnen te schrijven.",
+      "lead": "Zes gidsen. Elk staat op zichzelf, en samen zijn ze de gids die we zelf hadden willen hebben toen we hierover begonnen te schrijven.",
       "items": [
         {
           "t": "Lokale ingrediënten",
-          "body": "Wat hier groeit, zwemt en graast. Rendier, kruipbramen, bosbessen, Arctische vis, geplukte kruiden. Waar ze vandaan komen, wanneer ze op hun top zijn.",
+          "body": "Wat hier groeit, zwemt en loopt. Rendier, kruipbraam, blauwe bosbes, Arctische vis en geplukte kruiden: waar ze vandaan komen en wanneer ze op hun best zijn.",
           "href": "/local-ingredients"
         },
         {
           "t": "Traditionele recepten",
-          "body": "Bidos, Gahkku, Samische vissoep, wildebessenkissel, plus de culturele context die uitlegt waarom ze eruitzien zoals ze eruitzien.",
+          "body": "Bidos, gahkku, Sámi-vissoep en bessenkissel, met de culturele achtergrond die verklaart waarom ze zijn zoals ze zijn.",
           "href": "/traditional-recipes"
         },
         {
           "t": "Modern Lapland",
-          "body": "New Nordic-techniek toegepast op Laplandse ingrediënten. Sous-vide, fermentatie, koud pekelen, geplukte garnering. Waar u het proeft.",
+          "body": "Nieuwe Noordse techniek toegepast op Laplandse ingrediënten. Sous vide, fermenteren, pekelen en geplukte garnering, en waar u dat proeft.",
           "href": "/modern-lapland"
         },
         {
           "t": "Plukgids",
-          "body": "Vijf wilde basisingrediënten, paddenstoelveiligheid in detail, een seizoenskalender maand voor maand en het toegangsrecht dat alles legaal maakt.",
+          "body": "De vijf belangrijkste wilde gewassen, paddenstoelveiligheid stap voor stap, een seizoenskalender over acht maanden en het recht van vrije toegang dat plukken toestaat.",
           "href": "/foraging-guide"
         },
         {
-          "t": "Michelin & fine dining",
-          "body": "Helsinki's Michelin-scène, Laplands drie vlaggenschipzalen, hoe een proefmenu er echt uitziet, hoe boeken werkt.",
+          "t": "Michelin en fine dining",
+          "body": "Waarom Lapland geen enkele ster heeft, welke drie zalen toch de beste zijn en hoe u daar een tafel krijgt.",
           "href": "/michelin-dining"
         },
         {
-          "t": "Foodtours & kookcursussen",
-          "body": "De eetbelevingen die het boeken waard zijn, Samische foodreizen, fine-diningtours, plukwandelingen. Gecureerd, niet uitputtend.",
+          "t": "Foodtours en kookcursussen",
+          "body": "Culinaire ervaringen die een boeking waard zijn: Sámi-eetreizen, fine-diningtours en pluktochten. Een gekozen lijst, geen volledige.",
           "href": "/food-tours"
         }
       ]
     },
     "principles": {
-      "headline": "Hoe we kiezen wat we aanraden.",
-      "lead": "Wij zijn een onafhankelijke uitgever. De principes hieronder zijn hoe we eerlijk blijven.",
+      "headline": "Hoe wij kiezen wat we aanraden.",
+      "lead": "Wij zijn een onafhankelijke uitgever. Deze regels bepalen wat de site haalt.",
       "items": [
         {
-          "t": "Aanraden zoals aan een vriend",
-          "body": "De simpelste filter. Elk restaurant, tour, ingrediëntenleverancier en producent op deze site is er een waar we een vriend naartoe zouden sturen. Zo niet, dan komt het niet op de pagina."
+          "t": "Raad het aan zoals aan een vriend",
+          "body": "Het eenvoudigste filter. Elk restaurant, elke tour en elke producent op deze site is er een waar we een vriend heen zouden sturen. Zo niet, dan komt het er niet op."
         },
         {
-          "t": "Specifiek boven sfeer",
-          "body": "Een uitspraak als \"de beste fine dining van Lapland\" is zonder concrete details zinloos. Wij vertellen u wat te bestellen, wat het kost, wanneer te boeken, waar binnen te lopen. Wat we niet precies kunnen aanwijzen, laten we weg."
+          "t": "Precisie boven sfeer",
+          "body": "Een bewering als „de beste fine dining van Lapland” betekent niets zonder precisie. Wij vertellen wat u moet bestellen, wat het kost, wanneer u moet reserveren en waarvandaan u komt lopen. Wat we niet kunnen controleren, laten we weg."
         },
         {
-          "t": "Affiliate verandert de redactie niet",
-          "body": "Sommige boekingslinks betalen ons een commissie als u via hen boekt. Geen daarvan ontgrendelt content, verandert de volgorde van aanbevelingen of koopt een plek op de pagina. Dezelfde restaurants zouden er staan zonder enig affiliate-programma."
+          "t": "Partnerschappen veranderen de redactie niet",
+          "body": "Sommige boekingslinks leveren ons commissie op als u erdoor boekt. Geen daarvan opent inhoud, verandert de volgorde van aanbevelingen of koopt een plek op de site. Dezelfde restaurants zouden hier staan zonder partnerprogramma."
         },
         {
           "t": "Geen verzonnen cijfers, geen verzonnen citaten",
-          "body": "Als we een getal noemen, heeft het een bron die we kunnen aanwijzen. Als we een chef citeren, hebben we hem gesproken. Zijn we ergens onzeker over, actueel aantal Michelinsterren, exact jaar waarin een traditie begon, dan zeggen we dat en linken we naar de gezaghebbende bron."
+          "body": "Noemen we een cijfer, dan heeft het een bron. Citeren we een kok, dan hebben we die gesproken. Zijn we ergens niet zeker van, dan zeggen we dat hardop en linken we naar de bron."
         },
         {
-          "t": "Bijwerken boven verwijderen",
-          "body": "Restaurants sluiten, koks vertrekken, prijzen verschuiven. Als we ontdekken dat een pagina fout is, werken we hem bij met datumstempel. We doen niet alsof de verkeerde versie nooit bestond."
+          "t": "Bijwerken, niet verwijderen",
+          "body": "Restaurants sluiten, koks wisselen en prijzen bewegen. Als we merken dat een pagina fout is, verbeteren we die en zetten er een datum bij. We doen niet alsof de foute versie er nooit is geweest."
         }
       ]
     },
     "network": {
       "kicker": "Het netwerk",
-      "headline": "Waar naartoe voor wat deze site niet behandelt.",
-      "lead": "LaplandFood is de culturele-kaart-site. Het is bewust geen restaurantgids of boekingsmotor. De zustersites hieronder nemen het over waar deze stopt:",
-      "diningBody": "Waar u <em>echt een tafel boekt</em>. Restaurant-voor-restaurant-overzicht met menu's, tijden en directe boekingslinks. Als een plek hier op een lijst staat, staat hij daar op een pagina.",
-      "barsBody": "Bars, brouwerijen, ijsbars, hotelbars, de lokale pubs waar Finnen echt drinken. Drinkcultuur, openingstijden, wat ze schenken.",
-      "nightlifeBody": "Lapland na het diner: dj's, late keukens, livemuziekzalen, kalender van poolnacht-feesten. Waar de nacht heen gaat.",
-      "footnote": "De volledige netwerkvoettekst onderaan elke pagina noemt alle LaplandVibes-zustersites (waar slapen, dingen om te doen, transport, skigebieden, husky-safari's, natuur, werken in Lapland, …)."
+      "headline": "Waar u vindt wat deze site niet behandelt.",
+      "lead": "LaplandFood gaat over wat men in Lapland eet en waarom. Het is geen restaurantgids en geen boekingssysteem, en dat hoort het ook niet te zijn. Deze zustersites nemen het over waar deze ophoudt:",
+      "diningBody": "Waar u <em>echt een tafel reserveert</em>. Een gids restaurant voor restaurant met menu's, openingstijden en directe boekingslinks. Wordt een zaak hier genoemd, dan staat ze daar.",
+      "barsBody": "Bars, brouwerijen, ijsbars, hotelbars en de kroegen waar Finnen echt komen. Drinkcultuur, openingstijden en wat er in het glas gaat.",
+      "nightlifeBody": "Lapland na het donker: dj's, late keukens, livemuziekzalen en de feestkalender van de poolnacht.",
+      "footnote": "De netwerkbalk onderaan elke pagina somt alle LaplandVibes-sites op: waar u slaapt, wat u doet, vervoer, skigebieden, huskysafari's, natuur en werken in Lapland."
     },
     "contact": {
       "headline": "Neem contact op.",
-      "p1Prefix": "Voor alle vragen (redactie, partnerschappen, pers, correcties, feitelijke geschillen) mailt u naar",
-      "p1Suffix": ". We antwoorden in het Fins of Engels, meestal binnen twee werkdagen.",
-      "p2": "<strong>Ziet u iets dat niet klopt</strong> (een gesloten restaurant, een verkeerde openingstijd, een prijs die niet klopt, een onjuist feit), laat het ons dan weten. We werken sneller bij dan we publiceren.",
-      "p3Prefix": "Voor privacy, voorwaarden en cookiebeleid, zie",
+      "p1Prefix": "Redactie, partnerschappen, pers, correcties en onenigheid over feiten: schrijf naar",
+      "p1Suffix": ". Wij antwoorden in het Fins of Engels, meestal binnen twee werkdagen.",
+      "p2": "<strong>Ziet u een fout, laat het ons weten.</strong> Een gesloten restaurant, verkeerde openingstijden, een prijs die niet meer klopt of welk ander onjuist gegeven dan ook. Wij verbeteren sneller dan we publiceren.",
+      "p3Prefix": "Privacy, gebruiksvoorwaarden en het cookiebeleid staan op de pagina's",
       "privacyLabel": "Privacy",
-      "termsLabel": "Voorwaarden",
+      "termsLabel": "Gebruiksvoorwaarden",
       "cookieLabel": "Cookiebeleid"
     }
   },

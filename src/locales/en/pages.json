@@ -1954,97 +1954,97 @@
   },
   "about": {
     "title": "About LaplandFood",
-    "description": "What LaplandFood is, how topics are chosen, our editorial principles and how affiliate links are disclosed. Part of the #LaplandVibes network.",
+    "description": "What LaplandFood is, how topics are chosen, our editorial principles and how partner links are marked. Part of the #LaplandVibes network.",
     "hero": {
       "kicker": "About LaplandFood",
-      "headline": "Finnish food, written from the inside.",
-      "lead": "LaplandFood is the cultural-map sister site in the LaplandVibes network: independent editorial about Finnish food culture, sourcing, traditional Sami recipes, modern Arctic kitchens, and where to actually eat in Lapland."
+      "headline": "Finnish food, written from up here.",
+      "lead": "LaplandFood is about Finnish food: where the ingredients come from, what the Sámi kitchen does with them, what modern Arctic cooking means, and where people actually eat in Lapland. The site belongs to the LaplandVibes network, and the editorial side is independent."
     },
     "why": {
       "headline": "Why this site exists.",
-      "p1": "Most English-language writing about Lapland food sits at one of two extremes: airy brochure copy (\"magical Sami flavours under the midnight sun\") or fully footnoted academic ethnography nobody reads before booking dinner. We aim for the gap between them: plain sentences, specific ingredients and specific restaurants, numbers only where numbers help, written from north of the Arctic Circle rather than a desk in London.",
-      "p3": "The bar we hold ourselves to: <strong>a friend arriving in Lapland for the first time should be able to read three pages here and leave with enough to plan a real food trip.</strong> If a section fails that test, we rewrite it."
+      "p1": "Most of what gets written about Lapland's food in English lands at one of two extremes. At one end is brochure language, magical Sámi flavours under the midnight sun. At the other is research writing nobody reads on a phone before booking a table. We write in between: short sentences, specific ingredients and specific restaurants, numbers only when they help, from north of the Arctic Circle rather than from a desk in London.",
+      "p3": "The bar we set ourselves: <strong>a friend coming to Lapland for the first time should be able to read three pages here and leave with enough understanding to plan a real food trip.</strong> If a section does not pass that test, we rewrite it."
     },
     "cover": {
       "headline": "What we cover.",
-      "lead": "Six guides. Each is a deep page that could stand alone. Together they form the field guide we wish had existed when we started writing about this region.",
+      "lead": "Six guides. Each one works on its own, and together they are the guide we would have wanted ourselves when we started writing about this.",
       "items": [
         {
-          "t": "Local Ingredients",
-          "body": "What grows, swims, and grazes here. Reindeer, cloudberries, bilberries, Arctic fish, foraged herbs. Where they come from, when they peak.",
+          "t": "Local ingredients",
+          "body": "What grows, swims and walks here. Reindeer, cloudberry, bilberry, Arctic fish and foraged herbs: where they come from and when they are at their best.",
           "href": "/local-ingredients"
         },
         {
-          "t": "Traditional Recipes",
-          "body": "Bidos, Gahkku, Sápmi fish soup, wild-berry kissel, plus the cultural context that explains why they look the way they do.",
+          "t": "Traditional recipes",
+          "body": "Bidos, gahkku, Sámi fish soup and berry kissel, with the cultural background that explains why they are the way they are.",
           "href": "/traditional-recipes"
         },
         {
           "t": "Modern Lapland",
-          "body": "New Nordic technique applied to Lapland ingredients. Sous-vide, fermentation, cold curing, foraged garnish. Where to taste it.",
+          "body": "New Nordic technique applied to Lapland ingredients. Sous vide, fermentation, curing and foraged garnishes, and where you taste them.",
           "href": "/modern-lapland"
         },
         {
-          "t": "Foraging Guide",
-          "body": "Five core wild foods, mushroom safety in detail, a month-by-month seasonal calendar, and the everyman's right that makes it all legal.",
+          "t": "Foraging guide",
+          "body": "The five wild foods that matter most, mushroom safety step by step, an eight-month season calendar, and the right of public access that makes picking legal.",
           "href": "/foraging-guide"
         },
         {
-          "t": "Michelin & Fine Dining",
-          "body": "Helsinki's Michelin scene, Lapland's three flagship rooms, what a tasting menu actually looks like, how booking works.",
+          "t": "Michelin and fine dining",
+          "body": "Why Lapland has no stars at all, which three rooms are the best anyway, and how to get a table in them.",
           "href": "/michelin-dining"
         },
         {
-          "t": "Food Tours & Cooking Classes",
-          "body": "The food experiences worth booking: Sami food journeys, fine-dining tours, foraging walks. Curated, not exhaustive.",
+          "t": "Food tours and cooking classes",
+          "body": "Food experiences worth booking: Sámi food trips, fine dining tours and foraging outings. A selected list, not an exhaustive one.",
           "href": "/food-tours"
         }
       ]
     },
     "principles": {
-      "headline": "How we choose what to recommend.",
-      "lead": "We are an independent publisher. The principles below are how we keep it honest.",
+      "headline": "How we choose what we recommend.",
+      "lead": "We are an independent publisher. These rules decide what makes it onto the page.",
       "items": [
         {
-          "t": "Recommend like you would to a friend",
-          "body": "The simplest filter. Every restaurant, tour, ingredient supplier, and producer on this site is one we would send a friend to. If we wouldn't, it doesn't go on the page."
+          "t": "Recommend it like you would to a friend",
+          "body": "The simplest filter. Every restaurant, tour and producer on this site is one we would send a friend to. If we would not, it does not go on the page."
         },
         {
-          "t": "Specifics over vibes",
-          "body": "A claim like \"the best fine dining in Lapland\" is meaningless without specifics. We tell you what to order, what it costs, when to book, where to walk in from. Anything we can't pin down to a specific, we leave out."
+          "t": "Precision over atmosphere",
+          "body": "A claim like “the best fine dining in Lapland” means nothing without precision. We tell you what to order, what it costs, when to book and where to walk from. What we cannot verify, we leave out."
         },
         {
-          "t": "Affiliate doesn't change the editorial",
-          "body": "Some booking links pay us a commission if you book through them. None of those links unlock content, change the order of recommendations, or buy a place on the page. The same restaurants would be on the page if no affiliate programme existed."
+          "t": "Partnerships do not change the editorial",
+          "body": "Some booking links pay us a commission if you book through them. None of them unlocks content, changes the order of recommendations or buys a place on the page. The same restaurants would be here if no partner programme existed."
         },
         {
-          "t": "No fake stats, no fake quotes",
-          "body": "If we cite a number, it has a source we could point to. If we quote a chef, we spoke to them. If we are uncertain about something (the current Michelin star count, the exact year a tradition started), we say so and link out to the authoritative source."
+          "t": "No invented numbers, no invented quotes",
+          "body": "If we give a number, it has a source. If we quote a chef, we spoke to them. If we are unsure about something, we say so out loud and link to the source."
         },
         {
-          "t": "Update over delete",
-          "body": "Restaurants close, chefs move, prices shift. When we discover a page is wrong we update it with a date stamp. We don't pretend the wrong version never existed."
+          "t": "Update, do not delete",
+          "body": "Restaurants close, chefs change and prices move. When we find a page is wrong, we correct it and date the correction. We do not pretend the wrong version never existed."
         }
       ]
     },
     "network": {
       "kicker": "The network",
-      "headline": "Where to go for the things this site doesn't cover.",
-      "lead": "LaplandFood is the cultural-map site. It is deliberately not a restaurant directory or a booking engine. The sister sites below take over where this one stops:",
-      "diningBody": "Where to <em>actually book a table</em>. Restaurant-by-restaurant directory with menus, hours, and direct booking links. If a place is on a list here, it's on a page there.",
-      "barsBody": "Bars, breweries, ice bars, hotel bars, the local pubs where Finns actually drink. Drink culture, opening hours, what they pour.",
-      "nightlifeBody": "After-dinner Lapland: DJs, late kitchens, live-music venues, polar-night party calendar. Where the night goes.",
-      "footnote": "The full network footer at the bottom of every page lists all the LaplandVibes spokes (where to stay, things to do, transport, ski resorts, husky safaris, nature, work in Lapland, …)."
+      "headline": "Where to find what this site does not cover.",
+      "lead": "LaplandFood is about what people eat in Lapland and why. It is not a restaurant directory or a booking engine, and it is not meant to be. These sister sites carry on where this one stops:",
+      "diningBody": "Where to <em>actually book a table</em>. A restaurant-by-restaurant directory with menus, opening hours and direct booking links. If a place is mentioned here, it is listed there.",
+      "barsBody": "Bars, breweries, ice bars, hotel bars and the local pubs Finns actually use. Drinking culture, opening hours and what goes in the glass.",
+      "nightlifeBody": "Lapland after dark: DJs, late kitchens, live music venues and the polar night party calendar.",
+      "footnote": "The network bar at the foot of every page lists all the LaplandVibes sites: where to stay, what to do, transport, ski resorts, husky safaris, nature and working in Lapland."
     },
     "contact": {
       "headline": "Get in touch.",
-      "p1Prefix": "For all enquiries (editorial, partnerships, press, corrections, factual disputes), write to",
+      "p1Prefix": "Editorial, partnerships, press, corrections and disagreements about facts: write to",
       "p1Suffix": ". We answer in Finnish or English, usually within two working days.",
-      "p2": "<strong>If you spot something wrong</strong> (a closed restaurant, a wrong opening time, a price that doesn't match reality, a fact we got wrong), please tell us. We update faster than we publish.",
-      "p3Prefix": "For privacy, terms, and cookie policy, see",
+      "p2": "<strong>If you spot a mistake, tell us.</strong> A closed restaurant, wrong opening hours, a price that no longer holds or any other wrong detail. We correct faster than we publish.",
+      "p3Prefix": "Privacy, terms and the cookie policy are on the pages",
       "privacyLabel": "Privacy",
       "termsLabel": "Terms",
-      "cookieLabel": "Cookie Policy"
+      "cookieLabel": "Cookie policy"
     }
   },
   "privacy": {

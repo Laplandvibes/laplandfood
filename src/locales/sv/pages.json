@@ -1954,96 +1954,96 @@
   },
   "about": {
     "title": "Om LaplandFood",
-    "description": "Vad LaplandFood är, hur ämnen väljs, våra redaktionella principer och hur affiliatelänkar märks ut. En del av #LaplandVibes-nätverket.",
+    "description": "Vad LaplandFood är, hur ämnen väljs, våra redaktionella principer och hur partnerlänkar märks ut. Del av nätverket #LaplandVibes.",
     "hero": {
       "kicker": "Om LaplandFood",
-      "headline": "Finsk mat, skriven inifrån.",
-      "lead": "LaplandFood är den kulturella kartans systersajt i LaplandVibes-nätverket: oberoende redaktionellt innehåll om finsk matkultur, råvaror, traditionella samiska recept, moderna arktiska kök och var du faktiskt ska äta i Lappland."
+      "headline": "Finsk mat, skriven härifrån.",
+      "lead": "LaplandFood handlar om finsk mat: varifrån råvarorna kommer, vad det samiska köket gör med dem, vad modern arktisk matlagning betyder och var man faktiskt äter i Lappland. Sajten hör till nätverket LaplandVibes, och redaktionen är oberoende."
     },
     "why": {
       "headline": "Varför den här sajten finns.",
-      "p1": "Det mesta som skrivs på engelska om Lapplandsmat hamnar i en av två ytterligheter: luftig broschyrtext (\"magiska samiska smaker under midnattssolen\") eller helt fotnotstyngd akademisk etnografi som ingen läser innan de bokar middag. Vi siktar på mellanrummet: enkla meningar, specifika råvaror och specifika restauranger, siffror bara där siffror hjälper, skrivet norr om polcirkeln snarare än vid ett skrivbord i London.",
-      "p3": "Ribban vi håller oss till: <strong>en vän som kommer till Lappland för första gången ska kunna läsa tre sidor här och gå därifrån med tillräckligt för att planera en riktig matresa.</strong> Om ett avsnitt inte klarar det testet skriver vi om det."
+      "p1": "Det mesta som skrivs om Lapplands mat på engelska hamnar i något av två ytterlägen. I det ena finns broschyrspråket, magiska samiska smaker under midnattssolen. I det andra finns forskningstext som ingen läser i mobilen innan hen bokar bord. Vi skriver däremellan: korta meningar, exakta råvaror och exakta restauranger, siffror bara när de hjälper, norr om polcirkeln i stället för vid ett skrivbord i London.",
+      "p3": "Ribban vi sätter för oss själva: <strong>en vän som kommer till Lappland för första gången ska kunna läsa tre sidor här och gå därifrån med tillräcklig förståelse för att planera en riktig matresa.</strong> Klarar ett avsnitt inte det testet skriver vi om det."
     },
     "cover": {
       "headline": "Vad vi tar upp.",
-      "lead": "Sex guider. Var och en är en djup sida som skulle kunna stå för sig själv. Tillsammans bildar de fältguiden vi önskar hade funnits när vi började skriva om den här regionen.",
+      "lead": "Sex guider. Var och en fungerar på egen hand, och tillsammans är de den guide vi själva hade velat ha när vi började skriva om det här.",
       "items": [
         {
           "t": "Lokala råvaror",
-          "body": "Vad som växer, simmar och betar här. Ren, hjortron, blåbär, arktisk fisk, plockade örter. Var de kommer ifrån, när de är som bäst.",
+          "body": "Vad som växer, simmar och vandrar här. Ren, hjortron, blåbär, arktisk fisk och plockade örter: varifrån de kommer och när de är som bäst.",
           "href": "/local-ingredients"
         },
         {
           "t": "Traditionella recept",
-          "body": "Bidos, gahkku, Sápmi-fisksoppa, kräm på vilda bär, plus det kulturella sammanhang som förklarar varför de ser ut som de gör.",
+          "body": "Bidos, gahkku, samisk fisksoppa och bärkräm, med den kulturella bakgrund som förklarar varför de ser ut som de gör.",
           "href": "/traditional-recipes"
         },
         {
           "t": "Moderna Lappland",
-          "body": "Nynordisk teknik tillämpad på Lapplands råvaror. Sous vide, fermentering, kallgravning, plockad garnering. Var du kan smaka på det.",
+          "body": "Nynordisk teknik på lappländska råvaror. Sous vide, fermentering, rimning och plockade garnityr, och var du smakar dem.",
           "href": "/modern-lapland"
         },
         {
-          "t": "Plockningsguide",
-          "body": "Fem centrala vildmatsråvaror, svampsäkerhet i detalj, en säsongskalender över 8 månader och allemansrätten som gör allt lagligt.",
+          "t": "Plockguide",
+          "body": "De fem viktigaste vilda råvarorna, svampsäkerhet steg för steg, en säsongskalender över åtta månader och allemansrätten som gör plockandet tillåtet.",
           "href": "/foraging-guide"
         },
         {
           "t": "Michelin och fine dining",
-          "body": "Helsingfors Michelin-scen, Lapplands tre flaggskeppsrestauranger, hur en avsmakningsmeny faktiskt ser ut, hur bokningen fungerar.",
+          "body": "Varför Lappland inte har en enda stjärna, vilka tre hus som ändå är bäst och hur du får bord där.",
           "href": "/michelin-dining"
         },
         {
           "t": "Matturer och matlagningskurser",
-          "body": "Matupplevelserna värda att boka, samiska matresor, fine dining-turer, plockningsvandringar. Utvalda, inte uttömmande.",
+          "body": "Matupplevelser värda att boka: samiska matresor, fine dining-turer och plockutflykter. En utvald lista, inte en heltäckande.",
           "href": "/food-tours"
         }
       ]
     },
     "principles": {
-      "headline": "Hur vi väljer vad vi rekommenderar.",
-      "lead": "Vi är en oberoende utgivare. Principerna nedan är hur vi håller det ärligt.",
+      "headline": "Så väljer vi det vi rekommenderar.",
+      "lead": "Vi är en oberoende utgivare. De här reglerna avgör vad som kommer med på sidan.",
       "items": [
         {
-          "t": "Rekommendera som du skulle göra till en vän",
-          "body": "Det enklaste filtret. Varje restaurang, tur, råvaruleverantör och producent på den här sajten är en vi skulle skicka en vän till. Skulle vi inte det, hamnar den inte på sidan."
+          "t": "Rekommendera som till en vän",
+          "body": "Det enklaste filtret. Varje restaurang, tur och producent på den här sajten är en vi skulle skicka en vän till. Om vi inte skulle det kommer den inte med."
         },
         {
-          "t": "Konkret framför känsla",
-          "body": "Ett påstående som \"den bästa fine diningen i Lappland\" är meningslöst utan detaljer. Vi berättar vad du ska beställa, vad det kostar, när du ska boka, var du går in ifrån. Allt vi inte kan knyta till något konkret lämnar vi bort."
+          "t": "Exakthet före stämning",
+          "body": "Ett påstående som ”Lapplands bästa fine dining” betyder ingenting utan exakthet. Vi berättar vad du ska beställa, vad det kostar, när du ska boka och varifrån du går dit. Det vi inte kan kontrollera utelämnar vi."
         },
         {
-          "t": "Affiliate ändrar inte innehållet",
-          "body": "Vissa bokningslänkar ger oss provision om du bokar via dem. Ingen av de länkarna låser upp innehåll, ändrar ordningen på rekommendationerna eller köper en plats på sidan. Samma restauranger skulle finnas på sidan om inget affiliateprogram fanns."
+          "t": "Partnerskap ändrar inte redaktionen",
+          "body": "Vissa bokningslänkar ger oss provision om du bokar via dem. Ingen av dem låser upp innehåll, ändrar ordningen på rekommendationerna eller köper en plats på sidan. Samma restauranger hade funnits här utan partnerprogram."
         },
         {
           "t": "Inga påhittade siffror, inga påhittade citat",
-          "body": "Om vi anger en siffra har den en källa vi kan peka på. Om vi citerar en kock har vi pratat med hen. Om vi är osäkra på något, aktuellt antal Michelin-stjärnor, exakt vilket år en tradition började, säger vi det och länkar till den auktoritativa källan."
+          "body": "Om vi anger en siffra har den en källa. Om vi citerar en kock har vi pratat med hen. Om vi är osäkra på något säger vi det rakt ut och länkar till källan."
         },
         {
-          "t": "Uppdatera framför att radera",
-          "body": "Restauranger stänger, kockar flyttar, priser skiftar. När vi upptäcker att en sida är fel uppdaterar vi den med en datumstämpel. Vi låtsas inte att den felaktiga versionen aldrig fanns."
+          "t": "Uppdatera, radera inte",
+          "body": "Restauranger stänger, kockar byts ut och priser rör sig. När vi märker att en sida har fel rättar vi den och sätter ut datum. Vi låtsas inte att den felaktiga versionen aldrig fanns."
         }
       ]
     },
     "network": {
       "kicker": "Nätverket",
-      "headline": "Vart du går för det den här sajten inte tar upp.",
-      "lead": "LaplandFood är sajten med den kulturella kartan. Den är medvetet inte en restaurangkatalog eller en bokningsmotor. Systersajterna nedan tar vid där den här slutar:",
-      "diningBody": "Var du <em>faktiskt bokar ett bord</em>. En katalog restaurang för restaurang med menyer, öppettider och direkta bokningslänkar. Finns ett ställe på en lista här, finns det på en sida där.",
-      "barsBody": "Barer, bryggerier, isbarer, hotellbarer, de lokala pubar där finnarna faktiskt dricker. Dryckeskultur, öppettider, vad de serverar.",
-      "nightlifeBody": "Lappland efter middagen: DJ:ar, sena kök, livemusikställen, festkalender under polarnatten. Vart natten tar vägen.",
-      "footnote": "Den fullständiga nätverkssidfoten längst ner på varje sida listar alla LaplandVibes-sajter (var du bor, saker att göra, transport, skidorter, huskysafari, natur, jobba i Lappland, …)."
+      "headline": "Var du hittar det som den här sajten inte tar upp.",
+      "lead": "LaplandFood handlar om vad man äter i Lappland och varför. Det är ingen restaurangkatalog och ingen bokningsmotor, och ska inte vara det. De här systersajterna tar vid där den här slutar:",
+      "diningBody": "Var du <em>faktiskt bokar bord</em>. En katalog restaurang för restaurang med menyer, öppettider och direkta bokningslänkar. Nämns ett ställe här finns det där.",
+      "barsBody": "Barer, bryggerier, isbarer, hotellbarer och de lokala pubar finländare faktiskt går till. Dryckeskultur, öppettider och vad som hamnar i glaset.",
+      "nightlifeBody": "Lappland efter mörkrets inbrott: dj:s, sena kök, livemusikställen och kalendern för kaamos-festerna.",
+      "footnote": "Nätverksraden längst ned på varje sida listar alla LaplandVibes-sajter: var du bor, vad du gör, transport, skidorter, huskysafarier, natur och arbete i Lappland."
     },
     "contact": {
-      "headline": "Hör av dig.",
-      "p1Prefix": "För alla förfrågningar, redaktionella, samarbeten, press, rättelser, faktainvändningar, skriv till",
+      "headline": "Kontakta oss.",
+      "p1Prefix": "Redaktion, partnerskap, press, rättelser och invändningar mot fakta: skriv till",
       "p1Suffix": ". Vi svarar på finska eller engelska, oftast inom två arbetsdagar.",
-      "p2": "<strong>Ser du något som är fel</strong>, en stängd restaurang, en felaktig öppettid, ett pris som inte stämmer med verkligheten, ett faktafel, säg till. Vi uppdaterar snabbare än vi publicerar.",
-      "p3Prefix": "För integritet, villkor och cookiepolicy, se",
-      "privacyLabel": "Integritet",
-      "termsLabel": "Villkor",
+      "p2": "<strong>Om du hittar ett fel, säg till.</strong> En stängd restaurang, fel öppettider, ett pris som inte längre stämmer eller vilken annan felaktig uppgift som helst. Vi rättar snabbare än vi publicerar.",
+      "p3Prefix": "Integritetspolicy, användarvillkor och cookiepolicy finns på sidorna",
+      "privacyLabel": "Integritetspolicy",
+      "termsLabel": "Användarvillkor",
       "cookieLabel": "Cookiepolicy"
     }
   },

@@ -1954,96 +1954,96 @@
   },
   "about": {
     "title": "À propos de LaplandFood",
-    "description": "Ce qu’est LaplandFood, comment les sujets sont choisis, nos principes éditoriaux et le marquage des liens partenaires. Membre du réseau #LaplandVibes.",
+    "description": "Ce qu'est LaplandFood, comment les sujets sont choisis, nos principes éditoriaux et comment les liens partenaires sont signalés. Membre du réseau #LaplandVibes.",
     "hero": {
       "kicker": "À propos de LaplandFood",
-      "headline": "La cuisine finlandaise, écrite de l'intérieur.",
-      "lead": "LaplandFood est le site « carte culturelle » sœur dans le réseau LaplandVibes : édito indépendant sur la culture culinaire finlandaise, le sourcing, les recettes sâmes traditionnelles, les cuisines arctiques modernes et où manger vraiment en Laponie."
+      "headline": "La cuisine finlandaise, écrite d'ici.",
+      "lead": "LaplandFood parle de la cuisine finlandaise : d'où viennent les produits, ce que la cuisine sámi en fait, ce que signifie la cuisine arctique moderne et où l'on mange vraiment en Laponie. Le site fait partie du réseau LaplandVibes, et la rédaction est indépendante."
     },
     "why": {
       "headline": "Pourquoi ce site existe.",
-      "p1": "La plupart de ce qui s’écrit en anglais sur la cuisine lapone tombe dans l’un de deux extrêmes : la prose de brochure (\"saveurs samies magiques sous le soleil de minuit\") ou l’ethnographie universitaire entièrement sourcée que personne ne lit avant de réserver une table. Nous visons l’entre-deux : des phrases simples, des ingrédients précis et des restaurants précis, des chiffres seulement quand ils aident, écrit depuis le nord du cercle polaire et non depuis un bureau à Londres.",
-      "p3": "La barre que nous nous fixons : <strong>un ami qui arrive en Laponie pour la première fois devrait pouvoir lire trois pages ici et repartir avec de quoi planifier un vrai voyage culinaire.</strong> Si une section échoue à ce test, nous la réécrivons."
+      "p1": "L'essentiel de ce qui s'écrit en anglais sur la cuisine de Laponie tombe dans l'un de deux extrêmes. D'un côté la langue des brochures, des saveurs sámi magiques sous le soleil de minuit. De l'autre des textes de recherche que personne ne lit sur son téléphone avant de réserver une table. Nous écrivons entre les deux : des phrases courtes, des produits précis et des restaurants précis, des chiffres seulement quand ils servent, depuis le nord du cercle polaire et non depuis un bureau à Londres.",
+      "p3": "La barre que nous nous fixons : <strong>un ami qui vient en Laponie pour la première fois devrait pouvoir lire trois pages ici et repartir avec assez de compréhension pour organiser un vrai voyage gastronomique.</strong> Si une rubrique ne passe pas ce test, nous la réécrivons."
     },
     "cover": {
-      "headline": "Ce que nous couvrons.",
-      "lead": "Six guides. Chacun est une page profonde qui pourrait tenir seule. Ensemble, ils forment le guide de terrain que nous aurions voulu trouver en commençant à écrire sur cette région.",
+      "headline": "Ce que nous traitons.",
+      "lead": "Six guides. Chacun tient debout seul, et ensemble ils forment le guide que nous aurions voulu avoir quand nous avons commencé à écrire là-dessus.",
       "items": [
         {
-          "t": "Ingrédients locaux",
-          "body": "Ce qui pousse, nage et paît ici. Renne, mûres arctiques, myrtilles, poissons arctiques, herbes cueillies. D'où ça vient, quand c'est à son apogée.",
+          "t": "Produits locaux",
+          "body": "Ce qui pousse, nage et marche ici. Renne, mûre arctique, myrtille, poisson arctique et herbes cueillies : d'où ils viennent et quand ils sont au mieux.",
           "href": "/local-ingredients"
         },
         {
           "t": "Recettes traditionnelles",
-          "body": "Bidos, Gahkku, soupe de poisson sâme, kissel aux baies, plus le contexte culturel qui explique pourquoi elles sont ce qu'elles sont.",
+          "body": "Bidos, gahkku, soupe de poisson sámi et kissel aux baies, avec le contexte culturel qui explique pourquoi elles sont ainsi.",
           "href": "/traditional-recipes"
         },
         {
           "t": "Laponie moderne",
-          "body": "Technique New Nordic appliquée aux ingrédients lapons. Sous-vide, fermentation, salaison à froid, garniture cueillie. Où aller goûter.",
+          "body": "La technique nordique appliquée aux produits lapons. Cuisson sous vide, fermentation, salaison et garnitures cueillies, et où les goûter.",
           "href": "/modern-lapland"
         },
         {
           "t": "Guide de cueillette",
-          "body": "Cinq aliments sauvages clés, sécurité champignons en détail, calendrier saisonnier sur 8 mois, et le droit d'accès qui rend tout cela légal.",
+          "body": "Les cinq produits sauvages qui comptent le plus, la sécurité des champignons pas à pas, un calendrier de saison sur huit mois et le droit d'accès à la nature qui rend la cueillette légale.",
           "href": "/foraging-guide"
         },
         {
-          "t": "Michelin & haute gastronomie",
-          "body": "Scène Michelin d'Helsinki, trois salles phares de Laponie, à quoi ressemble vraiment un menu dégustation, comment fonctionne la réservation.",
+          "t": "Michelin et gastronomie",
+          "body": "Pourquoi la Laponie n'a aucune étoile, quelles sont malgré tout les trois meilleures tables et comment y obtenir une place.",
           "href": "/michelin-dining"
         },
         {
-          "t": "Tours gastronomiques & cours de cuisine",
-          "body": "Les expériences culinaires qui valent la réservation, voyages sâmes, tours gastronomiques, balades de cueillette. Sélectionnées, pas exhaustives.",
+          "t": "Tours gourmands et cours de cuisine",
+          "body": "Des expériences qui valent la réservation : voyages autour de la cuisine sámi, tournées gastronomiques et sorties de cueillette. Une liste choisie, pas exhaustive.",
           "href": "/food-tours"
         }
       ]
     },
     "principles": {
       "headline": "Comment nous choisissons ce que nous recommandons.",
-      "lead": "Nous sommes un éditeur indépendant. Voici les principes qui nous gardent honnêtes.",
+      "lead": "Nous sommes un éditeur indépendant. Ces règles décident de ce qui figure sur le site.",
       "items": [
         {
           "t": "Recommander comme à un ami",
-          "body": "Le filtre le plus simple. Chaque restaurant, tour, fournisseur d'ingrédients et producteur sur ce site est un endroit où nous enverrions un ami. Sinon, ça ne va pas sur la page."
+          "body": "Le filtre le plus simple. Chaque restaurant, chaque excursion et chaque producteur présent ici est un endroit où nous enverrions un ami. Sinon, il n'y figure pas."
         },
         {
-          "t": "Précisions plutôt que vibes",
-          "body": "Une affirmation comme « la meilleure haute gastronomie de Laponie » ne veut rien dire sans précisions. Nous vous disons quoi commander, le prix, quand réserver, par où entrer. Tout ce qu'on ne peut pas pointer précisément, on l'omet."
+          "t": "La précision plutôt que l'ambiance",
+          "body": "Une affirmation comme « la meilleure table de Laponie » ne veut rien dire sans précision. Nous disons quoi commander, ce que cela coûte, quand réserver et d'où venir à pied. Ce que nous ne pouvons pas vérifier, nous le laissons de côté."
         },
         {
-          "t": "L'affiliation ne change pas l'édito",
-          "body": "Certains liens de réservation nous versent une commission si vous réservez via eux. Aucun de ces liens ne débloque de contenu, ne change l'ordre des recommandations ni n'achète une place sur la page. Les mêmes restaurants seraient sur la page sans aucun programme d'affiliation."
+          "t": "Les partenariats ne changent pas la rédaction",
+          "body": "Certains liens de réservation nous versent une commission si vous réservez par leur intermédiaire. Aucun ne débloque du contenu, ne modifie l'ordre des recommandations ni n'achète une place sur le site. Les mêmes restaurants y seraient sans aucun programme partenaire."
         },
         {
-          "t": "Pas de stats bidons, pas de citations bidons",
-          "body": "Si nous citons un chiffre, il a une source vérifiable. Si nous citons un chef, nous lui avons parlé. Si nous doutons d'un point, nombre actuel d'étoiles Michelin, année exacte de début d'une tradition, nous le disons et renvoyons à la source autoritaire."
+          "t": "Aucun chiffre inventé, aucune citation inventée",
+          "body": "Si nous donnons un chiffre, il a une source. Si nous citons un chef, nous lui avons parlé. Si nous ne sommes pas sûrs de quelque chose, nous le disons et nous renvoyons à la source."
         },
         {
-          "t": "Mettre à jour plutôt que supprimer",
-          "body": "Les restaurants ferment, les chefs bougent, les prix changent. Quand on découvre qu'une page est fausse, on la met à jour avec un horodatage. On ne fait pas comme si la mauvaise version n'avait jamais existé."
+          "t": "Mettre à jour, pas supprimer",
+          "body": "Des restaurants ferment, des chefs changent, des prix bougent. Quand nous voyons qu'une page est fausse, nous la corrigeons et nous datons la correction. Nous ne faisons pas comme si la mauvaise version n'avait jamais existé."
         }
       ]
     },
     "network": {
       "kicker": "Le réseau",
-      "headline": "Où aller pour ce que ce site ne couvre pas.",
-      "lead": "LaplandFood est le site carte culturelle. Ce n'est délibérément pas un annuaire de restaurants ni un moteur de réservation. Les sites sœurs ci-dessous prennent le relais :",
-      "diningBody": "Où <em>réserver vraiment une table</em>. Annuaire restaurant par restaurant avec menus, horaires et liens de réservation directs. Si un endroit est sur une liste ici, il a une page là-bas.",
-      "barsBody": "Bars, brasseries, bars de glace, bars d'hôtel, pubs où les Finlandais boivent vraiment. Culture du verre, horaires, ce qu'ils servent.",
-      "nightlifeBody": "Laponie d'après dîner : DJ, cuisines tardives, salles de concert, calendrier des soirées polaires. Là où la nuit continue.",
-      "footnote": "Le pied de page complet en bas de chaque page liste tous les sites LaplandVibes (où dormir, choses à faire, transport, stations de ski, safaris en husky, nature, travailler en Laponie…)."
+      "headline": "Où trouver ce que ce site ne traite pas.",
+      "lead": "LaplandFood parle de ce qu'on mange en Laponie et pourquoi. Ce n'est ni un annuaire de restaurants ni un moteur de réservation, et ce n'est pas le but. Ces sites frères prennent le relais là où celui-ci s'arrête :",
+      "diningBody": "Où <em>réserver vraiment une table</em>. Un annuaire restaurant par restaurant avec les cartes, les horaires et des liens de réservation directs. Si un lieu est cité ici, il y figure.",
+      "barsBody": "Bars, brasseries, bars de glace, bars d'hôtel et les pubs où vont réellement les Finlandais. Culture de la boisson, horaires et ce qu'on met dans le verre.",
+      "nightlifeBody": "La Laponie une fois la nuit tombée : DJ, cuisines tardives, salles de concert et le calendrier des fêtes de la nuit polaire.",
+      "footnote": "La barre du réseau en bas de chaque page liste tous les sites LaplandVibes : où dormir, quoi faire, les transports, les stations de ski, les safaris en traîneau, la nature et le travail en Laponie."
     },
     "contact": {
-      "headline": "Nous contacter.",
-      "p1Prefix": "Pour toute demande, édito, partenariats, presse, corrections, contestations factuelles, écrivez à",
-      "p1Suffix": ". Nous répondons en finnois ou en anglais, en général sous deux jours ouvrés.",
-      "p2": "<strong>Si vous repérez une erreur</strong>, restaurant fermé, mauvais horaire, prix qui ne colle pas à la réalité, fait erroné, dites-le-nous. Nous mettons à jour plus vite que nous publions.",
-      "p3Prefix": "Pour la confidentialité, les conditions et la politique de cookies, voir",
+      "headline": "Nous écrire.",
+      "p1Prefix": "Rédaction, partenariats, presse, corrections et désaccords sur les faits : écrivez à",
+      "p1Suffix": ". Nous répondons en finnois ou en anglais, généralement sous deux jours ouvrés.",
+      "p2": "<strong>Si vous repérez une erreur, dites-le-nous.</strong> Un restaurant fermé, un horaire faux, un prix qui n'est plus d'actualité ou toute autre information erronée. Nous corrigeons plus vite que nous publions.",
+      "p3Prefix": "La politique de confidentialité, les conditions d'utilisation et la politique de cookies se trouvent sur les pages",
       "privacyLabel": "Confidentialité",
-      "termsLabel": "Conditions",
+      "termsLabel": "Conditions d'utilisation",
       "cookieLabel": "Politique de cookies"
     }
   },
