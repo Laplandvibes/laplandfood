@@ -146,7 +146,8 @@ export default function MichelinDining() {
                       <span className="block mt-1.5 text-[11px] font-bold tracking-wider text-[#002F6C]/60">{year}</span>
                     </div>
                     <div className="min-w-0">
-                      <h3 className="font-heading tracking-wide text-2xl sm:text-3xl text-[#002F6C] leading-none">{r.name}</h3>
+                      {/* 3xl vasta lg:ssä: 640 px:ssä kortti on 288 px ja "Finnjävel Salonki" katkesi 30 px:llä (mitattu). */}
+                      <h3 className="font-heading tracking-wide text-2xl lg:text-3xl text-[#002F6C] leading-none">{r.name}</h3>
                       <p className="mt-1.5 flex items-center gap-1 text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/60">
                         <MapPin className="w-3 h-3 flex-shrink-0" aria-hidden="true" /> {r.city}
                       </p>
@@ -202,45 +203,59 @@ export default function MichelinDining() {
               </p>
             </div>
 
-            <div className="grid md:grid-cols-3 gap-5">
+            {/* 🔴 Kolme saraketta vasta lg:stä (1024). `md:grid-cols-3` antoi 768 px:ssä
+                227 px leveät kortit, otsikot 2–3 rivillä ja 703 px korkean kortin
+                (mitattu 17.9.2026, Vesa: "ei ole optimoitu ollenkaan tablet näkymässä").
+                Tabletilla kortti on yksin koko leveydellä ja jakaa sisältönsä kahteen
+                palstaan OMAN leveytensä mukaan (@container, @xl = 576 px) — viewportin
+                breakpoint ei erota 700 px:n tablettikorttia 390 px:n työpöytäsarakkeesta. */}
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
               {laplandRooms.map((r, i) => {
                 const cityName = r.city.split('·')[0].trim();
                 return (
-                  <article key={r.name} id={`lapland-room-${i}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white/5 border border-white/15 p-6 hover:border-vibe-pink/40 transition-colors">
+                  <article key={r.name} id={`lapland-room-${i}`} className="@container scroll-mt-24 rounded-2xl bg-white/5 border border-white/15 p-6 hover:border-vibe-pink/40 transition-colors">
                     {/* 🔴 Ei kuvaa: tässä oli AI-kuva oikean ravintolan salista. Kortti on
                         yksi tasainen pinta, ei gradienttiotsaketta (Vesa 17.9.: "tylsän näköiset"). */}
-                    <span className="self-start text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
-                      {r.city}
-                    </span>
-                    <h3 className="font-heading tracking-wide text-3xl text-white leading-none mt-4">{r.name}</h3>
-                    {r.rating && (
-                      <p className="mt-2 flex items-center gap-1.5 text-sm text-white/90">
-                        <Star className="w-4 h-4 text-vibe-pink fill-vibe-pink" aria-hidden="true" />
-                        <span className="font-semibold">{r.rating}</span>
-                        <span className="text-white/70 text-xs">
-                          {t('michelinDining.lapland.labels.rating')} · {r.ratingCount}
+                    {/* @xl = 36 rem = 576 px kortin OMAA leveyttä: 768 px:n tabletissa kortin
+                        sisältö on 672 px (raja @2xl:lle, ei aina ylity), 640 px:n ruudussa 544. */}
+                    <div className="grid gap-4 @xl:grid-cols-[minmax(0,1fr)_17rem] @xl:gap-x-10">
+                      <div className="min-w-0">
+                        <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
+                          {r.city}
                         </span>
-                      </p>
-                    )}
-                    <p className="text-xs text-white/65 mt-3 mb-3 flex items-start gap-1.5">
-                      <MapPin className="w-3 h-3 mt-0.5 flex-shrink-0" aria-hidden="true" /> {r.address}
-                    </p>
-                    <p className="text-sm text-white/85 leading-relaxed mb-4">{r.angle}</p>
+                        <h3 className="font-heading tracking-wide text-3xl text-white leading-none mt-4">{r.name}</h3>
+                        {r.rating && (
+                          <p className="mt-2 flex flex-wrap items-center gap-x-1.5 text-sm text-white/90">
+                            <Star className="w-4 h-4 text-vibe-pink fill-vibe-pink" aria-hidden="true" />
+                            <span className="font-semibold">{r.rating}</span>
+                            <span className="text-white/70 text-xs">
+                              {t('michelinDining.lapland.labels.rating')} · {r.ratingCount}
+                            </span>
+                          </p>
+                        )}
+                        <p className="text-xs text-white/65 mt-3 mb-3 flex items-start gap-1.5">
+                          <MapPin className="w-3 h-3 mt-0.5 flex-shrink-0" aria-hidden="true" /> {r.address}
+                        </p>
+                        <p className="text-sm text-white/85 leading-relaxed">{r.angle}</p>
+                      </div>
 
-                    <dl className="space-y-2 text-xs mb-5">
-                      {([['order', r.order], ['hours', r.hours], ['booking', r.booking]] as const).map(([key, value]) => (
-                        <div key={key}>
-                          <dt className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5">
-                            {t(`michelinDining.lapland.labels.${key}`)}
-                          </dt>
-                          <dd className="text-white/80 leading-snug m-0">{value}</dd>
-                        </div>
-                      ))}
-                    </dl>
+                      <div className="flex flex-col min-w-0">
+                        <dl className="space-y-2 text-xs mb-5">
+                          {([['order', r.order], ['hours', r.hours], ['booking', r.booking]] as const).map(([key, value]) => (
+                            <div key={key}>
+                              <dt className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5">
+                                {t(`michelinDining.lapland.labels.${key}`)}
+                              </dt>
+                              <dd className="text-white/80 leading-snug m-0">{value}</dd>
+                            </div>
+                          ))}
+                        </dl>
 
-                    <AffiliateCTA partner="hotels" sid={`lapland_room_${LAPLAND_SIDS[i]}`} destination={cityName + ', Finland'} className="mt-auto block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
-                      {t('michelinDining.lapland.labels.hotelsNearPrefix')} {cityName}
-                    </AffiliateCTA>
+                        <AffiliateCTA partner="hotels" sid={`lapland_room_${LAPLAND_SIDS[i]}`} destination={cityName + ', Finland'} className="mt-auto block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
+                          {t('michelinDining.lapland.labels.hotelsNearPrefix')} {cityName}
+                        </AffiliateCTA>
+                      </div>
+                    </div>
                   </article>
                 );
               })}
