@@ -1850,6 +1850,11 @@
       "kicker": "Pohjoismaiden Michelin-opas 2026",
       "headline": "Suomen kahdeksan tähtiravintolaa.",
       "lead": "Vuoden 2026 valinnat julkistettiin 1. kesäkuuta 2026: Grön nousi kahteen tähteen, Boreal sai ensimmäisensä ja kaikki muut suomalaiset tähdet säilyivät. Lista muuttuu joka vuosi, joten tarkista opas ennen varausta.",
+      "map": {
+        "legendStars": "Tähtiravintolat 2026",
+        "caption": "Kahdeksan tähtiravintolaa etelässä, kolme salia pohjoisessa: Helsingistä Rovaniemelle on 800 kilometriä.",
+        "aria": "Kartta: Suomen tähtiravintolat ja Lapin kolme salia"
+      },
       "labels": {
         "oneStar": "Yksi Michelin-tähti 2026",
         "twoStars": "Kaksi Michelin-tähteä 2026"

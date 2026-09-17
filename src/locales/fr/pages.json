@@ -1849,6 +1849,11 @@
       "kicker": "Guide MICHELIN Pays nordiques 2026",
       "headline": "Les huit tables étoilées de Finlande.",
       "lead": "La sélection 2026 a été annoncée le 1er juin 2026 : Grön est passé à deux étoiles, Boreal a obtenu sa première, et toutes les autres étoiles finlandaises ont été confirmées. La liste change chaque année, vérifiez donc le guide avant de réserver.",
+      "map": {
+        "legendStars": "Tables étoilées 2026",
+        "caption": "Huit tables étoilées au sud, trois tables au nord : d'Helsinki à Rovaniemi, 800 kilomètres.",
+        "aria": "Carte : les tables étoilées de Finlande et les trois tables de Laponie"
+      },
       "labels": {
         "oneStar": "Une étoile Michelin 2026",
         "twoStars": "Deux étoiles Michelin 2026"

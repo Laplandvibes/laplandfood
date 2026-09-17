@@ -1849,6 +1849,11 @@
       "kicker": "Michelinguiden Norden 2026",
       "headline": "Finlands åtta stjärnrestauranger.",
       "lead": "Urvalet för 2026 tillkännagavs den 1 juni 2026: Grön gick upp till två stjärnor, Boreal fick sin första och alla andra finländska stjärnor behölls. Listan ändras varje år, så kolla guiden innan du bokar.",
+      "map": {
+        "legendStars": "Stjärnrestauranger 2026",
+        "caption": "Åtta stjärnrestauranger i söder, tre hus i norr: från Helsingfors till Rovaniemi är det 800 kilometer.",
+        "aria": "Karta: Finlands stjärnrestauranger och de tre husen i Lappland"
+      },
       "labels": {
         "oneStar": "En Michelinstjärna 2026",
         "twoStars": "Två Michelinstjärnor 2026"

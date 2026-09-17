@@ -7,6 +7,7 @@ import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
+import StarMap from '../components/StarMap';
 import { useLocale } from '../i18n/useLocale';
 
 /**
@@ -27,10 +28,16 @@ import { useLocale } from '../i18n/useLocale';
  * 3. Toimituksen omat kokemukset eivät ole lukijan asia. Korttien faktat ovat
  *    oppaan ja ravintoloiden omia (tähtivuodet, keittiömestarit), ei arvioita.
  *
- * Kortissa EI ole hintaluokkaa, katuosoitetta eikä kuvaa: hintaa emme voi
- * todentaa, osoitteet muuttuvat (Demo muutti 2025) ja ravintolan salista ei
- * esitetä generoitua kuvaa. Tähdet ja kaupunki riittävät — varaus tehdään
- * ravintolan omalla sivulla, ja linkki oppaaseen on yksi.
+ * 🔴 17.9. ilta (Vesa: *"eikö nämä ole aika tylsän näköiset?"*): 11 samanlaista
+ * sinistä gradienttilaatikkoa oli juuri se templaten paneeli, jonka 11.9. sääntö
+ * kieltää. Kuvia ei silti tule: tekoälykuva oikean ravintolan salista on väärä
+ * väite, eikä omia tai lisensoituja kuvia näistä saleista ole. Tilalle aitoa
+ * ainetta: Suomen kartta (StarMap), jossa tähtikaupungit ja Lapin salit ovat
+ * samalla siluetilla 800 km:n päässä toisistaan — sivun ydinväite yhtenä kuvana —
+ * ja kortit, joiden visuaali on itse tähti (iso pinkki ★/★★ Bebasilla), ei
+ * gradienttiotsake. Kortissa ei ole hintaluokkaa, katuosoitetta eikä kuvaa:
+ * hintaa emme voi todentaa, osoitteet muuttuvat (Demo muutti 2025) ja ravintolan
+ * salista ei esitetä generoitua kuvaa.
  *
  * Lapin kolme salia: Googlen arviot viikkotilannekuvasta
  * (`scripts/update-restaurant-ratings.mjs`), aukiolot ravintoloiden sivuilta 16.9.2026.
@@ -44,12 +51,30 @@ interface LaplandRoom {
   rating: string; ratingCount: string;
 }
 interface Note { label: string; body: string }
+interface MapCopy { legendStars: string; caption: string; aria: string }
 
 const NOTE_ICONS = [Clock, Wine, Leaf, Users];
 const LAPLAND_SIDS = ['rovaniemi', 'inari', 'arctic_treehouse'];
 // Suomen valikoima englanniksi: sama maa/kieli-polku kuin oppaan omissa artikkeli- ja
 // ravintolaosoitteissa (guide.michelin.com/fi/en/…). Vanha /en/fi/ oli päätelty, ei luettu.
 const MICHELIN_URL = 'https://guide.michelin.com/fi/en/restaurants';
+/** Tähtikortin indeksi → kartan kaupunki. Kortit 0–5 ovat Helsingissä, 6 Turussa, 7 Porvoossa. */
+const STAR_CITY_SLUG = ['helsinki', 'helsinki', 'helsinki', 'helsinki', 'helsinki', 'helsinki', 'turku', 'porvoo'];
+/** Lapin salien indeksi → kartan kaupunki (Nili Rovaniemi, Aanaar Inari, Rakas Rovaniemi). */
+const ROOM_CITY_SLUG = ['rovaniemi', 'inari', 'rovaniemi'];
+
+function countPins(rows: { city: string }[], slugs: string[]) {
+  const out: { slug: string; label: string; count: number }[] = [];
+  rows.forEach((r, i) => {
+    const slug = slugs[i];
+    if (!slug) return;
+    const label = r.city.split('·')[0].trim();
+    const hit = out.find((p) => p.slug === slug);
+    if (hit) hit.count += 1;
+    else out.push({ slug, label, count: 1 });
+  });
+  return out;
+}
 
 export default function MichelinDining() {
   const { t } = useTranslation('pages');
@@ -57,6 +82,7 @@ export default function MichelinDining() {
   const starRooms = (t('michelinDining.michelin.rooms', { returnObjects: true }) as StarRoom[]) || [];
   const laplandRooms = (t('michelinDining.lapland.rooms', { returnObjects: true }) as LaplandRoom[]) || [];
   const notes = (t('michelinDining.before.items', { returnObjects: true }) as Note[]) || [];
+  const mapCopy = (t('michelinDining.michelin.map', { returnObjects: true }) as MapCopy) || ({} as MapCopy);
 
   return (
     <>
@@ -79,44 +105,62 @@ export default function MichelinDining() {
         {/* Suomen tähtilista 2026 — sivun lupaus, siksi ensimmäisenä */}
         <section id="michelin" className="scroll-mt-16 bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-                {t('michelinDining.michelin.kicker')}
-              </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
-                {t('michelinDining.michelin.headline')}
-              </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed">
-                {t('michelinDining.michelin.lead')}
-              </p>
+            <div className="grid lg:grid-cols-5 gap-10 lg:gap-14 items-center mb-12">
+              <div className="lg:col-span-3 max-w-2xl">
+                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                  {t('michelinDining.michelin.kicker')}
+                </p>
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
+                  {t('michelinDining.michelin.headline')}
+                </h2>
+                <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed">
+                  {t('michelinDining.michelin.lead')}
+                </p>
+              </div>
+              <div className="lg:col-span-2">
+                <StarMap
+                  stars={countPins(starRooms, STAR_CITY_SLUG)}
+                  rooms={countPins(laplandRooms, ROOM_CITY_SLUG)}
+                  legendStars={mapCopy.legendStars}
+                  legendRooms={t('michelinDining.lapland.kicker')}
+                  caption={mapCopy.caption}
+                  ariaLabel={mapCopy.aria}
+                  distance="800 km"
+                />
+              </div>
             </div>
 
-            <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div className="grid sm:grid-cols-2 gap-4">
               {starRooms.map((r) => {
-                const two = (r.stars.match(/★/g) || []).length >= 2;
+                const glyphs = (r.stars.match(/★/g) || []).join('');
+                const year = r.stars.replace(/★/g, '').trim();
+                const two = glyphs.length >= 2;
                 const starsLabel = t(two ? 'michelinDining.michelin.labels.twoStars' : 'michelinDining.michelin.labels.oneStar');
                 return (
-                  <article key={r.name} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden">
-                    {/* Ei kuvaa eikä hintaluokkaa: ks. tiedoston alun perustelu. */}
-                    <div className="bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] px-5 pt-5 pb-4">
-                      <span role="img" aria-label={starsLabel} title={starsLabel} className="inline-block text-[11px] font-bold tracking-wider bg-white/95 text-[#002F6C] px-2.5 py-0.5 rounded-full whitespace-nowrap">
-                        {r.stars}
+                  <article key={r.name} className="flex gap-5 rounded-2xl bg-white border border-[#002F6C]/10 p-5 sm:p-6">
+                    {/* Kortin visuaali on itse tähti — ei gradienttiotsake, ei kuva (ks. tiedoston alku). */}
+                    <div className="flex-shrink-0 w-16 text-center pt-0.5">
+                      <span role="img" aria-label={starsLabel} title={starsLabel} className="block font-heading text-4xl leading-none text-vibe-pink tracking-tight">
+                        {glyphs}
                       </span>
-                      <h3 className="font-heading tracking-wide text-2xl text-white leading-tight mt-3">{r.name}</h3>
-                      <p className="mt-1 flex items-center gap-1 text-xs text-white/80">
+                      <span className="block mt-1.5 text-[11px] font-bold tracking-wider text-[#002F6C]/60">{year}</span>
+                    </div>
+                    <div className="min-w-0">
+                      <h3 className="font-heading tracking-wide text-2xl sm:text-3xl text-[#002F6C] leading-none">{r.name}</h3>
+                      <p className="mt-1.5 flex items-center gap-1 text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/60">
                         <MapPin className="w-3 h-3 flex-shrink-0" aria-hidden="true" /> {r.city}
                       </p>
+                      <p className="mt-3 text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
                     </div>
-                    <p className="p-5 text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
                   </article>
                 );
               })}
             </div>
 
-            <div className="mt-5 rounded-2xl bg-white border border-[#002F6C]/10 p-5 sm:p-6 sm:flex sm:items-baseline sm:gap-6">
-              <p className="font-heading tracking-wide text-xl text-[#002F6C] mb-1 sm:mb-0 sm:w-52 sm:flex-shrink-0">
+            <div className="mt-4 rounded-2xl bg-white border border-[#002F6C]/10 p-5 sm:p-6 sm:flex sm:items-baseline sm:gap-6">
+              <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] leading-none sm:w-56 sm:flex-shrink-0 mb-2 sm:mb-0">
                 {t('michelinDining.michelin.bibLabel')}
-              </p>
+              </h3>
               <p className="text-sm text-[#002F6C]/75 leading-relaxed">{t('michelinDining.michelin.bibBody')}</p>
             </div>
 
@@ -162,45 +206,41 @@ export default function MichelinDining() {
               {laplandRooms.map((r, i) => {
                 const cityName = r.city.split('·')[0].trim();
                 return (
-                  <article key={r.name} id={`lapland-room-${i}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white/5 border border-white/15 overflow-hidden hover:border-vibe-pink/40 transition-all">
-                    {/* 🔴 Ei kuvaa: tässä oli AI-kuva oikean ravintolan salista. Kunnes
-                        omaa valokuvaa on, otsikkolaatta on gradientti. */}
-                    <div className="relative bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] px-6 pt-6 pb-5">
-                      <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
-                        {r.city}
-                      </span>
-                      <h3 className="font-heading tracking-wide text-2xl text-white leading-tight mt-3">{r.name}</h3>
-                      {r.rating && (
-                        <p className="mt-2 flex items-center gap-1.5 text-sm text-white/90">
-                          <Star className="w-4 h-4 text-vibe-pink fill-vibe-pink" aria-hidden="true" />
-                          <span className="font-semibold">{r.rating}</span>
-                          <span className="text-white/70 text-xs">
-                            {t('michelinDining.lapland.labels.rating')} · {r.ratingCount}
-                          </span>
-                        </p>
-                      )}
-                    </div>
-                    <div className="p-6 flex flex-col flex-1">
-                      <p className="text-xs text-white/65 mb-3 flex items-start gap-1.5">
-                        <MapPin className="w-3 h-3 mt-0.5 flex-shrink-0" aria-hidden="true" /> {r.address}
+                  <article key={r.name} id={`lapland-room-${i}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white/5 border border-white/15 p-6 hover:border-vibe-pink/40 transition-colors">
+                    {/* 🔴 Ei kuvaa: tässä oli AI-kuva oikean ravintolan salista. Kortti on
+                        yksi tasainen pinta, ei gradienttiotsaketta (Vesa 17.9.: "tylsän näköiset"). */}
+                    <span className="self-start text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
+                      {r.city}
+                    </span>
+                    <h3 className="font-heading tracking-wide text-3xl text-white leading-none mt-4">{r.name}</h3>
+                    {r.rating && (
+                      <p className="mt-2 flex items-center gap-1.5 text-sm text-white/90">
+                        <Star className="w-4 h-4 text-vibe-pink fill-vibe-pink" aria-hidden="true" />
+                        <span className="font-semibold">{r.rating}</span>
+                        <span className="text-white/70 text-xs">
+                          {t('michelinDining.lapland.labels.rating')} · {r.ratingCount}
+                        </span>
                       </p>
-                      <p className="text-sm text-white/85 leading-relaxed mb-4">{r.angle}</p>
+                    )}
+                    <p className="text-xs text-white/65 mt-3 mb-3 flex items-start gap-1.5">
+                      <MapPin className="w-3 h-3 mt-0.5 flex-shrink-0" aria-hidden="true" /> {r.address}
+                    </p>
+                    <p className="text-sm text-white/85 leading-relaxed mb-4">{r.angle}</p>
 
-                      <dl className="space-y-2 text-xs mb-4">
-                        {([['order', r.order], ['hours', r.hours], ['booking', r.booking]] as const).map(([key, value]) => (
-                          <div key={key}>
-                            <dt className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5">
-                              {t(`michelinDining.lapland.labels.${key}`)}
-                            </dt>
-                            <dd className="text-white/80 leading-snug m-0">{value}</dd>
-                          </div>
-                        ))}
-                      </dl>
+                    <dl className="space-y-2 text-xs mb-5">
+                      {([['order', r.order], ['hours', r.hours], ['booking', r.booking]] as const).map(([key, value]) => (
+                        <div key={key}>
+                          <dt className="text-[10px] uppercase tracking-wider font-semibold text-white/80 mb-0.5">
+                            {t(`michelinDining.lapland.labels.${key}`)}
+                          </dt>
+                          <dd className="text-white/80 leading-snug m-0">{value}</dd>
+                        </div>
+                      ))}
+                    </dl>
 
-                      <AffiliateCTA partner="hotels" sid={`lapland_room_${LAPLAND_SIDS[i]}`} destination={cityName + ', Finland'} className="mt-auto block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
-                        {t('michelinDining.lapland.labels.hotelsNearPrefix')} {cityName}
-                      </AffiliateCTA>
-                    </div>
+                    <AffiliateCTA partner="hotels" sid={`lapland_room_${LAPLAND_SIDS[i]}`} destination={cityName + ', Finland'} className="mt-auto block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
+                      {t('michelinDining.lapland.labels.hotelsNearPrefix')} {cityName}
+                    </AffiliateCTA>
                   </article>
                 );
               })}

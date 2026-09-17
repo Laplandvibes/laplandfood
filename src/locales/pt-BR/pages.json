@@ -1849,6 +1849,11 @@
       "kicker": "Guia MICHELIN Países Nórdicos 2026",
       "headline": "Os oito restaurantes estrelados da Finlândia.",
       "lead": "A seleção 2026 foi anunciada em 1º de junho de 2026: o Grön subiu para duas estrelas, o Boreal ganhou a primeira e todas as outras estrelas finlandesas foram mantidas. A lista muda todo ano, então confira o guia antes de reservar.",
+      "map": {
+        "legendStars": "Restaurantes estrelados 2026",
+        "caption": "Oito restaurantes estrelados no sul, três salas no norte: de Helsinque a Rovaniemi são 800 quilômetros.",
+        "aria": "Mapa: os restaurantes estrelados da Finlândia e as três salas da Lapônia"
+      },
       "labels": {
         "oneStar": "Uma estrela Michelin 2026",
         "twoStars": "Duas estrelas Michelin 2026"
