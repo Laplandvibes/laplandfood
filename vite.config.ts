@@ -7,8 +7,9 @@ import compression from 'vite-plugin-compression2'
 // CRITICAL — see lv_critical_react_dedupe.md.
 // Site imports from `../../shared/`. Without dedupe two React copies ship,
 // useContext returns null and the prod page renders blank.
+import { trailingSlashLinks } from "./src/shared/router/trailingSlashPlugin";
 export default defineConfig({
-  plugins: [react(), tailwindcss(), compression({ algorithms: ['brotliCompress'], threshold: 1024 })],
+  plugins: [trailingSlashLinks(), react(), tailwindcss(), compression({ algorithms: ['brotliCompress'], threshold: 1024 })],
   resolve: {
     dedupe: ['react', 'react-dom', 'react-router', 'react-router-dom'],
   },

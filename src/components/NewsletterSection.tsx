@@ -5,6 +5,10 @@ import { trackNewsletterSignup } from '../lib/analytics'
 import { localePrefix } from '../i18n/config'
 import FounderByline from '../shared/FounderByline';
 
+/** `/privacy` → `/privacy/`: Cloudflare vastaa kauttaviivattomaan osoitteeseen 308:lla,
+ *  ja Google kirjaa jokaisen sellaisen linkin uudelleenohjaukseksi (18.9.2026). */
+const withSlash = (href: string) => href.replace(/^([^?#]*[^/?#])(?=[?#]|$)/, '$1/');
+
 /**
  * [LV-FUNNEL 2026-08-21] Lomakesuppilon eventit Umamiin — paikallinen apuri,
  * ei jaettua importtia (vendoroitu sync on refresh-only). Ei saa koskaan
@@ -234,7 +238,7 @@ export default function NewsletterSection() {
               <span>
                 {consentCopy.consent}{' '}
                 <a
-                  href={privacyHref}
+                  href={withSlash(privacyHref)}
                   target="_blank"
                   rel="noopener"
                   className="underline underline-offset-2 hover:text-white"
