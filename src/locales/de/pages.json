@@ -1843,6 +1843,7 @@
       "title": "Finnlands Michelin-Sterne",
       "titleHighlight": "und wo man in Lappland isst.",
       "subtitle": "Acht finnische Restaurants tragen im Nordic Guide 2026 einen Stern: sechs in Helsinki, eines in Turku, eines in Porvoo. Hier oben steht das beste Essen in drei kleinen Häusern in Rovaniemi und Inari. Diese Seite hat beides, dazu was Sie bestellen und wann Sie reservieren sollten.",
+      "imageAlt": "Lachs mit Dill auf einem handgemachten blauen Keramikteller, auf einem Terrassentisch in Kuusamo, Juli 2026",
       "primaryCta": "Die Sterneliste 2026",
       "secondaryCta": "Die drei Häuser in Lappland"
     },
@@ -1911,7 +1912,13 @@
       ],
       "bibLabel": "Bib Gourmand 2026",
       "bibBody": "Das Preis-Leistungs-Zeichen des Guides ging an drei Restaurants in Helsinki: Nolla, 305 und Bona Fide.",
-      "linkLabel": "Die ganze Liste 2026 auf guide.michelin.com",
+      "north": {
+        "label": "Der nördlichste Michelin-Stern der Welt",
+        "name": "Kvitnes Gård",
+        "place": "Vesterålen, Norwegen",
+        "body": "Im Nordic Guide 2026 erhielt erstmals ein Restaurant nördlich des Polarkreises einen Stern. Der biozertifizierte Hof von Küchenchef Halvar Ellingsen erzeugt einen großen Teil dessen, was er serviert, das Abendessen gibt es in einer einzigen Sitzung, und die Gäste übernachten in Hütten auf dem Hof."
+      },
+      "linkLabel": "Ganze Liste bei Michelin",
       "note": "Helsinki liegt 800 Kilometer südlich von Rovaniemi, das ist also eine andere Reise als diese. Reservieren Sie direkt im Restaurant.",
       "ctaHotels": "Hotels in Helsinki"
     },

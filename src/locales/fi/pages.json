@@ -1843,6 +1843,7 @@
       "title": "Suomen Michelin-tähdet",
       "titleHighlight": "ja missä Lapissa syödään.",
       "subtitle": "Pohjoismaiden oppaassa 2026 on kahdeksan suomalaista tähtiravintolaa: kuusi Helsingissä, yksi Turussa ja yksi Porvoossa. Täällä pohjoisessa paras ruoka löytyy kolmesta pienestä salista Rovaniemellä ja Inarissa. Tällä sivulla ovat molemmat, ja lisäksi mitä tilata ja milloin varata.",
+      "imageAlt": "Lohiannos tillillä käsintehdyllä sinisellä keramiikkalautasella terassipöydällä Kuusamossa, heinäkuu 2026",
       "primaryCta": "Tähtilista 2026",
       "secondaryCta": "Lapin kolme salia"
     },
@@ -1911,7 +1912,13 @@
       ],
       "bibLabel": "Bib Gourmand 2026",
       "bibBody": "Oppaan hinta-laatu-merkinnän saivat kolme helsinkiläistä ravintolaa: Nolla, 305 ja Bona Fide.",
-      "linkLabel": "Koko lista 2026 guide.michelin.comissa",
+      "north": {
+        "label": "Maailman pohjoisin Michelin-tähti",
+        "name": "Kvitnes Gård",
+        "place": "Vesterålen, Norja",
+        "body": "Pohjoismaiden oppaassa 2026 tähti annettiin ensimmäistä kertaa ravintolalle napapiirin pohjoispuolella. Keittiömestari Halvar Ellingsenin luomusertifioitu tila tuottaa suuren osan ruoastaan itse, illallinen syödään yhdessä kattauksessa, ja vieraat yöpyvät tilan mökeissä."
+      },
+      "linkLabel": "Koko lista Michelinin sivuilla",
       "note": "Helsinki on 800 kilometriä Rovaniemeltä etelään, eli se on eri matka kuin tämä. Varaa pöytä suoraan ravintolasta.",
       "ctaHotels": "Hotellit Helsingissä"
     },

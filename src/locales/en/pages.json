@@ -1842,6 +1842,7 @@
       "title": "Michelin stars in Finland,",
       "titleHighlight": "and where to eat in Lapland.",
       "subtitle": "8 restaurants are starred in the 2026 Nordic Guide: 6 in Helsinki, 1 in Turku, 1 in Porvoo. Up here the best food is in 3 small rooms in Rovaniemi and Inari. This page has both, with what to order and when to book.",
+      "imageAlt": "Salmon with dill on a handmade blue ceramic plate, on a terrace table in Kuusamo, July 2026",
       "primaryCta": "The 2026 star list",
       "secondaryCta": "The three Lapland rooms"
     },
@@ -1910,7 +1911,13 @@
       ],
       "bibLabel": "Bib Gourmand 2026",
       "bibBody": "The Guide's good-value mark went to three Helsinki restaurants: Nolla, 305 and Bona Fide.",
-      "linkLabel": "Full 2026 list on guide.michelin.com",
+      "north": {
+        "label": "The world's northernmost Michelin star",
+        "name": "Kvitnes Gård",
+        "place": "Vesterålen, Norway",
+        "body": "In the 2026 Nordic guide a star went to a restaurant north of the Arctic Circle for the first time. Chef Halvar Ellingsen's organic-certified farm grows much of what it serves, dinner is a single evening seating, and guests sleep in cabins on the farm."
+      },
+      "linkLabel": "Full list on Michelin's site",
       "note": "Helsinki is 800 kilometres south of Rovaniemi, so it is a different trip from this one. Book directly with the restaurant.",
       "ctaHotels": "Hotels in Helsinki"
     },

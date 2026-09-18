@@ -1842,6 +1842,7 @@
       "title": "Finlands Michelinstjärnor",
       "titleHighlight": "och var man äter i Lappland.",
       "subtitle": "Åtta finländska restauranger har stjärna i Nordenguiden 2026: sex i Helsingfors, en i Åbo och en i Borgå. Här uppe finns den bästa maten i tre små hus i Rovaniemi och Enare. Den här sidan har båda, plus vad du ska beställa och när du ska boka.",
+      "imageAlt": "Lax med dill på en handgjord blå keramiktallrik, på ett terrassbord i Kuusamo, juli 2026",
       "primaryCta": "Stjärnlistan 2026",
       "secondaryCta": "De tre husen i Lappland"
     },
@@ -1910,7 +1911,13 @@
       ],
       "bibLabel": "Bib Gourmand 2026",
       "bibBody": "Guidens prisvärdhetsmärke gick till tre restauranger i Helsingfors: Nolla, 305 och Bona Fide.",
-      "linkLabel": "Hela listan 2026 på guide.michelin.com",
+      "north": {
+        "label": "Världens nordligaste Michelinstjärna",
+        "name": "Kvitnes Gård",
+        "place": "Vesterålen, Norge",
+        "body": "I Nordenguiden 2026 fick en restaurang norr om polcirkeln en stjärna för första gången. Kökschefen Halvar Ellingsens ekocertifierade gård odlar mycket av det som serveras, middagen äts i en enda sittning och gästerna sover i gårdens stugor."
+      },
+      "linkLabel": "Hela listan hos Michelin",
       "note": "Helsingfors ligger 800 kilometer söder om Rovaniemi, så det är en annan resa än den här. Boka direkt hos restaurangen.",
       "ctaHotels": "Hotell i Helsingfors"
     },

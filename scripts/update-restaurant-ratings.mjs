@@ -39,7 +39,12 @@ const CHECK = process.argv.includes('--check');
 const ROOMS = [
   { i: 0, name: 'Nili', placeId: 'ChIJvySHpvNLK0QRY-dnGYTVum4' },
   { i: 1, name: 'Aanaar', placeId: 'ChIJIVtH72oHzUURUXGuH32HCUc' },
-  // { i: 2, name: 'Rakas', placeId: '' },  ← lisää kun ravintolan OMA id on tiedossa
+  // Rakaksen OMA id, haettu 18.9.2026 Places Text Searchilla (1 kutsu): "Rakas Restaurant
+  // & Bar", Tarvantie 3, primaryType restaurant — ei Arctic TreeHouse Hotelin id.
+  // 🔴 Luku tulee vasta kun id on appin aukiolotilannekuvassa: lisää se
+  // laplandvibes-app-new/src/data/places.ts:ään (+ openhours:allowlist + appin deploy),
+  // ja seuraava viikkoajo hakee sen. Siihen asti tämä rivi vain varoittaa "ei tilannekuvassa".
+  { i: 2, name: 'Rakas', placeId: 'ChIJYwq9aixMK0QRs0fv7kPEeZY' },
 ];
 
 /**

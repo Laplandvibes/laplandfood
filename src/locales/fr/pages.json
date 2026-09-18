@@ -1842,6 +1842,7 @@
       "title": "Les étoiles Michelin de Finlande,",
       "titleHighlight": "et où manger en Laponie.",
       "subtitle": "Huit restaurants finlandais sont étoilés dans le guide nordique 2026 : six à Helsinki, un à Turku, un à Porvoo. Ici, dans le Nord, la meilleure cuisine se trouve dans trois petites salles à Rovaniemi et à Inari. Cette page réunit les deux, avec quoi commander et quand réserver.",
+      "imageAlt": "Saumon à l'aneth dans une assiette en céramique bleue faite main, sur une table en terrasse à Kuusamo, juillet 2026",
       "primaryCta": "La liste étoilée 2026",
       "secondaryCta": "Les trois tables de Laponie"
     },
@@ -1910,7 +1911,13 @@
       ],
       "bibLabel": "Bib Gourmand 2026",
       "bibBody": "La distinction bon rapport qualité-prix du guide est allée à trois tables d'Helsinki : Nolla, 305 et Bona Fide.",
-      "linkLabel": "La liste complète 2026 sur guide.michelin.com",
+      "north": {
+        "label": "L'étoile Michelin la plus septentrionale du monde",
+        "name": "Kvitnes Gård",
+        "place": "Vesterålen, Norvège",
+        "body": "Dans le guide nordique 2026, une étoile est allée pour la première fois à un restaurant situé au nord du cercle polaire. La ferme certifiée bio du chef Halvar Ellingsen produit une grande partie de ce qu'elle sert, le dîner se prend en un seul service et les clients dorment dans des chalets sur place."
+      },
+      "linkLabel": "Liste complète chez Michelin",
       "note": "Helsinki est à 800 kilomètres au sud de Rovaniemi, c'est donc un autre voyage que celui-ci. Réservez directement auprès du restaurant.",
       "ctaHotels": "Hôtels à Helsinki"
     },
