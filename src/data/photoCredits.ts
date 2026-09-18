@@ -60,9 +60,20 @@ export const PHOTO_CREDITS: Record<string, PhotoCredit> = {
   },
 };
 
+/**
+ * 🔴 Avaimet normalisoidaan ajossa. Buildin `scripts/version-images.mjs` lisää
+ * jokaiseen kuvapolkuun `?v=<hash>` — myös TÄMÄN taulun avaimiin, koska ne ovat
+ * merkkijonoja bundlessa. Mitattu 18.9.2026: dev-palvelimella tekijätieto näkyi,
+ * livessä ei, koska avain oli `…jarvenpaa.webp?v=d0fe534c` ja haku vertasi
+ * ilman tunnistetta. Verifioi aina buildista tai livestä, ei dev-palvelimelta.
+ */
+const BY_PATH: Record<string, PhotoCredit> = Object.fromEntries(
+  Object.entries(PHOTO_CREDITS).map(([k, v]) => [k.split('?')[0], v]),
+);
+
 /** Pääkuvan tekijätieto polun perusteella; `.jpg`- ja `.webp`-versio ovat sama kuva. */
 export function creditFor(src?: string): PhotoCredit | undefined {
   if (!src) return undefined;
   const path = src.split('?')[0];
-  return PHOTO_CREDITS[path] ?? PHOTO_CREDITS[path.replace(/\.jpg$/, '.webp')];
+  return BY_PATH[path] ?? BY_PATH[path.replace(/\.jpg$/, '.webp')];
 }
