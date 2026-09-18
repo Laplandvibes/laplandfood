@@ -1,6 +1,9 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import PageBreadcrumb from './PageBreadcrumb'
+import PhotoCredit from './PhotoCredit'
+import { creditFor } from '../data/photoCredits'
 
 interface PageHeroProps {
   eyebrow?: string
@@ -43,6 +46,7 @@ export default function PageHero({
   pillHrefs,
   children,
 }: PageHeroProps) {
+  const { t: tc } = useTranslation('common')
   const renderCta = (cta: { label: string; href: string; external?: boolean; rel?: string }, primary: boolean) => {
     const cls = primary
       ? 'inline-flex items-center justify-center gap-2 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors text-base shadow-[0_4px_24px_rgba(236,72,153,0.35)]'
@@ -78,10 +82,20 @@ export default function PageHero({
       <div className="absolute inset-0 bg-[#001F4A]/40 lg:hidden" />
       <div className="absolute inset-0 hidden lg:block bg-gradient-to-r from-[#001F4A]/58 via-[#002F6C]/16 to-transparent" />
       <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/26 to-transparent" />
+      {/* Avoimen lisenssin kuvan tekijä + lisenssi piirtyy automaattisesti polun
+          perusteella (src/data/photoCredits.ts). Omat kuvat eivät saa merkintää. */}
+      <PhotoCredit credit={creditFor(imageUrl)} label={tc('photo.label')} />
 
       <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center items-center text-center lg:items-start lg:text-left min-h-[72svh] md:min-h-[80svh]">
+        {/* 🔴 Yläotsake kiinteällä Suomen-sinisellä laatalla, ei kuvan päällä vapaana
+            (18.9.2026). Mitattu renderöidystä sivusta, teksti piilotettuna: pinkki
+            varjolla kuvan päällä oli alle 3:1 yhdeksällä sivulla 13:sta ainakin yhdellä
+            leveydellä 390/834/1280 (marjasivut 1,1–1,6). Pinkin luminanssi on ~0,25,
+            joten 4,5:1 vaatii lähes mustan taustan — kuva ei sitä takaa, laatta takaa:
+            #EC4899 / #001F4A = 4,6:1 kuvasta riippumatta. Sama ratkaisu kuin hubin
+            heron lippusiru. */}
         {eyebrow && (
-          <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-4 drop-shadow-[0_2px_12px_rgba(0,15,40,0.9)]">
+          <p className="inline-block max-w-full rounded-2xl sm:rounded-full bg-[#001F4A] px-3.5 py-1.5 text-center leading-snug text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-4">
             {eyebrow}
           </p>
         )}

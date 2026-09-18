@@ -133,7 +133,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           titleHighlight={t(`${k}.hero.titleHighlight`)}
           subtitle={t(`${k}.hero.subtitle`)}
           imageUrl={cfg.hero.image}
-          imageAlt={cfg.hero.alt}
+          imageAlt={t(`${k}.hero.imageAlt`, { defaultValue: cfg.hero.alt })}
           primaryCta={{ label: t(`${k}.hero.primaryCta`), href: to('/foraging-guide') }}
           secondaryCta={{ label: t(`${k}.hero.secondaryCta`), href: to('/berries') }}
           pills={pills}
@@ -168,7 +168,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.season.headline`)}</h2>
               <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.season.lead`)}</p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {phases.map(ph => (
                 <div key={ph.period} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
                   <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full mb-3">{ph.period}</span>
@@ -231,7 +231,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.price.headline`)}</h2>
               <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.price.lead`)}</p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5 mb-10">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
               {facts.map(f => (
                 <div key={f.value} className="rounded-2xl bg-white border border-[#002F6C]/10 p-6">
                   <p className="font-heading tracking-wide text-4xl text-vibe-pink mb-2">{f.value}</p>
@@ -282,7 +282,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">{t(`${k}.where.headline`)}</h2>
               <p className="text-base text-white/85 leading-relaxed mt-5">{t(`${k}.where.lead`)}</p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5 mb-10">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
               {ways.map(w => (
                 <div key={w.n} className="rounded-2xl bg-white/5 border border-white/15 p-6">
                   <p className="font-heading tracking-wide text-3xl text-vibe-pink mb-2">{w.n}</p>
@@ -310,7 +310,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.nextSteps.kicker`)}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">{t(`${k}.nextSteps.headline`)}</h2>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {nextSteps.map((s, i) => {
                 const inner = (
                   <>

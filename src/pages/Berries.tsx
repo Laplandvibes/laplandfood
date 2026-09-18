@@ -186,7 +186,7 @@ export default function Berries() {
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t('berries.nextSteps.kicker')}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">{t('berries.nextSteps.headline')}</h2>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {nextSteps.map((s, i) => {
                 const inner = (
                   <>

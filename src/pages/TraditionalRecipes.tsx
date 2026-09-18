@@ -222,7 +222,7 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.context.headline')}
               </h2>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {context.map((c, i) => {
                 const Icon = CONTEXT_ICONS[i];
                 return (
@@ -251,7 +251,7 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.sapmi.lead')}
               </p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {sapmi.map((s) => (
                 <div key={s.title} className="rounded-2xl bg-white/5 border border-white/15 p-6">
                   <h4 className="font-heading tracking-wide text-xl mb-3">{s.title}</h4>
@@ -278,7 +278,7 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.faq.headline')}
               </h2>
             </div>
-            <dl className="grid md:grid-cols-3 gap-5">
+            <dl className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {faq.map((f) => (
                 <div key={f.question} className="rounded-2xl bg-white border border-[#002F6C]/10 p-6 flex flex-col">
                   <dt className="font-heading tracking-wide text-2xl text-[#002F6C] leading-tight mb-3">{f.question}</dt>

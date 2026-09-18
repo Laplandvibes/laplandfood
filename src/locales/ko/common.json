@@ -92,6 +92,7 @@
     }
   },
   "photo": {
-    "credit": "사진: LaplandVibes"
+    "credit": "사진: LaplandVibes",
+    "label": "사진: "
   }
 }

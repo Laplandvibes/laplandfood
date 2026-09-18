@@ -92,6 +92,7 @@
     }
   },
   "photo": {
-    "credit": "Photo: LaplandVibes"
+    "credit": "Photo: LaplandVibes",
+    "label": "Photo: "
   }
 }

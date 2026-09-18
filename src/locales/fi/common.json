@@ -92,6 +92,7 @@
     }
   },
   "photo": {
-    "credit": "Kuva: LaplandVibes"
+    "credit": "Kuva: LaplandVibes",
+    "label": "Kuva: "
   }
 }

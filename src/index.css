@@ -156,3 +156,14 @@ h1 > span, h2 > span, h3 > span, h4 > span, button > span, summary > span {
     transform: translateY(-50%);
   }
 }
+
+/* Tabletti (768–1023 px): kolmen kortin ruudukko kahteen sarakkeeseen, ja pariton
+   viimeinen kortti koko leveydelle, ettei riville jää yksinäistä puolikasta.
+   🔴 18.9.2026: `md:grid-cols-3` antoi 768 px:ssä 227 px leveät kortit ja 2–3-riviset
+   otsikot 12 sivulla 14:stä (asetteluportin sääntö 8 `puristettu-ruudukko`; sama vika
+   jonka Vesa näki Michelin-sivulla 17.9.: "ei ole optimoitu ollenkaan tablet näkymässä").
+   Ruudukot: `grid md:grid-cols-2 lg:grid-cols-3 lv-grid-3`. Tuotekortit (kuva 4:3) EIVÄT
+   käytä tätä: koko leveydelle venytetty tuotekuva olisi 720 px korkea. */
+@media (min-width: 768px) and (max-width: 1023.98px) {
+  .lv-grid-3 > :last-child:nth-child(odd) { grid-column: 1 / -1; }
+}

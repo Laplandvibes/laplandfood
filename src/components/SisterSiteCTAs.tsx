@@ -46,7 +46,7 @@ export default function SisterSiteCTAs() {
             {t('sisters.subhead')}
           </p>
         </div>
-        <div className="grid md:grid-cols-3 gap-5">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
           {siblings.map((s, i) => (
             <a
               key={SIBLING_HREFS[i]}

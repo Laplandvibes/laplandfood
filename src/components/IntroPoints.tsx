@@ -32,7 +32,7 @@ export default function IntroPoints({ sectionKey }: { sectionKey: string }) {
         <p className="text-xl sm:text-2xl leading-relaxed font-medium text-[#002F6C] max-w-3xl mb-10">
           {t(`${sectionKey}.intro.lead`)}
         </p>
-        <div className="grid md:grid-cols-3 gap-5">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
           {points.map(p => (
             <div
               key={p.n}

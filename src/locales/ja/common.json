@@ -92,6 +92,7 @@
     }
   },
   "photo": {
-    "credit": "写真：LaplandVibes"
+    "credit": "写真：LaplandVibes",
+    "label": "写真："
   }
 }

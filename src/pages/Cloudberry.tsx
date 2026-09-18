@@ -145,7 +145,7 @@ export default function Cloudberry() {
                 {t('cloudberry.season.lead')}
               </p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {phases.map(ph => (
                 <div key={ph.period} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
                   <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full mb-3">
@@ -217,7 +217,7 @@ export default function Cloudberry() {
                 {t('cloudberry.price.lead')}
               </p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5 mb-10">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
               {facts.map(f => (
                 <div key={f.value} className="rounded-2xl bg-white border border-[#002F6C]/10 p-6">
                   <p className="font-heading tracking-wide text-4xl text-vibe-pink mb-2">{f.value}</p>
@@ -285,7 +285,7 @@ export default function Cloudberry() {
                 {t('cloudberry.where.lead')}
               </p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5 mb-10">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
               {ways.map(w => (
                 <div key={w.n} className="rounded-2xl bg-white/5 border border-white/15 p-6">
                   <p className="font-heading tracking-wide text-3xl text-vibe-pink mb-2">{w.n}</p>
@@ -322,7 +322,7 @@ export default function Cloudberry() {
                 {t('cloudberry.nextSteps.headline')}
               </h2>
             </div>
-            <div className="grid md:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {nextSteps.map((s, i) => {
                 const inner = (
                   <>
