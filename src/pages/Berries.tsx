@@ -135,7 +135,7 @@ export default function Berries() {
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t('berries.calendar.kicker')}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">{t('berries.calendar.headline')}</h2>
             </div>
-            <ol className="grid md:grid-cols-5 gap-4">
+            <ol className="grid md:grid-cols-2 lg:grid-cols-5 gap-4 lv-grid-3">
               {calendar.map((c) => (
                 <li key={c.period} className="rounded-2xl bg-white/5 border border-white/15 p-5 flex flex-col">
                   <span className="inline-block self-start text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full mb-3">{c.period}</span>

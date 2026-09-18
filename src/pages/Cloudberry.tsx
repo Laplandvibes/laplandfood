@@ -245,7 +245,7 @@ export default function Cloudberry() {
             </div>
             {/* Kortin kuva kertoo mita kortissa lukee (Vesa 15.9.). Hillokuva
                 siirtyi osion otsikosta siihen korttiin joka puhuu hillosta. */}
-            <div className="grid md:grid-cols-3 gap-5 sm:gap-6">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6 lv-grid-3c">
               {products.map((pr, i) => (
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">

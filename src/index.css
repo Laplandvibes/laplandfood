@@ -166,4 +166,8 @@ h1 > span, h2 > span, h3 > span, h4 > span, button > span, summary > span {
    käytä tätä: koko leveydelle venytetty tuotekuva olisi 720 px korkea. */
 @media (min-width: 768px) and (max-width: 1023.98px) {
   .lv-grid-3 > :last-child:nth-child(odd) { grid-column: 1 / -1; }
+  /* Tuotekortit (kuva 4:3): pariton viimeinen keskelle SAMAN levyisenä kuin muut,
+     ei koko leveydelle. Mitattu 18.9.: pt-BR "Suco de espinheiro-marítimo" rivittyi
+     224 px:n kortissa; suomenkielinen skannaus ei nähnyt sitä (lyhyemmät otsikot). */
+  .lv-grid-3c > :last-child:nth-child(odd) { grid-column: 1 / -1; justify-self: center; width: calc((100% - 1.5rem) / 2); }
 }

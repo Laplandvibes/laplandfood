@@ -251,7 +251,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.products.headline`)}</h2>
               <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.products.lead`)}</p>
             </div>
-            <div className="grid md:grid-cols-3 gap-5 sm:gap-6">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6 lv-grid-3c">
               {products.map((pr, i) => (
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">

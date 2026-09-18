@@ -466,7 +466,7 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.methods.lead')}
               </p>
             </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-5">
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-5">
               {methods.map((m, idx) => (
                 <div key={m.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden text-center">
                   <div className="relative h-28 sm:h-32 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
