@@ -66,7 +66,20 @@ export default function Hero() {
 
       {/* pb clears the stat-tile band that overlaps the hero bottom (-mt on Home) */}
       <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center pt-20 pb-32 md:pb-36">
-        <p className="text-vibe-pink text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
+        {/* 🔴 Muste #F9A8D4, ei #EC4899 (heroteksti-portti 20.9.2026). Tama rivi on
+          14 px puhelimessa ja 16 px tyopoydalla eli WCAG:n mielessa PIENTA tekstia,
+          jolloin raja on 4,5:1 eika 3:1. Ylla oleva 10.8. tehty mittaus tarkisti sen
+          isona tekstina ja paatyi hyvaksymaan 3:1 — siksi rivi jai 3,46–3,58:1:een ja
+          98–100 % sen taustapikseleista oli rajan alle kolmella leveydella. Vaalea
+          liina kuvassa on juuri tassa kohdassa. Sama vaaleampi pinkki kuin verkoston
+          muissa hero-korjauksissa. Otsikko ja ingressi mitattiin samalla ajolla
+          puhtaiksi, joten haivytykseen ei koskettu.
+          🔴 Puhelimessa viela vaaleampi #FBCFE8: PYSTYKUVASSA vaalea liina osuu
+          tasmalleen tahan riviin, ja #F9A8D4 jai siella 3,86:1:een (12 % pikseleista
+          rajan alle) kun tyopoydan vaakakuvassa sama muste on jo puhdas. Vika on
+          rajauksessa, joten korjauskin on rajauskohtainen — tyopoyta pitaa
+          verkoston pinkin. */}
+        <p className="text-[#FBCFE8] md:text-[#F9A8D4] text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
           {t('hero.kicker')}
         </p>
         <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.92] mb-7 max-w-5xl xl:max-w-6xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)] xl:text-[clamp(96px,1.5vw_+_76.8px,115.2px)]">
