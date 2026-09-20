@@ -142,7 +142,7 @@ export default function LocalIngredients() {
                     <img src={INGREDIENT_IMAGES[idx]} alt={i.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute top-3 right-4">
-                      <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
+                      <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full">
                         {i.season}
                       </span>
                     </div>
@@ -290,7 +290,7 @@ export default function LocalIngredients() {
               {t('localIngredients.everymansRight.p2')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
-              <Link to={to('/foraging-guide')} className="inline-flex items-center justify-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+              <Link to={to('/foraging-guide')} className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t('localIngredients.everymansRight.ctaPrimary')}
               </Link>
               <Link to={to('/food-tours')} className="inline-flex items-center justify-center bg-white/15 hover:bg-white/25 backdrop-blur text-white font-semibold px-7 py-3.5 rounded-full border border-white/40 transition-colors">

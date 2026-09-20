@@ -138,7 +138,7 @@ export default function Berries() {
             <ol className="grid md:grid-cols-2 lg:grid-cols-5 gap-4 lv-grid-3">
               {calendar.map((c) => (
                 <li key={c.period} className="rounded-2xl bg-white/5 border border-white/15 p-5 flex flex-col">
-                  <span className="inline-block self-start text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full mb-3">{c.period}</span>
+                  <span className="inline-block self-start text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full mb-3">{c.period}</span>
                   <h3 className="font-heading tracking-wide text-2xl leading-tight mb-2">{c.title}</h3>
                   <p className="text-sm text-white/85 leading-relaxed">{c.body}</p>
                 </li>

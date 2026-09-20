@@ -148,7 +148,7 @@ export default function Cloudberry() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {phases.map(ph => (
                 <div key={ph.period} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 p-6">
-                  <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full mb-3">
+                  <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full mb-3">
                     {ph.period}
                   </span>
                   <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{ph.title}</h3>
@@ -176,7 +176,7 @@ export default function Cloudberry() {
               {t('cloudberry.rights.p2')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
-              <Link to={to('/foraging-guide')} className="inline-flex items-center justify-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+              <Link to={to('/foraging-guide')} className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t('cloudberry.rights.ctaPrimary')}
               </Link>
               <Link to={to('/traditional-recipes')} className="inline-flex items-center justify-center bg-white/15 hover:bg-white/25 backdrop-blur text-white font-semibold px-7 py-3.5 rounded-full border border-white/40 transition-colors">
@@ -299,7 +299,7 @@ export default function Cloudberry() {
                 href={gygHref}
                 target="_blank"
                 rel="sponsored nofollow noopener"
-                className="inline-flex items-center justify-center gap-2 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors"
+                className="inline-flex items-center justify-center gap-2 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors"
               >
                 {t('cloudberry.where.gygCta')}
                 <ArrowUpRight className="w-4 h-4" aria-hidden="true" />

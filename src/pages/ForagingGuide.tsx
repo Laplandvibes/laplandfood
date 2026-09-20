@@ -76,7 +76,7 @@ export default function ForagingGuide() {
                     <img src={ITEM_IMAGES[i]} alt={it.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute top-3 right-4">
-                      <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
+                      <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full">
                         {it.difficulty}
                       </span>
                     </div>
@@ -318,7 +318,7 @@ export default function ForagingGuide() {
             <p className="text-base text-[#002F6C]/75 mb-7">
               {t('foragingGuide.guideCta.lead')}
             </p>
-            <Link to={to('/food-tours')} className="inline-flex items-center justify-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+            <Link to={to('/food-tours')} className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
               {t('foragingGuide.guideCta.cta')}
             </Link>
           </div>

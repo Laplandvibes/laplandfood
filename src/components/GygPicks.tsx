@@ -298,7 +298,7 @@ const catBlurb = (path: string, lang: string): string | null => {
                 <p className="mt-3 flex-1 text-sm text-[#002F6C]/70 leading-relaxed">{blurb}</p>
               )}
 
-              <span className="mt-6 inline-flex items-center justify-center gap-2 self-start rounded-full bg-vibe-pink px-6 py-3 text-sm font-semibold text-white transition-colors group-hover:bg-vibe-pink/90">
+              <span className="mt-6 inline-flex items-center justify-center gap-2 self-start rounded-full bg-[#DB2777] px-6 py-3 text-sm font-semibold text-white transition-colors group-hover:bg-vibe-pink/90">
                 {t(L.ctaCategory)}
                 <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
               </span>

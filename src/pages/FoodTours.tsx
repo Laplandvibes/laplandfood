@@ -108,7 +108,7 @@ export default function FoodTours() {
                         {tour.highlights.length > 3 && <li className="text-xs text-[#002F6C]/75 pl-3">+ {tour.highlights.length - 3} {t('foodTours.moreLabel')}</li>}
                       </ul>
 
-                      <a href={href} target="_blank" rel="sponsored nofollow noopener" className="block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
+                      <a href={href} target="_blank" rel="sponsored nofollow noopener" className="block w-full text-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
                         {t('foodTours.checkAvailability')} →
                       </a>
                     </div>

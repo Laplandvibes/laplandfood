@@ -145,7 +145,7 @@ export default function TraditionalRecipes() {
                     <img src={RECIPE_IMAGES[0]} alt={featured.name} loading="eager" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 h-full w-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-t from-[#002F6C]/70 via-transparent to-transparent" />
                     <div className="absolute bottom-5 left-6 right-6">
-                      <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-3 py-1.5 rounded-full">
+                      <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-3 py-1.5 rounded-full">
                         {featured.tradition}
                       </span>
                       <h3 className="font-heading tracking-wide text-3xl sm:text-4xl text-white leading-tight mt-3">
@@ -314,7 +314,7 @@ export default function TraditionalRecipes() {
                     <img src={RECIPE_IMAGES[idx]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-5 left-7 sm:left-9 right-7 sm:right-9">
-                      <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-3 py-1.5 rounded-full">
+                      <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-3 py-1.5 rounded-full">
                         {r.tradition}
                       </span>
                       <h3 className="font-heading tracking-wide text-3xl sm:text-4xl text-white leading-tight mt-3">
@@ -490,7 +490,7 @@ export default function TraditionalRecipes() {
               {t('traditionalRecipes.ctaStrip.headline')}
             </h2>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
-              <Link to={to('/food-tours')} className="inline-flex items-center justify-center gap-2 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+              <Link to={to('/food-tours')} className="inline-flex items-center justify-center gap-2 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t('traditionalRecipes.ctaStrip.tours')} <ArrowRight className="w-4 h-4" />
               </Link>
               <Link to={to('/local-ingredients')} className="inline-flex items-center justify-center gap-2 border border-[#002F6C]/25 text-[#002F6C] hover:bg-[#002F6C]/5 font-semibold px-7 py-3.5 rounded-full transition-colors">

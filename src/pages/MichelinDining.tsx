@@ -200,7 +200,7 @@ export default function MichelinDining() {
                 {t('michelinDining.michelin.linkLabel')}
                 <ArrowUpRight className="w-4 h-4" aria-hidden="true" />
               </a>
-              <AffiliateCTA partner="hotels" sid="michelin_helsinki" destination="Helsinki, Finland" className="inline-flex items-center justify-center min-h-11 bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-6 rounded-full transition-colors text-sm">
+              <AffiliateCTA partner="hotels" sid="michelin_helsinki" destination="Helsinki, Finland" className="inline-flex items-center justify-center min-h-11 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-6 rounded-full transition-colors text-sm">
                 {t('michelinDining.michelin.ctaHotels')}
               </AffiliateCTA>
             </div>
@@ -242,7 +242,7 @@ export default function MichelinDining() {
                         sisältö on 672 px (raja @2xl:lle, ei aina ylity), 640 px:n ruudussa 544. */}
                     <div className="grid gap-4 @xl:grid-cols-[minmax(0,1fr)_17rem] @xl:gap-x-10">
                       <div className="min-w-0">
-                        <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-vibe-pink text-white px-2.5 py-1 rounded-full">
+                        <span className="inline-block text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full">
                           {r.city}
                         </span>
                         <h3 className="font-heading tracking-wide text-3xl text-white leading-none mt-4">{r.name}</h3>
@@ -273,7 +273,7 @@ export default function MichelinDining() {
                           ))}
                         </dl>
 
-                        <AffiliateCTA partner="hotels" sid={`lapland_room_${LAPLAND_SIDS[i]}`} destination={cityName + ', Finland'} className="mt-auto block w-full text-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
+                        <AffiliateCTA partner="hotels" sid={`lapland_room_${LAPLAND_SIDS[i]}`} destination={cityName + ', Finland'} className="mt-auto block w-full text-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-5 py-2.5 rounded-full transition-colors text-sm">
                           {t('michelinDining.lapland.labels.hotelsNearPrefix')} {cityName}
                         </AffiliateCTA>
                       </div>
@@ -319,7 +319,7 @@ export default function MichelinDining() {
               {t('michelinDining.stayNear.lead')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center mb-6">
-              <AffiliateCTA partner="hotels" sid="michelin_stay_rovaniemi" destination="Rovaniemi, Finland" className="inline-flex items-center justify-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+              <AffiliateCTA partner="hotels" sid="michelin_stay_rovaniemi" destination="Rovaniemi, Finland" className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t('michelinDining.stayNear.ctaRovaniemi')}
               </AffiliateCTA>
               <AffiliateCTA partner="hotels" sid="michelin_stay_inari" destination="Inari, Finland" className="inline-flex items-center justify-center border border-[#002F6C]/25 text-[#002F6C] hover:bg-[#002F6C]/5 font-semibold px-7 py-3.5 rounded-full transition-colors">

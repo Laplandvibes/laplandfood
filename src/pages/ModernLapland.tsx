@@ -150,7 +150,7 @@ export default function ModernLapland() {
               {t('modernLapland.stayNear.lead')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
-              <AffiliateCTA partner="hotels" sid="modern_hotels_rovaniemi" destination="Rovaniemi, Finland" className="inline-flex items-center justify-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+              <AffiliateCTA partner="hotels" sid="modern_hotels_rovaniemi" destination="Rovaniemi, Finland" className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t('modernLapland.stayNear.ctaPrimary')}
               </AffiliateCTA>
               <Link to={to('/food-tours')} className="inline-flex items-center justify-center bg-white/15 hover:bg-white/25 backdrop-blur text-white font-semibold px-7 py-3.5 rounded-full border border-white/40 transition-colors">
