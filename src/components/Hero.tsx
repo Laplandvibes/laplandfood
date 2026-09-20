@@ -93,7 +93,11 @@ export default function Hero() {
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
           <Link
             to={to('/traditional-recipes')}
-            className="inline-flex items-center justify-center bg-vibe-pink hover:bg-vibe-pink/90 text-white font-semibold px-8 py-4 rounded-full transition-colors text-base shadow-[0_4px_28px_rgba(236,72,153,0.4)]"
+            // 🔴 #DB2777, ei #EC4899: teksti on 16 px eli pienta tekstia, ja valkoinen
+            // #EC4899:n paalla on 3,53:1 (korttiteksti-portti 20.9.2026, 100 %
+            // pikseleista rajan alle kahdella leveydella). Valkoinen #DB2777:n
+            // paalla on 4,63:1. Sama askel pinkin rampilla kuin hoteldealsissa.
+            className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-8 py-4 rounded-full transition-colors text-base shadow-[0_4px_28px_rgba(219,39,119,0.4)]"
           >
             {t('hero.ctaPrimary')}
           </Link>

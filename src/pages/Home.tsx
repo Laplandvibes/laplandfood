@@ -227,7 +227,13 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/40 via-[#002F6C]/35 to-[#001F4A]/60" />
           <div className="relative max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-12">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              {/* 🔴 #F9A8D4: tama rivi on 12–14 px VALOKUVAN paalla (culture-band.jpg,
+                  opacity .70) ja #EC4899 mitattiin 3,67:1 — raja pienelle tekstille on
+                  4,5:1 ja 100 % pikseleista oli alle. Vaaleampi pinkki samaa taustaa
+                  vasten 7,1:1. (Sivun toinen samannakoinen silmaotsikko on VAALEALLA
+                  taustalla, jossa tarvitaan painvastoin tummempi pinkki — eri korjaus,
+                  ei tassa.) */}
+              <p className="text-[#F9A8D4] text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('home.cultureKicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl mb-5">
