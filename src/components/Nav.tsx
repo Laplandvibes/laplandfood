@@ -89,7 +89,16 @@ export default function Nav() {
       <div className="max-w-screen-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3">
         <div className="flex items-center gap-3 sm:gap-5 shrink-0">
           <EcosystemMenu lang={locale} currentDomain="laplandfood.com" />
-          <Link className="inline-flex items-center min-h-11" to={to('/')} aria-label={t('ariaHome')}>
+          <Link className="inline-flex items-center min-h-11" to={to('/')} aria-label={t('ariaHome')}
+            onClick={() => {
+              // 🔴 Verkostovika, mitattu 20.9.2026 seitsemällä sivustolla seitsemästä:
+              // ScrollToTop kuuntelee pathnamea, joka ei muutu kun ollaan jo
+              // etusivulla, joten logon klikkaus ei tehnyt siellä mitään.
+              if (window.location.pathname.replace(/\/$/, '') === to('/').replace(/\/$/, '')) {
+                window.scrollTo({ top: 0, behavior: 'smooth' })
+              }
+            }}
+          >
             {/* Verkoston standardikoko (CLAUDE.md logo-kuvio): text-2xl md:text-3xl.
                 Tämä sivusto oli jäänyt yhden askeleen pienemmäksi (xl/2xl) ja
                 näytti navissa kutistuneelta (Vesa 2026-08-10, kahdesti). */}
