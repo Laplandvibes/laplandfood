@@ -143,12 +143,12 @@ export default function MichelinDining() {
                       <span role="img" aria-label={starsLabel} title={starsLabel} className="block font-heading text-4xl leading-none text-vibe-pink tracking-tight">
                         {glyphs}
                       </span>
-                      <span className="block mt-1.5 text-[11px] font-bold tracking-wider text-[#002F6C]/60">{year}</span>
+                      <span className="block mt-1.5 text-[11px] font-bold tracking-wider text-[#002F6C]/70">{year}</span>
                     </div>
                     <div className="min-w-0">
                       {/* 3xl vasta lg:ssä: 640 px:ssä kortti on 288 px ja "Finnjävel Salonki" katkesi 30 px:llä (mitattu). */}
                       <h3 className="font-heading tracking-wide text-2xl lg:text-3xl text-[#002F6C] leading-none">{r.name}</h3>
-                      <p className="mt-1.5 flex items-center gap-1 text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/60">
+                      <p className="mt-1.5 flex items-center gap-1 text-[11px] uppercase tracking-wider font-semibold text-[#002F6C]/70">
                         <MapPin className="w-3 h-3 flex-shrink-0" aria-hidden="true" /> {r.city}
                       </p>
                       <p className="mt-3 text-sm text-[#002F6C]/75 leading-relaxed">{r.angle}</p>
