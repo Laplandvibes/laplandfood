@@ -3,11 +3,11 @@
   "domain": "laplandfood.com",
   "brand": "FOOD",
   "tagline": "What Finland's North eats",
-  "generated": "2026-09-05T21:51:04.058Z",
+  "generated": "2026-09-21T08:31:06.368Z",
   "staticFallbackSeason": "summer",
   "seasons": {
     "summer": {
-      "heroUrl": "https://laplandfood.com/images/hero-main-wide.avif",
+      "heroUrl": "https://laplandfood.com/images/hero-main-wide.avif?v=99b8b64e",
       "heroAlt": "An overhead Lapland table: reindeer sautéed in a cast-iron pan, bowls of cloudberries, bilberries an",
       "heroSha": "99b8b64e18e27341",
       "bytes": 174452,
@@ -45,7 +45,7 @@
       "errors": []
     },
     "winter": {
-      "heroUrl": "https://laplandfood.com/images/hero-main-wide.avif",
+      "heroUrl": "https://laplandfood.com/images/hero-main-wide.avif?v=99b8b64e",
       "heroAlt": "An overhead Lapland table: reindeer sautéed in a cast-iron pan, bowls of cloudberries, bilberries an",
       "heroSha": "99b8b64e18e27341",
       "bytes": 174452,
