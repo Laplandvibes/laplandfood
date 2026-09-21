@@ -2,12 +2,20 @@
   {
     "path": "/",
     "jsonKey": "home",
-    "ogImage": "/og/home.jpg"
+    "ogImage": "/og/home.jpg",
+    "ogCard": {
+      "hero": "/images/hero-main.jpg",
+      "line": "What Finland's North eats"
+    }
   },
   {
     "path": "/local-ingredients",
     "jsonKey": "localIngredients",
-    "ogImage": "/og/local-ingredients.jpg"
+    "ogImage": "/og/local-ingredients.jpg",
+    "ogCard": {
+      "hero": "/images/hero-ingredients.webp",
+      "line": "Reindeer, berries, fish, wild herbs"
+    }
   },
   {
     "path": "/cloudberry",
@@ -26,7 +34,11 @@
       "sv",
       "pt-BR"
     ],
-    "ogImage": "/og/cloudberry.jpg"
+    "ogImage": "/og/cloudberry.jpg",
+    "ogCard": {
+      "hero": "/images/hero-cloudberry.webp",
+      "line": "The amber berry nobody can farm"
+    }
   },
   {
     "path": "/berries",
@@ -45,7 +57,11 @@
       "sv",
       "pt-BR"
     ],
-    "ogImage": "/og/berries.jpg"
+    "ogImage": "/og/berries.jpg",
+    "ogCard": {
+      "hero": "/images/ingredient-berries.jpg",
+      "line": "Four wild berries, one short summer"
+    }
   },
   {
     "path": "/lingonberry",
@@ -64,7 +80,11 @@
       "sv",
       "pt-BR"
     ],
-    "ogImage": "/og/lingonberry.jpg"
+    "ogImage": "/og/lingonberry.jpg",
+    "ogCard": {
+      "hero": "/images/hero-lingonberry-jarvenpaa.webp",
+      "line": "The berry that preserves itself"
+    }
   },
   {
     "path": "/bilberry",
@@ -83,7 +103,11 @@
       "sv",
       "pt-BR"
     ],
-    "ogImage": "/og/bilberry.jpg"
+    "ogImage": "/og/bilberry.jpg",
+    "ogCard": {
+      "hero": "/images/hero-bilberry.webp",
+      "line": "Purple all the way through"
+    }
   },
   {
     "path": "/sea-buckthorn",
@@ -102,37 +126,65 @@
       "sv",
       "pt-BR"
     ],
-    "ogImage": "/og/sea-buckthorn.jpg"
+    "ogImage": "/og/sea-buckthorn.jpg",
+    "ogCard": {
+      "hero": "/images/sea-buckthorn-branch.jpg",
+      "line": "Sour orange berries from the coast"
+    }
   },
   {
     "path": "/traditional-recipes",
     "jsonKey": "traditionalRecipes",
-    "ogImage": "/og/traditional-recipes.jpg"
+    "ogImage": "/og/traditional-recipes.jpg",
+    "ogCard": {
+      "hero": "/images/hero-recipes.jpg",
+      "line": "Sámi dishes, written out properly"
+    }
   },
   {
     "path": "/modern-lapland",
     "jsonKey": "modernLapland",
-    "ogImage": "/og/modern-lapland.jpg"
+    "ogImage": "/og/modern-lapland.jpg",
+    "ogCard": {
+      "hero": "/images/hero-modern.jpg",
+      "line": "New Nordic, cooked above the Circle"
+    }
   },
   {
     "path": "/foraging-guide",
     "jsonKey": "foragingGuide",
-    "ogImage": "/og/foraging-guide.jpg"
+    "ogImage": "/og/foraging-guide.jpg",
+    "ogCard": {
+      "hero": "/images/hero-foraging.jpg",
+      "line": "What to pick, and when it is legal"
+    }
   },
   {
     "path": "/food-tours",
     "jsonKey": "foodTours",
-    "ogImage": "/og/food-tours.jpg"
+    "ogImage": "/og/food-tours.jpg",
+    "ogCard": {
+      "hero": "/images/hero-tours.jpg",
+      "line": "Food experiences worth booking"
+    }
   },
   {
     "path": "/michelin-dining",
     "jsonKey": "michelinDining",
-    "ogImage": "/og/michelin-dining.jpg"
+    "ogImage": "/og/michelin-dining.jpg",
+    "ogCard": {
+      "hero": "/images/hero-michelin-kuusamo.webp",
+      "line": "Where Lapland eats best"
+    }
   },
   {
     "path": "/about",
     "jsonKey": "about",
-    "ogImage": "/og/about.jpg"
+    "ogImage": "/og/about.jpg",
+    "ogCard": {
+      "hero": "/images/culture-band.jpg",
+      "line": "How this site chooses what to say"
+    }
   },
   {
     "path": "/privacy",
