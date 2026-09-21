@@ -72,7 +72,12 @@ export default function TraditionalRecipes() {
         author: ORG,
         datePublished: PUBLISHED,
         dateModified: MODIFIED,
-        image: 'https://laplandfood.com/og/traditional-recipes-1200x630.jpg',
+        // 🔴 21.9.2026: tässä oli `/og/traditional-recipes-1200x630.jpg`, jota ei ole
+        // koskaan ollut olemassa — koko `/og/`-kansiota ei ole. Kirjoitin polun 14.9.
+        // skeemaa lisätessäni enkä tarkistanut sitä: 404. Rikkinäinen kuva skeemassa
+        // estää rikastetun tuloksen kuvan, koska Article/Recipe `image` on pakollinen.
+        // Nyt sivun oma hero, joka on oikeasti olemassa.
+        image: 'https://laplandfood.com/images/hero-recipes.jpg',
         mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
       },
       ...recipes.map((r, i) => ({
