@@ -19,6 +19,20 @@ export async function onRequest({ request, params, env }) {
   const url = new URL(request.url);
   const slug = String(params.card || '').replace(/\.jpg$/i, '').replace(/[^a-z0-9-]/gi, '');
   if (!slug) return new Response('Share card not found', { status: 404 });
+  // 🔴 Funktio nappaa KAIKEN /og/-polun alta, myös suorat `-summer.jpg` / `-winter.jpg`.
+  // Ilman tätä haaraa suora linkki talvikorttiin palautti og-defaultin (mitattu livenä
+  // 21.9.: X-LV-OG-Season: fallback) — eli väärän kuvan ilman mitään virhettä. Kausitiedosto
+  // tarjoillaan sellaisenaan; vain kaudeton nimi valitsee kauden.
+  const suora = slug.match(/-(summer|winter)$/);
+  if (suora) {
+    const res = await env.ASSETS.fetch(new Request(`${url.origin}/og/${slug}.jpg`, { method: 'GET' }));
+    if (!res.ok) return new Response('Share card not found', { status: 404 });
+    const headers = new Headers(res.headers);
+    headers.set('Content-Type', 'image/jpeg');
+    headers.set('Cache-Control', 'public, max-age=86400');
+    headers.set('X-LV-OG-Season', suora[1]);
+    return new Response(res.body, { status: 200, headers });
+  }
   const month = new Date().getUTCMonth() + 1;
   const season = month >= 5 && month <= 9 ? 'summer' : 'winter';
   const toinen = season === 'summer' ? 'winter' : 'summer';
