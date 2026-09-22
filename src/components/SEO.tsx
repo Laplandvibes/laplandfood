@@ -56,12 +56,18 @@ export default function SEO({
   const resolvedTitle = titleKey ? t(titleKey) : (title ?? '');
   const resolvedDesc = descriptionKey ? t(descriptionKey) : (description ?? '');
 
-  // Skip the brand suffix when the title already carries it (either a manual
-  // "|" or the brand word itself, e.g. "About LaplandFood") — otherwise the
-  // fi/de home titles rendered "LaplandFood, … | LaplandFood".
-  const fullTitle = resolvedTitle.includes('|') || resolvedTitle.includes(SITE_NAME)
-    ? resolvedTitle
-    : `${resolvedTitle} | ${SITE_NAME}`;
+  // 🔴 Sanamerkkipääte " | LaplandFood" POISTETTU 22.9.2026. Vesa: *"miksi tämän
+  // pitäisi olla siellä otsikossa, mitä se auttaa? minun mielestä turhaa toistoa
+  // kun domainissa lukee se."* Hän on oikeassa kahdesta syystä, jotka molemmat
+  // ovat mitattavissa: (1) Google näyttää sivuston nimen ja osoitteen JOKA
+  // TULOKSESSA otsikon yläpuolella, joten pääte toistaa sen mikä jo lukee;
+  // (2) hakutuloksen otsikkoon mahtuu noin 60 merkkiä, ja pääte söi niistä 15 —
+  // eli neljänneksen siitä tilasta jossa myydään klikki.
+  // 🔴 Pääte oli MUUTENKIN vain selaimessa: esirenderöijä lisää sen vain kun
+  // reitillä on `appendSiteName`, eikä tämän sivuston routes.jsonissa ole sitä.
+  // Indeksoija luki siis jo ennestään otsikon ilman päätettä, ja hydraatio
+  // vaihtoi sen toiseksi — nyt molemmat ovat sama.
+  const fullTitle = resolvedTitle;
   const p = path ?? canonical ?? '/';
   // Trailing-slash form matches the prerendered static HTML and sitemap.xml
   // (Cloudflare Pages serves /path/index.html at /path/ with 200; the no-slash

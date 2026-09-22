@@ -1489,7 +1489,7 @@
       "secondaryCta": "Perinnereseptit"
     },
     "intro": {
-      "lead": "Vielä 2010-luvun alussa ravintolaillallinen Lapissa tarkoitti hotellin matkailuravintolaa ja poropippuripihviä. Noin kymmenessä vuodessa tilalle kasvoivat pienet kokkivetoiset tasting menu -salit, jotka kilpailevat lautastyössä Helsingin kanssa. Kolme asiaa teki muutoksen mahdolliseksi:",
+      "lead": "Vielä 2010-luvun alussa ravintolaillallinen Lapissa tarkoitti hotellin matkailuravintolaa ja poropippuripihviä. Noin kymmenessä vuodessa tilalle kasvoivat pienet kokkivetoiset tasting menu -ravintolat, jotka kilpailevat lautastyössä Helsingin kanssa. Kolme asiaa teki muutoksen mahdolliseksi:",
       "points": [
         {
           "n": "01",
@@ -1838,15 +1838,15 @@
   },
   "michelinDining": {
     "title": "Michelin-tähdet Suomessa 2026 ja missä Lapissa syödään",
-    "description": "Suomen kahdeksan Michelin-tähtiravintolaa 2026 sekä Lapin kolme salia, joiden takia kannattaa ajaa: aukioloajat, varausajat ja mitä tilata.",
+    "description": "Suomen kahdeksan Michelin-tähtiravintolaa 2026 ja Lapin kolme parasta ravintolaa: aukioloajat, milloin pöytä kannattaa varata ja mitä tilata.",
     "hero": {
       "eyebrow": "Opas 05 · Fine dining",
       "title": "Suomen Michelin-tähdet",
       "titleHighlight": "ja missä Lapissa syödään.",
-      "subtitle": "Pohjoismaiden oppaassa 2026 on kahdeksan suomalaista tähtiravintolaa: kuusi Helsingissä, yksi Turussa ja yksi Porvoossa. Täällä pohjoisessa paras ruoka löytyy kolmesta pienestä salista Rovaniemellä ja Inarissa. Tällä sivulla ovat molemmat, ja lisäksi mitä tilata ja milloin varata.",
+      "subtitle": "Pohjoismaiden oppaassa 2026 on kahdeksan suomalaista tähtiravintolaa: kuusi Helsingissä, yksi Turussa ja yksi Porvoossa. Täällä pohjoisessa paras ruoka on kolmessa pienessä ravintolassa Rovaniemellä ja Inarissa. Tällä sivulla ovat molemmat, ja lisäksi mitä tilata ja milloin varata.",
       "imageAlt": "Lohiannos tillillä käsintehdyllä sinisellä keramiikkalautasella terassipöydällä Kuusamossa, heinäkuu 2026",
       "primaryCta": "Tähtilista 2026",
-      "secondaryCta": "Lapin kolme salia"
+      "secondaryCta": "Lapin kolme parasta"
     },
     "michelin": {
       "kicker": "Pohjoismaiden Michelin-opas 2026",
@@ -1854,8 +1854,8 @@
       "lead": "Vuoden 2026 valinnat julkistettiin 1. kesäkuuta 2026: Grön nousi kahteen tähteen, Boreal sai ensimmäisensä ja kaikki muut suomalaiset tähdet säilyivät. Lista muuttuu joka vuosi, joten tarkista opas ennen varausta.",
       "map": {
         "legendStars": "Tähtiravintolat 2026",
-        "caption": "Kahdeksan tähtiravintolaa etelässä, kolme salia pohjoisessa: Helsingistä Rovaniemelle on 800 kilometriä.",
-        "aria": "Kartta: Suomen tähtiravintolat ja Lapin kolme salia"
+        "caption": "Kahdeksan tähtiravintolaa etelässä, kolme parasta pohjoisessa: Helsingistä Rovaniemelle on 800 kilometriä.",
+        "aria": "Kartta: Suomen tähtiravintolat ja Lapin kolme parasta ravintolaa"
       },
       "labels": {
         "oneStar": "Yksi Michelin-tähti 2026",
@@ -1920,11 +1920,11 @@
         "body": "Pohjoismaiden oppaassa 2026 tähti annettiin ensimmäistä kertaa ravintolalle napapiirin pohjoispuolella. Keittiömestari Halvar Ellingsenin luomusertifioitu tila tuottaa suuren osan ruoastaan itse, illallinen syödään yhdessä kattauksessa, ja vieraat yöpyvät tilan mökeissä."
       },
       "linkLabel": "Koko lista Michelinin sivuilla",
-      "note": "Helsinki on 800 kilometriä Rovaniemeltä etelään, eli se on eri matka kuin tämä. Varaa pöytä suoraan ravintolasta.",
+      "note": "Helsinki on 800 kilometriä Rovaniemeltä etelään, eli se on oma matkansa, ei päiväretki Lapista. Varaa pöytä suoraan ravintolasta.",
       "ctaHotels": "Hotellit Helsingissä"
     },
     "lapland": {
-      "kicker": "Lapin kolme salia",
+      "kicker": "Lapin kolme parasta",
       "headline": "Missä Lapissa syödään parhaiten.",
       "lead": "Nämä kolme hakevat raaka-aineensa läheltä ja tekevät niistä enemmän kuin poroa ja perunaa. Aukioloajat ja menutiedot on tarkistettu ravintoloiden omilta sivuilta 16.9.2026. Tähtiluvut ovat Googlen käyttäjäarvioita, eivät meidän arvioitamme.",
       "labels": {
@@ -1950,7 +1950,7 @@
           "name": "Restaurant Aanaar",
           "city": "Inari",
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
-          "angle": "Ravintola on Juutuanjoen rannalla keskellä saamelaisaluetta, ja se näkyy lautasella: Inarijärven kalaa, poroa ja tunturin yrttejä. Inarissa asuu noin 7 000 ihmistä, ja tämä on silti sali, jonka takia kannattaa ajaa.",
+          "angle": "Ravintola on Juutuanjoen rannalla keskellä saamelaisaluetta, ja se näkyy lautasella: Inarijärven kalaa, poroa ja tunturin yrttejä. Inarissa asuu noin 7 000 ihmistä, ja silti tänne kannattaa ajaa syömään.",
           "order": "Inarijärven kalaa.",
           "hours": "Keittiö 17–22, tilaukset sisään klo 21 mennessä. Baari auki 9–23.",
           "booking": "Varaus hotellin kautta. Talvella ja keskiyön auringon aikaan varaa hyvissä ajoin.",
@@ -1969,11 +1969,11 @@
           "ratingCount": "Ei vielä tilannekuvassamme"
         }
       ],
-      "booking": "Salit ovat pieniä. Joulukuun puolivälistä helmikuulle ja keskiyön auringon aikaan pöydät menevät viikkoja etukäteen."
+      "booking": "Ravintolat ovat pieniä. Joulukuun puolivälistä helmikuulle ja keskiyön auringon aikaan pöydät menevät viikkoja etukäteen."
     },
     "before": {
       "headline": "Neljä asiaa, jotka kannattaa tietää etukäteen.",
-      "lead": "Nämä salit ovat pieniä ja ilta on pitkä. Näin siitä tulee sellainen kuin pitää.",
+      "lead": "Nämä ravintolat ovat pieniä ja ilta on pitkä. Näin siitä tulee sellainen kuin pitää.",
       "items": [
         {
           "label": "Varaa koko ilta",
@@ -1981,7 +1981,7 @@
         },
         {
           "label": "Viinit ruokalajeittain",
-          "body": "Salit tarjoavat menun rinnalle viinit ruokalajeittain. Se on yleensä illan paras lisäys ja maksaa usein yhtä paljon kuin menu itse. Kysy hinta varauksen yhteydessä."
+          "body": "Ravintolat tarjoavat menun rinnalle viinit ruokalajeittain. Se on yleensä illan paras lisäys ja maksaa usein yhtä paljon kuin menu itse. Kysy hinta varauksen yhteydessä."
         },
         {
           "label": "Kerro ruokavaliosta varatessa",
@@ -2042,7 +2042,7 @@
         },
         {
           "t": "Michelin ja fine dining",
-          "body": "Miksi Lapissa ei ole yhtään tähteä, mitkä kolme salia ovat silti parhaat ja miten niihin saa pöydän.",
+          "body": "Miksi Lapissa ei ole yhtään tähteä, mitkä kolme ravintolaa ovat silti parhaat ja miten niihin saa pöydän.",
           "href": "/michelin-dining"
         },
         {
