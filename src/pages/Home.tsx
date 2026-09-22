@@ -109,13 +109,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* App launch block, directly under the site's own opening. At the foot
-            of the page it measured 81 % down a 33 000 px front page, and an
-            announcement nobody scrolls to is not an announcement. */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <AppPromoHero />
-        </div>
-
         {/* PÄÄKUMPPANI-banneri heti heron alla — sivun paras mainospaikka,
             tyhjänä kompakti house-ad → LV Media -portaali */}
         <MainPartnerBanner config={AD_SLOTS} locale={locale} surface="light" className="bg-white" />
@@ -220,6 +213,20 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        {/* Sovellusmainos TULEE pilarigridin jalkeen, ei heron alle.
+            🔴 Vesa 21.9.2026 Googlen hakutuloksesta: *"miten laplandfood tekstit on
+            tallasta paskaa? puhutaan sovelluksista jne?"* Googlen katkelma oli sivun
+            viisi ensimmaista lohkoa jarjestyksessa — heron iskulause, TAMA
+            sovellusmainos, sisaltointro, kauppa, retket — eli ruokahaun tulos
+            esitteli sovellusta ja kauppaa, ei ruokaa. Sama linjaus tehtiin
+            stayinlaplandille 18.9.: sisalto ensin.
+            🔴 Ei kuitenkaan sivun jalkeen: alalaidassa tama mitattiin 81 %:n
+            kohdalle 33 000 px:n etusivua, eika ilmoitus jota kukaan ei rullaa ole
+            ilmoitus. Pilarigridin alla se on noin kolmanneksessa sivua. */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AppPromoHero />
+        </div>
 
         {/* Culture */}
         <section className="relative bg-[#002F6C] py-20 sm:py-24 text-white overflow-hidden">
