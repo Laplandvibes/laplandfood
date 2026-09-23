@@ -45,7 +45,7 @@
   },
   "home": {
     "title": "Comida de Laponia: así come el norte",
-    "description": "Reno, moras árticas, salvelino y la mesa sami: una guía de la cultura gastronómica de la Laponia finlandesa, del bosque a las salas Michelin.",
+    "description": "Reno, moras árticas, salvelino y la mesa sami: una guía de la cultura gastronómica de la Laponia finlandesa, del bosque a los restaurantes Michelin.",
     "intro": {
       "kicker": "Qué es este sitio",
       "headline": "La comida finlandesa, explicada.",
@@ -1488,7 +1488,7 @@
       "secondaryCta": "Las recetas tradicionales"
     },
     "intro": {
-      "lead": "A principios de los 2010, cenar en un restaurante en Laponia aún significaba el comedor de un hotel turístico y un filete de reno a la pimienta. En unos diez años crecieron en su lugar pequeñas salas de menú degustación dirigidas por chefs, que compiten con Helsinki en el emplatado. Tres cosas lo hicieron posible:",
+      "lead": "A principios de los 2010, cenar en un restaurante en Laponia aún significaba el comedor de un hotel turístico y un filete de reno a la pimienta. En unos diez años crecieron en su lugar pequeños restaurantes de menú degustación dirigidos por chefs, que compiten con Helsinki en el emplatado. Tres cosas lo hicieron posible:",
       "points": [
         {
           "n": "01",
@@ -1809,7 +1809,7 @@
       },
       {
         "name": "Experiencia de alta cocina ártica",
-        "description": "Un día construido en torno a algunos de los mejores restaurantes de Laponia. Salas insignia y chefs que cocinan con ingredientes de la propia región.",
+        "description": "Un día construido en torno a algunos de los mejores restaurantes de Laponia. Restaurantes insignia y chefs que cocinan con ingredientes de la propia región.",
         "highlights": [
           "Almuerzo de 3 platos en un restaurante de referencia de la región",
           "Visita a la trastienda de la cocina con el chef de cocina",
@@ -1837,15 +1837,15 @@
   },
   "michelinDining": {
     "title": "Michelin en Finlandia 2026 y dónde comer en Laponia",
-    "description": "Los ocho restaurantes con estrella Michelin de Finlandia en 2026, más las tres salas de Laponia que merecen el viaje: horarios, plazos de reserva y qué pedir.",
+    "description": "Los ocho restaurantes con estrella Michelin de Finlandia en 2026, más los tres restaurantes de Laponia que merecen el viaje: horarios, plazos de reserva y qué pedir.",
     "hero": {
       "eyebrow": "Guía 05 · Alta cocina",
       "title": "Las estrellas Michelin de Finlandia,",
       "titleHighlight": "y dónde comer en Laponia.",
-      "subtitle": "Ocho restaurantes finlandeses tienen estrella en la guía nórdica 2026: seis en Helsinki, uno en Turku y uno en Porvoo. Aquí arriba, la mejor cocina está en tres salas pequeñas de Rovaniemi e Inari. Esta página reúne las dos cosas, con qué pedir y cuándo reservar.",
+      "subtitle": "Ocho restaurantes finlandeses tienen estrella en la guía nórdica 2026: seis en Helsinki, uno en Turku y uno en Porvoo. Aquí arriba, la mejor cocina está en tres pequeños restaurantes de Rovaniemi e Inari. Esta página reúne las dos cosas, con qué pedir y cuándo reservar.",
       "imageAlt": "Salmón con eneldo en un plato de cerámica azul hecho a mano, en una mesa de terraza en Kuusamo, julio de 2026",
       "primaryCta": "La lista de estrellas 2026",
-      "secondaryCta": "Las tres salas de Laponia"
+      "secondaryCta": "Los tres mejores de Laponia"
     },
     "michelin": {
       "kicker": "Guía MICHELIN Países Nórdicos 2026",
@@ -1853,8 +1853,8 @@
       "lead": "La selección 2026 se anunció el 1 de junio de 2026: Grön subió a dos estrellas, Boreal obtuvo la primera y todas las demás estrellas finlandesas se mantuvieron. La lista cambia cada año, así que consulte la guía antes de reservar.",
       "map": {
         "legendStars": "Restaurantes con estrella 2026",
-        "caption": "Ocho restaurantes con estrella en el sur, tres salas en el norte: de Helsinki a Rovaniemi hay 800 kilómetros.",
-        "aria": "Mapa: los restaurantes con estrella de Finlandia y las tres salas de Laponia"
+        "caption": "Ocho restaurantes con estrella en el sur, tres restaurantes en el norte: de Helsinki a Rovaniemi hay 800 kilómetros.",
+        "aria": "Mapa: los restaurantes con estrella de Finlandia y los tres mejores restaurantes de Laponia"
       },
       "labels": {
         "oneStar": "Una estrella Michelin 2026",
@@ -1923,7 +1923,7 @@
       "ctaHotels": "Hoteles en Helsinki"
     },
     "lapland": {
-      "kicker": "Las tres salas",
+      "kicker": "Los tres mejores",
       "headline": "Dónde se come mejor en Laponia.",
       "lead": "Estas tres se abastecen cerca y hacen con ello algo más que reno con patatas. Los horarios y los datos de los menús se comprobaron en las webs de los propios restaurantes el 16 de septiembre de 2026. Las puntuaciones son valoraciones de usuarios de Google, no valoraciones nuestras.",
       "labels": {
@@ -1968,11 +1968,11 @@
           "ratingCount": "Todavía no está en nuestro registro"
         }
       ],
-      "booking": "Las salas son pequeñas. De mediados de diciembre a febrero y bajo el sol de medianoche, las mesas se agotan con semanas de antelación."
+      "booking": "Los restaurantes son pequeños. De mediados de diciembre a febrero y bajo el sol de medianoche, las mesas se agotan con semanas de antelación."
     },
     "before": {
       "headline": "Cuatro cosas que conviene saber antes.",
-      "lead": "Estas salas son pequeñas y la velada es larga. Así sale como debe salir.",
+      "lead": "Estos restaurantes son pequeños y la velada es larga. Así sale como debe salir.",
       "items": [
         {
           "label": "Reserve la velada entera",
@@ -1980,7 +1980,7 @@
         },
         {
           "label": "Vinos por plato",
-          "body": "Las salas ofrecen vinos elegidos para cada plato junto al menú. Suele ser el mejor añadido de la noche, y a menudo cuesta lo mismo que el menú. Pregunte el precio al reservar."
+          "body": "Los restaurantes ofrecen vinos elegidos para cada plato junto al menú. Suele ser el mejor añadido de la noche, y a menudo cuesta lo mismo que el menú. Pregunte el precio al reservar."
         },
         {
           "label": "Diga su dieta al reservar",
@@ -1988,7 +1988,7 @@
         },
         {
           "label": "Vista con cuidado",
-          "body": "Los vaqueros valen. Las zapatillas y la sudadera con capucha destacan en estas salas, aunque a nadie se le rechaza en la puerta."
+          "body": "Los vaqueros valen. Las zapatillas y la sudadera con capucha destacan en estos restaurantes, aunque a nadie se le rechaza en la puerta."
         }
       ]
     },
@@ -2041,7 +2041,7 @@
         },
         {
           "t": "Michelin y alta cocina",
-          "body": "Por qué Laponia no tiene ninguna estrella, cuáles son aun así las tres mejores salas y cómo conseguir mesa en ellas.",
+          "body": "Por qué Laponia no tiene ninguna estrella, cuáles son aun así los tres mejores restaurantes y cómo conseguir mesa en ellos.",
           "href": "/michelin-dining"
         },
         {

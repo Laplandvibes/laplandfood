@@ -1837,15 +1837,15 @@
   },
   "michelinDining": {
     "title": "Michelinstjärnor i Finland 2026 och var man äter i Lappland",
-    "description": "Finlands åtta Michelinrestauranger 2026 samt de tre hus i Lappland som är värda resan: öppettider, bokningstider och vad du ska beställa.",
+    "description": "Finlands åtta Michelinrestauranger 2026 samt de tre restaurangerna i Lappland som är värda resan: öppettider, bokningstider och vad du ska beställa.",
     "hero": {
       "eyebrow": "Guide 05 · Fine dining",
       "title": "Finlands Michelinstjärnor",
       "titleHighlight": "och var man äter i Lappland.",
-      "subtitle": "Åtta finländska restauranger har stjärna i Nordenguiden 2026: sex i Helsingfors, en i Åbo och en i Borgå. Här uppe finns den bästa maten i tre små hus i Rovaniemi och Enare. Den här sidan har båda, plus vad du ska beställa och när du ska boka.",
+      "subtitle": "Åtta finländska restauranger har stjärna i Nordenguiden 2026: sex i Helsingfors, en i Åbo och en i Borgå. Här uppe finns den bästa maten i tre små restauranger i Rovaniemi och Enare. Den här sidan har båda, plus vad du ska beställa och när du ska boka.",
       "imageAlt": "Lax med dill på en handgjord blå keramiktallrik, på ett terrassbord i Kuusamo, juli 2026",
       "primaryCta": "Stjärnlistan 2026",
-      "secondaryCta": "De tre husen i Lappland"
+      "secondaryCta": "De tre bästa i Lappland"
     },
     "michelin": {
       "kicker": "Michelinguiden Norden 2026",
@@ -1853,8 +1853,8 @@
       "lead": "Urvalet för 2026 tillkännagavs den 1 juni 2026: Grön gick upp till två stjärnor, Boreal fick sin första och alla andra finländska stjärnor behölls. Listan ändras varje år, så kolla guiden innan du bokar.",
       "map": {
         "legendStars": "Stjärnrestauranger 2026",
-        "caption": "Åtta stjärnrestauranger i söder, tre hus i norr: från Helsingfors till Rovaniemi är det 800 kilometer.",
-        "aria": "Karta: Finlands stjärnrestauranger och de tre husen i Lappland"
+        "caption": "Åtta stjärnrestauranger i söder, tre restauranger i norr: från Helsingfors till Rovaniemi är det 800 kilometer.",
+        "aria": "Karta: Finlands stjärnrestauranger och de tre bästa restaurangerna i Lappland"
       },
       "labels": {
         "oneStar": "En Michelinstjärna 2026",
@@ -1923,7 +1923,7 @@
       "ctaHotels": "Hotell i Helsingfors"
     },
     "lapland": {
-      "kicker": "De tre husen",
+      "kicker": "De tre bästa",
       "headline": "Där man äter bäst i Lappland.",
       "lead": "De här tre hämtar sina råvaror nära och gör mer av dem än ren och potatis. Öppettider och menyuppgifter kontrollerades på restaurangernas egna sidor 16.9.2026. Stjärnsiffrorna är Googles användarbetyg, inte våra egna omdömen.",
       "labels": {
@@ -1968,11 +1968,11 @@
           "ratingCount": "Ännu inte med i vår datauppdatering"
         }
       ],
-      "booking": "Husen är små. Från mitten av december till februari och under midnattssolen går borden veckor i förväg."
+      "booking": "Restaurangerna är små. Från mitten av december till februari och under midnattssolen går borden veckor i förväg."
     },
     "before": {
       "headline": "Fyra saker som är värda att veta i förväg.",
-      "lead": "De här husen är små och kvällen är lång. Så här blir den som den ska.",
+      "lead": "De här restaurangerna är små och kvällen är lång. Så här blir den som den ska.",
       "items": [
         {
           "label": "Boka hela kvällen",
@@ -1980,7 +1980,7 @@
         },
         {
           "label": "Vin till varje rätt",
-          "body": "Husen erbjuder viner valda till varje rätt vid sidan av menyn. Det är oftast kvällens bästa tillägg, och det kostar ofta lika mycket som menyn. Fråga om priset när du bokar."
+          "body": "Restaurangerna erbjuder viner valda till varje rätt vid sidan av menyn. Det är oftast kvällens bästa tillägg, och det kostar ofta lika mycket som menyn. Fråga om priset när du bokar."
         },
         {
           "label": "Berätta om kosten när du bokar",
@@ -1988,7 +1988,7 @@
         },
         {
           "label": "Klä dig städat",
-          "body": "Jeans går bra. Sneakers och hoodie sticker ut i de här husen, även om ingen avvisas i dörren."
+          "body": "Jeans går bra. Sneakers och hoodie sticker ut på de här restaurangerna, även om ingen avvisas i dörren."
         }
       ]
     },
@@ -2041,7 +2041,7 @@
         },
         {
           "t": "Michelin och fine dining",
-          "body": "Varför Lappland inte har en enda stjärna, vilka tre hus som ändå är bäst och hur du får bord där.",
+          "body": "Varför Lappland inte har en enda stjärna, vilka tre restauranger som ändå är bäst och hur du får bord där.",
           "href": "/michelin-dining"
         },
         {

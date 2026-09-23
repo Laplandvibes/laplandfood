@@ -45,7 +45,7 @@
   },
   "home": {
     "title": "Eten in Lapland: zo eet het noorden",
-    "description": "Rendier, kruipbramen, beekridder en de Sami-tafel: een gids voor de eetcultuur van Fins Lapland, van plukbossen tot Michelin-zalen.",
+    "description": "Rendier, kruipbramen, beekridder en de Sami-tafel: een gids voor de eetcultuur van Fins Lapland, van plukbossen tot Michelinrestaurants.",
     "intro": {
       "kicker": "Waar deze site over gaat",
       "headline": "Finse keuken, uitgelegd.",
@@ -1837,15 +1837,15 @@
   },
   "michelinDining": {
     "title": "Michelinsterren in Finland 2026 en waar u eet in Lapland",
-    "description": "Alle acht Michelinrestaurants van Finland in 2026, plus de drie zalen in Lapland die de rit waard zijn: openingstijden, reserveertermijnen en wat u bestelt.",
+    "description": "Alle acht Michelinrestaurants van Finland in 2026, plus de drie restaurants in Lapland die de rit waard zijn: openingstijden, reserveertermijnen en wat u bestelt.",
     "hero": {
       "eyebrow": "Gids 05 · Fine dining",
       "title": "De Michelinsterren van Finland,",
       "titleHighlight": "en waar u eet in Lapland.",
-      "subtitle": "Acht Finse restaurants hebben een ster in de Noordse gids 2026: zes in Helsinki, een in Turku, een in Porvoo. Hier in het noorden zit het beste eten in drie kleine zalen in Rovaniemi en Inari. Deze pagina heeft allebei, met wat u bestelt en wanneer u reserveert.",
+      "subtitle": "Acht Finse restaurants hebben een ster in de Noordse gids 2026: zes in Helsinki, een in Turku, een in Porvoo. Hier in het noorden zit het beste eten in drie kleine restaurants in Rovaniemi en Inari. Deze pagina heeft allebei, met wat u bestelt en wanneer u reserveert.",
       "imageAlt": "Zalm met dille op een handgemaakt blauw keramiek bord, op een terrastafel in Kuusamo, juli 2026",
       "primaryCta": "De sterrenlijst 2026",
-      "secondaryCta": "De drie zalen in Lapland"
+      "secondaryCta": "De drie beste in Lapland"
     },
     "michelin": {
       "kicker": "MICHELIN Gids Noordse landen 2026",
@@ -1853,8 +1853,8 @@
       "lead": "De selectie 2026 werd bekendgemaakt op 1 juni 2026: Grön steeg naar twee sterren, Boreal kreeg zijn eerste en alle andere Finse sterren bleven staan. De lijst verandert elk jaar, dus raadpleeg de gids voordat u reserveert.",
       "map": {
         "legendStars": "Sterrenrestaurants 2026",
-        "caption": "Acht sterrenrestaurants in het zuiden, drie zalen in het noorden: van Helsinki naar Rovaniemi is het 800 kilometer.",
-        "aria": "Kaart: de sterrenrestaurants van Finland en de drie zalen in Lapland"
+        "caption": "Acht sterrenrestaurants in het zuiden, drie restaurants in het noorden: van Helsinki naar Rovaniemi is het 800 kilometer.",
+        "aria": "Kaart: de sterrenrestaurants van Finland en de drie beste restaurants in Lapland"
       },
       "labels": {
         "oneStar": "Eén Michelinster 2026",
@@ -1923,7 +1923,7 @@
       "ctaHotels": "Hotels in Helsinki"
     },
     "lapland": {
-      "kicker": "De drie zalen",
+      "kicker": "De drie beste",
       "headline": "Waar u in Lapland het best eet.",
       "lead": "Deze drie halen hun ingrediënten van dichtbij en maken er meer van dan rendier met aardappel. Openingstijden en menugegevens zijn op 16 september 2026 gecontroleerd op de eigen sites van de restaurants. De cijfers zijn gebruikersbeoordelingen van Google, geen oordelen van ons.",
       "labels": {
@@ -1968,11 +1968,11 @@
           "ratingCount": "Nog niet in onze meting"
         }
       ],
-      "booking": "De zalen zijn klein. Van half december tot februari en onder de middernachtzon zijn de tafels weken van tevoren weg."
+      "booking": "De restaurants zijn klein. Van half december tot februari en onder de middernachtzon zijn de tafels weken van tevoren weg."
     },
     "before": {
       "headline": "Vier dingen die u vooraf wilt weten.",
-      "lead": "Deze zalen zijn klein en de avond is lang. Zo wordt het zoals het hoort.",
+      "lead": "Deze restaurants zijn klein en de avond is lang. Zo wordt het zoals het hoort.",
       "items": [
         {
           "label": "Reserveer de hele avond",
@@ -1980,7 +1980,7 @@
         },
         {
           "label": "Wijnen per gang",
-          "body": "De zalen bieden naast het menu wijnen die bij elke gang zijn gekozen. Dat is meestal de beste aanvulling van de avond, en het kost vaak evenveel als het menu zelf. Vraag bij het reserveren naar de prijs."
+          "body": "De restaurants bieden naast het menu wijnen die bij elke gang zijn gekozen. Dat is meestal de beste aanvulling van de avond, en het kost vaak evenveel als het menu zelf. Vraag bij het reserveren naar de prijs."
         },
         {
           "label": "Meld uw dieet bij het reserveren",
@@ -1988,7 +1988,7 @@
         },
         {
           "label": "Kleed u netjes",
-          "body": "Spijkerbroek kan prima. Sneakers en een hoodie vallen op in deze zalen, ook al wordt niemand aan de deur geweigerd."
+          "body": "Spijkerbroek kan prima. Sneakers en een hoodie vallen op in deze restaurants, ook al wordt niemand aan de deur geweigerd."
         }
       ]
     },
@@ -2041,7 +2041,7 @@
         },
         {
           "t": "Michelin en fine dining",
-          "body": "Waarom Lapland geen enkele ster heeft, welke drie zalen toch de beste zijn en hoe u daar een tafel krijgt.",
+          "body": "Waarom Lapland geen enkele ster heeft, welke drie restaurants toch de beste zijn en hoe u daar een tafel krijgt.",
           "href": "/michelin-dining"
         },
         {

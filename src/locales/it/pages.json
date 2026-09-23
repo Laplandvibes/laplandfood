@@ -45,7 +45,7 @@
   },
   "home": {
     "title": "Cucina di Lapponia: come mangia il Nord",
-    "description": "Renna, more artiche, salmerino artico e la tavola sami: una guida alla cultura gastronomica della Lapponia finlandese, dal bosco alle sale Michelin.",
+    "description": "Renna, more artiche, salmerino artico e la tavola sami: una guida alla cultura gastronomica della Lapponia finlandese, dal bosco ai ristoranti Michelin.",
     "intro": {
       "kicker": "Cos'è questo sito",
       "headline": "La cucina finlandese, spiegata.",
@@ -1809,7 +1809,7 @@
       },
       {
         "name": "Esperienza d'alta cucina artica",
-        "description": "Una giornata costruita attorno ad alcuni dei migliori ristoranti della Lapponia. Sale di punta e chef che cucinano con ingredienti di provenienza regionale.",
+        "description": "Una giornata costruita attorno ad alcuni dei migliori ristoranti della Lapponia. Ristoranti di punta e chef che cucinano con ingredienti di provenienza regionale.",
         "highlights": [
           "Pranzo 3 portate in un ristorante di punta regionale",
           "Tour dietro le quinte con lo chef",
@@ -1837,15 +1837,15 @@
   },
   "michelinDining": {
     "title": "Michelin in Finlandia 2026 e dove mangiare in Lapponia",
-    "description": "Gli otto ristoranti stellati Michelin della Finlandia nel 2026, più le tre sale della Lapponia che meritano il viaggio: orari, tempi di prenotazione e cosa ordinare.",
+    "description": "Gli otto ristoranti stellati Michelin della Finlandia nel 2026, più i tre ristoranti della Lapponia che meritano il viaggio: orari, tempi di prenotazione e cosa ordinare.",
     "hero": {
       "eyebrow": "Guida 05 · Alta cucina",
       "title": "Le stelle Michelin della Finlandia,",
       "titleHighlight": "e dove mangiare in Lapponia.",
-      "subtitle": "Otto ristoranti finlandesi hanno la stella nella guida nordica 2026: sei a Helsinki, uno a Turku, uno a Porvoo. Quassù la cucina migliore è in tre piccole sale a Rovaniemi e Inari. Questa pagina le raccoglie entrambe, con cosa ordinare e quando prenotare.",
+      "subtitle": "Otto ristoranti finlandesi hanno la stella nella guida nordica 2026: sei a Helsinki, uno a Turku, uno a Porvoo. Quassù la cucina migliore è in tre piccoli ristoranti a Rovaniemi e Inari. Questa pagina le raccoglie entrambe, con cosa ordinare e quando prenotare.",
       "imageAlt": "Salmone all'aneto su un piatto in ceramica blu fatto a mano, su un tavolo in terrazza a Kuusamo, luglio 2026",
       "primaryCta": "La lista stellata 2026",
-      "secondaryCta": "Le tre sale della Lapponia"
+      "secondaryCta": "I tre migliori della Lapponia"
     },
     "michelin": {
       "kicker": "Guida MICHELIN Paesi Nordici 2026",
@@ -1853,8 +1853,8 @@
       "lead": "La selezione 2026 è stata annunciata il 1° giugno 2026: Grön è salito a due stelle, Boreal ha ottenuto la prima e tutte le altre stelle finlandesi sono state confermate. La lista cambia ogni anno, quindi verifichi la guida prima di prenotare.",
       "map": {
         "legendStars": "Ristoranti stellati 2026",
-        "caption": "Otto ristoranti stellati a sud, tre sale a nord: da Helsinki a Rovaniemi sono 800 chilometri.",
-        "aria": "Mappa: i ristoranti stellati della Finlandia e le tre sale della Lapponia"
+        "caption": "Otto ristoranti stellati a sud, tre ristoranti a nord: da Helsinki a Rovaniemi sono 800 chilometri.",
+        "aria": "Mappa: i ristoranti stellati della Finlandia e i tre migliori ristoranti della Lapponia"
       },
       "labels": {
         "oneStar": "Una stella Michelin 2026",
@@ -1923,7 +1923,7 @@
       "ctaHotels": "Hotel a Helsinki"
     },
     "lapland": {
-      "kicker": "Le tre sale",
+      "kicker": "I tre migliori",
       "headline": "Dove si mangia meglio in Lapponia.",
       "lead": "Queste tre si riforniscono vicino e ne fanno qualcosa di più che renna e patate. Orari e informazioni sui menu sono stati verificati sui siti dei ristoranti il 16 settembre 2026. I punteggi sono valutazioni degli utenti di Google, non nostre.",
       "labels": {
@@ -1968,11 +1968,11 @@
           "ratingCount": "Non ancora nel nostro rilevamento"
         }
       ],
-      "booking": "Le sale sono piccole. Da metà dicembre a febbraio e sotto il sole di mezzanotte i tavoli si esauriscono settimane prima."
+      "booking": "I ristoranti sono piccoli. Da metà dicembre a febbraio e sotto il sole di mezzanotte i tavoli si esauriscono settimane prima."
     },
     "before": {
       "headline": "Quattro cose da sapere prima.",
-      "lead": "Queste sale sono piccole e la serata è lunga. Così viene come deve venire.",
+      "lead": "Questi ristoranti sono piccoli e la serata è lunga. Così viene come deve venire.",
       "items": [
         {
           "label": "Prenoti tutta la serata",
@@ -1980,7 +1980,7 @@
         },
         {
           "label": "Vini a ogni portata",
-          "body": "Le sale propongono vini scelti per ogni portata insieme al menu. Di solito è la miglior aggiunta della serata, e spesso costa quanto il menu stesso. Chieda il prezzo quando prenota."
+          "body": "I ristoranti propongono vini scelti per ogni portata insieme al menu. Di solito è la miglior aggiunta della serata, e spesso costa quanto il menu stesso. Chieda il prezzo quando prenota."
         },
         {
           "label": "Dica della dieta quando prenota",
@@ -1988,7 +1988,7 @@
         },
         {
           "label": "Si vesta con cura",
-          "body": "I jeans vanno bene. Scarpe da ginnastica e felpa con cappuccio si notano in queste sale, anche se nessuno viene respinto alla porta."
+          "body": "I jeans vanno bene. Scarpe da ginnastica e felpa con cappuccio si notano in questi ristoranti, anche se nessuno viene respinto alla porta."
         }
       ]
     },
@@ -2041,7 +2041,7 @@
         },
         {
           "t": "Michelin e alta cucina",
-          "body": "Perché la Lapponia non ha nemmeno una stella, quali sono comunque le tre sale migliori e come ottenere un tavolo.",
+          "body": "Perché la Lapponia non ha nemmeno una stella, quali sono comunque i tre ristoranti migliori e come ottenere un tavolo.",
           "href": "/michelin-dining"
         },
         {
