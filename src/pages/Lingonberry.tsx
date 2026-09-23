@@ -1,24 +1,26 @@
 import BerryPage, { type BerryConfig } from './BerryPage';
 
 /** /lingonberry — puolukka.
- *  Hero 18.9.2026: Wikimedia Commons, Arto J, CC BY-SA 3.0, Järvenpää 29.8.2015
- *  (Vesan lupa 18.9.). Edellinen hero oli oma kuva Sallan tunturin rakkakivikosta:
- *  väärä kasvupaikka ja ilman ainuttakaan marjaa (Vesa 15.9.: "aivan hirveä hero
- *  kuva"). Omaa puolukkakuvaa ei ole, eikä Commonsissa ole Lapissa kuvattua
- *  kaupallisesti käytettävää, joten paikka kerrotaan kuvan päällä. Tekijätieto
- *  piirtyy automaattisesti (src/data/photoCredits.ts + PageHero). Kuva on vain
- *  pienennetty: CC BY-SA -kuvaa ei rajata eikä tummenneta tiedostoon.
- *  Pensaskuva on generoitu, joten sillä ei ole kuvatekstiä eikä "Kuva: LaplandVibes" -merkintää. */
+ *  🟢 23.9.2026: MOLEMMAT kuvat omia, Juuso Lahtelan kuvaamia Kemijärvellä 21.9.2026
+ *  (Vesa 23.9.: "kuviin on aina täysi oikeus mitä näihin kansioihin tulee", lv_permanent_rules §35).
+ *  Ennen: hero oli Wikimedia Commonsista JÄRVENPÄÄSTÄ (18.9.), koska omaa puolukkakuvaa ei
+ *  ollut eikä Commonsissa Lapissa kuvattua; maku-osion kuva oli tekoälyllä tehty (14.9.).
+ *  Hero on PEILATTU vaakasuunnassa: marjaterttu oli kuvan vasemmassa alakulmassa, ja
+ *  työpöydällä otsikko + verho ovat vasemmalla ⇒ otsikko olisi peittänyt juuri marjat.
+ *  Luontokuvassa ei ole tekstiä eikä maamerkkiä, joten peilaus ei muuta mitään totta.
+ *  Omat kuvat eivät saa heroon merkintää (PageHero); maku-osio saa kuvatekstin + "Kuva:
+ *  LaplandVibes" (ownPhoto), kuten mustikkasivu. Nimi ei näy: Juuson "julkiset kasvot?" auki. */
 const LINGONBERRY: BerryConfig = {
   key: 'lingonberry',
   path: '/lingonberry',
   hero: {
-    image: '/images/hero-lingonberry-jarvenpaa.webp',
-    alt: 'A dense lingonberry patch with clusters of ripe red berries around an old tree stump, Järvenpää, Finland, August 2015',
+    image: '/images/hero-lingonberry-kemijarvi.webp',
+    alt: 'Ripe lingonberries on the forest floor among moss and lingonberry sprigs, pine forest, Kemijärvi, Finnish Lapland, September 2026',
   },
   taste: {
-    image: '/images/lingonberry-shrub.jpg',
-    alt: 'Lingonberry shrub with clusters of ripe red berries on pale lichen under pines',
+    image: '/images/lingonberry-kemijarvi.jpg',
+    alt: 'Two ripe lingonberries on a sprig in thick moss, lingonberry leaves around them, Kemijärvi, September 2026',
+    ownPhoto: true,
   },
   versus: {},
   products: {

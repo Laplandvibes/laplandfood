@@ -658,7 +658,7 @@
       "title": "L'airelle rouge, la baie qui",
       "titleHighlight": "se conserve toute seule.",
       "subtitle": "La puolukka est la baie rouge à côté de chaque assiette d'émincé de renne, et celle que les familles finlandaises cueillent au seau. Voici son goût, pourquoi elle se garde en bocal sans sucre, et ce qui la distingue de la canneberge avec laquelle on la confond.",
-      "imageAlt": "Un tapis dense d'airelles rouges aux grappes de baies mûres autour d'une vieille souche, Järvenpää, Finlande, août 2015",
+      "imageAlt": "Airelles rouges mûres au sol, parmi la mousse et les brins d'airelle, forêt de pins, Kemijärvi, Laponie finlandaise, septembre 2026",
       "primaryCta": "Apprendre à la cueillir",
       "secondaryCta": "Le guide des baies",
       "pills": [
@@ -819,6 +819,9 @@
           "cta": "Voir les hébergements à Rovaniemi"
         }
       ]
+    },
+    "captions": {
+      "taste": "Airelles rouges dans la mousse d'une forêt de pins, Kemijärvi, septembre 2026"
     }
   },
   "bilberry": {

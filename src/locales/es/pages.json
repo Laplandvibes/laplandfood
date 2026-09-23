@@ -658,7 +658,7 @@
       "title": "Arándano rojo, la baya que",
       "titleHighlight": "se conserva sola.",
       "subtitle": "La puolukka es la baya roja junto a cada plato de reno salteado, y la que las familias finlandesas recogen por baldes. Aquí tiene a qué sabe, por qué se conserva en frasco sin azúcar y en qué se diferencia del cranberry con el que se confunde.",
-      "imageAlt": "Una mata densa de arándano rojo con racimos de bayas maduras alrededor de un viejo tocón, Järvenpää, Finlandia, agosto de 2015",
+      "imageAlt": "Arándanos rojos maduros en el suelo del bosque, entre musgo y ramitas, pinar, Kemijärvi, Laponia finlandesa, septiembre de 2026",
       "primaryCta": "Aprenda a recolectarlo",
       "secondaryCta": "La guía de bayas",
       "pills": [
@@ -819,6 +819,9 @@
           "cta": "Ver alojamiento en Rovaniemi"
         }
       ]
+    },
+    "captions": {
+      "taste": "Arándanos rojos en el musgo de un pinar, Kemijärvi, septiembre de 2026"
     }
   },
   "bilberry": {

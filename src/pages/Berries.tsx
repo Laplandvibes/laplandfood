@@ -30,13 +30,13 @@ const GUIDE_PATHS = ['/cloudberry', '/bilberry', '/lingonberry', '/sea-buckthorn
 const GUIDE_IMAGES = [
   '/images/forage-cloudberry.jpg',
   '/images/hero-bilberry.jpg',
-  '/images/lingonberry-shrub.jpg',
+  '/images/lingonberry-kemijarvi.jpg',
   '/images/sea-buckthorn-branch.jpg',
 ];
 const GUIDE_ALTS = [
   'Ripe amber cloudberries on an open Lapland bog',
   'Ripe bilberries on a low green shrub in a Salla forest',
-  'Lingonberry shrub with ripe red berries on pale lichen under pines',
+  'Two ripe lingonberries on a sprig in thick moss, Kemijärvi',
   'Sea buckthorn branch heavy with orange berries on a stony shore',
 ];
 

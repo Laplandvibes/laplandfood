@@ -658,7 +658,7 @@
       "title": "Lingonberry, the berry that",
       "titleHighlight": "keeps itself.",
       "subtitle": "Puolukka is the red berry beside every plate of sautéed reindeer, and the one Finnish families pick by the bucket. Here is what it tastes like, why it keeps in a jar without sugar, and how it differs from the cranberry it gets mistaken for.",
-      "imageAlt": "A dense lingonberry patch with clusters of ripe red berries around an old tree stump, Järvenpää, Finland, August 2015",
+      "imageAlt": "Ripe lingonberries on the forest floor among moss and lingonberry sprigs, pine forest, Kemijärvi, Finnish Lapland, September 2026",
       "primaryCta": "Learn to forage it",
       "secondaryCta": "The berry guide",
       "pills": [
@@ -819,6 +819,9 @@
           "cta": "Browse stays in Rovaniemi"
         }
       ]
+    },
+    "captions": {
+      "taste": "Lingonberries in the moss of a pine forest, Kemijärvi, September 2026"
     }
   },
   "bilberry": {

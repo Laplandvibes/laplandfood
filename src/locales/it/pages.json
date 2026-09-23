@@ -658,7 +658,7 @@
       "title": "Mirtillo rosso, la bacca che",
       "titleHighlight": "si conserva da sola.",
       "subtitle": "La puolukka è la bacca rossa accanto a ogni piatto di renna saltata, e quella che le famiglie finlandesi raccolgono a secchi. Ecco che sapore ha, perché si conserva in vasetto senza zucchero e in cosa differisce dal cranberry con cui viene confusa.",
-      "imageAlt": "Un fitto tappeto di mirtillo rosso con grappoli di bacche mature intorno a un vecchio ceppo, Järvenpää, Finlandia, agosto 2015",
+      "imageAlt": "Mirtilli rossi maturi sul sottobosco tra muschio e rametti, pineta, Kemijärvi, Lapponia finlandese, settembre 2026",
       "primaryCta": "Impari a raccoglierlo",
       "secondaryCta": "La guida alle bacche",
       "pills": [
@@ -819,6 +819,9 @@
           "cta": "Sfogli gli alloggi a Rovaniemi"
         }
       ]
+    },
+    "captions": {
+      "taste": "Mirtilli rossi nel muschio di una pineta, Kemijärvi, settembre 2026"
     }
   },
   "bilberry": {

@@ -658,7 +658,7 @@
       "title": "Lingonberry, a fruta que",
       "titleHighlight": "se conserva sozinha.",
       "subtitle": "A puolukka, a lingonberry ou mirtilo-vermelho, é a fruta vermelha ao lado de todo prato de rena salteada, e a que as famílias finlandesas colhem aos baldes. Aqui está o sabor dela, por que se conserva no pote sem açúcar e como difere do cranberry com que é confundida.",
-      "imageAlt": "Um tapete denso de lingonberry com cachos de frutinhas vermelhas maduras em volta de um velho toco, Järvenpää, Finlândia, agosto de 2015",
+      "imageAlt": "Lingonberries maduras no chão da floresta, entre musgo e raminhos, pinheiral, Kemijärvi, Lapônia finlandesa, setembro de 2026",
       "primaryCta": "Aprenda a colher",
       "secondaryCta": "O guia das frutas silvestres",
       "pills": [
@@ -819,6 +819,9 @@
           "cta": "Ver hospedagem em Rovaniemi"
         }
       ]
+    },
+    "captions": {
+      "taste": "Lingonberries no musgo de um pinheiral, Kemijärvi, setembro de 2026"
     }
   },
   "bilberry": {

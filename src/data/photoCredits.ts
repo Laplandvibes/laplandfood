@@ -1,6 +1,9 @@
 /**
  * Avoimella lisenssillä käytettyjen kuvien tekijätiedot JA lisenssikuitti.
  *
+ * 🟢 23.9.2026: puolukkasivun Commons-kuva (Järvenpää, Arto J, CC BY-SA 3.0) korvattu
+ * omalla Kemijärvellä kuvatulla ⇒ taulu on tyhjä. Historia alla säilytetty.
+ *
  * Vesa 18.9.2026: lupa ladata Wikimedia Commonsista puolukkasivun pääkuva
  * ("kyllä"), kun omaa puolukkakuvaa ei ole: heinäkuun 2026 ajomatkan 1 373 kuvaa
  * ja Sallan 26 kuvaa on käyty läpi, eikä niissä ole puolukkaa. Commonsista ei
@@ -46,18 +49,6 @@ export type PhotoCredit = {
 };
 
 export const PHOTO_CREDITS: Record<string, PhotoCredit> = {
-  '/images/hero-lingonberry-jarvenpaa.webp': {
-    author: 'Arto J',
-    license: 'CC BY-SA 3.0',
-    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/',
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cowberries,_J%C3%A4rvenp%C3%A4%C3%A4,_Finland_-_panoramio.jpg',
-    title: 'Cowberries, Järvenpää, Finland - panoramio.jpg',
-    place: 'Järvenpää',
-    taken: '2015-08-29 12:41',
-    changes: 'Vain pienennys 5312 × 2988 → 1920 × 1080 px ja WebP/JPEG-muunnos, ei rajausta.',
-    fetched: '2026-09-18',
-    cost: '0 €',
-  },
 };
 
 /**
