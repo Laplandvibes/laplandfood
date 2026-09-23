@@ -204,9 +204,11 @@ export default function ForagingGuide() {
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                   <img src="/images/forage-campfire.jpg" alt="Flames rising from birch logs in an iron fire bowl in Salla, spruce forest and blue sky behind" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                 </div>
-                <figcaption className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
+                {/* Kaksi virkettä ja krediitti ⇒ leipätekstiä: 16 px ja muste /80, ei 12–13 px /70
+                    (§33, Vesa 20.9.2026). */}
+                <figcaption className="mt-3 text-base text-[#002F6C]/80 leading-snug">
                   {t('foragingGuide.mushroomSafety.caption')}
-                  <span className="text-[#002F6C]/70"> · {tc('photo.credit')}</span>
+                  <span> · {tc('photo.credit')}</span>
                 </figcaption>
               </figure>
               <div className="text-[#002F6C]/85 space-y-5">
