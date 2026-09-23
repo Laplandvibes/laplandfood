@@ -2,7 +2,7 @@ import BerryPage, { type BerryConfig } from './BerryPage';
 
 /** /lingonberry — puolukka.
  *  🟢 23.9.2026: MOLEMMAT kuvat omia, Juuso Lahtelan kuvaamia Kemijärvellä 21.9.2026
- *  (Vesa 23.9.: "kuviin on aina täysi oikeus mitä näihin kansioihin tulee", lv_permanent_rules §35).
+ *  (Vesa 23.9.: "kuviin on aina täysi oikeus mitä näihin kansioihin tulee", lv_permanent_rules §37).
  *  Ennen: hero oli Wikimedia Commonsista JÄRVENPÄÄSTÄ (18.9.), koska omaa puolukkakuvaa ei
  *  ollut eikä Commonsissa Lapissa kuvattua; maku-osion kuva oli tekoälyllä tehty (14.9.).
  *  Hero on PEILATTU vaakasuunnassa: marjaterttu oli kuvan vasemmassa alakulmassa, ja
