@@ -18,6 +18,11 @@
     "seaBuckthorn": "Sanddorn",
     "readGuide": "Zum vollständigen Guide"
   },
+  "recipesMenu": {
+    "all": "Traditionelle Rezepte",
+    "poronkaristys": "Rentiergeschnetzeltes",
+    "leipajuusto": "Leipäjuusto (Brotkäse)"
+  },
   "ariaHome": "Startseite von LaplandFood",
   "ariaMain": "Hauptnavigation",
   "menu": "MENÜ",

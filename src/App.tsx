@@ -12,6 +12,8 @@ const Lingonberry = lazy(() => import('./pages/Lingonberry'))
 const Bilberry = lazy(() => import('./pages/Bilberry'))
 const SeaBuckthorn = lazy(() => import('./pages/SeaBuckthorn'))
 const TraditionalRecipes = lazy(() => import('./pages/TraditionalRecipes'))
+const Poronkaristys = lazy(() => import('./pages/Poronkaristys'))
+const Leipajuusto = lazy(() => import('./pages/Leipajuusto'))
 const ModernLapland = lazy(() => import('./pages/ModernLapland'))
 const ForagingGuide = lazy(() => import('./pages/ForagingGuide'))
 const FoodTours = lazy(() => import('./pages/FoodTours'))
@@ -42,6 +44,8 @@ const PAGES: { path: string; element: React.ReactNode }[] = [
   { path: '/bilberry', element: <Bilberry /> },
   { path: '/sea-buckthorn', element: <SeaBuckthorn /> },
   { path: '/traditional-recipes', element: <TraditionalRecipes /> },
+  { path: '/poronkaristys', element: <Poronkaristys /> },
+  { path: '/leipajuusto', element: <Leipajuusto /> },
   { path: '/modern-lapland', element: <ModernLapland /> },
   { path: '/foraging-guide', element: <ForagingGuide /> },
   { path: '/food-tours', element: <FoodTours /> },

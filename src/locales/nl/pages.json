@@ -1477,6 +1477,534 @@
     "featured": {
       "kicker": "Begin hier",
       "headline": "Kookt u één gerecht, kook dan dit."
+    },
+    "dishes": {
+      "kicker": "Twee klassiekers uit Lapland",
+      "headline": "Poronkäristys en leipäjuusto, elk op een eigen pagina.",
+      "cta": "Naar de recepten"
+    }
+  },
+  "poronkaristys": {
+    "title": "Poronkäristys: recept voor gebakken rendiervlees uit Lapland",
+    "description": "Zo maken Finnen poronkäristys: dun geschaafd rendiervlees, in boter aangebraden, zacht gestoofd en op aardappelpuree met vossenbessen. Ook uit de oven.",
+    "teaser": "Halfbevroren rendiervlees, dun geschaafd, in boter aangebraden en zacht gestoofd: het recept van de rendierhouders, de ovenversie en waar u het in Lapland bestelt.",
+    "hero": {
+      "eyebrow": "Laplands rendiergerecht · Poronkäristys",
+      "title": "Poronkäristys, rendier",
+      "titleHighlight": "dun geschaafd, traag gegaard.",
+      "subtitle": "Rendiervlees wordt halfbevroren in dunne reepjes geschaafd, in boter aangebraden en gestoofd tot het uit elkaar valt, en komt dan op aardappelpuree met vossenbessen en augurk. Hier vindt u het eigen recept van de rendierhouders, de ovenversie, wat het kost en waar u het in Lapland bestelt.",
+      "primaryCta": "Naar het recept",
+      "secondaryCta": "Alle traditionele recepten",
+      "pills": [
+        "Het recept",
+        "Wat het is",
+        "Varianten",
+        "In cijfers",
+        "Waar te eten",
+        "Vragen"
+      ]
+    },
+    "intro": {
+      "lead": "De eigen vereniging van de rendierhouders noemt poronkäristys misschien wel het meest legendarische van alle rendiergerechten. De traditionele versie vraagt om vier dingen: rendiervlees, boter, water en zout.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Halfbevroren geschaafd",
+          "body": "Het vlees wordt halfbevroren geschaafd, bij ongeveer −6 °C, als het stevig genoeg is om in dunne reepjes te snijden. Finse winkels verkopen het kant-en-klaar geschaafd en diepgevroren."
+        },
+        {
+          "n": "02",
+          "title": "Boter, water, zout",
+          "body": "In traditionele poronkäristys zit geen room en geen bouillon. Het vlees wordt aangebraden in boter of rendiervet en stooft daarna onder een deksel met een scheutje water. Peper kwam er pas later bij."
+        },
+        {
+          "n": "03",
+          "title": "Nooit zonder vossenbessen",
+          "body": "Het gerecht komt op aardappelpuree met vossenbessen en augurk. Het eigen recept van de rendierhouders noemt rauw geroerde vossenbessen die al vorst hebben gehad het beste bijgerecht."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Het recept",
+      "headline": "Poronkäristys, zoals het thuis wordt gemaakt.",
+      "lead": "Drie recepten: de klassieker op het fornuis van de rendierhoudersvereniging, de tragere ovenversie voor een grotere pan en de twee bijgerechten die erbij horen.",
+      "items": [
+        {
+          "name": "Traditionele poronkäristys",
+          "description": "De versie van de rendierhouders: rendiervlees, vet, water en zout, onder een deksel gestoofd tot het mals is. Peper mag, room hoort er niet in.",
+          "time": "30–60 min",
+          "serves": "3–4",
+          "level": "Makkelijk",
+          "ingredients": [
+            "500 g diepgevroren poronkäristys (geschaafd rendiervlees)",
+            "25 g boter of rendiervet",
+            "1 dl water",
+            "¾ tl zout",
+            "Versgemalen zwarte peper, naar wens"
+          ],
+          "instructions": [
+            "Laat het bevroren vlees in de koelkast net zo ver ontdooien dat u het blok uit elkaar kunt breken. De plakjes moeten nog ijzig zijn.",
+            "Smelt het vet op hoog vuur in een zware koekenpan of een gietijzeren braadpan en doe het vlees er in porties in. Breek de bevroren plakjes met een spatel los.",
+            "Bak tot het vlees ontdooid is, het vocht is verdampt en het vlees begint te kleuren.",
+            "Giet het water erbij en voeg het zout toe.",
+            "Zet het vuur lager, doe het deksel op de pan en laat sudderen tot het vlees mals is: 10 tot 30 minuten voor vlees uit de bout, langer voor andere delen. Giet er een scheutje water bij als de pan droog komt te staan.",
+            "Proef, voeg naar wens peper toe en serveer op aardappelpuree met vossenbessen en augurk."
+          ],
+          "tip": "Volgens de rendierhoudersvereniging krijgt u de krachtigste smaak als u het vlees in rendiervet bakt."
+        },
+        {
+          "name": "Poronkäristys uit de oven",
+          "description": "Dezelfde pan, maar op lage temperatuur in de oven gaar gestoofd. Het duurt langer, roeren is niet nodig en het leent zich voor een grotere hoeveelheid.",
+          "time": "2–3 uur",
+          "serves": "6",
+          "level": "Makkelijk",
+          "ingredients": [
+            "1 kg diepgevroren poronkäristys (geschaafd rendiervlees)",
+            "3 el boter of rendiervet",
+            "2 dl water",
+            "1½ tl zout"
+          ],
+          "instructions": [
+            "Verwarm de oven voor op 125 °C.",
+            "Braad het vlees in porties aan in het vet, in een ovenvaste gietijzeren braadpan op het fornuis, tot het vocht verdampt is.",
+            "Voeg het water en het zout toe en laat het zachtjes aan de kook komen.",
+            "Doe het deksel erop en zet de pan 2 tot 3 uur in de oven, tot het vlees uit elkaar valt.",
+            "Kijk er een of twee keer naar en giet er zo nodig een scheutje water bij. Serveer zoals de fornuisversie."
+          ],
+          "tip": "Gepubliceerde ovenrecepten lopen uiteen van 125 °C gedurende 2 tot 3 uur, de keuze van de rendierhoudersvereniging, tot 175 of 200 °C gedurende ongeveer een uur. Hoe lager de temperatuur, hoe langer het duurt."
+        },
+        {
+          "name": "Aardappelpuree en rauw geroerde vossenbessen",
+          "description": "De twee bijgerechten die het bord compleet maken: boterige aardappelpuree en rauwe vossenbessen, met suiker geroerd.",
+          "time": "30 min",
+          "serves": "4",
+          "level": "Makkelijk",
+          "ingredients": [
+            "1 kg kruimige aardappelen",
+            "50 g boter",
+            "2 dl melk",
+            "Zout",
+            "3 dl vossenbessen, vers of diepgevroren",
+            "3 el suiker",
+            "Augurk om erbij te serveren"
+          ],
+          "instructions": [
+            "Schil de aardappelen, snijd ze in gelijke stukken en kook ze gaar in water met zout, in ongeveer 20 minuten.",
+            "Giet af, stamp de aardappelen fijn met de boter en klop er dan de hete melk door tot de puree glad is. Breng op smaak met zout.",
+            "Roer de vossenbessen in een kom met de suiker en laat ze staan terwijl de aardappelen koken. Roer af en toe, tot de suiker is opgelost.",
+            "Serveer beide bij het rendiervlees, met een paar plakjes augurk."
+          ],
+          "tip": "In Finse recepten wordt de puree gemaakt van puikula, de lange gele aardappel van Lapland. Lapin Puikula is sinds 1997 een beschermde oorsprongsbenaming van de EU."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Wat het is",
+      "headline": "Rendier, dun geschaafd.",
+      "p1": "Poronkäristys is rendiervlees dat halfbevroren in dunne reepjes wordt geschaafd, in vet wordt aangebraden en in een beetje water wordt gestoofd tot het mals is. De rendierhoudersvereniging noemt ook de geschikte delen: twee stukken uit de achterbout, de schouder en het voorste deel van de rug.",
+      "p2": "De meeste Finse rendieren worden in oktober en november geslacht, na minstens een half jaar waarin ze niets anders aten dan wat ze in de natuur vonden. Het vlees is donker en mager, met 2 tot 4 % vet.",
+      "p3": "Over de grens in Zweden heet hetzelfde gerecht <em>renskav</em>. Rendiervlees uit het Finse rendierhoudersgebied heeft sinds 2009 een eigen beschermde oorsprongsbenaming van de EU, <strong>Lapin Poron liha</strong>: de rendieren grazen vrij op natuurlijke weiden, en het vlees wordt binnen het rendierhoudersgebied geproduceerd, uitgesneden en verpakt."
+    },
+    "variations": {
+      "kicker": "Varianten",
+      "headline": "Bier, room of spek.",
+      "lead": "In de traditionele pan gaan vier ingrediënten. Al het andere is er later bij gekomen.",
+      "items": [
+        {
+          "title": "Donker bier",
+          "body": "Valio en K-Ruoka laten het vlees stoven in donker bier met een beetje water. De slagers van Rönkä wijzen erop dat het met bier, wijn of room niet meer het traditionele gerecht is."
+        },
+        {
+          "title": "Zweedse renskav",
+          "body": "In Zweden is renskav meestal een romige stoofschotel met cantharellen en gekneusde jeneverbessen, klaar in minder dan 30 minuten en geserveerd met rauw geroerde vossenbessen."
+        },
+        {
+          "title": "Spek",
+          "body": "In het recept van K-Ruoka wordt spek met het rendiervlees meegebakken, voor extra vet en een diepe, rokerige smaak."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In cijfers",
+      "headline": "De cijfers achter poronkäristys.",
+      "lead": "Cijfers van de rendierhoudersvereniging, het EU-register, de supermarktschappen en de menukaarten van restaurants. Bij elke kaart staat de bron.",
+      "items": [
+        {
+          "value": "179.509",
+          "label": "levende rendieren in Finland aan het eind van het rendierhoudersjaar 2024–2025, tegenover een toegestaan maximum van 203.700.",
+          "source": "Paliskuntain yhdistys (vereniging van rendierhouders), statistisch overzicht 2024–2025."
+        },
+        {
+          "value": "1,38 miljoen kg",
+          "label": "rendiervlees geproduceerd in 2024–2025, minder dan de 1,66 miljoen kg van een jaar eerder.",
+          "source": "Paliskuntain yhdistys, statistiek van de vleesproductie."
+        },
+        {
+          "value": "2–4 %",
+          "label": "vet in rendiervlees. Volgens de EU-productbeschrijving bevat het ongeveer 23 % eiwit en 5 tot 10 keer zoveel selenium als rundvlees.",
+          "source": "Paliskuntain yhdistys; Publicatieblad van de Europese Unie C 19, 2008."
+        },
+        {
+          "value": "38–42 €",
+          "label": "per kilo voor diepgevroren poronkäristys in een Finse supermarkt, in verpakkingen van 240 tot 500 g.",
+          "source": "Webwinkel van K-Ruoka, K-Citymarket Iso Omena, gecontroleerd op 23 september 2026."
+        },
+        {
+          "value": "32–36 €",
+          "label": "voor een bord poronkäristys in restaurants in Rovaniemi, Levi en Inari.",
+          "source": "De eigen menukaarten van de restaurants, gecontroleerd op 23 september 2026."
+        },
+        {
+          "value": "2009",
+          "label": "het jaar waarin Lapin Poron liha, rendiervlees uit Fins Lapland, een beschermde oorsprongsbenaming van de EU werd.",
+          "source": "Ruokavirasto; Verordening (EG) nr. 366/2009 van de Commissie."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te eten",
+      "headline": "Poronkäristys op de kaart in Lapland.",
+      "lead": "Het staat in heel Lapland op de kaart, meestal voor 32 tot 36 euro per bord. Deze restaurants serveren het; de prijzen komen van hun menukaart op 23 september 2026. Roka in Rovaniemi serveert het ook op een broodje van 14,90 €.",
+      "items": [
+        {
+          "name": "Arctic Restaurant",
+          "town": "Rovaniemi",
+          "body": "In het Arctic Light Hotel aan de Valtakatu: gebakken rendier met aardappelpuree, augurk en vossenbessen, 34 €."
+        },
+        {
+          "name": "Lapland Restaurant Taiga",
+          "town": "Rovaniemi",
+          "body": "Traditionele poronkäristys aan de Valtakatu 33, 32 €."
+        },
+        {
+          "name": "Scandic Pohjanhovi",
+          "town": "Rovaniemi",
+          "body": "Lang gestoofde traditionele poronkäristys van rendierbraadstuk, 35,80 €."
+        },
+        {
+          "name": "Ravintola Ämmilä",
+          "town": "Levi",
+          "body": "Poronkäristys met aardappelpuree, augurk en vossenbessen, 32 €."
+        },
+        {
+          "name": "Ravintola Aurora",
+          "town": "Inari",
+          "body": "Klassieke poronkäristys in het restaurant van Visit Inari, 35 €."
+        },
+        {
+          "name": "Ravintola Petronella",
+          "town": "Inari",
+          "body": "Poronkäristys op noordelijke wijze, 32 €."
+        }
+      ],
+      "gygCta": "Bekijk bezoeken aan rendierboerderijen op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "faq": {
+      "kicker": "Vragen",
+      "headline": "Veelgestelde vragen over poronkäristys.",
+      "items": [
+        {
+          "question": "Hoe lang laat u poronkäristys sudderen?",
+          "answer": "Recepten variëren van 10 minuten tot een paar uur. De rendierhoudersvereniging houdt het op 10 tot 30 minuten onder een deksel, en voor vlees uit de bout kan 10 minuten genoeg zijn; andere recepten laten het 30 tot 60 minuten sudderen. Het is klaar als het vlees mals is."
+        },
+        {
+          "question": "Kunt u poronkäristys in de oven maken?",
+          "answer": "Ja. Braad het vlees eerst aan op het fornuis en laat het daarna afgedekt in de oven garen. De rendierhoudersvereniging gebruikt 125 °C gedurende 2 tot 3 uur; snellere recepten gebruiken 175 tot 200 °C gedurende ongeveer een uur."
+        },
+        {
+          "question": "Wat kost poronkäristys?",
+          "answer": "Diepgevroren, kant-en-klaar geschaafde poronkäristys kost in Finse supermarkten ongeveer 38 tot 42 euro per kilo, en een bord in een restaurant in Lapland ongeveer 32 tot 36 euro. Prijzen gecontroleerd op 23 september 2026."
+        },
+        {
+          "question": "Wat eet u bij poronkäristys?",
+          "answer": "Aardappelpuree, vossenbessen en augurk. Volgens de rendierhoudersvereniging zijn rauw geroerde vossenbessen die al vorst hebben gehad het beste bijgerecht."
+        },
+        {
+          "question": "Is poronkäristys hetzelfde als Zweedse renskav?",
+          "answer": "Het idee is hetzelfde: dunne plakjes van bevroren rendiervlees, gebakken in de pan. Zweedse renskav wordt meestal afgemaakt met room, cantharellen en jeneverbes, terwijl traditionele Finse poronkäristys alleen vet, water en zout bevat."
+        },
+        {
+          "question": "Is poronkäristys het nationale gerecht van Finland?",
+          "answer": "Nee. Bij de verkiezing van een Fins nationaal gerecht in 2017 won roggebrood, en poronkäristys zat niet bij de 12 finalisten."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "De vossenbessen ernaast",
+          "body": "Waarom vossenbessen zonder suiker goed blijven, wanneer u ze plukt en hoe ze verschillen van cranberry's.",
+          "cta": "Vossenbessengids"
+        },
+        {
+          "title": "Meer recepten uit Lapland",
+          "body": "Bidos, platbrood, vissoep en bessenkissel, stap voor stap uitgeschreven.",
+          "cta": "Traditionele recepten"
+        },
+        {
+          "title": "Overnachten in Rovaniemi",
+          "body": "Drie van de restaurants hierboven liggen in Rovaniemi, en de stad is een praktische uitvalsbasis om Lapland al etend te ontdekken.",
+          "cta": "Bekijk verblijven in Rovaniemi"
+        }
+      ]
+    }
+  },
+  "leipajuusto": {
+    "title": "Leipäjuusto: de Finse broodkaas die piept, met recepten",
+    "description": "Leipäjuusto is Finse piepkaas: broodkaas uit de oven, warm met kruipbraamjam, in de koffie of in een salade. Drie recepten en waarom hij piept.",
+    "teaser": "Verse kaas uit de oven die tussen uw tanden piept: warm met kruipbraamjam, in de koffie of in een salade, en hoe u hem zelf van melk maakt.",
+    "hero": {
+      "eyebrow": "Finse broodkaas · Leipäjuusto",
+      "title": "Leipäjuusto, de kaas",
+      "titleHighlight": "die piept.",
+      "subtitle": "Een platte verse kaas uit het noorden van Finland, gebakken tot hij bruin gespikkeld is en warm gegeten met kruipbraamjam of zacht geweekt in een kop koffie. Hier leest u hoe u hem serveert, hoe u hem thuis van melk maakt en waarom hij tussen uw tanden piept.",
+      "primaryCta": "Naar de recepten",
+      "secondaryCta": "Alle traditionele recepten",
+      "pills": [
+        "De recepten",
+        "Wat het is",
+        "Zo eet u hem",
+        "In cijfers",
+        "Waar te vinden",
+        "Vragen"
+      ]
+    },
+    "intro": {
+      "lead": "Leipäjuusto wordt niet gerijpt en ook niet gesmolten. De melk wordt met stremsel gestremd, de wrongel tot een platte ronde schijf geperst en gebakken tot het oppervlak bruine vlekken krijgt, zoals een brood.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Gebakken, niet gerijpt",
+          "body": "De wrongel wordt gevormd tot een schijf van 0,5 tot 3 cm dik en aan beide kanten gebakken, in de oven, op de grill of bij een open vuur. Hij wordt binnen enkele dagen gegeten, niet pas na maanden."
+        },
+        {
+          "n": "02",
+          "title": "Het piepen is echt",
+          "body": "In 2025 testten Finse akoestiekonderzoekers 100 monsters: broodkaas piepte bij elke proef, mozzarella bij één op de vijf. Het geluid is wrijving, zoals een strijkstok op een snaar."
+        },
+        {
+          "n": "03",
+          "title": "Kruipbraamjam of koffie",
+          "body": "De twee traditionele manieren om hem te eten: warm met kruipbraamjam als dessert, of in blokjes in een kop hete koffie, gegeten met een lepel."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "De recepten",
+      "headline": "Drie manieren om hem op tafel te zetten.",
+      "lead": "Het warme dessert dat de meeste Finnen bedoelen als ze leipäjuusto zeggen, een doordeweekse salade en de kaas zelf, gemaakt van 4 liter melk.",
+      "items": [
+        {
+          "name": "Warme leipäjuusto met kruipbraamjam",
+          "description": "Het klassieke dessert: de kaas in room verwarmd tot hij zacht wordt, met kruipbraamjam erover geschept. Klaar in 20 minuten.",
+          "time": "20 min",
+          "serves": "4",
+          "level": "Makkelijk",
+          "ingredients": [
+            "200 g leipäjuusto",
+            "2 dl slagroom",
+            "1 dl kruipbraamjam",
+            "Boter voor de schaal"
+          ],
+          "instructions": [
+            "Verwarm de oven voor op 200 °C en vet een kleine ovenschaal in met boter.",
+            "Snijd de leipäjuusto in ruitjes of blokjes en leg ze in de schaal.",
+            "Giet de room over de kaas.",
+            "Bak ongeveer 15 minuten, tot de room borrelt en de kaas zacht is geworden.",
+            "Schep de kruipbraamjam over de warme kaas en serveer meteen."
+          ],
+          "tip": "Weinig tijd? Dan kan het ook in 3 minuten in de magnetron op 800 W. Vossenbessen- of bosbessenjam werkt als er geen kruipbramen te krijgen zijn."
+        },
+        {
+          "name": "Salade met leipäjuusto",
+          "description": "In de pan gebruinde blokjes leipäjuusto op groene sla met bessen en zaden. Warme kaas, koude salade.",
+          "time": "15 min",
+          "serves": "2",
+          "level": "Makkelijk",
+          "ingredients": [
+            "200 g leipäjuusto",
+            "100 g slablaadjes",
+            "½ komkommer",
+            "½ rode ui",
+            "1 dl vossenbessen of blauwe bosbessen",
+            "2 el zonnebloempitten",
+            "3 el koolzaadolie",
+            "1 el appelciderazijn",
+            "1 tl honing",
+            "Zout en zwarte peper"
+          ],
+          "instructions": [
+            "Snijd de leipäjuusto in blokjes en bak ze op middelhoog vuur bruin in een droge koekenpan, 2 tot 3 minuten per kant.",
+            "Rooster de zonnebloempitten een minuut in dezelfde pan.",
+            "Snijd de komkommer en de rode ui in dunne plakjes.",
+            "Klop de olie, azijn, honing, zout en peper tot een dressing.",
+            "Meng de sla met de komkommer en de ui, leg de warme kaas, de bessen en de pitten erop en giet de dressing erover."
+          ],
+          "tip": "Leipäjuusto houdt zijn vorm in een hete pan, dus hij kleurt zonder olie."
+        },
+        {
+          "name": "Zelfgemaakte leipäjuusto",
+          "description": "4 liter volle melk, stremsel en een nacht in de koelkast. De grill van de oven zorgt voor de bruine vlekken.",
+          "time": "1 uur + een nacht",
+          "serves": "1 kaas",
+          "level": "Gemiddeld",
+          "ingredients": [
+            "4 l volle melk",
+            "1 el vloeibaar stremsel",
+            "1 el zout"
+          ],
+          "instructions": [
+            "Verwarm de melk met het zout tot ongeveer 36 °C, handwarm, en roer zodat de bodem niet aanbrandt.",
+            "Haal de pan van het vuur, roer het stremsel erdoor en laat de melk ongeveer 30 minuten ongestoord staan, tot ze gestremd is.",
+            "Snijd de gestremde wrongel in kleine blokjes en laat de wei zich afscheiden.",
+            "Schep de wrongel in een zeef met kaasdoek en laat hem een nacht in de koelkast uitlekken.",
+            "Druk de wrongel in een platte, ronde ovenschaal tot een laag van ongeveer 2 cm en giet de wei die vrijkomt af.",
+            "Laat de kaas onder de grill van de oven op 250 tot 275 °C in 5 tot 10 minuten bruinen, tot er donkere vlekken verschijnen."
+          ],
+          "tip": "De beste leipäjuusto werd traditioneel gemaakt van biest, de eerste melk na het kalven, die rijk is aan caseïne. Thuis werkt gewone volle melk ook."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Wat het is",
+      "headline": "Verse kaas, gebakken tot hij gespikkeld is.",
+      "p1": "Leipäjuusto is een verse kaas van koemelk die met stremsel is gestremd. De wrongel wordt tot een platte schijf gevormd en aan beide kanten gebakken tot het oppervlak donkere vlekken krijgt, in de oven, op de grill of bij een open vuur. Hij wordt niet gerijpt en blijft daarom 10 tot 14 dagen goed vanaf de zuivelfabriek.",
+      "p2": "Hij hoort bij het noorden van Finland. De meeste dialectvermeldingen van het woord leipäjuusto komen uit Österbotten en Peräpohjola in het noordwesten, terwijl dezelfde kaas in Kainuu juustoleipä heet. In het Finse deel van Tornedalen, aan de Zweedse grens, heet hij kahvijuusto, koffiekaas, en aan de Zweedse kant van de rivier heet de tegenhanger kaffeost.",
+      "p3": "De traditionele grondstof was biest, de eerste melk na het kalven, die rijk is aan caseïne, en daarvan maakte Juustoportti in Jalasjärvi in 1966 de eerste commerciële leipäjuusto. Twee Finse varianten wachten nu op een beschermde EU-naam: voor <strong>Pohjalainen leipäjuusto</strong> en <strong>Kainuun juustoleipä</strong> is in 2024 een aanvraag ingediend. In Zweden werd kaffeost in 2025 een beschermde oorsprongsbenaming."
+    },
+    "variations": {
+      "kicker": "Zo eet u hem",
+      "headline": "Warm, in de koffie of koud.",
+      "lead": "Leipäjuusto kan zoet of hartig, warm of koud. Zo komt u hem in Finland tegen.",
+      "items": [
+        {
+          "title": "In een kop koffie",
+          "body": "De oude manier: blokjes kaas in de kop, hete koffie erover en eten met een lepel. In het Zweedse Tornedalen wordt de kaas op dezelfde manier in gekookte koffie zacht gemaakt."
+        },
+        {
+          "title": "In room uit de oven",
+          "body": "In de oven in room verwarmd tot hij zacht is en dan geserveerd met kruipbraamjam. Dit is de dessertversie, en het eerste recept op deze pagina."
+        },
+        {
+          "title": "Uit de pan",
+          "body": "In een droge pan gebakken en in salades en burgers verwerkt, zoals de zuivelfabrieken tegenwoordig op de verpakking voorstellen."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In cijfers",
+      "headline": "De cijfers achter leipäjuusto.",
+      "lead": "Cijfers uit de Finse voedingsmiddelendatabank, van supermarktschappen en zuivelfabrieken, en uit het onderzoek naar het piepen. Bij elke kaart staat de bron.",
+      "items": [
+        {
+          "value": "277 kcal",
+          "label": "per 100 g, met 21 g vet en 18,6 g eiwit.",
+          "source": "Fineli, voedingsmiddelendatabank van THL, product 657. Op verpakkingen staat ongeveer 280 kcal."
+        },
+        {
+          "value": "12–19 €",
+          "label": "per kilo in Finse supermarkten, afhankelijk van de zuivelfabriek en de verpakkingsgrootte.",
+          "source": "Webwinkels van S-kaupat en K-Ruoka, gecontroleerd op 23 september 2026."
+        },
+        {
+          "value": "100 %",
+          "label": "van de proeven waarin broodkaas piepte bij het wrijven, tegenover 20 % bij mozzarella.",
+          "source": "Nurkkala, Carlson, Hopia & Postema, DAS|DAGA-congres, 2025."
+        },
+        {
+          "value": "10–14 dagen",
+          "label": "houdbaar vanaf de zuivelfabriek. Verse kaas kan tot 3 maanden worden ingevroren.",
+          "source": "Productgegevens van de producenten via Kespro; Miettilän Juustola bij Yle, 2017."
+        },
+        {
+          "value": "2024",
+          "label": "het jaar waarin twee Finse varianten een beschermde EU-naam aanvroegen. Het besluit laat nog op zich wachten.",
+          "source": "Ruokavirasto; EU-register eAmbrosia, gecontroleerd op 23 september 2026."
+        },
+        {
+          "value": "1966",
+          "label": "de eerste commerciële leipäjuusto, door Juustoportti in Jalasjärvi van biest gemaakt.",
+          "source": "Yhteishyvä, 2018, bijgewerkt in 2025."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te vinden",
+      "headline": "Zo komt u aan leipäjuusto.",
+      "lead": "Leipäjuusto ligt in heel Finland gewoon in de supermarkt, en in Lapland hoort hij bij de koffie- en desserttafel.",
+      "items": [
+        {
+          "name": "De supermarkt",
+          "town": "Heel Finland",
+          "body": "Kijk bij de kaas: Vaalan Juustola, Juustoportti, Riitan Herkku en Niemitalo maken wat er in het schap ligt, voor 12 tot 19 euro per kilo. Veel ervan is lactosevrij."
+        },
+        {
+          "name": "De kaasmakerijen",
+          "town": "Kainuu en Österbotten",
+          "body": "Vaalan Juustola in Vaala maakt al sinds 1984 juustoleipä. Niemitalon Juustola ligt in Pudasjärvi, vlak bij de grens met Lapland."
+        },
+        {
+          "name": "De desserttafel",
+          "town": "Lapland",
+          "body": "De gids van K-Ruoka over de keuken van Lapland rekent leipäjuusto, vaak in de oven gebakken met room en kruipbramen, tot een vast onderdeel van de koffie- en desserttafel in de regio."
+        }
+      ],
+      "gygCta": "Bekijk culinaire tours in Lapland op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "faq": {
+      "kicker": "Vragen",
+      "headline": "Veelgestelde vragen over leipäjuusto.",
+      "items": [
+        {
+          "question": "Waarom piept leipäjuusto?",
+          "answer": "Het piepen is wrijving. In een onderzoek van Finse akoestiekonderzoekers uit 2025 bleef de kaas afwisselend haken en losschieten tegen het mes, zoals een strijkstok op een snaar, en de kleine, met elkaar verbonden luchtholtes in de kaas resoneerden mee. Broodkaas piepte bij 100 % van hun proeven."
+        },
+        {
+          "question": "Hoe warmt u leipäjuusto op?",
+          "answer": "In de oven op 200 °C in ongeveer 15 minuten, in een schaal met room, of in een droge pan een paar minuten per kant. In de magnetron is 3 minuten op 800 W genoeg."
+        },
+        {
+          "question": "Is leipäjuusto hetzelfde als juustoleipä?",
+          "answer": "Ja. Leipäjuusto is de algemene Finse naam en juustoleipä de naam in Kainuu voor dezelfde kaas. In het Finse deel van Tornedalen heet hij kahvijuusto, en de Zweedse kaffeost komt uit dezelfde traditie voort."
+        },
+        {
+          "question": "Hoe lang blijft leipäjuusto goed?",
+          "answer": "Ongeopend ongeveer 10 tot 14 dagen vanaf de zuivelfabriek, bij +2 tot +6 °C; de datum staat op de verpakking. Verse kaas kan tot 3 maanden worden ingevroren en in de koelkast worden ontdooid."
+        },
+        {
+          "question": "Hoeveel calorieën zitten er in leipäjuusto?",
+          "answer": "Ongeveer 277 kcal per 100 g, met 21 g vet en 18,6 g eiwit, volgens de Finse voedingsmiddelendatabank Fineli. Op verpakkingen staat ongeveer 280 kcal."
+        },
+        {
+          "question": "Is leipäjuusto een beschermde naam, zoals feta?",
+          "answer": "Nog niet. Voor twee Finse varianten, Pohjalainen leipäjuusto en Kainuun juustoleipä, is in 2024 een beschermde geografische aanduiding van de EU aangevraagd, en het besluit laat nog op zich wachten. De Zweedse kaffeost werd in 2025 een beschermde oorsprongsbenaming."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "De jam die erbij hoort",
+          "body": "Kruipbramen groeien één per stengel in noordelijke venen, en elke bes wordt met de hand geplukt. De kruipbraamgids vertelt over het seizoen en de prijs.",
+          "cta": "Kruipbraamgids"
+        },
+        {
+          "title": "Meer recepten uit Lapland",
+          "body": "Gebakken rendier, bidos, platbrood en vissoep, stap voor stap uitgeschreven.",
+          "cta": "Traditionele recepten"
+        },
+        {
+          "title": "Overnachten in Rovaniemi",
+          "body": "De hoofdstad van Lapland is een praktische uitvalsbasis voor wie voor het eten komt, van supermarktschappen tot menukaarten.",
+          "cta": "Bekijk verblijven in Rovaniemi"
+        }
+      ]
     }
   },
   "modernLapland": {

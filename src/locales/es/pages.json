@@ -1477,6 +1477,534 @@
     "featured": {
       "kicker": "Empiece por aquí",
       "headline": "Si cocina un solo plato, cocine este."
+    },
+    "dishes": {
+      "kicker": "Dos clásicos de Laponia",
+      "headline": "Poronkäristys y leipäjuusto, cada uno en su página.",
+      "cta": "Ver las recetas"
+    }
+  },
+  "poronkaristys": {
+    "title": "Poronkäristys: carne de reno salteada, receta de Laponia",
+    "description": "El poronkäristys es comida típica de Finlandia: reno laminado y dorado en mantequilla, con puré y arándanos rojos. Receta, versión al horno y precios.",
+    "teaser": "Reno semicongelado cortado muy fino, dorado en mantequilla y guisado hasta quedar tierno: la receta de los pastores, la versión al horno y dónde pedirlo en Laponia.",
+    "hero": {
+      "eyebrow": "El plato de reno de Laponia · Poronkäristys",
+      "title": "Poronkäristys, reno",
+      "titleHighlight": "cortado fino, cocinado a fuego lento.",
+      "subtitle": "Reno cortado en láminas cuando aún está semicongelado, dorado en mantequilla y guisado hasta que se deshace; después se sirve sobre puré de papas con arándanos rojos y pepinillos encurtidos. Aquí tiene la receta de los propios pastores, la versión al horno, cuánto cuesta y dónde pedirlo en Laponia.",
+      "primaryCta": "Ir a la receta",
+      "secondaryCta": "Todas las recetas tradicionales",
+      "pills": [
+        "La receta",
+        "Qué es",
+        "Variantes",
+        "En cifras",
+        "Dónde comerlo",
+        "Preguntas"
+      ]
+    },
+    "intro": {
+      "lead": "La propia asociación de pastores de renos llama al poronkäristys quizá el más legendario de todos los platos de reno. La versión tradicional necesita cuatro cosas: reno, mantequilla, agua y sal.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Cortado semicongelado",
+          "body": "La carne se corta semicongelada, a unos −6 °C, cuando está lo bastante firme para sacar láminas finas. En las tiendas finlandesas se vende ya laminada y congelada."
+        },
+        {
+          "n": "02",
+          "title": "Mantequilla, agua y sal",
+          "body": "El poronkäristys tradicional no lleva crema ni caldo. La carne se dora en mantequilla o grasa de reno y después se cocina tapada con un chorrito de agua. La pimienta llegó más tarde."
+        },
+        {
+          "n": "03",
+          "title": "Nunca sin arándanos rojos",
+          "body": "Se sirve sobre puré de papas con arándanos rojos y pepinillos encurtidos. La receta de los propios pastores señala como mejor acompañamiento los arándanos rojos tocados por la helada y mezclados en crudo."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "La receta",
+      "headline": "El poronkäristys, como se hace en casa.",
+      "lead": "Tres recetas: el clásico al fuego de la asociación de pastores de renos, la versión al horno, más lenta, para una olla más grande, y las dos guarniciones que lo acompañan.",
+      "items": [
+        {
+          "name": "Poronkäristys tradicional",
+          "description": "La versión de los pastores: reno, grasa, agua y sal, a fuego lento y con tapa hasta que la carne esté tierna. La pimienta es opcional; la crema no forma parte de la receta.",
+          "time": "30–60 min",
+          "serves": "3–4",
+          "level": "Fácil",
+          "ingredients": [
+            "500 g de poronkäristys congelado (reno en láminas finas)",
+            "25 g de mantequilla o grasa de reno",
+            "1 dl de agua",
+            "¾ de cucharadita de sal",
+            "Pimienta negra recién molida, al gusto"
+          ],
+          "instructions": [
+            "Deje que la carne congelada se ablande en el refrigerador lo justo para poder romper el bloque; las láminas deben seguir heladas.",
+            "Derrita la grasa a fuego alto en una sartén de fondo grueso o en una olla de hierro fundido y añada la carne por tandas, separando con una espátula las láminas congeladas.",
+            "Saltee hasta que la carne se haya descongelado, su jugo se haya evaporado y empiece a dorarse.",
+            "Vierta el agua y añada la sal.",
+            "Baje el fuego, tape y deje cocinar a fuego lento hasta que la carne esté tierna, de 10 a 30 minutos si es carne de pierna y más tiempo con otros cortes. Si se queda sin líquido, añada un chorrito de agua.",
+            "Pruebe, añada pimienta si lo desea y sirva sobre puré de papas con arándanos rojos y pepinillos encurtidos."
+          ],
+          "tip": "Según la asociación de pastores de renos, el sabor más intenso se consigue friendo la carne en grasa de reno."
+        },
+        {
+          "name": "Poronkäristys al horno",
+          "description": "La misma olla, terminada en el horno a baja temperatura. Tarda más, no hay que revolver y va bien para cantidades grandes.",
+          "time": "2–3 horas",
+          "serves": "6",
+          "level": "Fácil",
+          "ingredients": [
+            "1 kg de poronkäristys congelado (reno en láminas finas)",
+            "3 cucharadas de mantequilla o grasa de reno",
+            "2 dl de agua",
+            "1½ cucharaditas de sal"
+          ],
+          "instructions": [
+            "Precaliente el horno a 125 °C.",
+            "En el fuego, dore la carne en la grasa, por tandas, en una olla de hierro fundido apta para horno, hasta que su jugo se haya evaporado.",
+            "Añada el agua y la sal y lleve a un hervor suave.",
+            "Tape la olla y llévela al horno de 2 a 3 horas, hasta que la carne se deshaga.",
+            "Revise una o dos veces y añada un chorrito de agua si es necesario. Sirva igual que la versión al fuego."
+          ],
+          "tip": "Las recetas al horno publicadas van de 125 °C durante 2 a 3 horas, la opción de la asociación de pastores, a 175 o 200 °C durante una hora aproximadamente. Cuanto más baja la temperatura, más tiempo necesita."
+        },
+        {
+          "name": "Puré de papas y arándanos rojos mezclados en crudo",
+          "description": "Las dos guarniciones que completan el plato: puré de papas con mantequilla y arándanos rojos mezclados en crudo con azúcar.",
+          "time": "30 min",
+          "serves": "4",
+          "level": "Fácil",
+          "ingredients": [
+            "1 kg de papas harinosas",
+            "50 g de mantequilla",
+            "2 dl de leche",
+            "Sal",
+            "3 dl de arándanos rojos, frescos o congelados",
+            "3 cucharadas de azúcar",
+            "Pepinillos encurtidos para acompañar"
+          ],
+          "instructions": [
+            "Pele las papas, córtelas en trozos iguales y hiérvalas en agua con sal hasta que estén blandas, unos 20 minutos.",
+            "Escúrralas, aplástelas con la mantequilla y después incorpore la leche caliente batiendo hasta que el puré quede suave. Sazone con sal.",
+            "Mezcle los arándanos rojos con el azúcar en un tazón y déjelos reposar mientras se cocinan las papas, revolviendo de vez en cuando, hasta que el azúcar se haya disuelto.",
+            "Sirva las dos guarniciones con el reno y unas rodajas de pepinillo encurtido."
+          ],
+          "tip": "En las recetas finlandesas, el puré se hace con puikula, la papa alargada y amarilla de Laponia; la Lapin Puikula es denominación de origen protegida de la UE desde 1997."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Qué es",
+      "headline": "Reno cortado muy fino.",
+      "p1": "El poronkäristys es carne de reno cortada en láminas finas cuando aún está semicongelada, dorada en grasa y cocinada a fuego lento en un poco de agua hasta que queda tierna. La asociación de pastores de renos indica las piezas adecuadas: dos cortes de la pierna, la paleta y la parte delantera del lomo.",
+      "p2": "La mayoría de los renos finlandeses se sacrifican en octubre y noviembre, tras al menos medio año alimentándose solo de pastos naturales. La carne es oscura y magra, con un 2–4 % de grasa.",
+      "p3": "Al otro lado de la frontera, en Suecia, el mismo plato se llama <em>renskav</em>. La carne de reno de la zona de pastoreo finlandesa tiene desde 2009 su propia denominación de origen protegida de la UE, <strong>Lapin Poron liha</strong>: los renos se alimentan en libertad en pastos naturales, y la carne se produce, se despieza y se envasa dentro de la zona de pastoreo."
+    },
+    "variations": {
+      "kicker": "Variantes",
+      "headline": "Cerveza, crema o tocino.",
+      "lead": "La olla tradicional lleva cuatro ingredientes. Todo lo demás llegó después.",
+      "items": [
+        {
+          "title": "Cerveza oscura",
+          "body": "Valio y K-Ruoka cocinan la carne a fuego lento en cerveza oscura con un poco de agua. Los carniceros de Rönkä recuerdan que, con cerveza, vino o crema, ya no es el plato tradicional."
+        },
+        {
+          "title": "El renskav sueco",
+          "body": "En Suecia, el renskav suele ser un guiso cremoso con chantarelas y bayas de enebro machacadas, listo en menos de 30 minutos y servido con arándanos rojos mezclados en crudo."
+        },
+        {
+          "title": "Tocino",
+          "body": "La receta de K-Ruoka fríe tocino junto con el reno, para aportar más grasa y un fondo ahumado."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "En cifras",
+      "headline": "El poronkäristys, en datos.",
+      "lead": "Cifras de la asociación de pastores de renos, del registro de la UE, de los estantes del supermercado y de los menús de los restaurantes. Cada tarjeta indica su fuente.",
+      "items": [
+        {
+          "value": "179.509",
+          "label": "renos vivos en Finlandia al cierre del año de pastoreo 2024–2025, frente a un máximo permitido de 203.700.",
+          "source": "Paliskuntain yhdistys (Asociación de Pastores de Renos), informe estadístico 2024–2025."
+        },
+        {
+          "value": "1,38 millones de kg",
+          "label": "de carne de reno producidos en 2024–2025, por debajo de los 1,66 millones de kg del año anterior.",
+          "source": "Paliskuntain yhdistys, estadísticas de producción de carne."
+        },
+        {
+          "value": "2–4 %",
+          "label": "de grasa en la carne de reno. Según la descripción del producto publicada por la UE, la proteína ronda el 23 % y el selenio es de 5 a 10 veces el de la carne de res.",
+          "source": "Paliskuntain yhdistys; Diario Oficial de la UE C 19, 2008."
+        },
+        {
+          "value": "38–42 €",
+          "label": "el kilo de poronkäristys congelado en un supermercado finlandés, en envases de 240 a 500 g.",
+          "source": "Tienda en línea de K-Ruoka, K-Citymarket Iso Omena, consultada el 23 de septiembre de 2026."
+        },
+        {
+          "value": "32–36 €",
+          "label": "por un plato de poronkäristys en restaurantes de Rovaniemi, Levi e Inari.",
+          "source": "Menús de los propios restaurantes, consultados el 23 de septiembre de 2026."
+        },
+        {
+          "value": "2009",
+          "label": "el año en que Lapin Poron liha, la carne de reno de la Laponia finlandesa, se convirtió en denominación de origen protegida de la UE.",
+          "source": "Ruokavirasto; Reglamento (CE) n.º 366/2009 de la Comisión."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde comerlo",
+      "headline": "El poronkäristys en los menús de Laponia.",
+      "lead": "Está en los menús de toda Laponia, normalmente entre 32 y 36 euros el plato. Estos restaurantes lo ofrecen, con los precios de sus menús al 23 de septiembre de 2026. Roka, en Rovaniemi, también lo sirve en un sándwich de 14,90 €.",
+      "items": [
+        {
+          "name": "Arctic Restaurant",
+          "town": "Rovaniemi",
+          "body": "En el Arctic Light Hotel de Valtakatu: reno salteado con puré de papas, pepinillos encurtidos y arándanos rojos, 34 €."
+        },
+        {
+          "name": "Lapland Restaurant Taiga",
+          "town": "Rovaniemi",
+          "body": "Poronkäristys tradicional en Valtakatu 33, 32 €."
+        },
+        {
+          "name": "Scandic Pohjanhovi",
+          "town": "Rovaniemi",
+          "body": "Poronkäristys tradicional guisado lentamente, elaborado con carne de reno para asar, 35,80 €."
+        },
+        {
+          "name": "Ravintola Ämmilä",
+          "town": "Levi",
+          "body": "Poronkäristys con puré de papas, pepinillos encurtidos y arándanos rojos, 32 €."
+        },
+        {
+          "name": "Ravintola Aurora",
+          "town": "Inari",
+          "body": "Poronkäristys clásico en el restaurante de Visit Inari, 35 €."
+        },
+        {
+          "name": "Ravintola Petronella",
+          "town": "Inari",
+          "body": "Poronkäristys del norte, 32 €."
+        }
+      ],
+      "gygCta": "Ver visitas a granjas de renos en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "faq": {
+      "kicker": "Preguntas",
+      "headline": "Lo que la gente pregunta sobre el poronkäristys.",
+      "items": [
+        {
+          "question": "¿Cuánto tiempo se cocina el poronkäristys?",
+          "answer": "Las recetas van de 10 minutos a un par de horas. La asociación de pastores de renos habla de 10 a 30 minutos con tapa, y para la carne de pierna pueden bastar 10 minutos; otras recetas lo cocinan de 30 a 60 minutos. Está listo cuando la carne está tierna."
+        },
+        {
+          "question": "¿Se puede hacer poronkäristys al horno?",
+          "answer": "Sí. Dore primero la carne en el fuego y después cocínela tapada en el horno. La asociación de pastores usa 125 °C durante 2 a 3 horas; las recetas más rápidas, de 175 a 200 °C durante una hora aproximadamente."
+        },
+        {
+          "question": "¿Cuánto cuesta el poronkäristys?",
+          "answer": "El poronkäristys congelado y ya laminado cuesta unos 38–42 euros el kilo en los supermercados finlandeses, y un plato en un restaurante de Laponia, unos 32–36 euros. Precios consultados el 23 de septiembre de 2026."
+        },
+        {
+          "question": "¿Con qué se sirve el poronkäristys?",
+          "answer": "Con puré de papas, arándanos rojos y pepinillos encurtidos. La asociación de pastores señala como mejor acompañamiento los arándanos rojos tocados por la helada y mezclados en crudo."
+        },
+        {
+          "question": "¿El poronkäristys es lo mismo que el renskav sueco?",
+          "answer": "La idea es la misma: láminas finas cortadas de reno congelado y fritas en sartén. El renskav sueco suele terminarse con crema, chantarelas y enebro, mientras que el poronkäristys finlandés tradicional solo lleva grasa, agua y sal."
+        },
+        {
+          "question": "¿Es el poronkäristys el plato nacional de Finlandia?",
+          "answer": "No. En la votación de 2017 para elegir el plato nacional finlandés ganó el pan de centeno, y el poronkäristys no estaba entre los 12 finalistas."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "Los arándanos rojos de la guarnición",
+          "body": "Por qué los arándanos rojos se conservan sin azúcar, cuándo recogerlos y en qué se diferencian del cranberry.",
+          "cta": "Guía del arándano rojo"
+        },
+        {
+          "title": "Más recetas de Laponia",
+          "body": "Bidos, pan plano, sopa de pescado y kissel de bayas, explicados paso a paso.",
+          "cta": "Recetas tradicionales"
+        },
+        {
+          "title": "Alójese en Rovaniemi",
+          "body": "Tres de los restaurantes mencionados arriba están en Rovaniemi, y la ciudad es una base práctica para recorrer Laponia comiendo.",
+          "cta": "Ver alojamiento en Rovaniemi"
+        }
+      ]
+    }
+  },
+  "leipajuusto": {
+    "title": "Leipäjuusto, el queso finlandés que chirría: tres recetas",
+    "description": "El leipäjuusto es el queso finlandés horneado que chirría entre los dientes: caliente con mermelada de mora ártica, en el café o en ensalada. Tres recetas.",
+    "teaser": "Queso fresco dorado al horno que chirría entre los dientes: caliente con mermelada de mora ártica, en el café o en ensalada, y cómo hacerlo con leche.",
+    "hero": {
+      "eyebrow": "El «queso pan» finlandés · Leipäjuusto",
+      "title": "Leipäjuusto, el queso",
+      "titleHighlight": "que chirría.",
+      "subtitle": "Un queso fresco y plano del norte de Finlandia, horneado hasta cubrirse de manchas tostadas, que se come caliente con mermelada de mora ártica o ablandado en una taza de café. Aquí verá cómo servirlo, cómo hacerlo en casa con leche y por qué chirría entre los dientes.",
+      "primaryCta": "Ir a las recetas",
+      "secondaryCta": "Todas las recetas tradicionales",
+      "pills": [
+        "Las recetas",
+        "Qué es",
+        "Cómo se come",
+        "En cifras",
+        "Dónde encontrarlo",
+        "Preguntas"
+      ]
+    },
+    "intro": {
+      "lead": "El leipäjuusto no es un queso madurado ni fundido. Es leche cuajada con cuajo, prensada en un disco plano y horneada hasta que la superficie se tuesta a manchas, como la corteza de un pan.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Horneado, no madurado",
+          "body": "La cuajada se moldea en un disco de 0,5 a 3 cm de grosor y se tuesta por ambos lados, en el horno, a la parrilla o junto a una fogata. Se come en cuestión de días, no de meses."
+        },
+        {
+          "n": "02",
+          "title": "El chirrido no es un mito",
+          "body": "En 2025, investigadores finlandeses de acústica probaron 100 muestras: el leipäjuusto chirrió en todas las pruebas, y la mozzarella, en una de cada cinco. El sonido es fricción, como un arco sobre una cuerda."
+        },
+        {
+          "n": "03",
+          "title": "Mermelada de mora ártica o café",
+          "body": "Las dos formas tradicionales de comerlo: caliente con mermelada de mora ártica como postre, o en cubos en una taza de café caliente, a cucharadas."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Las recetas",
+      "headline": "Tres formas de llevarlo a la mesa.",
+      "lead": "El postre caliente al que se refieren la mayoría de los finlandeses cuando dicen leipäjuusto, una ensalada de todos los días y el propio queso, hecho con 4 litros de leche.",
+      "items": [
+        {
+          "name": "Leipäjuusto caliente con mermelada de mora ártica",
+          "description": "El postre clásico: el queso calentado en crema hasta que se ablanda, con mermelada de mora ártica por encima. Listo en 20 minutos.",
+          "time": "20 min",
+          "serves": "4",
+          "level": "Fácil",
+          "ingredients": [
+            "200 g de leipäjuusto",
+            "2 dl de crema de leche para batir",
+            "1 dl de mermelada de mora ártica",
+            "Mantequilla para el molde"
+          ],
+          "instructions": [
+            "Precaliente el horno a 200 °C y unte con mantequilla un molde pequeño apto para horno.",
+            "Corte el leipäjuusto en rombos o en cubos y colóquelos en el molde.",
+            "Vierta la crema sobre el queso.",
+            "Hornee unos 15 minutos, hasta que la crema burbujee y el queso se haya ablandado.",
+            "Reparta la mermelada de mora ártica sobre el queso caliente y sirva de inmediato."
+          ],
+          "tip": "Si tiene prisa, 3 minutos en el microondas a 800 W dan el mismo resultado. Si no encuentra mora ártica, puede usar mermelada de arándano rojo o de arándano silvestre."
+        },
+        {
+          "name": "Ensalada de leipäjuusto",
+          "description": "Cubos de leipäjuusto dorados en la sartén sobre hojas verdes, con bayas y semillas. Queso caliente, ensalada fría.",
+          "time": "15 min",
+          "serves": "2",
+          "level": "Fácil",
+          "ingredients": [
+            "200 g de leipäjuusto",
+            "100 g de hojas verdes para ensalada",
+            "½ pepino",
+            "½ cebolla morada",
+            "1 dl de arándanos rojos o arándanos silvestres",
+            "2 cucharadas de semillas de girasol",
+            "3 cucharadas de aceite de canola",
+            "1 cucharada de vinagre de manzana",
+            "1 cucharadita de miel",
+            "Sal y pimienta negra"
+          ],
+          "instructions": [
+            "Corte el leipäjuusto en cubos y dórelos en una sartén sin aceite a fuego medio, de 2 a 3 minutos por cada lado.",
+            "Tueste las semillas de girasol en la misma sartén durante un minuto.",
+            "Corte el pepino y la cebolla morada en rodajas finas.",
+            "Bata el aceite, el vinagre, la miel, la sal y la pimienta para hacer el aderezo.",
+            "Mezcle las hojas con el pepino y la cebolla, ponga encima el queso caliente, las bayas y las semillas, y vierta el aderezo por encima."
+          ],
+          "tip": "El leipäjuusto mantiene la forma en la sartén caliente, así que se dora sin nada de aceite."
+        },
+        {
+          "name": "Leipäjuusto casero",
+          "description": "4 litros de leche entera, cuajo y una noche en el refrigerador. El grill del horno le da las manchas tostadas.",
+          "time": "1 hora + una noche",
+          "serves": "1 queso",
+          "level": "Media",
+          "ingredients": [
+            "4 l de leche entera",
+            "1 cucharada de cuajo líquido",
+            "1 cucharada de sal"
+          ],
+          "instructions": [
+            "Caliente la leche con la sal hasta unos 36 °C, tibia al tacto, revolviendo para que no se pegue al fondo.",
+            "Retire la olla del fuego, incorpore el cuajo y déjela reposar sin tocarla unos 30 minutos, hasta que cuaje.",
+            "Corte la cuajada en cubos pequeños y deje que se separe el suero.",
+            "Pase la cuajada a un colador forrado con una gasa y déjela escurrir en el refrigerador toda la noche.",
+            "Presione la cuajada en un molde redondo y bajo apto para horno, hasta unos 2 cm de grosor, y retire el suero que suelte.",
+            "Gratínela con el grill del horno a 250–275 °C durante 5–10 minutos, hasta que aparezcan manchas oscuras."
+          ],
+          "tip": "Tradicionalmente, el mejor leipäjuusto se hacía con calostro, la primera leche después del parto de la vaca, rica en caseína. En casa funciona bien la leche entera normal."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Qué es",
+      "headline": "Queso fresco, tostado a manchas.",
+      "p1": "El leipäjuusto es un queso fresco de leche de vaca cuajada con cuajo. La cuajada se moldea en un disco plano y se tuesta por ambos lados hasta que la superficie se cubre de manchas oscuras, en el horno, a la parrilla o junto a una fogata. No se madura, así que se conserva de 10 a 14 días desde que sale de la quesería.",
+      "p2": "Es un queso del norte de Finlandia. La mayoría de los registros dialectales de la palabra leipäjuusto proceden de Ostrobotnia y de Peräpohjola, en el noroeste, mientras que en Kainuu el mismo queso se llama juustoleipä. En el valle del Tornio, en la frontera con Suecia, es kahvijuusto, «queso de café», y al otro lado del río, en Suecia, kaffeost.",
+      "p3": "La materia prima tradicional era el calostro, la primera leche después del parto, rica en caseína, y con él elaboró Juustoportti, en Jalasjärvi, el primer leipäjuusto comercial en 1966. Hoy dos versiones finlandesas esperan un nombre protegido por la UE: <strong>Pohjalainen leipäjuusto</strong> y <strong>Kainuun juustoleipä</strong> lo solicitaron en 2024. En Suecia, el kaffeost obtuvo la denominación de origen protegida en 2025."
+    },
+    "variations": {
+      "kicker": "Cómo se come",
+      "headline": "Caliente, en el café o frío.",
+      "lead": "El leipäjuusto va bien en dulce o en salado, caliente o frío. Así es como lo encontrará en Finlandia.",
+      "items": [
+        {
+          "title": "En una taza de café",
+          "body": "La forma antigua: cubos de queso en la taza, café caliente por encima y a cucharadas. En el Tornedalen sueco el queso se ablanda de la misma manera en café hervido."
+        },
+        {
+          "title": "Al horno con crema",
+          "body": "Calentado en el horno con crema hasta que se ablanda y servido con mermelada de mora ártica. Es la versión de postre y la primera receta de esta página."
+        },
+        {
+          "title": "En la sartén",
+          "body": "Dorado en la sartén sin aceite y añadido a ensaladas y hamburguesas, como sugieren ahora las queserías en el envase."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "En cifras",
+      "headline": "El leipäjuusto, en datos.",
+      "lead": "Cifras de la base de datos finlandesa de composición de alimentos, de los estantes del supermercado, de las queserías y de la investigación sobre el chirrido. Cada tarjeta indica su fuente.",
+      "items": [
+        {
+          "value": "277 kcal",
+          "label": "por 100 g, con 21 g de grasa y 18,6 g de proteína.",
+          "source": "Fineli, base de datos de composición de alimentos del THL, alimento 657. Las etiquetas indican unas 280 kcal."
+        },
+        {
+          "value": "12–19 €",
+          "label": "el kilo en los supermercados finlandeses, según la quesería y el tamaño del envase.",
+          "source": "Tiendas en línea de S-kaupat y K-Ruoka, consultadas el 23 de septiembre de 2026."
+        },
+        {
+          "value": "100 %",
+          "label": "de las pruebas en las que el leipäjuusto chirrió al frotarlo, frente al 20 % de la mozzarella.",
+          "source": "Nurkkala, Carlson, Hopia & Postema, congreso DAS|DAGA, 2025."
+        },
+        {
+          "value": "10–14 días",
+          "label": "de vida útil desde la quesería. El queso fresco se puede congelar hasta 3 meses.",
+          "source": "Datos de producto de los fabricantes a través de Kespro; Miettilän Juustola en Yle, 2017."
+        },
+        {
+          "value": "2024",
+          "label": "el año en que dos versiones finlandesas solicitaron un nombre protegido por la UE. La decisión sigue pendiente.",
+          "source": "Ruokavirasto; registro eAmbrosia de la UE, consultado el 23 de septiembre de 2026."
+        },
+        {
+          "value": "1966",
+          "label": "el primer leipäjuusto comercial, elaborado con calostro por Juustoportti en Jalasjärvi.",
+          "source": "Yhteishyvä, 2018, actualizado en 2025."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde encontrarlo",
+      "headline": "Cómo conseguir leipäjuusto.",
+      "lead": "El leipäjuusto es un básico de los supermercados de toda Finlandia, y en Laponia forma parte de la mesa del café y del postre.",
+      "items": [
+        {
+          "name": "El supermercado",
+          "town": "Toda Finlandia",
+          "body": "Búsquelo en la sección de quesos: los que hay en los estantes son de Vaalan Juustola, Juustoportti, Riitan Herkku y Niemitalo, de 12 a 19 euros el kilo. Muchos son sin lactosa."
+        },
+        {
+          "name": "Las queserías",
+          "town": "Kainuu y Ostrobotnia",
+          "body": "Vaalan Juustola, en Vaala, elabora juustoleipä desde 1984. Niemitalon Juustola está en Pudasjärvi, a las puertas de Laponia."
+        },
+        {
+          "name": "La mesa de postres",
+          "town": "Laponia",
+          "body": "La guía de K-Ruoka sobre la comida de Laponia considera el leipäjuusto, a menudo horneado con crema y moras árticas, parte esencial de la mesa del café y del postre de la región."
+        }
+      ],
+      "gygCta": "Ver tours gastronómicos por Laponia en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "faq": {
+      "kicker": "Preguntas",
+      "headline": "Lo que la gente pregunta sobre el leipäjuusto.",
+      "items": [
+        {
+          "question": "¿Por qué chirría el leipäjuusto?",
+          "answer": "El chirrido es fricción. En un estudio de 2025 de investigadores finlandeses de acústica, el queso se agarraba a la cuchilla y se soltaba a tirones, como un arco sobre una cuerda, y las pequeñas bolsas de aire comunicadas de su interior resonaban. El leipäjuusto chirrió en el 100 % de sus pruebas."
+        },
+        {
+          "question": "¿Cómo se calienta el leipäjuusto?",
+          "answer": "En el horno a 200 °C unos 15 minutos, en un molde con crema, o en una sartén sin aceite unos minutos por cada lado. En el microondas bastan 3 minutos a 800 W."
+        },
+        {
+          "question": "¿El leipäjuusto es lo mismo que el juustoleipä?",
+          "answer": "Sí. Leipäjuusto es el nombre finlandés estándar y juustoleipä, el que recibe el mismo queso en Kainuu. En el valle del Tornio es kahvijuusto, y el kaffeost sueco procede de la misma tradición."
+        },
+        {
+          "question": "¿Cuánto dura el leipäjuusto?",
+          "answer": "Sin abrir, unos 10–14 días desde la quesería, entre +2 y +6 °C; la fecha figura en el envase. El queso fresco se puede congelar hasta 3 meses y descongelar en el refrigerador."
+        },
+        {
+          "question": "¿Cuántas calorías tiene el leipäjuusto?",
+          "answer": "Unas 277 kcal por 100 g, con 21 g de grasa y 18,6 g de proteína, según Fineli, la base de datos finlandesa de composición de alimentos. Las etiquetas indican unas 280 kcal."
+        },
+        {
+          "question": "¿El leipäjuusto es un nombre protegido, como el queso feta?",
+          "answer": "Todavía no. Dos versiones finlandesas, Pohjalainen leipäjuusto y Kainuun juustoleipä, solicitaron en 2024 la indicación geográfica protegida de la UE y siguen a la espera. El kaffeost sueco obtuvo la denominación de origen protegida en 2025."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "La mermelada que va encima",
+          "body": "La mora ártica da una sola baya por tallo en las turberas del norte, y cada una se recoge a mano. La guía de la mora ártica explica la temporada y el precio.",
+          "cta": "Guía de la mora ártica"
+        },
+        {
+          "title": "Más recetas de Laponia",
+          "body": "Reno salteado, bidos, pan plano y sopa de pescado, explicados paso a paso.",
+          "cta": "Recetas tradicionales"
+        },
+        {
+          "title": "Alójese en Rovaniemi",
+          "body": "La capital de Laponia es una base práctica para un viaje gastronómico, de los estantes del supermercado a los menús de los restaurantes.",
+          "cta": "Ver alojamiento en Rovaniemi"
+        }
+      ]
     }
   },
   "modernLapland": {

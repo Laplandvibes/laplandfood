@@ -1477,6 +1477,534 @@
     "featured": {
       "kicker": "Inizi da qui",
       "headline": "Se cucina un solo piatto, cucini questo."
+    },
+    "dishes": {
+      "kicker": "Due classici della Lapponia",
+      "headline": "Poronkäristys e leipäjuusto, ognuno con la sua pagina.",
+      "cta": "Veda le ricette"
+    }
+  },
+  "poronkaristys": {
+    "title": "Poronkäristys, carne di renna della Lapponia: la ricetta",
+    "description": "Il poronkäristys, piatto tipico finlandese: renna tagliata sottile, rosolata nel burro, con purè e mirtilli rossi. Ricetta, versione al forno e prezzi.",
+    "teaser": "Renna semicongelata tagliata sottile, rosolata nel burro e cotta finché è tenera: la ricetta degli allevatori, la versione al forno e dove ordinarla in Lapponia.",
+    "hero": {
+      "eyebrow": "Il piatto di renna della Lapponia · Poronkäristys",
+      "title": "Poronkäristys, renna",
+      "titleHighlight": "tagliata sottile, cotta a fuoco lento.",
+      "subtitle": "Renna tagliata a lamelle quando è ancora semicongelata, rosolata nel burro e lasciata sobbollire finché si sfalda, poi servita su purè di patate con mirtilli rossi e cetrioli sottaceto. Qui trova la ricetta degli allevatori, la versione al forno, quanto costa e dove ordinarla in Lapponia.",
+      "primaryCta": "Vada alla ricetta",
+      "secondaryCta": "Tutte le ricette tradizionali",
+      "pills": [
+        "La ricetta",
+        "Che cos'è",
+        "Varianti",
+        "In cifre",
+        "Dove mangiarlo",
+        "Domande"
+      ]
+    },
+    "intro": {
+      "lead": "L'associazione degli allevatori di renne definisce il poronkäristys forse il più leggendario di tutti i piatti di renna. La versione tradizionale richiede quattro cose: renna, burro, acqua e sale.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Tagliata ancora semicongelata",
+          "body": "La carne si taglia quando è ancora semicongelata, intorno ai −6 °C, perché è abbastanza soda da ricavarne lamelle sottili. Nei negozi finlandesi si vende già tagliata e surgelata."
+        },
+        {
+          "n": "02",
+          "title": "Burro, acqua, sale",
+          "body": "Nel poronkäristys tradizionale non ci sono né panna né brodo. La carne si rosola nel burro o nel grasso di renna, poi cuoce a fuoco lento sotto il coperchio con un goccio d'acqua. Il pepe è arrivato dopo."
+        },
+        {
+          "n": "03",
+          "title": "Mai senza mirtilli rossi",
+          "body": "Si serve su purè di patate con mirtilli rossi e cetrioli sottaceto. La ricetta degli allevatori stessi indica come contorno migliore i mirtilli rossi toccati dal gelo e mescolati a crudo."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "La ricetta",
+      "headline": "Il poronkäristys, come si fa in casa.",
+      "lead": "Tre ricette: il classico sul fornello dell'associazione degli allevatori di renne, la versione al forno, più lenta, per una pentola più grande, e i due contorni che lo accompagnano.",
+      "items": [
+        {
+          "name": "Poronkäristys tradizionale",
+          "description": "La versione degli allevatori: renna, grasso, acqua e sale, a fuoco lento sotto il coperchio finché la carne è tenera. Il pepe è facoltativo; la panna non ne fa parte.",
+          "time": "30–60 min",
+          "serves": "3–4",
+          "level": "Facile",
+          "ingredients": [
+            "500 g di poronkäristys surgelato (renna tagliata sottile)",
+            "25 g di burro o grasso di renna",
+            "1 dl di acqua",
+            "¾ di cucchiaino di sale",
+            "Pepe nero macinato al momento, a piacere"
+          ],
+          "instructions": [
+            "Lasci ammorbidire la carne surgelata in frigorifero quanto basta per spezzare il blocco; le lamelle devono restare ghiacciate.",
+            "Sciolga il grasso a fuoco vivo in una padella dal fondo spesso o in una pentola di ghisa e aggiunga la carne poca alla volta, separando con una spatola le lamelle congelate.",
+            "Cuocia finché la carne si è scongelata, il suo liquido è evaporato e ha cominciato a rosolarsi.",
+            "Versi l'acqua e aggiunga il sale.",
+            "Abbassi il fuoco, copra e lasci sobbollire finché la carne è tenera: da 10 a 30 minuti per la carne di coscia, di più per gli altri tagli. Se il fondo si asciuga, aggiunga un goccio d'acqua.",
+            "Assaggi, aggiunga pepe a piacere e serva su purè di patate con mirtilli rossi e cetrioli sottaceto."
+          ],
+          "tip": "Secondo l'associazione degli allevatori di renne, il sapore più intenso si ottiene rosolando la carne nel grasso di renna."
+        },
+        {
+          "name": "Poronkäristys al forno",
+          "description": "Lo stesso piatto, portato a termine in forno a bassa temperatura. Richiede più tempo, non va mescolato ed è adatto a quantità più grandi.",
+          "time": "2–3 ore",
+          "serves": "6",
+          "level": "Facile",
+          "ingredients": [
+            "1 kg di poronkäristys surgelato (renna tagliata sottile)",
+            "3 cucchiai di burro o grasso di renna",
+            "2 dl di acqua",
+            "1½ cucchiaini di sale"
+          ],
+          "instructions": [
+            "Scaldi il forno a 125 °C.",
+            "Sul fornello, rosoli la carne nel grasso in una pentola di ghisa adatta al forno, poca alla volta, finché il liquido è evaporato.",
+            "Aggiunga l'acqua e il sale e porti a leggero bollore.",
+            "Metta il coperchio e trasferisca la pentola in forno per 2–3 ore, finché la carne si sfalda.",
+            "Controlli una o due volte e, se serve, aggiunga un goccio d'acqua. Serva come la versione sul fornello."
+          ],
+          "tip": "Le ricette al forno pubblicate vanno dai 125 °C per 2–3 ore, la scelta dell'associazione degli allevatori, ai 175 o 200 °C per circa un'ora. Più bassa è la temperatura, più tempo serve."
+        },
+        {
+          "name": "Purè di patate e mirtilli rossi mescolati a crudo",
+          "description": "I due contorni che completano il piatto: purè di patate al burro e mirtilli rossi mescolati a crudo con lo zucchero.",
+          "time": "30 min",
+          "serves": "4",
+          "level": "Facile",
+          "ingredients": [
+            "1 kg di patate farinose",
+            "50 g di burro",
+            "2 dl di latte",
+            "Sale",
+            "3 dl di mirtilli rossi, freschi o surgelati",
+            "3 cucchiai di zucchero",
+            "Cetrioli sottaceto per servire"
+          ],
+          "instructions": [
+            "Sbucci le patate, le tagli a pezzi regolari e le lessi in acqua salata finché sono tenere, circa 20 minuti.",
+            "Le scoli, le schiacci con il burro e poi incorpori il latte caldo sbattendo, finché il purè è liscio. Regoli di sale.",
+            "In una ciotola unisca i mirtilli rossi e lo zucchero e li lasci riposare mentre le patate cuociono, girandoli ogni tanto, finché lo zucchero si è sciolto.",
+            "Serva entrambi i contorni con la renna, insieme a qualche fetta di cetriolo sottaceto."
+          ],
+          "tip": "Nelle ricette finlandesi il purè si fa con la puikula, la patata gialla e allungata della Lapponia; la Lapin Puikula è denominazione di origine protetta dell'UE dal 1997."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Che cos'è",
+      "headline": "Renna a lamelle sottili.",
+      "p1": "Il poronkäristys è carne di renna tagliata in lamelle sottili quando è ancora semicongelata, rosolata nel grasso e cotta a fuoco lento in poca acqua finché diventa tenera. L'associazione degli allevatori di renne indica i pezzi adatti: due tagli della coscia, la spalla e la parte anteriore del dorso.",
+      "p2": "La maggior parte delle renne finlandesi viene macellata in ottobre e novembre, dopo almeno sei mesi di solo pascolo naturale. La carne è scura e magra, con il 2–4% di grassi.",
+      "p3": "Oltre il confine, in Svezia, lo stesso piatto si chiama <em>renskav</em>. La carne di renna dell'area di allevamento finlandese ha dal 2009 una propria denominazione di origine protetta dell'UE, <strong>Lapin Poron liha</strong>: le renne brucano libere nei pascoli naturali e la carne viene prodotta, sezionata e confezionata all'interno della stessa area."
+    },
+    "variations": {
+      "kicker": "Varianti",
+      "headline": "Birra, panna o pancetta.",
+      "lead": "La pentola tradizionale ha quattro ingredienti. Tutto il resto è arrivato dopo.",
+      "items": [
+        {
+          "title": "Birra scura",
+          "body": "Valio e K-Ruoka cuociono la carne a fuoco lento nella birra scura con un po' d'acqua. I macellai di Rönkä fanno notare che con birra, vino o panna non si tratta più del piatto tradizionale."
+        },
+        {
+          "title": "Il renskav svedese",
+          "body": "In Svezia il renskav è di solito uno stufato cremoso con finferli e bacche di ginepro schiacciate, pronto in meno di 30 minuti e servito con mirtilli rossi mescolati a crudo."
+        },
+        {
+          "title": "Pancetta",
+          "body": "La ricetta di K-Ruoka rosola la pancetta affumicata insieme alla renna, per aggiungere grasso e una nota affumicata più profonda."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In cifre",
+      "headline": "Il poronkäristys, dati alla mano.",
+      "lead": "I numeri vengono dall'associazione degli allevatori di renne, dal registro UE, dagli scaffali dei supermercati e dai menu dei ristoranti. Ogni scheda indica la sua fonte.",
+      "items": [
+        {
+          "value": "179.509",
+          "label": "renne vive in Finlandia alla fine dell'anno di allevamento 2024–2025, a fronte di un massimo consentito di 203.700.",
+          "source": "Paliskuntain yhdistys (Associazione degli allevatori di renne), rapporto statistico 2024–2025."
+        },
+        {
+          "value": "1,38 milioni di kg",
+          "label": "di carne di renna prodotti nel 2024–2025, in calo rispetto a 1,66 milioni di kg dell'anno precedente.",
+          "source": "Paliskuntain yhdistys, statistiche sulla produzione di carne."
+        },
+        {
+          "value": "2–4%",
+          "label": "di grassi nella carne di renna. Secondo la descrizione ufficiale UE del prodotto, le proteine sono circa il 23% e il selenio è da 5 a 10 volte quello della carne bovina.",
+          "source": "Paliskuntain yhdistys; Gazzetta ufficiale dell'UE C 19, 2008."
+        },
+        {
+          "value": "38–42 €",
+          "label": "al chilo per il poronkäristys surgelato in un supermercato finlandese, in confezioni da 240 a 500 g.",
+          "source": "Negozio online K-Ruoka, K-Citymarket Iso Omena, verificato il 23 settembre 2026."
+        },
+        {
+          "value": "32–36 €",
+          "label": "per un piatto di poronkäristys nei ristoranti di Rovaniemi, Levi e Inari.",
+          "source": "I menu dei ristoranti, verificati il 23 settembre 2026."
+        },
+        {
+          "value": "2009",
+          "label": "l'anno in cui la Lapin Poron liha, carne di renna della Lapponia finlandese, è diventata denominazione di origine protetta dell'UE.",
+          "source": "Ruokavirasto; regolamento (CE) n. 366/2009 della Commissione."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove mangiarlo",
+      "headline": "Il poronkäristys nei menu della Lapponia.",
+      "lead": "Si trova nei menu di tutta la Lapponia, di solito tra 32 e 36 euro al piatto. Questi ristoranti lo propongono, con i prezzi dei loro menu al 23 settembre 2026. Roka, a Rovaniemi, lo serve anche in un panino da 14,90 €.",
+      "items": [
+        {
+          "name": "Arctic Restaurant",
+          "town": "Rovaniemi",
+          "body": "All'Arctic Light Hotel, in Valtakatu: renna saltata con purè di patate, cetrioli sottaceto e mirtilli rossi, 34 €."
+        },
+        {
+          "name": "Lapland Restaurant Taiga",
+          "town": "Rovaniemi",
+          "body": "Poronkäristys tradizionale in Valtakatu 33, 32 €."
+        },
+        {
+          "name": "Scandic Pohjanhovi",
+          "town": "Rovaniemi",
+          "body": "Poronkäristys tradizionale cotto a lungo a fuoco lento, preparato con carne di renna da arrosto, 35,80 €."
+        },
+        {
+          "name": "Ravintola Ämmilä",
+          "town": "Levi",
+          "body": "Poronkäristys con purè di patate, cetrioli sottaceto e mirtilli rossi, 32 €."
+        },
+        {
+          "name": "Ravintola Aurora",
+          "town": "Inari",
+          "body": "Poronkäristys classico nel ristorante di Visit Inari, 35 €."
+        },
+        {
+          "name": "Ravintola Petronella",
+          "town": "Inari",
+          "body": "Poronkäristys del Nord, 32 €."
+        }
+      ],
+      "gygCta": "Sfogli le visite alle fattorie di renne su GetYourGuide",
+      "diningCta": "Veda la guida al fine dining"
+    },
+    "faq": {
+      "kicker": "Domande",
+      "headline": "Le domande che si fanno sul poronkäristys.",
+      "items": [
+        {
+          "question": "Quanto tempo deve cuocere il poronkäristys?",
+          "answer": "Le ricette vanno da 10 minuti a un paio d'ore. L'associazione degli allevatori di renne indica da 10 a 30 minuti con il coperchio, e per la carne di coscia possono bastare 10 minuti; altre ricette lo fanno sobbollire da 30 a 60 minuti. Si spegne il fuoco quando la carne è tenera."
+        },
+        {
+          "question": "Si può fare il poronkäristys al forno?",
+          "answer": "Sì. Rosoli prima la carne sul fornello, poi la cuocia in forno nella pentola coperta. L'associazione degli allevatori usa 125 °C per 2–3 ore; le ricette più rapide, 175–200 °C per circa un'ora."
+        },
+        {
+          "question": "Quanto costa il poronkäristys?",
+          "answer": "Il poronkäristys surgelato, già tagliato, costa circa 38–42 euro al chilo nei supermercati finlandesi, e un piatto al ristorante in Lapponia circa 32–36 euro. Prezzi verificati il 23 settembre 2026."
+        },
+        {
+          "question": "Con cosa si serve il poronkäristys?",
+          "answer": "Con purè di patate, mirtilli rossi e cetrioli sottaceto. L'associazione degli allevatori indica come contorno migliore i mirtilli rossi toccati dal gelo e mescolati a crudo."
+        },
+        {
+          "question": "Il poronkäristys è la stessa cosa del renskav svedese?",
+          "answer": "L'idea è la stessa: fettine sottili tagliate da renna congelata e cotte in padella. Il renskav svedese di solito si completa con panna, finferli e ginepro, mentre il poronkäristys finlandese tradizionale usa solo grasso, acqua e sale."
+        },
+        {
+          "question": "Il poronkäristys è il piatto nazionale finlandese?",
+          "answer": "No. Nella votazione del 2017 per il piatto nazionale finlandese ha vinto il pane di segale, e il poronkäristys non era tra i 12 finalisti."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "I mirtilli rossi del contorno",
+          "body": "Perché i mirtilli rossi si conservano senza zucchero, quando raccoglierli e in cosa differiscono dai cranberry.",
+          "cta": "Guida al mirtillo rosso"
+        },
+        {
+          "title": "Altre ricette della Lapponia",
+          "body": "Bidos, pane piatto, zuppa di pesce e kissel di bacche, spiegati passo dopo passo.",
+          "cta": "Ricette tradizionali"
+        },
+        {
+          "title": "Dorma a Rovaniemi",
+          "body": "Tre dei ristoranti citati sopra sono a Rovaniemi, e la città è una base comoda per un viaggio gastronomico in Lapponia.",
+          "cta": "Sfogli gli alloggi a Rovaniemi"
+        }
+      ]
+    }
+  },
+  "leipajuusto": {
+    "title": "Leipäjuusto: il formaggio finlandese che cigola",
+    "description": "Il leipäjuusto è il formaggio finlandese al forno che cigola sotto i denti: caldo con confettura di mora artica, nel caffè o in insalata. Tre ricette.",
+    "teaser": "Formaggio fresco dorato al forno che cigola sotto i denti: caldo con confettura di mora artica, nel caffè o in insalata, e come farlo con il latte.",
+    "hero": {
+      "eyebrow": "Il formaggio-pane finlandese · Leipäjuusto",
+      "title": "Leipäjuusto, il formaggio",
+      "titleHighlight": "che cigola.",
+      "subtitle": "Un formaggio fresco e piatto del nord della Finlandia, cotto finché si copre di macchie brune, da mangiare caldo con confettura di mora artica o ammorbidito in una tazza di caffè. Qui trova come servirlo, come farlo in casa con il latte e perché cigola sotto i denti.",
+      "primaryCta": "Vada alle ricette",
+      "secondaryCta": "Tutte le ricette tradizionali",
+      "pills": [
+        "Le ricette",
+        "Che cos'è",
+        "Come si mangia",
+        "In cifre",
+        "Dove trovarlo",
+        "Domande"
+      ]
+    },
+    "intro": {
+      "lead": "Il leipäjuusto non è né stagionato né fuso. È latte coagulato con il caglio, pressato in un disco piatto e cotto finché la superficie si dora a chiazze, come una pagnotta.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Cotto, non stagionato",
+          "body": "La cagliata si modella in un disco spesso da 0,5 a 3 cm e si cuoce su entrambi i lati, in forno, sulla griglia o accanto al fuoco vivo. Si mangia nel giro di giorni, non di mesi."
+        },
+        {
+          "n": "02",
+          "title": "Il cigolio non è un mito",
+          "body": "Nel 2025 alcuni ricercatori finlandesi di acustica hanno testato 100 campioni: il formaggio-pane ha cigolato in ogni prova, la mozzarella in una prova su cinque. Il suono nasce dall'attrito, come l'archetto sulla corda."
+        },
+        {
+          "n": "03",
+          "title": "Confettura di mora artica o caffè",
+          "body": "I due modi tradizionali di mangiarlo: caldo con confettura di mora artica come dessert, oppure a cubetti in una tazza di caffè bollente, da gustare con il cucchiaino."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Le ricette",
+      "headline": "Tre modi per portarlo in tavola.",
+      "lead": "Il dolce caldo che la maggior parte dei finlandesi intende quando dice leipäjuusto, un'insalata da tutti i giorni e il formaggio stesso, fatto con 4 litri di latte.",
+      "items": [
+        {
+          "name": "Leipäjuusto caldo con confettura di mora artica",
+          "description": "Il dessert classico: il formaggio scaldato nella panna finché si ammorbidisce, con la confettura di mora artica a cucchiaiate sopra. Pronto in 20 minuti.",
+          "time": "20 min",
+          "serves": "4",
+          "level": "Facile",
+          "ingredients": [
+            "200 g di leipäjuusto",
+            "2 dl di panna da montare",
+            "1 dl di confettura di mora artica",
+            "Burro per la pirofila"
+          ],
+          "instructions": [
+            "Scaldi il forno a 200 °C e imburri una piccola pirofila.",
+            "Tagli il leipäjuusto a rombi o a cubetti e li disponga nella pirofila.",
+            "Versi la panna sul formaggio.",
+            "Cuocia in forno per circa 15 minuti, finché la panna sobbolle e il formaggio si è ammorbidito.",
+            "Distribuisca la confettura di mora artica sul formaggio caldo e serva subito."
+          ],
+          "tip": "Se ha fretta, bastano 3 minuti nel microonde a 800 W. Se non trova la mora artica, va bene anche la confettura di mirtilli rossi o di mirtilli neri."
+        },
+        {
+          "name": "Insalata di leipäjuusto",
+          "description": "Cubetti di leipäjuusto dorati in padella su foglie verdi, con bacche e semi. Formaggio caldo, insalata fredda.",
+          "time": "15 min",
+          "serves": "2",
+          "level": "Facile",
+          "ingredients": [
+            "200 g di leipäjuusto",
+            "100 g di foglie di insalata",
+            "½ cetriolo",
+            "½ cipolla rossa",
+            "1 dl di mirtilli rossi o mirtilli neri",
+            "2 cucchiai di semi di girasole",
+            "3 cucchiai di olio di colza",
+            "1 cucchiaio di aceto di mele",
+            "1 cucchiaino di miele",
+            "Sale e pepe nero"
+          ],
+          "instructions": [
+            "Tagli il leipäjuusto a cubetti e li dori in una padella senza grassi a fuoco medio, 2–3 minuti per lato.",
+            "Nella stessa padella tosti i semi di girasole per un minuto.",
+            "Affetti sottilmente il cetriolo e la cipolla rossa.",
+            "Emulsioni olio, aceto, miele, sale e pepe per il condimento.",
+            "Mescoli le foglie con il cetriolo e la cipolla, completi con il formaggio caldo, le bacche e i semi e versi sopra il condimento."
+          ],
+          "tip": "Nella padella calda il leipäjuusto non perde la forma, quindi si dora senza olio."
+        },
+        {
+          "name": "Leipäjuusto fatto in casa",
+          "description": "4 litri di latte intero, caglio e una notte in frigorifero. Il grill del forno gli dà le macchie brune.",
+          "time": "1 ora + una notte",
+          "serves": "1 formaggio",
+          "level": "Medio",
+          "ingredients": [
+            "4 l di latte intero",
+            "1 cucchiaio di caglio liquido",
+            "1 cucchiaio di sale"
+          ],
+          "instructions": [
+            "Scaldi il latte con il sale fino a circa 36 °C, tiepido al tatto, mescolando perché non si attacchi al fondo.",
+            "Tolga la pentola dal fuoco, incorpori il caglio e lasci riposare senza toccare per circa 30 minuti, finché il latte caglia.",
+            "Tagli la cagliata a cubetti piccoli e lasci che il siero si separi.",
+            "Trasferisca la cagliata in un colino foderato con una garza e la lasci sgocciolare in frigorifero per tutta la notte.",
+            "Pressi la cagliata in una pirofila rotonda e bassa, in uno strato di circa 2 cm, ed elimini il siero rimasto.",
+            "La faccia dorare sotto il grill del forno a 250–275 °C per 5–10 minuti, finché compaiono macchie scure."
+          ],
+          "tip": "Tradizionalmente il leipäjuusto migliore si faceva con il colostro, il primo latte dopo il parto della vacca, ricco di caseina. In casa va benissimo il normale latte intero."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Che cos'è",
+      "headline": "Formaggio fresco, dorato a macchie.",
+      "p1": "Il leipäjuusto è un formaggio fresco di latte vaccino coagulato con il caglio. La cagliata si modella in un disco piatto e si cuoce su entrambi i lati finché la superficie si dora a macchie scure, in forno, sulla griglia o accanto al fuoco vivo. Non è stagionato, quindi dal caseificio si conserva da 10 a 14 giorni.",
+      "p2": "È un formaggio del nord della Finlandia. La maggior parte delle attestazioni dialettali della parola leipäjuusto viene dall'Ostrobotnia e dal Peräpohjola, nel nord-ovest, mentre nel Kainuu lo stesso formaggio si chiama juustoleipä. Nella valle del Tornio, al confine con la Svezia, è il kahvijuusto, «formaggio da caffè», e al di là del fiume, in Svezia, il kaffeost.",
+      "p3": "La materia prima tradizionale era il colostro, il primo latte dopo il parto, ricco di caseina, e proprio con il colostro Juustoportti, a Jalasjärvi, produsse nel 1966 il primo leipäjuusto commerciale. Oggi due versioni finlandesi attendono un nome protetto dall'UE: <strong>Pohjalainen leipäjuusto</strong> e <strong>Kainuun juustoleipä</strong> hanno presentato domanda nel 2024. In Svezia il kaffeost è diventato denominazione di origine protetta nel 2025."
+    },
+    "variations": {
+      "kicker": "Come si mangia",
+      "headline": "Caldo, nel caffè o freddo.",
+      "lead": "Il leipäjuusto sta bene nel dolce e nel salato, caldo o freddo. Ecco come lo incontrerà in Finlandia.",
+      "items": [
+        {
+          "title": "In una tazza di caffè",
+          "body": "Il modo antico: cubetti di formaggio nella tazza, caffè bollente versato sopra, e si mangia con il cucchiaino. Nel Tornedalen svedese il formaggio si ammorbidisce allo stesso modo nel caffè bollito."
+        },
+        {
+          "title": "Al forno con la panna",
+          "body": "Scaldato in forno nella panna finché è morbido, poi servito con confettura di mora artica. È la versione da dessert e la prima ricetta di questa pagina."
+        },
+        {
+          "title": "In padella",
+          "body": "Dorato in padella senza grassi e aggiunto a insalate e hamburger, come oggi suggeriscono i caseifici sulla confezione."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In cifre",
+      "headline": "Il leipäjuusto, dati alla mano.",
+      "lead": "I numeri vengono dalla banca dati finlandese sulla composizione degli alimenti, dagli scaffali dei supermercati, dai caseifici e dalla ricerca sul cigolio. Ogni scheda indica la sua fonte.",
+      "items": [
+        {
+          "value": "277 kcal",
+          "label": "per 100 g, con 21 g di grassi e 18,6 g di proteine.",
+          "source": "Fineli, banca dati sulla composizione degli alimenti del THL, alimento 657. Le etichette riportano circa 280 kcal."
+        },
+        {
+          "value": "12–19 €",
+          "label": "al chilo nei supermercati finlandesi, a seconda del caseificio e del formato.",
+          "source": "Negozi online S-kaupat e K-Ruoka, verificati il 23 settembre 2026."
+        },
+        {
+          "value": "100%",
+          "label": "delle prove in cui il formaggio-pane cigolava allo sfregamento, contro il 20% della mozzarella.",
+          "source": "Nurkkala, Carlson, Hopia & Postema, congresso DAS|DAGA, 2025."
+        },
+        {
+          "value": "10–14 giorni",
+          "label": "di conservazione dall'uscita dal caseificio. Il formaggio fresco si può congelare fino a 3 mesi.",
+          "source": "Dati di prodotto dei produttori tramite Kespro; Miettilän Juustola su Yle, 2017."
+        },
+        {
+          "value": "2024",
+          "label": "l'anno in cui due versioni finlandesi hanno chiesto un nome protetto dall'UE. La decisione è ancora in sospeso.",
+          "source": "Ruokavirasto; registro UE eAmbrosia, verificato il 23 settembre 2026."
+        },
+        {
+          "value": "1966",
+          "label": "il primo leipäjuusto commerciale, fatto con il colostro da Juustoportti a Jalasjärvi.",
+          "source": "Yhteishyvä, 2018, aggiornato nel 2025."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove trovarlo",
+      "headline": "Come procurarsi il leipäjuusto.",
+      "lead": "Il leipäjuusto è un prodotto base dei supermercati di tutta la Finlandia, e in Lapponia fa parte della tavola del caffè e dei dolci.",
+      "items": [
+        {
+          "name": "Il supermercato",
+          "town": "Tutta la Finlandia",
+          "body": "Lo cerchi nel reparto formaggi: quelli sugli scaffali li fanno Vaalan Juustola, Juustoportti, Riitan Herkku e Niemitalo, da 12 a 19 euro al chilo. Molti sono senza lattosio."
+        },
+        {
+          "name": "I caseifici",
+          "town": "Kainuu e Ostrobotnia",
+          "body": "Vaalan Juustola, a Vaala, fa juustoleipä dal 1984. Niemitalon Juustola è a Pudasjärvi, a ridosso della Lapponia."
+        },
+        {
+          "name": "La tavola dei dolci",
+          "town": "Lapponia",
+          "body": "La guida di K-Ruoka alla cucina della Lapponia considera il leipäjuusto, spesso cotto al forno con panna e more artiche, una parte essenziale della tavola del caffè e dei dolci della regione."
+        }
+      ],
+      "gygCta": "Sfogli i tour gastronomici in Lapponia su GetYourGuide",
+      "diningCta": "Veda la guida al fine dining"
+    },
+    "faq": {
+      "kicker": "Domande",
+      "headline": "Le domande che si fanno sul leipäjuusto.",
+      "items": [
+        {
+          "question": "Perché il leipäjuusto cigola?",
+          "answer": "Il cigolio è attrito. In uno studio del 2025 di ricercatori finlandesi di acustica, il formaggio si attaccava alla lama e se ne staccava a scatti, come l'archetto sulla corda, e le piccole cavità d'aria comunicanti al suo interno entravano in risonanza. Il formaggio-pane ha cigolato nel 100% delle loro prove."
+        },
+        {
+          "question": "Come si scalda il leipäjuusto?",
+          "answer": "In forno a 200 °C per circa 15 minuti, in una pirofila con la panna, oppure in padella senza grassi per qualche minuto per lato. Nel microonde bastano 3 minuti a 800 W."
+        },
+        {
+          "question": "Leipäjuusto e juustoleipä sono la stessa cosa?",
+          "answer": "Sì. Leipäjuusto è il nome finlandese standard e juustoleipä quello usato nel Kainuu per lo stesso formaggio. Nella valle del Tornio è il kahvijuusto, e il kaffeost svedese nasce dalla stessa tradizione."
+        },
+        {
+          "question": "Quanto si conserva il leipäjuusto?",
+          "answer": "Chiuso, dura circa 10–14 giorni dall'uscita dal caseificio, tra +2 e +6 °C; la data è sulla confezione. Il formaggio fresco si può congelare fino a 3 mesi e scongelare in frigorifero."
+        },
+        {
+          "question": "Quante calorie ha il leipäjuusto?",
+          "answer": "Circa 277 kcal per 100 g, con 21 g di grassi e 18,6 g di proteine, secondo Fineli, la banca dati finlandese sulla composizione degli alimenti. Le etichette riportano circa 280 kcal."
+        },
+        {
+          "question": "Il leipäjuusto è un nome protetto come la feta?",
+          "answer": "Non ancora. Due versioni finlandesi, Pohjalainen leipäjuusto e Kainuun juustoleipä, hanno chiesto nel 2024 l'indicazione geografica protetta dell'UE e sono ancora in attesa. Il kaffeost svedese è diventato denominazione di origine protetta nel 2025."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "La confettura che ci va sopra",
+          "body": "La mora artica dà una sola bacca per stelo nelle torbiere del nord, e ogni bacca si raccoglie a mano. La guida alla mora artica spiega la stagione e il prezzo.",
+          "cta": "Guida alla mora artica"
+        },
+        {
+          "title": "Altre ricette della Lapponia",
+          "body": "Renna saltata, bidos, pane piatto e zuppa di pesce, spiegati passo dopo passo.",
+          "cta": "Ricette tradizionali"
+        },
+        {
+          "title": "Dorma a Rovaniemi",
+          "body": "Il capoluogo della Lapponia è una base comoda per un viaggio gastronomico, dagli scaffali dei supermercati ai menu dei ristoranti.",
+          "cta": "Sfogli gli alloggi a Rovaniemi"
+        }
+      ]
     }
   },
   "modernLapland": {

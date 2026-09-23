@@ -18,6 +18,11 @@
     "seaBuckthorn": "Espinheiro-marítimo",
     "readGuide": "Leia o guia completo"
   },
+  "recipesMenu": {
+    "all": "Receitas tradicionais",
+    "poronkaristys": "Rena salteada",
+    "leipajuusto": "Leipäjuusto"
+  },
   "ariaHome": "Início do LaplandFood",
   "ariaMain": "Navegação principal",
   "menu": "MENU",

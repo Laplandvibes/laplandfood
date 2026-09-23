@@ -18,6 +18,11 @@
     "seaBuckthorn": "씨벅톤",
     "readGuide": "전체 가이드 읽기"
   },
+  "recipesMenu": {
+    "all": "전통 레시피",
+    "poronkaristys": "순록 고기 볶음",
+    "leipajuusto": "레이파유스토"
+  },
   "ariaHome": "LaplandFood 홈으로",
   "ariaMain": "주 메뉴",
   "menu": "메뉴",

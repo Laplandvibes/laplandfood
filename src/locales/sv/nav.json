@@ -18,6 +18,11 @@
     "seaBuckthorn": "Havtorn",
     "readGuide": "Läs hela guiden"
   },
+  "recipesMenu": {
+    "all": "Traditionella recept",
+    "poronkaristys": "Renskav",
+    "leipajuusto": "Leipäjuusto (brödost)"
+  },
   "ariaHome": "LaplandFood-startsida",
   "ariaMain": "Huvudnavigering",
   "menu": "MENY",

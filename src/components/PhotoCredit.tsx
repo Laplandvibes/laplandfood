@@ -16,7 +16,7 @@ export default function PhotoCredit({ credit, label }: { credit?: Credit; label:
   if (!credit) return null;
   return (
     <span className="absolute bottom-0 right-0 z-20 max-w-full rounded-tl bg-black/55 px-1.5 py-[2px] text-[9px] sm:text-[10px] leading-tight text-white">
-      {credit.place} · {label}
+      {credit.place ? `${credit.place} · ` : ''}{label}
       <a href={credit.sourceUrl} target="_blank" rel="noopener" className="lv-tap underline decoration-white/50 underline-offset-2 hover:decoration-white">
         {credit.author}
       </a>

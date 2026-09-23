@@ -8,6 +8,9 @@ import PageHero from '../components/PageHero';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
+import { DISHES } from '../data/dishes';
 import { useLocale } from '../i18n/useLocale';
 
 interface ContextItem { title: string; body: string }
@@ -43,6 +46,8 @@ const METHOD_IMAGES = ['/images/cook-open-fire.jpg', '/images/cook-earth-oven.jp
 
 export default function TraditionalRecipes() {
   const { t } = useTranslation('pages');
+  const { t: tNav } = useTranslation('nav');
+  const { t: tc } = useTranslation('common');
   const { to } = useLocale();
   const faq = (t('traditionalRecipes.faq.items', { returnObjects: true }) as FaqItem[]) || [];
   const context = (t('traditionalRecipes.context.items', { returnObjects: true }) as ContextItem[]) || [];
@@ -215,6 +220,42 @@ export default function TraditionalRecipes() {
             </div>
           </section>
         )}
+
+        {/* 23.9.2026: poronkäristys (14 800 hakua/kk) ja leipäjuusto (5 400/kk) saivat omat
+            sivunsa. Tältä sivulta käristys puuttui kokonaan, vaikka se on aiheen suurin
+            suomalainen haku, joten nosto tulee heti ensimmäisen reseptin jälkeen. */}
+        <section className="bg-[#F8FAFC] py-14 sm:py-16">
+          <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
+            <div className="max-w-3xl mb-8">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                {t('traditionalRecipes.dishes.kicker')}
+              </p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+                {t('traditionalRecipes.dishes.headline')}
+              </h2>
+            </div>
+            <div className="grid md:grid-cols-2 gap-5">
+              {DISHES.map(d => (
+                <Link key={d.path} to={to(d.path)} className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 transition-colors">
+                  <div className="relative aspect-[16/9] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
+                    <img src={d.hero.image} alt={d.hero.alt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(d.hero.image)} label={tc('photo.label')} />
+                  </div>
+                  <div className="flex flex-1 flex-col p-6">
+                    <h3 className="font-heading tracking-wide text-3xl text-[#002F6C] mb-2 group-hover:text-vibe-pink transition-colors">
+                      {tNav(`recipesMenu.${d.key}`)}
+                    </h3>
+                    <p className="text-sm text-[#002F6C]/75 leading-relaxed flex-1">{t(`${d.key}.teaser`)}</p>
+                    <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-vibe-pink">
+                      {t('traditionalRecipes.dishes.cta')}
+                      <ArrowRight className="w-4 h-4" aria-hidden="true" />
+                    </span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
 
         {/* Cultural context */}
         <section className="bg-white py-16 sm:py-20">

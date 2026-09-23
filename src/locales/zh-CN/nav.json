@@ -18,6 +18,11 @@
     "seaBuckthorn": "沙棘",
     "readGuide": "阅读完整指南"
   },
+  "recipesMenu": {
+    "all": "传统食谱",
+    "poronkaristys": "炒驯鹿肉",
+    "leipajuusto": "芬兰面包奶酪"
+  },
   "ariaHome": "LaplandFood 首页",
   "ariaMain": "主导航",
   "menu": "菜单",

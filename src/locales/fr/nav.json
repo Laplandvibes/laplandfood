@@ -18,6 +18,11 @@
     "seaBuckthorn": "Argousier",
     "readGuide": "Lire le guide complet"
   },
+  "recipesMenu": {
+    "all": "Recettes traditionnelles",
+    "poronkaristys": "Émincé de renne",
+    "leipajuusto": "Leipäjuusto (fromage pain)"
+  },
   "ariaHome": "Accueil LaplandFood",
   "ariaMain": "Navigation principale",
   "menu": "MENU",

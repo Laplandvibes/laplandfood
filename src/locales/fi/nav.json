@@ -18,6 +18,11 @@
     "seaBuckthorn": "Tyrni",
     "readGuide": "Lue koko opas"
   },
+  "recipesMenu": {
+    "all": "Perinnereseptit",
+    "poronkaristys": "Poronkäristys",
+    "leipajuusto": "Leipäjuusto"
+  },
   "ariaHome": "LaplandFood-etusivu",
   "ariaMain": "Päänavigaatio",
   "menu": "VALIKKO",

@@ -18,6 +18,11 @@
     "seaBuckthorn": "Sea buckthorn",
     "readGuide": "Read the full guide"
   },
+  "recipesMenu": {
+    "all": "Traditional recipes",
+    "poronkaristys": "Sautéed reindeer",
+    "leipajuusto": "Squeaky cheese (leipäjuusto)"
+  },
   "ariaHome": "LaplandFood home",
   "ariaMain": "Main navigation",
   "menu": "MENU",

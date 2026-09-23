@@ -18,6 +18,11 @@
     "seaBuckthorn": "Espino amarillo",
     "readGuide": "Leer la guía completa"
   },
+  "recipesMenu": {
+    "all": "Recetas tradicionales",
+    "poronkaristys": "Reno salteado",
+    "leipajuusto": "Leipäjuusto"
+  },
   "ariaHome": "Inicio de LaplandFood",
   "ariaMain": "Navegación principal",
   "menu": "MENÚ",

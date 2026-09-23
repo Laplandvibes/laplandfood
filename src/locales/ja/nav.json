@@ -18,6 +18,11 @@
     "seaBuckthorn": "シーバックソーン",
     "readGuide": "ガイド全文を読む"
   },
+  "recipesMenu": {
+    "all": "伝統レシピ",
+    "poronkaristys": "トナカイのソテー",
+    "leipajuusto": "レイパユースト"
+  },
   "ariaHome": "LaplandFoodホームへ",
   "ariaMain": "メインナビゲーション",
   "menu": "メニュー",

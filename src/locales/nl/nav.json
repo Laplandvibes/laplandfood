@@ -18,6 +18,11 @@
     "seaBuckthorn": "Duindoorn",
     "readGuide": "Lees de volledige gids"
   },
+  "recipesMenu": {
+    "all": "Traditionele recepten",
+    "poronkaristys": "Gebakken rendier",
+    "leipajuusto": "Leipäjuusto (broodkaas)"
+  },
   "ariaHome": "LaplandFood home",
   "ariaMain": "Hoofdnavigatie",
   "menu": "MENU",

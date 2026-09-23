@@ -18,6 +18,11 @@
     "seaBuckthorn": "Olivello spinoso",
     "readGuide": "Legga la guida completa"
   },
+  "recipesMenu": {
+    "all": "Ricette tradizionali",
+    "poronkaristys": "Renna saltata",
+    "leipajuusto": "Leipäjuusto"
+  },
   "ariaHome": "Home LaplandFood",
   "ariaMain": "Navigazione principale",
   "menu": "MENU",

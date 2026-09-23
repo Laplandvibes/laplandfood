@@ -142,6 +142,52 @@
     }
   },
   {
+    "path": "/poronkaristys",
+    "jsonKey": "poronkaristys",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ],
+    "ogImage": "/og/poronkaristys.jpg",
+    "ogCard": {
+      "hero": "/images/hero-poronkaristys-kilpisjarvi.webp",
+      "line": "Reindeer, shaved thin, cooked slow"
+    }
+  },
+  {
+    "path": "/leipajuusto",
+    "jsonKey": "leipajuusto",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ],
+    "ogImage": "/og/leipajuusto.jpg",
+    "ogCard": {
+      "hero": "/images/hero-leipajuusto-cloudberry.webp",
+      "line": "The Finnish cheese that squeaks"
+    }
+  },
+  {
     "path": "/modern-lapland",
     "jsonKey": "modernLapland",
     "ogImage": "/og/modern-lapland.jpg",
