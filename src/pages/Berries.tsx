@@ -90,7 +90,7 @@ export default function Berries() {
           primaryCta={{ label: t('berries.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('berries.hero.secondaryCta'), href: to('/local-ingredients') }}
           pills={cards.map(c => c.name)}
-          pillHrefs={GUIDE_PATHS.map(p => to(p))}
+          pillHrefs={GUIDE_PATHS.map(p => to(p + '/'))}
         />
 
         <IntroPoints sectionKey="berries" />
