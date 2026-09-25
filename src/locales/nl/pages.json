@@ -2456,7 +2456,7 @@
     "lapland": {
       "kicker": "De drie beste",
       "headline": "Waar u in Lapland het best eet.",
-      "lead": "Deze drie halen hun ingrediënten van dichtbij en maken er meer van dan rendier met aardappel. Openingstijden en menugegevens zijn op 16 september 2026 gecontroleerd op de eigen sites van de restaurants. De cijfers zijn gebruikersbeoordelingen van Google, geen oordelen van ons.",
+      "lead": "Deze drie halen hun ingrediënten van dichtbij en maken er meer van dan rendier met aardappel. Openingstijden en menugegevens zijn op 25 september 2026 gecontroleerd op de eigen sites van de restaurants. De cijfers zijn gebruikersbeoordelingen van Google, geen oordelen van ons.",
       "labels": {
         "rating": "Google-beoordeling",
         "order": "Bestel dit",
@@ -2471,10 +2471,10 @@
           "address": "Valtakatu 20, centrum van Rovaniemi",
           "angle": "Het bekendste restaurant van Lapland, en die naam is verdiend. Het rendier komt van herders uit de streek en de bessen van plukkers. De zaal is van hout en warm, en het huis werd in het najaar van 2026 twintig jaar.",
           "order": "Rendier. Daar draait het hele huis om. Het menu wisselt met het seizoen.",
-          "hours": "Di–za 16.00–23.00, zo 14.00–23.00. Maandag gesloten.",
+          "hours": "11 september–31 oktober: ma–vr 16.00–23.00, za 14.00–23.00, zondag gesloten. 30 november–28 februari: dagelijks 12.00–23.00. Andere periodes op nili.fi.",
           "booking": "Tafel reserveren op nili.fi. In september 2026 kostte een viergangenmenu 45 euro per persoon.",
           "rating": "4,5",
-          "ratingCount": "3.052 beoordelingen"
+          "ratingCount": "3.060 beoordelingen"
         },
         {
           "name": "Restaurant Aanaar",
@@ -2482,21 +2482,21 @@
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
           "angle": "Het restaurant ligt aan de Juutuanjoki midden in Sámi-gebied, en dat is te zien op het bord: vis uit het Inarimeer, rendier en kruiden van de fjells. In Inari wonen ongeveer 7.000 mensen, en toch is het de rit waard.",
           "order": "Vis uit het Inarimeer.",
-          "hours": "Keuken 17.00–22.00, bestellingen tot 21.00. Bar 9.00–23.00.",
-          "booking": "Reserveren via het hotel. In de winter en tijdens de middernachtzon ruim op tijd reserveren.",
+          "hours": "Keuken dagelijks 17.00–22.00, het menu bestellen tot 21.00. Bar 9.00–23.00. Gesloten wegens verbouwing van 7 oktober tot en met 20 november 2026.",
+          "booking": "Online een tafel reserveren via restaurantaanaar.fi. In de winter en tijdens de middernachtzon ruim op tijd reserveren.",
           "rating": "4,8",
-          "ratingCount": "482 beoordelingen"
+          "ratingCount": "485 beoordelingen"
         },
         {
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
-          "address": "Arctic TreeHouse Hotel, Tarvantie 3, ongeveer 6 km van het centrum",
-          "angle": "Het hoofdrestaurant van het hotel, ook open voor wie er niet logeert. De keuken maakt van Laplandse ingrediënten een moderne kaart, en het huis werd in 2026 tien jaar. U komt er met de taxi of met de eigen auto.",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, ongeveer 8 km van het centrum",
+          "angle": "Het hoofdrestaurant van het hotel, ook open voor wie er niet logeert. De keuken maakt van Laplandse ingrediënten een moderne kaart, en het restaurant ging in 2016 open. U komt er met de taxi of met de eigen auto.",
           "order": "Vraag naar het seizoensmenu.",
-          "hours": "À la carte dagelijks 18.00–22.30, de keuken sluit om 22.00.",
+          "hours": "À la carte dagelijks: tot en met 8 november 18.00–22.30, vanaf 9 november 17.00–23.00 en dan ook lunch 12.00–16.00. De keuken sluit een halfuur eerder.",
           "booking": "Reserveer vooraf in het winterseizoen.",
-          "rating": "",
-          "ratingCount": "Nog niet in onze meting"
+          "rating": "4,2",
+          "ratingCount": "319 beoordelingen"
         }
       ],
       "booking": "De restaurants zijn klein. Van half december tot februari en onder de middernachtzon zijn de tafels weken van tevoren weg."
@@ -2531,7 +2531,7 @@
       "tourPrefix": "Wilt u liever een gids die het vervoer, de reserveringen en de kennismaking met de koks regelt?",
       "tourLabel": "Boek een Arctische fine-diningtour"
     },
-    "sources": "Sterren: MICHELIN Gids Noordse landen 2026, bekendgemaakt op 1 juni 2026; jaren van de eerste ster uit de gids en de eigen berichten van de restaurants. Openingstijden en menugegevens van de eigen sites van de restaurants, 16 september 2026. Google-beoordelingen en de openingstijden van Nili uit onze eigen wekelijkse meting, 11 september 2026; Rakas zit er nog niet in."
+    "sources": "Sterren: MICHELIN Gids Noordse landen 2026, bekendgemaakt op 1 juni 2026; jaren van de eerste ster uit de gids en de eigen berichten van de restaurants. Openingstijden en menugegevens van de eigen sites van de restaurants, 25 september 2026. Google-beoordelingen uit onze eigen wekelijkse meting, 25 september 2026."
   },
   "about": {
     "title": "Over LaplandFood",

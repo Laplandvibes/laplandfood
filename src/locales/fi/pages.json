@@ -2457,7 +2457,7 @@
     "lapland": {
       "kicker": "Lapin kolme parasta",
       "headline": "Missä Lapissa syödään parhaiten.",
-      "lead": "Nämä kolme hakevat raaka-aineensa läheltä ja tekevät niistä enemmän kuin poroa ja perunaa. Aukioloajat ja menutiedot on tarkistettu ravintoloiden omilta sivuilta 16.9.2026. Tähtiluvut ovat Googlen käyttäjäarvioita, eivät meidän arvioitamme.",
+      "lead": "Nämä kolme hakevat raaka-aineensa läheltä ja tekevät niistä enemmän kuin poroa ja perunaa. Aukioloajat ja menutiedot on tarkistettu ravintoloiden omilta sivuilta 25.9.2026. Tähtiluvut ovat Googlen käyttäjäarvioita, eivät meidän arvioitamme.",
       "labels": {
         "rating": "Googlen arvio",
         "order": "Tilaa tämä",
@@ -2472,10 +2472,10 @@
           "address": "Valtakatu 20, Rovaniemen keskustassa",
           "angle": "Lapin tunnetuin ravintola, ja tunnettuus on ansaittua. Poro tulee paikallisilta poromiehiltä ja marjat keräilijöiltä. Sali on hirsinen ja lämmin, ja talo täytti 20 vuotta syksyllä 2026.",
           "order": "Poroa. Se on koko talon idea. Menu vaihtuu kauden mukaan.",
-          "hours": "Ti–la 16–23, su 14–23. Maanantaisin kiinni.",
+          "hours": "11.9.–31.10. ma–pe 16–23, la 14–23, sunnuntaisin kiinni. 30.11.–28.2. joka päivä 12–23. Muut kaudet nili.fi:ssä.",
           "booking": "Pöytävaraus nili.fi:ssä. Syyskuussa 2026 neljän ruokalajin menu maksoi 45 euroa henkilöltä.",
           "rating": "4,5",
-          "ratingCount": "3 052 arvostelua"
+          "ratingCount": "3 060 arvostelua"
         },
         {
           "name": "Restaurant Aanaar",
@@ -2483,21 +2483,21 @@
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
           "angle": "Ravintola on Juutuanjoen rannalla keskellä saamelaisaluetta, ja se näkyy lautasella: Inarijärven kalaa, poroa ja tunturin yrttejä. Inarissa asuu noin 7 000 ihmistä, ja silti tänne kannattaa ajaa syömään.",
           "order": "Inarijärven kalaa.",
-          "hours": "Keittiö 17–22, tilaukset sisään klo 21 mennessä. Baari auki 9–23.",
-          "booking": "Varaus hotellin kautta. Talvella ja keskiyön auringon aikaan varaa hyvissä ajoin.",
+          "hours": "Keittiö joka päivä 17–22, menun tilaukset klo 21 mennessä. Baari auki 9–23. Suljettu remontin vuoksi 7.10.–20.11.2026.",
+          "booking": "Pöytävaraus verkossa restaurantaanaar.fi:ssä. Talvella ja keskiyön auringon aikaan varaa hyvissä ajoin.",
           "rating": "4,8",
-          "ratingCount": "482 arvostelua"
+          "ratingCount": "485 arvostelua"
         },
         {
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
-          "address": "Arctic TreeHouse Hotel, Tarvantie 3, noin 6 km keskustasta",
-          "angle": "Hotellin pääravintola, joka on avoin myös muille kuin hotellivieraille. Keittiö tekee Lapin raaka-aineista modernia à la cartea, ja talo täytti 10 vuotta 2026. Tänne pääsee taksilla tai omalla autolla.",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, noin 8 km keskustasta",
+          "angle": "Hotellin pääravintola, joka on avoin myös muille kuin hotellivieraille. Keittiö tekee Lapin raaka-aineista modernia à la cartea, ja ravintola avattiin vuonna 2016. Tänne pääsee taksilla tai omalla autolla.",
           "order": "Kysy kauden maistelumenu.",
-          "hours": "À la carte joka päivä 18–22.30, keittiö sulkeutuu 22.00.",
+          "hours": "À la carte joka päivä: 8.11. asti 18–22.30, 9.11. alkaen 17–23, ja silloin myös lounas 12–16. Keittiö sulkeutuu puoli tuntia aiemmin.",
           "booking": "Varaa etukäteen talvikaudella.",
-          "rating": "",
-          "ratingCount": "Ei vielä tilannekuvassamme"
+          "rating": "4,2",
+          "ratingCount": "319 arvostelua"
         }
       ],
       "booking": "Ravintolat ovat pieniä. Joulukuun puolivälistä helmikuulle ja keskiyön auringon aikaan pöydät menevät viikkoja etukäteen."
@@ -2532,7 +2532,7 @@
       "tourPrefix": "Haluatko oppaan, joka hoitaa kuljetuksen, varaukset ja kokkiesittelyt puolestasi?",
       "tourLabel": "Varaa arktinen fine dining -kierros"
     },
-    "sources": "Tähtimerkinnät: Pohjoismaiden Michelin-opas 2026, julkistettu 1. kesäkuuta 2026; ensimmäisten tähtien vuodet oppaasta ja ravintoloiden omista tiedotteista. Aukioloajat ja menutiedot ravintoloiden omilta sivuilta 16.9.2026. Googlen arviot ja Nilin aukioloajat omasta viikoittaisesta tilannekuvastamme 11.9.2026; Rakas ei ole siinä vielä mukana."
+    "sources": "Tähtimerkinnät: Pohjoismaiden Michelin-opas 2026, julkistettu 1. kesäkuuta 2026; ensimmäisten tähtien vuodet oppaasta ja ravintoloiden omista tiedotteista. Aukioloajat ja menutiedot ravintoloiden omilta sivuilta 25.9.2026. Googlen arviot omasta viikoittaisesta tilannekuvastamme 25.9.2026."
   },
   "about": {
     "title": "Tietoa LaplandFoodista",

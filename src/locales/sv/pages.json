@@ -2456,7 +2456,7 @@
     "lapland": {
       "kicker": "De tre bästa",
       "headline": "Där man äter bäst i Lappland.",
-      "lead": "De här tre hämtar sina råvaror nära och gör mer av dem än ren och potatis. Öppettider och menyuppgifter kontrollerades på restaurangernas egna sidor 16.9.2026. Stjärnsiffrorna är Googles användarbetyg, inte våra egna omdömen.",
+      "lead": "De här tre hämtar sina råvaror nära och gör mer av dem än ren och potatis. Öppettider och menyuppgifter kontrollerades på restaurangernas egna sidor 25.9.2026. Stjärnsiffrorna är Googles användarbetyg, inte våra egna omdömen.",
       "labels": {
         "rating": "Google-betyg",
         "order": "Beställ detta",
@@ -2471,10 +2471,10 @@
           "address": "Valtakatu 20, centrala Rovaniemi",
           "angle": "Lapplands mest kända restaurang, och ryktet är förtjänat. Renen kommer från renskötare i trakten och bären från plockare. Salen är i timmer och varm, och huset fyllde 20 år hösten 2026.",
           "order": "Ren. Det är hela husets idé. Menyn växlar med säsongen.",
-          "hours": "Tis–lör 16–23, sön 14–23. Stängt måndagar.",
+          "hours": "11 sep–31 okt: mån–fre 16–23, lör 14–23, stängt på söndagar. 30 nov–28 feb: varje dag 12–23. Övriga säsonger på nili.fi.",
           "booking": "Bordsbokning på nili.fi. I september 2026 kostade en meny med fyra rätter 45 euro per person.",
           "rating": "4,5",
-          "ratingCount": "3 052 recensioner"
+          "ratingCount": "3 060 recensioner"
         },
         {
           "name": "Restaurant Aanaar",
@@ -2482,21 +2482,21 @@
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Enare",
           "angle": "Restaurangen ligger vid Juutuanjoki mitt i sameland, och det syns på tallriken: fisk från Enare träsk, ren och örter från fjällen. I Enare bor omkring 7 000 människor, och ändå är det värt att köra hit.",
           "order": "Fisk från Enare träsk.",
-          "hours": "Köket 17–22, beställningar senast 21. Baren 9–23.",
-          "booking": "Bokning via hotellet. På vintern och under midnattssolen, boka i god tid.",
+          "hours": "Köket varje dag 17–22, menybeställningar senast 21. Baren 9–23. Stängt för renovering 7 okt–20 nov 2026.",
+          "booking": "Boka bord på nätet via restaurantaanaar.fi. På vintern och under midnattssolen, boka i god tid.",
           "rating": "4,8",
-          "ratingCount": "482 recensioner"
+          "ratingCount": "485 recensioner"
         },
         {
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
-          "address": "Arctic TreeHouse Hotel, Tarvantie 3, cirka 6 km från centrum",
-          "angle": "Hotellets huvudrestaurang, öppen även för andra än hotellgäster. Köket gör modern à la carte av lappländska råvaror, och huset fyllde 10 år 2026. Hit tar du dig med taxi eller egen bil.",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, cirka 8 km från centrum",
+          "angle": "Hotellets huvudrestaurang, öppen även för andra än hotellgäster. Köket gör modern à la carte av lappländska råvaror, och restaurangen öppnade 2016. Hit tar du dig med taxi eller egen bil.",
           "order": "Fråga efter säsongens smakmeny.",
-          "hours": "À la carte varje dag 18–22.30, köket stänger 22.",
+          "hours": "À la carte varje dag: till och med 8 nov 18–22.30, från 9 nov 17–23 och då även lunch 12–16. Köket stänger en halvtimme tidigare.",
           "booking": "Boka i förväg under vintersäsongen.",
-          "rating": "",
-          "ratingCount": "Ännu inte med i vår datauppdatering"
+          "rating": "4,2",
+          "ratingCount": "319 recensioner"
         }
       ],
       "booking": "Restaurangerna är små. Från mitten av december till februari och under midnattssolen går borden veckor i förväg."
@@ -2531,7 +2531,7 @@
       "tourPrefix": "Vill du hellre ha en guide som sköter transporten, bokningarna och kockpresentationerna?",
       "tourLabel": "Boka en arktisk fine dining-tur"
     },
-    "sources": "Stjärnor: Michelinguiden Norden 2026, tillkännagiven 1 juni 2026; årtal för första stjärnan från guiden och restaurangernas egna meddelanden. Öppettider och menyuppgifter från restaurangernas egna sidor, 16.9.2026. Google-betyg och Nilis öppettider från vår egen veckovisa datauppdatering, 11.9.2026; Rakas är ännu inte med."
+    "sources": "Stjärnor: Michelinguiden Norden 2026, tillkännagiven 1 juni 2026; årtal för första stjärnan från guiden och restaurangernas egna meddelanden. Öppettider och menyuppgifter från restaurangernas egna sidor, 25.9.2026. Google-betyg från vår egen veckovisa datauppdatering, 25.9.2026."
   },
   "about": {
     "title": "Om LaplandFood",

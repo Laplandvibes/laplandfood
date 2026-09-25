@@ -2456,7 +2456,7 @@
     "lapland": {
       "kicker": "The three rooms",
       "headline": "Where you eat best in Lapland.",
-      "lead": "These three source their ingredients close by and do more with them than reindeer and potato. Opening hours and menu details were checked on the restaurants' own sites on 16 September 2026. The star figures are Google user ratings, not our own scores.",
+      "lead": "These three source their ingredients close by and do more with them than reindeer and potato. Opening hours and menu details were checked on the restaurants' own sites on 25 September 2026. The star figures are Google user ratings, not our own scores.",
       "labels": {
         "rating": "Google rating",
         "order": "Order this",
@@ -2471,10 +2471,10 @@
           "address": "Valtakatu 20, central Rovaniemi",
           "angle": "The best-known restaurant in Lapland, and the reputation is earned. The reindeer comes from local herders and the berries from pickers. The room is timber and warm, and the house turned 20 in autumn 2026.",
           "order": "Reindeer. It is the whole point of the place. The menu changes with the season.",
-          "hours": "Tue–Sat 16:00–23:00, Sun 14:00–23:00. Closed Mondays.",
+          "hours": "11 Sep–31 Oct: Mon–Fri 16:00–23:00, Sat 14:00–23:00, closed on Sundays. 30 Nov–28 Feb: daily 12:00–23:00. Other seasons at nili.fi.",
           "booking": "Table booking at nili.fi. In September 2026 a four-course menu was 45 euros per person.",
           "rating": "4.5",
-          "ratingCount": "3,052 reviews"
+          "ratingCount": "3,060 reviews"
         },
         {
           "name": "Restaurant Aanaar",
@@ -2482,21 +2482,21 @@
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
           "angle": "The restaurant sits on the bank of the Juutuanjoki in the middle of the Sámi homeland, and it shows on the plate: fish from Lake Inari, reindeer, and herbs from the fells. About 7,000 people live in Inari, and this is still a room worth the drive.",
           "order": "Fish from Lake Inari.",
-          "hours": "Kitchen 17:00–22:00, orders in by 21:00. Bar open 09:00–23:00.",
-          "booking": "Book through the hotel. In winter and during the midnight sun, book well ahead.",
+          "hours": "Kitchen daily 17:00–22:00, menu orders by 21:00. Bar open 09:00–23:00. Closed for renovation 7 Oct–20 Nov 2026.",
+          "booking": "Book a table online at restaurantaanaar.fi. In winter and during the midnight sun, book well ahead.",
           "rating": "4.8",
-          "ratingCount": "482 reviews"
+          "ratingCount": "485 reviews"
         },
         {
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
-          "address": "Arctic TreeHouse Hotel, Tarvantie 3, about 6 km from the centre",
-          "angle": "The hotel's main restaurant, open to non-guests as well. The kitchen turns Lapland ingredients into modern à la carte, and the house turned 10 in 2026. Come by taxi or your own car.",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, about 8 km from the centre",
+          "angle": "The hotel's main restaurant, open to non-guests as well. The kitchen turns Lapland ingredients into modern à la carte, and the restaurant opened in 2016. Come by taxi or your own car.",
           "order": "Ask about the seasonal tasting menu.",
-          "hours": "À la carte daily 18:00–22:30, kitchen closes at 22:00.",
+          "hours": "À la carte daily: until 8 Nov 18:00–22:30; from 9 Nov 17:00–23:00, with lunch 12:00–16:00 as well. The kitchen closes half an hour earlier.",
           "booking": "Book ahead in the winter season.",
-          "rating": "",
-          "ratingCount": "Not in our snapshot yet"
+          "rating": "4.2",
+          "ratingCount": "319 reviews"
         }
       ],
       "booking": "The rooms are small. From mid-December to February and under the midnight sun, tables go weeks ahead."
@@ -2531,7 +2531,7 @@
       "tourPrefix": "Would you rather have a guide who handles the transport, the bookings and the chef introductions?",
       "tourLabel": "Book an Arctic fine dining tour"
     },
-    "sources": "Star designations: MICHELIN Guide Nordic Countries 2026, announced 1 June 2026; first-star years from the Guide and the restaurants' own announcements. Opening hours and menu details from the restaurants' own sites, 16 September 2026. Google ratings and Nili's opening hours from our own weekly snapshot, 11 September 2026; Rakas is not in it yet."
+    "sources": "Star designations: MICHELIN Guide Nordic Countries 2026, announced 1 June 2026; first-star years from the Guide and the restaurants' own announcements. Opening hours and menu details from the restaurants' own sites, 25 September 2026. Google ratings from our own weekly snapshot, 25 September 2026."
   },
   "about": {
     "title": "About LaplandFood",

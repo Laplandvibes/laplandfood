@@ -2456,7 +2456,7 @@
     "lapland": {
       "kicker": "I tre migliori",
       "headline": "Dove si mangia meglio in Lapponia.",
-      "lead": "Queste tre si riforniscono vicino e ne fanno qualcosa di più che renna e patate. Orari e informazioni sui menu sono stati verificati sui siti dei ristoranti il 16 settembre 2026. I punteggi sono valutazioni degli utenti di Google, non nostre.",
+      "lead": "Queste tre si riforniscono vicino e ne fanno qualcosa di più che renna e patate. Orari e informazioni sui menu sono stati verificati sui siti dei ristoranti il 25 settembre 2026. I punteggi sono valutazioni degli utenti di Google, non nostre.",
       "labels": {
         "rating": "Valutazione Google",
         "order": "Ordini questo",
@@ -2471,10 +2471,10 @@
           "address": "Valtakatu 20, centro di Rovaniemi",
           "angle": "Il ristorante più noto della Lapponia, e la fama è meritata. La renna arriva dagli allevatori della zona e le bacche dai raccoglitori. La sala è in legno e calda, e la casa ha compiuto 20 anni nell'autunno 2026.",
           "order": "Renna. È tutta l'idea della casa. Il menu cambia con la stagione.",
-          "hours": "Mar–sab 16–23, dom 14–23. Chiuso il lunedì.",
+          "hours": "Dall'11 settembre al 31 ottobre: lun–ven 16–23, sab 14–23, chiuso la domenica. Dal 30 novembre al 28 febbraio: tutti i giorni 12–23. Altri periodi su nili.fi.",
           "booking": "Prenotazione su nili.fi. A settembre 2026 un menu da quattro portate costava 45 euro a persona.",
           "rating": "4,5",
-          "ratingCount": "3.052 recensioni"
+          "ratingCount": "3.060 recensioni"
         },
         {
           "name": "Restaurant Aanaar",
@@ -2482,21 +2482,21 @@
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
           "angle": "Il ristorante è sulla riva dello Juutuanjoki, nel cuore della terra sami, e si vede nel piatto: pesce del lago Inari, renna ed erbe delle alture. A Inari vivono circa 7.000 persone, e vale comunque il viaggio in auto.",
           "order": "Il pesce del lago Inari.",
-          "hours": "Cucina 17–22, ordini entro le 21. Bar 9–23.",
-          "booking": "Prenotazione tramite l'hotel. In inverno e durante il sole di mezzanotte, prenoti con largo anticipo.",
+          "hours": "Cucina tutti i giorni 17–22, ordini del menu entro le 21. Bar 9–23. Chiuso per lavori dal 7 ottobre al 20 novembre 2026.",
+          "booking": "Prenotazione del tavolo online su restaurantaanaar.fi. In inverno e durante il sole di mezzanotte, prenoti con largo anticipo.",
           "rating": "4,8",
-          "ratingCount": "482 recensioni"
+          "ratingCount": "485 recensioni"
         },
         {
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
-          "address": "Arctic TreeHouse Hotel, Tarvantie 3, a circa 6 km dal centro",
-          "angle": "Il ristorante principale dell'hotel, aperto anche a chi non vi alloggia. La cucina trasforma le materie prime lapponi in una carta moderna, e la casa ha compiuto 10 anni nel 2026. Ci si arriva in taxi o con la propria auto.",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, a circa 8 km dal centro",
+          "angle": "Il ristorante principale dell'hotel, aperto anche a chi non vi alloggia. La cucina trasforma le materie prime lapponi in una carta moderna, e il locale ha aperto nel 2016. Ci si arriva in taxi o con la propria auto.",
           "order": "Chieda il menu degustazione di stagione.",
-          "hours": "Carta tutti i giorni 18–22.30, la cucina chiude alle 22.",
+          "hours": "Carta tutti i giorni: fino all'8 novembre 18–22.30, dal 9 novembre 17–23 e anche pranzo 12–16. La cucina chiude mezz'ora prima.",
           "booking": "Prenoti in anticipo nella stagione invernale.",
-          "rating": "",
-          "ratingCount": "Non ancora nel nostro rilevamento"
+          "rating": "4,2",
+          "ratingCount": "319 recensioni"
         }
       ],
       "booking": "I ristoranti sono piccoli. Da metà dicembre a febbraio e sotto il sole di mezzanotte i tavoli si esauriscono settimane prima."
@@ -2531,7 +2531,7 @@
       "tourPrefix": "Preferisce una guida che si occupi del trasporto, delle prenotazioni e delle presentazioni degli chef?",
       "tourLabel": "Prenoti un tour di alta cucina artica"
     },
-    "sources": "Stelle: Guida MICHELIN Paesi Nordici 2026, annunciata il 1° giugno 2026; anni della prima stella dalla guida e dai comunicati dei ristoranti. Orari e informazioni sui menu dai siti dei ristoranti stessi, 16 settembre 2026. Valutazioni Google e orari di Nili dal nostro rilevamento settimanale, 11 settembre 2026; Rakas non è ancora incluso."
+    "sources": "Stelle: Guida MICHELIN Paesi Nordici 2026, annunciata il 1° giugno 2026; anni della prima stella dalla guida e dai comunicati dei ristoranti. Orari e informazioni sui menu dai siti dei ristoranti stessi, 25 settembre 2026. Valutazioni Google dal nostro rilevamento settimanale, 25 settembre 2026."
   },
   "about": {
     "title": "Chi siamo — LaplandFood",

@@ -2456,7 +2456,7 @@
     "lapland": {
       "kicker": "As três salas",
       "headline": "Onde se come melhor na Lapônia.",
-      "lead": "Estas três buscam os ingredientes por perto e fazem com eles mais do que rena com batata. Horários e informações de cardápio foram conferidos nos próprios sites dos restaurantes em 16 de setembro de 2026. As notas são avaliações de usuários do Google, não avaliações nossas.",
+      "lead": "Estas três buscam os ingredientes por perto e fazem com eles mais do que rena com batata. Horários e informações de cardápio foram conferidos nos próprios sites dos restaurantes em 25 de setembro de 2026. As notas são avaliações de usuários do Google, não avaliações nossas.",
       "labels": {
         "rating": "Nota no Google",
         "order": "Peça isto",
@@ -2471,10 +2471,10 @@
           "address": "Valtakatu 20, centro de Rovaniemi",
           "angle": "O restaurante mais conhecido da Lapônia, e a fama é merecida. A rena vem de criadores da região e as frutas silvestres de coletores. O salão é de madeira e acolhedor, e a casa completou 20 anos no outono de 2026.",
           "order": "Rena. É a ideia inteira da casa. O cardápio muda com a estação.",
-          "hours": "Ter–sáb 16h–23h, dom 14h–23h. Fechado às segundas.",
+          "hours": "De 11 de setembro a 31 de outubro: seg–sex 16h–23h, sáb 14h–23h, fechado aos domingos. De 30 de novembro a 28 de fevereiro: todos os dias 12h–23h. Outras temporadas em nili.fi.",
           "booking": "Reserva de mesa em nili.fi. Em setembro de 2026, um menu de quatro tempos custava 45 euros por pessoa.",
           "rating": "4,5",
-          "ratingCount": "3.052 avaliações"
+          "ratingCount": "3.060 avaliações"
         },
         {
           "name": "Restaurant Aanaar",
@@ -2482,21 +2482,21 @@
           "address": "Wilderness Hotel Juutua, Saarikoskentie 2, Inari",
           "angle": "O restaurante fica à beira do Juutuanjoki, no coração do território sámi, e isso aparece no prato: peixe do lago Inari, rena e ervas das montanhas. Inari tem cerca de 7.000 habitantes, e ainda assim vale a viagem de carro.",
           "order": "Peixe do lago Inari.",
-          "hours": "Cozinha 17h–22h, pedidos até 21h. Bar 9h–23h.",
-          "booking": "Reserva pelo hotel. No inverno e no sol da meia-noite, reserve com bastante antecedência.",
+          "hours": "Cozinha todos os dias 17h–22h, pedidos do menu até 21h. Bar 9h–23h. Fechado para reforma de 7 de outubro a 20 de novembro de 2026.",
+          "booking": "Reserva de mesa on-line em restaurantaanaar.fi. No inverno e no sol da meia-noite, reserve com bastante antecedência.",
           "rating": "4,8",
-          "ratingCount": "482 avaliações"
+          "ratingCount": "485 avaliações"
         },
         {
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
-          "address": "Arctic TreeHouse Hotel, Tarvantie 3, a cerca de 6 km do centro",
-          "angle": "O restaurante principal do hotel, aberto também a quem não está hospedado. A cozinha transforma ingredientes da Lapônia em uma carta moderna, e a casa completou 10 anos em 2026. Chega-se de táxi ou de carro próprio.",
+          "address": "Arctic TreeHouse Hotel, Tarvantie 3, a cerca de 8 km do centro",
+          "angle": "O restaurante principal do hotel, aberto também a quem não está hospedado. A cozinha transforma ingredientes da Lapônia em uma carta moderna, e a casa abriu em 2016. Chega-se de táxi ou de carro próprio.",
           "order": "Pergunte pelo menu degustação da estação.",
-          "hours": "À la carte todos os dias 18h–22h30, a cozinha fecha às 22h.",
+          "hours": "À la carte todos os dias: até 8 de novembro 18h–22h30; a partir de 9 de novembro 17h–23h, com almoço também 12h–16h. A cozinha fecha meia hora antes.",
           "booking": "Reserve com antecedência na temporada de inverno.",
-          "rating": "",
-          "ratingCount": "Ainda não está no nosso levantamento"
+          "rating": "4,2",
+          "ratingCount": "319 avaliações"
         }
       ],
       "booking": "As salas são pequenas. De meados de dezembro a fevereiro e sob o sol da meia-noite, as mesas esgotam com semanas de antecedência."
@@ -2531,7 +2531,7 @@
       "tourPrefix": "Prefere um guia que cuide do transporte, das reservas e das apresentações com os chefs?",
       "tourLabel": "Reservar um roteiro de alta gastronomia ártica"
     },
-    "sources": "Estrelas: Guia MICHELIN Países Nórdicos 2026, anunciado em 1º de junho de 2026; anos da primeira estrela segundo o guia e os comunicados dos próprios restaurantes. Horários e informações de cardápio dos próprios sites dos restaurantes, 16 de setembro de 2026. Avaliações do Google e horários do Nili do nosso levantamento semanal, 11 de setembro de 2026; o Rakas ainda não está incluído."
+    "sources": "Estrelas: Guia MICHELIN Países Nórdicos 2026, anunciado em 1º de junho de 2026; anos da primeira estrela segundo o guia e os comunicados dos próprios restaurantes. Horários e informações de cardápio dos próprios sites dos restaurantes, 25 de setembro de 2026. Avaliações do Google do nosso levantamento semanal, 25 de setembro de 2026."
   },
   "about": {
     "title": "Sobre o LaplandFood",
