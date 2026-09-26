@@ -162,7 +162,7 @@
   },
   "localIngredients": {
     "title": "Ingredientes de Laponia: reno, bayas, pescado",
-    "description": "Seis ingredientes que definen la cocina lapona: reno, moras árticas, pescado de lago, setas y hierbas silvestres. Temporadas, origen y sabor.",
+    "description": "Seis ingredientes que definen la cocina de Laponia: reno, moras árticas, pescado de lago, setas y hierbas silvestres. Temporadas, origen y sabor.",
     "hero": {
       "eyebrow": "Guía 01 · Ingredientes",
       "title": "Lo que crece",
@@ -1005,7 +1005,7 @@
       "eyebrow": "La guía de bayas · Espino amarillo",
       "title": "Espino amarillo, fuego naranja",
       "titleHighlight": "desde la orilla.",
-      "subtitle": "El tyrni no crece en absoluto en los bosques del interior de Laponia. Crece en las orillas pedregosas del golfo de Botnia, hacia el norte hasta la costa lapona en Tornio, y es la baya más ácida de la despensa finlandesa y una de las más ricas en vitamina C. Aquí tiene dónde vive, a qué sabe y por qué es tan difícil de recoger.",
+      "subtitle": "El tyrni no crece en absoluto en los bosques del interior de Laponia. Crece en las orillas pedregosas del golfo de Botnia, hacia el norte hasta la costa de Laponia en Tornio, y es la baya más ácida de la despensa finlandesa y una de las más ricas en vitamina C. Aquí tiene dónde vive, a qué sabe y por qué es tan difícil de recoger.",
       "primaryCta": "Aprenda a recolectarlo",
       "secondaryCta": "La guía de bayas",
       "pills": [
@@ -2029,7 +2029,7 @@
         {
           "n": "02",
           "title": "La técnica llegó al norte",
-          "body": "Los circuladores sous-vide baratos liberaron a los cortes magros del guiso. El solomillo de reno, rosado en el centro a 54 °C, se convirtió en la firma de la cocina lapona moderna."
+          "body": "Los circuladores sous-vide baratos liberaron a los cortes magros del guiso. El solomillo de reno, rosado en el centro a 54 °C, se convirtió en la firma de la cocina moderna de Laponia."
         },
         {
           "n": "03",
@@ -2491,7 +2491,7 @@
           "name": "Rakas Restaurant & Bar",
           "city": "Rovaniemi",
           "address": "Arctic TreeHouse Hotel, Tarvantie 3, a unos 8 km del centro",
-          "angle": "El restaurante principal del hotel, abierto también a quien no se aloja allí. La cocina convierte el producto lapón en una carta moderna, y la casa abrió sus puertas en 2016. Se llega en taxi o en coche propio.",
+          "angle": "El restaurante principal del hotel, abierto también a quien no se aloja allí. La cocina convierte el producto de Laponia en una carta moderna, y la casa abrió sus puertas en 2016. Se llega en taxi o en coche propio.",
           "order": "Pregunte por el menú degustación de temporada.",
           "hours": "Carta todos los días: hasta el 8 de noviembre 18:00–22:30; desde el 9 de noviembre 17:00–23:00, y también almuerzo 12:00–16:00. La cocina cierra media hora antes.",
           "booking": "Reserve con antelación en temporada de invierno.",
@@ -2562,7 +2562,7 @@
         },
         {
           "t": "Laponia moderna",
-          "body": "Técnica nórdica aplicada a los productos lapones. Sous vide, fermentación, curado y guarniciones recolectadas, y dónde probarlo.",
+          "body": "Técnica nórdica aplicada a los productos de Laponia. Sous vide, fermentación, curado y guarniciones recolectadas, y dónde probarlo.",
           "href": "/modern-lapland"
         },
         {
