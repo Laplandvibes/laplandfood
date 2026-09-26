@@ -93,6 +93,7 @@
   },
   "photo": {
     "credit": "写真：LaplandVibes",
-    "label": "写真："
+    "label": "写真：",
+    "modified": "加工あり"
   }
 }

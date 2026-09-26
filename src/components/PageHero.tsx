@@ -84,7 +84,7 @@ export default function PageHero({
       <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/26 to-transparent" />
       {/* Avoimen lisenssin kuvan tekijä + lisenssi piirtyy automaattisesti polun
           perusteella (src/data/photoCredits.ts). Omat kuvat eivät saa merkintää. */}
-      <PhotoCredit credit={creditFor(imageUrl)} label={tc('photo.label')} />
+      <PhotoCredit credit={creditFor(imageUrl)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
 
       <div className="relative z-10 max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-20 flex flex-col justify-center items-center text-center lg:items-start lg:text-left min-h-[72svh] md:min-h-[80svh]">
         {/* 🔴 Yläotsake kiinteällä Suomen-sinisellä laatalla, ei kuvan päällä vapaana

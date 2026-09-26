@@ -12,7 +12,7 @@ import type { PhotoCredit as Credit } from '../data/photoCredits';
  *
  * `label` tuo oman välimerkkinsä ("Kuva: ", "写真："), jotta CJK saa täysleveän kaksoispisteen.
  */
-export default function PhotoCredit({ credit, label }: { credit?: Credit; label: string }) {
+export default function PhotoCredit({ credit, label, modifiedLabel }: { credit?: Credit; label: string; modifiedLabel?: string }) {
   if (!credit) return null;
   return (
     <span className="absolute bottom-0 right-0 z-20 max-w-full rounded-tl bg-black/55 px-1.5 py-[2px] text-[9px] sm:text-[10px] leading-tight text-white">
@@ -24,6 +24,7 @@ export default function PhotoCredit({ credit, label }: { credit?: Credit; label:
       <a href={credit.licenseUrl} target="_blank" rel="license noopener" className="lv-tap underline decoration-white/50 underline-offset-2 hover:decoration-white">
         {credit.license}
       </a>
+      {credit.modified && modifiedLabel ? ` · ${modifiedLabel}` : ''}
     </span>
   );
 }

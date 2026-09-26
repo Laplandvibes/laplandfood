@@ -45,6 +45,9 @@ export type PhotoCredit = {
   taken: string;
   /** Mitä kuvalle tehtiin. */
   changes: string;
+  /** Tiedostoa on muokattu (rajattu, sumennettu …): kuvan päälle "muokattu", koska CC BY 4.0 §3(a)(1)(B)
+   *  vaatii muokkauksen mainitsemisen. Vain CC BY / CC0 -kuville: CC BY-SA -kuvaa ei muokata (26.9.2026). */
+  modified?: true;
   fetched: string;
   cost: '0 €';
 };
@@ -60,6 +63,7 @@ export const PHOTO_CREDITS: Record<string, PhotoCredit> = {
     place: 'Kilpisjärvi',
     taken: '2022-06-24',
     changes: 'Rajattu vasempaan osaan ja 16:9 (Mercedes ja hirsitalo pois), kahden pysäköidyn auton, matkailuauton ja farmarin rekisterikilvet ja tuulilasit sumennettu, pehmennetty (Gaussian 0,7) ja pienennetty 1920 px:ään.',
+    modified: true,
     fetched: '2026-09-23',
     cost: '0 €',
   },
@@ -109,6 +113,7 @@ export const PHOTO_CREDITS: Record<string, PhotoCredit> = {
     place: '',
     taken: '1914-02-28',
     changes: 'Skannauksen reunat ja pisteviiva rajattu pois, pienennetty 1100 px:ään.',
+    modified: true,
     fetched: '2026-09-23',
     cost: '0 €',
   },

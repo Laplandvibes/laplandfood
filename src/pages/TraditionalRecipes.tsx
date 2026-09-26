@@ -239,7 +239,7 @@ export default function TraditionalRecipes() {
                 <Link key={d.path} to={to(d.path)} className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 transition-colors">
                   <div className="relative aspect-[16/9] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                     <img src={d.hero.image} alt={d.hero.alt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(d.hero.image)} label={tc('photo.label')} />
+                    <PhotoCredit credit={creditFor(d.hero.image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="flex flex-1 flex-col p-6">
                     <h3 className="font-heading tracking-wide text-3xl text-[#002F6C] mb-2 group-hover:text-vibe-pink transition-colors">

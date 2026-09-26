@@ -89,7 +89,7 @@ function RecipeCard({ recipe, image, alt, fit = 'cover', labels, featured, id }:
             <h3 className="absolute bottom-5 left-6 right-6 font-heading tracking-wide text-3xl sm:text-4xl text-white leading-tight">
               {recipe.name}
             </h3>
-            <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} />
+            <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
           </div>
         )}
         <div className="p-7 sm:p-9">
@@ -164,7 +164,7 @@ function ImageProse({ id, kicker, headline, image, alt, caption, children }: {
               <div className="lg:sticky lg:top-24">
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                   <img src={image} alt={alt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                  <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} />
+                  <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                 </div>
                 {caption && <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">{caption}</p>}
               </div>
