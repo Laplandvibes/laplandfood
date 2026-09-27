@@ -1343,7 +1343,9 @@ export default function SharedFooter({ pillarLinks = defaultPillarLinks, onPilla
                       (2026-08-11). Toimittaja haluaa ensin tietää keitä olemme; lomake on
                       väärä ensimmäinen askel ja mediapaketti oli sen takana näkymättömissä.
                       URL on ABSOLUUTTINEN, koska /press on vain hubissa ja tämä alatunniste
-                      on byte-identtinen verkoston jokaisella sivustolla. */}
+                      on byte-identtinen verkoston jokaisella sivustolla.
+                      🔴 Kauttaviiva (24.9.) ja kielietuliite (25.9.): hubin `/xx/press/`
+                      on olemassa kaikilla 11 kielellä — mitattu 11/11 ennen lokalisointia. */}
                   <a
                     href={localeHref('https://laplandvibes.com/press/', localePrefix)}
                     className="inline-flex items-center justify-center w-full @md:w-auto @md:self-start px-3 @md:px-6 py-2.5 rounded-full text-xs font-semibold transition-all duration-200 min-h-[44px] shadow-sm cursor-pointer whitespace-nowrap no-underline"
@@ -1400,6 +1402,9 @@ export default function SharedFooter({ pillarLinks = defaultPillarLinks, onPilla
                   { to: `${localePrefix}${legalPaths?.privacy ?? '/privacy'}/`, label: d.legal.privacy },
                   { to: `${localePrefix}${legalPaths?.cookie ?? '/cookie-policy'}/`, label: d.legal.cookie },
                   { to: `${localePrefix}${legalPaths?.terms ?? '/terms'}/`, label: d.legal.terms },
+                  // 🔴 extraLegalLinks tulee sivustolta raakana polkuna (luxuryvillas /contact,
+                  // work /jobs/post). Sekin kuuluu lukijan kieleen; localeHref on idempotentti,
+                  // joten yllä jo etuliitetyt kolme riviä palautuvat tavulleen ennallaan.
                   ...extraLegalLinks,
                 ].map(({ to, label }) => (
                   <Link
