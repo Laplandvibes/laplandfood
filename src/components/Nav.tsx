@@ -188,7 +188,7 @@ export default function Nav() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#002F6C] border-b border-white/20">
       <div className="lv-navrivi max-w-screen-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3">
         <div className="lv-navvasen flex items-center gap-3 sm:gap-5 shrink-0">
-          <EcosystemMenu lang={locale} currentDomain="laplandfood.com" />
+          <EcosystemMenu lang={locale} currentDomain="laplandfood.com" variant="blue" />
           <div className="lv-wm-paikka">
             <Link className="inline-flex items-center min-h-11" to={to('/')} aria-label={t('ariaHome')}
               onClick={() => {
