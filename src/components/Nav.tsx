@@ -5,6 +5,11 @@ import { Menu, X, ChevronDown } from 'lucide-react'
 import LanguageSwitcher from '../i18n/LanguageSwitcher'
 import EcosystemMenu from '../shared/EcosystemMenu'
 import { useLocale } from '../i18n/useLocale'
+import type { CSSProperties } from 'react';
+
+// Sanamerkin leveys 1 px:n fontilla (Bebas Neue + tracking-wide). Puhelin- ja tablettinavissa koko lasketaan
+// tästä ja vapaasta tilasta (index.css LV-NAV-SANAMERKKI): 24 px (tabletilla 30 px), pienempi vain kun ei mahdu.
+const WM_STYLE = { '--lv-wm-k': 4.99, '--lv-wm-max-md': '30px' } as CSSProperties;
 
 /**
  * Päävalikko. 14.9.2026 (Vesa: "tee niille sitte oma alavalikko suomen marjat
@@ -181,28 +186,30 @@ export default function Nav() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#002F6C] border-b border-white/20">
-      <div className="max-w-screen-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3">
-        <div className="flex items-center gap-3 sm:gap-5 shrink-0">
+      <div className="lv-navrivi max-w-screen-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3">
+        <div className="lv-navvasen flex items-center gap-3 sm:gap-5 shrink-0">
           <EcosystemMenu lang={locale} currentDomain="laplandfood.com" />
-          <Link className="inline-flex items-center min-h-11" to={to('/')} aria-label={t('ariaHome')}
-            onClick={() => {
-              // 🔴 Verkostovika, mitattu 20.9.2026 seitsemällä sivustolla seitsemästä:
-              // ScrollToTop kuuntelee pathnamea, joka ei muutu kun ollaan jo
-              // etusivulla, joten logon klikkaus ei tehnyt siellä mitään.
-              if (window.location.pathname.replace(/\/$/, '') === to('/').replace(/\/$/, '')) {
-                window.scrollTo({ top: 0, behavior: 'smooth' })
-              }
-            }}
-          >
-            {/* Verkoston standardikoko (CLAUDE.md logo-kuvio): text-2xl md:text-3xl.
-                Tämä sivusto oli jäänyt yhden askeleen pienemmäksi (xl/2xl) ja
-                näytti navissa kutistuneelta (Vesa 2026-08-10, kahdesti). */}
-            <span className="font-heading tracking-wide text-2xl md:text-3xl">
-              <span className="text-vibe-pink drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">#</span>
-              <span className="text-white">LAPLAND</span>
-              <span className="text-vibe-pink">FOOD</span>
-            </span>
-          </Link>
+          <div className="lv-wm-paikka">
+            <Link className="inline-flex items-center min-h-11" to={to('/')} aria-label={t('ariaHome')}
+              onClick={() => {
+                // 🔴 Verkostovika, mitattu 20.9.2026 seitsemällä sivustolla seitsemästä:
+                // ScrollToTop kuuntelee pathnamea, joka ei muutu kun ollaan jo
+                // etusivulla, joten logon klikkaus ei tehnyt siellä mitään.
+                if (window.location.pathname.replace(/\/$/, '') === to('/').replace(/\/$/, '')) {
+                  window.scrollTo({ top: 0, behavior: 'smooth' })
+                }
+              }}
+            >
+              {/* Verkoston standardikoko (CLAUDE.md logo-kuvio): text-2xl md:text-3xl.
+                  Tämä sivusto oli jäänyt yhden askeleen pienemmäksi (xl/2xl) ja
+                  näytti navissa kutistuneelta (Vesa 2026-08-10, kahdesti). */}
+              <span className="lv-wm font-heading tracking-wide text-2xl md:text-3xl" data-lv-sanamerkki="" style={WM_STYLE}>
+                <span className="text-vibe-pink drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">#</span>
+                <span className="text-white">LAPLAND</span>
+                <span className="text-vibe-pink">FOOD</span>
+              </span>
+            </Link>
+          </div>
         </div>
 
         <div className="hidden xl:flex items-center gap-0.5">
