@@ -69,6 +69,10 @@ export default function Nav() {
   const location = useLocation()
   const { t } = useTranslation('nav')
   const { to, pathWithoutLocale, locale } = useLocale()
+  // Työpöytänavin sivutila 1280–1439 px kielittäin: standardinavissa (reunat 32 px)
+  // de/es ylittivät rivin 9/13 px ja pt-BR 64 px, kielivalitsin ruudun ulkopuolella
+  // (mitattu 2.10.2026). Muut kielet ennallaan.
+  const navPad = locale === 'pt-BR' ? 'px-1.5 min-[90rem]:px-3' : locale === 'de' || locale === 'es' ? 'px-2 min-[90rem]:px-3' : 'px-3'
 
   useEffect(() => {
     setOpen(false)
@@ -84,7 +88,7 @@ export default function Nav() {
     <Link
       key={link.to}
       to={to(link.to)}
-      className={`px-3 py-2 text-sm whitespace-nowrap transition-colors duration-200 rounded-md ${
+      className={`${navPad} py-2 text-sm whitespace-nowrap transition-colors duration-200 rounded-md ${
         isActive(link.to)
           ? 'text-white font-bold'
           : 'text-white/80 hover:text-white font-medium'
@@ -130,7 +134,7 @@ export default function Nav() {
           aria-haspopup="true"
           aria-controls={`nav-${g.id}-menu`}
           data-nav-group={g.id}
-          className={`inline-flex items-center gap-1 px-3 py-2 text-sm whitespace-nowrap transition-colors duration-200 rounded-md ${
+          className={`inline-flex items-center gap-1 ${navPad} py-2 text-sm whitespace-nowrap transition-colors duration-200 rounded-md ${
             active ? 'text-white font-bold' : 'text-white/80 hover:text-white font-medium'
           }`}
         >
@@ -186,7 +190,7 @@ export default function Nav() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#002F6C] border-b border-white/20">
-      <div className="lv-navrivi max-w-screen-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3">
+      <div className="lv-navrivi max-w-screen-2xl mx-auto px-4 xl:px-8 h-16 flex items-center justify-between gap-3">
         <div className="lv-navvasen flex items-center gap-3 sm:gap-5 shrink-0">
           <EcosystemMenu lang={locale} currentDomain="laplandfood.com" variant="blue" />
           <div className="lv-wm-paikka">
