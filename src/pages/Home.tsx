@@ -12,6 +12,7 @@ import SisterSiteCTAs from '../components/SisterSiteCTAs';
 import FAQ, { type FAQItem } from '../components/FAQ';
 import { ArrowRight } from 'lucide-react';
 import { useLocale } from '../i18n/useLocale';
+import { bebasEm, Fraasit, ilmanValeja, riveiksi } from '../lib/otsikkoRivit';
 import HomeAdSlots, { MainPartnerBanner } from '../shared/HomeAdSlots';
 import { AD_SLOTS } from '../data/adSlots';
 import GygPicks from '../components/GygPicks';
@@ -66,6 +67,7 @@ const buildHomeSchema = (faqItems: FAQItem[]) => ({
 export default function Home() {
   const { t } = useTranslation('pages');
   const { to, locale } = useLocale();
+  const kulttuuriOtsikko = riveiksi(t('home.cultureHeadline'), locale, (s) => bebasEm(s, 0.025));
   const pillars = (t('home.pillars', { returnObjects: true }) as Pillar[]) || [];
   const culturePoints = (t('home.culture', { returnObjects: true }) as CulturePoint[]) || [];
   const faqItems = (t('home.faq.items', { returnObjects: true }) as FAQItem[]) || [];
@@ -233,7 +235,9 @@ export default function Home() {
           <img src="/images/culture-band.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-70" />
           <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/40 via-[#002F6C]/35 to-[#001F4A]/60" />
           <div className="relative max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-12">
+            {/* lg+: otsikon palsta 1024 px (ennen 768) ja otsikko kahdelle riville lauseen rakenteesta, koko pidemmän
+                rivin mukaan. 768 px:ssä fi/ja olivat kolmella rivillä (Vesa 3.10.2026). Ingressi pysyy 768 px:ssä. */}
+            <div className="@container max-w-3xl lg:max-w-5xl mb-12">
               {/* 🔴 #F9A8D4: tama rivi on 12–14 px VALOKUVAN paalla (culture-band.jpg,
                   opacity .70) ja #EC4899 mitattiin 3,67:1 — raja pienelle tekstille on
                   4,5:1 ja 100 % pikseleista oli alle. Vaaleampi pinkki samaa taustaa
@@ -243,10 +247,18 @@ export default function Home() {
               <p className="text-[#F9A8D4] text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('home.cultureKicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl mb-5">
-                {t('home.cultureHeadline')}
+              <h2
+                className={`font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl lg:[font-size:min(3.75rem,calc(100cqi/var(--h2-em)))] mb-5${ilmanValeja(locale) ? ' [word-break:keep-all] [overflow-wrap:anywhere]' : ''}`}
+                style={{ ['--h2-em' as string]: kulttuuriOtsikko.em.toFixed(2) }}
+              >
+                {kulttuuriOtsikko.rivit.map((r, i) => (
+                  <span key={i} className="lg:block">
+                    {i > 0 && (ilmanValeja(locale) ? <wbr /> : ' ')}
+                    <Fraasit text={r} lang={locale} />
+                  </span>
+                ))}
               </h2>
-              <p className="text-base sm:text-lg text-white/75 leading-relaxed">
+              <p className="text-base sm:text-lg text-white/75 leading-relaxed max-w-3xl">
                 {t('home.cultureLead')}
               </p>
             </div>

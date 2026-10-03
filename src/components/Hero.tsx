@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { useLocale } from '../i18n/useLocale'
+import { bebasEm, Fraasit, ilmanValeja, YKSI_RIVI_EM } from '../lib/otsikkoRivit'
 
 /**
  * Home Hero — full-bleed image with the Finland-blue overlay convention.
@@ -8,7 +9,19 @@ import { useLocale } from '../i18n/useLocale'
  */
 export default function Hero() {
   const { t } = useTranslation('pages')
-  const { to } = useLocale()
+  const { to, locale } = useLocale()
+  // Vesa 3.10.2026: "tehdään turhaan kolmirivisiä". Otsikko on kaksi osaa ("HOW FINLAND" + pinkki "EATS."), ja pakotettu
+  // <br> jätti tietokoneella toisen osan yksin riville 9 kielellä, vaikka koko otsikko on 17–25 merkkiä ja mahtuu
+  // 1088 px:n palstaan yhdelle riville. xl+: yhdelle riville, kun se on enintään YKSI_RIVI_EM; pidempi (ja, ko)
+  // pysyy kahtena osana. Koko lg+ = pienempi kahdesta, suunniteltu --h1-max tai koko jolla pisin rivi mahtuu
+  // (100cqi / em). 🔴 Yksi rivi vasta xl:stä: 1024 px:ssä rivi täyttää koko palstan ja pinkki loppuosa osui
+  // kuvan vaaleaan reunaan, ohi soikean tummennuksen ("maut." 3,6:1, "COME." 3,6:1, "LA FINLANDIA." 4,1:1 —
+  // 12–24 % pikseleistä alle 3:1, heroteksti-portti 3.10.). 1440 ja 2000 px:ssä yksi rivi on puhdas.
+  const [p1, p2] = [t('hero.h1Part1'), t('hero.h1Part2')]
+  const cjk = ilmanValeja(locale)
+  const koko = bebasEm(`${p1}${cjk ? '' : ' '}${p2}`, 0.025)
+  const yksiRivi = koko <= YKSI_RIVI_EM
+  const kaksiEm = Math.max(bebasEm(p1, 0.025), bebasEm(p2, 0.025))
   return (
     <section className="relative pt-16 min-h-[88svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
       {/* 🔴 ART-DIRECTED, not just two formats of one file. The hero box is
@@ -65,7 +78,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-[linear-gradient(to_top,rgba(22,13,5,0.34)_0%,rgba(22,13,5,0.06)_46%,transparent_78%)]" />
 
       {/* pb clears the stat-tile band that overlaps the hero bottom (-mt on Home) */}
-      <div className="relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center pt-20 pb-32 md:pb-36">
+      <div className="@container relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center pt-20 pb-32 md:pb-36">
         {/* 🔴 Muste #F9A8D4, ei #EC4899 (heroteksti-portti 20.9.2026). Tama rivi on
           14 px puhelimessa ja 16 px tyopoydalla eli WCAG:n mielessa PIENTA tekstia,
           jolloin raja on 4,5:1 eika 3:1. Ylla oleva 10.8. tehty mittaus tarkisti sen
@@ -82,10 +95,14 @@ export default function Hero() {
         <p className="text-[#FBCFE8] md:text-[#F9A8D4] text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
           {t('hero.kicker')}
         </p>
-        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.92] mb-7 max-w-5xl xl:max-w-6xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)] xl:text-[clamp(96px,1.5vw_+_76.8px,115.2px)]">
-          {t('hero.h1Part1')}
-          <br />
-          <span className="text-vibe-pink drop-shadow-[0_0_40px_rgba(236,72,153,0.5)]">{t('hero.h1Part2')}</span>
+        <h1
+          className={`font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:[--h1-max:6rem] xl:[--h1-max:clamp(96px,1.5vw_+_76.8px,115.2px)] lg:[font-size:min(var(--h1-max),calc(100cqi/var(--h1-em-lg)))] xl:[font-size:min(var(--h1-max),calc(100cqi/var(--h1-em-xl)))] text-white leading-[0.92] mb-7 max-w-5xl xl:max-w-6xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)]${cjk ? ' [word-break:keep-all] [overflow-wrap:anywhere]' : ''}`}
+          style={{ ['--h1-em-lg' as string]: kaksiEm.toFixed(2), ['--h1-em-xl' as string]: (yksiRivi ? koko : kaksiEm).toFixed(2) }}
+        >
+          <Fraasit text={p1} lang={locale} />
+          <br className={yksiRivi ? 'xl:hidden' : undefined} />
+          {yksiRivi && (cjk ? <wbr /> : ' ')}
+          <span className="text-vibe-pink drop-shadow-[0_0_40px_rgba(236,72,153,0.5)]"><Fraasit text={p2} lang={locale} /></span>
         </h1>
         <p className="text-lg md:text-xl text-white/95 max-w-2xl xl:max-w-4xl mb-10 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)] xl:text-2xl">
           {t('hero.subhead')}
