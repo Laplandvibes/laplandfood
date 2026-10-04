@@ -34,10 +34,10 @@ const GUIDE_IMAGES = [
   '/images/sea-buckthorn-branch.jpg',
 ];
 const GUIDE_ALTS = [
-  'Ripe amber cloudberries on an open Lapland bog',
+  'A ripe amber cloudberry on its plant among bog mosses',
   'Ripe bilberries on a low green shrub in a Salla forest',
   'Two ripe lingonberries on a sprig in thick moss, Kemijärvi',
-  'Sea buckthorn branch heavy with orange berries on a stony shore',
+  'Sea buckthorn shrubs with orange berries on a Baltic shore',
 ];
 
 export default function Berries() {

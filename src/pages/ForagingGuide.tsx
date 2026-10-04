@@ -5,6 +5,8 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
@@ -75,7 +77,8 @@ export default function ForagingGuide() {
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={ITEM_IMAGES[i]} alt={it.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
-                    <div className="absolute top-3 right-4">
+                    <PhotoCredit credit={creditFor(ITEM_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
+                    <div className={`absolute ${creditFor(ITEM_IMAGES[i]) ? 'top-9' : 'top-3'} right-4`}>
                       <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full">
                         {it.difficulty}
                       </span>

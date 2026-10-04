@@ -12,6 +12,12 @@ interface PageHeroProps {
   subtitle: string
   imageUrl: string
   imageAlt: string
+  /** Valinnainen srcset (4.10.2026): uusille valokuvaheroille 1280 + 2400 px, jotta puhelin ei lataa
+   *  työpöydän tiedostoa eikä 2 000 px:n näyttö venytä pientä. */
+  imageSrcSet?: string
+  /** 'strong' (4.10.2026): kirkkaalle valokuvalle (lumi) tummempi verho, jotta valkoinen otsikko ja
+   *  ingressi pysyvät ≥ 3:1 / 4,5:1. Mitattu audit_hero_text_contrast.mjs:llä /traditional-recipes. */
+  scrim?: 'default' | 'strong'
   primaryCta?: { label: string; href: string; external?: boolean; rel?: string }
   secondaryCta?: { label: string; href: string; external?: boolean; rel?: string }
   /** Fact pills derived from the page's existing localized data (names, places). */
@@ -40,6 +46,8 @@ export default function PageHero({
   subtitle,
   imageUrl,
   imageAlt,
+  imageSrcSet,
+  scrim = 'default',
   primaryCta,
   secondaryCta,
   pills,
@@ -70,6 +78,8 @@ export default function PageHero({
     <section className="relative pt-16 min-h-[72svh] md:min-h-[80svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
       <img
         src={imageUrl}
+        srcSet={imageSrcSet}
+        sizes={imageSrcSet ? '100vw' : undefined}
         alt={imageAlt}
         loading="eager"
         decoding="async"
@@ -79,8 +89,8 @@ export default function PageHero({
       />
       {/* Below lg the text is centred, so use an even scrim; from lg the left
           scrim keeps the left-aligned H1 legible while the photo shows right. */}
-      <div className="absolute inset-0 bg-[#001F4A]/40 lg:hidden" />
-      <div className="absolute inset-0 hidden lg:block bg-gradient-to-r from-[#001F4A]/58 via-[#002F6C]/16 to-transparent" />
+      <div className={`absolute inset-0 lg:hidden ${scrim === 'strong' ? 'bg-[#001F4A]/50' : 'bg-[#001F4A]/40'}`} />
+      <div className={`absolute inset-0 hidden lg:block bg-gradient-to-r ${scrim === 'strong' ? 'from-[#001F4A]/72 via-[#002F6C]/34 to-[#002F6C]/10' : 'from-[#001F4A]/58 via-[#002F6C]/16 to-transparent'}`} />
       <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/26 to-transparent" />
       {/* Avoimen lisenssin kuvan tekijä + lisenssi piirtyy automaattisesti polun
           perusteella (src/data/photoCredits.ts). Omat kuvat eivät saa merkintää. */}

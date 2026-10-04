@@ -6,6 +6,8 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
@@ -31,7 +33,7 @@ const PILL_ANCHORS = ['#taste', '#season', '#right-to-pick', '#why-wild', '#pric
 // Index-mapped `cloudberry.products.items`-taulukkoon (sama jarjestys 12 kielella).
 const PRODUCT_IMAGES = ['/images/cloudberry-jam-cheese.webp', '/images/cloudberry-liqueur.jpg', '/images/cloudberry-parfait.jpg'];
 const PRODUCT_ALTS = [
-  'Toasted wedges of Finnish bread cheese topped with cloudberry jam, a bowl of the jam beside the plate',
+  'A spoonful of homemade cloudberry jam, whole berries and seeds and all',
   'A small glass of amber cloudberry liqueur with a plain bottle behind it and loose cloudberries on a dark table',
   'A wedge of frozen cloudberry parfait on a dark plate, topped with whole amber cloudberries and a crisp wafer',
 ];
@@ -46,6 +48,7 @@ function ImageProse({ id, kicker, headline, image, alt, imageRight, tint, childr
   id: string; kicker: string; headline: string; image: string; alt: string;
   imageRight?: boolean; tint?: boolean; children: ReactNode;
 }) {
+  const { t: tc } = useTranslation('common');
   return (
     <section id={id} className={`scroll-mt-24 py-16 sm:py-20 ${tint ? 'bg-[#F8FAFC]' : 'bg-white'}`}>
       <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
@@ -54,6 +57,7 @@ function ImageProse({ id, kicker, headline, image, alt, imageRight, tint, childr
             <div className="lg:sticky lg:top-24">
               <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                 <img src={image} alt={alt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
               </div>
             </div>
           </div>
@@ -70,6 +74,7 @@ function ImageProse({ id, kicker, headline, image, alt, imageRight, tint, childr
 
 export default function Cloudberry() {
   const { t } = useTranslation('pages');
+  const { t: tc } = useTranslation('common');
   const { to, locale } = useLocale();
   const pills = (t('cloudberry.hero.pills', { returnObjects: true }) as string[]) || [];
   const phases = (t('cloudberry.season.phases', { returnObjects: true }) as SeasonPhase[]) || [];
@@ -121,7 +126,7 @@ export default function Cloudberry() {
           kicker={t('cloudberry.taste.kicker')}
           headline={t('cloudberry.taste.headline')}
           image="/images/cloudberry-ripeness.webp"
-          alt="One ripe amber cloudberry and one unripe red cloudberry side by side on a Lapland bog"
+          alt="A cloudberry turning from red to amber on its plant in the Kevo Strict Nature Reserve, Utsjoki"
           tint
         >
           <p className={LEDE}>{t('cloudberry.taste.answer')}</p>
@@ -250,6 +255,7 @@ export default function Cloudberry() {
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                     <img src={PRODUCT_IMAGES[i]} alt={PRODUCT_ALTS[i]} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(PRODUCT_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="p-6">
                     <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>

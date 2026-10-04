@@ -26,9 +26,9 @@ const LINGONBERRY: BerryConfig = {
   products: {
     images: ['/images/lingonberry-survos.jpg', '/images/lingonberry-jam.jpg', '/images/lingonberry-vispipuuro.jpg'],
     alts: [
-      'A jar of raw crushed lingonberries with a wooden spoon, a bowl of whole berries and dark rye bread on a pine table',
-      'A white bowl of cooked lingonberry jam beside a stack of golden Finnish oven-pancake squares',
-      'A bowl of pale pink whipped semolina porridge with a jug of milk and loose lingonberries',
+      'Raw lingonberries heaped beside Finnish cabbage casserole in a white bowl',
+      'Thin pancakes with a small bowl of lingonberry jam',
+      'A bowl of pink whipped lingonberry porridge in cold milk',
     ],
   },
   gyg: { query: 'Lapland foraging tour', sid: 'lingonberry_foraging_tour' },

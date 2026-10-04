@@ -1,8 +1,9 @@
 import BerryPage, { type BerryConfig } from './BerryPage';
 
 /** /bilberry — mustikka. Hero ja kaksi osiokuvaa ovat omia valokuvia Sallasta
- *  11.8.2026 (kuvateksti + "Kuva: LaplandVibes" niille); piirakkakuva on
- *  generoitu ja jää ilman kuvatekstiä. */
+ *  11.8.2026 (kuvateksti + "Kuva: LaplandVibes" niille). 4.10.2026: piirakka ja
+ *  mustikkakeitto Commonsista (tekijä kuvan päällä, src/data/photoCredits.ts);
+ *  poro-mustikka-annos on yhä generoitu, aitoa ei löytynyt. */
 const BILBERRY: BerryConfig = {
   key: 'bilberry',
   path: '/bilberry',
@@ -23,8 +24,8 @@ const BILBERRY: BerryConfig = {
   products: {
     images: ['/images/bilberry-pie.jpg', '/images/bilberry-soup.jpg', '/images/bilberry-reindeer.jpg'],
     alts: [
-      'Bilberry crumble pie on a wooden table in a cabin kitchen, a bowl of berries beside it',
-      'An enamel mug of hot bilberry soup and a steel vacuum flask on a snowy bench beside a ski trail',
+      'A tray of Finnish bilberry pie just out of the oven',
+      'A cup of hot bilberry soup sprinkled with toasted coconut flakes',
       'Slices of rare reindeer fillet with a dark bilberry reduction and whole bilberries on a stone plate',
     ],
   },

@@ -6,6 +6,8 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
@@ -60,6 +62,7 @@ function ImageProse({ id, kicker, headline, image, alt, caption, credit, imageRi
   id: string; kicker: string; headline: string; image?: string; alt?: string; caption?: string; credit?: string;
   imageRight?: boolean; tint?: boolean; children: ReactNode;
 }) {
+  const { t: tc } = useTranslation('common');
   return (
     <section id={id} className={`scroll-mt-24 py-16 sm:py-20 ${tint ? 'bg-[#F8FAFC]' : 'bg-white'}`}>
       <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
@@ -69,6 +72,7 @@ function ImageProse({ id, kicker, headline, image, alt, caption, credit, imageRi
               <div className="lg:sticky lg:top-24">
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                   <img src={image} alt={alt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                  <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                 </div>
                 {caption && (
                   <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
@@ -256,6 +260,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                     <img src={cfg.products.images[i]} alt={cfg.products.alts[i] ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(cfg.products.images[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="p-6">
                     <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>

@@ -12,10 +12,19 @@ import type { PhotoCredit as Credit } from '../data/photoCredits';
  *
  * `label` tuo oman välimerkkinsä ("Kuva: ", "写真："), jotta CJK saa täysleveän kaksoispisteen.
  */
-export default function PhotoCredit({ credit, label, modifiedLabel }: { credit?: Credit; label: string; modifiedLabel?: string }) {
+/** `corner` (4.10.2026): korttikuvissa otsikko on alakulmassa ja kausisiru yläoikealla, joten
+ *  merkintä siirtyy vapaaseen kulmaan eikä peitä tekstiä. Oletus on ennallaan (oikea alakulma). */
+const CORNER = {
+  br: 'bottom-0 right-0 rounded-tl',
+  tl: 'top-0 left-0 rounded-br',
+  tr: 'top-0 right-0 rounded-bl',
+  bl: 'bottom-0 left-0 rounded-tr',
+} as const;
+
+export default function PhotoCredit({ credit, label, modifiedLabel, corner = 'br' }: { credit?: Credit; label: string; modifiedLabel?: string; corner?: keyof typeof CORNER }) {
   if (!credit) return null;
   return (
-    <span className="absolute bottom-0 right-0 z-20 max-w-full rounded-tl bg-black/55 px-1.5 py-[2px] text-[9px] sm:text-[10px] leading-tight text-white">
+    <span className={`absolute ${CORNER[corner]} z-20 max-w-full bg-black/55 px-1.5 py-[2px] text-[9px] sm:text-[10px] leading-tight text-white`}>
       {credit.place ? `${credit.place} · ` : ''}{label}
       <a href={credit.sourceUrl} target="_blank" rel="noopener" className="lv-tap underline decoration-white/50 underline-offset-2 hover:decoration-white">
         {credit.author}

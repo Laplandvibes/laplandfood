@@ -6,6 +6,8 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
@@ -141,7 +143,8 @@ export default function LocalIngredients() {
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={INGREDIENT_IMAGES[idx]} alt={i.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
-                    <div className="absolute top-3 right-4">
+                    <PhotoCredit credit={creditFor(INGREDIENT_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
+                    <div className={`absolute ${creditFor(INGREDIENT_IMAGES[idx]) ? 'top-9' : 'top-3'} right-4`}>
                       <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full">
                         {i.season}
                       </span>

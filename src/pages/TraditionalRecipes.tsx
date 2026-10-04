@@ -127,7 +127,9 @@ export default function TraditionalRecipes() {
           titleHighlight={t('traditionalRecipes.hero.titleHighlight')}
           subtitle={t('traditionalRecipes.hero.subtitle')}
           imageUrl="/images/hero-recipes.jpg"
-          imageAlt="Cast iron pot of reindeer stew bubbling over an open campfire at dusk"
+          imageSrcSet="/images/hero-recipes-1280.jpg 1280w, /images/hero-recipes.jpg 2400w"
+          scrim="strong"
+          imageAlt="A snow-covered goahti, the traditional Sámi hut, among pines in Inari in March sunshine"
           primaryCta={{ label: t('traditionalRecipes.hero.primaryCta'), href: `${to('/traditional-recipes')}#recipes` }}
           secondaryCta={{ label: t('traditionalRecipes.hero.secondaryCta'), href: to('/modern-lapland') }}
           pills={recipes.map(r => r.name)}
@@ -153,6 +155,7 @@ export default function TraditionalRecipes() {
                 <div className="grid lg:grid-cols-[minmax(0,6fr)_minmax(0,6fr)]">
                   <div className="relative min-h-[260px] lg:min-h-[420px] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                     <img src={RECIPE_IMAGES[0]} alt={featured.name} loading="eager" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 h-full w-full object-cover" />
+                    <PhotoCredit credit={creditFor(RECIPE_IMAGES[0])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tr" />
                     <div className="absolute inset-0 bg-gradient-to-t from-[#002F6C]/70 via-transparent to-transparent" />
                     <div className="absolute bottom-5 left-6 right-6">
                       <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-3 py-1.5 rounded-full">
@@ -358,6 +361,7 @@ export default function TraditionalRecipes() {
                 <article key={r.name} id={`recipe-${idx}`} className="scroll-mt-24 rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-56 sm:h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={RECIPE_IMAGES[idx]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(RECIPE_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tr" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-5 left-7 sm:left-9 right-7 sm:right-9">
                       <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-3 py-1.5 rounded-full">
@@ -454,7 +458,8 @@ export default function TraditionalRecipes() {
                   <div className="relative h-36 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={SEASON_IMAGES[idx]} alt={`${s.sami} / ${s.en}`} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.10) 60%)' }} />
-                    <span className="absolute top-3 right-4 text-[10px] uppercase tracking-wider font-semibold bg-white/90 text-[#002F6C] px-2.5 py-1 rounded-full">{s.when}</span>
+                    <PhotoCredit credit={creditFor(SEASON_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
+                    <span className={`absolute ${creditFor(SEASON_IMAGES[idx]) ? 'top-9' : 'top-3'} right-4 text-[10px] uppercase tracking-wider font-semibold bg-white/90 text-[#002F6C] px-2.5 py-1 rounded-full`}>{s.when}</span>
                     <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-2xl text-white leading-tight">
                       {s.sami} <span className="text-vibe-pink font-semibold text-sm">/ {s.en}</span>
                     </h3>
@@ -479,6 +484,7 @@ export default function TraditionalRecipes() {
             </h2>
             <div className="relative rounded-2xl overflow-hidden h-52 sm:h-64 md:h-72 mb-8 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
               <img src="/images/lead-traditional-recipes.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+              <PhotoCredit credit={creditFor('/images/lead-traditional-recipes.jpg')} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
             </div>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
               <p className="leading-relaxed mb-5">{t('traditionalRecipes.revival.p1')}</p>
@@ -518,6 +524,7 @@ export default function TraditionalRecipes() {
                   <div className="relative h-28 sm:h-32 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={METHOD_IMAGES[idx]} alt={m.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.55) 0%, rgba(0,31,74,0.05) 60%)' }} />
+                    <PhotoCredit credit={creditFor(METHOD_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="p-4 sm:p-6">
                     <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{m.title}</h3>
