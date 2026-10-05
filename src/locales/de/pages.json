@@ -216,7 +216,7 @@
       {
         "name": "Arktischer Süßwasserfisch",
         "season": "Ganzjährig · Eisangel-Saison im Winter",
-        "description": "Fisch aus kristallklaren Seen, Maräne, Hecht, Barsch, Forelle. Eisangeln ist eine geliebte Wintertradition in ganz Lappland.",
+        "description": "Fisch aus kristallklaren Seen, Felchen, Hecht, Barsch, Forelle. Eisangeln ist eine geliebte Wintertradition in ganz Lappland.",
         "nutritional": "Omega-3-Fettsäuren, viel Eiweiß, Phosphor",
         "uses": "Räuchern, Salzen, Grillen, Fischsuppe"
       },
@@ -275,10 +275,10 @@
     "fishDeep": {
       "kicker": "Tiefer Blick · Süßwasserfisch",
       "headline": "Warum Eisangel-Fisch der beste des Jahres ist.",
-      "p1": "Lappland hat etwa 6 000 Seen, die meisten von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Maräne</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
-      "p2": "Eisangeln ist mehr als ein lokales Hobby. Es ist die Fangmethode, die den geschmackvollsten arktischen Süßwasserfisch des Jahres liefert. Hier der Grund: Im Winter ist die Wassertemperatur auf dem Tiefpunkt und die Klarheit am höchsten. Der Stoffwechsel der Fische verlangsamt sich, die Fettreserven verdichten sich und Parasiten sterben ab (keine Warmwasservektoren). Das Fleisch einer im Februar geangelten Maräne ist dichter, süßer und reiner im Geschmack als bei demselben Fisch im Juli. Die Köche Lapplands stimmen ihre Menüs entsprechend ab.",
+      "p1": "Lappland hat etwa 6 000 Seen, die meisten von ihnen sauber genug, um auf einer langen Wanderung daraus zu trinken. Auf dem Teller sind vier Fische bedeutend: <strong>Felchen</strong>, <strong>Hecht</strong>, <strong>Barsch</strong> und <strong>Forelle / Saibling</strong>. Alle vier sind heimisch, alle vier werden kommerziell sowohl von Kleinfischern als auch von Eisanglern gefangen, alle vier erscheinen in unterschiedlichen Formen auf den Speisekarten Lapplands.",
+      "p2": "Eisangeln ist mehr als ein lokales Hobby. Es ist die Fangmethode, die den geschmackvollsten arktischen Süßwasserfisch des Jahres liefert. Hier der Grund: Im Winter ist die Wassertemperatur auf dem Tiefpunkt und die Klarheit am höchsten. Der Stoffwechsel der Fische verlangsamt sich, die Fettreserven verdichten sich und Parasiten sterben ab (keine Warmwasservektoren). Das Fleisch eines im Februar geangelten Felchens ist dichter, süßer und reiner im Geschmack als bei demselben Fisch im Juli. Die Köche Lapplands stimmen ihre Menüs entsprechend ab.",
       "p3": "Die Technik selbst ist geradlinig: ein Loch durch 50–80 cm dickes Eis bohren, einen kleinen Jig mit einem Haken absenken, warten. Sie verlangt aber oft Temperaturen unter −15 °C. Traditionell deckte man das Loch zwischen den Besuchen ab, damit es nicht wieder zufror. Heute verwenden die meisten isolierte Zelte (ein kleiner Eisangel-Unterstand ist günstig und verändert das Erlebnis komplett).",
-      "p4Prefix": "Auf der Speisekarte: leicht geräucherte Maräne (<em>graavisiika</em>) und Hechtrogen auf Roggenbrot sind die alltäglichen Vorspeisen Lapplands. Ganz gebratene Forelle ist ein klassisches Hauptgericht. Die Sápmi-Fischsuppe (Rezept",
+      "p4Prefix": "Auf der Speisekarte: leicht geräucherter Felchen (<em>graavisiika</em>) und Hechtrogen auf Roggenbrot sind die alltäglichen Vorspeisen Lapplands. Ganz gebratene Forelle ist ein klassisches Hauptgericht. Die Sápmi-Fischsuppe (Rezept",
       "p4LinkLabel": "auf der Rezeptseite",
       "p4Suffix": ") verwendet das, was die Fischer in dieser Woche gebracht haben.",
       "subheads": [
@@ -1311,7 +1311,7 @@
         "tradition": "Arktische Fischereikultur",
         "description": "Eine geliebte Fischsuppe aus reinstem Süßwasserfisch und Wildkräutern, der Geschmack des arktischen Ufers.",
         "ingredients": [
-          "800 g frischer Süßwasserfisch (Maräne oder Forelle)",
+          "800 g frischer Süßwasserfisch (Felchen oder Forelle)",
           "1 Liter Fischfond oder Wasser",
           "3–4 Kartoffeln, gewürfelt",
           "1 Karotte, in Scheiben",
@@ -1375,7 +1375,7 @@
           "sami": "Giđđadálvi",
           "en": "Spätwinter",
           "when": "März – April",
-          "body": "Das Licht kommt zurück. Die Herden ziehen Richtung Kalbungsgebiete, das Kalben selbst ist noch Wochen entfernt. Das Eisangeln ist auf dem Höhepunkt, die Sonne steht lange genug, um auf dem See zu fischen, ohne zu frieren, und die Fische stehen noch unter dickem Eis. Geräucherte Maräne bestimmt den Tisch. Die Tage werden täglich um etwa sieben Minuten länger."
+          "body": "Das Licht kommt zurück. Die Herden ziehen Richtung Kalbungsgebiete, das Kalben selbst ist noch Wochen entfernt. Das Eisangeln ist auf dem Höhepunkt, die Sonne steht lange genug, um auf dem See zu fischen, ohne zu frieren, und die Fische stehen noch unter dickem Eis. Geräucherter Felchen bestimmt den Tisch. Die Tage werden täglich um etwa sieben Minuten länger."
         },
         {
           "sami": "Giđđa",
@@ -2055,8 +2055,8 @@
         "innovation": "Präzise Temperatur macht das magerste Stück zum Hauptdarsteller"
       },
       {
-        "name": "Confit-Maräne mit Wildkräuteröl",
-        "description": "Langsam in Fett gegarte Maräne, vollendet mit Mädesüß- oder Fichtenspitzenöl und etwas Säure aus dem Fermentationsregal.",
+        "name": "Felchen-Confit mit Wildkräuteröl",
+        "description": "Langsam in Fett gegarter Felchen, vollendet mit Mädesüß- oder Fichtenspitzenöl und etwas Säure aus dem Fermentationsregal.",
         "technique": "Confit",
         "traditional": "Geräucherter und gesalzener Süßwasserfisch",
         "innovation": "Niedrige Temperatur hält den zarten Fisch intakt; gesammelte Kräuter statt Dill als Standard"
@@ -2091,7 +2091,7 @@
         },
         {
           "title": "Kaltsalzen und Kalträuchern",
-          "body": "Die Salz-Zucker-Beize (graavi) ist jahrhundertealt; der Kaltrauch noch älter. New-Nordic-Küchen verbinden beides. Graavi-Maräne, vier Stunden kaltgeräuchert, ist eine klassische Lappland-Fine-Dining-Vorspeise. Der Fisch ist technisch roh und die Textur seidig."
+          "body": "Die Salz-Zucker-Beize (graavi) ist jahrhundertealt; der Kaltrauch noch älter. New-Nordic-Küchen verbinden beides. Graavi-Felchen, vier Stunden kaltgeräuchert, ist eine klassische Lappland-Fine-Dining-Vorspeise. Der Fisch ist technisch roh und die Textur seidig."
         },
         {
           "title": "Gesammelte Garnituren",
