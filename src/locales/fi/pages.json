@@ -169,6 +169,7 @@
       "title": "Mitä täällä",
       "titleHighlight": "kasvaa.",
       "subtitle": "Kuusi raaka-ainetta, jotka määrittävät Lapin ruokavaraston: mistä ne tulevat, milloin ne ovat parhaimmillaan ja miltä ne oikeasti maistuvat.",
+      "imageAlt": "Valkoinen kulho täynnä vastapoimittuja mustikoita metsän pohjalla mustikanvarpujen keskellä",
       "primaryCta": "Keräilyopas",
       "secondaryCta": "Reseptit, joissa näitä käytetään"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "Syvällinen tarkastelu · Poro",
       "headline": "Miten poro päätyy lappilaisen lautaselle.",
+      "imageAlt": "Pannallinen poro lepää soralla Ylläksen lähellä, sarvet vielä nukan peitossa, taustalla ruohoinen rinne",
       "p1": "Suomen poro­elinkeinoa säätelee porotalouslaki, joka rajoittaa omistuksen poronhoitoalueella asuviin (käytännössä Pohjois-Suomi). Eläimet kuuluvat yksittäisille poromiehille, mutta ne laiduntavat yhdessä paliskunnissa, jotka jakavat alueen ja työn. Poroja on noin 200 000 yhteensä noin 54 paliskunnassa, kaikki Lapissa ja osissa Pohjois-Pohjanmaata.",
       "p2": "Lauma on villiä kaikessa muussa paitsi omistuksessa. Porot kulkevat vapaasti valtavilla aitaamattomilla taiga- ja tunturialueilla, syöden mitä löytävät: jäkälää talvella (tämä antaa lihalle sen erityisen puhtaan maun), heinää ja yrttejä kesällä, sieniä syksyllä. Paimentajat seuraavat eläimiä moottorikelkoilla ja mönkijöillä, kokoavat ne kahdesti vuodessa korvamerkintää ja (syksyllä) teurastusvalintaa varten ja päästävät ne sitten taas vapaiksi.",
       "p3": "Teurastus tapahtuu syksyllä, tyypillisesti loka–marraskuussa, kun eläimet ovat huippupainossaan. Liha kulkee poronhoitoalueen 19 EU-hyväksytyn poroteurastamon kautta, joista 17 on paliskuntien tai poronomistajien omia. Suurin osa lihasta myydään muutaman sadan kilometrin säteellä eläimen elinpaikasta, Lapin ravintoloille, Helsingin ja Etelä-Suomen lihakaupoille ja pieneen mutta vakavaan vientimarkkinaan Keski-Eurooppaan.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "Syvällinen tarkastelu · Hilla",
       "headline": "Marja, jota kukaan ei pysty viljelemään.",
+      "imageAlt": "Rasioita tuoreita hilloja myynnissä Helsingin kauppatorilla käsin kirjoitetun kyltin alla: Tuoretta Lapin hillaa",
       "p1": "Hilla, <em>luomi</em> pohjoissaameksi, on Lapin arvostetuin villi­marja ja itse­päisin viljelyä vastustanut maailman merkittävistä marjoista. Se kasvaa vain kylmissä, happamissa, vetisissä turvesoissa kapealla pohjoisen pallon­puoliskon vyöhykkeellä: Pohjois-Skandinavia, Suomi, osat Venäjästä, Alaskasta ja Pohjois-Kanadasta. Näiden alueiden sisällä se on yllättävän yleinen. Niiden ulkopuolella se ei kasva.",
       "p2": "Vuosikymmenten maatalous­tutkimus ei ole onnistunut kaupallistamaan sitä. Hillakasvit ovat kaksikotisia (erilliset uros- ja naaras­kasvit), kasvavat erittäin hitaasti, tarvitsevat 6–7 vuotta ensimmäiseen hedelmään edes täydellisissä olosuhteissa, ovat haavoittuvaisia myöhäisille kevätpakkasille, jotka tuhoavat vuoden kukat, ja vaativat kosteuden, valon ja suokemian erityisyhdistelmän, joka on vastustanut kasvi­huone­simulaatiota. Norjalaiset ja suomalaiset tutkijat ovat edistyneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa villisadosta. Joten koko Suomen tarjonta, hillojen valmistajille, likööri­tuottajille (Lakka), ravintola­keittiöille, on villinä keräiltyä.",
       "p3": "Siksi tuoreen hillan kilo Rovaniemen torilla heinäkuun lopussa maksaa tyypillisesti 25–50 €, viidestä kymmeneen kertaa enemmän kuin mustikat, ja siksi tarjonta romahtaa, jos kevät­pakkaset osuvat viikkoa myöhemmin. Tämä on myös syy siihen, miksi hillaparfait on Lapin fine dining -jälkiruoka. Jokainen kokki haluaa käyttää niitä, kunnes ne loppuvat.",
@@ -276,6 +279,7 @@
     "fishDeep": {
       "kicker": "Syvällinen tarkastelu · Järvikala",
       "headline": "Miksi pilkkikala on vuoden parasta kalaa.",
+      "imageAlt": "Savukalaa ja aiolia harmaalla kivitavaralautasella aurinkoisella mäntypöydällä terassilla Kuusamossa",
       "p1": "Lapissa on noin 6 000 järveä, useimmat niistä riittävän puhtaita juotavaksi pitkällä vaelluksella. Lautasella merkittävät neljä kalaa ovat <strong>siika</strong>, <strong>hauki</strong>, <strong>ahven</strong> ja <strong>taimen / nieriä</strong>. Kaikki neljä ovat kotoperäisiä, kaikkia neljää saadaan kaupallisesti sekä pien­kalastajilta että pilkkijöiltä, kaikki neljä ilmestyvät eri muodoissa Lapin ruokalistoille.",
       "p2": "Pilkkiminen on enemmän kuin paikallinen harrastus. Se on kalastusmenetelmä, joka tuottaa vuoden maukkainta arktista järvikalaa. Tässä syy: talvella järviveden lämpö­tila on alimmillaan ja kirkkaus suurimmillaan. Kalojen aineen­vaihdunta hidastuu, rasva­varastot tiivistyvät ja loiset kuolevat (ei lämpimän veden vektoreita). Helmikuussa pilkityn siian liha on tiheämpää, makeampaa ja puhtaamman makuista kuin saman kalan heinä­kuussa. Lapin kokit ajoittavat menut sen mukaan.",
       "p3": "Tekniikka itsessään on suora­viivainen, pora reikä 50–80 cm:n jään läpi, pudota pieni jigi yhdellä koukulla, odota, mutta vaatii usein alle −15 °C lämpötiloja. Perinteisesti reikä peitettiin käyntien välillä, jottei se jäätyisi uudelleen umpeen. Nykyään useimmat käyttävät eristettyjä telttoja (pieni pilkki­suoja on edullinen ja muuttaa kokemuksen täysin).",
@@ -363,6 +367,7 @@
     "taste": {
       "kicker": "Ensin tärkein kysymys",
       "headline": "Miltä hilla maistuu?",
+      "imageAlt": "Lakka kypsymässä punaisesta meripihkanväriseksi varressaan Kevon luonnonpuistossa Utsjoella",
       "answer": "Kypsä hilla on pehmeä, mehukas ja ensin hapan, vasta sitten makea: kuin aprikoosin ja punaherukan risteytys, jonka pohjalla on hento hunajainen, myskimäinen sävy, jota millään muulla marjalla ei ole. Siemenet ovat isot ja pehmeät, ja ne syödään mukana. Kylmänä maku on terävä; kevyesti lämmitettynä aprikoosipuoli aukeaa.",
       "p2": "Kypsyys ratkaisee kaiken. Kiinteä punainen hilla on raaka ja suuta vetävän hapan. Valmiina marja muuttuu keltaiseksi, pehmenee ja irtoaa varresta melkein itsestään, ja juuri se marja on märkien jalkojen arvoinen. Poimijat ottavat keltaiset ja jättävät punaiset seuraavaa käyntiä varten.",
       "p3": "Tuoreita hilloja saa harvoin eteensä kulhokaupalla. Maku on voimakas ja sato pieni, joten Lappi tarjoilee hillan siellä, missä lusikallinen riittää: lämpimän <em>leipäjuuston</em> päällä, vaniljajäätelön vierellä tai hillaparfait'na."
@@ -400,6 +405,7 @@
     "whyWild": {
       "kicker": "Syvällinen tarkastelu · Viljely",
       "headline": "Miksi kukaan ei pysty viljelemään sitä.",
+      "imageAlt": "Lakan valkoisia kukkia avosuolla kesäkuun alussa: hallalle arka vaihe, joka ratkaisee sadon",
       "p1": "Agronomit ovat yrittäneet vuosikymmeniä, ja hilla voittaa yhä. Kasvi on kaksikotinen, eli uros- ja naaraskukat kasvavat eri yksilöissä, joten kasvusto voi kukkia kauniisti ja jäädä silti kokonaan ilman marjoja.",
       "p2": "Se myös kasvaa äärimmäisen hitaasti, tarvitsee kuudesta seitsemään vuotta ensimmäiseen satoon täydellisissäkin oloissa ja vaatii kosteuden, valon ja suokemian yhdistelmän, jota kasvihuoneet eivät ole onnistuneet toistamaan.",
       "p3": "Norjalaiset ja suomalaiset tutkijat ovat edenneet lajikkeissa, mutta kaupalliset sadot ovat yhä murto-osa siitä, mitä villit suot antavat ilmaiseksi. Siksi koko Suomen tarjonta, hillonvalmistajista likööritaloihin ja ravintolakeittiöihin, on villinä poimittua.",
@@ -2020,6 +2026,7 @@
       "title": "Uusi",
       "titleHighlight": "arktinen keittiö.",
       "subtitle": "Lapin moderni keittiö ottaa raaka-aineet, joita saamelaiset ovat käyttäneet tuhat vuotta, poron, järvikalan, metsämarjat ja villiyrtit, ja kattaa ne lautaselle New Nordic -tekniikalla. Tämä sivu kertoo, miten se tapahtui ja missä sen voi maistaa.",
+      "imageAlt": "Poroa puolukka-riistakastikkeessa, naurispyreetä ja herkkutatteja harmaalla lasilautasella ravintolan pöydässä Helsingissä",
       "primaryCta": "Mistä varata",
       "secondaryCta": "Perinnereseptit"
     },
@@ -2122,6 +2129,7 @@
       "title": "Villi",
       "titleHighlight": "ruokavarasto.",
       "subtitle": "Suomen jokamiehenoikeus antaa jokaiselle oikeuden kerätä marjoja, sieniä ja villiyrttejä lähes koko maassa. Tässä viisi asiaa, jotka kannattaa tietää ensin.",
+      "imageAlt": "Marjojen värjäämä käsi vastapoimittujen mustikoiden täyttämän rasian vieressä suomalaisessa metsässä heinäkuussa",
       "primaryCta": "Varaa opastettu retki",
       "secondaryCta": "Miten nämä päätyvät lautaselle"
     },
@@ -2303,6 +2311,7 @@
       "title": "Syö tiesi",
       "titleHighlight": "Lappiin.",
       "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät tasting menua syvemmälle: saamelainen ruokakulttuuri, arktinen fine dining ja opastettu keräilyretki, joka päättyy päivälliseen.",
+      "imageAlt": "Alkuruokalautanen mustalla lautasella: kuumasavulohta, savuahventa ja kylmäsavulohta sekä pikkelöityjä vihanneksia",
       "primaryCta": "Selaa kaikkia GetYourGuidessa"
     },
     "intro": {

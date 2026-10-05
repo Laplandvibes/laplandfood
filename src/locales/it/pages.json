@@ -169,6 +169,7 @@
       "title": "Cosa cresce",
       "titleHighlight": "quassù.",
       "subtitle": "Sei ingredienti che definiscono la dispensa della Lapponia: da dove vengono, quando sono al massimo e che sapore hanno davvero.",
+      "imageAlt": "Una ciotola bianca piena di mirtilli appena raccolti sul sottobosco tra le piante di mirtillo",
       "primaryCta": "Guida alla raccolta",
       "secondaryCta": "Ricette che li usano"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "Approfondimento · Renna",
       "headline": "Come una renna finisce su un piatto della Lapponia.",
+      "imageAlt": "Una renna con il collare riposa sulla ghiaia vicino a Ylläs, le corna ancora coperte di velluto, un pendio erboso dietro",
       "p1": "L'industria della renna in Finlandia è regolata dalla Legge sull'allevamento della renna, che riserva la proprietà a persone domiciliate nell'area di allevamento (di fatto la Finlandia settentrionale). Gli animali appartengono ai singoli allevatori ma pascolano insieme in cooperative, <em>paliskunnat</em>, che condividono territorio e lavoro. Ci sono circa 200.000 renne in circa 54 cooperative, tutte in Lapponia e in alcune parti dell'Ostrobotnia settentrionale.",
       "p2": "Il branco è selvatico in tutto tranne che nella proprietà. Le renne percorrono liberamente enormi distese di taiga e tundra non recintate, mangiando ciò che trovano: lichene in inverno (la dieta che dà alla carne il suo sapore pulito specifico), erbe e piante in estate, funghi in autunno. Gli allevatori seguono gli animali con motoslitte e quad, li radunano due volte all'anno per la marcatura delle orecchie e (in autunno) la selezione per la macellazione, poi li lasciano disperdersi di nuovo.",
       "p3": "La macellazione avviene in autunno, di solito ottobre-novembre, quando gli animali sono al peso massimo. La carne passa per i 19 macelli per renne approvati UE dell'area di allevamento, 17 dei quali di proprietà delle cooperative o degli allevatori stessi. Gran parte della carne è venduta entro poche centinaia di chilometri da dove l'animale è vissuto, a ristoranti della Lapponia, a macellai specializzati a Helsinki e nel resto della Finlandia meridionale, e a un piccolo ma serio mercato di esportazione nell'Europa centrale.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "Approfondimento · Mora artica",
       "headline": "La bacca che nessuno riesce a coltivare.",
+      "imageAlt": "Vaschette di more artiche fresche in vendita nella piazza del mercato di Helsinki sotto un cartello scritto a mano: more artiche fresche della Lapponia",
       "p1": "La mora artica, <em>hilla</em> in finlandese, <em>luomi</em> in sami del nord, è la bacca selvatica più pregiata della Lapponia e la più ostinatamente non coltivata tra le bacche importanti del mondo. Cresce solo in torbiere fredde, acide e impregnate d'acqua in una stretta fascia dell'emisfero settentrionale: Scandinavia settentrionale, Finlandia, parti della Russia, Alaska e Canada settentrionale. Dentro a quelle zone è sorprendentemente comune. Fuori, non cresce.",
       "p2": "Decenni di ricerca agricola non sono riusciti a commercializzarla. Le piante di mora artica sono dioiche (maschili e femminili separate), crescono molto lentamente, impiegano 6–7 anni a fruttificare anche in condizioni perfette, sono vulnerabili alle gelate tardive che distruggono i fiori dell'anno, e richiedono una combinazione specifica di umidità, luce e chimica delle torbiere che ha resistito alla simulazione in serra. I ricercatori norvegesi e finlandesi hanno fatto progressi sulle cultivar ma le rese commerciali sono ancora una frazione di quelle selvatiche. Quindi tutto l'approvvigionamento finlandese, per produttori di marmellate, di liquori (Lakka), per le cucine dei ristoranti, è raccolto in natura.",
       "p3": "È per questo che un chilo di more artiche fresche al mercato di Rovaniemi a fine luglio costa di solito 25–50 €, cinque-dieci volte il prezzo dei mirtilli e perché l'offerta crolla se la gelata di primavera arriva una settimana in ritardo. È anche per questo che il parfait alla mora artica è il dolce dell'alta cucina della Lapponia. Ogni chef vuole usarle finché durano.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "Approfondimento · Pesce di lago",
       "headline": "Perché la pesca sul ghiaccio dà il miglior pesce dell'anno.",
+      "imageAlt": "Pesce affumicato con aioli su un piatto di gres grigio su un tavolo di pino al sole, su una terrazza a Kuusamo",
       "p1": "La Lapponia si estende su circa 6.000 laghi, la maggior parte abbastanza puliti da poterne bere l'acqua durante un trekking di lunga distanza. I quattro pesci che contano in tavola sono il <strong>coregone (siika)</strong>, il <strong>luccio (hauki)</strong>, il <strong>persico (ahven)</strong> e la <strong>trota fario / salmerino artico (taimen / nieriä)</strong>. Tutti e quattro sono nativi, tutti e quattro vengono pescati in quantità commerciale sia da piccoli pescatori sia da appassionati di pesca sul ghiaccio, tutti e quattro compaiono in forme diverse nei menù della Lapponia.",
       "p2": "La pesca sul ghiaccio, <em>pilkkiminen</em>, è più di un passatempo locale. È il metodo di pesca che dà il pesce di lago artico più saporito dell'anno. Ecco perché: in inverno, l'acqua del lago è al suo punto più freddo e limpido. Il metabolismo dei pesci rallenta, i depositi di grasso si rassodano e i parassiti muoiono (niente vettori d'acqua calda). La polpa di un coregone pescato sul ghiaccio a febbraio è più densa, più dolce e dal sapore più pulito dello stesso pesce pescato a luglio. Gli chef della Lapponia tarano i menù attorno a questo.",
       "p3": "La tecnica in sé è semplice, perforare un foro attraverso 50–80 cm di ghiaccio, calare una piccola esca con un singolo amo, aspettare, ma richiede temperature spesso inferiori a −15 °C. L'approccio tradizionale prevedeva di coprire il foro tra una visita e l'altra perché non ghiacciasse di nuovo. Oggi la maggior parte usa tende isolate (un piccolo riparo da pesca è economico e cambia completamente l'esperienza).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "Prima la domanda principale",
       "headline": "Che sapore ha la mora artica?",
+      "imageAlt": "Una mora artica che passa dal rosso all'ambra sulla pianta nella Riserva naturale integrale di Kevo, Utsjoki",
       "answer": "Matura è morbida, succosa e prima acidula che dolce: un incrocio tra albicocca e ribes rosso, chiuso da una nota muschiata e mielata che nessun'altra bacca possiede. I semi sono grandi e teneri, e si mangiano. Fredda è tagliente; appena intiepidita, il lato di albicocca si apre.",
       "p2": "La maturazione decide tutto. Una mora artica soda e rossa è acerba, di un aspro che arriccia la bocca. Al punto giusto diventa ambrata, si ammorbidisce e si stacca dallo stelo quasi da sola: è quella la bacca che vale i piedi bagnati. Chi raccoglie prende le ambrate e lascia le rosse per il giro successivo.",
       "p3": "Difficilmente Le metteranno davanti una ciotola colma di bacche fresche. Il sapore è intenso e il raccolto piccolo, così la Lapponia la serve dove un cucchiaio basta: sul <em>leipäjuusto</em> tiepido, il formaggio-pane finlandese che cigola sotto i denti, accanto al gelato alla vaniglia o montato in un parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "Approfondimento · Coltivazione",
       "headline": "Perché nessuno riesce a coltivarla.",
+      "imageAlt": "Fiori bianchi di mora artica su una torbiera aperta all'inizio di giugno, la fase sensibile al gelo che decide il raccolto",
       "p1": "Gli agronomi ci provano da decenni e la mora artica continua a vincere. La pianta è dioica, fiori maschili e femminili su piante separate: una colonia può fiorire splendidamente senza legare un solo frutto.",
       "p2": "Cresce inoltre con estrema lentezza, impiega dai sei ai sette anni per fruttificare anche in condizioni perfette, e pretende una combinazione di umidità, luce e chimica di torbiera che le serre non sono riuscite a riprodurre.",
       "p3": "I ricercatori norvegesi e finlandesi hanno fatto progressi con le varietà, ma le rese commerciali restano una frazione di ciò che le torbiere selvatiche danno gratis. Perciò l'intera fornitura finlandese, dai produttori di confetture ai liquorifici alle cucine dei ristoranti, viene dalla raccolta selvatica.",
@@ -2019,6 +2025,7 @@
       "title": "La nuova",
       "titleHighlight": "cucina artica.",
       "subtitle": "La cucina moderna della Lapponia prende gli ingredienti che i sami usano da mille anni, renna, pesce di lago, bacche ed erbe selvatiche, e li impiatta con tecnica New Nordic. Questa pagina racconta com’è successo e dove assaggiarla.",
+      "imageAlt": "Renna in salsa di selvaggina ai mirtilli rossi con purè di rapa e porcini su un piatto di vetro grigio, tavolo di ristorante a Helsinki",
       "primaryCta": "Dove prenotare",
       "secondaryCta": "Le ricette tradizionali"
     },
@@ -2121,6 +2128,7 @@
       "title": "La dispensa",
       "titleHighlight": "selvatica.",
       "subtitle": "Il jokamiehenoikeus finlandese (diritto di accesso) permette a chiunque di raccogliere bacche, funghi ed erbe selvatiche nella maggior parte del paese. Cinque cose da sapere prima di tutto.",
+      "imageAlt": "Una mano macchiata di bacche accanto a un barattolo di mirtilli appena raccolti in un bosco finlandese a luglio",
       "primaryCta": "Prenoti una passeggiata guidata",
       "secondaryCta": "Come finiscono nel piatto"
     },
@@ -2302,6 +2310,7 @@
       "title": "Mangi la Lapponia,",
       "titleHighlight": "un piatto alla volta.",
       "subtitle": "Tre esperienze culinarie prenotabili che vanno oltre un menù degustazione: cultura sami, alta cucina artica e una passeggiata di raccolta guidata che finisce in cena.",
+      "imageAlt": "Piatto di antipasti con salmone affumicato a caldo, pesce persico affumicato e salmone affumicato a freddo con verdure sottaceto su un piatto nero",
       "primaryCta": "Sfogli tutto su GetYourGuide"
     },
     "intro": {

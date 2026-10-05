@@ -50,7 +50,7 @@ export default function ForagingGuide() {
           imageUrl="/images/hero-foraging.jpg"
           imageSrcSet="/images/hero-foraging-1280.jpg 1280w, /images/hero-foraging.jpg 2400w"
           scrim="strong"
-          imageAlt="A berry-stained hand beside a tub of freshly picked bilberries in a Finnish forest in July"
+          imageAlt={t('foragingGuide.hero.imageAlt')}
           primaryCta={{ label: t('foragingGuide.hero.primaryCta'), href: to('/food-tours') }}
           secondaryCta={{ label: t('foragingGuide.hero.secondaryCta'), href: to('/local-ingredients') }}
           pills={items.map(it => it.name)}

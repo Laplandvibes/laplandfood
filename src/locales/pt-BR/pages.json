@@ -169,6 +169,7 @@
       "title": "O que cresce",
       "titleHighlight": "aqui em cima.",
       "subtitle": "Seis ingredientes que definem a despensa da Lapônia: de onde vêm, quando estão no auge e qual é o gosto real deles.",
+      "imageAlt": "Uma tigela branca cheia de mirtilos recém-colhidos no chão da floresta entre arbustos de mirtilo",
       "primaryCta": "Guia de colheita",
       "secondaryCta": "Receitas que os usam"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "A fundo · A rena",
       "headline": "Como uma rena chega a um prato da Lapônia.",
+      "imageAlt": "Uma rena com coleira descansa no cascalho perto de Ylläs, com os chifres ainda cobertos de veludo e uma encosta gramada ao fundo",
       "p1": "A indústria da rena na Finlândia é regulada pela Lei de Pastoreio de Renas, que restringe a propriedade a pessoas domiciliadas na área de pastoreio (na prática, o norte da Finlândia). Os animais pertencem a pastores individuais, mas pastam juntos em cooperativas, <em>paliskunnat</em>, que compartilham território e trabalho. Há cerca de 200.000 renas em aproximadamente 54 cooperativas, todas na Lapônia e em partes da Ostrobótnia do Norte.",
       "p2": "O rebanho é selvagem em tudo menos na propriedade. As renas vagam livremente por enormes extensões de taiga e tundra sem cercas, comendo o que encontram: líquens no inverno (a dieta que dá à carne seu sabor limpo e característico), gramíneas e ervas no verão, brotos de cogumelos no outono. Os pastores acompanham os animais de moto de neve e quadriciclo, reúnem-nos duas vezes por ano para marcar as orelhas e (no outono) selecionar os que irão ao abate, e depois os deixam se dispersar de novo.",
       "p3": "O abate acontece no outono, normalmente entre outubro e novembro, quando os animais estão no peso máximo. A carne passa pelos 19 abatedouros de rena aprovados pela UE da área de criação, 17 deles pertencentes às cooperativas ou aos próprios criadores. A maior parte da carne é vendida a algumas centenas de quilômetros de onde o animal viveu, para restaurantes da Lapônia, para açougues especializados em Helsinque e no resto do sul da Finlândia, e para um mercado de exportação pequeno, mas sério, na Europa Central.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "A fundo · A amora ártica",
       "headline": "A fruta que ninguém consegue cultivar.",
+      "imageAlt": "Potes de amoras-árticas frescas à venda na praça do mercado de Helsinque sob uma placa escrita à mão: amoras-árticas frescas da Lapônia",
       "p1": "A amora ártica, <em>hilla</em> em finlandês, <em>luomi</em> em sámi setentrional, é a fruta silvestre mais cobiçada da Lapônia e a mais teimosamente impossível de cultivar entre as frutas importantes do mundo. Cresce apenas em pântanos de turfa frios, ácidos e encharcados, numa faixa estreita do hemisfério norte: o norte da Escandinávia, a Finlândia, partes da Rússia, o Alasca e o norte do Canadá. Dentro dessas zonas é surpreendentemente comum. Fora delas, não cresce.",
       "p2": "Décadas de pesquisa agrícola não conseguiram comercializá-la. As plantas de amora ártica são dioicas (com exemplares machos e fêmeas separados), crescem muito devagar, levam de 6 a 7 anos para frutificar mesmo em condições perfeitas, são vulneráveis às geadas tardias de primavera que destroem as flores do ano e precisam de uma combinação específica de umidade, luz e química de turfa que resistiu à simulação em estufa. Pesquisadores noruegueses e finlandeses avançaram em algumas cultivares, mas a produtividade comercial ainda é uma fração da silvestre. Então todo o fornecimento finlandês, para fabricantes de geleia, produtores de licor (Lakka) e cozinhas de restaurante, é de colheita silvestre.",
       "p3": "É por isso que um quilo de amoras árticas frescas num mercado de Rovaniemi no fim de julho costuma custar de € 25 a € 50, de cinco a dez vezes o preço dos mirtilos e por isso o fornecimento despenca se a geada da primavera chegar uma semana atrasada. É também por isso que o parfait de amora ártica é a sobremesa-ícone da alta gastronomia da Lapônia. Todo chef quer usá-las enquanto duram.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "A fundo · O peixe de lago",
       "headline": "Por que a pesca no gelo dá o melhor peixe do ano.",
+      "imageAlt": "Peixe defumado com aioli em um prato de cerâmica cinza sobre uma mesa de pinho ensolarada em um terraço em Kuusamo",
       "p1": "A Lapônia se assenta sobre cerca de 6.000 lagos, a maioria limpa o bastante para beber deles numa caminhada longa. Os quatro peixes que importam no prato são o <strong>coregono (siika)</strong>, o <strong>lúcio (hauki)</strong>, a <strong>perca (ahven)</strong> e a <strong>truta-marrom / salvelino-ártico (taimen / nieriä)</strong>. Os quatro são nativos, os quatro são pescados em quantidade comercial tanto por pequenos pescadores quanto por entusiastas da pesca no gelo, e os quatro aparecem de formas diferentes nos cardápios da Lapônia.",
       "p2": "A pesca no gelo, <em>pilkkiminen</em>, é mais do que um hobby local. É o método de pesca que produz o peixe de lago ártico mais saboroso do ano. Eis o porquê: no inverno, a água do lago está no seu ponto mais frio e límpido. O metabolismo dos peixes desacelera, os depósitos de gordura firmam e os parasitas morrem (sem vetores de água quente). A carne de um coregono pescado no gelo em fevereiro é mais densa, mais doce e de gosto mais limpo do que o mesmo peixe capturado em julho. Os chefs da Lapônia organizam seus cardápios em torno disso.",
       "p3": "A técnica em si é simples, você perfura um buraco com um trado através de 50–80 cm de gelo, solta uma pequena isca com um único anzol e espera, mas exige temperaturas muitas vezes abaixo de −15 °C. Tradicionalmente cobria-se o buraco entre as visitas para que ele não congelasse de novo. Hoje a maioria usa barracas isoladas (um pequeno abrigo de pesca no gelo é barato e muda a experiência por completo).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "Primeiro, a pergunta principal",
       "headline": "Qual é o gosto da amora ártica?",
+      "imageAlt": "Uma amora-ártica passando do vermelho ao âmbar no pé, na Reserva Natural Estrita de Kevo, em Utsjoki",
       "answer": "Madura, ela é macia, suculenta e mais ácida que doce: pense num cruzamento de damasco com groselha, arrematado por uma nota almiscarada e amelada que nenhuma outra fruta tem. As sementes são grandes e macias, e vão junto. Gelada, é cortante; levemente aquecida, o lado de damasco se abre.",
       "p2": "O ponto de maturação decide tudo. Firme e vermelha, a amora ártica está verde e é azeda de franzir a boca. No ponto, fica âmbar, amolece e solta da haste quase sozinha, e é essa fruta que compensa os pés molhados. Quem colhe leva as âmbar e deixa as vermelhas para a próxima visita.",
       "p3": "Dificilmente alguém vai te servir uma tigela cheia de frutas frescas. O sabor é intenso e a colheita, pequena, então a Lapônia a serve onde uma colherada basta: sobre <em>leipäjuusto</em> morno, o queijo finlandês que range nos dentes, ao lado de sorvete de baunilha, ou em forma de parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "Aprofundamento · Cultivo",
       "headline": "Por que ninguém consegue cultivá-la.",
+      "imageAlt": "Flores brancas de amora-ártica em um brejo aberto no início de junho, a fase sensível à geada que decide a colheita",
       "p1": "Os agrônomos tentam há décadas, e a amora ártica continua ganhando. A planta é dioica, com flores masculinas e femininas em plantas separadas: uma mancha pode florescer linda e não vingar um único fruto.",
       "p2": "Ela também cresce devagar demais, leva de seis a sete anos para frutificar mesmo em condições perfeitas, e exige uma combinação de umidade, luz e química de turfeira que as estufas não conseguiram reproduzir.",
       "p3": "Pesquisadores noruegueses e finlandeses avançaram com cultivares, mas o rendimento comercial segue sendo uma fração do que os pântanos silvestres dão de graça. Por isso todo o suprimento finlandês, das fábricas de geleia aos licores e às cozinhas de restaurante, vem da coleta silvestre.",
@@ -2019,6 +2025,7 @@
       "title": "A nova",
       "titleHighlight": "cozinha ártica.",
       "subtitle": "A cozinha moderna da Lapônia pega os ingredientes que os sámi usam há mil anos, rena, peixe de lago, frutas e ervas silvestres, e os emprata com técnica New Nordic. Esta página conta como isso aconteceu e onde provar.",
+      "imageAlt": "Rena ao molho de caça com airelas-vermelhas, purê de nabo e porcini em um prato de vidro cinza, mesa de restaurante em Helsinque",
       "primaryCta": "Onde reservar",
       "secondaryCta": "As receitas tradicionais"
     },
@@ -2121,6 +2128,7 @@
       "title": "A despensa",
       "titleHighlight": "silvestre.",
       "subtitle": "O jokamiehenoikeus finlandês (direito de acesso à natureza) permite a qualquer pessoa colher frutas, cogumelos e ervas silvestres na maior parte do país. Aqui estão as cinco coisas para saber primeiro.",
+      "imageAlt": "Uma mão manchada de frutas ao lado de um pote de mirtilos recém-colhidos em uma floresta finlandesa em julho",
       "primaryCta": "Reservar uma caminhada guiada",
       "secondaryCta": "Como isso chega ao prato"
     },
@@ -2302,6 +2310,7 @@
       "title": "Coma sua",
       "titleHighlight": "Lapônia.",
       "subtitle": "Três experiências gastronômicas reserváveis que vão além de um menu degustação: cultura sámi, alta gastronomia ártica e uma caminhada de colheita guiada que termina em jantar.",
+      "imageAlt": "Prato de entrada com salmão defumado a quente, perca defumada e salmão defumado a frio com legumes em conserva em um prato preto",
       "primaryCta": "Ver todas no GetYourGuide"
     },
     "intro": {

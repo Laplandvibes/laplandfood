@@ -169,6 +169,7 @@
       "title": "Wat hier",
       "titleHighlight": "groeit.",
       "subtitle": "Zes ingrediënten die Laplands voorraadkast definiëren: waar ze vandaan komen, wanneer ze op hun top zijn en wat ze echt smaken.",
+      "imageAlt": "Een witte kom vol vers geplukte blauwe bosbessen op de bosbodem tussen bosbessenstruiken",
       "primaryCta": "Plukgids",
       "secondaryCta": "Recepten die deze gebruiken"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "Verdieping · Rendier",
       "headline": "Hoe een rendier op een Laplands bord belandt.",
+      "imageAlt": "Een rendier met halsband rust op grind bij Ylläs, het gewei nog in de bast, met een grazige helling erachter",
       "p1": "De Finse rendierindustrie wordt geregeld door de Wet op de rendierherderij, die het eigendom beperkt tot personen woonachtig in het herdersgebied (in feite Noord-Finland). Dieren behoren toe aan individuele herders, maar grazen samen in coöperaties, <em>paliskunnat</em>, die territorium en werk delen. Er zijn rond de 200.000 rendieren in zo'n 54 coöperaties, allemaal in Lapland en delen van Noord-Pohjanmaa.",
       "p2": "De kudde is wild in alles behalve het eigendom. Rendieren trekken vrij over enorme stukken onomheinde taiga en toendra, en eten wat ze vinden: korstmos in de winter (het dieet dat het vlees zijn specifieke schone smaak geeft), grassen en kruiden in de zomer, paddenstoelen in het najaar. Herders volgen hun dieren op sneeuwscooters en quads, verzamelen ze twee keer per jaar voor oormerken en (in de herfst) selectie voor de slacht, en laten ze daarna weer uitwaaieren.",
       "p3": "De slacht vindt plaats in de herfst, meestal oktober-november, wanneer de dieren op piekgewicht zijn. Het vlees gaat door de 19 EU-goedgekeurde rendierslachterijen van het rendierhoudersgebied, waarvan er 17 eigendom zijn van de coöperaties of de houders zelf. Het meeste vlees wordt verkocht binnen een paar honderd kilometer van waar het dier leefde, aan Laplandse restaurants, gespecialiseerde slagers in Helsinki en de rest van Zuid-Finland, en een kleine maar serieuze exportmarkt in Midden-Europa.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "Verdieping · Kruipbraam",
       "headline": "De bes die niemand kan kweken.",
+      "imageAlt": "Bakjes verse kruipbramen te koop op het marktplein van Helsinki onder een handgeschreven bordje: verse kruipbramen uit Lapland",
       "p1": "De kruipbraam, <em>hilla</em> in het Fins, <em>luomi</em> in Noord-Samisch, is de meest gewaardeerde wilde bes van Lapland en de meest hardnekkig ongekweekte van 's werelds belangrijke bessen. Hij groeit alleen in koude, zure, waterverzadigde turfvenen in een smalle band van het noordelijk halfrond: Noord-Scandinavië, Finland, delen van Rusland, Alaska en Noord-Canada. Binnen die zones is hij verbazingwekkend gewoon. Daarbuiten groeit hij niet.",
       "p2": "Decennia van landbouwkundig onderzoek hebben hem niet kunnen commercialiseren. Kruipbraamplanten zijn tweehuizig (mannelijk en vrouwelijk apart), groeien extreem langzaam, hebben zelfs onder perfecte omstandigheden 6–7 jaar nodig om vrucht te dragen, zijn kwetsbaar voor late voorjaarsvorst die de bloesem van het jaar vernielt, en vragen een specifieke combinatie van vocht, licht en veenchemie die in kassen niet is na te bootsen. Noorse en Finse onderzoekers hebben vooruitgang geboekt met cultivars, maar de commerciële opbrengsten zijn nog een fractie van wilde opbrengsten. De hele Finse aanvoer, voor jamfabrikanten, likeurproducenten (Lakka) en restaurantkeukens, komt uit het wild.",
       "p3": "Daarom kost een kilo verse kruipbramen op een markt in Rovaniemi eind juli doorgaans 25 tot 50 €, vijf tot tien keer de prijs van blauwe bosbessen en daarom stort de aanvoer in als de lentevorst een week te laat komt. Daarom is de kruipbraamparfait ook hét Laplandse fine-diningdessert. Elke kok wil ze gebruiken zolang ze er zijn.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "Verdieping · Meervis",
       "headline": "Waarom ijsvissen de beste vis van het jaar oplevert.",
+      "imageAlt": "Gerookte vis met aioli op een grijs stenen bord op een zonnige grenen tafel op een terras in Kuusamo",
       "p1": "Lapland ligt op ruwweg 6.000 meren, de meeste schoon genoeg om uit te drinken tijdens een lange wandeling. De vier vissen die op het bord tellen zijn de <strong>marene (siika)</strong>, de <strong>snoek (hauki)</strong>, de <strong>baars (ahven)</strong> en de <strong>beekforel / beekridder (taimen / nieriä)</strong>. Alle vier zijn inheems, alle vier worden in commerciële hoeveelheden gevangen door zowel kleine vissers als ijsvisliefhebbers, en alle vier komen in verschillende vormen voor op Laplandse menukaarten.",
       "p2": "IJsvissen, <em>pilkkiminen</em>, is meer dan een lokale hobby. Het is de visserijmethode die de smaakvolste Arctische meervis van het jaar oplevert. Dit is waarom: in de winter is het meerwater op zijn koudst en helderst. De stofwisseling van vissen vertraagt, vetdepots verstevigen en parasieten sterven (geen warmwatervectoren). Het vlees van een in februari onder het ijs gevangen marene is dichter, zoeter en zuiverder van smaak dan dezelfde vis in juli. Laplandse koks plannen hun menu's eromheen.",
       "p3": "De techniek zelf is eenvoudig (boor een gat door 50–80 cm ijs, laat een kleine jig met één haak zakken, wacht), maar vraagt temperaturen die vaak onder −15 °C liggen. Traditioneel dekte men het gat tussen de bezoeken af, zodat het niet opnieuw dichtvroor. Tegenwoordig gebruiken de meeste mensen geïsoleerde tenten (een kleine ijsvistent is goedkoop en verandert de ervaring volledig).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "Eerst de hoofdvraag",
       "headline": "Hoe smaakt een kruipbraam?",
+      "imageAlt": "Een kruipbraam die aan de plant van rood naar amber kleurt in het strikte natuurreservaat Kevo, Utsjoki",
       "answer": "Een rijpe kruipbraam is zacht, sappig en eerst zuur, dan pas zoet: denk aan abrikoos gekruist met rode bes, afgemaakt met een licht muskusachtige honingtoon die geen enkele andere bes heeft. De pitten zijn groot en zacht, en die eet u gewoon mee. Koud smaakt hij scherp; licht verwarmd opent zich de abrikozenkant.",
       "p2": "Rijpheid beslist alles. Een stevige rode kruipbraam is onrijp en zo zuur dat uw mond samentrekt. Op zijn best wordt hij amberkleurig, zacht, en laat hij bijna vanzelf los van de stengel: dát is de bes die natte voeten waard is. Plukkers nemen de amberkleurige mee en laten de rode staan voor het volgende bezoek.",
       "p3": "Een grote schaal verse kruipbramen krijgt u zelden voorgezet. De smaak is intens en de oogst klein, dus Lapland serveert hem waar één lepel telt: op warme <em>leipäjuusto</em>, de piepende Finse broodkaas, naast vanille-ijs, of verwerkt in een parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "Verdieping · Kweek",
       "headline": "Waarom niemand hem kan kweken.",
+      "imageAlt": "Witte kruipbraambloemen op een open veen begin juni, de vorstgevoelige fase die over de oogst beslist",
       "p1": "Landbouwkundigen proberen het al tientallen jaren, en de kruipbraam blijft winnen. De plant is tweehuizig, met mannelijke en vrouwelijke bloemen op aparte planten: een veld kan prachtig bloeien en toch geen enkele vrucht zetten.",
       "p2": "Hij groeit bovendien extreem traag, heeft zelfs onder perfecte omstandigheden zes tot zeven jaar nodig om vrucht te dragen, en eist een combinatie van vocht, licht en veenchemie die kassen niet hebben kunnen nabootsen.",
       "p3": "Noorse en Finse onderzoekers boeken vooruitgang met rassen, maar commerciële opbrengsten blijven een fractie van wat wilde venen gratis geven. De hele Finse aanvoer, van jamfabrikanten tot likeurstokers en restaurantkeukens, komt dus uit wildpluk.",
@@ -2019,6 +2025,7 @@
       "title": "De nieuwe",
       "titleHighlight": "Arctische keuken.",
       "subtitle": "De moderne keuken van Lapland neemt de ingrediënten die de Samen al duizend jaar gebruiken, rendier, meervis, wilde bessen en kruiden, en maakt ze op met New Nordic-techniek. Deze pagina vertelt hoe dat gebeurde en waar u het proeft.",
+      "imageAlt": "Rendier in een vossenbessen-wildsaus met raapjespuree en eekhoorntjesbrood op een grijs glazen bord, restauranttafel in Helsinki",
       "primaryCta": "Waar boeken",
       "secondaryCta": "De traditionele recepten"
     },
@@ -2121,6 +2128,7 @@
       "title": "De wilde",
       "titleHighlight": "voorraadkast.",
       "subtitle": "Het Finse jokamiehenoikeus (toegangsrecht) laat iedereen bessen, paddenstoelen en wilde kruiden plukken in het grootste deel van het land. Hier zijn de vijf dingen die u eerst moet weten.",
+      "imageAlt": "Een door bessen gekleurde hand naast een bakje vers geplukte blauwe bosbessen in een Fins bos in juli",
       "primaryCta": "Boek een begeleide wandeling",
       "secondaryCta": "Hoe deze op het bord komen"
     },
@@ -2302,6 +2310,7 @@
       "title": "Eet uw weg",
       "titleHighlight": "door Lapland.",
       "subtitle": "Drie boekbare eetbelevingen die verder gaan dan een proefmenu: Samische cultuur, Arctische fine dining en een begeleide plukwandeling die eindigt in diner.",
+      "imageAlt": "Voorgerechtbord met warmgerookte zalm, gerookte baars en koudgerookte zalm met ingelegde groenten op een zwart bord",
       "primaryCta": "Bekijk alles op GetYourGuide"
     },
     "intro": {

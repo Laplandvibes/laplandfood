@@ -169,6 +169,7 @@
       "title": "Ce qui pousse",
       "titleHighlight": "ici.",
       "subtitle": "Six ingrédients qui définissent le garde-manger de Laponie : d'où ils viennent, quand ils sont à leur apogée et quel goût ils ont vraiment.",
+      "imageAlt": "Un bol blanc rempli de myrtilles fraîchement cueillies sur le sol de la forêt, parmi les plants de myrtilles",
       "primaryCta": "Guide de cueillette",
       "secondaryCta": "Recettes qui les utilisent"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "À fond · Renne",
       "headline": "Comment un renne arrive dans l'assiette d'un restaurant de Laponie.",
+      "imageAlt": "Un renne à collier se repose sur le gravier près d'Ylläs, ses bois encore couverts de velours, une pente herbeuse derrière",
       "p1": "L'industrie du renne en Finlande est encadrée par la loi sur l'élevage des rennes, qui réserve la propriété aux personnes domiciliées dans la zone d'élevage (essentiellement le nord de la Finlande). Les animaux appartiennent à des éleveurs individuels mais paissent ensemble dans des coopératives, <em>paliskunnat</em>, qui partagent territoire et travail. Il y a environ 200 000 rennes répartis sur environ 54 coopératives, toutes en Laponie et dans certaines parties de l'Ostrobotnie du Nord.",
       "p2": "Le troupeau est sauvage en tout sauf en propriété. Les rennes parcourent librement d'immenses étendues de taïga et de toundra non clôturées, mangeant ce qu'ils trouvent : lichen en hiver (le régime qui donne à la viande sa saveur propre et spécifique), herbes et plantes en été, champignons en automne. Les éleveurs suivent leurs animaux en motoneige et en quad, les rassemblent deux fois par an pour le marquage des oreilles et (à l'automne) pour la sélection à l'abattage, puis les laissent se disperser à nouveau.",
       "p3": "L'abattage a lieu en automne, généralement en octobre-novembre, lorsque les animaux sont à leur poids optimal. La viande passe par les 19 abattoirs de rennes agréés UE de la zone d'élevage, dont 17 appartiennent aux coopératives ou aux éleveurs eux-mêmes. La majorité de la viande est vendue dans un rayon de quelques centaines de kilomètres autour de là où l'animal a vécu, aux restaurants de Laponie, à des bouchers spécialisés à Helsinki et dans le reste du sud de la Finlande, et à un marché d'exportation modeste mais sérieux en Europe centrale.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "À fond · Mûre arctique",
       "headline": "La baie que personne ne peut cultiver.",
+      "imageAlt": "Barquettes de plaquebières fraîches en vente sur la place du Marché d'Helsinki, sous une pancarte écrite à la main : plaquebières fraîches de Laponie",
       "p1": "La mûre arctique, <em>hilla</em> en finnois, <em>luomi</em> en sâme du nord, est la baie sauvage la plus prisée de Laponie et la plus obstinément non cultivée parmi les baies importantes du monde. Elle pousse uniquement dans les tourbières froides, acides et gorgées d'eau d'une bande étroite de l'hémisphère nord : Scandinavie septentrionale, Finlande, certaines parties de la Russie, Alaska et nord du Canada. À l'intérieur de ces zones elle est étonnamment commune. En dehors, elle ne pousse pas.",
       "p2": "Des décennies de recherche agricole n'ont pas réussi à la commercialiser. Les plants de mûre arctique sont dioïques (mâles et femelles séparés), poussent extrêmement lentement, prennent 6 à 7 ans pour fructifier même dans des conditions parfaites, sont vulnérables aux gelées de fin de printemps qui détruisent les fleurs de l'année, et exigent une combinaison spécifique d'humidité, de lumière et de chimie de tourbière qui a résisté à la simulation en serre. Les chercheurs norvégiens et finlandais ont progressé sur des cultivars mais les rendements commerciaux restent une fraction des rendements sauvages. Donc tout l'approvisionnement finlandais, pour les fabricants de confitures, les producteurs de liqueur (Lakka), les cuisines de restaurants, est cueilli dans la nature.",
       "p3": "C'est pourquoi un kilo de mûres arctiques fraîches sur un marché de Rovaniemi fin juillet coûte typiquement 25 à 50 €, cinq à dix fois le prix des myrtilles et pourquoi l'offre s'effondre si la gelée de printemps arrive une semaine trop tard. C'est aussi pourquoi le parfait à la mûre arctique est le dessert gastronomique de Laponie. Tous les chefs veulent les utiliser tant qu'elles durent.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "À fond · Poisson de lac",
       "headline": "Pourquoi la pêche sur glace produit le meilleur poisson de l'année.",
+      "imageAlt": "Du poisson fumé et de l'aïoli dans une assiette en grès gris sur une table en pin ensoleillée, sur une terrasse à Kuusamo",
       "p1": "La Laponie compte environ 6 000 lacs, la plupart assez propres pour en boire l'eau lors d'une longue randonnée. Les quatre poissons qui comptent dans l'assiette sont le <strong>corégone (siika)</strong>, le <strong>brochet (hauki)</strong>, la <strong>perche (ahven)</strong> et la <strong>truite fario / omble chevalier (taimen / nieriä)</strong>. Tous quatre sont natifs, tous quatre sont pêchés en quantité commerciale à la fois par de petits pêcheurs et des amateurs de pêche sur glace, tous quatre apparaissent sous différentes formes sur les menus de Laponie.",
       "p2": "La pêche sur glace, <em>pilkkiminen</em>, est plus qu'un passe-temps local. C'est la méthode qui produit le poisson de lac arctique le plus savoureux de l'année. Pourquoi : en hiver, l'eau du lac est à sa température la plus froide et la plus claire. Le métabolisme des poissons ralentit, les dépôts de graisse se raffermissent et les parasites meurent (pas de vecteurs d'eau chaude). La chair d'un corégone pêché sous glace en février est plus dense, plus sucrée et au goût plus net que celle du même poisson pêché en juillet. Les chefs de Laponie calent leurs menus dessus.",
       "p3": "La technique elle-même est simple, percer un trou à travers 50-80 cm de glace, descendre un petit leurre avec un hameçon, attendre, mais elle exige des températures souvent inférieures à −15 °C. Traditionnellement, on couvrait le trou entre les visites pour qu'il ne regèle pas. Aujourd'hui, la plupart des gens utilisent des tentes isolées (un petit abri de pêche est bon marché et change complètement l'expérience).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "La première question d'abord",
       "headline": "Quel goût a la mûre arctique ?",
+      "imageAlt": "Une plaquebière qui passe du rouge à l'ambre sur sa tige dans la réserve naturelle intégrale de Kevo, à Utsjoki",
       "answer": "Mûre, elle est souple, juteuse et acidulée avant d'être sucrée : un croisement d'abricot et de groseille, achevé par une pointe musquée et miellée qu'aucune autre baie ne possède. Les graines, grosses et tendres, se mangent avec. Froide, elle est vive ; à peine tiédie, son côté abricot s'ouvre.",
       "p2": "La maturité décide de tout. Ferme et rouge, la mûre arctique est verte de goût, d'une acidité qui plisse la bouche. À point, elle devient ambrée, s'attendrit et se détache presque seule de la tige : c'est cette baie-là qui vaut les pieds mouillés. Les cueilleurs prennent les ambrées et laissent les rouges pour la visite suivante.",
       "p3": "On vous tendra rarement un grand bol de baies fraîches. Le parfum est intense et la récolte minuscule, alors la Laponie la sert là où une cuillerée suffit : sur du <em>leipäjuusto</em> tiède, le fromage-pain finlandais qui crisse sous la dent, à côté d'une glace vanille, ou montée en parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "En profondeur · Culture",
       "headline": "Pourquoi nul ne peut la cultiver.",
+      "imageAlt": "Fleurs blanches de plaquebière sur une tourbière ouverte début juin, le stade sensible au gel qui décide de la récolte",
       "p1": "Les agronomes essaient depuis des décennies, et la mûre arctique gagne toujours. La plante est dioïque, fleurs mâles et femelles sur des plants séparés : une colonie peut fleurir magnifiquement sans nouer le moindre fruit.",
       "p2": "Elle pousse en outre très lentement, met six à sept ans à fructifier même dans des conditions parfaites, et exige une combinaison d'humidité, de lumière et de chimie de tourbière que les serres n'ont pas réussi à reproduire.",
       "p3": "Les chercheurs norvégiens et finlandais ont progressé sur les variétés, mais les rendements commerciaux restent une fraction de ce que les tourbières sauvages donnent gratuitement. Toute l'offre finlandaise, des confituriers aux liquoristes et aux cuisines de restaurant, vient donc de la cueillette sauvage.",
@@ -2019,6 +2025,7 @@
       "title": "La nouvelle",
       "titleHighlight": "cuisine arctique.",
       "subtitle": "La cuisine moderne de Laponie prend les ingrédients que les Samis utilisent depuis mille ans, renne, poisson de lac, baies et herbes sauvages, et les dresse avec la technique New Nordic. Cette page raconte comment c’est arrivé, et où le goûter.",
+      "imageAlt": "Renne en sauce gibier aux airelles avec purée de navet et cèpes sur une assiette en verre gris, table de restaurant à Helsinki",
       "primaryCta": "Où réserver",
       "secondaryCta": "Les recettes traditionnelles"
     },
@@ -2121,6 +2128,7 @@
       "title": "Le garde-manger",
       "titleHighlight": "sauvage.",
       "subtitle": "Le jokamiehenoikeus finlandais (droit d'accès) permet à quiconque de cueillir baies, champignons et plantes sauvages sur la plupart du pays. Voici les cinq choses à savoir avant tout.",
+      "imageAlt": "Une main tachée de baies à côté d'un pot de myrtilles fraîchement cueillies dans une forêt finlandaise en juillet",
       "primaryCta": "Réserver une balade guidée",
       "secondaryCta": "Comment cela arrive dans l'assiette"
     },
@@ -2302,6 +2310,7 @@
       "title": "La Laponie",
       "titleHighlight": "à pleines dents.",
       "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation : culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
+      "imageAlt": "Assiette d'entrée avec saumon fumé à chaud, perche fumée et saumon fumé à froid, légumes marinés, sur une assiette noire",
       "primaryCta": "Tout voir sur GetYourGuide"
     },
     "intro": {

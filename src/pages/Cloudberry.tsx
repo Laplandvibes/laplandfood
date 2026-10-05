@@ -126,7 +126,7 @@ export default function Cloudberry() {
           kicker={t('cloudberry.taste.kicker')}
           headline={t('cloudberry.taste.headline')}
           image="/images/cloudberry-ripeness.webp"
-          alt="A cloudberry turning from red to amber on its plant in the Kevo Strict Nature Reserve, Utsjoki"
+          alt={t('cloudberry.taste.imageAlt')}
           tint
         >
           <p className={LEDE}>{t('cloudberry.taste.answer')}</p>
@@ -197,7 +197,7 @@ export default function Cloudberry() {
           kicker={t('cloudberry.whyWild.kicker')}
           headline={t('cloudberry.whyWild.headline')}
           image="/images/cloudberry-flowers.webp"
-          alt="White cloudberry flowers on an open bog in early June, the frost-fragile stage that decides the harvest"
+          alt={t('cloudberry.whyWild.imageAlt')}
           imageRight
         >
           <p className={LEDE}>{t('cloudberry.whyWild.p1')}</p>

@@ -55,7 +55,7 @@ export default function FoodTours() {
           imageUrl="/images/hero-tours.jpg"
           imageSrcSet="/images/hero-tours-1280.jpg 1280w, /images/hero-tours.jpg 2400w"
           scrim="strong"
-          imageAlt="A starter plate of hot-smoked salmon, smoked perch and cold-smoked salmon with pickled vegetables on a black plate"
+          imageAlt={t('foodTours.hero.imageAlt')}
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true, rel: 'sponsored nofollow noopener' }}
           pills={tours.map(tour => tour.location)}
           pillHrefs={tours.map((_, i) => `#tour-${i}`)}

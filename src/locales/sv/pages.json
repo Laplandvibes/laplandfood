@@ -169,6 +169,7 @@
       "title": "Vad som växer",
       "titleHighlight": "här uppe.",
       "subtitle": "Sex råvaror som definierar Lapplands skafferi: var de kommer ifrån, när de är som bäst och hur de faktiskt smakar.",
+      "imageAlt": "En vit skål full av nyplockade blåbär på skogsbotten bland blåbärsris",
       "primaryCta": "Plockningsguide",
       "secondaryCta": "Recept som använder dem"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "Fördjupning · Ren",
       "headline": "Hur en ren hamnar på en tallrik i Lappland.",
+      "imageAlt": "En ren med halsband vilar på grus nära Ylläs, hornen fortfarande i basthud, en gräsbevuxen sluttning bakom",
       "p1": "Finlands rennäring regleras av renskötsellagen, som begränsar ägandet till personer som är bosatta i renskötselområdet (i praktiken norra Finland). Djuren tillhör enskilda renskötare men betar tillsammans i renbeteslag, <em>paliskunnat</em>, som delar område och arbete. Det finns omkring 200 000 renar fördelade på ungefär 54 renbeteslag, alla i Lappland och delar av Norra Österbotten.",
       "p2": "Hjorden är vild i allt utom ägandet. Renarna strövar fritt över enorma sträckor av ostängslad taiga och tundra och äter det de hittar: lav på vintern (dieten som ger köttet dess särskilda rena smak), gräs och örter på sommaren, svamp på hösten. Renskötarna spårar sina djur med skotrar och fyrhjulingar, samlar ihop dem två gånger om året för öronmärkning och (på hösten) urval för slakt, och låter dem sedan sprida ut sig igen.",
       "p3": "Slakten sker på hösten, vanligtvis oktober–november, när djuren väger som mest. Köttet går genom renskötselområdets 19 EU-godkända renslakterier, varav 17 ägs av renbeteslagen eller renägarna själva. Det mesta av köttet säljs inom några hundra kilometer från där djuret levde, till restauranger i Lappland, till specialslaktare i Helsingfors och övriga södra Finland, och till en liten men seriös exportmarknad i Centraleuropa.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "Fördjupning · Hjortron",
       "headline": "Bäret ingen kan odla.",
+      "imageAlt": "Burkar med färska hjortron till salu på Salutorget i Helsingfors under en handskriven skylt: färska hjortron från Lappland",
       "p1": "Hjortron, <em>hilla</em> på finska, <em>luomi</em> på nordsamiska, är det mest eftertraktade vilda bäret i Lappland och det mest envist oodlade av världens viktiga bär. Det växer bara på kalla, sura, vattendränkta torvmyrar i ett smalt band av norra halvklotet: norra Skandinavien, Finland, delar av Ryssland, Alaska och norra Kanada. Inom de zonerna är det förvånansvärt vanligt. Utanför dem växer det inte.",
       "p2": "Decennier av jordbruksforskning har misslyckats med att kommersialisera det. Hjortronplantor är tvåbyggare (skilda han- och honplantor), växer extremt långsamt, tar 6–7 år på sig att bära frukt även under perfekta förhållanden, är känsliga för sena vårfroster som förstör årets blommor, och behöver en specifik kombination av fukt, ljus och myrkemi som har stått emot växthussimulering. Norska och finska forskare har gjort framsteg med sorter, men de kommersiella skördarna är fortfarande en bråkdel av de vilda. Så hela den finska tillgången, för sylttillverkare, likörproducenter (Lakka) och restaurangkök, är vildplockad.",
       "p3": "Det är därför ett kilo färska hjortron på en marknad i Rovaniemi i slutet av juli oftast kostar 25–50 €, fem till tio gånger priset för blåbär, och därför tillgången kollapsar om vårfrosten kommer en vecka för sent. Det är också därför hjortronparfait är Lapplands fine dining-efterrätt. Varje kock vill använda dem medan de finns.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "Fördjupning · Insjöfisk",
       "headline": "Varför pimpelfiske ger årets bästa fisk.",
+      "imageAlt": "Rökt fisk med aioli på en grå stengodstallrik på ett solbelyst furubord på en terrass i Kuusamo",
       "p1": "Lappland vilar på ungefär 6 000 sjöar, de flesta rena nog att dricka ur under en långvandring. De fyra fiskar som betyder något på tallriken är <strong>sik (siika)</strong>, <strong>gädda (hauki)</strong>, <strong>abborre (ahven)</strong> och <strong>öring / röding (taimen / nieriä)</strong>. Alla fyra är inhemska, alla fyra fångas i kommersiell mängd av både småfiskare och pimpelfiskeentusiaster, alla fyra dyker upp i olika former på menyerna i Lappland.",
       "p2": "Pimpelfiske, <em>pilkkiminen</em>, är mer än en lokal hobby. Det är fiskemetoden som ger årets mest smakrika arktiska insjöfisk. Så här: på vintern är sjövattnet som kallast och klarast. Fiskens ämnesomsättning saktar ner, fettdepåerna stelnar och parasiter dör bort (inga varmvattenvektorer). Köttet från en pimplad sik i februari är fastare, sötare och renare i smaken än samma fisk fångad i juli. Kockarna i Lappland planerar sina menyer efter det.",
       "p3": "Tekniken i sig är enkel: borra ett hål genom 50–80 cm is, släpp ner ett litet pirk med en enda krok, vänta, men den kräver temperaturer som ofta är kallare än −15 °C. Traditionellt täckte man hålet mellan besöken så att det inte frös igen. I dag använder de flesta isolerade tält (ett litet pimpeltält är billigt och förändrar upplevelsen helt).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "Första frågan först",
       "headline": "Hur smakar hjortron?",
+      "imageAlt": "Ett hjortron som mognar från rött till bärnstensgult på sin planta i Kevo naturreservat, Utsjoki",
       "answer": "Ett moget hjortron är mjukt, saftigt och syrligt före sött: tänk aprikos korsad med röda vinbär, med en svag honungsartad mysk som inget annat bär har. Kärnorna är stora och mjuka och äts med. Kallt smakar det skarpt; lätt uppvärmt öppnar sig aprikossidan.",
       "p2": "Mognaden avgör allt. Ett fast rött hjortron är omoget och kärvt surt. När det är klart blir det bärnstensgult, mjuknar och lossnar nästan av sig självt från stjälken, och det bäret är värt blöta fötter. Plockare tar de gula och lämnar de röda till nästa tur.",
       "p3": "Du får sällan en stor skål färska hjortron framför dig. Smaken är intensiv och skörden liten, så Lappland serverar hjortron där en sked räcker: på varm <em>leipäjuusto</em>, Finlands knarrande brödost, bredvid vaniljglass eller vänd till parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "Fördjupning · Odling",
       "headline": "Därför kan ingen odla det.",
+      "imageAlt": "Vita hjortronblommor på en öppen myr i början av juni, det frostkänsliga skede som avgör skörden",
       "p1": "Agronomer har försökt i årtionden, och hjortronet vinner fortfarande. Växten är tvåbyggare, med han- och honblommor på olika plantor, så ett bestånd kan blomma vackert och ändå inte sätta ett enda bär.",
       "p2": "Det växer dessutom extremt långsamt, behöver sex till sju år till första skörden även under perfekta förhållanden och kräver en kombination av fukt, ljus och myrkemi som växthus inte lyckats återskapa.",
       "p3": "Norska och finska forskare har kommit en bit med sorter, men kommersiella skördar är fortfarande en bråkdel av vad vilda myrar ger gratis. Därför är hela Finlands utbud, från syltfabriker till likörproducenter och restaurangkök, viltplockat.",
@@ -2019,6 +2025,7 @@
       "title": "Det nya",
       "titleHighlight": "arktiska köket.",
       "subtitle": "Modern Lapplandsmatlagning tar råvarorna samerna använt i tusen år, ren, insjöfisk, vilda bär och örter, och lägger upp dem med nynordisk teknik. Den här sidan berättar hur det gick till, och var du kan smaka på det.",
+      "imageAlt": "Ren i lingon- och viltsås med rovpuré och karljohanssvamp på en grå glastallrik, restaurangbord i Helsingfors",
       "primaryCta": "Var du bokar",
       "secondaryCta": "De traditionella recepten"
     },
@@ -2121,6 +2128,7 @@
       "title": "Det vilda",
       "titleHighlight": "skafferiet.",
       "subtitle": "Finlands jokamiehenoikeus (allemansrätten) låter vem som helst plocka bär, svamp och vilda örter över nästan hela landet. Här är de fem saker du bör veta först.",
+      "imageAlt": "En bärfläckad hand bredvid en burk nyplockade blåbär i en finsk skog i juli",
       "primaryCta": "Boka en guidad vandring",
       "secondaryCta": "Hur de hamnar på tallriken"
     },
@@ -2302,6 +2310,7 @@
       "title": "Ät dig",
       "titleHighlight": "genom Lappland.",
       "subtitle": "Tre bokningsbara matupplevelser som går djupare än en avsmakningsmeny: samisk kultur, arktisk fine dining och en guidad plockningsvandring som slutar i middag.",
+      "imageAlt": "En förrättsassiett med varmrökt lax, rökt abborre och kallrökt lax med picklade grönsaker på en svart tallrik",
       "primaryCta": "Bläddra bland alla på GetYourGuide"
     },
     "intro": {

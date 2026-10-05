@@ -54,7 +54,7 @@ export default function ModernLapland() {
           imageUrl="/images/hero-modern.jpg"
           imageSrcSet="/images/hero-modern-1280.jpg 1280w, /images/hero-modern.jpg 2400w"
           scrim="strong"
-          imageAlt="Reindeer in a lingonberry and game sauce with turnip purée and porcini on a grey glass plate, restaurant table in Helsinki"
+          imageAlt={t('modernLapland.hero.imageAlt')}
           primaryCta={{ label: t('modernLapland.hero.primaryCta'), href: to('/michelin-dining') }}
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}
           pills={techniques.map(item => item.title)}

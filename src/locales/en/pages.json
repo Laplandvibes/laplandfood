@@ -169,6 +169,7 @@
       "title": "What grows",
       "titleHighlight": "up here.",
       "subtitle": "Six ingredients that define Lapland's pantry: where they come from, when they peak, and what they actually taste like.",
+      "imageAlt": "A white bowl full of freshly picked bilberries on the forest floor among bilberry shrubs",
       "primaryCta": "Foraging guide",
       "secondaryCta": "Recipes that use these"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "Deep dive · Reindeer",
       "headline": "How a reindeer ends up on a Lapland plate.",
+      "imageAlt": "A collared reindeer resting on gravel near Ylläs, antlers still in velvet, a grassy slope behind",
       "p1": "Finland's reindeer industry is regulated under the Reindeer Husbandry Act, which restricts ownership to people domiciled in the reindeer-herding area (effectively northern Finland). Animals belong to individual herders but graze together in cooperatives, <em>paliskunnat</em>, that share territory and labour. There are around 200,000 reindeer across roughly 54 cooperatives, all in Lapland and parts of Northern Ostrobothnia.",
       "p2": "The herd is wild in everything but ownership. Reindeer roam freely across enormous stretches of unfenced taiga and tundra, eating what they find: lichen in winter (the diet that gives the meat its specific clean flavour), grasses and herbs in summer, mushroom flushes in autumn. Herders track their animals on snowmobiles and quad bikes, gather them twice a year for ear-marking and (in autumn) selection for slaughter, then let them disperse again.",
       "p3": "The slaughter happens in autumn, typically October–November, when the animals are at peak weight. The meat passes through the 19 EU-approved reindeer slaughterhouses of the herding area, 17 of them owned by the cooperatives or the herders themselves. Most of the meat is sold within a few hundred kilometres of where the animal lived, to Lapland restaurants, to specialist butchers in Helsinki and the rest of southern Finland, and to a small but serious export market in central Europe.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "Deep dive · Cloudberry",
       "headline": "The berry nobody can farm.",
+      "imageAlt": "Tubs of fresh cloudberries for sale at Helsinki market square under a hand-written sign: fresh Lapland cloudberries",
       "p1": "Cloudberry, <em>hilla</em> in Finnish, <em>luomi</em> in North Sami, is the most prized wild berry in Lapland and the most stubbornly uncultivated of the world's significant berries. It grows only in cold, acidic, waterlogged peat bogs in a narrow band of the northern hemisphere: northern Scandinavia, Finland, parts of Russia, Alaska, and northern Canada. Inside those zones it is surprisingly common. Outside them, it does not grow.",
       "p2": "Decades of agricultural research have failed to commercialise it. Cloudberry plants are dioecious (separate male and female), grow extremely slowly, take 6–7 years to fruit even when conditions are perfect, are vulnerable to late spring frosts that destroy the year's flowers, and need a specific combination of moisture, light, and bog chemistry that has resisted greenhouse simulation. Norwegian and Finnish researchers have made progress on cultivars but commercial yields are still a fraction of wild yields. So the entire Finnish supply, for jam manufacturers, liqueur producers (Lakka), restaurant kitchens, is wild-foraged.",
       "p3": "That is why a kilo of fresh cloudberries at a Rovaniemi market in late July typically runs €25–€50, five to ten times the price of bilberries and why supply collapses if the spring frost comes a week late. It is also why cloudberry parfait is the Lapland fine-dining dessert. Every chef wants to use them while they last.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "Deep dive · Lake fish",
       "headline": "Why ice fishing produces the best fish of the year.",
+      "imageAlt": "Smoked fish with aioli on a grey stoneware plate on a sunlit pine table on a Kuusamo terrace",
       "p1": "Lapland sits on roughly 6,000 lakes, most of them clean enough to drink from on a long-distance hike. The four fish that matter on the plate are <strong>whitefish (siika)</strong>, <strong>pike (hauki)</strong>, <strong>perch (ahven)</strong>, and <strong>brown trout / Arctic char (taimen / nieriä)</strong>. All four are native, all four are caught in commercial quantity by both small fishermen and ice-fishing enthusiasts, all four show up in different forms on Lapland menus.",
       "p2": "Ice fishing, <em>pilkkiminen</em>, is more than a local hobby. It is the fishing method that produces the most flavourful Arctic lake fish of the year. Here is why: in winter, lake water is at its coldest and clearest. Fish metabolisms slow down, fat deposits firm up, and parasites die off (no warm-water vectors). The flesh of an ice-caught whitefish in February is denser, sweeter, and cleaner-tasting than the same fish caught in July. Lapland chefs schedule their menus around it.",
       "p3": "The technique itself is straightforward (auger a hole through 50–80 cm of ice, drop a small jig with a single hook, wait), but it requires temperatures often colder than −15 °C. The traditional approach was to cover the hole between visits so it did not freeze over again. Today most people use insulated tents (a small ice-fishing shelter is cheap and changes the experience completely).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "First question first",
       "headline": "What does a cloudberry taste like?",
+      "imageAlt": "A cloudberry turning from red to amber on its plant in the Kevo Strict Nature Reserve, Utsjoki",
       "answer": "A ripe cloudberry is soft, juicy and tart before it is sweet: think apricot crossed with redcurrant, finished with a faint honeyed muskiness no other berry has. The seeds are big and soft, and you eat them too. Chilled it tastes sharp; gently warmed, the apricot side opens up.",
       "p2": "Ripeness decides everything. A firm red cloudberry is unripe and mouth-puckeringly sour. When ready it turns amber, softens and pulls off the stem almost by itself, and that is the berry worth the wet feet. Pickers take the amber ones and leave the red for the next visit.",
       "p3": "You'll rarely be handed a big bowl of them fresh. The flavour is intense and the harvest small, so Lapland serves cloudberries where a spoonful counts: over warm <em>leipäjuusto</em>, Finland's squeaky bread cheese, beside vanilla ice cream, or folded into a parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "Deep dive · Cultivation",
       "headline": "Why no one can farm it.",
+      "imageAlt": "White cloudberry flowers on an open bog in early June, the frost-fragile stage that decides the harvest",
       "p1": "Agronomists have tried for decades, and the cloudberry keeps winning. The plant is dioecious, with male and female flowers on separate plants, so a patch can bloom beautifully and still set no fruit at all.",
       "p2": "It also grows extremely slowly, taking six to seven years to bear fruit even in perfect conditions, and it demands a combination of moisture, light and bog chemistry that greenhouses have not managed to reproduce.",
       "p3": "Norwegian and Finnish researchers have made real progress with cultivars, but commercial yields remain a fraction of what wild bogs give for free. So the entire Finnish supply, from jam makers to liqueur producers to restaurant kitchens, is wild-foraged.",
@@ -2019,6 +2025,7 @@
       "title": "The new",
       "titleHighlight": "Arctic kitchen.",
       "subtitle": "Modern Lapland cooking takes the ingredients the Sami have used for a thousand years (reindeer, lake fish, wild berries and herbs) and plates them with New Nordic technique. This page tells the story of how that happened, and where to taste it.",
+      "imageAlt": "Reindeer in a lingonberry and game sauce with turnip purée and porcini on a grey glass plate, restaurant table in Helsinki",
       "primaryCta": "Where to book",
       "secondaryCta": "The traditional recipes"
     },
@@ -2121,6 +2128,7 @@
       "title": "The wild",
       "titleHighlight": "larder.",
       "subtitle": "Finland's jokamiehenoikeus (everyman's right) lets anyone forage berries, mushrooms, and wild herbs across most of the country. Here are the five things to know first.",
+      "imageAlt": "A berry-stained hand beside a tub of freshly picked bilberries in a Finnish forest in July",
       "primaryCta": "Book a guided walk",
       "secondaryCta": "How these end up on the plate"
     },
@@ -2302,6 +2310,7 @@
       "title": "Eat your way",
       "titleHighlight": "around Lapland.",
       "subtitle": "Three bookable food experiences that go deeper than a tasting menu: Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner.",
+      "imageAlt": "A starter plate of hot-smoked salmon, smoked perch and cold-smoked salmon with pickled vegetables on a black plate",
       "primaryCta": "Browse all on GetYourGuide"
     },
     "intro": {

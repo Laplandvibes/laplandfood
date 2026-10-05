@@ -169,6 +169,7 @@
       "title": "Lo que crece",
       "titleHighlight": "aquí arriba.",
       "subtitle": "Seis ingredientes que definen la despensa de Laponia: de dónde vienen, cuándo están en su punto y a qué saben de verdad.",
+      "imageAlt": "Un cuenco blanco lleno de arándanos recién recogidos en el suelo del bosque entre matas de arándano",
       "primaryCta": "Guía de recolección",
       "secondaryCta": "Recetas que los usan"
     },
@@ -243,6 +244,7 @@
     "reindeerDeep": {
       "kicker": "A fondo · El reno",
       "headline": "Cómo acaba un reno en un plato de Laponia.",
+      "imageAlt": "Un reno con collar descansa sobre la grava cerca de Ylläs, con la cornamenta aún cubierta de terciopelo y una ladera de hierba detrás",
       "p1": "La industria del reno en Finlandia está regulada por la Ley de Pastoreo de Renos, que restringe la propiedad a personas domiciliadas en la zona de pastoreo (en la práctica, el norte de Finlandia). Los animales pertenecen a pastores individuales, pero pastan juntos en cooperativas, <em>paliskunnat</em>, que comparten territorio y trabajo. Hay unos 200.000 renos repartidos en aproximadamente 54 cooperativas, todas en Laponia y partes de Ostrobotnia del Norte.",
       "p2": "El rebaño es salvaje en todo salvo en la propiedad. Los renos vagan libremente por enormes extensiones de taiga y tundra sin vallar, comiendo lo que encuentran: líquenes en invierno (la dieta que da a la carne su sabor limpio y característico), hierbas y plantas en verano, brotes de setas en otoño. Los pastores siguen a sus animales en motonieve y quad, los reúnen dos veces al año para marcarlos en la oreja y (en otoño) para seleccionar los que irán al sacrificio, y luego los dejan dispersarse de nuevo.",
       "p3": "El sacrificio se hace en otoño, normalmente entre octubre y noviembre, cuando los animales están en su peso máximo. La carne pasa por los 19 mataderos de reno homologados por la UE de la zona de cría, 17 de ellos propiedad de las cooperativas o de los propios criadores. La mayor parte de la carne se vende a unos pocos cientos de kilómetros de donde vivió el animal, a restaurantes de Laponia, a carnicerías especializadas de Helsinki y del resto del sur de Finlandia, y a un mercado de exportación pequeño pero serio en Centroeuropa.",
@@ -262,6 +264,7 @@
     "cloudberryDeep": {
       "kicker": "A fondo · La mora ártica",
       "headline": "La baya que nadie puede cultivar.",
+      "imageAlt": "Envases de moras árticas frescas a la venta en la plaza del mercado de Helsinki bajo un cartel escrito a mano: moras árticas frescas de Laponia",
       "p1": "La mora ártica, <em>hilla</em> en finlandés, <em>luomi</em> en sami septentrional, es la baya silvestre más codiciada de Laponia y la más tercamente imposible de cultivar de las bayas importantes del mundo. Solo crece en turberas frías, ácidas y encharcadas, en una franja estrecha del hemisferio norte: el norte de Escandinavia, Finlandia, partes de Rusia, Alaska y el norte de Canadá. Dentro de esas zonas es sorprendentemente común. Fuera de ellas, no crece.",
       "p2": "Décadas de investigación agrícola no han logrado comercializarla. Las plantas de mora ártica son dioicas (con ejemplares macho y hembra separados), crecen muy despacio, tardan entre 6 y 7 años en dar fruto incluso en condiciones perfectas, son vulnerables a las heladas tardías de primavera que destruyen las flores del año y necesitan una combinación concreta de humedad, luz y química de turbera que se ha resistido a la simulación en invernadero. Investigadores noruegos y finlandeses han avanzado con algunos cultivares, pero los rendimientos comerciales siguen siendo una fracción de los silvestres. Así que todo el suministro finlandés, para fabricantes de mermelada, productores de licor (Lakka) y cocinas de restaurante, es de recolección silvestre.",
       "p3": "Por eso un kilo de moras árticas frescas en un mercado de Rovaniemi a finales de julio suele costar entre 25 y 50 €, de cinco a diez veces el precio de los arándanos y por eso el suministro se desploma si la helada de primavera llega una semana tarde. También es la razón por la que el parfait de mora ártica es el postre estrella de la alta cocina de Laponia. Todos los chefs quieren usarlas mientras duran.",
@@ -275,6 +278,7 @@
     "fishDeep": {
       "kicker": "A fondo · El pescado de lago",
       "headline": "Por qué la pesca en hielo da el mejor pescado del año.",
+      "imageAlt": "Pescado ahumado con alioli en un plato de gres gris sobre una mesa de pino soleada en una terraza de Kuusamo",
       "p1": "Laponia se asienta sobre unos 6.000 lagos, la mayoría lo bastante limpios como para beber de ellos en una caminata larga. Los cuatro pescados que importan en el plato son el <strong>corégono (siika)</strong>, el <strong>lucio (hauki)</strong>, la <strong>perca (ahven)</strong> y la <strong>trucha común / salvelino ártico (taimen / nieriä)</strong>. Los cuatro son autóctonos, los cuatro se capturan en cantidad comercial tanto por pequeños pescadores como por aficionados a la pesca en hielo, y los cuatro aparecen de distintas formas en los menús de Laponia.",
       "p2": "La pesca en hielo, <em>pilkkiminen</em>, es más que una afición local. Es el método de pesca que da el pescado de lago ártico más sabroso del año. La razón: en invierno el agua del lago está en su punto más frío y claro. El metabolismo de los peces se ralentiza, los depósitos de grasa se compactan y los parásitos mueren (sin vectores de aguas cálidas). La carne de un corégono pescado en el hielo en febrero es más densa, más dulce y de sabor más limpio que el mismo pescado capturado en julio. Los chefs de Laponia organizan sus menús a su alrededor.",
       "p3": "La técnica en sí es sencilla, perforas un agujero con un berbiquí a través de 50–80 cm de hielo, dejas caer una pequeña pluma con un solo anzuelo y esperas, pero requiere temperaturas a menudo por debajo de los −15 °C. Tradicionalmente se tapaba el agujero entre visitas para que no volviera a helarse. Hoy la mayoría usa tiendas aislantes (un pequeño refugio de pesca en hielo es barato y cambia la experiencia por completo).",
@@ -362,6 +366,7 @@
     "taste": {
       "kicker": "Primero lo primero",
       "headline": "¿A qué sabe la mora ártica?",
+      "imageAlt": "Una mora ártica que pasa del rojo al ámbar en su planta en la Reserva Natural Estricta de Kevo, Utsjoki",
       "answer": "Una mora ártica madura es blanda, jugosa y antes ácida que dulce: piensa en un cruce de albaricoque y grosella roja, rematado con un matiz almizclado y meloso que ninguna otra baya tiene. Las semillas son grandes y blandas, y se comen. Fría sabe punzante; templada, se abre su lado de albaricoque.",
       "p2": "La madurez lo decide todo. Una mora ártica roja y firme está verde y es agria hasta fruncir la boca. En su punto se vuelve ámbar, se ablanda y se desprende del tallo casi sola, y esa es la baya que justifica mojarse los pies. Quien recolecta toma las ámbar y deja las rojas para la próxima visita.",
       "p3": "Rara vez le pondrán delante un cuenco grande de moras frescas. El sabor es intenso y la cosecha pequeña, así que Laponia la sirve donde una cucharada cuenta: sobre <em>leipäjuusto</em> templado, el queso chirriante finlandés, junto a un helado de vainilla o convertida en parfait."
@@ -399,6 +404,7 @@
     "whyWild": {
       "kicker": "En profundidad · Cultivo",
       "headline": "Por qué nadie puede cultivarla.",
+      "imageAlt": "Flores blancas de mora ártica en una turbera abierta a principios de junio, la etapa sensible a las heladas que decide la cosecha",
       "p1": "Los agrónomos llevan décadas intentándolo y la mora ártica sigue ganando. La planta es dioica, con flores masculinas y femeninas en plantas separadas, así que una mancha puede florecer preciosa y no dar ni un solo fruto.",
       "p2": "Además crece con una lentitud extrema, tarda de seis a siete años en dar fruto incluso en condiciones perfectas, y exige una combinación de humedad, luz y química de turbera que los invernaderos no han logrado reproducir.",
       "p3": "Los investigadores noruegos y finlandeses han avanzado con variedades, pero los rendimientos comerciales siguen siendo una fracción de lo que los pantanos silvestres dan gratis. Por eso todo el suministro finlandés, de las fábricas de mermelada a los licoreros y las cocinas de restaurante, procede de la recolección silvestre.",
@@ -2019,6 +2025,7 @@
       "title": "La nueva",
       "titleHighlight": "cocina ártica.",
       "subtitle": "La cocina moderna de Laponia toma los ingredientes que los sami llevan mil años usando, reno, pescado de lago, bayas y hierbas silvestres, y los emplata con técnica New Nordic. Esta página cuenta cómo ocurrió y dónde probarlo.",
+      "imageAlt": "Reno en salsa de caza con arándanos rojos, puré de nabo y boletus en un plato de vidrio gris, mesa de restaurante en Helsinki",
       "primaryCta": "Dónde reservar",
       "secondaryCta": "Las recetas tradicionales"
     },
@@ -2121,6 +2128,7 @@
       "title": "La despensa",
       "titleHighlight": "silvestre.",
       "subtitle": "El jokamiehenoikeus finlandés (derecho de acceso a la naturaleza) permite a cualquiera recolectar bayas, setas y hierbas silvestres en la mayor parte del país. Estas son las cinco cosas que conviene saber primero.",
+      "imageAlt": "Una mano manchada de bayas junto a un recipiente de arándanos recién recogidos en un bosque finlandés en julio",
       "primaryCta": "Reservar un paseo guiado",
       "secondaryCta": "Cómo acaban en el plato"
     },
@@ -2302,6 +2310,7 @@
       "title": "Cómete",
       "titleHighlight": "Laponia.",
       "subtitle": "Tres experiencias gastronómicas reservables que van más allá de un menú degustación: cultura sami, alta cocina ártica y un paseo de recolección guiado que termina en cena.",
+      "imageAlt": "Plato de entrante con salmón ahumado en caliente, perca ahumada y salmón ahumado en frío con verduras encurtidas en un plato negro",
       "primaryCta": "Verlas todas en GetYourGuide"
     },
     "intro": {

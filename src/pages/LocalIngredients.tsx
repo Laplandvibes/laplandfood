@@ -129,7 +129,7 @@ export default function LocalIngredients() {
           imageUrl="/images/hero-ingredients.webp"
           imageSrcSet="/images/hero-ingredients-1280.webp 1280w, /images/hero-ingredients.webp 2400w"
           scrim="strong"
-          imageAlt="A white bowl full of freshly picked bilberries on the forest floor among bilberry shrubs"
+          imageAlt={t('localIngredients.hero.imageAlt')}
           primaryCta={{ label: t('localIngredients.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}
           pills={ingredients.map(i => i.name)}
@@ -188,7 +188,7 @@ export default function LocalIngredients() {
           kicker={t('localIngredients.reindeerDeep.kicker')}
           headline={t('localIngredients.reindeerDeep.headline')}
           image="/images/lead-reindeer.jpg"
-          alt="A collared reindeer resting on gravel at the edge of a birch forest near Ylläs, antlers still in velvet"
+          alt={t('localIngredients.reindeerDeep.imageAlt')}
           caption={t('localIngredients.reindeerDeep.caption')}
           credit={tc('photo.credit')}
         >
@@ -232,7 +232,7 @@ export default function LocalIngredients() {
           kicker={t('localIngredients.cloudberryDeep.kicker')}
           headline={t('localIngredients.cloudberryDeep.headline')}
           image="/images/lead-cloudberry.jpg"
-          alt="Tubs of fresh cloudberries for sale at Helsinki market square under a hand-written sign: fresh Lapland cloudberries"
+          alt={t('localIngredients.cloudberryDeep.imageAlt')}
           imageRight
         >
           <p className={LEDE}>
@@ -260,7 +260,7 @@ export default function LocalIngredients() {
           kicker={t('localIngredients.fishDeep.kicker')}
           headline={t('localIngredients.fishDeep.headline')}
           image="/images/lead-lake-fish.jpg"
-          alt="A plate of smoked fish with aioli on a grey stoneware plate on a sunlit pine table on a Kuusamo terrace"
+          alt={t('localIngredients.fishDeep.imageAlt')}
           caption={t('localIngredients.fishDeep.caption')}
           credit={tc('photo.credit')}
         >
