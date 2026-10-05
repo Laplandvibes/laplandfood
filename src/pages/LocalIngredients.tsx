@@ -15,6 +15,16 @@ import FinnishPantryAd from '../components/FinnishPantryAd';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
 
+// Umami: one event per page view when the reader starts the video. Local copy, never breaks the page.
+let videoTracked = false;
+function trackVideoPlay() {
+  if (videoTracked) return;
+  videoTracked = true;
+  try {
+    (window as unknown as { umami?: { track: (e: string, d?: object) => void } }).umami?.track('video_play', { video: 'fish-tasting' });
+  } catch { /* analytics must never break the page */ }
+}
+
 interface Ingredient { name: string; season: string; description: string; nutritional: string; uses: string }
 interface NextStep { title: string; body: string; cta: string }
 
@@ -280,6 +290,39 @@ export default function LocalIngredients() {
             {t('localIngredients.fishDeep.p4Suffix')}
           </p>
         </DeepDive>
+
+        {/* Fish taste test video: own footage, Vesa's family (Vesa 5.10.2026). Loads only on play. */}
+        <section className="bg-deep-night py-14 sm:py-20 text-white">
+          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 grid gap-10 md:grid-cols-[minmax(0,1fr)_320px] md:items-center">
+            <div>
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                {t('localIngredients.fishVideo.kicker')}
+              </p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">
+                {t('localIngredients.fishVideo.headline')}
+              </h2>
+              <p className="text-base sm:text-lg text-white/85 leading-relaxed">
+                {t('localIngredients.fishVideo.body')}
+              </p>
+            </div>
+            <figure className="mx-auto w-full max-w-[320px]">
+              <video
+                className="block w-full aspect-[9/16] rounded-2xl bg-black"
+                controls
+                playsInline
+                preload="none"
+                poster="/videos/fish-tasting.jpg"
+                aria-label={t('localIngredients.fishVideo.label')}
+                onPlay={trackVideoPlay}
+              >
+                <source src="/videos/fish-tasting.mp4" type="video/mp4" />
+              </video>
+              <figcaption className="mt-3 text-sm text-white/70 leading-snug">
+                {t('localIngredients.fishVideo.caption')}
+              </figcaption>
+            </figure>
+          </div>
+        </section>
 
         {/* Everyman's right */}
         <section className="bg-[#002F6C] py-16 sm:py-20 text-white">
