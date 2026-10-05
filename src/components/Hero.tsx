@@ -50,7 +50,7 @@ export default function Hero() {
         <source type="image/webp" srcSet="/images/hero-main.webp" />
         <img
           src="/images/hero-main.jpg"
-          alt="An overhead Lapland table: reindeer sautéed in a cast-iron pan, bowls of cloudberries, bilberries and lingonberries, a cold-smoked whitefish on birch, torn rye bread, chanterelles and juniper on pale wood and linen"
+          alt={t('hero.imageAlt')}
           loading="eager"
           decoding="async"
           fetchPriority="high"

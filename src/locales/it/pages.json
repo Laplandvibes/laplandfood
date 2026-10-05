@@ -4,6 +4,7 @@
     "h1Part1": "COME MANGIA",
     "h1Part2": "LA FINLANDIA.",
     "subhead": "Una guida sul campo alla cultura gastronomica finlandese: da dove arrivano gli ingredienti, che sapore hanno davvero le ricette e perché la scena Michelin del paese merita una deviazione.",
+    "imageAlt": "Ingredienti della Lapponia visti dall'alto su legno chiaro e lino: renna saltata in una padella di ghisa, ciotole di more artiche, mirtilli e mirtilli rossi, un pesce intero su corteccia di betulla, pane di segale, finferli e ginepro",
     "ctaPrimary": "Esplori le ricette tradizionali",
     "ctaSecondary": "Cosa cresce quassù"
   },
@@ -325,6 +326,7 @@
       "title": "Mora artica, l'oro",
       "titleHighlight": "testardo della torbiera.",
       "subtitle": "In Finlandia la chiamano hilla e i punti di raccolta si custodiscono come i codici della banca. Qui trova che sapore ha davvero, perché ogni bacca è raccolta a mano e dove la incontrerà in Lapponia.",
+      "imageAlt": "Torbiera aperta con more artiche mature color ambra in primo piano, eriofori bianchi e una pozza scura sullo sfondo",
       "primaryCta": "Impari a raccoglierla",
       "secondaryCta": "Tutti gli ingredienti della Lapponia",
       "pills": [
@@ -495,6 +497,7 @@
       "title": "Quattro bacche, una",
       "titleHighlight": "breve estate.",
       "subtitle": "Le foreste e le coste della Finlandia producono più bacche selvatiche di quante l'intero Paese potrebbe mai raccogliere. Queste quattro plasmano la cucina finlandese. Ognuna ha la sua guida.",
+      "imageAlt": "Passerelle di legno che attraversano una torbiera aperta verso un fjäll spoglio a Salla, con nuvole basse sopra",
       "primaryCta": "Legga la guida alla raccolta",
       "secondaryCta": "Tutti gli ingredienti della Lapponia"
     },
@@ -1176,6 +1179,7 @@
       "title": "Ricette",
       "titleHighlight": "sami tradizionali.",
       "subtitle": "Un'immersione profonda nel patrimonio culinario sami. Queste ricette hanno tenuto in vita le persone attraverso gli inverni artici per migliaia di anni, ciascuna porta saggezza, sapore e un legame con la terra.",
+      "imageAlt": "Un goahti innevato, la tradizionale capanna sami, tra i pini a Inari nel sole di marzo",
       "primaryCta": "Vada alle ricette",
       "secondaryCta": "Cucina moderna"
     },
@@ -2218,7 +2222,8 @@
       ],
       "p4": "<strong>I quattro funghi che un principiante può imparare a riconoscere in sicurezza</strong> in un pomeriggio con una guida sono: porcino (<em>Boletus edulis</em>), falsa spugnola (<em>Gyromitra esculenta</em>, ma <strong>solo dopo due bolliture con cambio d'acqua</strong>; molti finlandesi Le diranno che è deliziosa, molti altri Le diranno di evitarla; entrambi hanno ragione), lattario delizioso (<em>Lactarius deliciosus</em>) e galletto (<em>Cantharellus cibarius</em>). Tra questi, porcino e galletto non hanno specie simili pericolose in Finlandia e sono i punti di partenza consigliati.",
       "p5": "Se intende raccogliere funghi in Lapponia per la prima volta, lo faccia con qualcuno che già sa. Il rapporto costo-fiducia di una passeggiata guidata di 4 ore è imbattibile e in Lapponia le passeggiate sono di solito guidate da raccoglitori del posto, che questo mestiere l'hanno imparato in casa e non da un copione.",
-      "caption": "Falò a Salla, agosto 2026. Un'uscita guidata finisce di solito così."
+      "caption": "Falò a Salla, agosto 2026. Un'uscita guidata finisce di solito così.",
+      "imageAlt": "Fiamme che si alzano da ceppi di betulla in un fuoco da campo a Salla, con un bosco di abeti rossi e cielo azzurro dietro"
     },
     "calendar": {
       "kicker": "Calendario stagionale",

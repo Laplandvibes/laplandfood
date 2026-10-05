@@ -205,7 +205,7 @@ export default function ForagingGuide() {
             <div className="grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] gap-8 lg:gap-12 mt-12 items-start">
               <figure className="m-0">
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                  <img src="/images/forage-campfire.jpg" alt="Flames rising from birch logs in an iron fire bowl in Salla, spruce forest and blue sky behind" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                  <img src="/images/forage-campfire.jpg" alt={t('foragingGuide.mushroomSafety.imageAlt')} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                 </div>
                 {/* Kaksi virkettä ja krediitti ⇒ leipätekstiä: 16 px ja muste /80, ei 12–13 px /70
                     (§33, Vesa 20.9.2026). */}

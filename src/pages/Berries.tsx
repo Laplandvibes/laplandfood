@@ -86,7 +86,7 @@ export default function Berries() {
           titleHighlight={t('berries.hero.titleHighlight')}
           subtitle={t('berries.hero.subtitle')}
           imageUrl="/images/hero-berries.webp"
-          imageAlt="Wooden duckboards leading across an open mire towards a bare fell at Salla, low cloud overhead"
+          imageAlt={t('berries.hero.imageAlt')}
           primaryCta={{ label: t('berries.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('berries.hero.secondaryCta'), href: to('/local-ingredients') }}
           pills={cards.map(c => c.name)}

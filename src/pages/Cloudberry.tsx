@@ -110,7 +110,7 @@ export default function Cloudberry() {
           titleHighlight={t('cloudberry.hero.titleHighlight')}
           subtitle={t('cloudberry.hero.subtitle')}
           imageUrl="/images/hero-cloudberry.webp"
-          imageAlt="Open Lapland mire in late July: ripe amber cloudberries in the foreground, cottongrass and a dark bog pool behind"
+          imageAlt={t('cloudberry.hero.imageAlt')}
           primaryCta={{ label: t('cloudberry.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('cloudberry.hero.secondaryCta'), href: to('/local-ingredients') }}
           pills={pills}

@@ -4,6 +4,7 @@
     "h1Part1": "HOW FINLAND",
     "h1Part2": "EATS.",
     "subhead": "A field guide to Finnish food culture: where the ingredients come from, what the recipes actually taste like, and why the country's Michelin scene is worth a detour.",
+    "imageAlt": "Overhead view of Lapland ingredients on pale wood and linen: sautéed reindeer in a cast-iron pan, bowls of cloudberries, bilberries and lingonberries, a whole fish on birch bark, rye bread, chanterelles and juniper",
     "ctaPrimary": "Explore Traditional Recipes",
     "ctaSecondary": "What Grows Up Here"
   },
@@ -325,6 +326,7 @@
       "title": "Cloudberry, the bog's",
       "titleHighlight": "stubborn gold.",
       "subtitle": "Finns call it hilla and guard their picking spots like bank codes. Here is what the berry actually tastes like, why every single one is picked by hand, and where you'll meet it in Lapland.",
+      "imageAlt": "Open mire with ripe amber cloudberries in the foreground, white cottongrass and a dark bog pool behind",
       "primaryCta": "Learn to forage it",
       "secondaryCta": "All Lapland ingredients",
       "pills": [
@@ -495,6 +497,7 @@
       "title": "Four berries, one",
       "titleHighlight": "short summer.",
       "subtitle": "Finland's forests and shores produce more wild berries than the whole country could ever pick. These four are the ones that shape the Finnish kitchen. Each has its own guide.",
+      "imageAlt": "Wooden duckboards leading across an open mire towards a bare fell at Salla, low cloud overhead",
       "primaryCta": "Read the foraging guide",
       "secondaryCta": "All Lapland ingredients"
     },
@@ -1176,6 +1179,7 @@
       "title": "Traditional",
       "titleHighlight": "Sami Recipes.",
       "subtitle": "A deep dive into Sami food heritage. These recipes have sustained people through Arctic winters for thousands of years, each one carrying wisdom, flavour, and a connection to the land.",
+      "imageAlt": "A snow-covered goahti, the traditional Sámi hut, among pines in Inari in March sunshine",
       "primaryCta": "Jump to Recipes",
       "secondaryCta": "Modern Cuisine"
     },
@@ -2218,7 +2222,8 @@
       ],
       "p4": "<strong>The four mushrooms a beginner can learn to identify safely</strong> in a single afternoon with a guidebook are: porcini / cep (<em>Boletus edulis</em>), false morel (<em>Gyromitra esculenta</em>, but <strong>only after parboiling twice and discarding the water</strong>; many Finns will tell you it is delicious, many others will tell you to avoid it entirely; both are right), saffron milk cap (<em>Lactarius deliciosus</em>), and chanterelle (<em>Cantharellus cibarius</em>). Of these, porcini and chanterelle have no dangerous look-alikes in Finland and are the recommended starting points.",
       "p5": "If you are going to pick mushrooms in Lapland for the first time, do it with someone who already knows. The cost-to-confidence ratio of a 4-hour guided walk is hard to beat, and in Lapland the walks are usually led by local foragers who learned this at home rather than from a script.",
-      "caption": "A campfire in Salla, August 2026. A guided walk usually ends like this."
+      "caption": "A campfire in Salla, August 2026. A guided walk usually ends like this.",
+      "imageAlt": "Flames rising from birch logs at a campfire in Salla, spruce forest and blue sky behind"
     },
     "calendar": {
       "kicker": "Seasonal calendar",

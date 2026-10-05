@@ -129,7 +129,7 @@ export default function TraditionalRecipes() {
           imageUrl="/images/hero-recipes.jpg"
           imageSrcSet="/images/hero-recipes-1280.jpg 1280w, /images/hero-recipes.jpg 2400w"
           scrim="strong"
-          imageAlt="A snow-covered goahti, the traditional Sámi hut, among pines in Inari in March sunshine"
+          imageAlt={t('traditionalRecipes.hero.imageAlt')}
           primaryCta={{ label: t('traditionalRecipes.hero.primaryCta'), href: `${to('/traditional-recipes')}#recipes` }}
           secondaryCta={{ label: t('traditionalRecipes.hero.secondaryCta'), href: to('/modern-lapland') }}
           pills={recipes.map(r => r.name)}

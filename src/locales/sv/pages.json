@@ -4,6 +4,7 @@
     "h1Part1": "SÅ ÄTER",
     "h1Part2": "FINLAND.",
     "subhead": "En fältguide till finsk matkultur: var råvarorna kommer ifrån, hur recepten faktiskt smakar och varför landets Michelin-scen är värd en omväg.",
+    "imageAlt": "Lappländska råvaror ovanifrån på ljust trä och linne: renskav i en gjutjärnspanna, skålar med hjortron, blåbär och lingon, en hel fisk på näver, rågbröd, kantareller och enris",
     "ctaPrimary": "Utforska traditionella recept",
     "ctaSecondary": "Vad som växer här uppe"
   },
@@ -325,6 +326,7 @@
       "title": "Hjortron, myrens",
       "titleHighlight": "envisa guld.",
       "subtitle": "I Finland vaktas hjortronställena som bankkoder. Här får du veta hur bäret faktiskt smakar, varför vartenda ett plockas för hand och var du möter det i Lappland.",
+      "imageAlt": "Öppen myr med mogna bärnstensfärgade hjortron i förgrunden, vit ängsull och en mörk myrgöl bakom",
       "primaryCta": "Lär dig plocka",
       "secondaryCta": "Alla Lapplands råvaror",
       "pills": [
@@ -495,6 +497,7 @@
       "title": "Fyra bär, en",
       "titleHighlight": "kort sommar.",
       "subtitle": "Finlands skogar och stränder ger fler vilda bär än hela landet någonsin skulle hinna plocka. De här fyra formar det finska köket. Vart och ett har sin egen guide.",
+      "imageAlt": "Spänger över en öppen myr mot ett kalt fjäll i Salla, låga moln ovanför",
       "primaryCta": "Läs plockguiden",
       "secondaryCta": "Alla Lapplands råvaror"
     },
@@ -1176,6 +1179,7 @@
       "title": "Traditionella",
       "titleHighlight": "samiska recept.",
       "subtitle": "En fördjupning i det samiska matarvet. De här recepten har försörjt människor genom arktiska vintrar i tusentals år, vart och ett bär på kunskap, smak och en koppling till landet.",
+      "imageAlt": "En snötäckt kåta, den traditionella samiska hyddan, bland tallar i Enare i marssol",
       "primaryCta": "Hoppa till recepten",
       "secondaryCta": "Modernt kök"
     },
@@ -2218,7 +2222,8 @@
       ],
       "p4": "<strong>De fyra svampar en nybörjare kan lära sig känna igen säkert</strong> på en enda eftermiddag med en svampbok är: karljohan (<em>Boletus edulis</em>), stenmurkla (<em>Gyromitra esculenta</em>, men <strong>bara efter förvällning två gånger med bortkastat kokvatten</strong>; många finländare säger att den är utsökt, många andra säger att man ska undvika den helt; båda har rätt), läcker riska (<em>Lactarius deliciosus</em>) och kantarell (<em>Cantharellus cibarius</em>). Av dessa har karljohan och kantarell inga farliga lookalikes i Finland och är de rekommenderade utgångspunkterna.",
       "p5": "Ska du plocka svamp i Lappland för första gången, gör det med någon som redan kan. En 4-timmars guidad vandrings förhållande mellan kostnad och trygghet är oslagbart, och i Lappland leds vandringarna oftast av lokala plockare som lärt sig detta hemma, inte ur ett manus.",
-      "caption": "Lägereld i Salla, augusti 2026. Så slutar en guidad tur oftast."
+      "caption": "Lägereld i Salla, augusti 2026. Så slutar en guidad tur oftast.",
+      "imageAlt": "Lågor stiger ur björkved i en lägereld i Salla, granskog och blå himmel bakom"
     },
     "calendar": {
       "kicker": "Säsongskalender",

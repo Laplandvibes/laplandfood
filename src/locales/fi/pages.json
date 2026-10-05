@@ -4,6 +4,7 @@
     "h1Part1": "Pohjoisen puhtaat",
     "h1Part2": "maut.",
     "subhead": "Kenttäopas suomalaiseen ruokakulttuuriin, mistä raaka-aineet tulevat, miltä reseptit oikeasti maistuvat ja miksi Suomen Michelin-skene on kiertotien arvoinen.",
+    "imageAlt": "Lapin raaka-aineita ylhäältä kuvattuna vaalealla puulla ja pellavalla: poronkäristystä valurautapannussa, kulhoissa lakkaa, mustikkaa ja puolukkaa, kokonainen kala tuohen päällä, ruisleipää, kantarelleja ja katajaa",
     "ctaPrimary": "Selaa perinnereseptejä",
     "ctaSecondary": "Mitä täällä kasvaa"
   },
@@ -326,6 +327,7 @@
       "title": "Hilla, suon",
       "titleHighlight": "itsepäinen kulta.",
       "subtitle": "Hillapaikkoja varjellaan Suomessa kuin pankkitunnuksia. Tällä sivulla kerromme, miltä marja oikeasti maistuu, miksi jokainen hilla poimitaan käsin ja missä sen kohtaa Lapissa.",
+      "imageAlt": "Avoin suo: etualalla kypsiä meripihkanvärisiä lakkoja, takana valkoista tupasvillaa ja tumma suolampi",
       "primaryCta": "Opettele keräämään",
       "secondaryCta": "Kaikki Lapin raaka-aineet",
       "pills": [
@@ -496,6 +498,7 @@
       "title": "Neljä marjaa, yksi",
       "titleHighlight": "lyhyt kesä.",
       "subtitle": "Suomen metsät ja rannat tuottavat enemmän villimarjoja kuin koko maa ehtisi koskaan poimia. Nämä neljä muovaavat suomalaisen keittiön. Jokaisella on oma oppaansa.",
+      "imageAlt": "Pitkospuut johtavat avoimen suon poikki kohti paljasta tunturia Sallassa, yllä matala pilvipeite",
       "primaryCta": "Lue keräilyopas",
       "secondaryCta": "Kaikki Lapin raaka-aineet"
     },
@@ -1177,6 +1180,7 @@
       "title": "Saamelaiset",
       "titleHighlight": "perinnereseptit.",
       "subtitle": "Saamelainen ruokakulttuuri pohjautuu siihen mitä metsä, järvi ja tunturi antavat. Nämä reseptit ovat pitäneet ihmiset elossa arktisten talvien läpi.",
+      "imageAlt": "Lumen peittämä kota, saamelaisten perinteinen asumus, mäntyjen keskellä Inarissa maaliskuun auringossa",
       "primaryCta": "Hyppää resepteihin",
       "secondaryCta": "Moderni keittiö"
     },
@@ -2219,7 +2223,8 @@
       ],
       "p4": "<strong>Neljä sientä, jotka aloittelija voi oppia tunnistamaan turvallisesti</strong> yhden iltapäivän aikana opaskirjalla, ovat: herkkutatti (<em>Boletus edulis</em>), korvasieni (<em>Gyromitra esculenta</em>, mutta <strong>vain kahdesti esikeitettynä ja vesi heitettynä pois</strong>; monet suomalaiset sanovat sen olevan herkullinen, monet toiset välttävät sitä kokonaan; molemmat ovat oikeassa), männynleppärousku (<em>Lactarius deliciosus</em>) ja kantarelli (<em>Cantharellus cibarius</em>). Näistä herkkutatilla ja kantarellilla ei ole vaarallisia lähilajeja Suomessa, ja ne ovat suositeltuja aloitus­kohteita.",
       "p5": "Jos olet poimimassa sieniä Lapissa ensimmäistä kertaa, tee se jonkun kanssa, joka osaa jo. 4 tunnin opastetun retken hinta-hyötysuhde on lyömätön, ja Lapissa retkiä vetävät tyypillisesti paikalliset keräilijät, jotka ovat oppineet tämän kotona eivätkä käsikirjoituksesta.",
-      "caption": "Nuotio Sallassa, elokuu 2026. Opastettu retki päättyy yleensä tähän."
+      "caption": "Nuotio Sallassa, elokuu 2026. Opastettu retki päättyy yleensä tähän.",
+      "imageAlt": "Liekit nousevat koivuhaloista nuotiolla Sallassa, taustalla kuusimetsää ja sininen taivas"
     },
     "calendar": {
       "kicker": "Vuoden­aikakalenteri",

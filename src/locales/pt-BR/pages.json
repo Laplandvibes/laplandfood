@@ -4,6 +4,7 @@
     "h1Part1": "COMO A FINLÂNDIA",
     "h1Part2": "COME.",
     "subhead": "Um guia de campo da cultura gastronômica finlandesa: de onde vêm os ingredientes, qual é o sabor real das receitas e por que a cena Michelin do país vale o desvio.",
+    "imageAlt": "Ingredientes da Lapônia vistos de cima sobre madeira clara e linho: rena salteada em uma frigideira de ferro fundido, tigelas de amoras-árticas, mirtilos e airelas-vermelhas, um peixe inteiro sobre casca de bétula, pão de centeio, cantarelos e zimbro",
     "ctaPrimary": "Conhecer as receitas tradicionais",
     "ctaSecondary": "O que cresce aqui em cima"
   },
@@ -325,6 +326,7 @@
       "title": "Amora ártica, o ouro",
       "titleHighlight": "teimoso do pântano.",
       "subtitle": "Na Finlândia ela se chama hilla, e os pontos de colheita são guardados como senha de banco. Aqui você descobre o gosto de verdade, por que cada fruta é colhida à mão e onde encontrá-la na Lapônia.",
+      "imageAlt": "Brejo aberto com amoras-árticas maduras cor de âmbar em primeiro plano, algodão-do-brejo branco e uma poça escura ao fundo",
       "primaryCta": "Aprenda a colher",
       "secondaryCta": "Todos os ingredientes da Lapônia",
       "pills": [
@@ -495,6 +497,7 @@
       "title": "Quatro frutas, um",
       "titleHighlight": "verão curto.",
       "subtitle": "As florestas e os litorais da Finlândia produzem mais frutas silvestres do que o país inteiro conseguiria colher. Estas quatro moldam a cozinha finlandesa. Cada uma tem seu próprio guia.",
+      "imageAlt": "Passarelas de madeira atravessam um brejo aberto rumo a um monte descampado em Salla, com nuvens baixas acima",
       "primaryCta": "Leia o guia de coleta",
       "secondaryCta": "Todos os ingredientes da Lapônia"
     },
@@ -1176,6 +1179,7 @@
       "title": "Receitas",
       "titleHighlight": "sámi tradicionais.",
       "subtitle": "Um mergulho na herança gastronômica sámi. Estas receitas sustentaram as pessoas pelos invernos árticos por milhares de anos, cada uma carrega sabedoria, sabor e uma ligação com a terra.",
+      "imageAlt": "Um goahti coberto de neve, a cabana tradicional sámi, entre pinheiros em Inari sob o sol de março",
       "primaryCta": "Ir para as receitas",
       "secondaryCta": "Cozinha moderna"
     },
@@ -2218,7 +2222,8 @@
       ],
       "p4": "<strong>Os quatro cogumelos que um iniciante pode aprender a identificar com segurança</strong> em uma única tarde com um guia são: o boleto / cep (<em>Boletus edulis</em>), a falsa-morchela (<em>Gyromitra esculenta</em>, mas <strong>somente após escaldar duas vezes e descartar a água</strong>; muitos finlandeses vão dizer que é deliciosa, muitos outros vão dizer para evitá-la por completo; ambos têm razão), o lactário-delicioso (<em>Lactarius deliciosus</em>) e o cantarelo (<em>Cantharellus cibarius</em>). Desses, o boleto e o cantarelo não têm parentes perigosos na Finlândia e são os pontos de partida recomendados.",
       "p5": "Se você vai colher cogumelos na Lapônia pela primeira vez, faça isso com alguém que já saiba. A relação custo-confiança de uma caminhada guiada de 4 horas é imbatível, e na Lapônia as caminhadas costumam ser conduzidas por coletores locais que aprenderam isso em casa, não em um roteiro.",
-      "caption": "Fogueira em Salla, agosto de 2026. É assim que um passeio guiado costuma terminar."
+      "caption": "Fogueira em Salla, agosto de 2026. É assim que um passeio guiado costuma terminar.",
+      "imageAlt": "Chamas sobem de toras de bétula em uma fogueira em Salla, com floresta de abetos e céu azul ao fundo"
     },
     "calendar": {
       "kicker": "Calendário sazonal",

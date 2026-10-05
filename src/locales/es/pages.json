@@ -4,6 +4,7 @@
     "h1Part1": "CÓMO COME",
     "h1Part2": "FINLANDIA.",
     "subhead": "Una guía de campo de la cultura gastronómica finlandesa: de dónde vienen los ingredientes, a qué saben realmente las recetas y por qué la escena Michelin del país merece un desvío.",
+    "imageAlt": "Ingredientes de Laponia vistos desde arriba sobre madera clara y lino: reno salteado en una sartén de hierro fundido, cuencos de moras árticas, arándanos y arándanos rojos, un pescado entero sobre corteza de abedul, pan de centeno, rebozuelos y enebro",
     "ctaPrimary": "Descubrir las recetas tradicionales",
     "ctaSecondary": "Lo que crece aquí arriba"
   },
@@ -325,6 +326,7 @@
       "title": "Mora ártica, el oro",
       "titleHighlight": "terco del pantano.",
       "subtitle": "En Finlandia la llaman hilla y los lugares donde crece se guardan como claves del banco. Aquí tiene a qué sabe de verdad, por qué cada una se recoge a mano y dónde la encontrará en Laponia.",
+      "imageAlt": "Turbera abierta con moras árticas maduras de color ámbar en primer plano, algodón de pantano blanco y una charca oscura detrás",
       "primaryCta": "Aprenda a recolectarla",
       "secondaryCta": "Todos los ingredientes de Laponia",
       "pills": [
@@ -495,6 +497,7 @@
       "title": "Cuatro bayas, un",
       "titleHighlight": "verano corto.",
       "subtitle": "Los bosques y las costas de Finlandia producen más bayas silvestres de las que el país entero podría recoger jamás. Estas cuatro dan forma a la cocina finlandesa. Cada una tiene su propia guía.",
+      "imageAlt": "Pasarelas de madera que cruzan una turbera abierta hacia un fjäll pelado en Salla, con nubes bajas encima",
       "primaryCta": "Leer la guía de recolección",
       "secondaryCta": "Todos los ingredientes de Laponia"
     },
@@ -1176,6 +1179,7 @@
       "title": "Recetas",
       "titleHighlight": "tradicionales samis.",
       "subtitle": "Una inmersión en la herencia gastronómica sami. Estas recetas han sustentado a la gente a través de los inviernos árticos durante miles de años, cada una carga sabiduría, sabor y una conexión con la tierra.",
+      "imageAlt": "Un goahti cubierto de nieve, la cabaña tradicional sami, entre pinos en Inari bajo el sol de marzo",
       "primaryCta": "Ir a las recetas",
       "secondaryCta": "Cocina moderna"
     },
@@ -2218,7 +2222,8 @@
       ],
       "p4": "<strong>Las cuatro setas que un principiante puede aprender a identificar con seguridad</strong> en una sola tarde con una guía son: el boletus / cep (<em>Boletus edulis</em>), la falsa colmenilla (<em>Gyromitra esculenta</em>, pero <strong>solo tras escaldarla dos veces y desechar el agua</strong>; muchos finlandeses le dirán que está deliciosa, muchos otros le dirán que la evite por completo; ambos tienen razón), el níscalo (<em>Lactarius deliciosus</em>) y el rebozuelo (<em>Cantharellus cibarius</em>). De estas, el boletus y el rebozuelo no tienen parientes peligrosos en Finlandia y son los puntos de partida recomendados.",
       "p5": "Si va a recoger setas en Laponia por primera vez, hágalo con alguien que ya sepa. La relación coste-confianza de un paseo guiado de 4 horas es imbatible, y en Laponia los paseos suelen dirigirlos recolectores locales que aprendieron esto en casa, no de un guion.",
-      "caption": "Hoguera en Salla, agosto de 2026. Así suele terminar una salida guiada."
+      "caption": "Hoguera en Salla, agosto de 2026. Así suele terminar una salida guiada.",
+      "imageAlt": "Llamas que se elevan de troncos de abedul en una fogata en Salla, con un bosque de piceas y cielo azul detrás"
     },
     "calendar": {
       "kicker": "Calendario de temporada",

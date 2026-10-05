@@ -4,6 +4,7 @@
     "h1Part1": "WIE FINNLAND",
     "h1Part2": "ISST.",
     "subhead": "Ein Feldführer durch Finnlands Esskultur – woher die Zutaten kommen, wie die Rezepte wirklich schmecken und warum Finnlands Michelin-Szene einen Umweg wert ist.",
+    "imageAlt": "Zutaten aus Lappland von oben auf hellem Holz und Leinen: gebratenes Rentier in einer gusseisernen Pfanne, Schalen mit Moltebeeren, Heidelbeeren und Preiselbeeren, ein ganzer Fisch auf Birkenrinde, Roggenbrot, Pfifferlinge und Wacholder",
     "ctaPrimary": "Traditionelle Rezepte entdecken",
     "ctaSecondary": "Was hier wächst"
   },
@@ -326,6 +327,7 @@
       "title": "Moltebeere, das sture",
       "titleHighlight": "Gold des Moores.",
       "subtitle": "In Finnland hütet man seine Moltebeerstellen wie Bankdaten. Hier lesen Sie, wie die Beere wirklich schmeckt, warum jede einzelne von Hand gepflückt wird und wo sie Ihnen in Lappland begegnet.",
+      "imageAlt": "Offenes Moor mit reifen, bernsteinfarbenen Moltebeeren im Vordergrund, dahinter weißes Wollgras und ein dunkler Moortümpel",
       "primaryCta": "Sammeln lernen",
       "secondaryCta": "Alle Zutaten Lapplands",
       "pills": [
@@ -496,6 +498,7 @@
       "title": "Vier Beeren, ein",
       "titleHighlight": "kurzer Sommer.",
       "subtitle": "Finnlands Wälder und Küsten tragen mehr wilde Beeren, als das ganze Land je pflücken könnte. Diese vier prägen die finnische Küche. Jede hat ihren eigenen Guide.",
+      "imageAlt": "Holzstege über ein offenes Moor zu einem kahlen Fjäll in Salla, darüber tiefe Wolken",
       "primaryCta": "Zum Sammel-Guide",
       "secondaryCta": "Alle Zutaten Lapplands"
     },
@@ -1177,6 +1180,7 @@
       "title": "Traditionelle",
       "titleHighlight": "Sámi-Rezepte.",
       "subtitle": "Ein Eintauchen in die Sámi-Esskultur. Diese Rezepte haben Menschen über Tausende von Jahren durch die arktischen Winter genährt, jedes von ihnen trägt Weisheit, Geschmack und Verbundenheit zum Land in sich.",
+      "imageAlt": "Eine verschneite Kota, die traditionelle samische Hütte, zwischen Kiefern in Inari in der Märzsonne",
       "primaryCta": "Direkt zu den Rezepten",
       "secondaryCta": "Moderne Küche"
     },
@@ -2219,7 +2223,8 @@
       ],
       "p4": "<strong>Vier Pilze, die ein Anfänger sicher bestimmen lernen kann</strong>, an einem Nachmittag mit dem Bestimmungsbuch, sind: Steinpilz (<em>Boletus edulis</em>), Frühjahrslorchel (<em>Gyromitra esculenta</em>, aber <strong>nur zweimal vorgekocht, das Wasser jeweils weggegossen</strong>; viele Finnen halten sie für köstlich, viele andere meiden sie ganz; beide haben recht), Edelreizker (<em>Lactarius deliciosus</em>) und Pfifferling (<em>Cantharellus cibarius</em>). Von diesen vieren haben nur Steinpilz und Pfifferling in Finnland keine gefährlichen Verwechslungsarten; sie sind die empfohlenen Einstiegspilze.",
       "p5": "Wenn Sie zum ersten Mal in Lappland Pilze sammeln, tun Sie es mit jemandem, der sich auskennt. Das Kosten-Nutzen-Verhältnis einer geführten 4-Stunden-Tour ist unschlagbar, und in Lappland werden die Touren meist von einheimischen Sammlern geführt, die das zu Hause gelernt haben und nicht aus einem Skript.",
-      "caption": "Lagerfeuer in Salla, August 2026. So endet eine geführte Wanderung meistens."
+      "caption": "Lagerfeuer in Salla, August 2026. So endet eine geführte Wanderung meistens.",
+      "imageAlt": "Flammen steigen von Birkenscheiten an einer Feuerstelle in Salla auf, dahinter Fichtenwald und blauer Himmel"
     },
     "calendar": {
       "kicker": "Saisonkalender",
