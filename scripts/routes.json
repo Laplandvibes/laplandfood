@@ -13,7 +13,7 @@
     "jsonKey": "localIngredients",
     "ogImage": "/og/local-ingredients.jpg",
     "ogCard": {
-      "hero": "/images/hero-ingredients.webp",
+      "hero": "/images/forage-mushrooms.jpg",
       "line": "Reindeer, berries, fish, wild herbs"
     }
   },
@@ -192,7 +192,7 @@
     "jsonKey": "modernLapland",
     "ogImage": "/og/modern-lapland.jpg",
     "ogCard": {
-      "hero": "/images/hero-modern.jpg",
+      "hero": "/images/card-modern.jpg",
       "line": "New Nordic, cooked above the Circle"
     }
   },
@@ -201,7 +201,7 @@
     "jsonKey": "foragingGuide",
     "ogImage": "/og/foraging-guide.jpg",
     "ogCard": {
-      "hero": "/images/hero-foraging.jpg",
+      "hero": "/images/card-foraging.jpg",
       "line": "What to pick, and when it is legal"
     }
   },
@@ -210,7 +210,7 @@
     "jsonKey": "foodTours",
     "ogImage": "/og/food-tours.jpg",
     "ogCard": {
-      "hero": "/images/hero-tours.jpg",
+      "hero": "/images/gyg-food-drinks.jpg",
       "line": "Food experiences worth booking"
     }
   },

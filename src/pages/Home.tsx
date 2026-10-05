@@ -6,6 +6,8 @@ import { useTranslation } from 'react-i18next';
 import SEO from '../components/SEO';
 import Nav from '../components/Nav';
 import Hero from '../components/Hero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SisterSiteCTAs from '../components/SisterSiteCTAs';
@@ -66,6 +68,7 @@ const buildHomeSchema = (faqItems: FAQItem[]) => ({
 
 export default function Home() {
   const { t } = useTranslation('pages');
+  const { t: tc } = useTranslation('common');
   const { to, locale } = useLocale();
   const kulttuuriOtsikko = riveiksi(t('home.cultureHeadline'), locale, (s) => bebasEm(s, 0.025));
   const pillars = (t('home.pillars', { returnObjects: true }) as Pillar[]) || [];
@@ -232,8 +235,10 @@ export default function Home() {
 
         {/* Culture */}
         <section className="relative bg-[#002F6C] py-20 sm:py-24 text-white overflow-hidden">
-          <img src="/images/culture-band.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-70" />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/40 via-[#002F6C]/35 to-[#001F4A]/60" />
+          <img src="/images/culture-band.jpg" alt="" aria-hidden="true" loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover opacity-50" />
+          {/* 4.10.2026: tausta on nyt aito valokuva (vaalea mustikanvarvikko, CC0) — kuva .70 → .50 ja verho
+              tummemmaksi, jotta #F9A8D4-yläotsake pysyy ≥ 4,5:1 (korttiteksti-portti mittasi 2,25:1). */}
+          <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/60 via-[#002F6C]/55 to-[#001F4A]/70" />
           <div className="relative max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             {/* lg+: otsikon palsta 1024 px (ennen 768) ja otsikko kahdelle riville lauseen rakenteesta, koko pidemmän
                 rivin mukaan. 768 px:ssä fi/ja olivat kolmella rivillä (Vesa 3.10.2026). Ingressi pysyy 768 px:ssä. */}
@@ -291,6 +296,8 @@ export default function Home() {
               />
             </picture>
             <div className="absolute inset-0 bg-gradient-to-t from-[#5C2E0B]/75 via-[#B45309]/30 to-[#7C2D12]/55" />
+            {/* 4.10.2026: aito keskiyön aurinko Keminmaasta (CC BY-SA 4.0) — tekijä kaistan kulmaan. */}
+            <PhotoCredit credit={creditFor('/images/midnight-sun-band.webp')} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
             <div className="relative max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
               <p className="text-white/90 text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('home.summer.kicker')}

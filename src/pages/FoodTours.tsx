@@ -4,6 +4,8 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
@@ -29,6 +31,7 @@ const TOUR_META = [
 
 export default function FoodTours() {
   const { t } = useTranslation('pages');
+  const { t: tc } = useTranslation('common');
   const { locale } = useLocale();
   const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all', locale);
   const tours = (t('foodTours.tours', { returnObjects: true }) as Tour[]) || [];
@@ -41,14 +44,18 @@ export default function FoodTours() {
         {/* 🔴 hero-tours oli nuotiolla kiehuva KAHVIPANNU ja kaksi kättä, vaikka
             otsikko lupaa "syö tiesi Lappiin" (Vesa 2026-08-10: "syö tie lappiin
             ja kuvassa on kahvipannu?"). Sama tiedostonimi, uusi kuva: katettu
-            retkipöytä — savusiikaa, poroa, hillaa, ruisleipää, pata. */}
+            retkipöytä — savusiikaa, poroa, hillaa, ruisleipää, pata.
+            4.10.2026: tekoälykuva vaihdettu aitoon valokuvaan (Commons, kalalautanen
+            savulohta ja -ahventa) — ruoka, ei kahvia, Vesan 10.8. palautteen mukaan. */}
         <PageHero
           eyebrow={t('foodTours.hero.eyebrow')}
           title={t('foodTours.hero.title')}
           titleHighlight={t('foodTours.hero.titleHighlight')}
           subtitle={t('foodTours.hero.subtitle')}
           imageUrl="/images/hero-tours.jpg"
-          imageAlt="A long wooden table at the forest edge set with cold-smoked whitefish, thin-sliced reindeer, cloudberries, rye bread and a steaming pot of stew, a lavvu tent behind"
+          imageSrcSet="/images/hero-tours-1280.jpg 1280w, /images/hero-tours.jpg 2400w"
+          scrim="strong"
+          imageAlt="A starter plate of hot-smoked salmon, smoked perch and cold-smoked salmon with pickled vegetables on a black plate"
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true, rel: 'sponsored nofollow noopener' }}
           pills={tours.map(tour => tour.location)}
           pillHrefs={tours.map((_, i) => `#tour-${i}`)}
@@ -80,6 +87,7 @@ export default function FoodTours() {
                   <article key={tour.name} id={`tour-${i}`} className="scroll-mt-24 group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                       <img src={meta.image} alt={tour.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                      <PhotoCredit credit={creditFor(meta.image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
                       <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                       <div className="absolute bottom-4 left-5 right-5">
                         <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">

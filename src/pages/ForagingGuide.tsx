@@ -48,7 +48,9 @@ export default function ForagingGuide() {
           titleHighlight={t('foragingGuide.hero.titleHighlight')}
           subtitle={t('foragingGuide.hero.subtitle')}
           imageUrl="/images/hero-foraging.jpg"
-          imageAlt="Hand picking ripe cloudberries from a low Arctic bog, soft midnight-sun light from low on the horizon"
+          imageSrcSet="/images/hero-foraging-1280.jpg 1280w, /images/hero-foraging.jpg 2400w"
+          scrim="strong"
+          imageAlt="A berry-stained hand beside a tub of freshly picked bilberries in a Finnish forest in July"
           primaryCta={{ label: t('foragingGuide.hero.primaryCta'), href: to('/food-tours') }}
           secondaryCta={{ label: t('foragingGuide.hero.secondaryCta'), href: to('/local-ingredients') }}
           pills={items.map(it => it.name)}

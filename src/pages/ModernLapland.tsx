@@ -5,6 +5,8 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
+import PhotoCredit from '../components/PhotoCredit';
+import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
@@ -34,6 +36,7 @@ const TECH_IMAGES = [
 
 export default function ModernLapland() {
   const { t } = useTranslation('pages');
+  const { t: tc } = useTranslation('common');
   const { to } = useLocale();
   const dishes = (t('modernLapland.dishes', { returnObjects: true }) as Dish[]) || [];
   const techniques = (t('modernLapland.techniques.items', { returnObjects: true }) as TechItem[]) || [];
@@ -49,7 +52,9 @@ export default function ModernLapland() {
           titleHighlight={t('modernLapland.hero.titleHighlight')}
           subtitle={t('modernLapland.hero.subtitle')}
           imageUrl="/images/hero-modern.jpg"
-          imageAlt="Plated tasting-menu dish of pink-cooked reindeer, foraged herbs, and bilberry reduction on a slate plate"
+          imageSrcSet="/images/hero-modern-1280.jpg 1280w, /images/hero-modern.jpg 2400w"
+          scrim="strong"
+          imageAlt="Reindeer in a lingonberry and game sauce with turnip purée and porcini on a grey glass plate, restaurant table in Helsinki"
           primaryCta={{ label: t('modernLapland.hero.primaryCta'), href: to('/michelin-dining') }}
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}
           pills={techniques.map(item => item.title)}
@@ -74,6 +79,7 @@ export default function ModernLapland() {
                 <article key={d.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={DISH_IMAGES[i]} alt={d.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(DISH_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-4 left-5 right-5">
                       <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">
@@ -129,6 +135,7 @@ export default function ModernLapland() {
                 <div key={tech.title} id={`technique-${idx}`} className={`scroll-mt-24 rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden ${idx === techniques.length - 1 && techniques.length % 2 === 1 ? 'md:col-span-2' : ''}`}>
                   <div className="relative h-40 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={TECH_IMAGES[idx]} alt={tech.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(TECH_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.08) 60%)' }} />
                     <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-2xl text-white leading-tight">{tech.title}</h3>
                   </div>

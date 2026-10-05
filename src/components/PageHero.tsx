@@ -89,7 +89,7 @@ export default function PageHero({
       />
       {/* Below lg the text is centred, so use an even scrim; from lg the left
           scrim keeps the left-aligned H1 legible while the photo shows right. */}
-      <div className={`absolute inset-0 lg:hidden ${scrim === 'strong' ? 'bg-[#001F4A]/50' : 'bg-[#001F4A]/40'}`} />
+      <div className={`absolute inset-0 lg:hidden ${scrim === 'strong' ? 'bg-[#001F4A]/60' : 'bg-[#001F4A]/40'}`} />
       <div className={`absolute inset-0 hidden lg:block bg-gradient-to-r ${scrim === 'strong' ? 'from-[#001F4A]/72 via-[#002F6C]/34 to-[#002F6C]/10' : 'from-[#001F4A]/58 via-[#002F6C]/16 to-transparent'}`} />
       <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/26 to-transparent" />
       {/* Avoimen lisenssin kuvan tekijä + lisenssi piirtyy automaattisesti polun

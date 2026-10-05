@@ -46,6 +46,7 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, caption, credit
   n: string; kicker: string; headline: string; image: string; alt: string;
   imageRight?: boolean; caption?: string; credit?: string; children: ReactNode;
 }) {
+  const { t: tc } = useTranslation('common');
   return (
     <section className={imageRight ? 'bg-white py-16 sm:py-20' : 'bg-[#F8FAFC] py-16 sm:py-20'}>
       <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
@@ -61,6 +62,7 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, caption, credit
             <div className="lg:sticky lg:top-24">
               <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                 <img src={image} alt={alt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
               </div>
               {/* 14.9.2026: poro- ja kalaosion kuvat ovat omia valokuvia (Ylläs
                   21.7., Kuusamo 16.7.). Kuvateksti kertoo paikan ja ajan — se on
@@ -125,7 +127,9 @@ export default function LocalIngredients() {
           titleHighlight={t('localIngredients.hero.titleHighlight')}
           subtitle={t('localIngredients.hero.subtitle')}
           imageUrl="/images/hero-ingredients.webp"
-          imageAlt="Foraged cloudberries, lingonberries, and wild mushrooms arranged on rough birch wood at the edge of an Arctic forest"
+          imageSrcSet="/images/hero-ingredients-1280.webp 1280w, /images/hero-ingredients.webp 2400w"
+          scrim="strong"
+          imageAlt="A white bowl full of freshly picked bilberries on the forest floor among bilberry shrubs"
           primaryCta={{ label: t('localIngredients.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}
           pills={ingredients.map(i => i.name)}
@@ -228,7 +232,7 @@ export default function LocalIngredients() {
           kicker={t('localIngredients.cloudberryDeep.kicker')}
           headline={t('localIngredients.cloudberryDeep.headline')}
           image="/images/lead-cloudberry.jpg"
-          alt="Ripe amber cloudberries on low stems in an open mire, the only place the plant fruits"
+          alt="Tubs of fresh cloudberries for sale at Helsinki market square under a hand-written sign: fresh Lapland cloudberries"
           imageRight
         >
           <p className={LEDE}>

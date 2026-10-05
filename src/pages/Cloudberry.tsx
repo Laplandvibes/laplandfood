@@ -197,7 +197,7 @@ export default function Cloudberry() {
           kicker={t('cloudberry.whyWild.kicker')}
           headline={t('cloudberry.whyWild.headline')}
           image="/images/cloudberry-flowers.webp"
-          alt="White cloudberry flowers scattered across a misty Lapland bog in early summer, the frost-fragile stage that decides the harvest"
+          alt="White cloudberry flowers on an open bog in early June, the frost-fragile stage that decides the harvest"
           imageRight
         >
           <p className={LEDE}>{t('cloudberry.whyWild.p1')}</p>
