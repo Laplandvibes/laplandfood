@@ -47,7 +47,9 @@ export default function About() {
           <div className="absolute inset-0 bg-[#001F4A]/55" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/50 to-transparent" />
           <div className="relative z-10 max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 py-14 sm:py-16 text-center lg:text-left">
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 drop-shadow-[0_2px_12px_rgba(0,15,40,0.9)]">
+            {/* Yläotsake sinisellä laatalla kuten PageHerossa (18.9.2026): pinkki suoraan
+                kuvan päällä oli 5.10. uudella kuvalla alle 3:1 98 %:lla pikseleistä (375 px). */}
+            <p className="inline-block max-w-full rounded-2xl sm:rounded-full bg-[#001F4A] px-3.5 py-1.5 leading-snug text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
               {t('about.hero.kicker')}
             </p>
             <h1 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl mb-5 leading-[1.05] drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">

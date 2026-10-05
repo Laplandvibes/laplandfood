@@ -109,17 +109,26 @@ export default function PageHero({
             {eyebrow}
           </p>
         )}
-        <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.95] mb-6 max-w-4xl drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">
-          {title}{' '}
-          {titleHighlight && (
-            <span className="text-vibe-pink drop-shadow-[0_0_30px_rgba(236,72,153,0.55)]">
-              {titleHighlight}
-            </span>
-          )}
-        </h1>
-        <p className="text-base sm:text-lg md:text-xl text-white/95 max-w-3xl mb-6 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,15,40,0.85)]">
-          {subtitle}
-        </p>
+        {/* 🔴 Tummennus vain otsikon ja ingressin taakse (5.10.2026). h1:n pinkki korostusrivi
+            (L≈0,25) vaatii 3:1:een taustan L ≤ 0,05, eli kirkkaan pikselin päällä ~80 % peiton.
+            Koko kuvan verho ei sitä antanut: tuotannossa korostusrivi oli alle rajan 25–48 %
+            pikseleistä 14/15 alasivulla, ja uusilla valokuvilla /foraging-guide 85 %. Paneeli on
+            sisarelementti, ei h1:n sisällä: h1:n drop-shadow-suodin värjäisi sen. Sama malli kuin
+            laplandactivitiesin herot (24.9.): kuva jää näkyviin tekstipalstan ulkopuolella. */}
+        <div className="relative max-w-4xl">
+          <div aria-hidden="true" className="pointer-events-none absolute -inset-x-16 -inset-y-12 -z-10 rounded-[4rem] bg-deep-night/75 blur-2xl" />
+          <h1 className="font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white leading-[0.95] mb-6 max-w-4xl drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">
+            {title}{' '}
+            {titleHighlight && (
+              <span className="text-vibe-pink drop-shadow-[0_0_30px_rgba(236,72,153,0.55)]">
+                {titleHighlight}
+              </span>
+            )}
+          </h1>
+          <p className="text-base sm:text-lg md:text-xl text-white/95 max-w-3xl mb-6 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,15,40,0.85)]">
+            {subtitle}
+          </p>
+        </div>
         {pills && pills.length > 0 && (
           <div className="flex flex-wrap justify-center lg:justify-start gap-2 mb-8 max-w-3xl">
             {pills.map((pill, i) => {
