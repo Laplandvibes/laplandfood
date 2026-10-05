@@ -9,25 +9,17 @@ const BILBERRY: BerryConfig = {
   path: '/bilberry',
   hero: {
     image: '/images/hero-bilberry.webp',
-    alt: 'Ripe bilberries on a low green shrub in a Salla forest in August',
   },
   taste: {
     image: '/images/bilberry-hand.jpg',
-    alt: 'A handful of freshly picked bilberries in an open palm, pine forest behind',
     ownPhoto: true,
   },
   versus: {
     image: '/images/bilberry-fingers.jpg',
-    alt: 'A single ripe bilberry held between two fingers, a lake meadow out of focus behind',
     ownPhoto: true,
   },
   products: {
     images: ['/images/bilberry-pie.jpg', '/images/bilberry-soup.jpg', '/images/bilberry-reindeer.jpg'],
-    alts: [
-      'A tray of Finnish bilberry pie just out of the oven',
-      'A cup of hot bilberry soup sprinkled with toasted coconut flakes',
-      'Slices of rare reindeer fillet with a dark bilberry reduction and whole bilberries on a stone plate',
-    ],
   },
   gyg: { query: 'Lapland foraging tour', sid: 'bilberry_foraging_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'bilberry_stay_rovaniemi' },

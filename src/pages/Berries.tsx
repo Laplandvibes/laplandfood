@@ -11,7 +11,7 @@ import AffiliateCTA from '../components/AffiliateCTA';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
 
-interface GuideCard { name: string; latin: string; season: string; body: string; cta: string }
+interface GuideCard { name: string; latin: string; season: string; body: string; cta: string; imageAlt: string }
 interface CalendarItem { period: string; title: string; body: string }
 interface OtherBerry { name: string; latin: string; when: string; body: string }
 interface NextStep { title: string; body: string; cta: string }
@@ -33,12 +33,7 @@ const GUIDE_IMAGES = [
   '/images/lingonberry-kemijarvi.jpg',
   '/images/sea-buckthorn-branch.jpg',
 ];
-const GUIDE_ALTS = [
-  'A ripe amber cloudberry on its plant among bog mosses',
-  'Ripe bilberries on a low green shrub in a Salla forest',
-  'Two ripe lingonberries on a sprig in thick moss, Kemijärvi',
-  'Sea buckthorn shrubs with orange berries on a Baltic shore',
-];
+// Korttikuvien alt on `berries.guides.cards[i].imageAlt` 12 kielellä (5.10.2026; oli tässä englanniksi).
 
 export default function Berries() {
   const { t } = useTranslation('pages');
@@ -111,7 +106,7 @@ export default function Berries() {
                   className="group flex flex-col rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all"
                 >
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={GUIDE_IMAGES[i]} alt={GUIDE_ALTS[i]} loading={i < 2 ? 'eager' : 'lazy'} decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500" />
+                    <img src={GUIDE_IMAGES[i]} alt={c.imageAlt} loading={i < 2 ? 'eager' : 'lazy'} decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500" />
                     <span className="absolute top-3 right-4 text-[10px] uppercase tracking-[0.18em] font-semibold bg-white/95 text-[#002F6C] px-2.5 py-1 rounded-full">{c.season}</span>
                   </div>
                   <div className="p-6 sm:p-7 flex flex-col flex-1">

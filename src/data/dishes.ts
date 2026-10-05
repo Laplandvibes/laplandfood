@@ -17,16 +17,13 @@ export const PORONKARISTYS: DishConfig = {
   path: '/poronkaristys',
   hero: {
     image: '/images/hero-poronkaristys-kilpisjarvi.webp',
-    alt: 'Five reindeer walking along the road at midsummer in Kilpisjärvi, Finnish Lapland, with a green fell slope behind',
   },
   about: {
     image: '/images/poronkaristys-reindeer-snow.jpg',
-    alt: 'A reindeer standing in deep snow in a winter forest',
   },
   recipes: [
     {
       image: '/images/poronkaristys-plate.jpg',
-      alt: 'A plate of poronkäristys: shaved reindeer on mashed potato with lingonberries and pickled cucumber',
       totalTime: 'PT45M',
       category: 'Main course',
     },
@@ -47,23 +44,19 @@ export const LEIPAJUUSTO: DishConfig = {
   path: '/leipajuusto',
   hero: {
     image: '/images/hero-leipajuusto-cloudberry.webp',
-    alt: 'A round leipäjuusto with brown spots in a dark dish, one wedge cut and topped with cloudberry jam',
   },
   about: {
     image: '/images/leipajuusto-wedge.jpg',
-    alt: 'A wedge of leipäjuusto with a brown-spotted top on a slate board',
   },
   recipes: [
     {
       image: '/images/leipajuusto-warm-jam.jpg',
-      alt: 'A warm slice of leipäjuusto with jam on a plate',
       totalTime: 'PT20M',
       category: 'Dessert',
     },
     { totalTime: 'PT15M', category: 'Salad' },
     {
       image: '/images/leipajuusto-1914.jpg',
-      alt: 'A round juustoleipä cheese photographed from above in 1914, black and white',
       fit: 'contain',
       totalTime: 'PT13H',
       category: 'Cheese',

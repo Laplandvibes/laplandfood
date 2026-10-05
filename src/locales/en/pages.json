@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Cloudberry jam",
-          "body": "Lakkahillo is the classic: whole berries, seeds and all, cooked gently enough that the tartness survives. Finns spoon it over warm squeaky cheese, pancakes and ice cream. If you take one edible souvenir home from Finland, make it this."
+          "body": "Lakkahillo is the classic: whole berries, seeds and all, cooked gently enough that the tartness survives. Finns spoon it over warm squeaky cheese, pancakes and ice cream. If you take one edible souvenir home from Finland, make it this.",
+          "imageAlt": "A spoonful of homemade cloudberry jam, whole berries and seeds and all"
         },
         {
           "title": "Cloudberry liqueur",
-          "body": "Lakka, the amber liqueur built on wild cloudberries, is the classic Finnish after-dinner sip: served cold on its own or poured over vanilla ice cream. One bottle holds a remarkable amount of bog."
+          "body": "Lakka, the amber liqueur built on wild cloudberries, is the classic Finnish after-dinner sip: served cold on its own or poured over vanilla ice cream. One bottle holds a remarkable amount of bog.",
+          "imageAlt": "A small glass of amber cloudberry liqueur with a plain bottle behind it and loose cloudberries on a dark table"
         },
         {
           "title": "Cloudberry parfait",
-          "body": "The Lapland fine-dining dessert. When the tasting menus of the north reach dessert, this is where they usually land, and in season every kitchen wants fresh berries for it."
+          "body": "The Lapland fine-dining dessert. When the tasting menus of the north reach dessert, this is where they usually land, and in season every kitchen wants fresh berries for it.",
+          "imageAlt": "A wedge of frozen cloudberry parfait on a dark plate, topped with whole amber cloudberries and a crisp wafer"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "Mid-July to mid-August",
           "body": "The amber bog berry nobody can farm. Four weeks a year, picked by hand, priced like a delicacy.",
-          "cta": "Cloudberry guide"
+          "cta": "Cloudberry guide",
+          "imageAlt": "A ripe amber cloudberry on its plant among bog mosses"
         },
         {
           "name": "Bilberry",
           "latin": "Vaccinium myrtillus",
           "season": "Late July to September",
           "body": "Finland's wild blueberry: purple right through, picked by the bucket, baked into every August pie.",
-          "cta": "Bilberry guide"
+          "cta": "Bilberry guide",
+          "imageAlt": "Ripe bilberries on a low green shrub in a Salla forest"
         },
         {
           "name": "Lingonberry",
           "latin": "Vaccinium vitis-idaea",
           "season": "Late August to October",
           "body": "The tart red berry beside every reindeer plate. Keeps in a jar without sugar and sweetens after frost.",
-          "cta": "Lingonberry guide"
+          "cta": "Lingonberry guide",
+          "imageAlt": "Two ripe lingonberries on a sprig in thick moss, Kemijärvi"
         },
         {
           "name": "Sea buckthorn",
           "latin": "Hippophaë rhamnoides",
           "season": "September to October",
           "body": "The sour orange berry of the Bothnian coast, picked from thorns and drunk as juice.",
-          "cta": "Sea buckthorn guide"
+          "cta": "Sea buckthorn guide",
+          "imageAlt": "Sea buckthorn shrubs with orange berries on a Baltic shore"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "What does a lingonberry taste like?",
       "answer": "Tart, slightly bitter and barely sweet, with a clean dry finish and none of the musk of a cloudberry: think of a cranberry with the sugar turned down and a little more bitterness. Raw, one berry makes you wince; stirred into something warm, savoury or dairy, the same tartness becomes the point.",
       "p2": "Frost helps. Berries picked after the first night frosts of September are noticeably milder and sweeter than August ones, and Finnish pickers time their trips accordingly. Fully ripe berries are deep red all the way round; a pale side means it needs another week.",
-      "p3": "You will rarely be served lingonberries alone. They arrive as a side: raw crushed with a little sugar next to sautéed reindeer or meatballs, whipped into <em>vispipuuro</em>, the pink semolina porridge every Finnish child knows, or spooned over warm porridge with milk."
+      "p3": "You will rarely be served lingonberries alone. They arrive as a side: raw crushed with a little sugar next to sautéed reindeer or meatballs, whipped into <em>vispipuuro</em>, the pink semolina porridge every Finnish child knows, or spooned over warm porridge with milk.",
+      "imageAlt": "Two ripe lingonberries on a sprig in thick moss, lingonberry leaves around them, Kemijärvi, September 2026"
     },
     "season": {
       "kicker": "Late August to October",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Raw crushed lingonberries",
-          "body": "Puolukkasurvos: berries crushed with a little sugar, nothing else. Thanks to the berry's own benzoic acid it keeps in the fridge or a cold larder for months. This is the jar beside reindeer, meatballs and liver."
+          "body": "Puolukkasurvos: berries crushed with a little sugar, nothing else. Thanks to the berry's own benzoic acid it keeps in the fridge or a cold larder for months. This is the jar beside reindeer, meatballs and liver.",
+          "imageAlt": "Raw lingonberries heaped beside Finnish cabbage casserole in a white bowl"
         },
         {
           "title": "Lingonberry jam",
-          "body": "The cooked version, sweeter and smoother, is the export classic and the one most visitors know from Swedish furniture stores. In Finland it goes on pancakes, rice pudding and warm porridge."
+          "body": "The cooked version, sweeter and smoother, is the export classic and the one most visitors know from Swedish furniture stores. In Finland it goes on pancakes, rice pudding and warm porridge.",
+          "imageAlt": "Thin pancakes with a small bowl of lingonberry jam"
         },
         {
           "title": "Vispipuuro",
-          "body": "Pink whipped porridge: lingonberry juice thickened with semolina, then beaten until airy and served cold with milk. A school-lunch dessert that adults still order."
+          "body": "Pink whipped porridge: lingonberry juice thickened with semolina, then beaten until airy and served cold with milk. A school-lunch dessert that adults still order.",
+          "imageAlt": "A bowl of pink whipped lingonberry porridge in cold milk"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "Bilberry, the blue that",
       "titleHighlight": "stains your fingers.",
       "subtitle": "Mustikka is the berry nearly every Finn has picked, the one that colours a whole August of childhood, and the one visitors keep calling a blueberry. Here is how it differs, what it tastes like, and where it grows in Lapland.",
+      "imageAlt": "Ripe bilberries on a low green shrub in a Salla forest in August",
       "primaryCta": "Learn to forage it",
       "secondaryCta": "The berry guide",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "What does a bilberry taste like?",
       "answer": "Sweeter and softer than a cranberry, sharper and wilder than a cultivated blueberry: the bilberry is juicy, thin-skinned and intensely coloured, with a floral, slightly tannic depth a blueberry does not have. Eat a handful straight from the shrub and your fingers, lips and tongue turn purple.",
       "p2": "Ripeness is easy to read. A ripe bilberry is dusty dark blue and comes off with the lightest pull; a berry that resists is a day or two early. Sun-warmed berries from an open clearing taste sweetest; shade berries from deep spruce forest are bigger and juicier.",
-      "p3": "In the kitchen the flavour carries through everything: <em>mustikkapiirakka</em> pie, <em>mustikkakeitto</em> soup, a spoonful on morning porridge or <em>viili</em>, and in Lapland the classic pairing of bilberry with reindeer."
+      "p3": "In the kitchen the flavour carries through everything: <em>mustikkapiirakka</em> pie, <em>mustikkakeitto</em> soup, a spoonful on morning porridge or <em>viili</em>, and in Lapland the classic pairing of bilberry with reindeer.",
+      "imageAlt": "A handful of freshly picked bilberries in an open palm, pine forest behind"
     },
     "season": {
       "kicker": "Late July to September",
@@ -920,7 +933,8 @@
       "p1": "The bilberry, <em>Vaccinium myrtillus</em>, and the cultivated blueberry, <em>Vaccinium corymbosum</em>, are cousins, and in most languages, Finnish included, both get called blueberry. On the plate they are different fruits.",
       "p2": "Bilberries grow singly on low forest shrubs and are small, dark and purple all the way through. Blueberries grow in clusters on tall bushes bred for farming, are larger and firmer, and stay pale inside because their colour sits only in the skin.",
       "p3": "That difference is why a Finnish bilberry pie bleeds purple and a blueberry muffin does not, and why frozen wild bilberries are worth seeking out in shops abroad: the flavour is concentrated in a way the farmed berry never reaches.",
-      "p4": "<strong>If you see a Finnish menu translated as blueberry, it means bilberry. In Lapland the blue berry on the plate is the wild one.</strong>"
+      "p4": "<strong>If you see a Finnish menu translated as blueberry, it means bilberry. In Lapland the blue berry on the plate is the wild one.</strong>",
+      "imageAlt": "A single ripe bilberry held between two fingers, a lake meadow out of focus behind"
     },
     "price": {
       "kicker": "What it's worth",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Bilberry pie",
-          "body": "Mustikkapiirakka: a soft, often oat-topped pie with the berries baked in until they bleed. Every Finnish café has one in August, and the good ones taste of forest rather than sugar."
+          "body": "Mustikkapiirakka: a soft, often oat-topped pie with the berries baked in until they bleed. Every Finnish café has one in August, and the good ones taste of forest rather than sugar.",
+          "imageAlt": "A tray of Finnish bilberry pie just out of the oven"
         },
         {
           "title": "Bilberry soup",
-          "body": "Mustikkakeitto: berries simmered with a little sugar and thickened with potato starch, served warm or cold, on its own or over porridge. Also the skier's drink, poured hot from a thermos on the trail."
+          "body": "Mustikkakeitto: berries simmered with a little sugar and thickened with potato starch, served warm or cold, on its own or over porridge. Also the skier's drink, poured hot from a thermos on the trail.",
+          "imageAlt": "A cup of hot bilberry soup sprinkled with toasted coconut flakes"
         },
         {
           "title": "With reindeer",
-          "body": "In Lapland's restaurants a bilberry reduction or lacto-fermented bilberries sit beside reindeer fillet. The acidity cuts the richness; the colour does the rest."
+          "body": "In Lapland's restaurants a bilberry reduction or lacto-fermented bilberries sit beside reindeer fillet. The acidity cuts the richness; the colour does the rest.",
+          "imageAlt": "Slices of rare reindeer fillet with a dark bilberry reduction and whole bilberries on a stone plate"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "Sea buckthorn, orange fire",
       "titleHighlight": "from the shore.",
       "subtitle": "Tyrni does not grow in the forests of inland Lapland at all. It grows on the stony shores of the Gulf of Bothnia, north as far as the Lapland coast at Tornio, and it is the sourest berry in the Finnish larder and one of its richest in vitamin C. Here is where it lives, what it tastes like and why it is so hard to pick.",
+      "imageAlt": "Calm Gulf of Bothnia shore on a July evening, a stony beach at the right and a low forested point across the water",
       "primaryCta": "Learn to forage it",
       "secondaryCta": "The berry guide",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "What does sea buckthorn taste like?",
       "answer": "Sharp. A ripe sea buckthorn berry is as sour as a lemon, with a bitter, slightly oily edge and, once the shock passes, a tropical note somewhere between passion fruit and apricot. The juice is thick and bright orange and stains everything it touches.",
       "p2": "That sourness is why the berry is almost never eaten plain. It is diluted into juice, sweetened into jam, frozen into sorbet, or used by chefs the way a lemon is used: a spoon of sea buckthorn cuts through cream, white chocolate, oily fish and rich reindeer.",
-      "p3": "Frost does not soften it much. The berries taste much the same in October as in September; what changes is how easily they come off the thorny branch, which is the picker's real problem."
+      "p3": "Frost does not soften it much. The berries taste much the same in October as in September; what changes is how easily they come off the thorny branch, which is the picker's real problem.",
+      "imageAlt": "A close-up of a heap of ripe orange sea buckthorn berries"
     },
     "season": {
       "kicker": "September to October",
@@ -1090,7 +1109,8 @@
       "p1": "Sea buckthorn berries grow packed tight along the branches, each one fixed so firmly that pulling it usually bursts it. Between the berries sit thorns several centimetres long. Picking even a small basket by hand takes patience and thick gloves.",
       "p2": "Commercial growers solve it with cold. They cut fruiting branches and freeze them; frozen berries snap off cleanly and go straight to the press. That is also why most sea buckthorn reaches you as juice, purée or jam rather than fresh.",
       "p3": "The shrub is dioecious: male and female plants are separate, and only the females fruit, which is why a dense stand on the shore can be half barren.",
-      "p4": "<strong>The upshot for a traveller: fresh sea buckthorn is rare even in Finland, but the juice is in every supermarket.</strong>"
+      "p4": "<strong>The upshot for a traveller: fresh sea buckthorn is rare even in Finland, but the juice is in every supermarket.</strong>",
+      "imageAlt": "Sea buckthorn shrubs heavy with orange berries on the Gulf of Bothnia shore at Billudden, Sweden"
     },
     "price": {
       "kicker": "Vitamin C",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Sea buckthorn juice",
-          "body": "Tyrnimehu: pressed, sweetened and usually diluted, drunk in small glasses. The supermarket version is the way most Finns meet the berry; the fresh-pressed farm version is sharper and thicker."
+          "body": "Tyrnimehu: pressed, sweetened and usually diluted, drunk in small glasses. The supermarket version is the way most Finns meet the berry; the fresh-pressed farm version is sharper and thicker.",
+          "imageAlt": "A bottle and a glass mug of thick, cloudy sea buckthorn juice"
         },
         {
           "title": "Jam and purée",
-          "body": "Cooked with sugar, the sourness turns into something closer to a marmalade. Spread on rye, spooned over porridge, or served with cheese."
+          "body": "Cooked with sugar, the sourness turns into something closer to a marmalade. Spread on rye, spooned over porridge, or served with cheese.",
+          "imageAlt": "Jars of sea buckthorn jelly and bottles of juice and liqueur on a table outside a shop on Hiddensee, Germany"
         },
         {
           "title": "On the dessert menu",
-          "body": "Lapland's and Helsinki's tasting menus use sea buckthorn as their lemon: a sorbet between courses, a curd under white chocolate, a sharp sauce beside oily Arctic fish."
+          "body": "Lapland's and Helsinki's tasting menus use sea buckthorn as their lemon: a sorbet between courses, a curd under white chocolate, a sharp sauce beside oily Arctic fish.",
+          "imageAlt": "A quenelle of orange sea buckthorn sorbet on a dark plate with white chocolate cream and a caramel shard"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, reindeer",
       "titleHighlight": "shaved thin, cooked slow.",
       "subtitle": "Reindeer shaved into ribbons while half-frozen, browned in butter and simmered until it falls apart, then served on mashed potato with lingonberries and pickled cucumber. Here is the herders' own recipe, the oven version, what it costs and where to order it in Lapland.",
+      "imageAlt": "Five reindeer walking along the road at midsummer in Kilpisjärvi, Finnish Lapland, with a green fell slope behind",
       "primaryCta": "Jump to the recipe",
       "secondaryCta": "All traditional recipes",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Turn the heat down, cover and simmer until the meat is tender, 10 to 30 minutes for leg meat and longer for other cuts. Add a splash of water if it runs dry.",
             "Taste, add pepper if you like, and serve on mashed potato with lingonberries and pickled cucumber."
           ],
-          "tip": "The reindeer herders' association says the strongest flavour comes from frying the meat in reindeer fat."
+          "tip": "The reindeer herders' association says the strongest flavour comes from frying the meat in reindeer fat.",
+          "imageAlt": "A plate of poronkäristys: shaved reindeer on mashed potato with lingonberries and pickled cucumber"
         },
         {
           "name": "Poronkäristys in the oven",
@@ -1613,7 +1638,8 @@
       "headline": "Reindeer, shaved thin.",
       "p1": "Poronkäristys is reindeer meat shaved into thin ribbons while half-frozen, browned in fat and simmered in a little water until tender. The reindeer herders' association names the cuts for it: silverside and knuckle from the hind leg, shoulder and the front of the back.",
       "p2": "Most Finnish reindeer are slaughtered in October and November, after at least half a year on nothing but natural grazing. The meat is dark and lean, with 2 to 4 % fat.",
-      "p3": "Across the border in Sweden the same dish is <em>renskav</em>. Reindeer meat from the Finnish herding area has its own EU protected designation of origin, <strong>Lapin Poron liha</strong>, since 2009: the reindeer graze freely on natural pastures, and the meat is produced, cut and packed inside the herding area."
+      "p3": "Across the border in Sweden the same dish is <em>renskav</em>. Reindeer meat from the Finnish herding area has its own EU protected designation of origin, <strong>Lapin Poron liha</strong>, since 2009: the reindeer graze freely on natural pastures, and the meat is produced, cut and packed inside the herding area.",
+      "imageAlt": "A reindeer standing in deep snow in a winter forest"
     },
     "variations": {
       "kicker": "Variations",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, the cheese",
       "titleHighlight": "that squeaks.",
       "subtitle": "A flat fresh cheese from the Finnish north, baked until it is spotted brown, eaten warm with cloudberry jam or softened in a cup of coffee. Here is how to serve it, how to make it from milk at home, and why it squeaks against your teeth.",
+      "imageAlt": "A round leipäjuusto with brown spots in a dark dish, one wedge cut and topped with cloudberry jam",
       "primaryCta": "Jump to the recipes",
       "secondaryCta": "All traditional recipes",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Bake for about 15 minutes, until the cream bubbles and the cheese has softened.",
             "Spoon the cloudberry jam over the warm cheese and serve straight away."
           ],
-          "tip": "In a hurry, 3 minutes in the microwave at 800 W does the same job. Lingonberry or bilberry jam works when cloudberries are out of reach."
+          "tip": "In a hurry, 3 minutes in the microwave at 800 W does the same job. Lingonberry or bilberry jam works when cloudberries are out of reach.",
+          "imageAlt": "A warm slice of leipäjuusto with jam on a plate"
         },
         {
           "name": "Leipäjuusto salad",
@@ -1874,7 +1902,8 @@
             "Press the curd into a flat round ovenproof dish, about 2 cm thick, and pour off any whey.",
             "Brown it under the oven grill at 250 to 275 °C for 5 to 10 minutes, until dark spots appear."
           ],
-          "tip": "The best leipäjuusto was traditionally made from colostrum, the first milk after calving, which is rich in casein. Ordinary whole milk works at home."
+          "tip": "The best leipäjuusto was traditionally made from colostrum, the first milk after calving, which is rich in casein. Ordinary whole milk works at home.",
+          "imageAlt": "A round juustoleipä cheese photographed from above in 1914, black and white"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Fresh cheese, baked until spotted.",
       "p1": "Leipäjuusto is a fresh cheese made from cow's milk set with rennet. The curd is shaped into a flat disc and baked on both sides until the surface browns in dark spots, in an oven, on a grill or by an open fire. It is not aged, so it keeps for 10 to 14 days from the dairy.",
       "p2": "It belongs to the north of Finland. Most dialect records of the word leipäjuusto come from Ostrobothnia and Peräpohjola in the north-west, while in Kainuu the same cheese is called juustoleipä. In the Tornio valley on the Swedish border it is kahvijuusto, coffee cheese, and across the river in Sweden kaffeost.",
-      "p3": "The traditional raw material was colostrum, the first milk after calving, which is rich in casein, and Juustoportti in Jalasjärvi made the first commercial leipäjuusto from it in 1966. Two Finnish versions are now waiting for an EU protected name: <strong>Pohjalainen leipäjuusto</strong> and <strong>Kainuun juustoleipä</strong> applied in 2024. In Sweden, kaffeost became a protected designation of origin in 2025."
+      "p3": "The traditional raw material was colostrum, the first milk after calving, which is rich in casein, and Juustoportti in Jalasjärvi made the first commercial leipäjuusto from it in 1966. Two Finnish versions are now waiting for an EU protected name: <strong>Pohjalainen leipäjuusto</strong> and <strong>Kainuun juustoleipä</strong> applied in 2024. In Sweden, kaffeost became a protected designation of origin in 2025.",
+      "imageAlt": "A wedge of leipäjuusto with a brown-spotted top on a slate board"
     },
     "variations": {
       "kicker": "Ways to eat it",

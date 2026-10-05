@@ -438,15 +438,18 @@
       "items": [
         {
           "title": "Moltebeerkonfitüre",
-          "body": "Der Klassiker: ganze Beeren samt Kernen, so schonend gekocht, dass die Säure überlebt. Finnen löffeln sie auf warmen Brotkäse, Pfannkuchen und Eis. Wenn Sie ein einziges essbares Souvenir aus Finnland mitnehmen, dann dieses."
+          "body": "Der Klassiker: ganze Beeren samt Kernen, so schonend gekocht, dass die Säure überlebt. Finnen löffeln sie auf warmen Brotkäse, Pfannkuchen und Eis. Wenn Sie ein einziges essbares Souvenir aus Finnland mitnehmen, dann dieses.",
+          "imageAlt": "Ein Löffel selbst gemachte Moltebeerenmarmelade mit ganzen Beeren und Kernen"
         },
         {
           "title": "Moltebeerlikör",
-          "body": "Lakka, der bernsteinfarbene Likör aus wilden Moltebeeren, ist Finnlands klassischer Abschluss eines Abendessens: kalt pur oder über Vanilleeis gegossen. In eine Flasche passt erstaunlich viel Moor."
+          "body": "Lakka, der bernsteinfarbene Likör aus wilden Moltebeeren, ist Finnlands klassischer Abschluss eines Abendessens: kalt pur oder über Vanilleeis gegossen. In eine Flasche passt erstaunlich viel Moor.",
+          "imageAlt": "Ein kleines Glas bernsteinfarbener Moltebeerenlikör, dahinter eine schlichte Flasche und lose Moltebeeren auf einem dunklen Tisch"
         },
         {
           "title": "Moltebeer-Parfait",
-          "body": "Das Fine-Dining-Dessert Lapplands. Wenn die Degustationsmenüs des Nordens beim Dessert ankommen, landen sie meist hier, und in der Saison will jede Küche frische Beeren dafür."
+          "body": "Das Fine-Dining-Dessert Lapplands. Wenn die Degustationsmenüs des Nordens beim Dessert ankommen, landen sie meist hier, und in der Saison will jede Küche frische Beeren dafür.",
+          "imageAlt": "Ein Stück gefrorenes Moltebeerenparfait auf einem dunklen Teller, mit ganzen Moltebeeren und einer knusprigen Waffel"
         }
       ]
     },
@@ -538,28 +541,32 @@
           "latin": "Rubus chamaemorus",
           "season": "Mitte Juli bis Mitte August",
           "body": "Die bernsteinfarbene Moorbeere, die niemand anbauen kann. Vier Wochen im Jahr, von Hand gepflückt, zum Preis einer Delikatesse.",
-          "cta": "Zum Moltebeeren-Guide"
+          "cta": "Zum Moltebeeren-Guide",
+          "imageAlt": "Eine reife bernsteinfarbene Moltebeere an ihrer Pflanze zwischen Moosen im Moor"
         },
         {
           "name": "Heidelbeere",
           "latin": "Vaccinium myrtillus",
           "season": "Ende Juli bis September",
           "body": "Finnlands wilde Heidelbeere: durch und durch violett, eimerweise gepflückt, in jedem Augustkuchen.",
-          "cta": "Zum Heidelbeeren-Guide"
+          "cta": "Zum Heidelbeeren-Guide",
+          "imageAlt": "Reife Heidelbeeren an einem niedrigen grünen Strauch in einem Wald in Salla"
         },
         {
           "name": "Preiselbeere",
           "latin": "Vaccinium vitis-idaea",
           "season": "Ende August bis Oktober",
           "body": "Die herbe rote Beere neben jedem Rentierteller. Hält im Glas ohne Zucker und wird nach dem Frost süßer.",
-          "cta": "Zum Preiselbeeren-Guide"
+          "cta": "Zum Preiselbeeren-Guide",
+          "imageAlt": "Zwei reife Preiselbeeren an einem Zweig in dichtem Moos, Kemijärvi"
         },
         {
           "name": "Sanddorn",
           "latin": "Hippophaë rhamnoides",
           "season": "September bis Oktober",
           "body": "Die saure orange Beere der Bottnischen Küste, zwischen Dornen gepflückt und als Saft getrunken.",
-          "cta": "Zum Sanddorn-Guide"
+          "cta": "Zum Sanddorn-Guide",
+          "imageAlt": "Sanddornsträucher mit orangefarbenen Beeren an einem Ostseeufer"
         }
       ]
     },
@@ -706,7 +713,8 @@
       "headline": "Wie schmeckt eine Preiselbeere?",
       "answer": "Herb, leicht bitter und kaum süß, mit einem klaren, trockenen Abgang und nichts vom Moschus einer Moltebeere: Denken Sie an eine Cranberry mit heruntergedrehtem Zucker und etwas mehr Bitterkeit. Roh lässt eine einzige Beere Sie das Gesicht verziehen; in etwas Warmes, Herzhaftes oder Milchiges gerührt, wird dieselbe Säure zum eigentlichen Sinn.",
       "p2": "Frost hilft. Beeren, die nach den ersten Nachtfrösten im September gepflückt werden, sind spürbar milder und süßer als Augustbeeren, und finnische Pflücker legen ihre Touren danach. Vollreife Beeren sind rundum tiefrot; eine blasse Seite heißt, sie braucht noch eine Woche.",
-      "p3": "Preiselbeeren allein werden Ihnen selten serviert. Sie kommen als Beilage: roh zerdrückt mit etwas Zucker neben Rentiergeschnetzeltem oder Fleischbällchen, zu <em>vispipuuro</em> aufgeschlagen, dem rosa Grießbrei, den jedes finnische Kind kennt, oder auf warmen Brei mit Milch gelöffelt."
+      "p3": "Preiselbeeren allein werden Ihnen selten serviert. Sie kommen als Beilage: roh zerdrückt mit etwas Zucker neben Rentiergeschnetzeltem oder Fleischbällchen, zu <em>vispipuuro</em> aufgeschlagen, dem rosa Grießbrei, den jedes finnische Kind kennt, oder auf warmen Brei mit Milch gelöffelt.",
+      "imageAlt": "Zwei reife Preiselbeeren an einem Zweig in dichtem Moos, ringsum Preiselbeerblätter, Kemijärvi, September 2026"
     },
     "season": {
       "kicker": "Ende August bis Oktober",
@@ -773,15 +781,18 @@
       "items": [
         {
           "title": "Roh zerdrückte Preiselbeeren",
-          "body": "Puolukkasurvos: Beeren mit etwas Zucker zerdrückt, sonst nichts. Dank der beereneigenen Benzoesäure hält es sich im Kühlschrank oder in einer kalten Speisekammer monatelang. Das ist das Glas neben Rentier, Fleischbällchen und Leber."
+          "body": "Puolukkasurvos: Beeren mit etwas Zucker zerdrückt, sonst nichts. Dank der beereneigenen Benzoesäure hält es sich im Kühlschrank oder in einer kalten Speisekammer monatelang. Das ist das Glas neben Rentier, Fleischbällchen und Leber.",
+          "imageAlt": "Rohe Preiselbeeren, aufgehäuft neben finnischem Kohlauflauf in einer weißen Schüssel"
         },
         {
           "title": "Preiselbeerkonfitüre",
-          "body": "Die gekochte Version, süßer und glatter, ist der Exportklassiker und die, die die meisten Gäste aus schwedischen Möbelhäusern kennen. In Finnland kommt sie auf Pfannkuchen, Milchreis und warmen Brei."
+          "body": "Die gekochte Version, süßer und glatter, ist der Exportklassiker und die, die die meisten Gäste aus schwedischen Möbelhäusern kennen. In Finnland kommt sie auf Pfannkuchen, Milchreis und warmen Brei.",
+          "imageAlt": "Dünne Pfannkuchen mit einem Schälchen Preiselbeermarmelade"
         },
         {
           "title": "Vispipuuro",
-          "body": "Rosa geschlagener Brei: Preiselbeersaft mit Grieß gebunden und dann luftig aufgeschlagen, kalt mit Milch serviert. Ein Schulkantinen-Dessert, das Erwachsene immer noch bestellen."
+          "body": "Rosa geschlagener Brei: Preiselbeersaft mit Grieß gebunden und dann luftig aufgeschlagen, kalt mit Milch serviert. Ein Schulkantinen-Dessert, das Erwachsene immer noch bestellen.",
+          "imageAlt": "Eine Schüssel rosa aufgeschlagener Preiselbeergrieß in kalter Milch"
         }
       ]
     },
@@ -842,6 +853,7 @@
       "title": "Heidelbeere, das Blau, das",
       "titleHighlight": "die Finger färbt.",
       "subtitle": "Mustikka ist die Beere, die fast jeder Finne schon gepflückt hat, die einen ganzen Kindheitsaugust färbt, und die Gäste beharrlich Blaubeere nennen. Hier erfahren Sie, worin der Unterschied liegt, wie sie schmeckt und wo sie in Lappland wächst.",
+      "imageAlt": "Reife Heidelbeeren an einem niedrigen grünen Strauch in einem Wald in Salla im August",
       "primaryCta": "Sammeln lernen",
       "secondaryCta": "Der Beeren-Guide",
       "pills": [
@@ -883,7 +895,8 @@
       "headline": "Wie schmeckt eine Heidelbeere?",
       "answer": "Süßer und weicher als eine Cranberry, schärfer und wilder als eine Kulturheidelbeere: Die Waldheidelbeere ist saftig, dünnschalig und intensiv gefärbt, mit einer blumigen, leicht gerbstoffhaltigen Tiefe, die eine Kulturheidelbeere nicht hat. Essen Sie eine Handvoll direkt vom Strauch, und Finger, Lippen und Zunge werden violett.",
       "p2": "Die Reife ist leicht zu erkennen. Eine reife Heidelbeere ist staubig dunkelblau und löst sich beim leichtesten Zug; eine Beere, die sich wehrt, ist ein, zwei Tage zu früh. Sonnenwarme Beeren aus einer offenen Lichtung schmecken am süßesten; Schattenbeeren aus tiefem Fichtenwald sind größer und saftiger.",
-      "p3": "In der Küche trägt der Geschmack durch alles hindurch: <em>mustikkapiirakka</em>, den Heidelbeerkuchen, <em>mustikkakeitto</em>, die Heidelbeersuppe, einen Löffel auf dem Morgenbrei oder auf <em>viili</em>, der Dickmilch, und in Lappland die klassische Paarung von Heidelbeere und Rentier."
+      "p3": "In der Küche trägt der Geschmack durch alles hindurch: <em>mustikkapiirakka</em>, den Heidelbeerkuchen, <em>mustikkakeitto</em>, die Heidelbeersuppe, einen Löffel auf dem Morgenbrei oder auf <em>viili</em>, der Dickmilch, und in Lappland die klassische Paarung von Heidelbeere und Rentier.",
+      "imageAlt": "Eine Handvoll frisch gepflückter Heidelbeeren auf einer offenen Handfläche, dahinter Kiefernwald"
     },
     "season": {
       "kicker": "Ende Juli bis September",
@@ -921,7 +934,8 @@
       "p1": "Die Waldheidelbeere, <em>Vaccinium myrtillus</em>, und die Kulturheidelbeere, <em>Vaccinium corymbosum</em>, sind Cousinen, und in den meisten Sprachen, Finnisch eingeschlossen, heißen beide Heidelbeere oder Blaubeere. Auf dem Teller sind es verschiedene Früchte.",
       "p2": "Waldheidelbeeren wachsen einzeln an niedrigen Waldsträuchern und sind klein, dunkel und durch und durch violett. Kulturheidelbeeren wachsen in Trauben an hohen, für den Anbau gezüchteten Büschen, sind größer und fester und bleiben innen blass, weil ihre Farbe nur in der Schale sitzt.",
       "p3": "Dieser Unterschied ist der Grund, warum ein finnischer Heidelbeerkuchen violett ausblutet und ein Blaubeermuffin nicht, und warum sich tiefgekühlte wilde Heidelbeeren in Läden im Ausland zu suchen lohnen: Der Geschmack ist auf eine Weise konzentriert, die die Kulturbeere nie erreicht.",
-      "p4": "<strong>Wenn auf einer finnischen Speisekarte die Übersetzung Blaubeere steht, ist die Waldheidelbeere gemeint. In Lappland ist die blaue Beere auf dem Teller die wilde.</strong>"
+      "p4": "<strong>Wenn auf einer finnischen Speisekarte die Übersetzung Blaubeere steht, ist die Waldheidelbeere gemeint. In Lappland ist die blaue Beere auf dem Teller die wilde.</strong>",
+      "imageAlt": "Eine einzelne reife Heidelbeere zwischen zwei Fingern, dahinter unscharf eine Wiese am See"
     },
     "price": {
       "kicker": "Was sie wert ist",
@@ -950,15 +964,18 @@
       "items": [
         {
           "title": "Heidelbeerkuchen",
-          "body": "Mustikkapiirakka: ein weicher, oft mit Haferstreuseln bedeckter Kuchen, in dem die Beeren mitgebacken werden, bis sie ausbluten. Jedes finnische Café hat im August einen, und die guten schmecken nach Wald statt nach Zucker."
+          "body": "Mustikkapiirakka: ein weicher, oft mit Haferstreuseln bedeckter Kuchen, in dem die Beeren mitgebacken werden, bis sie ausbluten. Jedes finnische Café hat im August einen, und die guten schmecken nach Wald statt nach Zucker.",
+          "imageAlt": "Ein Blech finnischer Heidelbeerkuchen, frisch aus dem Ofen"
         },
         {
           "title": "Heidelbeersuppe",
-          "body": "Mustikkakeitto: Beeren mit etwas Zucker geköchelt und mit Kartoffelstärke gebunden, warm oder kalt serviert, pur oder über Brei. Auch das Getränk der Skiläufer, heiß aus der Thermoskanne auf der Loipe."
+          "body": "Mustikkakeitto: Beeren mit etwas Zucker geköchelt und mit Kartoffelstärke gebunden, warm oder kalt serviert, pur oder über Brei. Auch das Getränk der Skiläufer, heiß aus der Thermoskanne auf der Loipe.",
+          "imageAlt": "Eine Tasse heiße Heidelbeersuppe, bestreut mit gerösteten Kokosflocken"
         },
         {
           "title": "Zum Rentier",
-          "body": "In Lapplands Restaurants stehen eine Heidelbeerreduktion oder milchsauer vergorene Heidelbeeren neben dem Rentierfilet. Die Säure schneidet durch das Kräftige; die Farbe erledigt den Rest."
+          "body": "In Lapplands Restaurants stehen eine Heidelbeerreduktion oder milchsauer vergorene Heidelbeeren neben dem Rentierfilet. Die Säure schneidet durch das Kräftige; die Farbe erledigt den Rest.",
+          "imageAlt": "Scheiben von rosa gebratenem Rentierfilet mit dunkler Heidelbeerreduktion und ganzen Heidelbeeren auf einem Steinteller"
         }
       ]
     },
@@ -1016,6 +1033,7 @@
       "title": "Sanddorn, oranges Feuer",
       "titleHighlight": "vom Ufer.",
       "subtitle": "Tyrni wächst in den Wäldern des lappländischen Binnenlands überhaupt nicht. Er wächst an den steinigen Ufern des Bottnischen Meerbusens, im Norden bis zur lappländischen Küste bei Tornio, und er ist die sauerste Beere der finnischen Vorratskammer und eine der vitamin-C-reichsten. Hier erfahren Sie, wo er lebt, wie er schmeckt und warum er so schwer zu pflücken ist.",
+      "imageAlt": "Ruhiges Ufer am Bottnischen Meerbusen an einem Juliabend, rechts ein steiniger Strand, jenseits des Wassers eine flache bewaldete Landzunge",
       "primaryCta": "Sammeln lernen",
       "secondaryCta": "Der Beeren-Guide",
       "pills": [
@@ -1053,7 +1071,8 @@
       "headline": "Wie schmeckt Sanddorn?",
       "answer": "Scharf. Eine reife Sanddornbeere ist so sauer wie eine Zitrone, mit einer bitteren, leicht öligen Kante und, sobald der Schock vorbei ist, einer tropischen Note irgendwo zwischen Passionsfrucht und Aprikose. Der Saft ist dick und leuchtend orange und färbt alles, was er berührt.",
       "p2": "Diese Säure ist der Grund, warum die Beere fast nie pur gegessen wird. Sie wird zu Saft verdünnt, zu Konfitüre gesüßt, zu Sorbet gefroren oder von Köchen so eingesetzt, wie man eine Zitrone einsetzt: Ein Löffel Sanddorn schneidet durch Sahne, weiße Schokolade, öligen Fisch und kräftiges Rentier.",
-      "p3": "Frost mildert ihn kaum. Die Beeren schmecken im Oktober fast wie im September; was sich ändert, ist, wie leicht sie sich vom dornigen Zweig lösen, und das ist das eigentliche Problem des Pflückers."
+      "p3": "Frost mildert ihn kaum. Die Beeren schmecken im Oktober fast wie im September; was sich ändert, ist, wie leicht sie sich vom dornigen Zweig lösen, und das ist das eigentliche Problem des Pflückers.",
+      "imageAlt": "Nahaufnahme eines Haufens reifer orangefarbener Sanddornbeeren"
     },
     "season": {
       "kicker": "September bis Oktober",
@@ -1091,7 +1110,8 @@
       "p1": "Sanddornbeeren sitzen dicht gedrängt entlang der Zweige, jede so fest, dass Ziehen sie meist platzen lässt. Zwischen den Beeren sitzen mehrere Zentimeter lange Dornen. Auch nur einen kleinen Korb von Hand zu pflücken braucht Geduld und dicke Handschuhe.",
       "p2": "Gewerbliche Anbauer lösen das mit Kälte. Sie schneiden fruchttragende Zweige und frieren sie ein; gefrorene Beeren brechen sauber ab und gehen direkt in die Presse. Deshalb erreicht Sie der meiste Sanddorn auch als Saft, Püree oder Konfitüre und nicht frisch.",
       "p3": "Der Strauch ist zweihäusig: Männliche und weibliche Pflanzen sind getrennt, und nur die weiblichen tragen Früchte, weshalb ein dichter Bestand am Ufer zur Hälfte unfruchtbar sein kann.",
-      "p4": "<strong>Für Reisende heißt das: Frischer Sanddorn ist selbst in Finnland selten, aber der Saft steht in jedem Supermarkt.</strong>"
+      "p4": "<strong>Für Reisende heißt das: Frischer Sanddorn ist selbst in Finnland selten, aber der Saft steht in jedem Supermarkt.</strong>",
+      "imageAlt": "Sanddornsträucher voller orangefarbener Beeren am Bottnischen Meerbusen bei Billudden in Schweden"
     },
     "price": {
       "kicker": "Vitamin C",
@@ -1120,15 +1140,18 @@
       "items": [
         {
           "title": "Sanddornsaft",
-          "body": "Tyrnimehu: gepresst, gesüßt und meist verdünnt, in kleinen Gläsern getrunken. Die Supermarktversion ist der Weg, auf dem die meisten Finnen der Beere begegnen; die frisch gepresste Hofversion ist schärfer und dicker."
+          "body": "Tyrnimehu: gepresst, gesüßt und meist verdünnt, in kleinen Gläsern getrunken. Die Supermarktversion ist der Weg, auf dem die meisten Finnen der Beere begegnen; die frisch gepresste Hofversion ist schärfer und dicker.",
+          "imageAlt": "Eine Flasche und ein Glaskrug mit dickem, trübem Sanddornsaft"
         },
         {
           "title": "Konfitüre und Püree",
-          "body": "Mit Zucker gekocht wird aus der Säure etwas, das einer Marmelade näherkommt. Auf Roggenbrot gestrichen, über Brei gelöffelt oder zu Käse serviert."
+          "body": "Mit Zucker gekocht wird aus der Säure etwas, das einer Marmelade näherkommt. Auf Roggenbrot gestrichen, über Brei gelöffelt oder zu Käse serviert.",
+          "imageAlt": "Gläser mit Sanddorngelee und Flaschen mit Saft und Likör auf einem Tisch vor einem Laden auf Hiddensee"
         },
         {
           "title": "Auf der Dessertkarte",
-          "body": "Die Degustationsmenüs Lapplands und Helsinkis verwenden Sanddorn als ihre Zitrone: ein Sorbet zwischen den Gängen, ein Curd unter weißer Schokolade, eine scharfe Sauce zu öligem arktischem Fisch."
+          "body": "Die Degustationsmenüs Lapplands und Helsinkis verwenden Sanddorn als ihre Zitrone: ein Sorbet zwischen den Gängen, ein Curd unter weißer Schokolade, eine scharfe Sauce zu öligem arktischem Fisch.",
+          "imageAlt": "Eine Nocke orangefarbenes Sanddornsorbet auf einem dunklen Teller mit weißer Schokoladencreme und einem Karamellsplitter"
         }
       ]
     },
@@ -1504,6 +1527,7 @@
       "title": "Poronkäristys, Rentier",
       "titleHighlight": "dünn gehobelt, langsam geschmort.",
       "subtitle": "Rentierfleisch, angefroren in feine Streifen gehobelt, in Butter gebräunt und geschmort, bis es zerfällt, dann auf Kartoffelpüree mit Preiselbeeren und Salzgurke serviert. Hier finden Sie das Rezept der Rentierzüchter selbst, die Ofenvariante, was es kostet und wo Sie es in Lappland bestellen können.",
+      "imageAlt": "Fünf Rentiere auf der Straße im Hochsommer in Kilpisjärvi, Finnisch-Lappland, dahinter ein grüner Fjällhang",
       "primaryCta": "Direkt zum Rezept",
       "secondaryCta": "Alle traditionellen Rezepte",
       "pills": [
@@ -1561,7 +1585,8 @@
             "Schalten Sie die Hitze herunter, legen Sie den Deckel auf und schmoren Sie das Fleisch, bis es zart ist: 10 bis 30 Minuten bei Stücken aus der Keule, bei anderen Stücken länger. Gießen Sie einen Schuss Wasser nach, wenn der Topf trocken wird.",
             "Schmecken Sie ab, pfeffern Sie nach Belieben und servieren Sie das Fleisch auf Kartoffelpüree mit Preiselbeeren und Salzgurke."
           ],
-          "tip": "Laut Rentierzüchterverband bekommt das Gericht den kräftigsten Geschmack, wenn Sie das Fleisch in Rentierfett braten."
+          "tip": "Laut Rentierzüchterverband bekommt das Gericht den kräftigsten Geschmack, wenn Sie das Fleisch in Rentierfett braten.",
+          "imageAlt": "Ein Teller Poronkäristys: fein geschnetzeltes Rentier auf Kartoffelpüree mit Preiselbeeren und Salzgurke"
         },
         {
           "name": "Poronkäristys aus dem Ofen",
@@ -1614,7 +1639,8 @@
       "headline": "Rentier, dünn gehobelt.",
       "p1": "Poronkäristys ist Rentierfleisch, das angefroren in dünne Streifen gehobelt, in Fett gebräunt und in wenig Wasser weich geschmort wird. Der Rentierzüchterverband nennt die passenden Stücke: Unterschale und Nuss aus der Keule, Schulter und vorderen Rücken.",
       "p2": "Die meisten finnischen Rentiere werden im Oktober und November geschlachtet, nach mindestens einem halben Jahr, in dem sie sich nur von natürlicher Weide ernährt haben. Das Fleisch ist dunkel und mager, mit 2 bis 4 % Fett.",
-      "p3": "Jenseits der Grenze in Schweden heißt dasselbe Gericht <em>renskav</em>. Rentierfleisch aus dem finnischen Rentierzuchtgebiet trägt seit 2009 eine eigene geschützte Ursprungsbezeichnung der EU, <strong>Lapin Poron liha</strong>: Die Rentiere grasen frei auf Naturweiden, und das Fleisch wird innerhalb des Zuchtgebiets erzeugt, zerlegt und verpackt."
+      "p3": "Jenseits der Grenze in Schweden heißt dasselbe Gericht <em>renskav</em>. Rentierfleisch aus dem finnischen Rentierzuchtgebiet trägt seit 2009 eine eigene geschützte Ursprungsbezeichnung der EU, <strong>Lapin Poron liha</strong>: Die Rentiere grasen frei auf Naturweiden, und das Fleisch wird innerhalb des Zuchtgebiets erzeugt, zerlegt und verpackt.",
+      "imageAlt": "Ein Rentier im tiefen Schnee in einem winterlichen Wald"
     },
     "variations": {
       "kicker": "Varianten",
@@ -1772,6 +1798,7 @@
       "title": "Leipäjuusto, der Käse,",
       "titleHighlight": "der quietscht.",
       "subtitle": "Ein flacher, frischer Käse aus Finnlands Norden, gebacken, bis er braune Flecken hat, und warm mit Moltebeerkonfitüre gegessen oder in einer Tasse Kaffee eingeweicht. Hier lesen Sie, wie Sie ihn servieren, wie Sie ihn zu Hause aus Milch machen und warum er an den Zähnen quietscht.",
+      "imageAlt": "Ein runder Leipäjuusto mit braunen Flecken in einer dunklen Form, ein Stück herausgeschnitten und mit Moltebeerenmarmelade belegt",
       "primaryCta": "Direkt zu den Rezepten",
       "secondaryCta": "Alle traditionellen Rezepte",
       "pills": [
@@ -1827,7 +1854,8 @@
             "Backen Sie alles etwa 15 Minuten, bis die Sahne blubbert und der Käse weich geworden ist.",
             "Verteilen Sie die Moltebeerkonfitüre löffelweise auf dem warmen Käse und servieren Sie sofort."
           ],
-          "tip": "Wenn es schnell gehen muss, erledigen 3 Minuten in der Mikrowelle bei 800 W dasselbe. Sind keine Moltebeeren zu bekommen, passt auch Preiselbeer- oder Heidelbeerkonfitüre."
+          "tip": "Wenn es schnell gehen muss, erledigen 3 Minuten in der Mikrowelle bei 800 W dasselbe. Sind keine Moltebeeren zu bekommen, passt auch Preiselbeer- oder Heidelbeerkonfitüre.",
+          "imageAlt": "Ein warmes Stück Leipäjuusto mit Marmelade auf einem Teller"
         },
         {
           "name": "Leipäjuusto-Salat",
@@ -1875,7 +1903,8 @@
             "Drücken Sie die Masse etwa 2 cm dick in eine flache, runde, ofenfeste Form und gießen Sie die restliche Molke ab.",
             "Bräunen Sie den Käse unter dem Backofengrill bei 250 bis 275 °C für 5 bis 10 Minuten, bis dunkle Flecken erscheinen."
           ],
-          "tip": "Der beste Leipäjuusto wurde traditionell aus Biestmilch gemacht, der ersten Milch nach dem Kalben, die reich an Kasein ist. Zu Hause funktioniert normale Vollmilch."
+          "tip": "Der beste Leipäjuusto wurde traditionell aus Biestmilch gemacht, der ersten Milch nach dem Kalben, die reich an Kasein ist. Zu Hause funktioniert normale Vollmilch.",
+          "imageAlt": "Ein runder Juustoleipä-Käse, 1914 von oben fotografiert, schwarz-weiß"
         }
       ]
     },
@@ -1884,7 +1913,8 @@
       "headline": "Frischer Käse, gebacken, bis er Flecken hat.",
       "p1": "Leipäjuusto ist ein ungereifter Käse aus Kuhmilch, die mit Lab dickgelegt wird. Die Käsemasse wird zu einer flachen Scheibe geformt und von beiden Seiten gebacken, bis die Oberfläche dunkle Flecken zeigt, im Ofen, auf dem Grill oder am offenen Feuer. Weil er nicht reift, hält er ab Molkerei 10 bis 14 Tage.",
       "p2": "Er gehört in den Norden Finnlands. Die meisten Dialektbelege für das Wort Leipäjuusto stammen aus Österbotten und Peräpohjola im Nordwesten, während derselbe Käse in Kainuu Juustoleipä heißt. Im Tornedal an der schwedischen Grenze heißt er Kahvijuusto, also Kaffeekäse, und jenseits des Flusses in Schweden Kaffeost.",
-      "p3": "Der traditionelle Rohstoff war Biestmilch, die erste Milch nach dem Kalben, reich an Kasein, und daraus stellte Juustoportti in Jalasjärvi 1966 den ersten Leipäjuusto für den Handel her. Zwei finnische Varianten warten nun auf einen EU-geschützten Namen: <strong>Pohjalainen leipäjuusto</strong> und <strong>Kainuun juustoleipä</strong> haben ihn 2024 beantragt. In Schweden wurde Kaffeost 2025 zur geschützten Ursprungsbezeichnung."
+      "p3": "Der traditionelle Rohstoff war Biestmilch, die erste Milch nach dem Kalben, reich an Kasein, und daraus stellte Juustoportti in Jalasjärvi 1966 den ersten Leipäjuusto für den Handel her. Zwei finnische Varianten warten nun auf einen EU-geschützten Namen: <strong>Pohjalainen leipäjuusto</strong> und <strong>Kainuun juustoleipä</strong> haben ihn 2024 beantragt. In Schweden wurde Kaffeost 2025 zur geschützten Ursprungsbezeichnung.",
+      "imageAlt": "Ein Stück Leipäjuusto mit braun gefleckter Oberseite auf einer Schieferplatte"
     },
     "variations": {
       "kicker": "So isst man ihn",

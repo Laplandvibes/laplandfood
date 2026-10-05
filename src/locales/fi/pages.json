@@ -438,15 +438,18 @@
       "items": [
         {
           "title": "Lakkahillo",
-          "body": "Klassikko: kokonaisia marjoja siemenineen, keitettynä niin hellästi että happamuus säilyy. Suomalainen lusikoi sitä lämpimän leipäjuuston, pannukakun ja jäätelön päälle. Jos viet Suomesta kotiin yhden syötävän tuliaisen, vie tämä."
+          "body": "Klassikko: kokonaisia marjoja siemenineen, keitettynä niin hellästi että happamuus säilyy. Suomalainen lusikoi sitä lämpimän leipäjuuston, pannukakun ja jäätelön päälle. Jos viet Suomesta kotiin yhden syötävän tuliaisen, vie tämä.",
+          "imageAlt": "Lusikallinen kotitekoista lakkahilloa kokonaisine marjoineen ja siemenineen"
         },
         {
           "title": "Lakkalikööri",
-          "body": "Lakka, villihilloista tehty keltainen likööri, on suomalaisen illallisen klassinen päätös: kylmänä sellaisenaan tai vaniljajäätelön päälle kaadettuna. Yhteen pulloon mahtuu hämmästyttävä määrä suota."
+          "body": "Lakka, villihilloista tehty keltainen likööri, on suomalaisen illallisen klassinen päätös: kylmänä sellaisenaan tai vaniljajäätelön päälle kaadettuna. Yhteen pulloon mahtuu hämmästyttävä määrä suota.",
+          "imageAlt": "Pieni lasillinen meripihkanväristä lakkalikööriä, taustalla etiketitön pullo ja irtolakkoja tummalla pöydällä"
         },
         {
           "title": "Hillaparfait",
-          "body": "Lapin fine dining -jälkiruoka. Kun pohjoisen maistelumenut ehtivät jälkiruokaan, tähän ne yleensä päätyvät, ja sesongissa jokainen keittiö haluaa siihen tuoreet marjat."
+          "body": "Lapin fine dining -jälkiruoka. Kun pohjoisen maistelumenut ehtivät jälkiruokaan, tähän ne yleensä päätyvät, ja sesongissa jokainen keittiö haluaa siihen tuoreet marjat.",
+          "imageAlt": "Pala jäädytettyä lakkaparfait'ta tummalla lautasella, päällä kokonaisia lakkoja ja rapea vohveli"
         }
       ]
     },
@@ -538,28 +541,32 @@
           "latin": "Rubus chamaemorus",
           "season": "Heinäkuun puolivälistä elokuun puoliväliin",
           "body": "Suon meripihkanvärinen marja, jota kukaan ei pysty viljelemään. Neljä viikkoa vuodessa, käsin poimittuna, herkun hinnalla.",
-          "cta": "Hillaopas"
+          "cta": "Hillaopas",
+          "imageAlt": "Kypsä meripihkanvärinen lakka varressaan suosammalten keskellä"
         },
         {
           "name": "Mustikka",
           "latin": "Vaccinium myrtillus",
           "season": "Heinäkuun lopusta syyskuuhun",
           "body": "Suomen villi metsämustikka: sinipunainen läpikotaisin, poimitaan ämpäreittäin ja leivotaan jokaiseen elokuun piirakkaan.",
-          "cta": "Mustikkaopas"
+          "cta": "Mustikkaopas",
+          "imageAlt": "Kypsiä mustikoita matalassa vihreässä varvussa Sallan metsässä"
         },
         {
           "name": "Puolukka",
           "latin": "Vaccinium vitis-idaea",
           "season": "Elokuun lopusta lokakuuhun",
           "body": "Kirpeä punainen marja jokaisen poroannoksen vieressä. Säilyy purkissa ilman sokeria ja makeutuu pakkasen jälkeen.",
-          "cta": "Puolukkaopas"
+          "cta": "Puolukkaopas",
+          "imageAlt": "Kaksi kypsää puolukkaa varvussa paksun sammaleen keskellä, Kemijärvi"
         },
         {
           "name": "Tyrni",
           "latin": "Hippophaë rhamnoides",
           "season": "Syyskuusta lokakuuhun",
           "body": "Pohjanlahden rannikon hapan oranssi marja, joka poimitaan piikkien seasta ja juodaan mehuna.",
-          "cta": "Tyrniopas"
+          "cta": "Tyrniopas",
+          "imageAlt": "Tyrnipensaita ja oransseja marjoja Itämeren rannalla"
         }
       ]
     },
@@ -706,7 +713,8 @@
       "headline": "Miltä puolukka maistuu?",
       "answer": "Kirpeältä, hieman karvaalta ja tuskin lainkaan makealta, puhtaan kuivalla jälkimaulla ja ilman hillan myskiä: ajattele karpaloa, josta sokeri on käännetty pienemmälle ja karvautta lisätty hiukan. Raakana yksi marja saa irvistämään; lämpimän, suolaisen tai maitoisen ruoan seassa sama kirpeys on koko idea.",
       "p2": "Pakkanen auttaa. Syyskuun ensimmäisten yöpakkasten jälkeen poimitut marjat ovat selvästi miedompia ja makeampia kuin elokuun marjat, ja suomalaiset poimijat ajoittavat retkensä sen mukaan. Täysin kypsä marja on syvänpunainen joka puolelta; vaalea kylki tarkoittaa, että se tarvitsee vielä viikon.",
-      "p3": "Puolukkaa saa harvoin yksinään. Se tulee lisäkkeenä: raakana survoksena hieman sokerin kanssa poronkäristyksen tai lihapullien vieressä, vatkattuna <em>vispipuuroksi</em>, siksi vaaleanpunaiseksi mannapuuroksi, jonka jokainen suomalainen lapsi tuntee, tai lusikoituna lämpimän puuron päälle maidon kanssa."
+      "p3": "Puolukkaa saa harvoin yksinään. Se tulee lisäkkeenä: raakana survoksena hieman sokerin kanssa poronkäristyksen tai lihapullien vieressä, vatkattuna <em>vispipuuroksi</em>, siksi vaaleanpunaiseksi mannapuuroksi, jonka jokainen suomalainen lapsi tuntee, tai lusikoituna lämpimän puuron päälle maidon kanssa.",
+      "imageAlt": "Kaksi kypsää puolukkaa varvussa paksun sammaleen keskellä, ympärillä puolukanlehtiä, Kemijärvi, syyskuu 2026"
     },
     "season": {
       "kicker": "Elokuun lopusta lokakuuhun",
@@ -773,15 +781,18 @@
       "items": [
         {
           "title": "Puolukkasurvos",
-          "body": "Marjat survottuna hieman sokerin kanssa, ei muuta. Marjan oman bentsoehapon ansiosta se säilyy jääkaapissa tai kylmässä komerossa kuukausia. Tämä on se purkki poron, lihapullien ja maksan vieressä."
+          "body": "Marjat survottuna hieman sokerin kanssa, ei muuta. Marjan oman bentsoehapon ansiosta se säilyy jääkaapissa tai kylmässä komerossa kuukausia. Tämä on se purkki poron, lihapullien ja maksan vieressä.",
+          "imageAlt": "Raakoja puolukoita kasattuna kaalilaatikon viereen valkoisessa kulhossa"
         },
         {
           "title": "Puolukkahillo",
-          "body": "Keitetty versio, makeampi ja sileämpi, on vientiklassikko ja se, jonka useimmat vierailijat tuntevat ruotsalaisesta huonekalukaupasta. Suomessa sitä syödään pannukakun, riisipuuron ja lämpimän puuron kanssa."
+          "body": "Keitetty versio, makeampi ja sileämpi, on vientiklassikko ja se, jonka useimmat vierailijat tuntevat ruotsalaisesta huonekalukaupasta. Suomessa sitä syödään pannukakun, riisipuuron ja lämpimän puuron kanssa.",
+          "imageAlt": "Ohuita lettuja ja pieni kulhollinen puolukkahilloa"
         },
         {
           "title": "Vispipuuro",
-          "body": "Vaaleanpunainen vatkattu puuro: puolukkamehu suurustettuna mannasuurimoilla ja vatkattuna kuohkeaksi, tarjoillaan kylmänä maidon kanssa. Kouluruokalan jälkiruoka, jota aikuisetkin yhä tilaavat."
+          "body": "Vaaleanpunainen vatkattu puuro: puolukkamehu suurustettuna mannasuurimoilla ja vatkattuna kuohkeaksi, tarjoillaan kylmänä maidon kanssa. Kouluruokalan jälkiruoka, jota aikuisetkin yhä tilaavat.",
+          "imageAlt": "Kulhollinen vaaleanpunaista puolukkavispipuuroa kylmässä maidossa"
         }
       ]
     },
@@ -842,6 +853,7 @@
       "title": "Mustikka, sininen joka",
       "titleHighlight": "värjää sormet.",
       "subtitle": "Mustikka on marja, jonka lähes jokainen suomalainen on poiminut, se joka värjää koko lapsuuden elokuun, ja se jota vierailijat kutsuvat pensasmustikaksi. Tässä on, miten ne eroavat, miltä se maistuu ja missä se kasvaa Lapissa.",
+      "imageAlt": "Kypsiä mustikoita matalassa vihreässä varvussa Sallan metsässä elokuussa",
       "primaryCta": "Opettele poimimaan",
       "secondaryCta": "Marjaopas",
       "pills": [
@@ -883,7 +895,8 @@
       "headline": "Miltä mustikka maistuu?",
       "answer": "Makeammalta ja pehmeämmältä kuin karpalo, terävämmältä ja villimmältä kuin viljelty pensasmustikka: mustikka on mehukas, ohutkuorinen ja voimakkaan värinen, ja siinä on kukkainen, hieman parkkihappoinen syvyys, jota pensasmustikassa ei ole. Syö kourallinen suoraan varvusta, ja sormet, huulet ja kieli muuttuvat sinipunaisiksi.",
       "p2": "Kypsyyden näkee helposti. Kypsä mustikka on hallavan tummansininen ja irtoaa kevyimmästä vedosta; marja, joka vastustaa, on päivän tai pari liian aikainen. Aurinkoisen aukean lämmittämät marjat maistuvat makeimmilta; syvän kuusikon varjomarjat ovat suurempia ja mehukkaampia.",
-      "p3": "Keittiössä maku kantaa kaiken läpi: <em>mustikkapiirakan</em>, <em>mustikkakeiton</em>, lusikallisen aamupuuron tai <em>viilin</em> päälle, ja Lapissa klassisen parin, mustikan ja poron."
+      "p3": "Keittiössä maku kantaa kaiken läpi: <em>mustikkapiirakan</em>, <em>mustikkakeiton</em>, lusikallisen aamupuuron tai <em>viilin</em> päälle, ja Lapissa klassisen parin, mustikan ja poron.",
+      "imageAlt": "Kourallinen vastapoimittuja mustikoita avoimella kämmenellä, taustalla männikkö"
     },
     "season": {
       "kicker": "Heinäkuun lopusta syyskuuhun",
@@ -921,7 +934,8 @@
       "p1": "Mustikka, <em>Vaccinium myrtillus</em>, ja viljelty pensasmustikka, <em>Vaccinium corymbosum</em>, ovat serkuksia, ja useimmilla kielillä, suomi mukaan lukien, molempia kutsutaan mustikaksi. Lautasella ne ovat eri hedelmiä.",
       "p2": "Mustikat kasvavat yksittäin matalissa metsävarvuissa ja ovat pieniä, tummia ja sinipunaisia läpikotaisin. Pensasmustikat kasvavat terttuina viljelyyn jalostetuissa korkeissa pensaissa, ovat suurempia ja kiinteämpiä ja pysyvät sisältä vaaleina, koska niiden väri on vain kuoressa.",
       "p3": "Tuo ero on syy siihen, miksi suomalainen mustikkapiirakka vuotaa sinipunaista eikä mustikkamuffini vuoda, ja miksi pakastettuja villimustikoita kannattaa etsiä ulkomaiden kaupoista: maku on tiivistynyt tavalla, johon viljelty marja ei koskaan yllä.",
-      "p4": "<strong>Jos suomalaisessa ruokalistassa lukee englanniksi blueberry, se tarkoittaa metsämustikkaa. Lapissa lautasen sininen marja on villi.</strong>"
+      "p4": "<strong>Jos suomalaisessa ruokalistassa lukee englanniksi blueberry, se tarkoittaa metsämustikkaa. Lapissa lautasen sininen marja on villi.</strong>",
+      "imageAlt": "Yksi kypsä mustikka kahden sormen välissä, taustalla epätarkka järvenrantaniitty"
     },
     "price": {
       "kicker": "Hinta ja arvo",
@@ -950,15 +964,18 @@
       "items": [
         {
           "title": "Mustikkapiirakka",
-          "body": "Pehmeä, usein kauramurulla katettu piirakka, jossa marjat paistetaan mukaan, kunnes ne vuotavat. Jokaisessa suomalaisessa kahvilassa on sellainen elokuussa, ja hyvät maistuvat metsältä eivätkä sokerilta."
+          "body": "Pehmeä, usein kauramurulla katettu piirakka, jossa marjat paistetaan mukaan, kunnes ne vuotavat. Jokaisessa suomalaisessa kahvilassa on sellainen elokuussa, ja hyvät maistuvat metsältä eivätkä sokerilta.",
+          "imageAlt": "Pellillinen uunista juuri otettua mustikkapiirakkaa"
         },
         {
           "title": "Mustikkakeitto",
-          "body": "Marjat haudutettuna hieman sokerin kanssa ja suurustettuna perunajauholla, tarjoillaan lämpimänä tai kylmänä, sellaisenaan tai puuron päällä. Myös hiihtäjän juoma, kaadettuna kuumana termospullosta ladulla."
+          "body": "Marjat haudutettuna hieman sokerin kanssa ja suurustettuna perunajauholla, tarjoillaan lämpimänä tai kylmänä, sellaisenaan tai puuron päällä. Myös hiihtäjän juoma, kaadettuna kuumana termospullosta ladulla.",
+          "imageAlt": "Kupillinen kuumaa mustikkakeittoa, pinnalla paahdettuja kookoshiutaleita"
         },
         {
           "title": "Poron kanssa",
-          "body": "Lapin ravintoloissa mustikkakastike tai maitohapatetut mustikat ovat poronfileen vieressä. Happamuus leikkaa rasvaisuutta; väri hoitaa loput."
+          "body": "Lapin ravintoloissa mustikkakastike tai maitohapatetut mustikat ovat poronfileen vieressä. Happamuus leikkaa rasvaisuutta; väri hoitaa loput.",
+          "imageAlt": "Viipaleita punaiseksi paistettua porofileetä, tumma mustikkakastike ja kokonaisia mustikoita kivilautasella"
         }
       ]
     },
@@ -1016,6 +1033,7 @@
       "title": "Tyrni, oranssia tulta",
       "titleHighlight": "rannalta.",
       "subtitle": "Tyrni ei kasva Lapin sisämaan metsissä lainkaan. Se kasvaa Pohjanlahden kivisillä rannoilla, pohjoisessa Lapin rannikolle Tornioon asti, ja se on suomalaisen ruokavaraston happamin marja ja yksi sen C-vitamiinirikkaimmista. Tässä on, missä se elää, miltä se maistuu ja miksi sen poimiminen on niin vaikeaa.",
+      "imageAlt": "Tyyni Perämeren ranta heinäkuun iltana, oikealla kivikkoranta ja veden takana matala metsäinen niemi",
       "primaryCta": "Opettele poimimaan",
       "secondaryCta": "Marjaopas",
       "pills": [
@@ -1053,7 +1071,8 @@
       "headline": "Miltä tyrni maistuu?",
       "answer": "Terävältä. Kypsä tyrnimarja on hapan kuin sitruuna, siinä on karvas, hieman öljyinen särmä, ja kun ensijärkytys on ohi, trooppinen vivahde jostain passionhedelmän ja aprikoosin väliltä. Mehu on paksua ja kirkkaan oranssia, ja se värjää kaiken, mihin osuu.",
       "p2": "Tuo happamuus on syy siihen, ettei marjaa juuri koskaan syödä sellaisenaan. Se laimennetaan mehuksi, makeutetaan hilloksi, pakastetaan sorbetiksi, tai keittiömestarit käyttävät sitä niin kuin sitruunaa: lusikallinen tyrniä leikkaa kerman, valkosuklaan, rasvaisen kalan ja tuhdin poron läpi.",
-      "p3": "Pakkanen ei pehmennä sitä paljoa. Marjat maistuvat lokakuussa jokseenkin samalta kuin syyskuussa; se, mikä muuttuu, on kuinka helposti ne irtoavat piikkisestä oksasta, ja se on poimijan todellinen ongelma."
+      "p3": "Pakkanen ei pehmennä sitä paljoa. Marjat maistuvat lokakuussa jokseenkin samalta kuin syyskuussa; se, mikä muuttuu, on kuinka helposti ne irtoavat piikkisestä oksasta, ja se on poimijan todellinen ongelma.",
+      "imageAlt": "Lähikuva kasasta kypsiä oransseja tyrnimarjoja"
     },
     "season": {
       "kicker": "Syyskuusta lokakuuhun",
@@ -1091,7 +1110,8 @@
       "p1": "Tyrnimarjat kasvavat tiiviisti oksia pitkin, jokainen niin lujasti kiinni, että vetäminen yleensä rikkoo sen. Marjojen välissä on useiden senttien mittaisia piikkejä. Pienenkin korillisen poimiminen käsin vaatii kärsivällisyyttä ja paksut hansikkaat.",
       "p2": "Kaupalliset viljelijät ratkaisevat sen kylmällä. He leikkaavat hedelmäoksat ja pakastavat ne; pakastetut marjat napsahtavat irti siististi ja menevät suoraan puristimeen. Siksi myös suurin osa tyrnistä päätyy sinulle mehuna, soseena tai hillona eikä tuoreena.",
       "p3": "Pensas on kaksikotinen: koiras- ja naaraskasvit ovat erillisiä, ja vain naaraat tekevät hedelmää, ja siksi tiheä kasvusto rannalla voi olla puoliksi hedelmätön.",
-      "p4": "<strong>Matkailijalle tämä tarkoittaa: tuore tyrni on harvinaista Suomessakin, mutta mehua on jokaisessa ruokakaupassa.</strong>"
+      "p4": "<strong>Matkailijalle tämä tarkoittaa: tuore tyrni on harvinaista Suomessakin, mutta mehua on jokaisessa ruokakaupassa.</strong>",
+      "imageAlt": "Oranssien marjojen painamia tyrnipensaita Pohjanlahden rannalla Billuddenissa Ruotsissa"
     },
     "price": {
       "kicker": "C-vitamiini",
@@ -1120,15 +1140,18 @@
       "items": [
         {
           "title": "Tyrnimehu",
-          "body": "Puristettua, makeutettua ja yleensä laimennettua, juodaan pienistä laseista. Kaupan versio on tapa, jolla useimmat suomalaiset kohtaavat marjan; tilan tuorepuristettu versio on terävämpää ja paksumpaa."
+          "body": "Puristettua, makeutettua ja yleensä laimennettua, juodaan pienistä laseista. Kaupan versio on tapa, jolla useimmat suomalaiset kohtaavat marjan; tilan tuorepuristettu versio on terävämpää ja paksumpaa.",
+          "imageAlt": "Pullo ja lasituoppi paksua, sameaa tyrnimehua"
         },
         {
           "title": "Hillo ja sose",
-          "body": "Sokerin kanssa keitettynä happamuus muuttuu joksikin marmeladin kaltaiseksi. Levitetään ruisleivälle, lusikoidaan puuron päälle tai tarjoillaan juuston kanssa."
+          "body": "Sokerin kanssa keitettynä happamuus muuttuu joksikin marmeladin kaltaiseksi. Levitetään ruisleivälle, lusikoidaan puuron päälle tai tarjoillaan juuston kanssa.",
+          "imageAlt": "Purkkeja tyrnihyytelöä sekä pulloja mehua ja likööriä pöydällä kaupan edessä Hiddenseellä Saksassa"
         },
         {
           "title": "Jälkiruokalistalla",
-          "body": "Lapin ja Helsingin maistelumenut käyttävät tyrniä sitruunanaan: sorbettina ruokalajien välissä, curdina valkosuklaan alla, terävänä kastikkeena rasvaisen arktisen kalan vieressä."
+          "body": "Lapin ja Helsingin maistelumenut käyttävät tyrniä sitruunanaan: sorbettina ruokalajien välissä, curdina valkosuklaan alla, terävänä kastikkeena rasvaisen arktisen kalan vieressä.",
+          "imageAlt": "Kvenelli oranssia tyrnisorbettia tummalla lautasella, valkosuklaakreemiä ja karamellisiru"
         }
       ]
     },
@@ -1504,6 +1527,7 @@
       "title": "Poronkäristys, ohueksi vuoltu",
       "titleHighlight": "ja hitaasti haudutettu.",
       "subtitle": "Kohmeisena ohueksi vuoltu poronliha ruskistetaan voissa ja haudutetaan, kunnes se hajoaa haarukalla, ja syödään perunamuusin, puolukoiden ja suolakurkun kanssa. Tässä poromiesten oma ohje, uuniversio, hinta ja paikat, joista sitä saa Lapissa.",
+      "imageAlt": "Viisi poroa kävelee tiellä keskikesällä Kilpisjärvellä Suomen Lapissa, taustalla vihreä tunturinrinne",
       "primaryCta": "Suoraan ohjeeseen",
       "secondaryCta": "Kaikki perinnereseptit",
       "pills": [
@@ -1561,7 +1585,8 @@
             "Laske lämpöä, nosta kansi päälle ja hauduta, kunnes liha on mureaa: paistilihasta 10–30 minuuttia, muista paloista pidempään. Lisää tilkka vettä, jos pohja kuivuu.",
             "Maista, lisää halutessasi pippuria ja tarjoa perunamuusin, puolukoiden ja suolakurkun kanssa."
           ],
-          "tip": "Paliskuntain yhdistyksen mukaan voimakkain maku tulee, kun paistorasvana käyttää poron kuuta eli poron rasvaa."
+          "tip": "Paliskuntain yhdistyksen mukaan voimakkain maku tulee, kun paistorasvana käyttää poron kuuta eli poron rasvaa.",
+          "imageAlt": "Lautasellinen poronkäristystä: ohueksi leikattua poroa perunamuusin päällä, puolukoita ja suolakurkkua"
         },
         {
           "name": "Poronkäristys uunissa",
@@ -1614,7 +1639,8 @@
       "headline": "Poroa ohuina lastuina.",
       "p1": "Poronkäristys on kohmeisena ohuiksi lastuiksi vuoltua poronlihaa, joka ruskistetaan rasvassa ja haudutetaan tilkassa vettä mureaksi. Paliskuntain yhdistys nimeää siihen sopivat palat: ulko- ja kulmapaisti, lapa ja etuselkä.",
       "p2": "Valtaosa Suomen poroista teurastetaan loka–marraskuussa, kun ne ovat eläneet vähintään puoli vuotta pelkällä luonnon ravinnolla. Liha on tummaa ja vähärasvaista, rasvaa on 2–4 %.",
-      "p3": "Rajan takana Ruotsissa sama ruoka on <em>renskav</em>. Suomen poronhoitoalueen poronlihalla on oma EU:n suojattu alkuperänimitys, <strong>Lapin Poron liha</strong>, vuodesta 2009: porot laiduntavat vapaasti luonnonlaitumilla, ja liha tuotetaan, leikataan ja pakataan poronhoitoalueella."
+      "p3": "Rajan takana Ruotsissa sama ruoka on <em>renskav</em>. Suomen poronhoitoalueen poronlihalla on oma EU:n suojattu alkuperänimitys, <strong>Lapin Poron liha</strong>, vuodesta 2009: porot laiduntavat vapaasti luonnonlaitumilla, ja liha tuotetaan, leikataan ja pakataan poronhoitoalueella.",
+      "imageAlt": "Poro seisoo syvässä lumessa talvisessa metsässä"
     },
     "variations": {
       "kicker": "Muunnelmat",
@@ -1772,6 +1798,7 @@
       "title": "Leipäjuusto, juusto",
       "titleHighlight": "joka narisee.",
       "subtitle": "Pohjoisen litteä tuorejuusto, joka paistetaan ruskeapilkulliseksi ja syödään lämpimänä lakkahillon kanssa tai kahviin pehmitettynä. Tässä kolme tapaa tarjota se, ohje kotitekoiseen ja selitys sille, miksi se narisee hampaissa.",
+      "imageAlt": "Pyöreä ruskeatäpläinen leipäjuusto tummassa vuoassa, yksi pala leikattu ja päällä lakkahilloa",
       "primaryCta": "Suoraan resepteihin",
       "secondaryCta": "Kaikki perinnereseptit",
       "pills": [
@@ -1827,7 +1854,8 @@
             "Paista noin 15 minuuttia, kunnes kerma kuplii ja juusto on pehmennyt.",
             "Lusikoi lakkahillo lämpimän juuston päälle ja tarjoa heti."
           ],
-          "tip": "Kiireessä mikro hoitaa saman: 3 minuuttia 800 watin teholla. Jos lakkaa ei ole, puolukka- tai mustikkahillo käy myös."
+          "tip": "Kiireessä mikro hoitaa saman: 3 minuuttia 800 watin teholla. Jos lakkaa ei ole, puolukka- tai mustikkahillo käy myös.",
+          "imageAlt": "Lämmin pala leipäjuustoa ja hilloa lautasella"
         },
         {
           "name": "Leipäjuustosalaatti",
@@ -1875,7 +1903,8 @@
             "Painele massa noin 2 cm paksuksi kiekoksi pyöreään uunivuokaan ja kaada irtoava hera pois.",
             "Ruskista uunin grillivastuksen alla 250–275 asteessa 5–10 minuuttia, kunnes pintaan tulee tummia pilkkuja."
           ],
-          "tip": "Parhaana raaka-aineena pidettiin ennen ternimaitoa eli poikimisen jälkeistä ensimaitoa, jossa on paljon kaseiinia. Kotona tavallinen täysmaito toimii hyvin."
+          "tip": "Parhaana raaka-aineena pidettiin ennen ternimaitoa eli poikimisen jälkeistä ensimaitoa, jossa on paljon kaseiinia. Kotona tavallinen täysmaito toimii hyvin.",
+          "imageAlt": "Pyöreä juustoleipä ylhäältä kuvattuna vuonna 1914, mustavalkoinen"
         }
       ]
     },
@@ -1884,7 +1913,8 @@
       "headline": "Tuorejuusto, paistettu pilkulliseksi.",
       "p1": "Leipäjuusto on lehmänmaidosta juoksuttamalla tehty tuorejuusto. Juustomassa muotoillaan litteäksi kiekoksi ja paistetaan molemmin puolin tummille pilkuille uunissa, grillissä tai avotulella. Koska juustoa ei kypsytetä, se säilyy meijeristä lähtiessään 10–14 päivää.",
       "p2": "Se kuuluu Pohjois-Suomeen. Useimmat murretiedot sanasta leipäjuusto ovat Pohjanmaalta ja Peräpohjolasta, kun taas Kainuussa sama juusto on juustoleipä. Tornionlaaksossa se on kahvijuusto, ja joen toisella puolella Ruotsissa kaffeost.",
-      "p3": "Perinteinen raaka-aine oli ternimaito, poikimisen jälkeinen ensimaito, jossa on paljon kaseiinia, ja siitä Juustoportti teki Jalasjärvellä ensimmäisen kaupallisen leipäjuuston vuonna 1966. Kaksi suomalaista leipäjuustoa odottaa nyt EU:n nimisuojaa: <strong>Pohjalainen leipäjuusto</strong> ja <strong>Kainuun juustoleipä</strong> hakivat sitä vuonna 2024. Ruotsissa kaffeost sai suojatun alkuperänimityksen vuonna 2025."
+      "p3": "Perinteinen raaka-aine oli ternimaito, poikimisen jälkeinen ensimaito, jossa on paljon kaseiinia, ja siitä Juustoportti teki Jalasjärvellä ensimmäisen kaupallisen leipäjuuston vuonna 1966. Kaksi suomalaista leipäjuustoa odottaa nyt EU:n nimisuojaa: <strong>Pohjalainen leipäjuusto</strong> ja <strong>Kainuun juustoleipä</strong> hakivat sitä vuonna 2024. Ruotsissa kaffeost sai suojatun alkuperänimityksen vuonna 2025.",
+      "imageAlt": "Pala leipäjuustoa liuskekivialustalla, pinta ruskeatäpläinen"
     },
     "variations": {
       "kicker": "Syömistavat",

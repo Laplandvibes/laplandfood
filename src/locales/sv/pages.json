@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Hjortronsylt",
-          "body": "Klassikern: hela bär med kärnor och allt, kokta så varsamt att syran överlever. I Finland skedas den över varm brödost, pannkakor och glass. Tar du med dig en enda ätbar souvenir hem, låt det bli den här."
+          "body": "Klassikern: hela bär med kärnor och allt, kokta så varsamt att syran överlever. I Finland skedas den över varm brödost, pannkakor och glass. Tar du med dig en enda ätbar souvenir hem, låt det bli den här.",
+          "imageAlt": "En sked hemgjord hjortronsylt med hela bär och kärnor"
         },
         {
           "title": "Hjortronlikör",
-          "body": "Lakka, den bärnstensgula likören på vilda hjortron, är Finlands klassiska avslutning på middagen: kall som den är eller hälld över vaniljglass. En flaska rymmer förvånansvärt mycket myr."
+          "body": "Lakka, den bärnstensgula likören på vilda hjortron, är Finlands klassiska avslutning på middagen: kall som den är eller hälld över vaniljglass. En flaska rymmer förvånansvärt mycket myr.",
+          "imageAlt": "Ett litet glas bärnstensfärgad hjortronlikör med en omärkt flaska bakom och lösa hjortron på ett mörkt bord"
         },
         {
           "title": "Hjortronparfait",
-          "body": "Lapplands fine dining-dessert. När nordens avsmakningsmenyer når efterrätten är det oftast här de landar, och i säsong vill varje kök ha färska bär till den."
+          "body": "Lapplands fine dining-dessert. När nordens avsmakningsmenyer når efterrätten är det oftast här de landar, och i säsong vill varje kök ha färska bär till den.",
+          "imageAlt": "En bit fryst hjortronparfait på ett mörkt fat, toppad med hela hjortron och ett krispigt rån"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "Mitten av juli till mitten av augusti",
           "body": "Myrens bärnstensfärgade bär som ingen kan odla. Fyra veckor om året, handplockat, prissatt som en delikatess.",
-          "cta": "Hjortronguiden"
+          "cta": "Hjortronguiden",
+          "imageAlt": "Ett moget bärnstensfärgat hjortron på sin planta bland mossor på myren"
         },
         {
           "name": "Blåbär",
           "latin": "Vaccinium myrtillus",
           "season": "Slutet av juli till september",
           "body": "Finlands vilda blåbär: lila rakt igenom, plockas hinkvis och bakas in i varenda augustipaj.",
-          "cta": "Blåbärsguiden"
+          "cta": "Blåbärsguiden",
+          "imageAlt": "Mogna blåbär på ett lågt grönt ris i en skog i Salla"
         },
         {
           "name": "Lingon",
           "latin": "Vaccinium vitis-idaea",
           "season": "Slutet av augusti till oktober",
           "body": "Det syrliga röda bäret bredvid varje rentallrik. Håller sig i burken utan socker och blir sötare efter frost.",
-          "cta": "Lingonguiden"
+          "cta": "Lingonguiden",
+          "imageAlt": "Två mogna lingon på en kvist i tjock mossa, Kemijärvi"
         },
         {
           "name": "Havtorn",
           "latin": "Hippophaë rhamnoides",
           "season": "September till oktober",
           "body": "Bottenvikskustens sura orange bär, plockat bland taggar och drucket som saft.",
-          "cta": "Havtornsguiden"
+          "cta": "Havtornsguiden",
+          "imageAlt": "Havtornsbuskar med orange bär på en strand vid Östersjön"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "Hur smakar lingon?",
       "answer": "Syrligt, lätt beskt och knappt sött, med en ren, torr eftersmak och inget av hjortronets mysk: tänk tranbär med sockret nedskruvat och lite mer beska. Rått får ett enda bär dig att grimasera; rört i något varmt, salt eller mjölkigt blir samma syra själva poängen.",
       "p2": "Frost hjälper. Bär plockade efter septembers första frostnätter är märkbart mildare och sötare än augustibär, och finska plockare lägger sina turer därefter. Fullt mogna bär är djupröda hela vägen runt; en blek sida betyder att det behöver en vecka till.",
-      "p3": "Du får sällan lingon serverade ensamma. De kommer som tillbehör: rårörda med lite socker bredvid renskav eller köttbullar, vispade till <em>vispipuuro</em>, den rosa mannagrynsgröt som varje finskt barn känner till, eller skedade över varm gröt med mjölk."
+      "p3": "Du får sällan lingon serverade ensamma. De kommer som tillbehör: rårörda med lite socker bredvid renskav eller köttbullar, vispade till <em>vispipuuro</em>, den rosa mannagrynsgröt som varje finskt barn känner till, eller skedade över varm gröt med mjölk.",
+      "imageAlt": "Två mogna lingon på en kvist i tjock mossa, omgivna av lingonblad, Kemijärvi, september 2026"
     },
     "season": {
       "kicker": "Slutet av augusti till oktober",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Rårörda lingon",
-          "body": "Puolukkasurvos: bär mosade med lite socker, inget annat. Tack vare bärets egen bensoesyra håller de sig i kylen eller ett kallt skafferi i månader. Det här är burken bredvid ren, köttbullar och lever."
+          "body": "Puolukkasurvos: bär mosade med lite socker, inget annat. Tack vare bärets egen bensoesyra håller de sig i kylen eller ett kallt skafferi i månader. Det här är burken bredvid ren, köttbullar och lever.",
+          "imageAlt": "Råa lingon i en hög bredvid finsk kålpudding i en vit skål"
         },
         {
           "title": "Lingonsylt",
-          "body": "Den kokta versionen, sötare och slätare, är exportklassikern och den de flesta besökare känner igen från svenska möbelvaruhus. I Finland äts den till pannkakor, risgrynsgröt och varm gröt."
+          "body": "Den kokta versionen, sötare och slätare, är exportklassikern och den de flesta besökare känner igen från svenska möbelvaruhus. I Finland äts den till pannkakor, risgrynsgröt och varm gröt.",
+          "imageAlt": "Tunna pannkakor med en liten skål lingonsylt"
         },
         {
           "title": "Vispipuuro",
-          "body": "Rosa vispad gröt: lingonsaft redd med mannagryn och sedan vispad luftig, serverad kall med mjölk. En skolmatsefterrätt som vuxna fortfarande beställer."
+          "body": "Rosa vispad gröt: lingonsaft redd med mannagryn och sedan vispad luftig, serverad kall med mjölk. En skolmatsefterrätt som vuxna fortfarande beställer.",
+          "imageAlt": "En skål rosa vispgröt på lingon i kall mjölk"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "Blåbär, det blå som",
       "titleHighlight": "färgar fingrarna.",
       "subtitle": "Mustikka är bäret som nästan varje finländare har plockat, det som färgar en hel barndoms augusti, och det som besökare envisas med att kalla amerikanskt blåbär. Här är hur de skiljer sig, hur det smakar och var det växer i Lappland.",
+      "imageAlt": "Mogna blåbär på ett lågt grönt ris i en skog i Salla i augusti",
       "primaryCta": "Lär dig plocka det",
       "secondaryCta": "Bärguiden",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "Hur smakar blåbär?",
       "answer": "Sötare och mjukare än tranbär, skarpare och vildare än ett odlat blåbär: skogsblåbäret är saftigt, tunnskaligt och intensivt färgat, med ett blommigt, lätt strävt djup som det odlade bäret inte har. Ät en näve direkt från riset och fingrar, läppar och tunga blir lila.",
       "p2": "Mognaden är lätt att läsa. Ett moget blåbär är dammigt mörkblått och lossnar vid minsta drag; ett bär som gör motstånd är en dag eller två för tidigt. Solvarma bär från en öppen glänta smakar sötast; skuggbär från djup granskog är större och saftigare.",
-      "p3": "I köket bär smaken igenom allt: <em>mustikkapiirakka</em>, blåbärspaj, <em>mustikkakeitto</em>, blåbärssoppa, en sked på morgongröten eller på <em>viili</em>, filmjölk, och i Lappland den klassiska kombinationen blåbär och ren."
+      "p3": "I köket bär smaken igenom allt: <em>mustikkapiirakka</em>, blåbärspaj, <em>mustikkakeitto</em>, blåbärssoppa, en sked på morgongröten eller på <em>viili</em>, filmjölk, och i Lappland den klassiska kombinationen blåbär och ren.",
+      "imageAlt": "En handfull nyplockade blåbär i en öppen handflata, med tallskog i bakgrunden"
     },
     "season": {
       "kicker": "Slutet av juli till september",
@@ -920,7 +933,8 @@
       "p1": "Skogsblåbäret, <em>Vaccinium myrtillus</em>, och det odlade amerikanska blåbäret, <em>Vaccinium corymbosum</em>, är kusiner, och på de flesta språk, finska inräknat, kallas båda blåbär. På tallriken är de olika frukter.",
       "p2": "Skogsblåbär växer ett och ett på låga ris och är små, mörka och lila rakt igenom. Odlade blåbär växer i klasar på höga buskar förädlade för odling, är större och fastare och förblir bleka inuti eftersom färgen bara sitter i skalet.",
       "p3": "Den skillnaden är skälet till att en finsk blåbärspaj blöder lila medan en blåbärsmuffin inte gör det, och till att frysta vilda blåbär är värda att leta efter i butiker utomlands: smaken är koncentrerad på ett sätt som det odlade bäret aldrig når.",
-      "p4": "<strong>Om du ser en finsk meny översatt till blueberry betyder det skogsblåbär. I Lappland är det blå bäret på tallriken det vilda.</strong>"
+      "p4": "<strong>Om du ser en finsk meny översatt till blueberry betyder det skogsblåbär. I Lappland är det blå bäret på tallriken det vilda.</strong>",
+      "imageAlt": "Ett enda moget blåbär mellan två fingrar, med en suddig strandäng vid en sjö i bakgrunden"
     },
     "price": {
       "kicker": "Vad det är värt",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Blåbärspaj",
-          "body": "Mustikkapiirakka: en mjuk paj, ofta med havretäcke, där bären gräddas med tills de blöder. Varje finskt kafé har en i augusti, och de bra smakar skog snarare än socker."
+          "body": "Mustikkapiirakka: en mjuk paj, ofta med havretäcke, där bären gräddas med tills de blöder. Varje finskt kafé har en i augusti, och de bra smakar skog snarare än socker.",
+          "imageAlt": "En plåt finsk blåbärspaj som just tagits ut ur ugnen"
         },
         {
           "title": "Blåbärssoppa",
-          "body": "Mustikkakeitto: bär sjudna med lite socker och redda med potatismjöl, serverad varm eller kall, för sig själv eller över gröt. Också skidåkarens dryck, hälld het ur termosen i spåret."
+          "body": "Mustikkakeitto: bär sjudna med lite socker och redda med potatismjöl, serverad varm eller kall, för sig själv eller över gröt. Också skidåkarens dryck, hälld het ur termosen i spåret.",
+          "imageAlt": "En kopp varm blåbärssoppa strödd med rostade kokosflingor"
         },
         {
           "title": "Till ren",
-          "body": "På Lapplands restauranger står en blåbärsreduktion eller mjölksyrade blåbär bredvid renfilén. Syran skär igenom fettet; färgen sköter resten."
+          "body": "På Lapplands restauranger står en blåbärsreduktion eller mjölksyrade blåbär bredvid renfilén. Syran skär igenom fettet; färgen sköter resten.",
+          "imageAlt": "Skivor av rosastekt renfilé med en mörk blåbärsreduktion och hela blåbär på en stentallrik"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "Havtorn, orange eld",
       "titleHighlight": "från stranden.",
       "subtitle": "Tyrni växer inte alls i inlandet i Lappland. Det växer på Bottniska vikens steniga stränder, norrut ända till Lapplands kust vid Torneå, och det är det suraste bäret i det finska skafferiet och ett av de C-vitaminrikaste. Här är var det lever, hur det smakar och varför det är så svårt att plocka.",
+      "imageAlt": "Lugn strand vid Bottenviken en kväll i juli, med en stenig strand till höger och en låg skogsklädd udde på andra sidan vattnet",
       "primaryCta": "Lär dig plocka det",
       "secondaryCta": "Bärguiden",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "Hur smakar havtorn?",
       "answer": "Skarpt. Ett moget havtornsbär är surt som en citron, med en besk, lätt oljig kant och, när chocken lagt sig, en tropisk ton någonstans mellan passionsfrukt och aprikos. Saften är tjock och klart orange och färgar allt den rör vid.",
       "p2": "Den syran är skälet till att bäret nästan aldrig äts som det är. Det späds till saft, sötas till sylt, fryses till sorbet, eller används av kockar som en citron används: en sked havtorn skär igenom grädde, vit choklad, fet fisk och kraftig ren.",
-      "p3": "Frost mildrar det inte mycket. Bären smakar ungefär likadant i oktober som i september; det som ändras är hur lätt de lossnar från den taggiga grenen, vilket är plockarens verkliga problem."
+      "p3": "Frost mildrar det inte mycket. Bären smakar ungefär likadant i oktober som i september; det som ändras är hur lätt de lossnar från den taggiga grenen, vilket är plockarens verkliga problem.",
+      "imageAlt": "Närbild av en hög mogna orange havtornsbär"
     },
     "season": {
       "kicker": "September till oktober",
@@ -1090,7 +1109,8 @@
       "p1": "Havtornsbär sitter tätt packade längs grenarna, vart och ett så hårt fäst att det oftast spricker när man drar. Mellan bären sitter taggar på flera centimeter. Att plocka ens en liten korg för hand kräver tålamod och tjocka handskar.",
       "p2": "Kommersiella odlare löser det med kyla. De klipper fruktbärande grenar och fryser dem; frysta bär knäpps av rent och går direkt till pressen. Det är också därför det mesta av havtornet når dig som saft, puré eller sylt snarare än färskt.",
       "p3": "Busken är tvåbyggare: han- och honplantor är skilda, och bara honorna bär frukt, vilket är skälet till att ett tätt bestånd på stranden kan vara till hälften ofruktsamt.",
-      "p4": "<strong>Slutsatsen för en resenär: färsk havtorn är sällsynt även i Finland, men saften finns i varje mataffär.</strong>"
+      "p4": "<strong>Slutsatsen för en resenär: färsk havtorn är sällsynt även i Finland, men saften finns i varje mataffär.</strong>",
+      "imageAlt": "Havtornsbuskar tunga av orange bär på Billudden vid Bottniska viken"
     },
     "price": {
       "kicker": "C-vitamin",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Havtornssaft",
-          "body": "Tyrnimehu: pressad, sötad och oftast utspädd, drucken i små glas. Mataffärens version är hur de flesta finländare möter bäret; gårdens färskpressade är skarpare och tjockare."
+          "body": "Tyrnimehu: pressad, sötad och oftast utspädd, drucken i små glas. Mataffärens version är hur de flesta finländare möter bäret; gårdens färskpressade är skarpare och tjockare.",
+          "imageAlt": "En flaska och ett glasstop med tjock, grumlig havtornsjuice"
         },
         {
           "title": "Sylt och puré",
-          "body": "Kokt med socker blir syran till något närmare marmelad. Bres på rågbröd, skedas över gröt eller serveras till ost."
+          "body": "Kokt med socker blir syran till något närmare marmelad. Bres på rågbröd, skedas över gröt eller serveras till ost.",
+          "imageAlt": "Burkar med havtornsgelé och flaskor med juice och likör på ett bord utanför en butik på Hiddensee i Tyskland"
         },
         {
           "title": "På efterrättsmenyn",
-          "body": "Lapplands och Helsingfors avsmakningsmenyer använder havtorn som sin citron: en sorbet mellan rätterna, en curd under vit choklad, en skarp sås till fet arktisk fisk."
+          "body": "Lapplands och Helsingfors avsmakningsmenyer använder havtorn som sin citron: en sorbet mellan rätterna, en curd under vit choklad, en skarp sås till fet arktisk fisk.",
+          "imageAlt": "En quenelle orange havtornssorbet på ett mörkt fat med vit chokladkräm och en karamellflisa"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, tunt skivad ren",
       "titleHighlight": "som får puttra länge.",
       "subtitle": "Halvfrusen ren skärs i tunna skivor, bryns i smör och får puttra tills köttet faller isär. Sedan serveras det på potatismos med lingon och saltgurka. Här är renskötarnas eget recept, ugnsvarianten, vad rätten kostar och var du beställer den i Lappland.",
+      "imageAlt": "Fem renar som går längs vägen vid midsommar i Kilpisjärvi i finska Lappland, med en grön fjällsluttning bakom",
       "primaryCta": "Hoppa till receptet",
       "secondaryCta": "Alla traditionella recept",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Sänk värmen, lägg på lock och låt puttra tills köttet är mört, 10 till 30 minuter om köttet kommer från låret och längre för andra delar. Häll i en skvätt vatten om det kokar torrt.",
             "Smaka av, peppra om du vill och servera på potatismos med lingon och saltgurka."
           ],
-          "tip": "Enligt renskötarföreningen får du den kraftigaste smaken om du steker köttet i renfett."
+          "tip": "Enligt renskötarföreningen får du den kraftigaste smaken om du steker köttet i renfett.",
+          "imageAlt": "En tallrik poronkäristys: tunt skivad ren på potatismos med lingon och saltgurka"
         },
         {
           "name": "Poronkäristys i ugn",
@@ -1613,7 +1638,8 @@
       "headline": "Ren i tunna skivor.",
       "p1": "Poronkäristys är renkött som skivas tunt medan det är halvfruset, bryns i fett och får puttra i lite vatten tills det är mört. Renskötarföreningen anger vilka delar som passar: ytterlår och fransyska, bog och främre delen av ryggen.",
       "p2": "De flesta finska renar slaktas i oktober och november, efter minst ett halvår på enbart naturbete. Köttet är mörkt och magert, med 2 till 4 % fett.",
-      "p3": "I Sverige heter samma rätt <em>renskav</em>. Renkött från det finska renskötselområdet har sedan 2009 en egen skyddad ursprungsbeteckning inom EU, <strong>Lapin Poron liha</strong>: renarna betar fritt på naturbete, och köttet produceras, styckas och förpackas inom renskötselområdet."
+      "p3": "I Sverige heter samma rätt <em>renskav</em>. Renkött från det finska renskötselområdet har sedan 2009 en egen skyddad ursprungsbeteckning inom EU, <strong>Lapin Poron liha</strong>: renarna betar fritt på naturbete, och köttet produceras, styckas och förpackas inom renskötselområdet.",
+      "imageAlt": "En ren som står i djup snö i en vinterskog"
     },
     "variations": {
       "kicker": "Varianter",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, osten",
       "titleHighlight": "som gnisslar.",
       "subtitle": "En platt, färsk ost från norra Finland som gräddas tills den får bruna fläckar och äts varm med hjortronsylt eller uppmjukad i en kopp kaffe. Här får du veta hur du serverar den, hur du gör den själv av mjölk och varför den gnisslar mot tänderna.",
+      "imageAlt": "En rund leipäjuusto med bruna fläckar i en mörk form, med en bit utskuren och toppad med hjortronsylt",
       "primaryCta": "Hoppa till recepten",
       "secondaryCta": "Alla traditionella recept",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Grädda i ungefär 15 minuter, tills grädden bubblar och osten har mjuknat.",
             "Skeda hjortronsylten över den varma osten och servera direkt."
           ],
-          "tip": "Har du bråttom går det lika bra med 3 minuter i mikron på 800 W. Lingon- eller blåbärssylt fungerar när hjortron inte finns att få."
+          "tip": "Har du bråttom går det lika bra med 3 minuter i mikron på 800 W. Lingon- eller blåbärssylt fungerar när hjortron inte finns att få.",
+          "imageAlt": "En varm bit leipäjuusto med sylt på en tallrik"
         },
         {
           "name": "Sallad med leipäjuusto",
@@ -1874,7 +1902,8 @@
             "Tryck ut ostmassan i en flat, rund ugnsform till en ungefär 2 cm tjock kaka och häll av vasslen som rinner ut.",
             "Bryn osten under ugnens grill på 250 till 275 °C i 5 till 10 minuter, tills mörka fläckar syns."
           ],
-          "tip": "Traditionellt gjordes den bästa brödosten på råmjölk, den första mjölken efter kalvningen, som är rik på kasein. Hemma fungerar vanlig standardmjölk."
+          "tip": "Traditionellt gjordes den bästa brödosten på råmjölk, den första mjölken efter kalvningen, som är rik på kasein. Hemma fungerar vanlig standardmjölk.",
+          "imageAlt": "En rund juustoleipä-ost fotograferad ovanifrån 1914, svartvit"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Färsk ost, gräddad tills den blir fläckig.",
       "p1": "Leipäjuusto är en färsk ost gjord på komjölk som ystas med löpe. Ostmassan formas till en platt kaka och gräddas på båda sidor tills ytan får mörka fläckar, i ugn, på grill eller vid öppen eld. Osten lagras inte, så den håller i 10 till 14 dagar från mejeriet.",
       "p2": "Osten hör hemma i norra Finland. De flesta dialektbelägg för ordet leipäjuusto kommer från Österbotten och Peräpohjola i nordväst, medan samma ost i Kajanaland kallas juustoleipä. I finska Tornedalen vid gränsen mot Sverige heter den kahvijuusto, och på den svenska sidan av älven heter motsvarigheten kaffeost.",
-      "p3": "Det traditionella råmaterialet var råmjölk, den första mjölken efter kalvningen, som är rik på kasein, och av den gjorde Juustoportti i Jalasjärvi den första kommersiella brödosten 1966. Två finska varianter väntar nu på ett skyddat namn inom EU: ansökningarna för <strong>Pohjalainen leipäjuusto</strong> och <strong>Kainuun juustoleipä</strong> lämnades in 2024. I Sverige blev kaffeost en skyddad ursprungsbeteckning 2025."
+      "p3": "Det traditionella råmaterialet var råmjölk, den första mjölken efter kalvningen, som är rik på kasein, och av den gjorde Juustoportti i Jalasjärvi den första kommersiella brödosten 1966. Två finska varianter väntar nu på ett skyddat namn inom EU: ansökningarna för <strong>Pohjalainen leipäjuusto</strong> och <strong>Kainuun juustoleipä</strong> lämnades in 2024. I Sverige blev kaffeost en skyddad ursprungsbeteckning 2025.",
+      "imageAlt": "En bit leipäjuusto med brunfläckig yta på en skifferbricka"
     },
     "variations": {
       "kicker": "Så äter du den",

@@ -15,21 +15,14 @@ const LINGONBERRY: BerryConfig = {
   path: '/lingonberry',
   hero: {
     image: '/images/hero-lingonberry-kemijarvi.webp',
-    alt: 'Ripe lingonberries on the forest floor among moss and lingonberry sprigs, pine forest, Kemijärvi, Finnish Lapland, September 2026',
   },
   taste: {
     image: '/images/lingonberry-kemijarvi.jpg',
-    alt: 'Two ripe lingonberries on a sprig in thick moss, lingonberry leaves around them, Kemijärvi, September 2026',
     ownPhoto: true,
   },
   versus: {},
   products: {
     images: ['/images/lingonberry-survos.jpg', '/images/lingonberry-jam.jpg', '/images/lingonberry-vispipuuro.jpg'],
-    alts: [
-      'Raw lingonberries heaped beside Finnish cabbage casserole in a white bowl',
-      'Thin pancakes with a small bowl of lingonberry jam',
-      'A bowl of pink whipped lingonberry porridge in cold milk',
-    ],
   },
   gyg: { query: 'Lapland foraging tour', sid: 'lingonberry_foraging_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'lingonberry_stay_rovaniemi' },

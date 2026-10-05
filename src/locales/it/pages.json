@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Confettura di mora artica",
-          "body": "La lakkahillo è il classico: bacche intere, semi compresi, cotte con la delicatezza giusta perché l'acidità sopravviva. I finlandesi la servono sul formaggio-pane tiepido, sui pancake e sul gelato. Se porta a casa dalla Finlandia un solo souvenir da mangiare, scelga questo."
+          "body": "La lakkahillo è il classico: bacche intere, semi compresi, cotte con la delicatezza giusta perché l'acidità sopravviva. I finlandesi la servono sul formaggio-pane tiepido, sui pancake e sul gelato. Se porta a casa dalla Finlandia un solo souvenir da mangiare, scelga questo.",
+          "imageAlt": "Un cucchiaio di confettura fatta in casa di more artiche, con le bacche intere e i semi"
         },
         {
           "title": "Liquore di mora artica",
-          "body": "Lakka, il liquore ambrato nato dalle more artiche selvatiche, è il classico fine cena finlandese: freddo e liscio, o versato sul gelato alla vaniglia. In una bottiglia entra una quantità sorprendente di torbiera."
+          "body": "Lakka, il liquore ambrato nato dalle more artiche selvatiche, è il classico fine cena finlandese: freddo e liscio, o versato sul gelato alla vaniglia. In una bottiglia entra una quantità sorprendente di torbiera.",
+          "imageAlt": "Un bicchierino di liquore di mora artica color ambra con una bottiglia senza etichetta dietro e bacche sparse su un tavolo scuro"
         },
         {
           "title": "Parfait alla mora artica",
-          "body": "Il dessert del fine dining in Lapponia. Quando i menu degustazione del nord arrivano al dolce, di solito approdano qui, e in stagione ogni cucina vuole bacche fresche per prepararlo."
+          "body": "Il dessert del fine dining in Lapponia. Quando i menu degustazione del nord arrivano al dolce, di solito approdano qui, e in stagione ogni cucina vuole bacche fresche per prepararlo.",
+          "imageAlt": "Una fetta di semifreddo alla mora artica su un piatto scuro, guarnita con bacche intere e una cialda croccante"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "Da metà luglio a metà agosto",
           "body": "La bacca ambrata delle torbiere che nessuno sa coltivare. Quattro settimane l'anno, raccolta a mano, al prezzo di una prelibatezza.",
-          "cta": "Guida alla mora artica"
+          "cta": "Guida alla mora artica",
+          "imageAlt": "Una mora artica matura color ambra sulla sua pianta tra i muschi della torbiera"
         },
         {
           "name": "Mirtillo nero",
           "latin": "Vaccinium myrtillus",
           "season": "Da fine luglio a settembre",
           "body": "Il mirtillo selvatico della Finlandia: viola fino al cuore, raccolto a secchi e cotto in ogni torta di agosto.",
-          "cta": "Guida al mirtillo nero"
+          "cta": "Guida al mirtillo nero",
+          "imageAlt": "Mirtilli neri maturi su un basso arbusto verde in un bosco di Salla"
         },
         {
           "name": "Mirtillo rosso",
           "latin": "Vaccinium vitis-idaea",
           "season": "Da fine agosto a ottobre",
           "body": "La bacca rossa e aspra accanto a ogni piatto di renna. Si conserva in vasetto senza zucchero e si addolcisce dopo il gelo.",
-          "cta": "Guida al mirtillo rosso"
+          "cta": "Guida al mirtillo rosso",
+          "imageAlt": "Due mirtilli rossi maturi su un rametto nel muschio fitto, Kemijärvi"
         },
         {
           "name": "Olivello spinoso",
           "latin": "Hippophaë rhamnoides",
           "season": "Da settembre a ottobre",
           "body": "La bacca arancione e acida della costa del golfo di Botnia, raccolta tra le spine e bevuta come succo.",
-          "cta": "Guida all'olivello spinoso"
+          "cta": "Guida all'olivello spinoso",
+          "imageAlt": "Arbusti di olivello spinoso con bacche arancioni su una riva del Baltico"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "Che sapore ha il mirtillo rosso?",
       "answer": "Aspro, leggermente amaro e appena dolce, con un finale pulito e secco e niente del muschio della mora artica: pensi a un cranberry con lo zucchero abbassato e un po' più di amaro. Cruda, una sola bacca fa storcere il viso; mescolata a qualcosa di caldo, salato o a base di latte, la stessa acidità diventa il punto.",
       "p2": "Il gelo aiuta. Le bacche raccolte dopo le prime gelate notturne di settembre sono nettamente più morbide e dolci di quelle di agosto, e i raccoglitori finlandesi programmano le uscite di conseguenza. Una bacca matura è rosso intenso tutt'intorno; un lato pallido significa che le serve un'altra settimana.",
-      "p3": "Raramente Le serviranno mirtilli rossi da soli. Arrivano come contorno: crudi e schiacciati con poco zucchero accanto alla renna saltata o alle polpette, montati in <em>vispipuuro</em>, il porridge rosa di semolino che ogni bambino finlandese conosce, o a cucchiaiate sul porridge caldo con il latte."
+      "p3": "Raramente Le serviranno mirtilli rossi da soli. Arrivano come contorno: crudi e schiacciati con poco zucchero accanto alla renna saltata o alle polpette, montati in <em>vispipuuro</em>, il porridge rosa di semolino che ogni bambino finlandese conosce, o a cucchiaiate sul porridge caldo con il latte.",
+      "imageAlt": "Due mirtilli rossi maturi su un rametto nel muschio fitto, circondati da foglie, Kemijärvi, settembre 2026"
     },
     "season": {
       "kicker": "Da fine agosto a ottobre",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Mirtilli rossi crudi schiacciati",
-          "body": "Puolukkasurvos: bacche schiacciate con poco zucchero, nient'altro. Grazie all'acido benzoico della bacca stessa si conserva per mesi in frigorifero o in una dispensa fredda. È il vasetto accanto a renna, polpette e fegato."
+          "body": "Puolukkasurvos: bacche schiacciate con poco zucchero, nient'altro. Grazie all'acido benzoico della bacca stessa si conserva per mesi in frigorifero o in una dispensa fredda. È il vasetto accanto a renna, polpette e fegato.",
+          "imageAlt": "Mirtilli rossi crudi ammucchiati accanto a uno sformato finlandese di cavolo in una ciotola bianca"
         },
         {
           "title": "Confettura di mirtilli rossi",
-          "body": "La versione cotta, più dolce e più liscia, è il classico da esportazione e quella che la maggior parte dei visitatori conosce dai negozi di mobili svedesi. In Finlandia accompagna frittelle, riso al latte e porridge caldo."
+          "body": "La versione cotta, più dolce e più liscia, è il classico da esportazione e quella che la maggior parte dei visitatori conosce dai negozi di mobili svedesi. In Finlandia accompagna frittelle, riso al latte e porridge caldo.",
+          "imageAlt": "Crespelle sottili con una ciotolina di confettura di mirtilli rossi"
         },
         {
           "title": "Vispipuuro",
-          "body": "Porridge rosa montato: succo di mirtilli rossi addensato con semolino e poi sbattuto fino a diventare soffice, servito freddo con il latte. Un dessert da mensa scolastica che gli adulti ordinano ancora."
+          "body": "Porridge rosa montato: succo di mirtilli rossi addensato con semolino e poi sbattuto fino a diventare soffice, servito freddo con il latte. Un dessert da mensa scolastica che gli adulti ordinano ancora.",
+          "imageAlt": "Una ciotola di semolino rosa montato ai mirtilli rossi, nel latte freddo"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "Mirtillo nero, il blu che",
       "titleHighlight": "macchia le dita.",
       "subtitle": "La mustikka è la bacca che quasi ogni finlandese ha raccolto, quella che colora un intero agosto d'infanzia, e quella che i visitatori continuano a chiamare mirtillo gigante. Ecco in cosa differisce, che sapore ha e dove cresce in Lapponia.",
+      "imageAlt": "Mirtilli neri maturi su un basso arbusto verde in un bosco di Salla ad agosto",
       "primaryCta": "Impari a raccoglierlo",
       "secondaryCta": "La guida alle bacche",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "Che sapore ha il mirtillo nero?",
       "answer": "Più dolce e morbido di un cranberry, più vivo e più selvatico di un mirtillo coltivato: il mirtillo nero è succoso, dalla buccia sottile e dal colore intenso, con una profondità floreale, leggermente tannica, che il mirtillo coltivato non ha. Ne mangi una manciata direttamente dall'arbusto e dita, labbra e lingua diventano viola.",
       "p2": "La maturazione si legge facilmente. Un mirtillo maturo è di un blu scuro pruinoso e si stacca al minimo tocco; una bacca che resiste è in anticipo di un giorno o due. Le bacche scaldate dal sole in una radura aperta sono le più dolci; quelle d'ombra di un fitto bosco di abeti sono più grandi e più succose.",
-      "p3": "In cucina il sapore attraversa tutto: la torta <em>mustikkapiirakka</em>, la zuppa <em>mustikkakeitto</em>, un cucchiaio sul porridge del mattino o sul <em>viili</em>, il latte cagliato, e in Lapponia l'abbinamento classico di mirtillo nero e renna."
+      "p3": "In cucina il sapore attraversa tutto: la torta <em>mustikkapiirakka</em>, la zuppa <em>mustikkakeitto</em>, un cucchiaio sul porridge del mattino o sul <em>viili</em>, il latte cagliato, e in Lapponia l'abbinamento classico di mirtillo nero e renna.",
+      "imageAlt": "Una manciata di mirtilli neri appena raccolti nel palmo aperto, con una pineta sullo sfondo"
     },
     "season": {
       "kicker": "Da fine luglio a settembre",
@@ -920,7 +933,8 @@
       "p1": "Il mirtillo nero, <em>Vaccinium myrtillus</em>, e il mirtillo coltivato, <em>Vaccinium corymbosum</em>, sono cugini, e nella maggior parte delle lingue, finlandese compreso, entrambi si chiamano mirtillo. Nel piatto sono frutti diversi.",
       "p2": "I mirtilli neri crescono uno a uno su bassi arbusti di bosco e sono piccoli, scuri e viola fino al cuore. I mirtilli coltivati crescono a grappoli su cespugli alti selezionati per la coltivazione, sono più grandi e più sodi e restano pallidi dentro perché il loro colore sta solo nella buccia.",
       "p3": "Quella differenza è il motivo per cui una torta finlandese di mirtilli neri sanguina viola e un muffin ai mirtilli no, e per cui vale la pena cercare i mirtilli neri surgelati nei negozi all'estero: il sapore è concentrato in un modo che la bacca coltivata non raggiunge mai.",
-      "p4": "<strong>Se vede un menu finlandese tradotto con blueberry o mirtillo gigante, si tratta del mirtillo nero. In Lapponia la bacca blu nel piatto è quella selvatica.</strong>"
+      "p4": "<strong>Se vede un menu finlandese tradotto con blueberry o mirtillo gigante, si tratta del mirtillo nero. In Lapponia la bacca blu nel piatto è quella selvatica.</strong>",
+      "imageAlt": "Un singolo mirtillo nero maturo tra due dita, con un prato in riva a un lago sfocato sullo sfondo"
     },
     "price": {
       "kicker": "Quanto vale",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Torta di mirtilli neri",
-          "body": "Mustikkapiirakka: una torta morbida, spesso coperta di avena, con le bacche cotte dentro finché sanguinano. Ogni caffè finlandese ne ha una ad agosto, e quelle buone sanno di bosco più che di zucchero."
+          "body": "Mustikkapiirakka: una torta morbida, spesso coperta di avena, con le bacche cotte dentro finché sanguinano. Ogni caffè finlandese ne ha una ad agosto, e quelle buone sanno di bosco più che di zucchero.",
+          "imageAlt": "Una teglia di torta finlandese ai mirtilli appena sfornata"
         },
         {
           "title": "Zuppa di mirtilli neri",
-          "body": "Mustikkakeitto: bacche cotte piano con poco zucchero e addensate con fecola di patate, servite calde o fredde, da sole o sul porridge. Anche la bevanda dello sciatore, versata bollente dal thermos sulla pista."
+          "body": "Mustikkakeitto: bacche cotte piano con poco zucchero e addensate con fecola di patate, servite calde o fredde, da sole o sul porridge. Anche la bevanda dello sciatore, versata bollente dal thermos sulla pista.",
+          "imageAlt": "Una tazza di zuppa calda di mirtilli cosparsa di scaglie di cocco tostato"
         },
         {
           "title": "Con la renna",
-          "body": "Nei ristoranti della Lapponia una riduzione di mirtilli neri o mirtilli lattofermentati accompagnano il filetto di renna. L'acidità taglia la ricchezza; il colore fa il resto."
+          "body": "Nei ristoranti della Lapponia una riduzione di mirtilli neri o mirtilli lattofermentati accompagnano il filetto di renna. L'acidità taglia la ricchezza; il colore fa il resto.",
+          "imageAlt": "Fette di filetto di renna al sangue con una riduzione scura di mirtilli e bacche intere su un piatto di pietra"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "Olivello spinoso, fuoco arancione",
       "titleHighlight": "dalla riva.",
       "subtitle": "Il tyrni non cresce affatto nei boschi dell'interno della Lapponia. Cresce sulle rive sassose del golfo di Botnia, a nord fino alla costa della Lapponia presso Tornio, ed è la bacca più acida della dispensa finlandese e una delle più ricche di vitamina C. Ecco dove vive, che sapore ha e perché è così difficile da raccogliere.",
+      "imageAlt": "Riva tranquilla del golfo di Botnia in una sera di luglio, con una spiaggia sassosa a destra e una bassa punta boscosa oltre l'acqua",
       "primaryCta": "Impari a raccoglierlo",
       "secondaryCta": "La guida alle bacche",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "Che sapore ha l'olivello spinoso?",
       "answer": "Tagliente. Una bacca matura di olivello spinoso è acida come un limone, con un bordo amaro, leggermente oleoso, e, passato lo shock, una nota tropicale tra il frutto della passione e l'albicocca. Il succo è denso, di un arancione brillante, e macchia tutto ciò che tocca.",
       "p2": "Quell'acidità è il motivo per cui la bacca non si mangia quasi mai al naturale. Si diluisce in succo, si zucchera in confettura, si gela in sorbetto, o gli chef la usano come si usa un limone: un cucchiaio di olivello spinoso taglia la panna, il cioccolato bianco, il pesce grasso e la renna sostanziosa.",
-      "p3": "Il gelo non lo addolcisce molto. Le bacche a ottobre sanno più o meno come a settembre; ciò che cambia è quanto facilmente si staccano dal ramo spinoso, e quello è il vero problema del raccoglitore."
+      "p3": "Il gelo non lo addolcisce molto. Le bacche a ottobre sanno più o meno come a settembre; ciò che cambia è quanto facilmente si staccano dal ramo spinoso, e quello è il vero problema del raccoglitore.",
+      "imageAlt": "Primo piano di un mucchio di bacche di olivello spinoso mature e arancioni"
     },
     "season": {
       "kicker": "Da settembre a ottobre",
@@ -1090,7 +1109,8 @@
       "p1": "Le bacche di olivello spinoso crescono fitte lungo i rami, ciascuna così saldamente attaccata che tirandola di solito scoppia. Tra le bacche stanno spine lunghe diversi centimetri. Raccogliere a mano anche solo un cestino richiede pazienza e guanti spessi.",
       "p2": "I coltivatori professionali risolvono con il freddo. Tagliano i rami fruttiferi e li congelano; le bacche congelate si staccano di netto e vanno dritte alla pressa. È anche per questo che la maggior parte dell'olivello spinoso Le arriva come succo, purea o confettura e non fresco.",
       "p3": "L'arbusto è dioico: piante maschili e femminili sono separate, e solo le femminili fruttificano, per cui un popolamento fitto sulla riva può essere sterile per metà.",
-      "p4": "<strong>La conclusione per chi viaggia: l'olivello spinoso fresco è raro anche in Finlandia, ma il succo è in ogni supermercato.</strong>"
+      "p4": "<strong>La conclusione per chi viaggia: l'olivello spinoso fresco è raro anche in Finlandia, ma il succo è in ogni supermercato.</strong>",
+      "imageAlt": "Arbusti di olivello spinoso carichi di bacche arancioni sulla costa del golfo di Botnia a Billudden, in Svezia"
     },
     "price": {
       "kicker": "Vitamina C",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Succo di olivello spinoso",
-          "body": "Tyrnimehu: spremuto, zuccherato e di solito diluito, bevuto in bicchierini. La versione da supermercato è il modo in cui la maggior parte dei finlandesi incontra la bacca; la versione spremuta fresca in fattoria è più tagliente e più densa."
+          "body": "Tyrnimehu: spremuto, zuccherato e di solito diluito, bevuto in bicchierini. La versione da supermercato è il modo in cui la maggior parte dei finlandesi incontra la bacca; la versione spremuta fresca in fattoria è più tagliente e più densa.",
+          "imageAlt": "Una bottiglia e un boccale di vetro di succo di olivello spinoso denso e torbido"
         },
         {
           "title": "Confettura e purea",
-          "body": "Cotta con lo zucchero, l'acidità diventa qualcosa di più vicino a una marmellata. Spalmata sul pane di segale, a cucchiaiate sul porridge o servita con il formaggio."
+          "body": "Cotta con lo zucchero, l'acidità diventa qualcosa di più vicino a una marmellata. Spalmata sul pane di segale, a cucchiaiate sul porridge o servita con il formaggio.",
+          "imageAlt": "Vasetti di gelatina di olivello spinoso e bottiglie di succo e liquore su un tavolo davanti a un negozio a Hiddensee, in Germania"
         },
         {
           "title": "Nel menu dei dessert",
-          "body": "I menu degustazione della Lapponia e di Helsinki usano l'olivello spinoso come il loro limone: un sorbetto tra le portate, una crema sotto il cioccolato bianco, una salsa tagliente accanto al pesce artico grasso."
+          "body": "I menu degustazione della Lapponia e di Helsinki usano l'olivello spinoso come il loro limone: un sorbetto tra le portate, una crema sotto il cioccolato bianco, una salsa tagliente accanto al pesce artico grasso.",
+          "imageAlt": "Una quenelle di sorbetto arancione all'olivello spinoso su un piatto scuro con crema al cioccolato bianco e una scaglia di caramello"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, renna",
       "titleHighlight": "tagliata sottile, cotta a fuoco lento.",
       "subtitle": "Renna tagliata a lamelle quando è ancora semicongelata, rosolata nel burro e lasciata sobbollire finché si sfalda, poi servita su purè di patate con mirtilli rossi e cetrioli sottaceto. Qui trova la ricetta degli allevatori, la versione al forno, quanto costa e dove ordinarla in Lapponia.",
+      "imageAlt": "Cinque renne che camminano sulla strada in piena estate a Kilpisjärvi, Lapponia finlandese, con un pendio verde di fjäll alle spalle",
       "primaryCta": "Vada alla ricetta",
       "secondaryCta": "Tutte le ricette tradizionali",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Abbassi il fuoco, copra e lasci sobbollire finché la carne è tenera: da 10 a 30 minuti per la carne di coscia, di più per gli altri tagli. Se il fondo si asciuga, aggiunga un goccio d'acqua.",
             "Assaggi, aggiunga pepe a piacere e serva su purè di patate con mirtilli rossi e cetrioli sottaceto."
           ],
-          "tip": "Secondo l'associazione degli allevatori di renne, il sapore più intenso si ottiene rosolando la carne nel grasso di renna."
+          "tip": "Secondo l'associazione degli allevatori di renne, il sapore più intenso si ottiene rosolando la carne nel grasso di renna.",
+          "imageAlt": "Un piatto di poronkäristys: renna a scaglie su purè di patate con mirtilli rossi e cetrioli sottaceto"
         },
         {
           "name": "Poronkäristys al forno",
@@ -1613,7 +1638,8 @@
       "headline": "Renna a lamelle sottili.",
       "p1": "Il poronkäristys è carne di renna tagliata in lamelle sottili quando è ancora semicongelata, rosolata nel grasso e cotta a fuoco lento in poca acqua finché diventa tenera. L'associazione degli allevatori di renne indica i pezzi adatti: due tagli della coscia, la spalla e la parte anteriore del dorso.",
       "p2": "La maggior parte delle renne finlandesi viene macellata in ottobre e novembre, dopo almeno sei mesi di solo pascolo naturale. La carne è scura e magra, con il 2–4% di grassi.",
-      "p3": "Oltre il confine, in Svezia, lo stesso piatto si chiama <em>renskav</em>. La carne di renna dell'area di allevamento finlandese ha dal 2009 una propria denominazione di origine protetta dell'UE, <strong>Lapin Poron liha</strong>: le renne brucano libere nei pascoli naturali e la carne viene prodotta, sezionata e confezionata all'interno della stessa area."
+      "p3": "Oltre il confine, in Svezia, lo stesso piatto si chiama <em>renskav</em>. La carne di renna dell'area di allevamento finlandese ha dal 2009 una propria denominazione di origine protetta dell'UE, <strong>Lapin Poron liha</strong>: le renne brucano libere nei pascoli naturali e la carne viene prodotta, sezionata e confezionata all'interno della stessa area.",
+      "imageAlt": "Una renna in piedi nella neve alta di un bosco invernale"
     },
     "variations": {
       "kicker": "Varianti",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, il formaggio",
       "titleHighlight": "che cigola.",
       "subtitle": "Un formaggio fresco e piatto del nord della Finlandia, cotto finché si copre di macchie brune, da mangiare caldo con confettura di mora artica o ammorbidito in una tazza di caffè. Qui trova come servirlo, come farlo in casa con il latte e perché cigola sotto i denti.",
+      "imageAlt": "Un leipäjuusto rotondo con macchie dorate in un piatto scuro, con una fetta tagliata e coperta di confettura di more artiche",
       "primaryCta": "Vada alle ricette",
       "secondaryCta": "Tutte le ricette tradizionali",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Cuocia in forno per circa 15 minuti, finché la panna sobbolle e il formaggio si è ammorbidito.",
             "Distribuisca la confettura di mora artica sul formaggio caldo e serva subito."
           ],
-          "tip": "Se ha fretta, bastano 3 minuti nel microonde a 800 W. Se non trova la mora artica, va bene anche la confettura di mirtilli rossi o di mirtilli neri."
+          "tip": "Se ha fretta, bastano 3 minuti nel microonde a 800 W. Se non trova la mora artica, va bene anche la confettura di mirtilli rossi o di mirtilli neri.",
+          "imageAlt": "Una fetta calda di leipäjuusto con confettura su un piatto"
         },
         {
           "name": "Insalata di leipäjuusto",
@@ -1874,7 +1902,8 @@
             "Pressi la cagliata in una pirofila rotonda e bassa, in uno strato di circa 2 cm, ed elimini il siero rimasto.",
             "La faccia dorare sotto il grill del forno a 250–275 °C per 5–10 minuti, finché compaiono macchie scure."
           ],
-          "tip": "Tradizionalmente il leipäjuusto migliore si faceva con il colostro, il primo latte dopo il parto della vacca, ricco di caseina. In casa va benissimo il normale latte intero."
+          "tip": "Tradizionalmente il leipäjuusto migliore si faceva con il colostro, il primo latte dopo il parto della vacca, ricco di caseina. In casa va benissimo il normale latte intero.",
+          "imageAlt": "Un formaggio juustoleipä rotondo fotografato dall'alto nel 1914, in bianco e nero"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Formaggio fresco, dorato a macchie.",
       "p1": "Il leipäjuusto è un formaggio fresco di latte vaccino coagulato con il caglio. La cagliata si modella in un disco piatto e si cuoce su entrambi i lati finché la superficie si dora a macchie scure, in forno, sulla griglia o accanto al fuoco vivo. Non è stagionato, quindi dal caseificio si conserva da 10 a 14 giorni.",
       "p2": "È un formaggio del nord della Finlandia. La maggior parte delle attestazioni dialettali della parola leipäjuusto viene dall'Ostrobotnia e dal Peräpohjola, nel nord-ovest, mentre nel Kainuu lo stesso formaggio si chiama juustoleipä. Nella valle del Tornio, al confine con la Svezia, è il kahvijuusto, «formaggio da caffè», e al di là del fiume, in Svezia, il kaffeost.",
-      "p3": "La materia prima tradizionale era il colostro, il primo latte dopo il parto, ricco di caseina, e proprio con il colostro Juustoportti, a Jalasjärvi, produsse nel 1966 il primo leipäjuusto commerciale. Oggi due versioni finlandesi attendono un nome protetto dall'UE: <strong>Pohjalainen leipäjuusto</strong> e <strong>Kainuun juustoleipä</strong> hanno presentato domanda nel 2024. In Svezia il kaffeost è diventato denominazione di origine protetta nel 2025."
+      "p3": "La materia prima tradizionale era il colostro, il primo latte dopo il parto, ricco di caseina, e proprio con il colostro Juustoportti, a Jalasjärvi, produsse nel 1966 il primo leipäjuusto commerciale. Oggi due versioni finlandesi attendono un nome protetto dall'UE: <strong>Pohjalainen leipäjuusto</strong> e <strong>Kainuun juustoleipä</strong> hanno presentato domanda nel 2024. In Svezia il kaffeost è diventato denominazione di origine protetta nel 2025.",
+      "imageAlt": "Una fetta di leipäjuusto con la superficie a macchie dorate su un tagliere d'ardesia"
     },
     "variations": {
       "kicker": "Come si mangia",

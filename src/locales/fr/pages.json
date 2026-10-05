@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Confiture de mûre arctique",
-          "body": "La lakkahillo est le classique : des baies entières, graines comprises, cuites assez doucement pour que l'acidité survive. Les Finlandais la servent sur le fromage-pain tiède, les pancakes et la glace. Si vous ne rapportez qu'un souvenir comestible de Finlande, que ce soit ce pot."
+          "body": "La lakkahillo est le classique : des baies entières, graines comprises, cuites assez doucement pour que l'acidité survive. Les Finlandais la servent sur le fromage-pain tiède, les pancakes et la glace. Si vous ne rapportez qu'un souvenir comestible de Finlande, que ce soit ce pot.",
+          "imageAlt": "Une cuillerée de confiture maison de mûres arctiques, avec les baies entières et leurs pépins"
         },
         {
           "title": "Liqueur de mûre arctique",
-          "body": "Lakka, la liqueur ambrée issue de mûres arctiques sauvages, est le digestif classique finlandais : froide et pure, ou versée sur une glace vanille. Une bouteille contient une quantité étonnante de tourbière."
+          "body": "Lakka, la liqueur ambrée issue de mûres arctiques sauvages, est le digestif classique finlandais : froide et pure, ou versée sur une glace vanille. Une bouteille contient une quantité étonnante de tourbière.",
+          "imageAlt": "Un petit verre de liqueur de mûre arctique couleur d'ambre, une bouteille sans étiquette derrière et quelques baies sur une table sombre"
         },
         {
           "title": "Parfait à la mûre arctique",
-          "body": "Le dessert gastronomique de Laponie. Quand les menus dégustation du nord arrivent au dessert, c'est le plus souvent ici qu'ils atterrissent, et en saison chaque cuisine veut des baies fraîches pour le réussir."
+          "body": "Le dessert gastronomique de Laponie. Quand les menus dégustation du nord arrivent au dessert, c'est le plus souvent ici qu'ils atterrissent, et en saison chaque cuisine veut des baies fraîches pour le réussir.",
+          "imageAlt": "Une part de parfait glacé à la mûre arctique sur une assiette sombre, garnie de baies entières et d'une tuile croustillante"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "De la mi-juillet à la mi-août",
           "body": "La baie ambrée des tourbières que personne ne sait cultiver. Quatre semaines par an, cueillie à la main, au prix d'un mets rare.",
-          "cta": "Guide de la mûre arctique"
+          "cta": "Guide de la mûre arctique",
+          "imageAlt": "Une mûre arctique mûre couleur d'ambre sur sa tige, parmi les mousses de la tourbière"
         },
         {
           "name": "Myrtille sauvage",
           "latin": "Vaccinium myrtillus",
           "season": "De fin juillet à septembre",
           "body": "La myrtille sauvage de Finlande : violette jusqu'au cœur, cueillie au seau, cuite dans chaque tarte du mois d'août.",
-          "cta": "Guide de la myrtille"
+          "cta": "Guide de la myrtille",
+          "imageAlt": "Des myrtilles mûres sur un petit arbuste vert dans une forêt de Salla"
         },
         {
           "name": "Airelle rouge",
           "latin": "Vaccinium vitis-idaea",
           "season": "De fin août à octobre",
           "body": "La baie rouge et acidulée à côté de chaque assiette de renne. Se conserve en bocal sans sucre et s'adoucit après le gel.",
-          "cta": "Guide de l'airelle"
+          "cta": "Guide de l'airelle",
+          "imageAlt": "Deux airelles rouges mûres sur un brin, dans une mousse épaisse, Kemijärvi"
         },
         {
           "name": "Argousier",
           "latin": "Hippophaë rhamnoides",
           "season": "De septembre à octobre",
           "body": "La baie orange et acide de la côte du golfe de Botnie, cueillie entre les épines et bue en jus.",
-          "cta": "Guide de l'argousier"
+          "cta": "Guide de l'argousier",
+          "imageAlt": "Des argousiers chargés de baies orange sur un rivage de la Baltique"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "Quel goût a l'airelle rouge ?",
       "answer": "Acidulé, légèrement amer et à peine sucré, avec une finale nette et sèche, sans rien du musc de la mûre arctique : pensez à une canneberge dont on aurait baissé le sucre et monté un peu l'amertume. Crue, une seule baie fait grimacer ; mêlée à quelque chose de chaud, de salé ou de lacté, la même acidité devient tout l'intérêt.",
       "p2": "Le gel aide. Les baies cueillies après les premières gelées nocturnes de septembre sont nettement plus douces et plus sucrées que celles d'août, et les cueilleurs finlandais planifient leurs sorties en conséquence. Une baie bien mûre est rouge profond sur tout son tour ; un côté pâle veut dire qu'il lui faut encore une semaine.",
-      "p3": "On vous servira rarement des airelles seules. Elles arrivent en accompagnement : crues, écrasées avec un peu de sucre, à côté de l'émincé de renne ou des boulettes, fouettées en <em>vispipuuro</em>, le porridge de semoule rose que tout enfant finlandais connaît, ou à la cuillère sur un porridge chaud avec du lait."
+      "p3": "On vous servira rarement des airelles seules. Elles arrivent en accompagnement : crues, écrasées avec un peu de sucre, à côté de l'émincé de renne ou des boulettes, fouettées en <em>vispipuuro</em>, le porridge de semoule rose que tout enfant finlandais connaît, ou à la cuillère sur un porridge chaud avec du lait.",
+      "imageAlt": "Deux airelles rouges mûres sur un brin dans une mousse épaisse, entourées de feuilles d'airelle, Kemijärvi, septembre 2026"
     },
     "season": {
       "kicker": "De fin août à octobre",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Airelles crues écrasées",
-          "body": "Puolukkasurvos : des baies écrasées avec un peu de sucre, rien d'autre. Grâce à l'acide benzoïque de la baie, cela se garde des mois au réfrigérateur ou dans un cellier froid. C'est le bocal à côté du renne, des boulettes et du foie."
+          "body": "Puolukkasurvos : des baies écrasées avec un peu de sucre, rien d'autre. Grâce à l'acide benzoïque de la baie, cela se garde des mois au réfrigérateur ou dans un cellier froid. C'est le bocal à côté du renne, des boulettes et du foie.",
+          "imageAlt": "Des airelles rouges crues en tas à côté d'un gratin de chou finlandais dans un bol blanc"
         },
         {
           "title": "Confiture d'airelles",
-          "body": "La version cuite, plus douce et plus lisse, est le classique de l'exportation et celle que la plupart des visiteurs connaissent des magasins de meubles suédois. En Finlande, elle accompagne les crêpes, le riz au lait et le porridge chaud."
+          "body": "La version cuite, plus douce et plus lisse, est le classique de l'exportation et celle que la plupart des visiteurs connaissent des magasins de meubles suédois. En Finlande, elle accompagne les crêpes, le riz au lait et le porridge chaud.",
+          "imageAlt": "Des crêpes fines avec un petit bol de confiture d'airelles rouges"
         },
         {
           "title": "Vispipuuro",
-          "body": "Porridge rose fouetté : du jus d'airelles épaissi à la semoule puis battu jusqu'à devenir aérien, servi froid avec du lait. Un dessert de cantine scolaire que les adultes commandent encore."
+          "body": "Porridge rose fouetté : du jus d'airelles épaissi à la semoule puis battu jusqu'à devenir aérien, servi froid avec du lait. Un dessert de cantine scolaire que les adultes commandent encore.",
+          "imageAlt": "Un bol de bouillie rose fouettée à l'airelle rouge, dans du lait froid"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "La myrtille, le bleu qui",
       "titleHighlight": "tache les doigts.",
       "subtitle": "La mustikka est la baie que presque chaque Finlandais a cueillie, celle qui colore tout un mois d'août d'enfance, et celle que les visiteurs continuent d'appeler bleuet. Voici ce qui la distingue, son goût et où elle pousse en Laponie.",
+      "imageAlt": "Des myrtilles mûres sur un petit arbuste vert dans une forêt de Salla en août",
       "primaryCta": "Apprendre à la cueillir",
       "secondaryCta": "Le guide des baies",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "Quel goût a la myrtille sauvage ?",
       "answer": "Plus sucrée et plus douce qu'une canneberge, plus vive et plus sauvage qu'une myrtille cultivée : la myrtille sauvage est juteuse, à peau fine et intensément colorée, avec une profondeur florale, légèrement tannique, que la myrtille cultivée n'a pas. Mangez-en une poignée à même l'arbrisseau et vos doigts, vos lèvres et votre langue virent au violet.",
       "p2": "La maturité se lit facilement. Une myrtille mûre est d'un bleu sombre poudré et se détache à la moindre traction ; une baie qui résiste a un ou deux jours d'avance. Les baies chauffées par le soleil d'une clairière ouverte sont les plus sucrées ; celles de l'ombre d'une pessière profonde sont plus grosses et plus juteuses.",
-      "p3": "En cuisine, le goût traverse tout : la <em>mustikkapiirakka</em>, la tarte, la <em>mustikkakeitto</em>, la soupe, une cuillerée sur le porridge du matin ou sur le <em>viili</em>, le lait caillé, et en Laponie l'accord classique de la myrtille et du renne."
+      "p3": "En cuisine, le goût traverse tout : la <em>mustikkapiirakka</em>, la tarte, la <em>mustikkakeitto</em>, la soupe, une cuillerée sur le porridge du matin ou sur le <em>viili</em>, le lait caillé, et en Laponie l'accord classique de la myrtille et du renne.",
+      "imageAlt": "Une poignée de myrtilles fraîchement cueillies dans une paume ouverte, une forêt de pins derrière"
     },
     "season": {
       "kicker": "De fin juillet à septembre",
@@ -920,7 +933,8 @@
       "p1": "La myrtille sauvage, <em>Vaccinium myrtillus</em>, et la myrtille cultivée, <em>Vaccinium corymbosum</em>, sont cousines, et dans la plupart des langues, finnois compris, les deux s'appellent myrtille. Dans l'assiette, ce sont des fruits différents.",
       "p2": "Les myrtilles sauvages poussent une à une sur de bas arbrisseaux de forêt ; elles sont petites, sombres et violettes jusqu'au cœur. Les myrtilles cultivées poussent en grappes sur de hauts arbustes sélectionnés pour la culture ; elles sont plus grosses, plus fermes et restent pâles à l'intérieur, parce que leur couleur ne tient que dans la peau.",
       "p3": "C'est cette différence qui fait qu'une tarte aux myrtilles finlandaise saigne violet et qu'un muffin aux myrtilles ne saigne pas, et qui rend les myrtilles sauvages surgelées dignes d'être cherchées dans les magasins à l'étranger : la saveur y est concentrée d'une manière que la baie cultivée n'atteint jamais.",
-      "p4": "<strong>Si un menu finlandais est traduit par bleuet ou blueberry, il s'agit de la myrtille sauvage. En Laponie, la baie bleue dans l'assiette est la sauvage.</strong>"
+      "p4": "<strong>Si un menu finlandais est traduit par bleuet ou blueberry, il s'agit de la myrtille sauvage. En Laponie, la baie bleue dans l'assiette est la sauvage.</strong>",
+      "imageAlt": "Une seule myrtille mûre tenue entre deux doigts, une prairie au bord d'un lac floue à l'arrière-plan"
     },
     "price": {
       "kicker": "Ce qu'elle vaut",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Tarte aux myrtilles",
-          "body": "Mustikkapiirakka : une tarte moelleuse, souvent couverte d'un crumble d'avoine, où les baies cuisent jusqu'à saigner. Chaque café finlandais en a une en août, et les bonnes ont le goût de la forêt plutôt que du sucre."
+          "body": "Mustikkapiirakka : une tarte moelleuse, souvent couverte d'un crumble d'avoine, où les baies cuisent jusqu'à saigner. Chaque café finlandais en a une en août, et les bonnes ont le goût de la forêt plutôt que du sucre.",
+          "imageAlt": "Une plaque de tarte finlandaise aux myrtilles tout juste sortie du four"
         },
         {
           "title": "Soupe de myrtilles",
-          "body": "Mustikkakeitto : des baies mijotées avec un peu de sucre et liées à la fécule de pomme de terre, servies chaudes ou froides, seules ou sur le porridge. C'est aussi la boisson du skieur, versée brûlante du thermos sur la piste."
+          "body": "Mustikkakeitto : des baies mijotées avec un peu de sucre et liées à la fécule de pomme de terre, servies chaudes ou froides, seules ou sur le porridge. C'est aussi la boisson du skieur, versée brûlante du thermos sur la piste.",
+          "imageAlt": "Une tasse de soupe chaude de myrtilles parsemée de copeaux de noix de coco grillés"
         },
         {
           "title": "Avec le renne",
-          "body": "Dans les restaurants de Laponie, une réduction de myrtilles ou des myrtilles lactofermentées accompagnent le filet de renne. L'acidité coupe la richesse ; la couleur fait le reste."
+          "body": "Dans les restaurants de Laponie, une réduction de myrtilles ou des myrtilles lactofermentées accompagnent le filet de renne. L'acidité coupe la richesse ; la couleur fait le reste.",
+          "imageAlt": "Des tranches de filet de renne saignant avec une réduction sombre de myrtilles et des baies entières sur une assiette en pierre"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "L'argousier, feu orange",
       "titleHighlight": "venu du rivage.",
       "subtitle": "Le tyrni ne pousse pas du tout dans les forêts de l'intérieur de la Laponie. Il pousse sur les rivages pierreux du golfe de Botnie, au nord jusqu'à la côte de Laponie, à Tornio, et c'est la baie la plus acide du garde-manger finlandais et l'une des plus riches en vitamine C. Voici où il vit, quel goût il a et pourquoi il est si difficile à cueillir.",
+      "imageAlt": "Rivage calme du golfe de Botnie un soir de juillet, une plage de galets à droite et une pointe boisée basse de l'autre côté de l'eau",
       "primaryCta": "Apprendre à le cueillir",
       "secondaryCta": "Le guide des baies",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "Quel goût a l'argousier ?",
       "answer": "Vif. Une baie d'argousier mûre est aussi acide qu'un citron, avec un bord amer, légèrement huileux, et, une fois le choc passé, une note tropicale quelque part entre le fruit de la passion et l'abricot. Le jus est épais, d'un orange éclatant, et tache tout ce qu'il touche.",
       "p2": "Cette acidité explique pourquoi la baie ne se mange presque jamais nature. On la dilue en jus, on la sucre en confiture, on la glace en sorbet, ou les chefs l'emploient comme on emploie un citron : une cuillerée d'argousier tranche la crème, le chocolat blanc, le poisson gras et le renne corsé.",
-      "p3": "Le gel ne l'adoucit guère. Les baies ont à peu près le même goût en octobre qu'en septembre ; ce qui change, c'est la facilité avec laquelle elles se détachent de la branche épineuse, et c'est là le vrai problème du cueilleur."
+      "p3": "Le gel ne l'adoucit guère. Les baies ont à peu près le même goût en octobre qu'en septembre ; ce qui change, c'est la facilité avec laquelle elles se détachent de la branche épineuse, et c'est là le vrai problème du cueilleur.",
+      "imageAlt": "Gros plan sur un tas de baies d'argousier mûres et orange"
     },
     "season": {
       "kicker": "De septembre à octobre",
@@ -1090,7 +1109,8 @@
       "p1": "Les baies d'argousier poussent serrées le long des branches, chacune si solidement fixée que tirer dessus la fait généralement éclater. Entre les baies se dressent des épines de plusieurs centimètres. Cueillir ne serait-ce qu'un petit panier à la main demande de la patience et des gants épais.",
       "p2": "Les producteurs professionnels règlent cela par le froid. Ils coupent les branches fruitières et les congèlent ; les baies gelées se détachent net et partent directement au pressoir. C'est aussi pourquoi la plupart de l'argousier vous parvient en jus, en purée ou en confiture plutôt que frais.",
       "p3": "L'arbuste est dioïque : les plants mâles et femelles sont distincts, et seuls les femelles fructifient, ce qui explique qu'un peuplement dense sur le rivage puisse être à moitié stérile.",
-      "p4": "<strong>Pour le voyageur, la conclusion : l'argousier frais est rare même en Finlande, mais le jus est dans chaque supermarché.</strong>"
+      "p4": "<strong>Pour le voyageur, la conclusion : l'argousier frais est rare même en Finlande, mais le jus est dans chaque supermarché.</strong>",
+      "imageAlt": "Des argousiers chargés de baies orange sur la côte du golfe de Botnie à Billudden, en Suède"
     },
     "price": {
       "kicker": "Vitamine C",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Jus d'argousier",
-          "body": "Tyrnimehu : pressé, sucré et généralement dilué, bu en petits verres. La version de supermarché est celle par laquelle la plupart des Finlandais rencontrent la baie ; la version pressée à la ferme est plus vive et plus épaisse."
+          "body": "Tyrnimehu : pressé, sucré et généralement dilué, bu en petits verres. La version de supermarché est celle par laquelle la plupart des Finlandais rencontrent la baie ; la version pressée à la ferme est plus vive et plus épaisse.",
+          "imageAlt": "Une bouteille et une chope en verre de jus d'argousier épais et trouble"
         },
         {
           "title": "Confiture et purée",
-          "body": "Cuite avec du sucre, l'acidité se transforme en quelque chose de plus proche d'une marmelade. À tartiner sur du pain de seigle, à la cuillère sur le porridge, ou servie avec du fromage."
+          "body": "Cuite avec du sucre, l'acidité se transforme en quelque chose de plus proche d'une marmelade. À tartiner sur du pain de seigle, à la cuillère sur le porridge, ou servie avec du fromage.",
+          "imageAlt": "Des pots de gelée d'argousier et des bouteilles de jus et de liqueur sur une table devant une boutique de l'île de Hiddensee, en Allemagne"
         },
         {
           "title": "À la carte des desserts",
-          "body": "Les menus dégustation de Laponie et d'Helsinki utilisent l'argousier comme leur citron : un sorbet entre les plats, un curd sous du chocolat blanc, une sauce vive avec un poisson arctique gras."
+          "body": "Les menus dégustation de Laponie et d'Helsinki utilisent l'argousier comme leur citron : un sorbet entre les plats, un curd sous du chocolat blanc, une sauce vive avec un poisson arctique gras.",
+          "imageAlt": "Une quenelle de sorbet orange à l'argousier sur une assiette sombre avec une crème au chocolat blanc et un éclat de caramel"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, le renne",
       "titleHighlight": "finement émincé, lentement mijoté.",
       "subtitle": "Du renne émincé en fins copeaux alors qu'il est encore à demi congelé, doré au beurre et mijoté jusqu'à ce qu'il s'effiloche, puis servi sur une purée de pommes de terre avec des airelles et des cornichons. Voici la recette des éleveurs de rennes eux-mêmes, la version au four, son prix et où le commander en Laponie.",
+      "imageAlt": "Cinq rennes marchant sur la route en plein été à Kilpisjärvi, en Laponie finlandaise, avec un versant de fjäll verdoyant derrière",
       "primaryCta": "Aller à la recette",
       "secondaryCta": "Toutes les recettes traditionnelles",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Baisser le feu, couvrir et laisser mijoter jusqu'à ce que la viande soit tendre : 10 à 30 minutes pour les morceaux du cuissot, plus longtemps pour les autres. Ajouter un filet d'eau si le fond s'assèche.",
             "Goûter, poivrer éventuellement et servir sur une purée de pommes de terre avec des airelles et des cornichons."
           ],
-          "tip": "Selon l'association des éleveurs de rennes, c'est en faisant revenir la viande dans de la graisse de renne qu'on obtient le goût le plus prononcé."
+          "tip": "Selon l'association des éleveurs de rennes, c'est en faisant revenir la viande dans de la graisse de renne qu'on obtient le goût le plus prononcé.",
+          "imageAlt": "Une assiette de poronkäristys, du renne émincé sur une purée de pommes de terre avec des airelles rouges et des cornichons"
         },
         {
           "name": "Poronkäristys au four",
@@ -1613,7 +1638,8 @@
       "headline": "Du renne, finement émincé.",
       "p1": "Le poronkäristys, c'est de la viande de renne émincée en fins copeaux alors qu'elle est à demi congelée, dorée dans la matière grasse puis mijotée dans un peu d'eau jusqu'à ce qu'elle soit tendre. L'association des éleveurs de rennes indique les morceaux qui conviennent : la sous-noix et la noix pâtissière du cuissot, l'épaule et l'avant du dos.",
       "p2": "La plupart des rennes finlandais sont abattus en octobre et en novembre, après avoir passé au moins six mois à se nourrir uniquement de pâture naturelle. La viande est sombre et maigre, avec 2 à 4 % de matières grasses.",
-      "p3": "De l'autre côté de la frontière, en Suède, le même plat s'appelle <em>renskav</em>. La viande de renne de la zone d'élevage finlandaise a sa propre appellation d'origine protégée de l'UE depuis 2009, <strong>Lapin Poron liha</strong> : les rennes paissent en liberté sur des pâturages naturels, et la viande est produite, découpée et conditionnée à l'intérieur de la zone d'élevage."
+      "p3": "De l'autre côté de la frontière, en Suède, le même plat s'appelle <em>renskav</em>. La viande de renne de la zone d'élevage finlandaise a sa propre appellation d'origine protégée de l'UE depuis 2009, <strong>Lapin Poron liha</strong> : les rennes paissent en liberté sur des pâturages naturels, et la viande est produite, découpée et conditionnée à l'intérieur de la zone d'élevage.",
+      "imageAlt": "Un renne debout dans la neige profonde d'une forêt d'hiver"
     },
     "variations": {
       "kicker": "Variantes",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, le fromage",
       "titleHighlight": "qui couine.",
       "subtitle": "Un fromage frais et plat du nord de la Finlande, cuit jusqu'à être tacheté de brun, que l'on mange tiède avec de la confiture de mûre arctique ou ramolli dans une tasse de café. Voici comment le servir, comment le faire chez vous avec du lait, et pourquoi il couine sous la dent.",
+      "imageAlt": "Un leipäjuusto rond tacheté de brun dans un plat sombre, une part découpée et nappée de confiture de mûres arctiques",
       "primaryCta": "Aller aux recettes",
       "secondaryCta": "Toutes les recettes traditionnelles",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Enfourner pour environ 15 minutes, jusqu'à ce que la crème bouillonne et que le fromage ait ramolli.",
             "Napper le fromage chaud de confiture de mûre arctique à la cuillère et servir aussitôt."
           ],
-          "tip": "Si vous êtes pressé, 3 minutes au micro-ondes à 800 W font le même travail. À défaut de mûres arctiques, une confiture d'airelles ou de myrtilles convient aussi."
+          "tip": "Si vous êtes pressé, 3 minutes au micro-ondes à 800 W font le même travail. À défaut de mûres arctiques, une confiture d'airelles ou de myrtilles convient aussi.",
+          "imageAlt": "Une tranche tiède de leipäjuusto avec de la confiture sur une assiette"
         },
         {
           "name": "Salade au leipäjuusto",
@@ -1874,7 +1902,8 @@
             "Tasser le caillé dans un plat rond et peu profond allant au four, sur environ 2 cm d'épaisseur, et jeter le petit-lait.",
             "Faire dorer sous le gril du four, entre 250 et 275 °C, pendant 5 à 10 minutes, jusqu'à l'apparition de taches sombres."
           ],
-          "tip": "Traditionnellement, le meilleur leipäjuusto se faisait avec du colostrum, le premier lait après le vêlage, riche en caséine. À la maison, un lait entier ordinaire fait l'affaire."
+          "tip": "Traditionnellement, le meilleur leipäjuusto se faisait avec du colostrum, le premier lait après le vêlage, riche en caséine. À la maison, un lait entier ordinaire fait l'affaire.",
+          "imageAlt": "Un fromage juustoleipä rond photographié d'en haut en 1914, en noir et blanc"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Un fromage frais, cuit jusqu'à être tacheté.",
       "p1": "Le leipäjuusto est un fromage frais au lait de vache caillé à la présure. Le caillé est façonné en disque plat puis cuit des deux côtés jusqu'à ce que la surface se couvre de taches sombres, au four, sur un gril ou au feu de bois. Comme il n'est pas affiné, il se conserve 10 à 14 jours après sa sortie de la laiterie.",
       "p2": "Il appartient au nord de la Finlande. La plupart des attestations dialectales du mot leipäjuusto viennent d'Ostrobotnie et de Peräpohjola, au nord-ouest, tandis que dans le Kainuu le même fromage s'appelle juustoleipä. Dans la vallée de Tornio, à la frontière suédoise, c'est le kahvijuusto, le « fromage à café », et de l'autre côté du fleuve, en Suède, le kaffeost.",
-      "p3": "La matière première traditionnelle était le colostrum, le premier lait après le vêlage, riche en caséine, et c'est avec lui que Juustoportti, à Jalasjärvi, a fabriqué le premier leipäjuusto commercial en 1966. Deux versions finlandaises attendent aujourd'hui un nom protégé par l'UE : <strong>Pohjalainen leipäjuusto</strong> et <strong>Kainuun juustoleipä</strong> en ont fait la demande en 2024. En Suède, le kaffeost est devenu une appellation d'origine protégée en 2025."
+      "p3": "La matière première traditionnelle était le colostrum, le premier lait après le vêlage, riche en caséine, et c'est avec lui que Juustoportti, à Jalasjärvi, a fabriqué le premier leipäjuusto commercial en 1966. Deux versions finlandaises attendent aujourd'hui un nom protégé par l'UE : <strong>Pohjalainen leipäjuusto</strong> et <strong>Kainuun juustoleipä</strong> en ont fait la demande en 2024. En Suède, le kaffeost est devenu une appellation d'origine protégée en 2025.",
+      "imageAlt": "Une part de leipäjuusto au dessus tacheté de brun sur une planche d'ardoise"
     },
     "variations": {
       "kicker": "Comment le manger",

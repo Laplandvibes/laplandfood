@@ -24,6 +24,8 @@ interface Recipe {
   ingredients: string[];
   instructions: string[];
   tip: string;
+  /** Reseptikuvan alt (vain kuvallisilla resepteillä), indeksi = cfg.recipes. */
+  imageAlt?: string;
 }
 interface Card { title: string; body: string }
 interface Fact { value: string; label: string; source: string }
@@ -51,10 +53,11 @@ interface NextStep { title: string; body: string; cta: string }
 export interface DishConfig {
   key: 'poronkaristys' | 'leipajuusto';
   path: string;
-  hero: { image: string; alt: string };
-  about: { image?: string; alt?: string; ownPhoto?: boolean };
+  /** Kuvien alt on pages.jsonissa (`<key>.hero/about.imageAlt`, `recipes.items[i].imageAlt`) 12 kielellä (5.10.2026). */
+  hero: { image: string };
+  about: { image?: string; ownPhoto?: boolean };
   /** Indeksi vastaa `recipes.items`-taulukkoa (sama järjestys kaikilla 12 kielellä). */
-  recipes: { image?: string; alt?: string; fit?: 'cover' | 'contain'; totalTime: string; category: string }[];
+  recipes: { image?: string; fit?: 'cover' | 'contain'; totalTime: string; category: string }[];
   suomikauppa?: SuomikauppaPicksVariant;
   gyg: { query: string; sid: string };
   stay: { destination: string; sid: string };
@@ -266,7 +269,7 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           titleHighlight={t(`${k}.hero.titleHighlight`)}
           subtitle={t(`${k}.hero.subtitle`)}
           imageUrl={cfg.hero.image}
-          imageAlt={t(`${k}.hero.imageAlt`, { defaultValue: cfg.hero.alt })}
+          imageAlt={t(`${k}.hero.imageAlt`)}
           primaryCta={{ label: t(`${k}.hero.primaryCta`), href: `${to(cfg.path)}#recipe` }}
           secondaryCta={{ label: t(`${k}.hero.secondaryCta`), href: to('/traditional-recipes') }}
           pills={pills}
@@ -285,9 +288,9 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
                 <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.recipes.lead`)}</p>
               </div>
               <div className="space-y-8">
-                <RecipeCard id="recipe-0" recipe={featured} image={cfg.recipes[0]?.image} alt={cfg.recipes[0]?.alt} labels={labels} featured />
+                <RecipeCard id="recipe-0" recipe={featured} image={cfg.recipes[0]?.image} alt={featured.imageAlt} labels={labels} featured />
                 {more.map((r, i) => (
-                  <RecipeCard key={r.name} id={`recipe-${i + 1}`} recipe={r} image={cfg.recipes[i + 1]?.image} alt={cfg.recipes[i + 1]?.alt} fit={cfg.recipes[i + 1]?.fit} labels={labels} featured={false} />
+                  <RecipeCard key={r.name} id={`recipe-${i + 1}`} recipe={r} image={cfg.recipes[i + 1]?.image} alt={r.imageAlt} fit={cfg.recipes[i + 1]?.fit} labels={labels} featured={false} />
                 ))}
               </div>
             </div>
@@ -299,7 +302,7 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           kicker={t(`${k}.about.kicker`)}
           headline={t(`${k}.about.headline`)}
           image={cfg.about.image}
-          alt={cfg.about.alt}
+          alt={cfg.about.image ? t(`${k}.about.imageAlt`) : undefined}
           caption={cfg.about.ownPhoto ? `${t(`${k}.about.caption`, { defaultValue: '' })} · ${tc('photo.credit')}` : undefined}
         >
           <p className={LEDE}>{t(`${k}.about.p1`)}</p>

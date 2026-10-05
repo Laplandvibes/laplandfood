@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Mermelada de mora ártica",
-          "body": "La lakkahillo es el clásico: bayas enteras, semillas incluidas, cocidas con la suavidad justa para que la acidez sobreviva. Los finlandeses la sirven sobre queso chirriante templado, tortitas y helado. Si se lleva de Finlandia un solo recuerdo comestible, que sea este."
+          "body": "La lakkahillo es el clásico: bayas enteras, semillas incluidas, cocidas con la suavidad justa para que la acidez sobreviva. Los finlandeses la sirven sobre queso chirriante templado, tortitas y helado. Si se lleva de Finlandia un solo recuerdo comestible, que sea este.",
+          "imageAlt": "Una cucharada de mermelada casera de mora ártica, con las bayas enteras y sus semillas"
         },
         {
           "title": "Licor de mora ártica",
-          "body": "Lakka, el licor ambarino hecho con moras árticas silvestres, es el clásico final de cena finlandés: frío y solo, o vertido sobre helado de vainilla. En una botella cabe una cantidad asombrosa de pantano."
+          "body": "Lakka, el licor ambarino hecho con moras árticas silvestres, es el clásico final de cena finlandés: frío y solo, o vertido sobre helado de vainilla. En una botella cabe una cantidad asombrosa de pantano.",
+          "imageAlt": "Una copita de licor de mora ártica de color ámbar con una botella sin etiqueta detrás y bayas sueltas sobre una mesa oscura"
         },
         {
           "title": "Parfait de mora ártica",
-          "body": "El postre de la alta cocina de Laponia. Cuando los menús degustación del norte llegan al postre, suelen aterrizar aquí, y en temporada todas las cocinas quieren bayas frescas para él."
+          "body": "El postre de la alta cocina de Laponia. Cuando los menús degustación del norte llegan al postre, suelen aterrizar aquí, y en temporada todas las cocinas quieren bayas frescas para él.",
+          "imageAlt": "Una porción de parfait helado de mora ártica en un plato oscuro, con bayas enteras y una galleta crujiente encima"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "De mediados de julio a mediados de agosto",
           "body": "La baya ámbar de las turberas que nadie sabe cultivar. Cuatro semanas al año, recogida a mano, con precio de manjar.",
-          "cta": "Guía de la mora ártica"
+          "cta": "Guía de la mora ártica",
+          "imageAlt": "Una mora ártica madura de color ámbar en su planta entre musgos de turbera"
         },
         {
           "name": "Arándano silvestre",
           "latin": "Vaccinium myrtillus",
           "season": "De finales de julio a septiembre",
           "body": "El arándano silvestre de Finlandia: morado hasta el centro, recogido por baldes y horneado en cada tarta de agosto.",
-          "cta": "Guía del arándano silvestre"
+          "cta": "Guía del arándano silvestre",
+          "imageAlt": "Arándanos silvestres maduros en un arbusto verde bajo en un bosque de Salla"
         },
         {
           "name": "Arándano rojo",
           "latin": "Vaccinium vitis-idaea",
           "season": "De finales de agosto a octubre",
           "body": "La baya roja y ácida junto a cada plato de reno. Se conserva en frasco sin azúcar y se endulza tras la helada.",
-          "cta": "Guía del arándano rojo"
+          "cta": "Guía del arándano rojo",
+          "imageAlt": "Dos arándanos rojos maduros en una ramita entre musgo espeso, Kemijärvi"
         },
         {
           "name": "Espino amarillo",
           "latin": "Hippophaë rhamnoides",
           "season": "De septiembre a octubre",
           "body": "La baya naranja y agria de la costa del golfo de Botnia, recogida entre espinas y bebida como jugo.",
-          "cta": "Guía del espino amarillo"
+          "cta": "Guía del espino amarillo",
+          "imageAlt": "Arbustos de espino amarillo con bayas naranjas en una costa del Báltico"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "¿A qué sabe el arándano rojo?",
       "answer": "Ácido, ligeramente amargo y apenas dulce, con un final limpio y seco y nada del almizcle de la mora ártica: piense en un cranberry con el azúcar bajado y un poco más de amargor. Crudo, una sola baya hace torcer el gesto; mezclada con algo caliente, salado o lácteo, esa misma acidez es precisamente el punto.",
       "p2": "La helada ayuda. Las bayas recogidas después de las primeras heladas nocturnas de septiembre son claramente más suaves y dulces que las de agosto, y los recolectores finlandeses programan sus salidas en consecuencia. Una baya madura del todo es de un rojo intenso por todos lados; un lado pálido significa que necesita otra semana.",
-      "p3": "Rara vez le servirán arándanos rojos solos. Llegan como acompañamiento: crudos y machacados con un poco de azúcar junto al reno salteado o las albóndigas, batidos en <em>vispipuuro</em>, la papilla rosada de sémola que todo niño finlandés conoce, o a cucharadas sobre la avena caliente con leche."
+      "p3": "Rara vez le servirán arándanos rojos solos. Llegan como acompañamiento: crudos y machacados con un poco de azúcar junto al reno salteado o las albóndigas, batidos en <em>vispipuuro</em>, la papilla rosada de sémola que todo niño finlandés conoce, o a cucharadas sobre la avena caliente con leche.",
+      "imageAlt": "Dos arándanos rojos maduros en una ramita entre musgo espeso, rodeados de hojas, Kemijärvi, septiembre de 2026"
     },
     "season": {
       "kicker": "De finales de agosto a octubre",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Arándanos rojos crudos machacados",
-          "body": "Puolukkasurvos: bayas machacadas con un poco de azúcar, nada más. Gracias al ácido benzoico de la propia baya se conserva meses en la nevera o en una despensa fría. Es el frasco junto al reno, las albóndigas y el hígado."
+          "body": "Puolukkasurvos: bayas machacadas con un poco de azúcar, nada más. Gracias al ácido benzoico de la propia baya se conserva meses en la nevera o en una despensa fría. Es el frasco junto al reno, las albóndigas y el hígado.",
+          "imageAlt": "Arándanos rojos crudos amontonados junto a un gratinado finlandés de col en un cuenco blanco"
         },
         {
           "title": "Mermelada de arándano rojo",
-          "body": "La versión cocida, más dulce y más lisa, es el clásico de exportación y la que la mayoría de los visitantes conoce por las tiendas suecas de muebles. En Finlandia acompaña panqueques, arroz con leche y avena caliente."
+          "body": "La versión cocida, más dulce y más lisa, es el clásico de exportación y la que la mayoría de los visitantes conoce por las tiendas suecas de muebles. En Finlandia acompaña panqueques, arroz con leche y avena caliente.",
+          "imageAlt": "Tortitas finas con un cuenco pequeño de mermelada de arándano rojo"
         },
         {
           "title": "Vispipuuro",
-          "body": "Papilla rosada batida: jugo de arándano rojo espesado con sémola y luego batido hasta quedar esponjoso, servido frío con leche. Un postre de comedor escolar que los adultos siguen pidiendo."
+          "body": "Papilla rosada batida: jugo de arándano rojo espesado con sémola y luego batido hasta quedar esponjoso, servido frío con leche. Un postre de comedor escolar que los adultos siguen pidiendo.",
+          "imageAlt": "Un cuenco de gachas rosas batidas de arándano rojo en leche fría"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "Arándano silvestre, el azul que",
       "titleHighlight": "tiñe los dedos.",
       "subtitle": "La mustikka es la baya que casi todo finlandés ha recogido, la que colorea un agosto entero de la infancia, y la que los visitantes insisten en llamar arándano azul. Aquí tiene en qué se diferencia, a qué sabe y dónde crece en Laponia.",
+      "imageAlt": "Arándanos silvestres maduros en un arbusto verde bajo en un bosque de Salla en agosto",
       "primaryCta": "Aprenda a recolectarlo",
       "secondaryCta": "La guía de bayas",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "¿A qué sabe el arándano silvestre?",
       "answer": "Más dulce y suave que un cranberry, más vivo y más silvestre que un arándano cultivado: el arándano silvestre es jugoso, de piel fina y color intenso, con una profundidad floral y ligeramente tánica que el cultivado no tiene. Coma un puñado directamente de la mata y los dedos, los labios y la lengua se ponen morados.",
       "p2": "La madurez se lee fácil. Un arándano maduro es de un azul oscuro empolvado y se suelta con el tirón más leve; una baya que se resiste va uno o dos días adelantada. Las bayas calentadas por el sol en un claro abierto saben más dulces; las de sombra de un abetal profundo son más grandes y jugosas.",
-      "p3": "En la cocina el sabor lo atraviesa todo: la tarta <em>mustikkapiirakka</em>, la sopa <em>mustikkakeitto</em>, una cucharada sobre la avena de la mañana o sobre el <em>viili</em>, la leche cuajada, y en Laponia el maridaje clásico de arándano silvestre y reno."
+      "p3": "En la cocina el sabor lo atraviesa todo: la tarta <em>mustikkapiirakka</em>, la sopa <em>mustikkakeitto</em>, una cucharada sobre la avena de la mañana o sobre el <em>viili</em>, la leche cuajada, y en Laponia el maridaje clásico de arándano silvestre y reno.",
+      "imageAlt": "Un puñado de arándanos silvestres recién recogidos en la palma de la mano, con un pinar detrás"
     },
     "season": {
       "kicker": "De finales de julio a septiembre",
@@ -920,7 +933,8 @@
       "p1": "El arándano silvestre, <em>Vaccinium myrtillus</em>, y el arándano cultivado, <em>Vaccinium corymbosum</em>, son primos, y en la mayoría de los idiomas, el finés incluido, a ambos se les llama arándano. En el plato son frutas distintas.",
       "p2": "Los arándanos silvestres crecen de uno en uno en matas bajas de bosque y son pequeños, oscuros y morados hasta el centro. Los cultivados crecen en racimos en arbustos altos seleccionados para el cultivo, son más grandes y firmes y se quedan pálidos por dentro porque su color está solo en la piel.",
       "p3": "Esa diferencia es la razón de que una tarta finlandesa de arándanos silvestres sangre morado y un muffin de arándanos no, y de que valga la pena buscar arándanos silvestres congelados en las tiendas del extranjero: el sabor está concentrado de una forma que la baya cultivada nunca alcanza.",
-      "p4": "<strong>Si ve una carta finlandesa traducida como blueberry o arándano azul, se refiere al arándano silvestre. En Laponia, la baya azul del plato es la silvestre.</strong>"
+      "p4": "<strong>Si ve una carta finlandesa traducida como blueberry o arándano azul, se refiere al arándano silvestre. En Laponia, la baya azul del plato es la silvestre.</strong>",
+      "imageAlt": "Un solo arándano silvestre maduro entre dos dedos, con un prado junto a un lago desenfocado detrás"
     },
     "price": {
       "kicker": "Cuánto vale",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Tarta de arándanos silvestres",
-          "body": "Mustikkapiirakka: una tarta tierna, a menudo cubierta de avena, con las bayas horneadas dentro hasta que sangran. Cada cafetería finlandesa tiene una en agosto, y las buenas saben a bosque y no a azúcar."
+          "body": "Mustikkapiirakka: una tarta tierna, a menudo cubierta de avena, con las bayas horneadas dentro hasta que sangran. Cada cafetería finlandesa tiene una en agosto, y las buenas saben a bosque y no a azúcar.",
+          "imageAlt": "Una bandeja de tarta finlandesa de arándanos recién salida del horno"
         },
         {
           "title": "Sopa de arándanos silvestres",
-          "body": "Mustikkakeitto: bayas cocidas a fuego lento con un poco de azúcar y espesadas con fécula de papa, servidas calientes o frías, solas o sobre la avena. También la bebida del esquiador, servida caliente del termo en la pista."
+          "body": "Mustikkakeitto: bayas cocidas a fuego lento con un poco de azúcar y espesadas con fécula de papa, servidas calientes o frías, solas o sobre la avena. También la bebida del esquiador, servida caliente del termo en la pista.",
+          "imageAlt": "Una taza de sopa caliente de arándanos espolvoreada con copos de coco tostado"
         },
         {
           "title": "Con reno",
-          "body": "En los restaurantes de Laponia una reducción de arándanos silvestres o arándanos lactofermentados acompañan al filete de reno. La acidez corta lo sustancioso; el color hace el resto."
+          "body": "En los restaurantes de Laponia una reducción de arándanos silvestres o arándanos lactofermentados acompañan al filete de reno. La acidez corta lo sustancioso; el color hace el resto.",
+          "imageAlt": "Lonchas de solomillo de reno poco hecho con una reducción oscura de arándanos y bayas enteras en un plato de piedra"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "Espino amarillo, fuego naranja",
       "titleHighlight": "desde la orilla.",
       "subtitle": "El tyrni no crece en absoluto en los bosques del interior de Laponia. Crece en las orillas pedregosas del golfo de Botnia, hacia el norte hasta la costa de Laponia en Tornio, y es la baya más ácida de la despensa finlandesa y una de las más ricas en vitamina C. Aquí tiene dónde vive, a qué sabe y por qué es tan difícil de recoger.",
+      "imageAlt": "Orilla tranquila del golfo de Botnia una tarde de julio, con una playa pedregosa a la derecha y una punta baja y arbolada al otro lado del agua",
       "primaryCta": "Aprenda a recolectarlo",
       "secondaryCta": "La guía de bayas",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "¿A qué sabe el espino amarillo?",
       "answer": "Afilado. Una baya madura de espino amarillo es tan ácida como un limón, con un borde amargo y ligeramente oleoso y, pasado el susto, una nota tropical entre el maracuyá y el albaricoque. El jugo es espeso, de un naranja brillante, y tiñe todo lo que toca.",
       "p2": "Esa acidez es la razón de que la baya casi nunca se coma sola. Se diluye en jugo, se endulza en mermelada, se congela en sorbete, o los chefs la usan como se usa un limón: una cucharada de espino amarillo corta la nata, el chocolate blanco, el pescado graso y el reno contundente.",
-      "p3": "La helada no lo suaviza mucho. Las bayas saben casi igual en octubre que en septiembre; lo que cambia es lo fácil que se desprenden de la rama espinosa, y ese es el verdadero problema del recolector."
+      "p3": "La helada no lo suaviza mucho. Las bayas saben casi igual en octubre que en septiembre; lo que cambia es lo fácil que se desprenden de la rama espinosa, y ese es el verdadero problema del recolector.",
+      "imageAlt": "Primer plano de un montón de bayas de espino amarillo maduras y naranjas"
     },
     "season": {
       "kicker": "De septiembre a octubre",
@@ -1090,7 +1109,8 @@
       "p1": "Las bayas de espino amarillo crecen apretadas a lo largo de las ramas, cada una tan bien sujeta que al tirar suele reventar. Entre las bayas hay espinas de varios centímetros. Recoger a mano aunque sea una cesta pequeña exige paciencia y guantes gruesos.",
       "p2": "Los cultivadores comerciales lo resuelven con frío. Cortan las ramas con fruto y las congelan; las bayas congeladas se desprenden limpiamente y van directas a la prensa. Por eso, además, la mayor parte del espino amarillo le llega como jugo, puré o mermelada y no fresco.",
       "p3": "El arbusto es dioico: las plantas macho y hembra son distintas, y solo las hembras dan fruto, por lo que un rodal denso en la orilla puede ser estéril a medias.",
-      "p4": "<strong>La conclusión para quien viaja: el espino amarillo fresco es raro incluso en Finlandia, pero el jugo está en cualquier supermercado.</strong>"
+      "p4": "<strong>La conclusión para quien viaja: el espino amarillo fresco es raro incluso en Finlandia, pero el jugo está en cualquier supermercado.</strong>",
+      "imageAlt": "Arbustos de espino amarillo cargados de bayas naranjas en la costa del golfo de Botnia en Billudden, Suecia"
     },
     "price": {
       "kicker": "Vitamina C",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Jugo de espino amarillo",
-          "body": "Tyrnimehu: prensado, endulzado y casi siempre diluido, bebido en vasos pequeños. La versión de supermercado es como la mayoría de los finlandeses conoce la baya; la versión recién prensada de granja es más afilada y espesa."
+          "body": "Tyrnimehu: prensado, endulzado y casi siempre diluido, bebido en vasos pequeños. La versión de supermercado es como la mayoría de los finlandeses conoce la baya; la versión recién prensada de granja es más afilada y espesa.",
+          "imageAlt": "Una botella y una jarra de cristal con zumo de espino amarillo espeso y turbio"
         },
         {
           "title": "Mermelada y puré",
-          "body": "Cocida con azúcar, la acidez se convierte en algo más cercano a una mermelada de cítricos. Se unta en pan de centeno, se sirve a cucharadas sobre la avena o acompaña al queso."
+          "body": "Cocida con azúcar, la acidez se convierte en algo más cercano a una mermelada de cítricos. Se unta en pan de centeno, se sirve a cucharadas sobre la avena o acompaña al queso.",
+          "imageAlt": "Tarros de jalea de espino amarillo y botellas de zumo y licor en una mesa frente a una tienda en Hiddensee, Alemania"
         },
         {
           "title": "En la carta de postres",
-          "body": "Los menús de degustación de Laponia y Helsinki usan el espino amarillo como su limón: un sorbete entre platos, una crema bajo chocolate blanco, una salsa afilada junto al pescado ártico graso."
+          "body": "Los menús de degustación de Laponia y Helsinki usan el espino amarillo como su limón: un sorbete entre platos, una crema bajo chocolate blanco, una salsa afilada junto al pescado ártico graso.",
+          "imageAlt": "Una quenelle de sorbete naranja de espino amarillo en un plato oscuro con crema de chocolate blanco y una lámina de caramelo"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, reno",
       "titleHighlight": "cortado fino, cocinado a fuego lento.",
       "subtitle": "Reno cortado en láminas cuando aún está semicongelado, dorado en mantequilla y guisado hasta que se deshace; después se sirve sobre puré de papas con arándanos rojos y pepinillos encurtidos. Aquí tiene la receta de los propios pastores, la versión al horno, cuánto cuesta y dónde pedirlo en Laponia.",
+      "imageAlt": "Cinco renos caminando por la carretera en pleno verano en Kilpisjärvi, Laponia finlandesa, con la ladera verde de un monte detrás",
       "primaryCta": "Ir a la receta",
       "secondaryCta": "Todas las recetas tradicionales",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Baje el fuego, tape y deje cocinar a fuego lento hasta que la carne esté tierna, de 10 a 30 minutos si es carne de pierna y más tiempo con otros cortes. Si se queda sin líquido, añada un chorrito de agua.",
             "Pruebe, añada pimienta si lo desea y sirva sobre puré de papas con arándanos rojos y pepinillos encurtidos."
           ],
-          "tip": "Según la asociación de pastores de renos, el sabor más intenso se consigue friendo la carne en grasa de reno."
+          "tip": "Según la asociación de pastores de renos, el sabor más intenso se consigue friendo la carne en grasa de reno.",
+          "imageAlt": "Un plato de poronkäristys: reno en láminas finas sobre puré de patatas con arándanos rojos y pepinillos"
         },
         {
           "name": "Poronkäristys al horno",
@@ -1613,7 +1638,8 @@
       "headline": "Reno cortado muy fino.",
       "p1": "El poronkäristys es carne de reno cortada en láminas finas cuando aún está semicongelada, dorada en grasa y cocinada a fuego lento en un poco de agua hasta que queda tierna. La asociación de pastores de renos indica las piezas adecuadas: dos cortes de la pierna, la paleta y la parte delantera del lomo.",
       "p2": "La mayoría de los renos finlandeses se sacrifican en octubre y noviembre, tras al menos medio año alimentándose solo de pastos naturales. La carne es oscura y magra, con un 2–4 % de grasa.",
-      "p3": "Al otro lado de la frontera, en Suecia, el mismo plato se llama <em>renskav</em>. La carne de reno de la zona de pastoreo finlandesa tiene desde 2009 su propia denominación de origen protegida de la UE, <strong>Lapin Poron liha</strong>: los renos se alimentan en libertad en pastos naturales, y la carne se produce, se despieza y se envasa dentro de la zona de pastoreo."
+      "p3": "Al otro lado de la frontera, en Suecia, el mismo plato se llama <em>renskav</em>. La carne de reno de la zona de pastoreo finlandesa tiene desde 2009 su propia denominación de origen protegida de la UE, <strong>Lapin Poron liha</strong>: los renos se alimentan en libertad en pastos naturales, y la carne se produce, se despieza y se envasa dentro de la zona de pastoreo.",
+      "imageAlt": "Un reno de pie en la nieve profunda de un bosque invernal"
     },
     "variations": {
       "kicker": "Variantes",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, el queso",
       "titleHighlight": "que chirría.",
       "subtitle": "Un queso fresco y plano del norte de Finlandia, horneado hasta cubrirse de manchas tostadas, que se come caliente con mermelada de mora ártica o ablandado en una taza de café. Aquí verá cómo servirlo, cómo hacerlo en casa con leche y por qué chirría entre los dientes.",
+      "imageAlt": "Un leipäjuusto redondo con manchas tostadas en una fuente oscura, con una porción cortada y cubierta de mermelada de mora ártica",
       "primaryCta": "Ir a las recetas",
       "secondaryCta": "Todas las recetas tradicionales",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Hornee unos 15 minutos, hasta que la crema burbujee y el queso se haya ablandado.",
             "Reparta la mermelada de mora ártica sobre el queso caliente y sirva de inmediato."
           ],
-          "tip": "Si tiene prisa, 3 minutos en el microondas a 800 W dan el mismo resultado. Si no encuentra mora ártica, puede usar mermelada de arándano rojo o de arándano silvestre."
+          "tip": "Si tiene prisa, 3 minutos en el microondas a 800 W dan el mismo resultado. Si no encuentra mora ártica, puede usar mermelada de arándano rojo o de arándano silvestre.",
+          "imageAlt": "Una porción caliente de leipäjuusto con mermelada en un plato"
         },
         {
           "name": "Ensalada de leipäjuusto",
@@ -1874,7 +1902,8 @@
             "Presione la cuajada en un molde redondo y bajo apto para horno, hasta unos 2 cm de grosor, y retire el suero que suelte.",
             "Gratínela con el grill del horno a 250–275 °C durante 5–10 minutos, hasta que aparezcan manchas oscuras."
           ],
-          "tip": "Tradicionalmente, el mejor leipäjuusto se hacía con calostro, la primera leche después del parto de la vaca, rica en caseína. En casa funciona bien la leche entera normal."
+          "tip": "Tradicionalmente, el mejor leipäjuusto se hacía con calostro, la primera leche después del parto de la vaca, rica en caseína. En casa funciona bien la leche entera normal.",
+          "imageAlt": "Un queso juustoleipä redondo fotografiado desde arriba en 1914, en blanco y negro"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Queso fresco, tostado a manchas.",
       "p1": "El leipäjuusto es un queso fresco de leche de vaca cuajada con cuajo. La cuajada se moldea en un disco plano y se tuesta por ambos lados hasta que la superficie se cubre de manchas oscuras, en el horno, a la parrilla o junto a una fogata. No se madura, así que se conserva de 10 a 14 días desde que sale de la quesería.",
       "p2": "Es un queso del norte de Finlandia. La mayoría de los registros dialectales de la palabra leipäjuusto proceden de Ostrobotnia y de Peräpohjola, en el noroeste, mientras que en Kainuu el mismo queso se llama juustoleipä. En el valle del Tornio, en la frontera con Suecia, es kahvijuusto, «queso de café», y al otro lado del río, en Suecia, kaffeost.",
-      "p3": "La materia prima tradicional era el calostro, la primera leche después del parto, rica en caseína, y con él elaboró Juustoportti, en Jalasjärvi, el primer leipäjuusto comercial en 1966. Hoy dos versiones finlandesas esperan un nombre protegido por la UE: <strong>Pohjalainen leipäjuusto</strong> y <strong>Kainuun juustoleipä</strong> lo solicitaron en 2024. En Suecia, el kaffeost obtuvo la denominación de origen protegida en 2025."
+      "p3": "La materia prima tradicional era el calostro, la primera leche después del parto, rica en caseína, y con él elaboró Juustoportti, en Jalasjärvi, el primer leipäjuusto comercial en 1966. Hoy dos versiones finlandesas esperan un nombre protegido por la UE: <strong>Pohjalainen leipäjuusto</strong> y <strong>Kainuun juustoleipä</strong> lo solicitaron en 2024. En Suecia, el kaffeost obtuvo la denominación de origen protegida en 2025.",
+      "imageAlt": "Una porción de leipäjuusto con la superficie tostada a manchas sobre una tabla de pizarra"
     },
     "variations": {
       "kicker": "Cómo se come",

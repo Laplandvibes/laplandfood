@@ -17,7 +17,7 @@ import { useLocale } from '../i18n/useLocale';
 
 interface SeasonPhase { period: string; title: string; body: string }
 interface PriceFact { value: string; label: string }
-interface ProductItem { title: string; body: string }
+interface ProductItem { title: string; body: string; imageAlt: string }
 interface WhereWay { n: string; title: string; body: string }
 interface NextStep { title: string; body: string; cta: string }
 
@@ -32,11 +32,7 @@ const PILL_ANCHORS = ['#taste', '#season', '#right-to-pick', '#why-wild', '#pric
 
 // Index-mapped `cloudberry.products.items`-taulukkoon (sama jarjestys 12 kielella).
 const PRODUCT_IMAGES = ['/images/cloudberry-jam-cheese.webp', '/images/cloudberry-liqueur.jpg', '/images/cloudberry-parfait.jpg'];
-const PRODUCT_ALTS = [
-  'A spoonful of homemade cloudberry jam, whole berries and seeds and all',
-  'A small glass of amber cloudberry liqueur with a plain bottle behind it and loose cloudberries on a dark table',
-  'A wedge of frozen cloudberry parfait on a dark plate, topped with whole amber cloudberries and a crisp wafer',
-];
+// Kuvan alt on `cloudberry.products.items[i].imageAlt` 12 kielellä (5.10.2026; oli tässä englanniksi).
 
 const LEDE = 'text-lg sm:text-xl text-[#002F6C] leading-relaxed mb-5';
 const BODY = 'text-[#002F6C]/80 leading-relaxed mb-5';
@@ -254,7 +250,7 @@ export default function Cloudberry() {
               {products.map((pr, i) => (
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                    <img src={PRODUCT_IMAGES[i]} alt={PRODUCT_ALTS[i]} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <img src={PRODUCT_IMAGES[i]} alt={pr.imageAlt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <PhotoCredit credit={creditFor(PRODUCT_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="p-6">

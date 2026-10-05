@@ -17,7 +17,7 @@ import { useLocale } from '../i18n/useLocale';
 
 interface SeasonPhase { period: string; title: string; body: string }
 interface PriceFact { value: string; label: string }
-interface ProductItem { title: string; body: string }
+interface ProductItem { title: string; body: string; imageAlt?: string }
 interface WhereWay { n: string; title: string; body: string }
 interface NextStep { title: string; body: string; cta: string }
 
@@ -36,13 +36,14 @@ interface NextStep { title: string; body: string; cta: string }
 export interface BerryConfig {
   key: 'lingonberry' | 'bilberry' | 'seaBuckthorn';
   path: string;
-  hero: { image: string; alt: string };
-  taste: { image?: string; alt?: string; ownPhoto?: boolean };
-  versus: { image?: string; alt?: string; ownPhoto?: boolean };
+  /** Kuvien alt on pages.jsonissa (`<key>.hero/taste/versus.imageAlt`, `products.items[i].imageAlt`) 12 kielellä. */
+  hero: { image: string };
+  taste: { image?: string; ownPhoto?: boolean };
+  versus: { image?: string; ownPhoto?: boolean };
   /** Yksi kuva per tuotekortti, indeksi vastaa `products.items`-taulukkoa
    *  (sama jarjestys kaikilla 12 kielella). Vesa 15.9.: paljaat tekstikortit
    *  eivat kelpaa, kun sivu kertoo mita marjasta tehdaan. */
-  products: { images: string[]; alts: string[] };
+  products: { images: string[] };
   gyg: { query: string; sid: string };
   stay: { destination: string; sid: string };
   about: string;
@@ -137,7 +138,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           titleHighlight={t(`${k}.hero.titleHighlight`)}
           subtitle={t(`${k}.hero.subtitle`)}
           imageUrl={cfg.hero.image}
-          imageAlt={t(`${k}.hero.imageAlt`, { defaultValue: cfg.hero.alt })}
+          imageAlt={t(`${k}.hero.imageAlt`)}
           primaryCta={{ label: t(`${k}.hero.primaryCta`), href: to('/foraging-guide') }}
           secondaryCta={{ label: t(`${k}.hero.secondaryCta`), href: to('/berries') }}
           pills={pills}
@@ -152,7 +153,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           kicker={t(`${k}.taste.kicker`)}
           headline={t(`${k}.taste.headline`)}
           image={cfg.taste.image}
-          alt={cfg.taste.alt}
+          alt={cfg.taste.image ? t(`${k}.taste.imageAlt`) : undefined}
           caption={cfg.taste.ownPhoto ? captionTaste : undefined}
           credit={cfg.taste.ownPhoto ? credit : undefined}
           tint
@@ -210,7 +211,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           kicker={t(`${k}.versus.kicker`)}
           headline={t(`${k}.versus.headline`)}
           image={cfg.versus.image}
-          alt={cfg.versus.alt}
+          alt={cfg.versus.image ? t(`${k}.versus.imageAlt`) : undefined}
           caption={cfg.versus.ownPhoto ? captionVersus : undefined}
           credit={cfg.versus.ownPhoto ? credit : undefined}
           imageRight
@@ -259,7 +260,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               {products.map((pr, i) => (
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                    <img src={cfg.products.images[i]} alt={cfg.products.alts[i] ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <img src={cfg.products.images[i]} alt={products[i]?.imageAlt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <PhotoCredit credit={creditFor(cfg.products.images[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="p-6">

@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Geleia de amora ártica",
-          "body": "A lakkahillo é o clássico: frutas inteiras, sementes e tudo, cozidas com delicadeza para a acidez sobreviver. Os finlandeses servem sobre o queijo morno que range, sobre panquecas e sorvete. Se for levar um único souvenir comestível da Finlândia, leve esse pote."
+          "body": "A lakkahillo é o clássico: frutas inteiras, sementes e tudo, cozidas com delicadeza para a acidez sobreviver. Os finlandeses servem sobre o queijo morno que range, sobre panquecas e sorvete. Se for levar um único souvenir comestível da Finlândia, leve esse pote.",
+          "imageAlt": "Uma colherada de geleia caseira de amora ártica, com as frutas inteiras e as sementes"
         },
         {
           "title": "Licor de amora ártica",
-          "body": "Lakka, o licor âmbar feito de amoras árticas silvestres, é o clássico fim de jantar finlandês: gelado e puro, ou derramado sobre sorvete de baunilha. Numa garrafa cabe uma quantidade impressionante de pântano."
+          "body": "Lakka, o licor âmbar feito de amoras árticas silvestres, é o clássico fim de jantar finlandês: gelado e puro, ou derramado sobre sorvete de baunilha. Numa garrafa cabe uma quantidade impressionante de pântano.",
+          "imageAlt": "Um cálice de licor de amora ártica cor de âmbar com uma garrafa sem rótulo atrás e frutas soltas sobre uma mesa escura"
         },
         {
           "title": "Parfait de amora ártica",
-          "body": "A sobremesa do fine dining da Lapônia. Quando os menus degustação do norte chegam à sobremesa, costumam aterrissar aqui, e na temporada toda cozinha quer frutas frescas para prepará-lo."
+          "body": "A sobremesa do fine dining da Lapônia. Quando os menus degustação do norte chegam à sobremesa, costumam aterrissar aqui, e na temporada toda cozinha quer frutas frescas para prepará-lo.",
+          "imageAlt": "Uma fatia de parfait gelado de amora ártica num prato escuro, com frutas inteiras e um biscoito crocante por cima"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "De meados de julho a meados de agosto",
           "body": "A fruta âmbar das turfeiras que ninguém consegue cultivar. Quatro semanas por ano, colhida à mão, com preço de iguaria.",
-          "cta": "Guia da amora-ártica"
+          "cta": "Guia da amora-ártica",
+          "imageAlt": "Uma amora ártica madura cor de âmbar no pé, entre musgos do pântano"
         },
         {
           "name": "Mirtilo silvestre",
           "latin": "Vaccinium myrtillus",
           "season": "Do fim de julho a setembro",
           "body": "O mirtilo silvestre da Finlândia: roxo até o miolo, colhido aos baldes e assado em toda torta de agosto.",
-          "cta": "Guia do mirtilo silvestre"
+          "cta": "Guia do mirtilo silvestre",
+          "imageAlt": "Mirtilos silvestres maduros num arbusto verde baixo numa floresta de Salla"
         },
         {
           "name": "Lingonberry",
           "latin": "Vaccinium vitis-idaea",
           "season": "Do fim de agosto a outubro",
           "body": "A fruta vermelha e ácida ao lado de todo prato de rena. Conserva-se no pote sem açúcar e adoça depois da geada.",
-          "cta": "Guia da lingonberry"
+          "cta": "Guia da lingonberry",
+          "imageAlt": "Duas lingonberries maduras num raminho em meio a musgo espesso, Kemijärvi"
         },
         {
           "name": "Espinheiro-marítimo",
           "latin": "Hippophaë rhamnoides",
           "season": "De setembro a outubro",
           "body": "A fruta laranja e azeda do litoral do golfo de Bótnia, colhida entre espinhos e bebida como suco.",
-          "cta": "Guia do espinheiro-marítimo"
+          "cta": "Guia do espinheiro-marítimo",
+          "imageAlt": "Arbustos de espinheiro-marítimo com frutos laranja numa costa do Báltico"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "Qual é o sabor da lingonberry?",
       "answer": "Ácido, levemente amargo e quase nada doce, com um final limpo e seco e nada do almíscar da amora-ártica: pense em um cranberry com o açúcar abaixado e um pouco mais de amargor. Crua, uma única fruta faz careta; misturada a algo quente, salgado ou lácteo, a mesma acidez vira o ponto.",
       "p2": "A geada ajuda. As frutas colhidas depois das primeiras geadas noturnas de setembro são visivelmente mais suaves e doces do que as de agosto, e os coletores finlandeses programam as saídas por isso. Uma fruta bem madura é vermelha intensa por todos os lados; um lado pálido quer dizer que ela precisa de mais uma semana.",
-      "p3": "Raramente você receberá lingonberries sozinhas. Elas chegam como acompanhamento: cruas e amassadas com um pouco de açúcar ao lado da rena salteada ou das almôndegas, batidas em <em>vispipuuro</em>, o mingau rosa de semolina que toda criança finlandesa conhece, ou em colheradas sobre mingau quente com leite."
+      "p3": "Raramente você receberá lingonberries sozinhas. Elas chegam como acompanhamento: cruas e amassadas com um pouco de açúcar ao lado da rena salteada ou das almôndegas, batidas em <em>vispipuuro</em>, o mingau rosa de semolina que toda criança finlandesa conhece, ou em colheradas sobre mingau quente com leite.",
+      "imageAlt": "Duas lingonberries maduras num raminho em meio a musgo espesso, cercadas de folhas, Kemijärvi, setembro de 2026"
     },
     "season": {
       "kicker": "Do fim de agosto a outubro",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Lingonberries cruas amassadas",
-          "body": "Puolukkasurvos: frutas amassadas com um pouco de açúcar, nada mais. Graças ao ácido benzoico da própria fruta, dura meses na geladeira ou em uma despensa fria. É o pote ao lado da rena, das almôndegas e do fígado."
+          "body": "Puolukkasurvos: frutas amassadas com um pouco de açúcar, nada mais. Graças ao ácido benzoico da própria fruta, dura meses na geladeira ou em uma despensa fria. É o pote ao lado da rena, das almôndegas e do fígado.",
+          "imageAlt": "Lingonberries cruas amontoadas ao lado de um gratinado finlandês de repolho numa tigela branca"
         },
         {
           "title": "Geleia de lingonberry",
-          "body": "A versão cozida, mais doce e mais lisa, é o clássico de exportação e a que a maioria dos visitantes conhece das lojas suecas de móveis. Na Finlândia acompanha panquecas, arroz-doce e mingau quente."
+          "body": "A versão cozida, mais doce e mais lisa, é o clássico de exportação e a que a maioria dos visitantes conhece das lojas suecas de móveis. Na Finlândia acompanha panquecas, arroz-doce e mingau quente.",
+          "imageAlt": "Panquecas finas com uma tigelinha de geleia de lingonberry"
         },
         {
           "title": "Vispipuuro",
-          "body": "Mingau rosa batido: suco de lingonberry engrossado com semolina e depois batido até ficar aerado, servido frio com leite. Uma sobremesa de refeitório escolar que os adultos ainda pedem."
+          "body": "Mingau rosa batido: suco de lingonberry engrossado com semolina e depois batido até ficar aerado, servido frio com leite. Uma sobremesa de refeitório escolar que os adultos ainda pedem.",
+          "imageAlt": "Uma tigela de mingau rosa batido de lingonberry no leite frio"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "Mirtilo silvestre, o azul que",
       "titleHighlight": "mancha os dedos.",
       "subtitle": "A mustikka é a fruta que quase todo finlandês já colheu, a que colore um agosto inteiro de infância, e a que os visitantes insistem em chamar de mirtilo comum. Aqui está como ela difere, qual é o sabor e onde cresce na Lapônia.",
+      "imageAlt": "Mirtilos silvestres maduros num arbusto verde baixo numa floresta de Salla em agosto",
       "primaryCta": "Aprenda a colher",
       "secondaryCta": "O guia das frutas silvestres",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "Qual é o sabor do mirtilo silvestre?",
       "answer": "Mais doce e macio do que um cranberry, mais vivo e mais selvagem do que um mirtilo cultivado: o mirtilo silvestre é suculento, de casca fina e cor intensa, com uma profundidade floral e levemente tânica que o cultivado não tem. Coma um punhado direto do arbusto e dedos, lábios e língua ficam roxos.",
       "p2": "A maturação é fácil de ler. Um mirtilo maduro é azul-escuro fosco e solta ao menor puxão; uma fruta que resiste está um ou dois dias adiantada. As frutas aquecidas pelo sol em uma clareira aberta são as mais doces; as de sombra de um bosque fechado de abetos são maiores e mais suculentas.",
-      "p3": "Na cozinha, o sabor atravessa tudo: a torta <em>mustikkapiirakka</em>, a sopa <em>mustikkakeitto</em>, uma colherada sobre o mingau da manhã ou sobre o <em>viili</em>, o leite coalhado, e na Lapônia a combinação clássica de mirtilo silvestre e rena."
+      "p3": "Na cozinha, o sabor atravessa tudo: a torta <em>mustikkapiirakka</em>, a sopa <em>mustikkakeitto</em>, uma colherada sobre o mingau da manhã ou sobre o <em>viili</em>, o leite coalhado, e na Lapônia a combinação clássica de mirtilo silvestre e rena.",
+      "imageAlt": "Um punhado de mirtilos silvestres recém-colhidos na palma aberta, com um pinheiral ao fundo"
     },
     "season": {
       "kicker": "Do fim de julho a setembro",
@@ -920,7 +933,8 @@
       "p1": "O mirtilo silvestre, <em>Vaccinium myrtillus</em>, e o mirtilo cultivado, <em>Vaccinium corymbosum</em>, são primos, e na maioria das línguas, o finlandês incluído, os dois se chamam mirtilo. No prato, são frutas diferentes.",
       "p2": "Os mirtilos silvestres crescem um a um em arbustos baixos de floresta e são pequenos, escuros e roxos até o miolo. Os cultivados crescem em cachos em arbustos altos selecionados para o cultivo, são maiores e mais firmes e ficam pálidos por dentro porque a cor está só na casca.",
       "p3": "Essa diferença é o motivo de uma torta finlandesa de mirtilo silvestre sangrar roxo e um muffin de mirtilo não, e de valer a pena procurar mirtilos silvestres congelados em lojas no exterior: o sabor é concentrado de um jeito que a fruta cultivada nunca alcança.",
-      "p4": "<strong>Se você vir um cardápio finlandês traduzido como blueberry ou mirtilo, trata-se do mirtilo silvestre. Na Lapônia, a fruta azul no prato é a silvestre.</strong>"
+      "p4": "<strong>Se você vir um cardápio finlandês traduzido como blueberry ou mirtilo, trata-se do mirtilo silvestre. Na Lapônia, a fruta azul no prato é a silvestre.</strong>",
+      "imageAlt": "Um único mirtilo silvestre maduro entre dois dedos, com um campo à beira de um lago desfocado ao fundo"
     },
     "price": {
       "kicker": "Quanto vale",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Torta de mirtilo silvestre",
-          "body": "Mustikkapiirakka: uma torta macia, muitas vezes coberta com aveia, com as frutas assadas dentro até sangrarem. Todo café finlandês tem uma em agosto, e as boas têm gosto de floresta, não de açúcar."
+          "body": "Mustikkapiirakka: uma torta macia, muitas vezes coberta com aveia, com as frutas assadas dentro até sangrarem. Todo café finlandês tem uma em agosto, e as boas têm gosto de floresta, não de açúcar.",
+          "imageAlt": "Uma assadeira de torta finlandesa de mirtilo recém-saída do forno"
         },
         {
           "title": "Sopa de mirtilo silvestre",
-          "body": "Mustikkakeitto: frutas cozidas em fogo baixo com um pouco de açúcar e engrossadas com fécula de batata, servidas quentes ou frias, puras ou sobre o mingau. Também a bebida do esquiador, servida quente da garrafa térmica na pista."
+          "body": "Mustikkakeitto: frutas cozidas em fogo baixo com um pouco de açúcar e engrossadas com fécula de batata, servidas quentes ou frias, puras ou sobre o mingau. Também a bebida do esquiador, servida quente da garrafa térmica na pista.",
+          "imageAlt": "Uma xícara de sopa quente de mirtilo polvilhada com lascas de coco tostado"
         },
         {
           "title": "Com rena",
-          "body": "Nos restaurantes da Lapônia, uma redução de mirtilo silvestre ou mirtilos lactofermentados acompanham o filé de rena. A acidez corta a gordura; a cor faz o resto."
+          "body": "Nos restaurantes da Lapônia, uma redução de mirtilo silvestre ou mirtilos lactofermentados acompanham o filé de rena. A acidez corta a gordura; a cor faz o resto.",
+          "imageAlt": "Fatias de filé de rena malpassado com uma redução escura de mirtilo e frutas inteiras num prato de pedra"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "Espinheiro-marítimo, fogo laranja",
       "titleHighlight": "vindo da praia.",
       "subtitle": "O tyrni não cresce nas florestas do interior da Lapônia. Ele cresce nas margens pedregosas do golfo de Bótnia, ao norte até o litoral da Lapônia, em Tornio, e é a fruta mais ácida da despensa finlandesa e uma das mais ricas em vitamina C. Aqui está onde ele vive, qual é o sabor e por que é tão difícil de colher.",
+      "imageAlt": "Margem calma do golfo de Bótnia num fim de tarde de julho, com uma praia pedregosa à direita e uma ponta baixa e arborizada do outro lado da água",
       "primaryCta": "Aprenda a colher",
       "secondaryCta": "O guia das frutas silvestres",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "Qual é o sabor do espinheiro-marítimo?",
       "answer": "Cortante. Uma fruta madura de espinheiro-marítimo é tão ácida quanto um limão, com uma borda amarga e um pouco oleosa e, passado o susto, uma nota tropical entre maracujá e damasco. O suco é espesso, laranja vivo, e mancha tudo o que toca.",
       "p2": "Essa acidez é o motivo de a fruta quase nunca ser comida pura. Ela é diluída em suco, adoçada em geleia, congelada em sorbet, ou usada pelos chefs como se usa um limão: uma colherada de espinheiro-marítimo corta creme, chocolate branco, peixe gordo e rena farta.",
-      "p3": "A geada não o suaviza muito. As frutas têm mais ou menos o mesmo sabor em outubro e em setembro; o que muda é a facilidade com que soltam do galho espinhoso, e esse é o problema real do coletor."
+      "p3": "A geada não o suaviza muito. As frutas têm mais ou menos o mesmo sabor em outubro e em setembro; o que muda é a facilidade com que soltam do galho espinhoso, e esse é o problema real do coletor.",
+      "imageAlt": "Close de um monte de frutos maduros e laranja de espinheiro-marítimo"
     },
     "season": {
       "kicker": "De setembro a outubro",
@@ -1090,7 +1109,8 @@
       "p1": "As frutas do espinheiro-marítimo crescem apertadas ao longo dos galhos, cada uma tão presa que puxar geralmente a estoura. Entre as frutas há espinhos de vários centímetros. Colher à mão até uma cesta pequena exige paciência e luvas grossas.",
       "p2": "Os produtores comerciais resolvem isso com frio. Eles cortam os galhos com fruta e os congelam; as frutas congeladas soltam limpas e vão direto para a prensa. É também por isso que a maior parte do espinheiro-marítimo chega a você como suco, purê ou geleia, e não fresco.",
       "p3": "O arbusto é dioico: plantas masculinas e femininas são separadas, e só as femininas dão fruto, por isso um bosque denso na praia pode ser metade estéril.",
-      "p4": "<strong>A conclusão para quem viaja: espinheiro-marítimo fresco é raro até na Finlândia, mas o suco está em todo supermercado.</strong>"
+      "p4": "<strong>A conclusão para quem viaja: espinheiro-marítimo fresco é raro até na Finlândia, mas o suco está em todo supermercado.</strong>",
+      "imageAlt": "Arbustos de espinheiro-marítimo carregados de frutos laranja na costa do golfo de Bótnia em Billudden, na Suécia"
     },
     "price": {
       "kicker": "Vitamina C",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Suco de espinheiro-marítimo",
-          "body": "Tyrnimehu: prensado, adoçado e geralmente diluído, bebido em copos pequenos. A versão de supermercado é como a maioria dos finlandeses conhece a fruta; a versão prensada na hora, da fazenda, é mais cortante e mais espessa."
+          "body": "Tyrnimehu: prensado, adoçado e geralmente diluído, bebido em copos pequenos. A versão de supermercado é como a maioria dos finlandeses conhece a fruta; a versão prensada na hora, da fazenda, é mais cortante e mais espessa.",
+          "imageAlt": "Uma garrafa e uma caneca de vidro de suco de espinheiro-marítimo espesso e turvo"
         },
         {
           "title": "Geleia e purê",
-          "body": "Cozida com açúcar, a acidez vira algo mais próximo de uma marmelada. Passada no pão de centeio, em colheradas sobre o mingau ou servida com queijo."
+          "body": "Cozida com açúcar, a acidez vira algo mais próximo de uma marmelada. Passada no pão de centeio, em colheradas sobre o mingau ou servida com queijo.",
+          "imageAlt": "Potes de geleia de espinheiro-marítimo e garrafas de suco e licor numa mesa em frente a uma loja em Hiddensee, na Alemanha"
         },
         {
           "title": "No cardápio de sobremesas",
-          "body": "Os menus degustação da Lapônia e de Helsinque usam o espinheiro-marítimo como seu limão: um sorbet entre os pratos, um curd sob chocolate branco, um molho cortante ao lado do peixe ártico gordo."
+          "body": "Os menus degustação da Lapônia e de Helsinque usam o espinheiro-marítimo como seu limão: um sorbet entre os pratos, um curd sob chocolate branco, um molho cortante ao lado do peixe ártico gordo.",
+          "imageAlt": "Uma quenelle de sorbet laranja de espinheiro-marítimo num prato escuro com creme de chocolate branco e uma lasca de caramelo"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, rena",
       "titleHighlight": "em lascas finas, cozida devagar.",
       "subtitle": "Carne de rena cortada em lascas finas ainda semicongelada, dourada na manteiga e cozida em fogo baixo até desmanchar, servida sobre purê de batata com lingonberries e pepino em conserva. Aqui você encontra a receita dos próprios criadores de renas, a versão no forno, o preço e onde pedir o prato na Lapônia.",
+      "imageAlt": "Cinco renas andando pela estrada em pleno verão em Kilpisjärvi, na Lapônia finlandesa, com a encosta verde de um monte ao fundo",
       "primaryCta": "Ir para a receita",
       "secondaryCta": "Todas as receitas tradicionais",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Abaixe o fogo, tampe e cozinhe até a carne ficar macia: de 10 a 30 minutos para o pernil, mais tempo para outros cortes. Se secar, acrescente um pouco de água.",
             "Prove, acrescente pimenta se quiser e sirva sobre purê de batata com lingonberries e pepino em conserva."
           ],
-          "tip": "Segundo a associação dos criadores de renas, o sabor fica mais intenso quando a carne é frita na gordura de rena."
+          "tip": "Segundo a associação dos criadores de renas, o sabor fica mais intenso quando a carne é frita na gordura de rena.",
+          "imageAlt": "Um prato de poronkäristys: rena em lascas finas sobre purê de batata com lingonberries e pepino em conserva"
         },
         {
           "name": "Poronkäristys no forno",
@@ -1613,7 +1638,8 @@
       "headline": "Rena em lascas finas.",
       "p1": "O poronkäristys é carne de rena cortada em lascas finas ainda semicongelada, dourada na gordura e cozida em pouca água até ficar macia. A associação dos criadores de renas indica os cortes certos para o prato: coxão duro e patinho, paleta e a parte dianteira do lombo.",
       "p2": "A maioria das renas finlandesas é abatida em outubro e novembro, depois de pelo menos meio ano só de pasto natural. A carne é escura e magra, com 2 a 4 % de gordura.",
-      "p3": "Do outro lado da fronteira, na Suécia, o mesmo prato se chama <em>renskav</em>. A carne de rena da área de criação finlandesa tem sua própria denominação de origem protegida da UE, <strong>Lapin Poron liha</strong>, desde 2009: as renas pastam livres em pastagens naturais, e a carne é produzida, cortada e embalada dentro da área de criação."
+      "p3": "Do outro lado da fronteira, na Suécia, o mesmo prato se chama <em>renskav</em>. A carne de rena da área de criação finlandesa tem sua própria denominação de origem protegida da UE, <strong>Lapin Poron liha</strong>, desde 2009: as renas pastam livres em pastagens naturais, e a carne é produzida, cortada e embalada dentro da área de criação.",
+      "imageAlt": "Uma rena de pé na neve funda de uma floresta de inverno"
     },
     "variations": {
       "kicker": "Variações",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, o queijo",
       "titleHighlight": "que range.",
       "subtitle": "Um queijo fresco e achatado do norte da Finlândia, assado até ganhar manchas tostadas e comido morno com geleia de amora-ártica ou amolecido numa xícara de café. Aqui você vê como servir, como fazer em casa a partir do leite e por que ele range nos dentes.",
+      "imageAlt": "Um leipäjuusto redondo com manchas tostadas numa travessa escura, com uma fatia cortada e coberta de geleia de amora ártica",
       "primaryCta": "Ir para as receitas",
       "secondaryCta": "Todas as receitas tradicionais",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Asse por cerca de 15 minutos, até o creme borbulhar e o queijo amolecer.",
             "Espalhe a geleia de amora-ártica sobre o queijo quente e sirva na hora."
           ],
-          "tip": "Com pressa, 3 minutos no micro-ondas a 800 W fazem o mesmo serviço. Se não houver amora-ártica, geleia de lingonberry ou de mirtilo silvestre também funciona."
+          "tip": "Com pressa, 3 minutos no micro-ondas a 800 W fazem o mesmo serviço. Se não houver amora-ártica, geleia de lingonberry ou de mirtilo silvestre também funciona.",
+          "imageAlt": "Uma fatia quente de leipäjuusto com geleia num prato"
         },
         {
           "name": "Salada de leipäjuusto",
@@ -1874,7 +1902,8 @@
             "Aperte a coalhada num refratário redondo e raso, numa camada de cerca de 2 cm, e descarte o soro que se soltar.",
             "Doure no grill do forno a 250–275 °C por 5 a 10 minutos, até aparecerem manchas escuras."
           ],
-          "tip": "Tradicionalmente, o melhor leipäjuusto era feito com colostro, o primeiro leite depois do parto da vaca, rico em caseína. Em casa, o leite integral comum funciona bem."
+          "tip": "Tradicionalmente, o melhor leipäjuusto era feito com colostro, o primeiro leite depois do parto da vaca, rico em caseína. Em casa, o leite integral comum funciona bem.",
+          "imageAlt": "Um queijo juustoleipä redondo fotografado de cima em 1914, em preto e branco"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Queijo fresco, assado até ganhar manchas.",
       "p1": "O leipäjuusto é um queijo fresco de leite de vaca coagulado com coalho. A coalhada é moldada num disco achatado e assada dos dois lados, no forno, na grelha ou junto a uma fogueira, até a superfície ganhar manchas escuras. Como não é maturado, dura de 10 a 14 dias a partir do laticínio.",
       "p2": "É um queijo do norte da Finlândia. A maioria dos registros dialetais da palavra leipäjuusto vem da Ostrobótnia e de Peräpohjola, no noroeste, enquanto em Kainuu o mesmo queijo se chama juustoleipä. No vale do Tornio, na fronteira com a Suécia, ele é kahvijuusto, o queijo do café, e do outro lado do rio, na Suécia, kaffeost.",
-      "p3": "A matéria-prima tradicional era o colostro, o primeiro leite depois do parto, rico em caseína, e foi com ele que a Juustoportti, em Jalasjärvi, fez o primeiro leipäjuusto comercial, em 1966. Duas versões finlandesas aguardam agora um nome protegido pela UE: o <strong>Pohjalainen leipäjuusto</strong> e o <strong>Kainuun juustoleipä</strong> fizeram o pedido em 2024. Na Suécia, o kaffeost virou denominação de origem protegida em 2025."
+      "p3": "A matéria-prima tradicional era o colostro, o primeiro leite depois do parto, rico em caseína, e foi com ele que a Juustoportti, em Jalasjärvi, fez o primeiro leipäjuusto comercial, em 1966. Duas versões finlandesas aguardam agora um nome protegido pela UE: o <strong>Pohjalainen leipäjuusto</strong> e o <strong>Kainuun juustoleipä</strong> fizeram o pedido em 2024. Na Suécia, o kaffeost virou denominação de origem protegida em 2025.",
+      "imageAlt": "Uma fatia de leipäjuusto com a superfície tostada a manchas sobre uma tábua de ardósia"
     },
     "variations": {
       "kicker": "Como comer",

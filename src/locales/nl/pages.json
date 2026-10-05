@@ -437,15 +437,18 @@
       "items": [
         {
           "title": "Kruipbraamjam",
-          "body": "Lakkahillo is de klassieker: hele bessen, pitten en al, zo zacht gekookt dat het zuur overleeft. Finnen lepelen hem over warme broodkaas, pannenkoeken en ijs. Neemt u één eetbaar souvenir mee uit Finland, laat het deze pot zijn."
+          "body": "Lakkahillo is de klassieker: hele bessen, pitten en al, zo zacht gekookt dat het zuur overleeft. Finnen lepelen hem over warme broodkaas, pannenkoeken en ijs. Neemt u één eetbaar souvenir mee uit Finland, laat het deze pot zijn.",
+          "imageAlt": "Een lepel zelfgemaakte kruipbramenjam, met hele bessen en pitjes"
         },
         {
           "title": "Kruipbraamlikeur",
-          "body": "Lakka, de amberkleurige likeur van wilde kruipbramen, is de klassieke Finse afsluiter van een diner: koud en puur, of over vanille-ijs gegoten. In één fles past verbazend veel veen."
+          "body": "Lakka, de amberkleurige likeur van wilde kruipbramen, is de klassieke Finse afsluiter van een diner: koud en puur, of over vanille-ijs gegoten. In één fles past verbazend veel veen.",
+          "imageAlt": "Een klein glas amberkleurige kruipbramenlikeur met een fles zonder etiket erachter en losse bessen op een donkere tafel"
         },
         {
           "title": "Kruipbraamparfait",
-          "body": "Hét fine-diningdessert van Lapland. Als de proeverijmenu's van het noorden bij het dessert aankomen, landen ze meestal hier, en in het seizoen wil elke keuken er verse bessen voor."
+          "body": "Hét fine-diningdessert van Lapland. Als de proeverijmenu's van het noorden bij het dessert aankomen, landen ze meestal hier, en in het seizoen wil elke keuken er verse bessen voor.",
+          "imageAlt": "Een punt bevroren kruipbramenparfait op een donker bord, met hele bessen en een krokant wafeltje erop"
         }
       ]
     },
@@ -537,28 +540,32 @@
           "latin": "Rubus chamaemorus",
           "season": "Half juli tot half augustus",
           "body": "De amberkleurige veenbes die niemand kan kweken. Vier weken per jaar, met de hand geplukt, geprijsd als een delicatesse.",
-          "cta": "Kruipbraamgids"
+          "cta": "Kruipbraamgids",
+          "imageAlt": "Een rijpe amberkleurige kruipbraam aan de plant tussen veenmossen"
         },
         {
           "name": "Blauwe bosbes",
           "latin": "Vaccinium myrtillus",
           "season": "Eind juli tot september",
           "body": "De wilde blauwe bes van Finland: paars tot in de kern, per emmer geplukt en in elke augustustaart gebakken.",
-          "cta": "Bosbessengids"
+          "cta": "Bosbessengids",
+          "imageAlt": "Rijpe blauwe bosbessen aan een lage groene struik in een bos in Salla"
         },
         {
           "name": "Vossenbes",
           "latin": "Vaccinium vitis-idaea",
           "season": "Eind augustus tot oktober",
           "body": "De zure rode bes naast elk rendierbord. Blijft goed in de pot zonder suiker en wordt zoeter na de vorst.",
-          "cta": "Vossenbessengids"
+          "cta": "Vossenbessengids",
+          "imageAlt": "Twee rijpe vossenbessen aan een takje in dik mos, Kemijärvi"
         },
         {
           "name": "Duindoorn",
           "latin": "Hippophaë rhamnoides",
           "season": "September tot oktober",
           "body": "De zure oranje bes van de Botnische kust, tussen de doorns geplukt en als sap gedronken.",
-          "cta": "Duindoorngids"
+          "cta": "Duindoorngids",
+          "imageAlt": "Duindoornstruiken met oranje bessen aan een Oostzeekust"
         }
       ]
     },
@@ -705,7 +712,8 @@
       "headline": "Hoe smaakt een vossenbes?",
       "answer": "Zuur, licht bitter en nauwelijks zoet, met een schone, droge afdronk en niets van de muskus van een kruipbraam: denk aan een cranberry met de suiker lager gedraaid en iets meer bitterheid. Rauw laat één bes u al een grimas trekken; door iets warms, hartigs of zuivels geroerd wordt diezelfde zuurheid juist het punt.",
       "p2": "Vorst helpt. Bessen die na de eerste nachtvorst van september zijn geplukt, zijn merkbaar milder en zoeter dan augustusbessen, en Finse plukkers plannen hun tochten daarop. Volrijpe bessen zijn rondom dieprood; een bleke zijde betekent dat de bes nog een week nodig heeft.",
-      "p3": "U krijgt zelden vossenbessen alleen geserveerd. Ze komen als bijgerecht: rauw geplet met wat suiker naast gebakken rendier of gehaktballen, opgeklopt tot <em>vispipuuro</em>, de roze griesmeelpap die elk Fins kind kent, of gelepeld over warme pap met melk."
+      "p3": "U krijgt zelden vossenbessen alleen geserveerd. Ze komen als bijgerecht: rauw geplet met wat suiker naast gebakken rendier of gehaktballen, opgeklopt tot <em>vispipuuro</em>, de roze griesmeelpap die elk Fins kind kent, of gelepeld over warme pap met melk.",
+      "imageAlt": "Twee rijpe vossenbessen aan een takje in dik mos, omringd door vossenbesblaadjes, Kemijärvi, september 2026"
     },
     "season": {
       "kicker": "Eind augustus tot oktober",
@@ -772,15 +780,18 @@
       "items": [
         {
           "title": "Rauw geplette vossenbessen",
-          "body": "Puolukkasurvos: bessen geplet met een beetje suiker, verder niets. Dankzij het eigen benzoëzuur van de bes blijft het maandenlang goed in de koelkast of een koude voorraadkast. Dit is de pot naast rendier, gehaktballen en lever."
+          "body": "Puolukkasurvos: bessen geplet met een beetje suiker, verder niets. Dankzij het eigen benzoëzuur van de bes blijft het maandenlang goed in de koelkast of een koude voorraadkast. Dit is de pot naast rendier, gehaktballen en lever.",
+          "imageAlt": "Rauwe vossenbessen opgestapeld naast Finse koolschotel in een witte kom"
         },
         {
           "title": "Vossenbessenjam",
-          "body": "De gekookte versie, zoeter en gladder, is de exportklassieker en de jam die de meeste bezoekers kennen van Zweedse meubelwinkels. In Finland gaat ze op pannenkoeken, rijstpap en warme pap."
+          "body": "De gekookte versie, zoeter en gladder, is de exportklassieker en de jam die de meeste bezoekers kennen van Zweedse meubelwinkels. In Finland gaat ze op pannenkoeken, rijstpap en warme pap.",
+          "imageAlt": "Dunne pannenkoeken met een schaaltje vossenbessenjam"
         },
         {
           "title": "Vispipuuro",
-          "body": "Roze opgeklopte pap: vossenbessensap gebonden met griesmeel en dan luchtig geklopt, koud geserveerd met melk. Een schoolkantinetoetje dat volwassenen nog steeds bestellen."
+          "body": "Roze opgeklopte pap: vossenbessensap gebonden met griesmeel en dan luchtig geklopt, koud geserveerd met melk. Een schoolkantinetoetje dat volwassenen nog steeds bestellen.",
+          "imageAlt": "Een kom roze opgeklopte vossenbessenpap in koude melk"
         }
       ]
     },
@@ -841,6 +852,7 @@
       "title": "Blauwe bosbes, het blauw dat",
       "titleHighlight": "uw vingers kleurt.",
       "subtitle": "Mustikka is de bes die bijna elke Fin weleens heeft geplukt, de bes die een hele augustus van de kindertijd kleurt, en de bes die bezoekers blauwe bes blijven noemen. Hier leest u hoe ze verschilt, hoe ze smaakt en waar ze in Lapland groeit.",
+      "imageAlt": "Rijpe blauwe bosbessen aan een lage groene struik in een bos in Salla in augustus",
       "primaryCta": "Leer ze plukken",
       "secondaryCta": "De bessengids",
       "pills": [
@@ -882,7 +894,8 @@
       "headline": "Hoe smaakt een blauwe bosbes?",
       "answer": "Zoeter en zachter dan een cranberry, scherper en wilder dan een gekweekte blauwe bes: de bosbes is sappig, dunhuidig en intens gekleurd, met een bloemige, licht tanninerijke diepte die een gekweekte blauwe bes niet heeft. Eet een handvol zo van de struik en uw vingers, lippen en tong worden paars.",
       "p2": "Rijpheid is makkelijk af te lezen. Een rijpe bosbes is dof donkerblauw en laat los bij het lichtste trekje; een bes die weerstand biedt, is een dag of twee te vroeg. Zonverwarmde bessen uit een open plek smaken het zoetst; schaduwbessen uit diep sparrenbos zijn groter en sappiger.",
-      "p3": "In de keuken draagt de smaak overal doorheen: <em>mustikkapiirakka</em>, de taart, <em>mustikkakeitto</em>, de soep, een lepel op de ochtendpap of op <em>viili</em>, de dikke zure melk, en in Lapland de klassieke combinatie van bosbes en rendier."
+      "p3": "In de keuken draagt de smaak overal doorheen: <em>mustikkapiirakka</em>, de taart, <em>mustikkakeitto</em>, de soep, een lepel op de ochtendpap of op <em>viili</em>, de dikke zure melk, en in Lapland de klassieke combinatie van bosbes en rendier.",
+      "imageAlt": "Een handvol vers geplukte blauwe bosbessen op een open handpalm, met dennenbos erachter"
     },
     "season": {
       "kicker": "Eind juli tot september",
@@ -920,7 +933,8 @@
       "p1": "De blauwe bosbes, <em>Vaccinium myrtillus</em>, en de gekweekte blauwe bes, <em>Vaccinium corymbosum</em>, zijn neven, en in de meeste talen, het Fins inbegrepen, heten ze allebei blauwe bes. Op het bord zijn het verschillende vruchten.",
       "p2": "Bosbessen groeien één voor één aan lage bosstruiken en zijn klein, donker en paars tot in de kern. Gekweekte blauwe bessen groeien in trossen aan hoge, voor de teelt veredelde struiken, zijn groter en steviger en blijven vanbinnen bleek omdat hun kleur alleen in de schil zit.",
       "p3": "Dat verschil is de reden dat een Finse bosbessentaart paars uitloopt en een blueberrymuffin niet, en dat diepgevroren wilde bosbessen in winkels in het buitenland de moeite van het zoeken waard zijn: de smaak is geconcentreerd op een manier die de gekweekte bes nooit haalt.",
-      "p4": "<strong>Ziet u een Finse menukaart vertaald met blueberry of blauwe bes, dan gaat het om de bosbes. In Lapland is de blauwe bes op het bord de wilde.</strong>"
+      "p4": "<strong>Ziet u een Finse menukaart vertaald met blueberry of blauwe bes, dan gaat het om de bosbes. In Lapland is de blauwe bes op het bord de wilde.</strong>",
+      "imageAlt": "Eén rijpe blauwe bosbes tussen twee vingers, met een onscherpe weide aan een meer erachter"
     },
     "price": {
       "kicker": "Wat ze waard is",
@@ -949,15 +963,18 @@
       "items": [
         {
           "title": "Bosbessentaart",
-          "body": "Mustikkapiirakka: een zachte taart, vaak met een havertopping, waarin de bessen meebakken tot ze uitlopen. Elk Fins café heeft er in augustus een, en de goede smaken naar bos in plaats van naar suiker."
+          "body": "Mustikkapiirakka: een zachte taart, vaak met een havertopping, waarin de bessen meebakken tot ze uitlopen. Elk Fins café heeft er in augustus een, en de goede smaken naar bos in plaats van naar suiker.",
+          "imageAlt": "Een bakplaat Finse bosbessentaart, net uit de oven"
         },
         {
           "title": "Bosbessensoep",
-          "body": "Mustikkakeitto: bessen zachtjes gekookt met een beetje suiker en gebonden met aardappelzetmeel, warm of koud geserveerd, alleen of over pap. Ook de drank van de langlaufer, heet uit de thermosfles op de loipe."
+          "body": "Mustikkakeitto: bessen zachtjes gekookt met een beetje suiker en gebonden met aardappelzetmeel, warm of koud geserveerd, alleen of over pap. Ook de drank van de langlaufer, heet uit de thermosfles op de loipe.",
+          "imageAlt": "Een kop warme bosbessensoep bestrooid met geroosterde kokosvlokken"
         },
         {
           "title": "Bij rendier",
-          "body": "In de restaurants van Lapland staat een bosbessenreductie of melkzuurgefermenteerde bosbessen naast de rendierfilet. De zuurheid snijdt door de rijkdom; de kleur doet de rest."
+          "body": "In de restaurants van Lapland staat een bosbessenreductie of melkzuurgefermenteerde bosbessen naast de rendierfilet. De zuurheid snijdt door de rijkdom; de kleur doet de rest.",
+          "imageAlt": "Plakken rosé gebakken rendierfilet met een donkere bosbessenreductie en hele bessen op een stenen bord"
         }
       ]
     },
@@ -1015,6 +1032,7 @@
       "title": "Duindoorn, oranje vuur",
       "titleHighlight": "van de oever.",
       "subtitle": "Tyrni groeit helemaal niet in de bossen van het binnenland van Lapland. Hij groeit op de stenige oevers van de Botnische Golf, noordwaarts tot de Laplandse kust bij Tornio, en het is de zuurste bes van de Finse voorraadkast en een van de rijkste aan vitamine C. Hier leest u waar hij leeft, hoe hij smaakt en waarom hij zo moeilijk te plukken is.",
+      "imageAlt": "Rustige oever van de Botnische Golf op een avond in juli, met rechts een stenig strand en aan de overkant een lage beboste landtong",
       "primaryCta": "Leer hem plukken",
       "secondaryCta": "De bessengids",
       "pills": [
@@ -1052,7 +1070,8 @@
       "headline": "Hoe smaakt duindoorn?",
       "answer": "Scherp. Een rijpe duindoornbes is zo zuur als een citroen, met een bittere, licht olieachtige rand en, als de schok voorbij is, een tropische toets ergens tussen passievrucht en abrikoos. Het sap is dik en feloranje en kleurt alles wat het aanraakt.",
       "p2": "Die zuurheid is de reden dat de bes bijna nooit puur gegeten wordt. Hij wordt verdund tot sap, gezoet tot jam, ingevroren tot sorbet, of door koks gebruikt zoals een citroen wordt gebruikt: een lepel duindoorn snijdt door room, witte chocolade, vette vis en rijk rendier.",
-      "p3": "Vorst verzacht hem nauwelijks. De bessen smaken in oktober vrijwel hetzelfde als in september; wat verandert is hoe makkelijk ze van de doornige tak loskomen, en dat is het echte probleem van de plukker."
+      "p3": "Vorst verzacht hem nauwelijks. De bessen smaken in oktober vrijwel hetzelfde als in september; wat verandert is hoe makkelijk ze van de doornige tak loskomen, en dat is het echte probleem van de plukker.",
+      "imageAlt": "Close-up van een hoop rijpe oranje duindoornbessen"
     },
     "season": {
       "kicker": "September tot oktober",
@@ -1090,7 +1109,8 @@
       "p1": "Duindoornbessen zitten dicht opeen langs de takken, elk zo stevig vast dat trekken ze meestal laat barsten. Tussen de bessen zitten doorns van meerdere centimeters. Zelfs een klein mandje met de hand plukken vraagt geduld en dikke handschoenen.",
       "p2": "Commerciële telers lossen het op met kou. Ze knippen vruchtdragende takken af en vriezen ze in; bevroren bessen knappen er schoon af en gaan rechtstreeks de pers in. Daarom bereikt de meeste duindoorn u ook als sap, puree of jam en niet vers.",
       "p3": "De struik is tweehuizig: mannelijke en vrouwelijke planten zijn gescheiden, en alleen de vrouwelijke dragen vrucht, waardoor een dichte begroeiing op de oever voor de helft onvruchtbaar kan zijn.",
-      "p4": "<strong>De conclusie voor een reiziger: verse duindoorn is zelfs in Finland zeldzaam, maar het sap ligt in elke supermarkt.</strong>"
+      "p4": "<strong>De conclusie voor een reiziger: verse duindoorn is zelfs in Finland zeldzaam, maar het sap ligt in elke supermarkt.</strong>",
+      "imageAlt": "Duindoornstruiken vol oranje bessen aan de kust van de Botnische Golf bij Billudden in Zweden"
     },
     "price": {
       "kicker": "Vitamine C",
@@ -1119,15 +1139,18 @@
       "items": [
         {
           "title": "Duindoornsap",
-          "body": "Tyrnimehu: geperst, gezoet en meestal verdund, gedronken uit kleine glazen. De supermarktversie is hoe de meeste Finnen de bes leren kennen; de versgeperste boerderijversie is scherper en dikker."
+          "body": "Tyrnimehu: geperst, gezoet en meestal verdund, gedronken uit kleine glazen. De supermarktversie is hoe de meeste Finnen de bes leren kennen; de versgeperste boerderijversie is scherper en dikker.",
+          "imageAlt": "Een fles en een glazen kroes met dik, troebel duindoornsap"
         },
         {
           "title": "Jam en puree",
-          "body": "Gekookt met suiker verandert de zuurheid in iets wat dichter bij marmelade komt. Gesmeerd op roggebrood, gelepeld over pap of geserveerd bij kaas."
+          "body": "Gekookt met suiker verandert de zuurheid in iets wat dichter bij marmelade komt. Gesmeerd op roggebrood, gelepeld over pap of geserveerd bij kaas.",
+          "imageAlt": "Potten duindoorngelei en flessen sap en likeur op een tafel voor een winkel op Hiddensee in Duitsland"
         },
         {
           "title": "Op de dessertkaart",
-          "body": "De proeverijmenu's van Lapland en Helsinki gebruiken duindoorn als hun citroen: een sorbet tussen de gangen, een curd onder witte chocolade, een scherpe saus bij vette Arctische vis."
+          "body": "De proeverijmenu's van Lapland en Helsinki gebruiken duindoorn als hun citroen: een sorbet tussen de gangen, een curd onder witte chocolade, een scherpe saus bij vette Arctische vis.",
+          "imageAlt": "Een quenelle oranje duindoornsorbet op een donker bord met witte chocoladecrème en een scherf karamel"
         }
       ]
     },
@@ -1503,6 +1526,7 @@
       "title": "Poronkäristys, rendier",
       "titleHighlight": "dun geschaafd, traag gegaard.",
       "subtitle": "Rendiervlees wordt halfbevroren in dunne reepjes geschaafd, in boter aangebraden en gestoofd tot het uit elkaar valt, en komt dan op aardappelpuree met vossenbessen en augurk. Hier vindt u het eigen recept van de rendierhouders, de ovenversie, wat het kost en waar u het in Lapland bestelt.",
+      "imageAlt": "Vijf rendieren die midden in de zomer over de weg lopen in Kilpisjärvi, Fins Lapland, met een groene fjällhelling erachter",
       "primaryCta": "Naar het recept",
       "secondaryCta": "Alle traditionele recepten",
       "pills": [
@@ -1560,7 +1584,8 @@
             "Zet het vuur lager, doe het deksel op de pan en laat sudderen tot het vlees mals is: 10 tot 30 minuten voor vlees uit de bout, langer voor andere delen. Giet er een scheutje water bij als de pan droog komt te staan.",
             "Proef, voeg naar wens peper toe en serveer op aardappelpuree met vossenbessen en augurk."
           ],
-          "tip": "Volgens de rendierhoudersvereniging krijgt u de krachtigste smaak als u het vlees in rendiervet bakt."
+          "tip": "Volgens de rendierhoudersvereniging krijgt u de krachtigste smaak als u het vlees in rendiervet bakt.",
+          "imageAlt": "Een bord poronkäristys: dun geschaafd rendier op aardappelpuree met vossenbessen en augurk"
         },
         {
           "name": "Poronkäristys uit de oven",
@@ -1613,7 +1638,8 @@
       "headline": "Rendier, dun geschaafd.",
       "p1": "Poronkäristys is rendiervlees dat halfbevroren in dunne reepjes wordt geschaafd, in vet wordt aangebraden en in een beetje water wordt gestoofd tot het mals is. De rendierhoudersvereniging noemt ook de geschikte delen: twee stukken uit de achterbout, de schouder en het voorste deel van de rug.",
       "p2": "De meeste Finse rendieren worden in oktober en november geslacht, na minstens een half jaar waarin ze niets anders aten dan wat ze in de natuur vonden. Het vlees is donker en mager, met 2 tot 4 % vet.",
-      "p3": "Over de grens in Zweden heet hetzelfde gerecht <em>renskav</em>. Rendiervlees uit het Finse rendierhoudersgebied heeft sinds 2009 een eigen beschermde oorsprongsbenaming van de EU, <strong>Lapin Poron liha</strong>: de rendieren grazen vrij op natuurlijke weiden, en het vlees wordt binnen het rendierhoudersgebied geproduceerd, uitgesneden en verpakt."
+      "p3": "Over de grens in Zweden heet hetzelfde gerecht <em>renskav</em>. Rendiervlees uit het Finse rendierhoudersgebied heeft sinds 2009 een eigen beschermde oorsprongsbenaming van de EU, <strong>Lapin Poron liha</strong>: de rendieren grazen vrij op natuurlijke weiden, en het vlees wordt binnen het rendierhoudersgebied geproduceerd, uitgesneden en verpakt.",
+      "imageAlt": "Een rendier in diepe sneeuw in een winters bos"
     },
     "variations": {
       "kicker": "Varianten",
@@ -1771,6 +1797,7 @@
       "title": "Leipäjuusto, de kaas",
       "titleHighlight": "die piept.",
       "subtitle": "Een platte verse kaas uit het noorden van Finland, gebakken tot hij bruin gespikkeld is en warm gegeten met kruipbraamjam of zacht geweekt in een kop koffie. Hier leest u hoe u hem serveert, hoe u hem thuis van melk maakt en waarom hij tussen uw tanden piept.",
+      "imageAlt": "Een ronde leipäjuusto met bruine vlekken in een donkere schaal, met één punt aangesneden en bedekt met kruipbramenjam",
       "primaryCta": "Naar de recepten",
       "secondaryCta": "Alle traditionele recepten",
       "pills": [
@@ -1826,7 +1853,8 @@
             "Bak ongeveer 15 minuten, tot de room borrelt en de kaas zacht is geworden.",
             "Schep de kruipbraamjam over de warme kaas en serveer meteen."
           ],
-          "tip": "Weinig tijd? Dan kan het ook in 3 minuten in de magnetron op 800 W. Vossenbessen- of bosbessenjam werkt als er geen kruipbramen te krijgen zijn."
+          "tip": "Weinig tijd? Dan kan het ook in 3 minuten in de magnetron op 800 W. Vossenbessen- of bosbessenjam werkt als er geen kruipbramen te krijgen zijn.",
+          "imageAlt": "Een warm stuk leipäjuusto met jam op een bord"
         },
         {
           "name": "Salade met leipäjuusto",
@@ -1874,7 +1902,8 @@
             "Druk de wrongel in een platte, ronde ovenschaal tot een laag van ongeveer 2 cm en giet de wei die vrijkomt af.",
             "Laat de kaas onder de grill van de oven op 250 tot 275 °C in 5 tot 10 minuten bruinen, tot er donkere vlekken verschijnen."
           ],
-          "tip": "De beste leipäjuusto werd traditioneel gemaakt van biest, de eerste melk na het kalven, die rijk is aan caseïne. Thuis werkt gewone volle melk ook."
+          "tip": "De beste leipäjuusto werd traditioneel gemaakt van biest, de eerste melk na het kalven, die rijk is aan caseïne. Thuis werkt gewone volle melk ook.",
+          "imageAlt": "Een ronde juustoleipä-kaas, in 1914 van bovenaf gefotografeerd, zwart-wit"
         }
       ]
     },
@@ -1883,7 +1912,8 @@
       "headline": "Verse kaas, gebakken tot hij gespikkeld is.",
       "p1": "Leipäjuusto is een verse kaas van koemelk die met stremsel is gestremd. De wrongel wordt tot een platte schijf gevormd en aan beide kanten gebakken tot het oppervlak donkere vlekken krijgt, in de oven, op de grill of bij een open vuur. Hij wordt niet gerijpt en blijft daarom 10 tot 14 dagen goed vanaf de zuivelfabriek.",
       "p2": "Hij hoort bij het noorden van Finland. De meeste dialectvermeldingen van het woord leipäjuusto komen uit Österbotten en Peräpohjola in het noordwesten, terwijl dezelfde kaas in Kainuu juustoleipä heet. In het Finse deel van Tornedalen, aan de Zweedse grens, heet hij kahvijuusto, koffiekaas, en aan de Zweedse kant van de rivier heet de tegenhanger kaffeost.",
-      "p3": "De traditionele grondstof was biest, de eerste melk na het kalven, die rijk is aan caseïne, en daarvan maakte Juustoportti in Jalasjärvi in 1966 de eerste commerciële leipäjuusto. Twee Finse varianten wachten nu op een beschermde EU-naam: voor <strong>Pohjalainen leipäjuusto</strong> en <strong>Kainuun juustoleipä</strong> is in 2024 een aanvraag ingediend. In Zweden werd kaffeost in 2025 een beschermde oorsprongsbenaming."
+      "p3": "De traditionele grondstof was biest, de eerste melk na het kalven, die rijk is aan caseïne, en daarvan maakte Juustoportti in Jalasjärvi in 1966 de eerste commerciële leipäjuusto. Twee Finse varianten wachten nu op een beschermde EU-naam: voor <strong>Pohjalainen leipäjuusto</strong> en <strong>Kainuun juustoleipä</strong> is in 2024 een aanvraag ingediend. In Zweden werd kaffeost in 2025 een beschermde oorsprongsbenaming.",
+      "imageAlt": "Een punt leipäjuusto met een bruin gevlekte bovenkant op een leistenen plank"
     },
     "variations": {
       "kicker": "Zo eet u hem",
