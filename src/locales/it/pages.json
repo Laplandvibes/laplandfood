@@ -507,7 +507,7 @@
   },
   "berries": {
     "title": "Bacche finlandesi: mora artica, mirtilli e olivello spinoso",
-    "description": "Le quattro bacche selvatiche che definiscono la cucina finlandese: che sapore ha ciascuna, quando matura, dove cresce e come raccoglierla con il diritto di accesso alla natura.",
+    "description": "Le quattro bacche selvatiche che definiscono la cucina finlandese: sapore, stagione, dove crescono e come raccoglierle con il diritto di accesso alla natura.",
     "hero": {
       "eyebrow": "La guida alle bacche",
       "title": "Quattro bacche, una",
@@ -675,7 +675,7 @@
   },
   "lingonberry": {
     "title": "Mirtillo rosso: la bacca selvatica di tutti i giorni in Finlandia",
-    "description": "Che sapore ha il mirtillo rosso, quando cade la stagione finlandese, perché si conserva senza zucchero, in cosa differisce dal cranberry e dove mangiarlo in Lapponia.",
+    "description": "Che sapore ha il mirtillo rosso, quando matura, perché si conserva senza zucchero, in cosa differisce dal cranberry e dove mangiarlo in Lapponia.",
     "hero": {
       "eyebrow": "La guida alle bacche · Mirtillo rosso",
       "title": "Mirtillo rosso, la bacca che",
@@ -853,7 +853,7 @@
   },
   "bilberry": {
     "title": "Mirtillo nero: il mirtillo selvatico della Finlandia",
-    "description": "Perché il mirtillo nero finlandese non è il mirtillo coltivato, che sapore ha, quando la stagione in Lapponia è al culmine, quanto guadagnano i raccoglitori e come mangiarlo, dalla torta alla zuppa.",
+    "description": "Perché il mirtillo nero finlandese non è quello coltivato: sapore, stagione in Lapponia, guadagni dei raccoglitori e come mangiarlo, dalla torta alla zuppa.",
     "hero": {
       "eyebrow": "La guida alle bacche · Mirtillo nero",
       "title": "Mirtillo nero, il blu che",
@@ -1033,7 +1033,7 @@
   },
   "seaBuckthorn": {
     "title": "Olivello spinoso: la bacca più acida della Finlandia",
-    "description": "Che sapore ha l'olivello spinoso, dove cresce spontaneo sulla costa finlandese del golfo di Botnia, quando matura, perché si raccoglie tra le spine e come i finlandesi lo bevono e lo cucinano.",
+    "description": "Che sapore ha l'olivello spinoso, dove cresce spontaneo lungo il golfo di Botnia, quando matura, perché si raccoglie tra le spine e come si beve e si cucina.",
     "hero": {
       "eyebrow": "La guida alle bacche · Olivello spinoso",
       "title": "Olivello spinoso, fuoco arancione",
@@ -2159,7 +2159,7 @@
   },
   "foragingGuide": {
     "title": "Raccolta in Lapponia: bacche e funghi",
-    "description": "Il diritto di accesso alla natura permette di raccogliere bacche e funghi quasi ovunque in Finlandia. Calendario mese per mese, funghi sicuri e i due letali da conoscere.",
+    "description": "Il diritto di accesso alla natura permette di raccogliere bacche e funghi quasi ovunque in Finlandia.",
     "hero": {
       "eyebrow": "Guida 04 · Raccolta",
       "title": "La dispensa",
@@ -2419,7 +2419,7 @@
   },
   "michelinDining": {
     "title": "Michelin in Finlandia 2026 e dove mangiare in Lapponia",
-    "description": "Gli otto ristoranti stellati Michelin della Finlandia nel 2026, più i tre ristoranti della Lapponia che meritano il viaggio: orari, tempi di prenotazione e cosa ordinare.",
+    "description": "Gli otto ristoranti stellati Michelin della Finlandia nel 2026 e i tre della Lapponia che meritano il viaggio: orari, tempi di prenotazione e cosa ordinare.",
     "hero": {
       "eyebrow": "Guida 05 · Alta cucina",
       "title": "Le stelle Michelin della Finlandia,",
@@ -2586,7 +2586,7 @@
   },
   "about": {
     "title": "Chi è LaplandFood",
-    "description": "Che cos'è LaplandFood, come si scelgono gli argomenti, i nostri principi redazionali e come sono segnalati i link dei partner. Fa parte della rete #LaplandVibes.",
+    "description": "Che cos'è LaplandFood, come si scelgono gli argomenti, i nostri principi redazionali e come sono segnalati i link dei partner.",
     "hero": {
       "kicker": "Chi siamo",
       "headline": "Cucina finlandese, scritta da quassù.",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Informativa sulla privacy | LaplandFood",
-    "description": "Come LaplandFood tratta i Suoi dati."
+    "title": "Informativa sulla privacy",
+    "description": "Come LaplandFood tratta i Suoi dati. Raccogliamo dati analitici pseudonimi tramite Google Analytics 4."
   },
   "terms": {
-    "title": "Termini di utilizzo | LaplandFood",
-    "description": "Termini di utilizzo di LaplandFood."
+    "title": "Termini di utilizzo",
+    "description": "Termini di utilizzo di LaplandFood. Accedendo o utilizzando il presente sito web, Lei accetta i presenti termini."
   },
   "cookie": {
-    "title": "Politica dei cookie | LaplandFood",
-    "description": "Come LaplandFood usa i cookie."
+    "title": "Politica dei cookie",
+    "description": "Come LaplandFood usa i cookie. I cookie sono piccoli file di testo memorizzati sul Suo dispositivo quando visita un sito web."
   }
 }

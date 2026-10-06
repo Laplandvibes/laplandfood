@@ -854,7 +854,7 @@
   },
   "bilberry": {
     "title": "Mustikka: Suomen villi metsämarja",
-    "description": "Miksi suomalainen metsämustikka ei ole pensasmustikka, miltä se maistuu, milloin Lapin sesonki on huipussaan, mitä poimijoille maksetaan ja miten sitä syödään piirakasta keittoon.",
+    "description": "Miksi metsämustikka ei ole pensasmustikka, miltä se maistuu, milloin Lapissa on sesonki, mitä poimijoille maksetaan ja miten sitä syödään piirakasta keittoon.",
     "hero": {
       "eyebrow": "Marjaopas · Mustikka",
       "title": "Mustikka, sininen joka",
@@ -1034,7 +1034,7 @@
   },
   "seaBuckthorn": {
     "title": "Tyrni: Suomen happamin marja",
-    "description": "Miltä tyrni maistuu, missä se kasvaa villinä Suomen Pohjanlahden rannikolla, milloin se kypsyy, miksi se poimitaan piikkien seasta ja miten suomalaiset juovat ja käyttävät sitä.",
+    "description": "Miltä tyrni maistuu, missä se kasvaa villinä Pohjanlahden rannikolla, milloin se kypsyy, miksi se poimitaan piikkien seasta ja mitä siitä tehdään.",
     "hero": {
       "eyebrow": "Marjaopas · Tyrni",
       "title": "Tyrni, oranssia tulta",
@@ -2681,15 +2681,15 @@
     }
   },
   "privacy": {
-    "title": "Tietosuojaseloste | LaplandFood",
-    "description": "Miten LaplandFood käsittelee tietojasi."
+    "title": "Tietosuojaseloste",
+    "description": "Miten LaplandFood käsittelee tietojasi. Keräämme pseudonyymejä kävijäanalytiikkatietoja Google Analytics 4:n kautta."
   },
   "terms": {
-    "title": "Käyttöehdot | LaplandFood",
-    "description": "LaplandFoodin käyttöehdot."
+    "title": "Käyttöehdot",
+    "description": "LaplandFoodin käyttöehdot. Käyttämällä tätä sivustoa hyväksyt nämä käyttöehdot."
   },
   "cookie": {
-    "title": "Evästekäytäntö | LaplandFood",
-    "description": "Miten LaplandFood käyttää evästeitä."
+    "title": "Evästekäytäntö",
+    "description": "Miten LaplandFood käyttää evästeitä. Evästeet ovat pieniä tekstitiedostoja, jotka tallentuvat laitteellesi vieraillessasi verkkosivustolla."
   }
 }

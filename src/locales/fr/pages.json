@@ -507,7 +507,7 @@
   },
   "berries": {
     "title": "Baies finlandaises : mûre arctique, myrtille, airelle et argousier",
-    "description": "Les quatre baies sauvages qui définissent la cuisine finlandaise : le goût de chacune, sa saison, où elle pousse et comment la cueillir grâce au droit d'accès à la nature.",
+    "description": "Les quatre baies sauvages qui définissent la cuisine finlandaise : goût, saison, où elles poussent et comment les cueillir grâce au droit d'accès à la nature.",
     "hero": {
       "eyebrow": "Le guide des baies",
       "title": "Quatre baies, un",
@@ -853,7 +853,7 @@
   },
   "bilberry": {
     "title": "Myrtille sauvage : la myrtille des forêts de Finlande",
-    "description": "Pourquoi la myrtille sauvage finlandaise n'est pas la myrtille cultivée, son goût, le pic de la saison en Laponie, ce que touchent les cueilleurs et comment la manger, de la tarte à la soupe.",
+    "description": "Pourquoi la myrtille sauvage finlandaise n'est pas une myrtille cultivée : goût, saison en Laponie, ce que gagnent les cueilleurs et comment on la mange.",
     "hero": {
       "eyebrow": "Le guide des baies · Myrtille sauvage",
       "title": "La myrtille, le bleu qui",
@@ -1033,7 +1033,7 @@
   },
   "seaBuckthorn": {
     "title": "Argousier : la baie la plus acide de Finlande",
-    "description": "Le goût de l'argousier, où il pousse à l'état sauvage sur la côte finlandaise du golfe de Botnie, quand il mûrit, pourquoi on le cueille entre les épines et comment les Finlandais le boivent et le cuisinent.",
+    "description": "Le goût de l'argousier, où il pousse sauvage au bord du golfe de Botnie, quand il mûrit, pourquoi on le cueille entre les épines et ce qu'on en fait.",
     "hero": {
       "eyebrow": "Le guide des baies · Argousier",
       "title": "L'argousier, feu orange",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Politique de confidentialité | LaplandFood",
-    "description": "Comment LaplandFood traite vos données."
+    "title": "Politique de confidentialité",
+    "description": "Comment LaplandFood traite vos données. Nous collectons des données analytiques pseudonymes via Google Analytics 4."
   },
   "terms": {
-    "title": "Conditions d'utilisation | LaplandFood",
-    "description": "Conditions d'utilisation de LaplandFood."
+    "title": "Conditions d'utilisation",
+    "description": "Conditions d'utilisation de LaplandFood. En accédant à ce site ou en l'utilisant, vous acceptez ces conditions."
   },
   "cookie": {
-    "title": "Politique de cookies | LaplandFood",
-    "description": "Comment LaplandFood utilise les cookies."
+    "title": "Politique de cookies",
+    "description": "Comment LaplandFood utilise les cookies. Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous visitez un site web."
   }
 }

@@ -853,7 +853,7 @@
   },
   "bilberry": {
     "title": "Blåbär: Finlands vilda blåbär",
-    "description": "Varför det finska skogsblåbäret inte är ett odlat blåbär, hur det smakar, när Lapplands säsong toppar, vad plockarna får betalt och hur du äter det från paj till soppa.",
+    "description": "Varför det finska skogsblåbäret inte är ett odlat blåbär: smak, säsong i Lappland, vad plockarna tjänar och hur du äter det, från paj till soppa.",
     "hero": {
       "eyebrow": "Bärguiden · Blåbär",
       "title": "Blåbär, det blå som",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Integritetspolicy | LaplandFood",
-    "description": "Hur LaplandFood hanterar dina uppgifter."
+    "title": "Integritetspolicy",
+    "description": "Hur LaplandFood hanterar dina uppgifter. Vi samlar in pseudonym analysdata via Google Analytics 4."
   },
   "terms": {
-    "title": "Användarvillkor | LaplandFood",
-    "description": "Användarvillkor för LaplandFood."
+    "title": "Användarvillkor",
+    "description": "Användarvillkor för LaplandFood. Genom att öppna eller använda denna webbplats godkänner du dessa villkor."
   },
   "cookie": {
-    "title": "Cookiepolicy | LaplandFood",
-    "description": "Hur LaplandFood använder cookies."
+    "title": "Cookiepolicy",
+    "description": "Hur LaplandFood använder cookies. Cookies är små textfiler som lagras på din enhet när du besöker en webbplats."
   }
 }

@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "개인정보처리방침 | LaplandFood",
-    "description": "LaplandFood가 귀하의 데이터를 어떻게 다루는지."
+    "title": "개인정보처리방침",
+    "description": "LaplandFood가 귀하의 데이터를 어떻게 다루는지. 당사는 Google Analytics 4를 통해 가명 처리된 분석 데이터를 수집합니다. 뉴스레터를 구독하시면 귀하의 이메일 주소를 안전하게 보관합니다."
   },
   "terms": {
-    "title": "이용 약관 | LaplandFood",
-    "description": "LaplandFood 이용 약관."
+    "title": "이용 약관",
+    "description": "LaplandFood 이용 약관. 본 웹사이트에 접속하거나 이용하시는 것은 본 약관에 동의하시는 것입니다. 동의하지 않으시면 사이트 이용을 중단해 주십시오."
   },
   "cookie": {
-    "title": "쿠키 정책 | LaplandFood",
-    "description": "LaplandFood의 쿠키 사용 방침."
+    "title": "쿠키 정책",
+    "description": "LaplandFood의 쿠키 사용 방침. 쿠키는 귀하가 웹사이트를 방문할 때 기기에 저장되는 작은 텍스트 파일입니다. 웹사이트가 귀하의 설정을 기억하고 사이트 이용 방식을 이해하는 데 도움이 됩니다."
   }
 }

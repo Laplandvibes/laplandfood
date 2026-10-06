@@ -676,7 +676,7 @@
   },
   "lingonberry": {
     "title": "Preiselbeere: Finnlands Alltagsbeere aus dem Wald",
-    "description": "Wie Preiselbeeren schmecken, wann die finnische Saison läuft, warum sie ohne Zucker haltbar sind, wie sie sich von Cranberrys unterscheiden und wo Sie sie in Lappland essen.",
+    "description": "Wie Preiselbeeren schmecken, wann sie reifen, warum sie ohne Zucker haltbar sind, was sie von Cranberrys unterscheidet und wo Sie sie in Lappland essen.",
     "hero": {
       "eyebrow": "Der Beeren-Guide · Preiselbeere",
       "title": "Preiselbeere, die Beere, die",
@@ -854,7 +854,7 @@
   },
   "bilberry": {
     "title": "Heidelbeere: Finnlands wilde Blaubeere",
-    "description": "Warum die finnische Waldheidelbeere keine Kulturheidelbeere ist, wie sie schmeckt, wann Lapplands Saison ihren Höhepunkt hat, was Pflücker verdienen und wie man sie isst, vom Kuchen bis zur Suppe.",
+    "description": "Warum die Waldheidelbeere keine Kulturheidelbeere ist: Geschmack, Saison in Lappland, was Pflücker verdienen und wie man sie isst, von Kuchen bis Suppe.",
     "hero": {
       "eyebrow": "Der Beeren-Guide · Heidelbeere",
       "title": "Heidelbeere, das Blau, das",
@@ -1034,7 +1034,7 @@
   },
   "seaBuckthorn": {
     "title": "Sanddorn: Finnlands sauerste Beere",
-    "description": "Wie Sanddorn schmeckt, wo er an Finnlands Bottnischer Küste wild wächst, wann er reift, warum er zwischen Dornen gepflückt wird und wie Finnen ihn trinken und verarbeiten.",
+    "description": "Wie Sanddorn schmeckt, wo er am Bottnischen Meerbusen wild wächst, wann er reift, warum man ihn zwischen Dornen pflückt und was Finnen daraus machen.",
     "hero": {
       "eyebrow": "Der Beeren-Guide · Sanddorn",
       "title": "Sanddorn, oranges Feuer",
@@ -2420,7 +2420,7 @@
   },
   "michelinDining": {
     "title": "Michelin-Sterne in Finnland 2026 und wo man in Lappland isst",
-    "description": "Alle acht Sterne-Restaurants Finnlands 2026 plus die drei Häuser in Lappland, für die sich die Fahrt lohnt: Öffnungszeiten, Reservierungsfristen und was Sie bestellen sollten.",
+    "description": "Finnlands acht Sterne-Restaurants 2026 und drei Häuser in Lappland, die die Fahrt lohnen: Öffnungszeiten, Reservierungsfristen und was Sie bestellen sollten.",
     "hero": {
       "eyebrow": "Guide 05 · Fine Dining",
       "title": "Finnlands Michelin-Sterne",
@@ -2681,15 +2681,15 @@
     }
   },
   "privacy": {
-    "title": "Datenschutzerklärung | LaplandFood",
-    "description": "Wie LaplandFood Ihre Daten behandelt."
+    "title": "Datenschutzerklärung",
+    "description": "Wie LaplandFood Ihre Daten behandelt. Wir erheben pseudonyme Analysedaten über Google Analytics 4."
   },
   "terms": {
-    "title": "Nutzungsbedingungen | LaplandFood",
-    "description": "Die Nutzungsbedingungen von LaplandFood."
+    "title": "Nutzungsbedingungen",
+    "description": "Die Nutzungsbedingungen von LaplandFood. Mit dem Zugriff auf bzw. der Nutzung dieser Website erklären Sie sich mit diesen Bedingungen einverstanden."
   },
   "cookie": {
-    "title": "Cookie-Richtlinie | LaplandFood",
-    "description": "Wie LaplandFood Cookies verwendet."
+    "title": "Cookie-Richtlinie",
+    "description": "Wie LaplandFood Cookies verwendet. Cookies sind kleine Textdateien, die beim Besuch einer Website auf Ihrem Gerät gespeichert werden."
   }
 }

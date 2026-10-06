@@ -507,7 +507,7 @@
   },
   "berries": {
     "title": "Bayas de Finlandia: mora ártica, arándanos y espino amarillo",
-    "description": "Las cuatro bayas silvestres que definen la comida finlandesa: a qué sabe cada una, cuándo madura, dónde crece y cómo recogerla con el derecho de acceso a la naturaleza.",
+    "description": "Las cuatro bayas silvestres que definen la comida finlandesa: su sabor, cuándo maduran, dónde crecen y cómo recogerlas con el derecho de acceso a la naturaleza.",
     "hero": {
       "eyebrow": "La guía de bayas",
       "title": "Cuatro bayas, un",
@@ -853,7 +853,7 @@
   },
   "bilberry": {
     "title": "Arándano silvestre: el arándano de los bosques de Finlandia",
-    "description": "Por qué el arándano silvestre finlandés no es el arándano cultivado, a qué sabe, cuándo alcanza su punto la temporada en Laponia, cuánto cobran los recolectores y cómo comerlo, de la tarta a la sopa.",
+    "description": "Por qué el arándano silvestre finlandés no es el cultivado: sabor, temporada en Laponia, cuánto cobran los recolectores y cómo comerlo, de la tarta a la sopa.",
     "hero": {
       "eyebrow": "La guía de bayas · Arándano silvestre",
       "title": "Arándano silvestre, el azul que",
@@ -1033,7 +1033,7 @@
   },
   "seaBuckthorn": {
     "title": "Espino amarillo: la baya más ácida de Finlandia",
-    "description": "A qué sabe el espino amarillo, dónde crece silvestre en la costa finlandesa del golfo de Botnia, cuándo madura, por qué se recoge entre espinas y cómo lo beben y cocinan los finlandeses.",
+    "description": "A qué sabe el espino amarillo, dónde crece silvestre en la costa del golfo de Botnia, cuándo madura, por qué se recoge entre espinas y cómo se bebe y se cocina.",
     "hero": {
       "eyebrow": "La guía de bayas · Espino amarillo",
       "title": "Espino amarillo, fuego naranja",
@@ -2419,7 +2419,7 @@
   },
   "michelinDining": {
     "title": "Michelin en Finlandia 2026 y dónde comer en Laponia",
-    "description": "Los ocho restaurantes con estrella Michelin de Finlandia en 2026, más los tres restaurantes de Laponia que merecen el viaje: horarios, plazos de reserva y qué pedir.",
+    "description": "Los ocho restaurantes con estrella Michelin de Finlandia en 2026 y los tres de Laponia que merecen el viaje: horarios, plazos de reserva y qué pedir.",
     "hero": {
       "eyebrow": "Guía 05 · Alta cocina",
       "title": "Las estrellas Michelin de Finlandia,",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Política de privacidad | LaplandFood",
-    "description": "Cómo gestiona LaplandFood sus datos."
+    "title": "Política de privacidad",
+    "description": "Cómo gestiona LaplandFood sus datos. Recopilamos datos analíticos seudonimizados a través de Google Analytics 4."
   },
   "terms": {
-    "title": "Condiciones de uso | LaplandFood",
-    "description": "Condiciones de uso de LaplandFood."
+    "title": "Condiciones de uso",
+    "description": "Condiciones de uso de LaplandFood. Al acceder o utilizar este sitio web, usted acepta estos términos."
   },
   "cookie": {
-    "title": "Política de cookies y consentimiento | LaplandFood",
-    "description": "Cómo usa LaplandFood las cookies."
+    "title": "Política de cookies y consentimiento",
+    "description": "Cómo usa LaplandFood las cookies. Las cookies son pequeños archivos de texto que se almacenan en su dispositivo cuando visita un sitio web."
   }
 }

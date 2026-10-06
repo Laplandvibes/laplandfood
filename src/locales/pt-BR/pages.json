@@ -507,7 +507,7 @@
   },
   "berries": {
     "title": "Frutas silvestres da Finlândia: guia das quatro principais",
-    "description": "As quatro frutas silvestres que definem a comida finlandesa: o sabor de cada uma, quando amadurece, onde cresce e como colhê-la com o direito de acesso à natureza.",
+    "description": "As quatro frutas silvestres que definem a comida finlandesa: o sabor, quando amadurecem, onde crescem e como colhê-las com o direito de acesso à natureza.",
     "hero": {
       "eyebrow": "O guia das frutas silvestres",
       "title": "Quatro frutas, um",
@@ -853,7 +853,7 @@
   },
   "bilberry": {
     "title": "Mirtilo silvestre: o mirtilo das florestas da Finlândia",
-    "description": "Por que o mirtilo silvestre finlandês não é o mirtilo cultivado, qual é o sabor, quando a temporada na Lapônia atinge o pico, quanto os coletores recebem e como comê-lo, da torta à sopa.",
+    "description": "Por que o mirtilo silvestre finlandês não é o cultivado: o sabor, a temporada na Lapônia, quanto os coletores recebem e como comê-lo, da torta à sopa.",
     "hero": {
       "eyebrow": "O guia das frutas silvestres · Mirtilo silvestre",
       "title": "Mirtilo silvestre, o azul que",
@@ -1033,7 +1033,7 @@
   },
   "seaBuckthorn": {
     "title": "Espinheiro-marítimo: a fruta mais ácida da Finlândia",
-    "description": "Qual é o sabor do espinheiro-marítimo, onde ele cresce silvestre no litoral finlandês do golfo de Bótnia, quando amadurece, por que é colhido entre espinhos e como os finlandeses o bebem e cozinham.",
+    "description": "O sabor do espinheiro-marítimo, onde ele cresce silvestre no golfo de Bótnia, quando amadurece, por que é colhido entre espinhos e como se bebe e se cozinha.",
     "hero": {
       "eyebrow": "O guia das frutas silvestres · Espinheiro-marítimo",
       "title": "Espinheiro-marítimo, fogo laranja",
@@ -2586,7 +2586,7 @@
   },
   "about": {
     "title": "Sobre o LaplandFood",
-    "description": "O que é o LaplandFood, como os assuntos são escolhidos, nossos princípios editoriais e como os links de parceiros são sinalizados. Faz parte da rede #LaplandVibes.",
+    "description": "O que é o LaplandFood, como os assuntos são escolhidos, nossos princípios editoriais e como os links de parceiros são sinalizados.",
     "hero": {
       "kicker": "Sobre o LaplandFood",
       "headline": "Comida finlandesa, escrita daqui de cima.",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Política de Privacidade | LaplandFood",
-    "description": "Como a LaplandFood lida com seus dados."
+    "title": "Política de Privacidade",
+    "description": "Como a LaplandFood lida com seus dados. Coletamos dados analíticos pseudonimizados por meio do Google Analytics 4."
   },
   "terms": {
-    "title": "Termos de Uso | LaplandFood",
-    "description": "Termos de uso da LaplandFood."
+    "title": "Termos de Uso",
+    "description": "Termos de uso da LaplandFood. Ao acessar ou usar este site, você concorda com estes termos."
   },
   "cookie": {
-    "title": "Política de Cookies | LaplandFood",
-    "description": "Como a LaplandFood usa cookies."
+    "title": "Política de Cookies",
+    "description": "Como a LaplandFood usa cookies. Cookies são pequenos arquivos de texto armazenados no seu dispositivo quando você visita um site."
   }
 }

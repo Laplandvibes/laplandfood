@@ -1033,7 +1033,7 @@
   },
   "seaBuckthorn": {
     "title": "Sea Buckthorn: Finland's Sourest Berry",
-    "description": "What sea buckthorn tastes like, where it grows wild on Finland's Bothnian Bay coast, when it ripens, why it is picked from thorns, and how Finns drink and cook it.",
+    "description": "What sea buckthorn tastes like, where it grows wild along the Gulf of Bothnia, when it ripens, why it is picked among thorns and how Finns drink and cook it.",
     "hero": {
       "eyebrow": "The berry guide · Sea buckthorn",
       "title": "Sea buckthorn, orange fire",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Privacy Policy | LaplandFood",
-    "description": "How LaplandFood handles your data."
+    "title": "Privacy Policy",
+    "description": "How LaplandFood handles your data. We collect pseudonymous analytics data via Google Analytics 4."
   },
   "terms": {
-    "title": "Terms of Use | LaplandFood",
-    "description": "Terms of use for LaplandFood."
+    "title": "Terms of Use",
+    "description": "Terms of use for LaplandFood. By accessing or using this website, you agree to these terms."
   },
   "cookie": {
-    "title": "Cookie Policy | LaplandFood",
-    "description": "How LaplandFood uses cookies."
+    "title": "Cookie Policy",
+    "description": "How LaplandFood uses cookies. Cookies are small text files stored on your device when you visit a website."
   }
 }

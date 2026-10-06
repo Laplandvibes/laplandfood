@@ -235,7 +235,7 @@
   {
     "path": "/privacy",
     "jsonKey": "privacy",
-    "fallbackTitle": "Privacy Policy | LaplandFood",
+    "fallbackTitle": "Privacy Policy",
     "harvestFiles": [
       "src/shared/Legal/PrivacyContent.tsx"
     ]
@@ -243,7 +243,7 @@
   {
     "path": "/terms",
     "jsonKey": "terms",
-    "fallbackTitle": "Terms of Use | LaplandFood",
+    "fallbackTitle": "Terms of Use",
     "harvestFiles": [
       "src/shared/Legal/TermsContent.tsx"
     ]
@@ -251,7 +251,7 @@
   {
     "path": "/cookie-policy",
     "jsonKey": "cookie",
-    "fallbackTitle": "Cookie Policy | LaplandFood",
+    "fallbackTitle": "Cookie Policy",
     "harvestFiles": [
       "src/shared/Legal/CookieContent.tsx"
     ]

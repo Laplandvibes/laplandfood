@@ -853,7 +853,7 @@
   },
   "bilberry": {
     "title": "Blauwe bosbes: de wilde blauwe bes van Finland",
-    "description": "Waarom de Finse blauwe bosbes geen gekweekte blauwe bes is, hoe ze smaakt, wanneer het seizoen in Lapland piekt, wat plukkers betaald krijgen en hoe u ze eet, van taart tot soep.",
+    "description": "Waarom de Finse blauwe bosbes geen gekweekte blauwe bes is: de smaak, het seizoen in Lapland, wat plukkers verdienen en hoe u ze eet, van taart tot soep.",
     "hero": {
       "eyebrow": "De bessengids · Blauwe bosbes",
       "title": "Blauwe bosbes, het blauw dat",
@@ -1033,7 +1033,7 @@
   },
   "seaBuckthorn": {
     "title": "Duindoorn: de zuurste bes van Finland",
-    "description": "Hoe duindoorn smaakt, waar hij wild groeit aan de Finse kust van de Botnische Golf, wanneer hij rijpt, waarom hij tussen doorns geplukt wordt en hoe Finnen hem drinken en koken.",
+    "description": "Hoe duindoorn smaakt, waar hij wild groeit aan de Botnische Golf, wanneer hij rijpt, waarom hij tussen doorns geplukt wordt en wat Finnen ermee doen.",
     "hero": {
       "eyebrow": "De bessengids · Duindoorn",
       "title": "Duindoorn, oranje vuur",
@@ -2341,7 +2341,7 @@
   },
   "foodTours": {
     "title": "Foodtours en eetbelevingen in Lapland",
-    "description": "Drie boekbare eetbelevingen in Lapland: Samische cultuur met maaltijd, Arctische fine-diningavonden en begeleide plukwandelingen. Kleine groepen, online te boeken.",
+    "description": "Drie boekbare eetbelevingen in Lapland: Samische cultuur met maaltijd, Arctische fine-diningavonden en begeleide plukwandelingen.",
     "hero": {
       "eyebrow": "Gids 06 · Tours",
       "title": "Eet uw weg",
@@ -2419,7 +2419,7 @@
   },
   "michelinDining": {
     "title": "Michelinsterren in Finland 2026 en waar u eet in Lapland",
-    "description": "Alle acht Michelinrestaurants van Finland in 2026, plus de drie restaurants in Lapland die de rit waard zijn: openingstijden, reserveertermijnen en wat u bestelt.",
+    "description": "Alle acht Michelinrestaurants van Finland in 2026 en de drie in Lapland die de rit waard zijn: openingstijden, reserveertermijnen en wat u bestelt.",
     "hero": {
       "eyebrow": "Gids 05 · Fine dining",
       "title": "De Michelinsterren van Finland,",
@@ -2586,7 +2586,7 @@
   },
   "about": {
     "title": "Over LaplandFood",
-    "description": "Wat LaplandFood is, hoe onderwerpen worden gekozen, onze redactionele uitgangspunten en hoe partnerlinks worden aangeduid. Onderdeel van het #LaplandVibes-netwerk.",
+    "description": "Wat LaplandFood is, hoe onderwerpen worden gekozen, onze redactionele uitgangspunten en hoe partnerlinks worden aangeduid.",
     "hero": {
       "kicker": "Over LaplandFood",
       "headline": "Fins eten, van hieruit geschreven.",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "Privacybeleid | LaplandFood",
-    "description": "Hoe LaplandFood met uw gegevens omgaat."
+    "title": "Privacybeleid",
+    "description": "Hoe LaplandFood met uw gegevens omgaat. Wij verzamelen gepseudonimiseerde analysegegevens via Google Analytics 4."
   },
   "terms": {
-    "title": "Gebruiksvoorwaarden | LaplandFood",
-    "description": "Gebruiksvoorwaarden van LaplandFood."
+    "title": "Gebruiksvoorwaarden",
+    "description": "Gebruiksvoorwaarden van LaplandFood. Door deze website te bezoeken of te gebruiken, gaat u akkoord met deze voorwaarden."
   },
   "cookie": {
-    "title": "Cookiebeleid | LaplandFood",
-    "description": "Hoe LaplandFood cookies gebruikt."
+    "title": "Cookiebeleid",
+    "description": "Hoe LaplandFood cookies gebruikt. Cookies zijn kleine tekstbestanden die op uw apparaat worden opgeslagen wanneer u een website bezoekt."
   }
 }

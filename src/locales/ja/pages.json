@@ -507,7 +507,7 @@
   },
   "berries": {
     "title": "フィンランドのベリー：クラウドベリー、ビルベリー、リンゴンベリー、シーバックソーン",
-    "description": "フィンランドの食を決める四つの野生ベリー。それぞれの味、旬、育つ場所、そして自然享受権で摘む方法。",
+    "description": "フィンランドの食を決める四つの野生ベリー。それぞれの味、旬、育つ場所、そして自然享受権で摘む方法。フィンランドの森と海辺は、国じゅうの人が摘んでも摘みきれないほどの野生ベリーを実らせます。",
     "hero": {
       "eyebrow": "ベリーガイド",
       "title": "四つのベリー、",
@@ -2680,15 +2680,15 @@
     }
   },
   "privacy": {
-    "title": "プライバシーポリシー | LaplandFood",
-    "description": "LaplandFood があなたのデータをどう扱うか。"
+    "title": "プライバシーポリシー",
+    "description": "LaplandFood があなたのデータをどう扱うか。Google Analytics 4 を通じて仮名化されたアクセス解析データを収集しています。"
   },
   "terms": {
-    "title": "利用規約 | LaplandFood",
-    "description": "LaplandFood の利用規約。"
+    "title": "利用規約",
+    "description": "LaplandFood の利用規約。本ウェブサイトをご利用いただくには、本規約に同意していただく必要があります。"
   },
   "cookie": {
-    "title": "Cookie ポリシー | LaplandFood",
-    "description": "LaplandFood が Cookie をどう使うか。"
+    "title": "Cookie ポリシー",
+    "description": "LaplandFood が Cookie をどう使うか。クッキーとは、ウェブサイトを訪問した際にお客様のデバイスに保存される小さなテキストファイルです。"
   }
 }
