@@ -2346,7 +2346,7 @@
       "eyebrow": "Gids 06 · Tours",
       "title": "Eet uw weg",
       "titleHighlight": "door Lapland.",
-      "subtitle": "Drie boekbare eetbelevingen die verder gaan dan een proefmenu: Samische cultuur, Arctische fine dining en een begeleide plukwandeling die eindigt in diner.",
+      "subtitle": "Drie boekbare culinaire ervaringen in Lapland: een zelfgemaakte lunch bij een Samische rendierhoudersfamilie in Inari, een foodtour langs vijf restaurants in Rovaniemi en een bessentocht in Luosto.",
       "imageAlt": "Voorgerechtbord met warmgerookte zalm, gerookte baars en koudgerookte zalm met ingelegde groenten op een zwart bord",
       "primaryCta": "Bekijk alles op GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Kleine groepen, direct geboekt",
-          "body": "Vergeet de restauranttour per touringcar: de trips hieronder zijn kleine groepen en worden vaak rechtstreeks bij de aanbieder geboekt."
+          "title": "Kleine groep of eigen tocht",
+          "body": "De tochten in Inari en Rovaniemi hebben maximaal 8 deelnemers, en de bessentocht in Luosto is privé. Uw gids heeft tijd voor uw vragen."
         },
         {
           "n": "02",
-          "title": "Geleid door mensen die hiervan leven",
-          "body": "Samische plukkers, fine-dining-chefs, werkende rendierhoeders. U eet goed, maar het echte product is toegang: tot een kudde, een keuken, het favoriete veen van een plukker."
+          "title": "Begeleid door mensen van hier",
+          "body": "Een Samische rendierhoudersfamilie, een foodgids uit Rovaniemi en een gids die de bessenplekken rond Luosto kent. U eet goed, maar het echte product is toegang: tot een rendierboerderij, de restaurants van de stad en het moeras."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Beschikbaarheid controleren",
     "tours": [
       {
-        "name": "Samische cultuur-foodreis",
-        "description": "Een grondige kennismaking met de Samische eetcultuur. Ontmoet lokale producenten, leer traditionele technieken en proef authentieke smaken rechtstreeks uit het Arctische gebied.",
+        "name": "Samische rendierboerderij en lunch",
+        "description": "Een bezoek van 4 uur aan een Samische rendierhoudersfamilie in Inari: een ambachtsworkshop, rendieren voeren en een zelfgemaakte lunch met koffie of thee.",
         "highlights": [
-          "Bezoek aan een rendierherder en proeven van bidos",
-          "Traditioneel Samisch brood bakken",
-          "Begeleide pluk van wilde ingrediënten",
-          "Workshop eetcultuur in het Samische museum",
-          "Bezoeken aan lokale Arctische producenten"
+          "Uw eigen souvenir van rendierhuid, -bot en -gewei",
+          "Rendieren ontmoeten en voeren in de omheining van de familie",
+          "Verhalen over rendierhouderij en de Samische cultuur",
+          "Zelfgemaakte lunch met koffie of thee",
+          "Vervoer heen en terug vanuit het dorp Inari, maximaal 8 deelnemers"
         ],
-        "location": "Regio Inari – Utsjoki",
-        "season": "Juni – september"
-      },
-      {
-        "name": "Arctische fine-dining-beleving",
-        "description": "Een dag rond enkele van de beste restaurants van Lapland. Vlaggenschiprestaurants en koks die koken met ingrediënten uit de regio.",
-        "highlights": [
-          "3-gangenlunch in een regionaal vlaggenschiprestaurant",
-          "Rondleiding achter de keuken met de chef",
-          "Masterclass Arctische ingrediënten",
-          "Demonstratie fine-diningtechniek",
-          "5-gangendiner met wijnarrangement"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "Het hele jaar"
       },
       {
-        "name": "Wilde plukexpeditie",
-        "description": "Praktische begeleide pluktocht in oerbos en veen. Leer veilige identificatie van bessen, paddenstoelen en wilde kruiden en kook wat u plukt.",
+        "name": "Foodtour in Rovaniemi",
+        "description": "Een rondleiding langs vijf restaurants in het centrum van Rovaniemi, ongeveer 30 minuten per adres. Samen vormen de proeverijen een complete Finse maaltijd, van voorgerecht tot dessert.",
         "highlights": [
-          "Masterclass paddenstoelveiligheid",
-          "Plukken van bosbessen, vossenbessen en kruipbramen (in het seizoen)",
-          "Identificatie wilde kruiden",
-          "Van pluk tot bord: koken boven het kampvuur",
-          "Laplands plukboekje om mee te nemen"
+          "Zalmsoep, gebakken rendier en een Fins dessert met koffie of thee",
+          "Vijf restaurants in 3,5 uur, maximaal 8 deelnemers",
+          "Ophalen en terugbrengen bij vier accommodaties",
+          "Vegetarische optie op aanvraag",
+          "Begeleiding in het Engels"
+        ],
+        "location": "Rovaniemi",
+        "season": "Zie de boekingskalender"
+      },
+      {
+        "name": "Bessentocht in Luosto",
+        "description": "Een privétocht van 3 uur met een lokale gids in de wildernis van Luosto. U leert de bessen herkennen en plukken en proeft ze onderweg.",
+        "highlights": [
+          "Kruipbraam, blauwe bosbes, vossenbes en kraaiheibes, afhankelijk van het seizoen",
+          "Privétocht, begeleiding in het Fins of Engels",
+          "Een emmer voor uw bessen is inbegrepen",
+          "Neem zelf een snack mee: maaltijden zijn niet inbegrepen",
+          "Mogelijk ziet u rendieren en vossen"
         ],
         "location": "Luosto",
-        "season": "Juli – september"
+        "season": "Juli – oktober"
       }
     ]
   },

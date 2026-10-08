@@ -2346,7 +2346,7 @@
       "eyebrow": "Guia 06 · Tours",
       "title": "Coma sua",
       "titleHighlight": "Lapônia.",
-      "subtitle": "Três experiências gastronômicas reserváveis que vão além de um menu degustação: cultura sámi, alta gastronomia ártica e uma caminhada de colheita guiada que termina em jantar.",
+      "subtitle": "Três experiências gastronômicas reserváveis na Lapônia: um almoço caseiro com uma família sami de criadores de renas em Inari, um tour gastronômico por cinco restaurantes de Rovaniemi e uma colheita de frutas silvestres em Luosto.",
       "imageAlt": "Prato de entrada com salmão defumado a quente, perca defumada e salmão defumado a frio com legumes em conserva em um prato preto",
       "primaryCta": "Ver todas no GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Grupos pequenos, reserva direta",
-          "body": "Esqueça o tour de restaurantes de ônibus: as viagens abaixo são em grupos pequenos e muitas vezes reservadas direto com o operador."
+          "title": "Grupo pequeno ou passeio privado",
+          "body": "Os passeios de Inari e Rovaniemi têm no máximo 8 participantes, e a colheita em Luosto é privada. O guia tem tempo para as suas perguntas."
         },
         {
           "n": "02",
-          "title": "Guiadas por quem vive disso",
-          "body": "Coletores sámi, chefs de alta gastronomia, pastores de renas na ativa. Come-se bem, mas o verdadeiro produto é o acesso: a um rebanho, a uma cozinha, à turfeira favorita de um coletor."
+          "title": "Conduzidos por gente da região",
+          "body": "Uma família sami de criadores de renas, um guia gastronômico de Rovaniemi e um guia que conhece os campos de frutas silvestres de Luosto. Você come bem, mas o verdadeiro produto é o acesso: a uma fazenda de renas, aos restaurantes da cidade e ao pântano."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Ver disponibilidade",
     "tours": [
       {
-        "name": "Jornada Gastronômica da Cultura Sámi",
-        "description": "Um mergulho na cultura gastronômica sámi. Conheça produtores locais, aprenda técnicas tradicionais e prove sabores autênticos direto do Ártico.",
+        "name": "Fazenda de renas sami e almoço",
+        "description": "Uma visita de 4 horas a uma família sami de criadores de renas em Inari: oficina de artesanato, alimentação das renas e almoço caseiro com café ou chá.",
         "highlights": [
-          "Visitar um pastor de renas e provar o ensopado bidos",
-          "Panificação sámi tradicional",
-          "Colheita de ingredientes silvestres com um guia",
-          "Oficina de cultura gastronômica no museu sámi",
-          "Visitas a produtores árticos locais"
+          "Sua própria lembrança feita de pele, osso e chifre de rena",
+          "Conhecer e alimentar as renas no cercado da família",
+          "Histórias sobre a criação de renas e a cultura sami",
+          "Almoço caseiro com café ou chá",
+          "Transporte de ida e volta a partir da vila de Inari, no máximo 8 participantes"
         ],
-        "location": "Região de Inari – Utsjoki",
-        "season": "Junho – setembro"
-      },
-      {
-        "name": "Experiência de Alta Gastronomia Ártica",
-        "description": "Um dia construído em torno de alguns dos melhores restaurantes da Lapônia. Casas de referência e chefs que cozinham com ingredientes da própria região.",
-        "highlights": [
-          "Almoço de 3 tempos num restaurante-referência da região",
-          "Visita aos bastidores da cozinha com o chef de cozinha",
-          "Masterclass de ingredientes árticos",
-          "Demonstração de técnica de alta gastronomia",
-          "Jantar gourmet de 5 tempos com harmonização de vinhos"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "O ano todo"
       },
       {
-        "name": "Expedição de Colheita Silvestre",
-        "description": "Colheita guiada e prática em floresta antiga e pântano. Aprenda a identificar com segurança frutas, cogumelos e ervas silvestres e depois cozinhe o que colher.",
+        "name": "Tour gastronômico em Rovaniemi",
+        "description": "Um passeio guiado por cinco restaurantes do centro de Rovaniemi, cerca de 30 minutos em cada um. Juntas, as degustações formam uma refeição finlandesa completa, da entrada à sobremesa.",
         "highlights": [
-          "Masterclass de segurança com cogumelos",
-          "Colheita de mirtilos, airelas e amoras árticas (na estação)",
-          "Identificação de ervas silvestres",
-          "Sessão de cozinha da floresta ao prato na fogueira",
-          "Guia de colheita da Lapônia para levar para casa"
+          "Sopa de salmão, rena salteada e uma sobremesa finlandesa com café ou chá",
+          "Cinco restaurantes em 3,5 horas, no máximo 8 participantes",
+          "Busca e retorno em quatro hospedagens",
+          "Opção vegetariana sob pedido",
+          "Guia em inglês"
+        ],
+        "location": "Rovaniemi",
+        "season": "Veja o calendário de reservas"
+      },
+      {
+        "name": "Colheita de frutas silvestres em Luosto",
+        "description": "Um passeio privado de 3 horas com um guia local na natureza selvagem de Luosto. Você aprende a reconhecer e colher as frutas e as prova pelo caminho.",
+        "highlights": [
+          "Amora-ártica, mirtilo, arando-vermelho e camarinha, conforme a estação",
+          "Passeio privado, guia em finlandês ou inglês",
+          "Balde para as frutas incluído",
+          "Leve seu lanche: refeições não estão incluídas",
+          "Talvez você veja renas e raposas"
         ],
         "location": "Luosto",
-        "season": "Julho – setembro"
+        "season": "Julho – outubro"
       }
     ]
   },

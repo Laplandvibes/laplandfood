@@ -2346,7 +2346,7 @@
       "eyebrow": "Guide 06 · Tours",
       "title": "La Laponie",
       "titleHighlight": "à pleines dents.",
-      "subtitle": "Trois expériences culinaires réservables qui vont plus loin qu'un menu dégustation : culture sâme, gastronomie arctique et une balade de cueillette guidée qui finit en dîner.",
+      "subtitle": "Trois expériences culinaires réservables en Laponie : un déjeuner fait maison chez une famille sami d’éleveurs de rennes à Inari, une visite gourmande de cinq restaurants à Rovaniemi et une cueillette de baies à Luosto.",
       "imageAlt": "Assiette d'entrée avec saumon fumé à chaud, perche fumée et saumon fumé à froid, légumes marinés, sur une assiette noire",
       "primaryCta": "Tout voir sur GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Petits groupes, réservation directe",
-          "body": "Oubliez la tournée des restaurants en autocar : les sorties ci-dessous se font en petit groupe et se réservent souvent directement auprès de l’opérateur."
+          "title": "Petit groupe ou sortie privée",
+          "body": "Les sorties d’Inari et de Rovaniemi accueillent 8 personnes au maximum, et la cueillette de Luosto est privée. Votre guide a le temps de répondre à vos questions."
         },
         {
           "n": "02",
-          "title": "Menées par ceux qui en vivent",
-          "body": "Cueilleurs samis, chefs de haute cuisine, éleveurs de rennes en activité. On mange bien, mais le vrai produit, c’est l’accès : à un troupeau, à une cuisine, à la tourbière favorite d’un cueilleur."
+          "title": "Menées par des gens du coin",
+          "body": "Une famille sami d’éleveurs de rennes, un guide gastronomique de Rovaniemi et un guide qui connaît les coins à baies de Luosto. Vous mangez bien, mais le vrai produit, c’est l’accès : à une ferme de rennes, aux restaurants de la ville et à la tourbière."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Vérifier la disponibilité",
     "tours": [
       {
-        "name": "Voyage culinaire culturel sâme",
-        "description": "Une plongée dans la culture culinaire sâme. Rencontrez des producteurs locaux, apprenez des techniques traditionnelles et goûtez des saveurs authentiques directement de l'Arctique.",
+        "name": "Ferme de rennes sami et déjeuner",
+        "description": "Une visite de 4 heures chez une famille sami d’éleveurs de rennes à Inari : atelier d’artisanat, nourrissage des rennes et déjeuner fait maison avec café ou thé.",
         "highlights": [
-          "Visite d'un éleveur de rennes et dégustation de bidos",
-          "Cuisson traditionnelle du pain sâme",
-          "Cueillette guidée d'ingrédients sauvages",
-          "Atelier culturel au musée sâme",
-          "Visites de producteurs arctiques locaux"
+          "Votre propre souvenir en peau, os et bois de renne",
+          "Rencontrer et nourrir les rennes dans l’enclos de la famille",
+          "Récits sur l’élevage de rennes et la culture sami",
+          "Déjeuner fait maison avec café ou thé",
+          "Transport aller-retour depuis le village d’Inari, 8 personnes au maximum"
         ],
-        "location": "Région d'Inari – Utsjoki",
-        "season": "Juin – septembre"
-      },
-      {
-        "name": "Expérience gastronomique arctique",
-        "description": "Une journée construite autour de quelques-unes des meilleures tables de Laponie. Salles phares et chefs qui cuisinent avec des produits de la région.",
-        "highlights": [
-          "Déjeuner 3 services dans un restaurant phare régional",
-          "Visite des coulisses avec le chef",
-          "Masterclass sur les ingrédients arctiques",
-          "Démonstration de technique gastronomique",
-          "Dîner 5 services avec accords mets-vins"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "Toute l'année"
       },
       {
-        "name": "Expédition de cueillette sauvage",
-        "description": "Cueillette guidée pratique en forêt ancienne et tourbière. Apprenez l'identification sûre des baies, champignons et herbes sauvages, puis cuisinez la récolte.",
+        "name": "Visite gourmande de Rovaniemi",
+        "description": "Une balade guidée dans cinq restaurants du centre de Rovaniemi, environ 30 minutes dans chacun. Ensemble, les dégustations forment un repas finlandais complet, de l’entrée au dessert.",
         "highlights": [
-          "Masterclass de sécurité champignons",
-          "Cueillette de myrtilles, airelles et mûres arctiques (en saison)",
-          "Identification des herbes sauvages",
-          "Cuisson de la récolte au feu de camp",
-          "Livret de cueillette en Laponie à emporter"
+          "Soupe de saumon, émincé de renne et dessert finlandais avec café ou thé",
+          "Cinq restaurants en 3,5 heures, 8 personnes au maximum",
+          "Prise en charge et retour dans quatre hébergements",
+          "Option végétarienne sur demande",
+          "Visite guidée en anglais"
+        ],
+        "location": "Rovaniemi",
+        "season": "Voir le calendrier de réservation"
+      },
+      {
+        "name": "Cueillette de baies à Luosto",
+        "description": "Une sortie privée de 3 heures avec un guide local dans les étendues sauvages de Luosto. Vous apprenez à reconnaître et à cueillir les baies, et vous les goûtez en chemin.",
+        "highlights": [
+          "Plaquebières, myrtilles, airelles et camarines, selon la saison",
+          "Sortie privée, guidée en finnois ou en anglais",
+          "Un seau pour vos baies est fourni",
+          "Apportez votre en-cas : les repas ne sont pas inclus",
+          "Vous croiserez peut-être des rennes et des renards"
         ],
         "location": "Luosto",
-        "season": "Juillet – septembre"
+        "season": "Juillet – octobre"
       }
     ]
   },

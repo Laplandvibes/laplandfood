@@ -2346,7 +2346,7 @@
       "eyebrow": "Guida 06 · Tour",
       "title": "Mangi la Lapponia,",
       "titleHighlight": "un piatto alla volta.",
-      "subtitle": "Tre esperienze culinarie prenotabili che vanno oltre un menù degustazione: cultura sami, alta cucina artica e una passeggiata di raccolta guidata che finisce in cena.",
+      "subtitle": "Tre esperienze gastronomiche prenotabili in Lapponia: un pranzo casalingo da una famiglia sami di allevatori di renne a Inari, un food tour in cinque ristoranti di Rovaniemi e una raccolta di bacche a Luosto.",
       "imageAlt": "Piatto di antipasti con salmone affumicato a caldo, pesce persico affumicato e salmone affumicato a freddo con verdure sottaceto su un piatto nero",
       "primaryCta": "Sfogli tutto su GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Piccoli gruppi, prenotazione diretta",
-          "body": "Dimentichi il giro dei ristoranti in pullman: le esperienze qui sotto sono in piccoli gruppi e spesso si prenotano direttamente dall’operatore."
+          "title": "Piccolo gruppo o escursione privata",
+          "body": "Le escursioni di Inari e Rovaniemi accolgono al massimo 8 persone, e la raccolta di bacche a Luosto è privata. La guida ha tempo per le Sue domande."
         },
         {
           "n": "02",
-          "title": "Guidate da chi ci vive",
-          "body": "Raccoglitori sami, chef di alta cucina, allevatori di renne in attività. Si mangia bene, ma il vero prodotto è l’accesso: a una mandria, a una cucina, alla torbiera preferita di un raccoglitore."
+          "title": "Guidate da gente del posto",
+          "body": "Una famiglia sami di allevatori di renne, una guida gastronomica di Rovaniemi e una guida che conosce i luoghi delle bacche di Luosto. Si mangia bene, ma il vero prodotto è l’accesso: a un allevamento di renne, ai ristoranti della città e alla torbiera."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Verifichi la disponibilità",
     "tours": [
       {
-        "name": "Viaggio culinario culturale sami",
-        "description": "Un'immersione profonda nella cultura culinaria sami. Incontri produttori locali, impari tecniche tradizionali e assaggi sapori autentici direttamente dall'Artico.",
+        "name": "Allevamento di renne sami e pranzo",
+        "description": "Una visita di 4 ore da una famiglia sami di allevatori di renne a Inari: laboratorio artigianale, renne da nutrire e pranzo casalingo con caffè o tè.",
         "highlights": [
-          "Visita a un allevatore di renne e degustazione di bidos",
-          "Panificazione tradizionale sami",
-          "Raccolta di ingredienti selvatici con guida",
-          "Workshop di cultura alimentare al museo sami",
-          "Visite a produttori artici locali"
+          "Un souvenir tutto Suo in pelle, osso e corno di renna",
+          "Incontrare e nutrire le renne nel recinto della famiglia",
+          "Racconti sull’allevamento delle renne e sulla cultura sami",
+          "Pranzo casalingo con caffè o tè",
+          "Trasferimento andata e ritorno dal villaggio di Inari, al massimo 8 persone"
         ],
-        "location": "Regione di Inari – Utsjoki",
-        "season": "Giugno – settembre"
-      },
-      {
-        "name": "Esperienza d'alta cucina artica",
-        "description": "Una giornata costruita attorno ad alcuni dei migliori ristoranti della Lapponia. Ristoranti di punta e chef che cucinano con ingredienti di provenienza regionale.",
-        "highlights": [
-          "Pranzo 3 portate in un ristorante di punta regionale",
-          "Tour dietro le quinte con lo chef",
-          "Masterclass di ingredienti artici",
-          "Dimostrazione di tecnica d'alta cucina",
-          "Cena 5 portate con accordi vini"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "Tutto l'anno"
       },
       {
-        "name": "Spedizione di raccolta selvatica",
-        "description": "Raccolta guidata pratica in foresta antica e torbiera. Impari l'identificazione sicura di bacche, funghi ed erbe selvatiche, poi cucini ciò che raccoglie.",
+        "name": "Food tour a Rovaniemi",
+        "description": "Un giro guidato in cinque ristoranti del centro di Rovaniemi, circa 30 minuti in ciascuno. Insieme gli assaggi formano un pasto finlandese completo, dall’antipasto al dolce.",
         "highlights": [
-          "Masterclass di sicurezza funghi",
-          "Raccolta di mirtilli, mirtilli rossi e more artiche (in stagione)",
-          "Identificazione delle erbe selvatiche",
-          "Cottura del raccolto sul falò",
-          "Manuale di raccolta in Lapponia da portare a casa"
+          "Zuppa di salmone, renna saltata e un dolce finlandese con caffè o tè",
+          "Cinque ristoranti in 3,5 ore, al massimo 8 persone",
+          "Prelievo e rientro presso quattro strutture ricettive",
+          "Opzione vegetariana su richiesta",
+          "Guida in inglese"
+        ],
+        "location": "Rovaniemi",
+        "season": "Consulti il calendario delle prenotazioni"
+      },
+      {
+        "name": "Raccolta di bacche a Luosto",
+        "description": "Un’escursione privata di 3 ore con una guida locale nella natura selvaggia di Luosto. Impara a riconoscere e raccogliere le bacche e le assaggia lungo il percorso.",
+        "highlights": [
+          "Camemori, mirtilli, mirtilli rossi e camarine, secondo la stagione",
+          "Escursione privata, guida in finlandese o inglese",
+          "Secchiello per le bacche incluso",
+          "Porti con sé uno spuntino: i pasti non sono inclusi",
+          "Potrebbe vedere renne e volpi"
         ],
         "location": "Luosto",
-        "season": "Luglio – settembre"
+        "season": "Luglio – ottobre"
       }
     ]
   },

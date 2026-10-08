@@ -2347,7 +2347,7 @@
       "eyebrow": "Opas 06 · Retket",
       "title": "Syö tiesi",
       "titleHighlight": "Lappiin.",
-      "subtitle": "Kolme varattavaa ruokaelämystä, jotka menevät tasting menua syvemmälle: saamelainen ruokakulttuuri, arktinen fine dining ja opastettu keräilyretki, joka päättyy päivälliseen.",
+      "subtitle": "Kolme varattavaa ruokaelämystä Lapissa: kotiruokalounas saamelaisen poronhoitajaperheen luona Inarissa, Rovaniemen viiden ravintolan ruokakierros ja marjaretki Luostolla.",
       "imageAlt": "Alkuruokalautanen mustalla lautasella: kuumasavulohta, savuahventa ja kylmäsavulohta sekä pikkelöityjä vihanneksia",
       "primaryCta": "Selaa kaikkia GetYourGuidessa"
     },
@@ -2356,13 +2356,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Pienryhmiä, suoraan yrittäjältä",
-          "body": "Unohda bussilastillinen ravintolakierros: alla olevat retket ovat pienryhmiä, ja ne varataan usein suoraan järjestäjältä."
+          "title": "Pieni ryhmä tai oma retki",
+          "body": "Inarin ja Rovaniemen retkillä on enintään 8 osallistujaa, ja Luoston marjaretki on yksityinen. Opas ehtii vastata kysymyksiisi."
         },
         {
           "n": "02",
-          "title": "Vetäjinä ne, jotka elävät tästä",
-          "body": "Saamelaiskeräilijöitä, fine dining -kokkeja, työtään tekeviä poronhoitajia. Syöt hyvin, mutta varsinainen tuote on pääsy: tokan luo, keittiöön, keräilijän omalle suolle."
+          "title": "Vetäjinä paikalliset",
+          "body": "Saamelainen poronhoitajaperhe, rovaniemeläinen ruokaopas ja Luoston marjamaat tunteva opas. Syöt hyvin, mutta varsinainen tuote on pääsy: porotilalle, kaupungin ravintoloihin ja suolle."
         },
         {
           "n": "03",
@@ -2378,43 +2378,43 @@
     "checkAvailability": "Tarkista saatavuus",
     "tours": [
       {
-        "name": "Saamelaiskulttuurin ruokamatka",
-        "description": "Tutustu saamelaiseen ruokakulttuuriin. Tapaa paikallisia tuottajia, opi perinne­tekniikoita ja maista aitoja makuja suoraan arktiselta alueelta.",
+        "name": "Saamelaisperheen porotila ja lounas",
+        "description": "Neljän tunnin vierailu saamelaisen poronhoitajaperheen luona Inarissa: käsityöpaja, porojen ruokinta ja perheen tekemä lounas kahvin tai teen kera.",
         "highlights": [
-          "Vierailu poro­paimentajan luona ja bidos-muhennoksen maistelu",
-          "Perinteinen saamelais­leivän leipominen",
-          "Villi­raaka-aineiden keräily oppaan kanssa",
-          "Saamelais­museon ruokakulttuuri­työpaja",
-          "Vierailut paikallisille arktisille tuottajille"
+          "Oma matkamuisto poronnahasta, -luusta ja -sarvesta",
+          "Porojen tapaaminen ja ruokinta perheen aitauksessa",
+          "Tarinoita poronhoidosta ja saamelaiskulttuurista",
+          "Kotitekoinen lounas, kahvi tai tee",
+          "Kyyti Inarin kylästä ja takaisin, enintään 8 osallistujaa"
         ],
-        "location": "Inari–Utsjoki -alue",
-        "season": "kesä–syyskuu"
-      },
-      {
-        "name": "Arktinen fine dining -elämys",
-        "description": "Päivä, joka on rakennettu Lapin parhaiden ravintoloiden ympärille. Kärkisalit ja kokit, jotka käyttävät alueelta hankittuja raaka-aineita.",
-        "highlights": [
-          "3 ruokalajin lounas alueellisessa lippu­laiva­ravintolassa",
-          "Kokki­keittiön kierros pää­kokin kanssa",
-          "Arktiset raaka-aineet -masterclass",
-          "Fine dining -tekniikan demonstraatio",
-          "5 ruokalajin gourmet-illallinen viinipareineen"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "ympäri vuoden"
       },
       {
-        "name": "Villi­keräilyretki",
-        "description": "Kädestä pitäen opastettua keräilyä ikimetsässä ja suolla. Opi turvallinen marjojen, sienien ja villiyrttien tunnistus, kokkaa sitten poimimasi ruoka.",
+        "name": "Rovaniemen ruokakierros",
+        "description": "Opastettu kierros viiteen Rovaniemen keskustan ravintolaan, noin 30 minuuttia kussakin. Maistiaisista kertyy kokonainen suomalainen ateria alkupaloista jälkiruokaan.",
         "highlights": [
-          "Sienien turvallisuus­masterclass",
-          "Mustikan, puolukan ja hillan poiminta (sesongin mukaan)",
-          "Villi­yrttien tunnistus",
-          "Keräily–pöytä -kokkaus­hetki nuotiolla",
-          "Mukaan annettava Lapin keräilyopas"
+          "Lohikeitto, poronkäristys ja suomalainen jälkiruoka kahvin tai teen kera",
+          "Viisi ravintolaa 3,5 tunnissa, enintään 8 osallistujaa",
+          "Nouto ja paluu neljästä majoituspaikasta",
+          "Kasvisvaihtoehto pyynnöstä",
+          "Opastus englanniksi"
+        ],
+        "location": "Rovaniemi",
+        "season": "katso varauskalenteri"
+      },
+      {
+        "name": "Marjaretki Luostolla",
+        "description": "Kolmen tunnin yksityinen marjaretki paikallisen oppaan kanssa Luoston erämaassa. Opit tunnistamaan ja poimimaan marjoja, ja niitä maistetaan matkalla.",
+        "highlights": [
+          "Hilla, mustikka, puolukka ja variksenmarja kauden mukaan",
+          "Yksityisretki, opastus suomeksi tai englanniksi",
+          "Ämpäri marjoille kuuluu retkeen",
+          "Ota eväät mukaan: ruoka ei sisälly",
+          "Voit nähdä poroja ja kettuja"
         ],
         "location": "Luosto",
-        "season": "heinä–syyskuu"
+        "season": "heinä–lokakuu"
       }
     ]
   },

@@ -2346,7 +2346,7 @@
       "eyebrow": "Guía 06 · Tours",
       "title": "Cómete",
       "titleHighlight": "Laponia.",
-      "subtitle": "Tres experiencias gastronómicas reservables que van más allá de un menú degustación: cultura sami, alta cocina ártica y un paseo de recolección guiado que termina en cena.",
+      "subtitle": "Tres experiencias gastronómicas reservables en Laponia: un almuerzo casero con una familia sami de pastores de renos en Inari, un tour gastronómico por cinco restaurantes de Rovaniemi y una salida para recoger bayas en Luosto.",
       "imageAlt": "Plato de entrante con salmón ahumado en caliente, perca ahumada y salmón ahumado en frío con verduras encurtidas en un plato negro",
       "primaryCta": "Verlas todas en GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Grupos pequeños, reserva directa",
-          "body": "Olvida el tour de restaurantes en autocar: los viajes de abajo son de grupo pequeño y a menudo se reservan directamente con el operador."
+          "title": "Grupo pequeño o salida privada",
+          "body": "Las salidas de Inari y Rovaniemi admiten como máximo 8 personas, y la de bayas en Luosto es privada. Tu guía tiene tiempo para tus preguntas."
         },
         {
           "n": "02",
-          "title": "Guiados por quienes viven de esto",
-          "body": "Recolectores sami, chefs de alta cocina, pastores de renos en activo. Se come bien, pero el verdadero producto es el acceso: a una manada, a una cocina, a la turbera favorita de un recolector."
+          "title": "Con guías del lugar",
+          "body": "Una familia sami de pastores de renos, un guía gastronómico de Rovaniemi y un guía que conoce los bayales de Luosto. Comes bien, pero el verdadero producto es el acceso: a una granja de renos, a los restaurantes de la ciudad y a la turbera."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Ver disponibilidad",
     "tours": [
       {
-        "name": "Viaje gastronómico por la cultura sami",
-        "description": "Una inmersión en la cultura gastronómica sami. Conoce a productores locales, aprende técnicas tradicionales y prueba sabores auténticos directos del Ártico.",
+        "name": "Granja de renos sami y almuerzo",
+        "description": "Una visita de 4 horas a una familia sami de pastores de renos en Inari: taller de artesanía, dar de comer a los renos y almuerzo casero con café o té.",
         "highlights": [
-          "Visitar a un pastor de renos y probar el estofado bidos",
-          "Horneado de pan sami tradicional",
-          "Recolección de ingredientes silvestres con un guía",
-          "Taller de cultura gastronómica en el museo sami",
-          "Visitas a productores árticos locales"
+          "Tu propio recuerdo de piel, hueso y asta de reno",
+          "Conocer y alimentar a los renos en el cercado de la familia",
+          "Historias sobre el pastoreo de renos y la cultura sami",
+          "Almuerzo casero con café o té",
+          "Traslado de ida y vuelta desde el pueblo de Inari, máximo 8 personas"
         ],
-        "location": "Región de Inari – Utsjoki",
-        "season": "Junio – septiembre"
-      },
-      {
-        "name": "Experiencia de alta cocina ártica",
-        "description": "Un día construido en torno a algunos de los mejores restaurantes de Laponia. Restaurantes insignia y chefs que cocinan con ingredientes de la propia región.",
-        "highlights": [
-          "Almuerzo de 3 platos en un restaurante de referencia de la región",
-          "Visita a la trastienda de la cocina con el chef de cocina",
-          "Clase magistral de ingredientes árticos",
-          "Demostración de técnica de alta cocina",
-          "Cena gourmet de 5 platos con maridaje de vinos"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "Todo el año"
       },
       {
-        "name": "Expedición de recolección silvestre",
-        "description": "Recolección guiada y práctica en bosque maduro y turbera. Aprende a identificar con seguridad bayas, setas y hierbas silvestres, y luego cocina lo que recojas.",
+        "name": "Tour gastronómico por Rovaniemi",
+        "description": "Un recorrido guiado por cinco restaurantes del centro de Rovaniemi, unos 30 minutos en cada uno. Juntas, las degustaciones forman una comida finlandesa completa, del entrante al postre.",
         "highlights": [
-          "Clase magistral de seguridad con setas",
-          "Recogida de arándanos, arándanos rojos y moras árticas (en temporada)",
-          "Identificación de hierbas silvestres",
-          "Sesión de cocina del bosque al plato sobre hoguera",
-          "Guía de recolección de Laponia para llevar a casa"
+          "Sopa de salmón, reno salteado y un postre finlandés con café o té",
+          "Cinco restaurantes en 3,5 horas, máximo 8 personas",
+          "Recogida y regreso en cuatro alojamientos",
+          "Opción vegetariana bajo petición",
+          "Guía en inglés"
+        ],
+        "location": "Rovaniemi",
+        "season": "Consulta el calendario de reservas"
+      },
+      {
+        "name": "Recogida de bayas en Luosto",
+        "description": "Una salida privada de 3 horas con un guía local por la naturaleza de Luosto. Aprendes a reconocer y recoger las bayas y las pruebas por el camino.",
+        "highlights": [
+          "Moras árticas, arándanos, arándanos rojos y camarinas, según la temporada",
+          "Salida privada, guía en finés o inglés",
+          "Incluye un cubo para tus bayas",
+          "Lleva tu propio tentempié: las comidas no están incluidas",
+          "Puede que veas renos y zorros"
         ],
         "location": "Luosto",
-        "season": "Julio – septiembre"
+        "season": "Julio – octubre"
       }
     ]
   },

@@ -2346,7 +2346,7 @@
       "eyebrow": "Guide 06 · Turer",
       "title": "Ät dig",
       "titleHighlight": "genom Lappland.",
-      "subtitle": "Tre bokningsbara matupplevelser som går djupare än en avsmakningsmeny: samisk kultur, arktisk fine dining och en guidad plockningsvandring som slutar i middag.",
+      "subtitle": "Tre bokningsbara matupplevelser i Lappland: en hemlagad lunch hos en samisk renskötarfamilj i Inari, en matvandring till fem restauranger i Rovaniemi och en bärplockningstur vid Luosto.",
       "imageAlt": "En förrättsassiett med varmrökt lax, rökt abborre och kallrökt lax med picklade grönsaker på en svart tallrik",
       "primaryCta": "Bläddra bland alla på GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Små grupper, bokade direkt",
-          "body": "Hoppa över restaurangturen-med-buss: turerna nedan är i små grupper och bokas ofta direkt hos arrangören."
+          "title": "Liten grupp eller egen tur",
+          "body": "Turerna i Inari och Rovaniemi tar högst 8 deltagare, och bärturen vid Luosto är privat. Guiden har tid för dina frågor."
         },
         {
           "n": "02",
-          "title": "Ledda av människor som lever detta",
-          "body": "Samiska plockare, fine dining-kockar, arbetande renskötare. Du äter gott, men den verkliga varan är tillgång: till en renhjord, ett kök, en plockares favoritmyr."
+          "title": "Ledda av lokalbor",
+          "body": "En samisk renskötarfamilj, en matguide från Rovaniemi och en guide som känner bärmarkerna kring Luosto. Du äter gott, men den egentliga produkten är tillträdet: till en rengård, stadens restauranger och myren."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Kolla tillgänglighet",
     "tours": [
       {
-        "name": "Samisk matkulturresa",
-        "description": "En fördjupning i samisk matkultur. Möt lokala producenter, lär dig traditionella tekniker och smaka autentiska smaker direkt från Arktis.",
+        "name": "Samisk rengård och lunch",
+        "description": "Ett besök på 4 timmar hos en samisk renskötarfamilj i Inari: hantverksverkstad, utfodring av renar och hemlagad lunch med kaffe eller te.",
         "highlights": [
-          "Besök en renskötare och smaka på bidos-gryta",
-          "Traditionell samisk brödbakning",
-          "Plockning av vilda råvaror med guide",
-          "Matkulturworkshop på samiskt museum",
-          "Besök hos lokala arktiska producenter"
+          "Din egen souvenir av renskinn, ben och horn",
+          "Träffa och mata renarna i familjens hägn",
+          "Berättelser om renskötsel och samisk kultur",
+          "Hemlagad lunch med kaffe eller te",
+          "Transport tur och retur från Inari by, högst 8 deltagare"
         ],
-        "location": "Regionen Inari–Utsjoki",
-        "season": "juni–september"
-      },
-      {
-        "name": "Arktisk fine dining-upplevelse",
-        "description": "En dag byggd kring några av Lapplands bästa restauranger. Flaggskeppssalar och kockar som lagar med råvaror från regionen.",
-        "highlights": [
-          "Trerätterslunch på en regional flaggskeppsrestaurang",
-          "Rundtur i köket med köksmästaren",
-          "Masterclass i arktiska råvaror",
-          "Demonstration av fine dining-teknik",
-          "Femrätters gourmetmiddag med vinpaket"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "Året runt"
       },
       {
-        "name": "Vild plockningsexpedition",
-        "description": "Praktisk guidad plockning i urskog och på myr. Lär dig säker artbestämning av bär, svamp och vilda örter, och laga sedan det du plockar.",
+        "name": "Matvandring i Rovaniemi",
+        "description": "En guidad vandring till fem restauranger i centrala Rovaniemi, ungefär 30 minuter på varje. Tillsammans blir smakproven en hel finsk måltid, från förrätt till efterrätt.",
         "highlights": [
-          "Masterclass i svampsäkerhet",
-          "Plockning av blåbär, lingon och hjortron (i säsong)",
-          "Artbestämning av vilda örter",
-          "Matlagning från plockning till bord över lägereld",
-          "Plockningsguide för Lappland att ta med hem"
+          "Laxsoppa, renskav och en finsk efterrätt med kaffe eller te",
+          "Fem restauranger på 3,5 timmar, högst 8 deltagare",
+          "Upphämtning och återresa vid fyra boenden",
+          "Vegetariskt alternativ på begäran",
+          "Guidning på engelska"
+        ],
+        "location": "Rovaniemi",
+        "season": "Se bokningskalendern"
+      },
+      {
+        "name": "Bärplockning vid Luosto",
+        "description": "En privat bärplockningstur på 3 timmar med en lokal guide i Luostos vildmark. Du lär dig känna igen och plocka bären och smakar dem på vägen.",
+        "highlights": [
+          "Hjortron, blåbär, lingon och kråkbär, beroende på säsong",
+          "Privat tur, guidning på finska eller engelska",
+          "En hink för dina bär ingår",
+          "Ta med eget mellanmål: måltider ingår inte",
+          "Du kan få se renar och rävar"
         ],
         "location": "Luosto",
-        "season": "juli–september"
+        "season": "juli–oktober"
       }
     ]
   },

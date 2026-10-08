@@ -2347,7 +2347,7 @@
       "eyebrow": "Guide 06 · Touren",
       "title": "Essen Sie sich",
       "titleHighlight": "durch Lappland.",
-      "subtitle": "Drei buchbare Esserlebnisse, die tiefer gehen als ein Tasting-Menü: Sámi-Kultur, arktisches Fine Dining und ein geführter Sammelausflug mit anschließendem Abendessen.",
+      "subtitle": "Drei buchbare Genusserlebnisse in Lappland: ein hausgemachtes Mittagessen bei einer samischen Rentierzüchterfamilie in Inari, eine Food-Tour durch fünf Restaurants in Rovaniemi und eine Beerentour in Luosto.",
       "imageAlt": "Vorspeisenteller mit heißgeräuchertem Lachs, geräuchertem Barsch und kaltgeräuchertem Lachs mit eingelegtem Gemüse auf einem schwarzen Teller",
       "primaryCta": "Alle über GetYourGuide durchsehen"
     },
@@ -2356,13 +2356,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Kleine Gruppen, direkt gebucht",
-          "body": "Vergessen Sie die Restaurant-Tour im Reisebus: Die Trips unten sind Kleingruppen und werden oft direkt beim Veranstalter gebucht."
+          "title": "Kleine Gruppe oder eigene Tour",
+          "body": "Die Touren in Inari und Rovaniemi haben höchstens 8 Teilnehmende, die Beerentour in Luosto ist privat. Ihr Guide hat Zeit für Ihre Fragen."
         },
         {
           "n": "02",
-          "title": "Geführt von Menschen, die davon leben",
-          "body": "Samische Sammler, Fine-Dining-Köche, aktive Rentierhirten. Man isst gut, aber das eigentliche Produkt ist Zugang: zur Herde, zur Küche, zum Lieblingsmoor eines Sammlers."
+          "title": "Geführt von Einheimischen",
+          "body": "Eine samische Rentierzüchterfamilie, ein Food-Guide aus Rovaniemi und ein Guide, der die Beerengründe um Luosto kennt. Sie essen gut, doch das eigentliche Produkt ist der Zugang: zur Rentierfarm, zu den Restaurants der Stadt und ins Moor."
         },
         {
           "n": "03",
@@ -2378,43 +2378,43 @@
     "checkAvailability": "Verfügbarkeit prüfen",
     "tours": [
       {
-        "name": "Sámi-Kultur-Esstour",
-        "description": "Ein Eintauchen in die Sámi-Esskultur. Treffen Sie lokale Erzeuger, lernen Sie traditionelle Techniken und probieren Sie authentische Aromen direkt aus der Arktis.",
+        "name": "Samische Rentierfarm mit Mittagessen",
+        "description": "Ein 4-stündiger Besuch bei einer samischen Rentierzüchterfamilie in Inari: Handwerksworkshop, Rentierfütterung und ein hausgemachtes Mittagessen mit Kaffee oder Tee.",
         "highlights": [
-          "Besuch bei einem Rentierhirten und Bidos-Verkostung",
-          "Traditionelles Sámi-Brot backen",
-          "Sammeln von Wildzutaten mit dem Guide",
-          "Esskulturwerkstatt im Sámi-Museum",
-          "Besuche bei lokalen arktischen Erzeugern"
+          "Ihr eigenes Souvenir aus Rentierfell, Knochen und Geweih",
+          "Rentiere im Gehege der Familie treffen und füttern",
+          "Geschichten über Rentierzucht und samische Kultur",
+          "Hausgemachtes Mittagessen mit Kaffee oder Tee",
+          "Hin- und Rückfahrt ab Inari, höchstens 8 Teilnehmende"
         ],
-        "location": "Region Inari–Utsjoki",
-        "season": "Juni–September"
-      },
-      {
-        "name": "Arktisches Fine-Dining-Erlebnis",
-        "description": "Ein Tag rund um einige der besten Restaurants Lapplands. Aushängeschild-Restaurants und Köche, die mit Zutaten aus der Region kochen.",
-        "highlights": [
-          "3-Gang-Mittagessen in einem regionalen Spitzenrestaurant",
-          "Küchentour mit dem Chefkoch",
-          "Masterclass „Arktische Zutaten“",
-          "Demonstration von Fine-Dining-Techniken",
-          "5-Gang-Gourmet-Abendessen mit Weinbegleitung"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "ganzjährig"
       },
       {
-        "name": "Wildsammel-Tour",
-        "description": "Geführtes Sammeln in Urwäldern und auf Mooren. Lernen Sie die sichere Bestimmung von Beeren, Pilzen und Wildkräutern und kochen Sie anschließend, was Sie gepflückt haben.",
+        "name": "Food-Tour in Rovaniemi",
+        "description": "Eine geführte Tour durch fünf Restaurants im Zentrum von Rovaniemi, jeweils etwa 30 Minuten. Zusammen ergeben die Kostproben ein vollständiges finnisches Menü von der Vorspeise bis zum Dessert.",
         "highlights": [
-          "Pilzsicherheits-Masterclass",
-          "Pflücken von Heidelbeere, Preiselbeere und Moltebeere (je nach Saison)",
-          "Bestimmung von Wildkräutern",
-          "Vom-Sammeln-zum-Tisch-Kochen am Lagerfeuer",
-          "Lappland-Sammelguide zum Mitnehmen"
+          "Lachssuppe, Rentiergeschnetzeltes und ein finnisches Dessert mit Kaffee oder Tee",
+          "Fünf Restaurants in 3,5 Stunden, höchstens 8 Teilnehmende",
+          "Abholung und Rückfahrt an vier Unterkünften",
+          "Vegetarische Option auf Anfrage",
+          "Führung auf Englisch"
+        ],
+        "location": "Rovaniemi",
+        "season": "siehe Buchungskalender"
+      },
+      {
+        "name": "Beerentour in Luosto",
+        "description": "Eine 3-stündige private Beerentour mit einem einheimischen Guide in der Wildnis von Luosto. Sie lernen, die Beeren zu erkennen und zu pflücken, und probieren sie unterwegs.",
+        "highlights": [
+          "Moltebeeren, Heidelbeeren, Preiselbeeren und Krähenbeeren, je nach Saison",
+          "Private Tour, Führung auf Finnisch oder Englisch",
+          "Ein Eimer für Ihre Beeren ist dabei",
+          "Bringen Sie eigenen Proviant mit: Essen ist nicht inbegriffen",
+          "Mit etwas Glück sehen Sie Rentiere und Füchse"
         ],
         "location": "Luosto",
-        "season": "Juli–September"
+        "season": "Juli–Oktober"
       }
     ]
   },

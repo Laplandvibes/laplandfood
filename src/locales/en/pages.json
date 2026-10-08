@@ -2346,7 +2346,7 @@
       "eyebrow": "Guide 06 · Tours",
       "title": "Eat your way",
       "titleHighlight": "around Lapland.",
-      "subtitle": "Three bookable food experiences that go deeper than a tasting menu: Sami culture, Arctic fine dining, and a guided foraging walk that ends in dinner.",
+      "subtitle": "Three bookable food experiences in Lapland: a home-cooked lunch with a Sámi reindeer-herding family in Inari, a food tour of five restaurants in Rovaniemi and a berry-picking trip at Luosto.",
       "imageAlt": "A starter plate of hot-smoked salmon, smoked perch and cold-smoked salmon with pickled vegetables on a black plate",
       "primaryCta": "Browse all on GetYourGuide"
     },
@@ -2355,13 +2355,13 @@
       "points": [
         {
           "n": "01",
-          "title": "Small groups, booked direct",
-          "body": "Skip the restaurant-tour-with-a-coach treatment: the trips below are small-group and often booked directly with the operator."
+          "title": "A small group or your own trip",
+          "body": "The Inari and Rovaniemi trips take at most 8 people, and the Luosto berry trip is private. Your guide has time for your questions."
         },
         {
           "n": "02",
-          "title": "Led by people who live this",
-          "body": "Sami foragers, fine-dining chefs, working reindeer herders. You eat well, but the real product is access: to a herd, a kitchen, a forager’s favourite bog."
+          "title": "Led by locals",
+          "body": "A Sámi reindeer-herding family, a Rovaniemi food guide and a guide who knows the Luosto berry grounds. You eat well, but the real product is access: to a reindeer farm, the town’s restaurants and the bog."
         },
         {
           "n": "03",
@@ -2377,43 +2377,43 @@
     "checkAvailability": "Check availability",
     "tours": [
       {
-        "name": "Sami Culture Food Journey",
-        "description": "A deep dive into Sami food culture. Meet local producers, learn traditional techniques, and taste authentic flavours straight from the Arctic.",
+        "name": "Sámi family reindeer farm and lunch",
+        "description": "A 4-hour visit to a Sámi reindeer-herding family in Inari: a craft workshop, feeding the reindeer and a home-cooked lunch with coffee or tea.",
         "highlights": [
-          "Visit a reindeer herder and taste bidos stew",
-          "Traditional Sami bread baking",
-          "Wild ingredient foraging with a guide",
-          "Sami museum food culture workshop",
-          "Visits to local Arctic producers"
+          "Your own souvenir made from reindeer hide, bone and antler",
+          "Meet and feed the reindeer in the family’s enclosure",
+          "Stories of reindeer herding and Sámi culture",
+          "Home-cooked lunch with coffee or tea",
+          "Transport from Inari village and back, at most 8 people"
         ],
-        "location": "Inari – Utsjoki region",
-        "season": "June – September"
-      },
-      {
-        "name": "Arctic Fine-Dining Experience",
-        "description": "A day built around some of Lapland's best restaurants. Flagship dining rooms and chefs cooking with ingredients sourced inside the region.",
-        "highlights": [
-          "3-course lunch at a regional flagship restaurant",
-          "Back-of-house kitchen tour with the head chef",
-          "Arctic ingredients masterclass",
-          "Fine-dining technique demonstration",
-          "5-course gourmet dinner with wine pairing"
-        ],
-        "location": "Rovaniemi",
+        "location": "Inari",
         "season": "Year-round"
       },
       {
-        "name": "Wild Foraging Expedition",
-        "description": "Hands-on guided foraging in old-growth forest and bog. Learn safe identification of berries, mushrooms, and wild herbs, then cook what you pick.",
+        "name": "Rovaniemi food tour",
+        "description": "A guided walk to five restaurants in central Rovaniemi, about 30 minutes at each. Together the tastings make a full Finnish meal, from starters to dessert.",
         "highlights": [
-          "Mushroom safety masterclass",
-          "Bilberry, lingonberry, and cloudberry picking (in season)",
-          "Wild herb identification",
-          "Forage-to-table cooking session over campfire",
-          "Take-home Lapland foraging guidebook"
+          "Salmon soup, sautéed reindeer and a Finnish dessert with coffee or tea",
+          "Five restaurants in 3.5 hours, at most 8 people",
+          "Pickup and drop-off at four places to stay",
+          "Vegetarian option on request",
+          "Guided in English"
+        ],
+        "location": "Rovaniemi",
+        "season": "See the booking calendar"
+      },
+      {
+        "name": "Berry picking at Luosto",
+        "description": "A 3-hour private berry-picking trip with a local guide in the Luosto wilderness. You learn to recognise and pick the berries and taste them along the way.",
+        "highlights": [
+          "Cloudberries, bilberries, lingonberries and crowberries, by season",
+          "Private trip, guided in Finnish or English",
+          "A bucket for your berries is included",
+          "Bring your own snacks: meals are not included",
+          "You may see reindeer and foxes"
         ],
         "location": "Luosto",
-        "season": "July – September"
+        "season": "July – October"
       }
     ]
   },
