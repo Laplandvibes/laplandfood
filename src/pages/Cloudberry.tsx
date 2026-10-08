@@ -12,7 +12,7 @@ import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
-import { gygSearchLink } from '../lib/gyg';
+import { GYG_BERRY_TOUR_LUOSTO, gygDeepLink } from '../lib/gyg';
 import { useLocale } from '../i18n/useLocale';
 
 interface SeasonPhase { period: string; title: string; body: string }
@@ -79,7 +79,8 @@ export default function Cloudberry() {
   const ways = (t('cloudberry.where.ways', { returnObjects: true }) as WhereWay[]) || [];
   const nextSteps = (t('cloudberry.nextSteps.items', { returnObjects: true }) as NextStep[]) || [];
 
-  const gygHref = gygSearchLink('Lapland foraging tour', 'cloudberry_foraging_tour', locale);
+  // Luoston marjaretki (tuote, ei haku): GYG:llä ei ole keräilykategoriaa, ks. lib/gyg.ts.
+  const gygHref = gygDeepLink(GYG_BERRY_TOUR_LUOSTO, 'cloudberry_foraging_tour', locale);
 
   const articleSchema = {
     '@context': 'https://schema.org',

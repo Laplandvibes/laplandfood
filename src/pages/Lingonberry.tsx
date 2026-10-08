@@ -1,4 +1,5 @@
 import BerryPage, { type BerryConfig } from './BerryPage';
+import { GYG_BERRY_TOUR_LUOSTO } from '../lib/gyg';
 
 /** /lingonberry — puolukka.
  *  🟢 23.9.2026: MOLEMMAT kuvat omia, Juuso Lahtelan kuvaamia Kemijärvellä 21.9.2026
@@ -24,7 +25,7 @@ const LINGONBERRY: BerryConfig = {
   products: {
     images: ['/images/lingonberry-survos.jpg', '/images/lingonberry-jam.jpg', '/images/lingonberry-vispipuuro.jpg'],
   },
-  gyg: { query: 'Lapland foraging tour', sid: 'lingonberry_foraging_tour' },
+  gyg: { path: GYG_BERRY_TOUR_LUOSTO, sid: 'lingonberry_foraging_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'lingonberry_stay_rovaniemi' },
   about: 'Lingonberry (Vaccinium vitis-idaea), Finnish wild berries',
   datePublished: '2026-09-14T00:00:00+03:00',

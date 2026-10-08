@@ -480,7 +480,7 @@
           "body": "En saison, une sortie de cueillette guidée vous emmène sur la bonne tourbière avec quelqu'un qui sait la lire. Hors saison, commencez par notre guide de cueillette et préparez sérieusement juillet prochain."
         }
       ],
-      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "gygCta": "Voir la cueillette de baies guidée à Luosto sur GetYourGuide",
       "diningCta": "Voir le guide gastronomique"
     },
     "nextSteps": {
@@ -823,7 +823,7 @@
           "body": "Dès la fin août, une promenade dans n'importe quelle pinède sèche fait apparaître des airelles à vos pieds. Une sortie de cueillette guidée enseigne le peigne, l'astuce du gel et les bonnes landes."
         }
       ],
-      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "gygCta": "Voir la cueillette de baies guidée à Luosto sur GetYourGuide",
       "diningCta": "Voir le guide gastronomique"
     },
     "nextSteps": {
@@ -1006,7 +1006,7 @@
           "body": "Les cuisines gastronomiques de Laponie utilisent la myrtille fermentée, surgelée et réduite toute l'année. Voir le guide des restaurants pour les adresses."
         }
       ],
-      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
+      "gygCta": "Voir la cueillette de baies guidée à Luosto sur GetYourGuide",
       "diningCta": "Voir le guide gastronomique"
     },
     "nextSteps": {
@@ -1182,7 +1182,6 @@
           "body": "Demandez le plat à l'argousier. Dans les restaurants gastronomiques de Laponie, il apparaît en sorbet, en curd ou en sauce plus souvent que toute autre baie, sauf la mûre arctique."
         }
       ],
-      "gygCta": "Voir les sorties cueillette sur GetYourGuide",
       "diningCta": "Voir le guide gastronomique"
     },
     "nextSteps": {

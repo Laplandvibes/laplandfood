@@ -1,4 +1,5 @@
 import BerryPage, { type BerryConfig } from './BerryPage';
+import { GYG_BERRY_TOUR_LUOSTO } from '../lib/gyg';
 
 /** /bilberry — mustikka. Hero ja kaksi osiokuvaa ovat omia valokuvia Sallasta
  *  11.8.2026 (kuvateksti + "Kuva: LaplandVibes" niille). 4.10.2026: piirakka ja
@@ -21,7 +22,7 @@ const BILBERRY: BerryConfig = {
   products: {
     images: ['/images/bilberry-pie.jpg', '/images/bilberry-soup.jpg', '/images/bilberry-reindeer.jpg'],
   },
-  gyg: { query: 'Lapland foraging tour', sid: 'bilberry_foraging_tour' },
+  gyg: { path: GYG_BERRY_TOUR_LUOSTO, sid: 'bilberry_foraging_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'bilberry_stay_rovaniemi' },
   about: 'Bilberry (Vaccinium myrtillus), Finnish wild berries',
   datePublished: '2026-09-14T00:00:00+03:00',

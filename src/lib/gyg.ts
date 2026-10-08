@@ -36,6 +36,21 @@ const GO = 'https://go.laplandvibes.com/go/activities'
 export const GYG_FOOD_DRINKS_LAPLAND = 'lapland-finland-l2652/food-drinks-tc103'
 
 /**
+ * Luoston opastettu marjaretki (UniQ Lapland, 3 h, yksityisryhmä). Ainoa
+ * marjan- tai sienenkeruutuote GYG-katalogissa (30.7.2026); GYG:llä ei ole
+ * keräilykategoriaa. Tuotteen kohokohdat: hilla, mustikka, puolukka ja muut
+ * tunturimarjat, EI tyrniä (rannikon pensas) ⇒ vain hilla-, mustikka- ja
+ * puolukkasivujen nappi. Sama tuote on /food-tours-sivun kolmas kortti.
+ * 🔴 Luettu selaimessa Workerin kautta 8.10.2026: en + fi-fi avaavat tuotteen,
+ * partner_id säilyy; kalenterissa ei päiviä loka–kesäkuussa, ensimmäinen
+ * vapaa 1.7.2027 (kausi heinä–lokakuu). Kauden ulkopuolella tuote on yhä
+ * varattavissa ensi kesälle — jos GYG joskus poistaa sen, linkki ohjautuu
+ * Luoston sijaintisivulle ILMAN partner_id:tä, joten avaa se uudelleen ennen
+ * kuin luotat tähän (katso myös FoodTours.tsx TOUR_META).
+ */
+export const GYG_BERRY_TOUR_LUOSTO = 'luosto-l209112/luosto-guided-berry-picking-tour-with-local-expert-t1247324'
+
+/**
  * Worker `?language=` codes (same table as shared/gyg/picks.ts). `en` is GYG's
  * default and needs no param; `de` needs a code here even though the old raw
  * links didn't send one — they used the getyourguide.de domain instead.
@@ -69,15 +84,8 @@ export function gygDeepLink(path: string, sid: string, lang: Locale = 'en'): str
   return workerUrl(goPath, { sid, language: isLocalisedProduct ? undefined : GYG_WORKER_LANG[lang] })
 }
 
-/**
- * Hakusanalinkki — VAIN aiheelle, jolle GYG:llä ei ole kategoriaa eikä
- * tuotetta. Haku ei toimi (kuollut 23.8.2026): Worker valitsee sanoista
- * aihesivun (LV-GYG-TOPIC), ja keräilyllä sitä ei ole, joten nämä linkit
- * päätyvät Lapin yleissivulle. Käytössä 8.10.2026 vain marjasivujen
- * "Selaa keräilyretkiä" -napeissa, avoin asia: GYG-katalogissa on yksi
- * keräilytuote (Luoston marjaretki t1247324), ei keräilykategoriaa.
- * Älä lisää uusia kutsuja — rakenna polku gygDeepLinkillä.
- */
-export function gygSearchLink(query: string, sid: string, lang: Locale = 'en'): string {
-  return workerUrl('', { sid, language: GYG_WORKER_LANG[lang], q: query })
-}
+// 🔴 Hakulinkkiä (gygSearchLink, `q=`) ei enää ole (poistettu 8.10.2026).
+// Sen viimeiset käyttäjät olivat marjasivujen "Selaa keräilyretkiä" -napit,
+// jotka Worker taittoi Lapin yleissivulle, koska keräilylle ei ole GYG-
+// kategoriaa. Ne vievät nyt Luoston marjaretkeen (GYG_BERRY_TOUR_LUOSTO), ja
+// tyrnisivulta nappi poistettiin, koska tyrni ei kasva tuntureilla.

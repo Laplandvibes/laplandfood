@@ -12,7 +12,7 @@ import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
-import { gygSearchLink } from '../lib/gyg';
+import { gygDeepLink } from '../lib/gyg';
 import { useLocale } from '../i18n/useLocale';
 
 interface SeasonPhase { period: string; title: string; body: string }
@@ -30,7 +30,7 @@ interface NextStep { title: string; body: string; cta: string }
  * missä maistaa (sininen kaista + GYG) → seuraavat askeleet.
  *
  * Kaikki copy tulee `pages.<key>`-lohkosta 12 kielellä. Sivukohtaiset erot
- * (kuvat, GYG-haku, majoituskaupunki, kuvatekstit omille valokuvoille) ovat
+ * (kuvat, GYG-polku, majoituskaupunki, kuvatekstit omille valokuvoille) ovat
  * tässä konfiguraatiossa, eivät kopioidussa komponentissa.
  */
 export interface BerryConfig {
@@ -44,7 +44,10 @@ export interface BerryConfig {
    *  (sama jarjestys kaikilla 12 kielella). Vesa 15.9.: paljaat tekstikortit
    *  eivat kelpaa, kun sivu kertoo mita marjasta tehdaan. */
   products: { images: string[] };
-  gyg: { query: string; sid: string };
+  /** GYG-tuote tai -kategoria polkuna (ei hakua). Puuttuu, jos GYG:ssä ei ole
+   *  marjaan liittyvää retkeä: silloin missä maistaa -kaistassa on vain
+   *  ravintolaopas (tyrni 8.10.2026). */
+  gyg?: { path: string; sid: string };
   stay: { destination: string; sid: string };
   about: string;
   datePublished: string;
@@ -111,7 +114,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
   const captionVersus = t(`${k}.captions.versus`, { defaultValue: '' }) as string;
   const credit = tc('photo.credit');
 
-  const gygHref = gygSearchLink(cfg.gyg.query, cfg.gyg.sid, locale);
+  const gygHref = cfg.gyg ? gygDeepLink(cfg.gyg.path, cfg.gyg.sid, locale) : null;
 
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -298,10 +301,12 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               ))}
             </div>
             <div className="flex flex-col sm:flex-row gap-3">
-              <a href={gygHref} target="_blank" rel="sponsored nofollow noopener" className="inline-flex items-center justify-center gap-2 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
-                {t(`${k}.where.gygCta`)}
-                <ArrowUpRight className="w-4 h-4" aria-hidden="true" />
-              </a>
+              {gygHref && (
+                <a href={gygHref} target="_blank" rel="sponsored nofollow noopener" className="inline-flex items-center justify-center gap-2 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
+                  {t(`${k}.where.gygCta`)}
+                  <ArrowUpRight className="w-4 h-4" aria-hidden="true" />
+                </a>
+              )}
               <Link to={to('/michelin-dining')} className="inline-flex items-center justify-center bg-white/15 hover:bg-white/25 backdrop-blur text-white font-semibold px-7 py-3.5 rounded-full border border-white/40 transition-colors">
                 {t(`${k}.where.diningCta`)}
               </Link>

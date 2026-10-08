@@ -19,7 +19,8 @@ const SEA_BUCKTHORN: BerryConfig = {
   products: {
     images: ['/images/sea-buckthorn-juice.jpg', '/images/sea-buckthorn-jam.jpg', '/images/sea-buckthorn-dessert.jpg'],
   },
-  gyg: { query: 'Lapland foraging tour', sid: 'seabuckthorn_foraging_tour' },
+  // Ei GYG-nappia (8.10.2026): ainoa marjaretki on Luoston tuntureilla, ja tyrni
+  // kasvaa rannikolla. Hakulinkki 'Lapland foraging tour' vei Lapin yleissivulle.
   stay: { destination: 'Tornio, Finland', sid: 'seabuckthorn_stay_tornio' },
   about: 'Sea buckthorn (Hippophae rhamnoides), Finnish wild berries',
   datePublished: '2026-09-14T00:00:00+03:00',
