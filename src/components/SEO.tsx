@@ -106,7 +106,7 @@ export default function SEO({
       <meta name="description" content={resolvedDesc} />
       <meta
         name="robots"
-        content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1'}
+        content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'}
       />
       <meta property="og:title" content={fullTitle} />
       <meta property="og:description" content={resolvedDesc} />
