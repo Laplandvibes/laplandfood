@@ -12,7 +12,7 @@ import NewsletterSection from '../components/NewsletterSection';
 import AffiliateCTA from '../components/AffiliateCTA';
 import SuomikauppaPicks, { type SuomikauppaPicksVariant } from '../components/SuomikauppaPicks';
 import { creditFor } from '../data/photoCredits';
-import { gygSearchLink } from '../lib/gyg';
+import { gygDeepLink } from '../lib/gyg';
 import { useLocale } from '../i18n/useLocale';
 
 interface Recipe {
@@ -59,7 +59,8 @@ export interface DishConfig {
   /** Indeksi vastaa `recipes.items`-taulukkoa (sama järjestys kaikilla 12 kielellä). */
   recipes: { image?: string; fit?: 'cover' | 'contain'; totalTime: string; category: string }[];
   suomikauppa?: SuomikauppaPicksVariant;
-  gyg: { query: string; sid: string };
+  /** GYG category/location path (`<paikka-lNNN>/<nimi-tcNNN>`), never a search: GYG search died 23.8.2026. */
+  gyg: { path: string; sid: string };
   stay: { destination: string; sid: string };
   /** Seuraavat askeleet -korttien 1 ja 2 sisäiset kohteet; kolmas on majoitus. */
   next: [string, string];
@@ -207,7 +208,7 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
   };
   const [featured, ...more] = recipes;
 
-  const gygHref = gygSearchLink(cfg.gyg.query, cfg.gyg.sid, locale);
+  const gygHref = gygDeepLink(cfg.gyg.path, cfg.gyg.sid, locale);
   const pageUrl = `https://laplandfood.com${to(cfg.path)}`.replace(/\/?$/, '/');
   const ORG = { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' };
   const abs = (p: string) => `https://laplandfood.com${p.split('?')[0]}`;

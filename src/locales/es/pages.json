@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Precios en vivo, no de folleto",
-          "body": "Cada tarjeta enlaza a una búsqueda en vivo de GetYourGuide, no a una página de producto fija: los operadores rotan, las fechas y los precios cambian, así que siempre ves la disponibilidad actual."
+          "body": "Cada tarjeta abre una excursión reservable en GetYourGuide. Allí el operador indica el precio y las fechas libres, así que siempre ves los datos actuales."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Sesión de cocina del bosque al plato sobre hoguera",
           "Guía de recolección de Laponia para llevar a casa"
         ],
-        "location": "Zona de Rovaniemi / Levi",
+        "location": "Luosto",
         "season": "Julio – septiembre"
       }
     ]

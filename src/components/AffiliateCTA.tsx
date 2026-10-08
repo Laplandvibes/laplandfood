@@ -7,9 +7,10 @@ import { GYG_WORKER_LANG } from '../lib/gyg';
  * https://go.laplandvibes.com — the Cloudflare Worker handles CJ tracking,
  * GYG partner_id injection, and per-domain Website ID attribution.
  *
- * NOTE on GYG: a known bug (see bug_go_lv_worker_gyg_dropped.md) collapses
- * every GYG slug to the homepage. For activities CTAs that need a deep link
- * to a specific product, bypass the Worker — see lib/gyg.ts.
+ * GYG: the old note here ("the Worker collapses every slug to the homepage,
+ * bypass it") was a curl artefact and has been false since 2026-08-02. GYG
+ * links go through the Worker like every other partner; build them with
+ * lib/gyg.ts (gygDeepLink), which also adds the product locale prefix.
  */
 
 export type AffiliatePartner =
@@ -69,9 +70,12 @@ export function buildAffiliateHref({
   lang = "en",
 }: Pick<AffiliateCTAProps, 'partner' | 'sid' | 'destination' | 'query'> & { lang?: _Lang }): string {
   if (partner === 'activities') {
-    // Reitittää Workerin kautta 2026-08-03 alkaen. Worker hoitaa slugin,
-    // /s?q=-haun JA kielen polkuprefiksin (raaka ?language= on GYG:llä no-op,
-    // ja vanha getyourguide.de-domain-taulu jätti muut kielet englanniksi).
+    // Reitittää Workerin kautta 2026-08-03 alkaen. Worker hoitaa slugin ja
+    // sijainti-/kategoriapolun kieliprefiksin (raaka ?language= on GYG:llä no-op).
+    // 🔴 Ei hakua: GYG:n /s?q= kuoli 23.8.2026, ja Worker taittaa q:n aihesivulle
+    // tai Lapin yleislistaan. Anna `destination`iksi aina polku (`-lNNN`,
+    // `-tcNNN` tai `-tNNN`). Tuotepolun kieliprefiksiä tämä haara ei lisää:
+    // käytä lib/gyg.ts:n gygDeepLinkiä. 8.10.2026: haaralla ei käyttäjiä.
     // Suora linkitys menettäisi D1-klikkilokin ja veisi partner_id:n bundleen.
     const params = new URLSearchParams({ sid });
     const gygLang = GYG_WORKER_LANG[lang];

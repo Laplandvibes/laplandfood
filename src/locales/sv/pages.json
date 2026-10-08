@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Livepriser, inte broschyrpriser",
-          "body": "Varje kort länkar till en livesökning på GetYourGuide, inte en fast produktsida: arrangörer byts ut, datum ändras och priser skiftar, så du ser alltid aktuell tillgänglighet."
+          "body": "Varje kort öppnar en bokningsbar tur på GetYourGuide. Där anger arrangören pris och lediga datum, så du ser alltid aktuella uppgifter."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Matlagning från plockning till bord över lägereld",
           "Plockningsguide för Lappland att ta med hem"
         ],
-        "location": "Området Rovaniemi/Levi",
+        "location": "Luosto",
         "season": "juli–september"
       }
     ]

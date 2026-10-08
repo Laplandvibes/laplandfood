@@ -31,7 +31,8 @@ export const PORONKARISTYS: DishConfig = {
     { totalTime: 'PT30M', category: 'Side dish' },
   ],
   suomikauppa: 'reindeer',
-  gyg: { query: 'Rovaniemi reindeer farm', sid: 'poronkaristys_reindeer_farm' },
+  // "Selaa porotilavierailuja" → Rovaniemen porotilakategoria (katalogi 30.7.: 103 tulosta).
+  gyg: { path: 'rovaniemi-l2653/reindeer-farms-experiences-tc2351', sid: 'poronkaristys_reindeer_farm' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'poronkaristys_stay_rovaniemi' },
   next: ['/lingonberry', '/traditional-recipes'],
   aboutSchema: 'Poronkäristys (sautéed reindeer), Finnish Lapland cuisine',
@@ -62,7 +63,8 @@ export const LEIPAJUUSTO: DishConfig = {
       category: 'Cheese',
     },
   ],
-  gyg: { query: 'Lapland food tour', sid: 'leipajuusto_food_tour' },
+  // "Selaa Lapin ruokaretkiä" → Lapin ruoka- ja juomakategoria (picks.ts CATEGORY_LINKS, 312 tulosta 30.7.).
+  gyg: { path: 'lapland-finland-l2652/food-drinks-tc103', sid: 'leipajuusto_food_tour' },
   stay: { destination: 'Rovaniemi, Finland', sid: 'leipajuusto_stay_rovaniemi' },
   next: ['/cloudberry', '/traditional-recipes'],
   aboutSchema: 'Leipäjuusto, Finnish bread cheese',

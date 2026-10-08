@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Live prices, not brochure prices",
-          "body": "Every card links to a live GetYourGuide search, not a fixed product page: operators rotate, dates change and prices shift, so you always see current availability."
+          "body": "Every card opens one bookable trip on GetYourGuide. The operator lists the price and free dates there, so you always see the current ones."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Forage-to-table cooking session over campfire",
           "Take-home Lapland foraging guidebook"
         ],
-        "location": "Rovaniemi / Levi area",
+        "location": "Luosto",
         "season": "July – September"
       }
     ]

@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Prezzi live, non da catalogo",
-          "body": "Ogni scheda porta a una ricerca live su GetYourGuide, non a una pagina prodotto fissa: gli operatori ruotano, date e prezzi cambiano; vede sempre la disponibilità attuale."
+          "body": "Ogni scheda apre un’escursione prenotabile su GetYourGuide. Lì l’operatore indica il prezzo e le date libere, così vede sempre i dati aggiornati."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Cottura del raccolto sul falò",
           "Manuale di raccolta in Lapponia da portare a casa"
         ],
-        "location": "Area Rovaniemi / Levi",
+        "location": "Luosto",
         "season": "Luglio – settembre"
       }
     ]

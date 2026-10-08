@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Prix en direct, pas de brochure",
-          "body": "Chaque carte renvoie à une recherche GetYourGuide en direct, pas à une fiche produit figée : les opérateurs tournent, les dates et les prix bougent ; vous voyez toujours la disponibilité du moment."
+          "body": "Chaque carte ouvre une excursion réservable sur GetYourGuide. L’opérateur y indique le prix et les dates libres, vous voyez donc toujours les informations à jour."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Cuisson de la récolte au feu de camp",
           "Livret de cueillette en Laponie à emporter"
         ],
-        "location": "Région de Rovaniemi / Levi",
+        "location": "Luosto",
         "season": "Juillet – septembre"
       }
     ]

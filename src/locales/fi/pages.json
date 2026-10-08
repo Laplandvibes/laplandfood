@@ -2367,7 +2367,7 @@
         {
           "n": "03",
           "title": "Livehinnat, ei esitehintoja",
-          "body": "Jokainen kortti vie GetYourGuiden livehakuun, ei kiinteälle tuotesivulle: järjestäjät vaihtuvat, päivämäärät ja hinnat elävät, joten näet aina ajantasaisen saatavuuden."
+          "body": "Jokainen kortti avaa yhden varattavan retken GetYourGuidessa. Järjestäjä ilmoittaa siellä hinnan ja vapaat päivät, joten näet aina ajantasaiset tiedot."
         }
       ]
     },
@@ -2413,7 +2413,7 @@
           "Keräily–pöytä -kokkaus­hetki nuotiolla",
           "Mukaan annettava Lapin keräilyopas"
         ],
-        "location": "Rovaniemi / Levin alue",
+        "location": "Luosto",
         "season": "heinä–syyskuu"
       }
     ]

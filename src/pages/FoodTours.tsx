@@ -9,12 +9,13 @@ import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
-import { gygSearchLink } from '../lib/gyg';
+import { gygDeepLink, GYG_FOOD_DRINKS_LAPLAND } from '../lib/gyg';
 import { useLocale } from '../i18n/useLocale';
 
-// No prices, durations, group sizes, or ratings on these cards: the CTA is a
-// live GYG SEARCH (operators rotate), so we can't honestly claim any of those
-// numbers. Location + season describe the trip type, which we can stand behind.
+// No prices, durations, group sizes, or ratings on these cards: the partner
+// owns those numbers and we cannot keep them current (a GYG price may be shown
+// only through gygFreshPrice/localizePicks, and these rows are not in picks.ts).
+// Location + season describe the trip, which we can stand behind.
 interface Tour {
   name: string;
   description: string;
@@ -23,17 +24,41 @@ interface Tour {
   season: string;
 }
 
+/*
+ * 🔴🔴 8.10.2026: "Tarkista saatavuus" vie TUOTTEESEEN. Napit hakivat ennen
+ * GYG:stä (`q=Sami food culture Lapland` …), mutta GYG:n haku on ollut kuollut
+ * 23.8. lähtien, ja Worker taittoi hakusanat aihesivulle tai Lapin yleislistaan.
+ * Saatavuuslupaus koskee yhtä varattavaa retkeä, joten jokainen kortti vie nyt
+ * yhteen GetYourGuiden tuotteeseen, jonka aihe JA paikka vastaavat korttia.
+ * Polut GYG-katalogista (`_gyg-catalog/catalog.json`, luettu 30.7.2026):
+ *  - t1303463 Inari: "Sámi Reindeer Herding Family Workshop & Visit+Lunch", 4 h,
+ *    GYG:n ruoka- ja perhekategoriassa.
+ *  - t1101825 Rovaniemi: "Insider Guided Food Tour with 5 Tastings", 3,5 h
+ *    (myös picks.ts DINING_PICKS, avattu selaimessa 2.8.).
+ *  - t1247324 Luosto: "Guided Berry-Picking Tour with Local Expert", 3 h,
+ *    yksityisryhmä. Ainoa keräilytuote koko katalogissa (Rovaniemen
+ *    t1249162:n slug puhuu keräilystä, mutta katalogin otsikko 30.7. oli
+ *    "Trip to Ranua Wildlife Park"), joten kortin paikka on Luosto kaikilla
+ *    12 kielellä.
+ * 🔴 Avaa jokainen selaimessa ennen julkaisua: poistettu tunnus vastaa 200:lla
+ * jossain muualla. Kortin kuvaus ja kohokohdat kuvaavat yhä retkityyppiä eivätkä
+ * tuotetta (esim. viinipari-illallinen, keräilyopas) — kirjoitettava tuotteen
+ * mukaan ennen kuin niitä luetaan tuotteen lupauksina.
+ */
 const TOUR_META = [
-  { sid: 'tour_sami_culture', searchQuery: 'Sami food culture Lapland', image: '/images/tour-sami-culture.jpg' },
-  { sid: 'tour_arctic_fine_dining', searchQuery: 'Lapland fine dining tasting menu', image: '/images/tour-fine-dining.jpg' },
-  { sid: 'tour_foraging', searchQuery: 'Lapland foraging tour', image: '/images/tour-foraging.jpg' },
+  { sid: 'tour_sami_culture', gygPath: 'inari-l245909/inari-sami-reindeer-herding-family-workshop-visitlunch-t1303463', image: '/images/tour-sami-culture.jpg' },
+  { sid: 'tour_arctic_fine_dining', gygPath: 'rovaniemi-l2653/rovaniemi-insider-guided-food-tour-with-5-tastings-t1101825', image: '/images/tour-fine-dining.jpg' },
+  { sid: 'tour_foraging', gygPath: 'luosto-l209112/luosto-guided-berry-picking-tour-with-local-expert-t1247324', image: '/images/tour-foraging.jpg' },
 ];
 
 export default function FoodTours() {
   const { t } = useTranslation('pages');
   const { t: tc } = useTranslation('common');
   const { locale } = useLocale();
-  const browseAllHref = gygSearchLink('Lapland food cooking class tour', 'browse_all', locale);
+  // Selausnappi ("Selaa kaikkia" / "Katso kaikki") → Lapin ruoka- ja juomakategoria,
+  // ei haku: haku "Lapland food cooking class tour" osui Workerissa samaan
+  // kategoriaan vain siksi, että sana "food" sattui olemaan sen taulukossa.
+  const browseAllHref = gygDeepLink(GYG_FOOD_DRINKS_LAPLAND, 'browse_all', locale);
   const tours = (t('foodTours.tours', { returnObjects: true }) as Tour[]) || [];
 
   return (
@@ -82,7 +107,7 @@ export default function FoodTours() {
             <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
               {tours.map((tour, i) => {
                 const meta = TOUR_META[i];
-                const href = gygSearchLink(meta.searchQuery, meta.sid, locale);
+                const href = gygDeepLink(meta.gygPath, meta.sid, locale);
                 return (
                   <article key={tour.name} id={`tour-${i}`} className="scroll-mt-24 group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
@@ -128,7 +153,7 @@ export default function FoodTours() {
         </section>
 
         {/* Suomikauppa-tuotenostot (Daisycon) sivun LOPUSSA, uutiskirjeen
-            edella. Kiertueosion CTA:t ovat GYG-hakuja; tämä ei kilpaile
+            edella. Kiertueosion CTA:t ovat GYG-tuotteita; tämä ei kilpaile
             niiden kanssa vaan vastaa eri kysymykseen (miten sen nuotiokahvin
             saa kotiin). Pannujauhatukset + itse pannu dest-syvälinkkeinä. */}
         <div className="bg-[#F8FAFC] px-4 py-12 sm:py-16">

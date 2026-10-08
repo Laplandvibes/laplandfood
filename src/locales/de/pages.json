@@ -2367,7 +2367,7 @@
         {
           "n": "03",
           "title": "Live-Preise statt Prospektpreise",
-          "body": "Jede Karte führt zu einer Live-Suche auf GetYourGuide, nicht zu einer festen Produktseite: Veranstalter wechseln, Termine und Preise bewegen sich; Sie sehen immer die aktuelle Verfügbarkeit."
+          "body": "Jede Karte öffnet eine buchbare Tour auf GetYourGuide. Preis und freie Termine nennt dort der Veranstalter, Sie sehen also immer den aktuellen Stand."
         }
       ]
     },
@@ -2413,7 +2413,7 @@
           "Vom-Sammeln-zum-Tisch-Kochen am Lagerfeuer",
           "Lappland-Sammelguide zum Mitnehmen"
         ],
-        "location": "Region Rovaniemi / Levi",
+        "location": "Luosto",
         "season": "Juli–September"
       }
     ]

@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Preços ao vivo, não de folheto",
-          "body": "Cada card leva a uma busca ao vivo no GetYourGuide, não a uma página de produto fixa: operadores mudam, datas e preços variam; você sempre vê a disponibilidade atual."
+          "body": "Cada card abre um passeio reservável no GetYourGuide. Lá o operador informa o preço e as datas livres, então você sempre vê as informações atuais."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Sessão de cozinha da floresta ao prato na fogueira",
           "Guia de colheita da Lapônia para levar para casa"
         ],
-        "location": "Região de Rovaniemi / Levi",
+        "location": "Luosto",
         "season": "Julho – setembro"
       }
     ]

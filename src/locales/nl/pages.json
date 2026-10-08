@@ -2366,7 +2366,7 @@
         {
           "n": "03",
           "title": "Live prijzen, geen brochureprijzen",
-          "body": "Elke kaart linkt naar een live GetYourGuide-zoekopdracht, geen vaste productpagina: aanbieders wisselen, data en prijzen bewegen; u ziet altijd de actuele beschikbaarheid."
+          "body": "Elke kaart opent één boekbare tocht op GetYourGuide. De aanbieder vermeldt daar de prijs en de vrije data, dus u ziet altijd de actuele gegevens."
         }
       ]
     },
@@ -2412,7 +2412,7 @@
           "Van pluk tot bord: koken boven het kampvuur",
           "Laplands plukboekje om mee te nemen"
         ],
-        "location": "Regio Rovaniemi / Levi",
+        "location": "Luosto",
         "season": "Juli – september"
       }
     ]
