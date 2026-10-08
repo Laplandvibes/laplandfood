@@ -79,6 +79,14 @@ export default function Nav() {
     setOpenGroup(null)
   }, [location.pathname])
 
+  // Escape sulkee mobiilivalikon (työpöydän pudotusvalikot hoitavat omansa).
+  useEffect(() => {
+    if (!open) return
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setOpen(false) }
+    document.addEventListener('keydown', onKey)
+    return () => document.removeEventListener('keydown', onKey)
+  }, [open])
+
   const isActive = (basePath: string) => {
     if (basePath === '/') return pathWithoutLocale === '/'
     return pathWithoutLocale.startsWith(basePath)
@@ -98,11 +106,17 @@ export default function Nav() {
     </Link>
   )
 
-  const mobileLink = (link: (typeof links)[number]) => (
+  /* Mobiililaatikon järjestys puhelimessa pystyssä on sama kuin työpöydän navissa:
+     Etusivu, Raaka-aineet, Marjat, Reseptit, sitten loput. Leveämmällä (≥ 640 px:
+     vaakapuhelin, tabletti) linkit ovat palstoina [pääsivut 1–4][pääsivut 5–7]
+     [Marjat][Reseptit]. Palstakääre on puhelimessa `display: contents`, jolloin
+     order-luokat palauttavat työpöydän järjestyksen. */
+  const MOBILE_ORDER = ['order-1', 'order-2', 'order-5', 'order-6', 'order-7', 'order-8', 'order-9'] as const
+  const mobileLink = (link: (typeof links)[number], i: number) => (
     <Link
       key={link.to}
       to={to(link.to)}
-      className={`px-4 py-3 text-sm rounded-lg transition-colors ${
+      className={`${MOBILE_ORDER[i]} sm:order-none px-4 sm:px-3 py-3 text-sm rounded-lg hyphens-auto break-words transition-colors ${
         isActive(link.to)
           ? 'text-white font-bold bg-white/10'
           : 'text-white/80 hover:text-white font-medium hover:bg-white/5'
@@ -166,17 +180,18 @@ export default function Nav() {
     )
   }
 
-  /* Mobiililohko: otsake + sisennetyt linkit, samat 44 px:n rivit. */
-  const mobileGroup = (g: (typeof GROUPS)[number]) => (
-    <div key={g.id} className="flex flex-col gap-1">
-      <p className="px-4 pt-3 pb-1 text-[11px] uppercase tracking-[0.18em] font-semibold text-white/60">
+  /* Mobiililohko: otsake + sisennetyt linkit, samat 44 px:n rivit. Palstoissa
+     (≥ 640 px) otsake on palstan yläreuna, joten sisennystä ei tarvita. */
+  const mobileGroup = (g: (typeof GROUPS)[number], i: number) => (
+    <div key={g.id} className={`${i === 0 ? 'order-3' : 'order-4'} sm:order-none flex flex-col gap-1 sm:gap-0.5`}>
+      <p className="px-4 sm:px-3 pt-3 sm:pt-0 pb-1 sm:pb-0.5 text-[11px] uppercase tracking-[0.18em] font-semibold text-white/60">
         {t(g.labelKey)}
       </p>
       {g.items.map((b) => (
         <Link
           key={b.to}
           to={to(b.to)}
-          className={`px-4 pl-8 py-3 text-sm rounded-lg transition-colors ${
+          className={`px-4 pl-8 sm:px-3 py-3 text-sm rounded-lg hyphens-auto break-words transition-colors ${
             isActive(b.to)
               ? 'text-white font-bold bg-white/10'
               : 'text-white/80 hover:text-white font-medium hover:bg-white/5'
@@ -235,14 +250,35 @@ export default function Nav() {
         </div>
       </div>
 
+      {/* 🔴 8.10.2026 (Vesa: "hampurilaisnavigaatio on aivan poor tablet näkymällä tai kun käännän
+          puhelimen sivuttain"): laatikko oli 822 px korkea kiinteän navin sisällä eikä vierittynyt.
+          Mitattu livestä: linkeistä ulottuvilla vaakapuhelimissa 4–5/15, iPhone 14 pystyssä 10/15,
+          iPad vaakana 10–14/15. Nyt laatikko on enintään näkyvän ruudun korkuinen ja vierittyy, ja
+          ≥ 640 px:n leveydellä linkit ovat neljänä palstana (vaakapuhelimessa ~270 px, mahtuu).
+          Taustan napautus ja Escape sulkevat. */}
       {open && (
-        <div className="xl:hidden bg-[#002F6C] border-t border-white/20">
-          <div className="px-4 py-4 flex flex-col gap-1">
-            {links.slice(0, GROUPS_AFTER_INDEX + 1).map(mobileLink)}
-            {GROUPS.map(mobileGroup)}
-            {links.slice(GROUPS_AFTER_INDEX + 1).map(mobileLink)}
+        <>
+          <button
+            type="button"
+            tabIndex={-1}
+            aria-label={t('closeMenu')}
+            onClick={() => setOpen(false)}
+            className="xl:hidden fixed inset-x-0 bottom-0 top-16 z-[45] bg-[#0F172A]/40 cursor-default"
+          />
+          {/* z-[45]: verkostovalikon "Kaikki verkoston sivut täältä!" -vihje on navissa tasolla 40 ja peitti
+              laatikon ensimmäisen rivin tabletilla; laatikon ollessa auki vihje jää sen alle. */}
+          <div className="xl:hidden relative z-[45] bg-[#002F6C] border-t border-white/20 [max-height:calc(100vh_-_4rem)] supports-[height:100dvh]:[max-height:calc(100dvh_-_4rem)] overflow-y-auto overscroll-contain">
+            <div className="max-w-screen-lg px-4 py-4 sm:py-2 flex flex-col gap-1 sm:grid sm:grid-cols-4 sm:gap-x-4 sm:items-start">
+              <div className="contents sm:flex sm:flex-col sm:gap-0.5">
+                {[...links.slice(0, GROUPS_AFTER_INDEX + 1), ...links.slice(GROUPS_AFTER_INDEX + 1, GROUPS_AFTER_INDEX + 3)].map((l, i) => mobileLink(l, i))}
+              </div>
+              <div className="contents sm:flex sm:flex-col sm:gap-0.5">
+                {links.slice(GROUPS_AFTER_INDEX + 3).map((l, i) => mobileLink(l, i + 4))}
+              </div>
+              {GROUPS.map(mobileGroup)}
+            </div>
           </div>
-        </div>
+        </>
       )}
     </nav>
   )
