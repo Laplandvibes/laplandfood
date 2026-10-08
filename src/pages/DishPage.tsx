@@ -347,7 +347,7 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
                   <div key={f.label} className="flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 p-6">
                     <p className="font-heading tracking-wide text-4xl text-vibe-pink mb-2">{f.value}</p>
                     <p className="text-sm text-[#002F6C]/80 leading-relaxed flex-1">{f.label}</p>
-                    <p className="mt-4 text-xs text-[#002F6C]/60 leading-snug">{f.source}</p>
+                    <p className="mt-4 text-xs text-[#002F6C]/70 leading-snug">{f.source}</p>
                   </div>
                 ))}
               </div>
