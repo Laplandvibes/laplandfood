@@ -4,7 +4,7 @@
     "jsonKey": "home",
     "ogImage": "/og/home.jpg",
     "ogCard": {
-      "hero": "/images/hero-main.jpg",
+      "hero": "/images/hero-home-porot-suomu-1920.jpg",
       "line": "What Finland's North eats"
     }
   },
@@ -13,7 +13,7 @@
     "jsonKey": "localIngredients",
     "ogImage": "/og/local-ingredients.jpg",
     "ogCard": {
-      "hero": "/images/forage-mushrooms.jpg",
+      "hero": "/images/hero-ingredients-sienikeitto-1920.jpg",
       "line": "Reindeer, berries, fish, wild herbs"
     }
   },
@@ -36,7 +36,7 @@
     ],
     "ogImage": "/og/cloudberry.jpg",
     "ogCard": {
-      "hero": "/images/hero-cloudberry.webp",
+      "hero": "/images/hero-cloudberry-ruukel-1920.jpg",
       "line": "The amber berry nobody can farm"
     }
   },
@@ -105,7 +105,7 @@
     ],
     "ogImage": "/og/bilberry.jpg",
     "ogCard": {
-      "hero": "/images/hero-bilberry.webp",
+      "hero": "/images/hero-bilberry-salla-1920.jpg",
       "line": "Purple all the way through"
     }
   },
@@ -160,7 +160,7 @@
     ],
     "ogImage": "/og/poronkaristys.jpg",
     "ogCard": {
-      "hero": "/images/hero-poronkaristys-kilpisjarvi.webp",
+      "hero": "/images/hero-poronkaristys-koti-1920.jpg",
       "line": "Reindeer, shaved thin, cooked slow"
     }
   },
@@ -183,7 +183,7 @@
     ],
     "ogImage": "/og/leipajuusto.jpg",
     "ogCard": {
-      "hero": "/images/hero-leipajuusto-cloudberry.webp",
+      "hero": "/images/hero-leipajuusto-ristijarvi-1920.jpg",
       "line": "The Finnish cheese that squeaks"
     }
   },
@@ -192,7 +192,7 @@
     "jsonKey": "modernLapland",
     "ogImage": "/og/modern-lapland.jpg",
     "ogCard": {
-      "hero": "/images/card-modern.jpg",
+      "hero": "/images/hero-modern-kieppi-1920.jpg",
       "line": "New Nordic, cooked above the Circle"
     }
   },
@@ -210,7 +210,7 @@
     "jsonKey": "foodTours",
     "ogImage": "/og/food-tours.jpg",
     "ogCard": {
-      "hero": "/images/gyg-food-drinks.jpg",
+      "hero": "/images/hero-tours-muikut-1920.jpg",
       "line": "Food experiences worth booking"
     }
   },
@@ -219,7 +219,7 @@
     "jsonKey": "michelinDining",
     "ogImage": "/og/michelin-dining.jpg",
     "ogCard": {
-      "hero": "/images/hero-michelin-kuusamo.webp",
+      "hero": "/images/hero-michelin-kuusamo-1920.jpg",
       "line": "Where Lapland eats best"
     }
   },
@@ -228,7 +228,7 @@
     "jsonKey": "about",
     "ogImage": "/og/about.jpg",
     "ogCard": {
-      "hero": "/images/culture-band.jpg",
+      "hero": "/images/hero-about-leivinuuni-1920.jpg",
       "line": "How this site chooses what to say"
     }
   },

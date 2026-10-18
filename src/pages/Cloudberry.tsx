@@ -92,7 +92,7 @@ export default function Cloudberry() {
     author: { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' },
     datePublished: '2026-08-24T00:00:00+03:00',
     dateModified: '2026-08-24T00:00:00+03:00',
-    image: 'https://laplandfood.com/images/hero-cloudberry.jpg',
+    image: 'https://laplandfood.com/images/hero-cloudberry-ruukel-1920.jpg',
     mainEntityOfPage: { '@type': 'WebPage', '@id': 'https://laplandfood.com/cloudberry/' },
   };
 
@@ -106,7 +106,9 @@ export default function Cloudberry() {
           title={t('cloudberry.hero.title')}
           titleHighlight={t('cloudberry.hero.titleHighlight')}
           subtitle={t('cloudberry.hero.subtitle')}
-          imageUrl="/images/hero-cloudberry.webp"
+          imageUrl="/images/hero-cloudberry-ruukel-1920.webp"
+          imageSrcSet="/images/hero-cloudberry-ruukel-800.webp 800w, /images/hero-cloudberry-ruukel-1280.webp 1280w, /images/hero-cloudberry-ruukel-1920.webp 1920w, /images/hero-cloudberry-ruukel-2560.webp 2560w"
+          imagePosition="50% 65%"
           imageAlt={t('cloudberry.hero.imageAlt')}
           primaryCta={{ label: t('cloudberry.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('cloudberry.hero.secondaryCta'), href: to('/local-ingredients') }}

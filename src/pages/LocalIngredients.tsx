@@ -136,9 +136,9 @@ export default function LocalIngredients() {
           title={t('localIngredients.hero.title')}
           titleHighlight={t('localIngredients.hero.titleHighlight')}
           subtitle={t('localIngredients.hero.subtitle')}
-          imageUrl="/images/hero-ingredients.webp"
-          imageSrcSet="/images/hero-ingredients-1280.webp 1280w, /images/hero-ingredients.webp 2400w"
-          scrim="strong"
+          imageUrl="/images/hero-ingredients-sienikeitto-1920.webp"
+          imageSrcSet="/images/hero-ingredients-sienikeitto-800.webp 800w, /images/hero-ingredients-sienikeitto-1280.webp 1280w, /images/hero-ingredients-sienikeitto-1920.webp 1920w, /images/hero-ingredients-sienikeitto-2560.webp 2560w"
+          layout="split"
           imageAlt={t('localIngredients.hero.imageAlt')}
           primaryCta={{ label: t('localIngredients.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('localIngredients.hero.secondaryCta'), href: to('/traditional-recipes') }}

@@ -4,7 +4,7 @@
     "h1Part1": "SÅ ÄTER",
     "h1Part2": "FINLAND.",
     "subhead": "En fältguide till finsk matkultur: var råvarorna kommer ifrån, hur recepten faktiskt smakar och varför landets Michelin-scen är värd en omväg.",
-    "imageAlt": "Lappländska råvaror ovanifrån på ljust trä och linne: renskav i en gjutjärnspanna, skålar med hjortron, blåbär och lingon, en hel fisk på näver, rågbröd, kantareller och enris",
+    "imageAlt": "En tallrik poronkäristys: tunt skivad ren på potatismos med lingon och saltgurka",
     "ctaPrimary": "Utforska traditionella recept",
     "ctaSecondary": "Vad som växer här uppe"
   },
@@ -169,7 +169,7 @@
       "title": "Vad som växer",
       "titleHighlight": "här uppe.",
       "subtitle": "Sex råvaror som definierar Lapplands skafferi: var de kommer ifrån, när de är som bäst och hur de faktiskt smakar.",
-      "imageAlt": "En vit skål full av nyplockade blåbär på skogsbotten bland blåbärsris",
+      "imageAlt": "Krämig svampsoppa med stekt svamp på toppen och bröd vid sidan, på Riipisen Riistaravintola i Ruka, oktober 2026",
       "primaryCta": "Plockningsguide",
       "secondaryCta": "Recept som använder dem"
     },
@@ -337,7 +337,7 @@
       "title": "Hjortron, myrens",
       "titleHighlight": "envisa guld.",
       "subtitle": "I Finland vaktas hjortronställena som bankkoder. Här får du veta hur bäret faktiskt smakar, varför vartenda ett plockas för hand och var du möter det i Lappland.",
-      "imageAlt": "Öppen myr med mogna bärnstensfärgade hjortron i förgrunden, vit ängsull och en mörk myrgöl bakom",
+      "imageAlt": "Mogna orange hjortron bland den låga växtligheten på en myr",
       "primaryCta": "Lär dig plocka",
       "secondaryCta": "Alla Lapplands råvaror",
       "pills": [
@@ -1039,7 +1039,7 @@
       "title": "Havtorn, orange eld",
       "titleHighlight": "från stranden.",
       "subtitle": "Tyrni växer inte alls i inlandet i Lappland. Det växer på Bottniska vikens steniga stränder, norrut ända till Lapplands kust vid Torneå, och det är det suraste bäret i det finska skafferiet och ett av de C-vitaminrikaste. Här är var det lever, hur det smakar och varför det är så svårt att plocka.",
-      "imageAlt": "Lugn strand vid Bottenviken en kväll i juli, med en stenig strand till höger och en låg skogsklädd udde på andra sidan vattnet",
+      "imageAlt": "Havtornsbuskar tunga av orange bär på Billudden vid Bottniska viken",
       "primaryCta": "Lär dig plocka det",
       "secondaryCta": "Bärguiden",
       "pills": [
@@ -1117,7 +1117,7 @@
       "p2": "Kommersiella odlare löser det med kyla. De klipper fruktbärande grenar och fryser dem; frysta bär knäpps av rent och går direkt till pressen. Det är också därför det mesta av havtornet når dig som saft, puré eller sylt snarare än färskt.",
       "p3": "Busken är tvåbyggare: han- och honplantor är skilda, och bara honorna bär frukt, vilket är skälet till att ett tätt bestånd på stranden kan vara till hälften ofruktsamt.",
       "p4": "<strong>Slutsatsen för en resenär: färsk havtorn är sällsynt även i Finland, men saften finns i varje mataffär.</strong>",
-      "imageAlt": "Havtornsbuskar tunga av orange bär på Billudden vid Bottniska viken"
+      "imageAlt": "Mogna orange havtornsbär på en smalbladig gren på Kiikeli i Uleåborg i augusti"
     },
     "price": {
       "kicker": "C-vitamin",
@@ -1531,8 +1531,8 @@
       "eyebrow": "Lapplands renrätt · Poronkäristys",
       "title": "Poronkäristys, tunt skivad ren",
       "titleHighlight": "som får puttra länge.",
-      "subtitle": "Halvfrusen ren skärs i tunna skivor, bryns i smör och får puttra tills köttet faller isär. Sedan serveras det på potatismos med lingon och saltgurka. Här är renskötarnas eget recept, ugnsvarianten, vad rätten kostar och var du beställer den i Lappland.",
-      "imageAlt": "Fem renar som går längs vägen vid midsommar i Kilpisjärvi i finska Lappland, med en grön fjällsluttning bakom",
+      "subtitle": "Poronkäristys har fått sitt namn efter ett ljud: fettet fräser, på finska kärisee, när det isiga renköttet hamnar i pannan. Rätten var vardagsmat i skogskojorna och vid renskiljningarna långt innan restaurangerna gjorde den till en klassiker. Här är receptet så som det lagas i Lappland, ugnsvarianten, tillbehören och var du kan beställa rätten.",
+      "imageAlt": "Poronkäristys från ett hemkök, i sitt spad bredvid potatismos på en rosmönstrad tallrik",
       "primaryCta": "Hoppa till receptet",
       "secondaryCta": "Alla traditionella recept",
       "pills": [
@@ -1545,62 +1545,62 @@
       ]
     },
     "intro": {
-      "lead": "Renskötarnas egen förening kallar poronkäristys kanske den mest legendariska av alla renrätter. Den traditionella versionen behöver fyra saker: ren, smör, vatten och salt.",
+      "lead": "Den finska dialektordboken beskriver käristys som en rätt av tunt täljt renkött som steks i pannan, ”särskilt som skogsarbetarnas vardagsmat”, och ger ett exempel från Kemijärvi: ”I skogskojan på kvällen lagade vi käristys.” Den traditionella grytan behöver fortfarande bara fyra saker: ren, fett, vatten och salt.",
       "points": [
         {
           "n": "01",
-          "title": "Halvfruset, i tunna skivor",
-          "body": "Köttet skärs halvfruset, vid ungefär −6 °C, när det är fast nog att skivas tunt. I finska butiker säljs det färdigskivat och fryst."
+          "title": "Täljt ur fruset kött",
+          "body": "När kölden kom täljde man kött från en frusen stek allteftersom det behövdes. ”Där har du en kniv, gå och tälj lite kött”, lyder ett exempel upptecknat i Kittilä. I dag säljs köttet färdigskivat och fryst i finska butiker."
         },
         {
           "n": "02",
-          "title": "Smör, vatten, salt",
-          "body": "I traditionell poronkäristys finns varken grädde eller buljong. Köttet bryns i smör eller renfett och får sedan puttra under lock med en skvätt vatten. Pepparn är ett senare tillskott."
+          "title": "Fett, vatten, salt",
+          "body": "I den traditionella grytan finns varken grädde eller öl. Köttet bryns i smör eller i renfett, som renskötarna kallar pinta, och får sedan puttra under lock med en skvätt vatten."
         },
         {
           "n": "03",
-          "title": "Aldrig utan lingon",
-          "body": "Rätten serveras på potatismos med lingon och saltgurka. Renskötarnas eget recept pekar ut lätt frostnupna, rårörda lingon som det bästa tillbehöret."
+          "title": "Lingon till",
+          "body": "I dag består tallriken av potatismos, lingon och saltgurka. I skogskojorna åt man käristys med stekt potatis, och renskötarföreningen pekar ut lätt frostnupna, rårörda lingon som det bästa tillbehöret."
         }
       ]
     },
     "recipes": {
       "kicker": "Receptet",
       "headline": "Poronkäristys, som den lagas hemma.",
-      "lead": "Tre recept: renskötarföreningens klassiker på spisen, den långsammare ugnsvarianten för en större gryta och de två tillbehör som hör till.",
+      "lead": "Tre recept: käristys i panna så som man alltid har lagat den i Lappland, en långsammare ugnsvariant för ett större sällskap och de två tillbehör som hör till på tallriken.",
       "items": [
         {
           "name": "Traditionell poronkäristys",
-          "description": "Renskötarnas version: ren, fett, vatten och salt, som får puttra under lock tills köttet är mört. Peppar är valfritt, grädde hör inte hit.",
+          "description": "Ren, fett, vatten och salt i en tjockbottnad stekpanna eller en gjutjärnsgryta. Peppar är valfritt, men grädde hör inte hit.",
           "time": "30–60 min",
           "serves": "3–4",
           "level": "Lätt",
           "ingredients": [
-            "500 g fryst poronkäristys (renskav)",
+            "500 g fryst poronkäristys (renskav) eller en frusen renstek",
             "25 g smör eller renfett",
             "1 dl vatten",
             "¾ tsk salt",
             "Nymalen svartpeppar, om du vill"
           ],
           "instructions": [
-            "Låt det frysta köttet mjukna i kylen precis så mycket att blocket går att bryta isär. Skivorna ska fortfarande vara isiga.",
-            "Smält fettet i en tjockbottnad stekpanna eller gjutjärnsgryta på hög värme och lägg i köttet i omgångar. Bryt isär de frusna skivorna med en stekspade.",
-            "Stek tills köttet har tinat, vätskan har kokat bort och det har börjat få färg.",
+            "Har du köpt en hel stek låter du den mjukna i kylen precis så mycket att en vass kniv går in. Sedan täljer du det frusna köttet i så tunna strimlor du kan. Färdigskivad fryst käristys bryter du isär i bitar på samma sätt, medan den ännu är isig.",
+            "Hetta upp fettet i en tjockbottnad stekpanna eller en gjutjärnsgryta på spisens största platta tills det fräser. Lägg i köttet i omgångar och bryt isär de frusna strimlorna med en stekspade.",
+            "Stek tills köttet har tinat, vätskan har kokat bort och strimlorna börjar få färg.",
             "Häll i vattnet och tillsätt saltet.",
-            "Sänk värmen, lägg på lock och låt puttra tills köttet är mört, 10 till 30 minuter om köttet kommer från låret och längre för andra delar. Häll i en skvätt vatten om det kokar torrt.",
+            "Sänk värmen, lägg på lock och låt puttra tills köttet är mört: 10 till 30 minuter för lårkött, längre för bog och främre delen av ryggen. Häll i en skvätt vatten om det kokar torrt.",
             "Smaka av, peppra om du vill och servera på potatismos med lingon och saltgurka."
           ],
-          "tip": "Enligt renskötarföreningen får du den kraftigaste smaken om du steker köttet i renfett.",
+          "tip": "Renskötarna steker i pinta, fettet som samlas under skinnet längs renens rygg, och enligt renskötarföreningen ger renfett grytan den kraftigaste smaken. Var sparsam med kryddorna. Som renskötaren Hannu Lahtela från Salla säger: ”Ren ska smaka ren.”",
           "imageAlt": "En tallrik poronkäristys: tunt skivad ren på potatismos med lingon och saltgurka"
         },
         {
           "name": "Poronkäristys i ugn",
-          "description": "Samma gryta, men den får gå klart i ugnen på låg värme. Det tar längre tid, kräver ingen omrörning och passar bra för en större sats.",
+          "description": "Samma gryta, men den får gå klart i ugnen på låg värme. Det tar längre tid, kräver ingen omrörning och passar för ett större sällskap.",
           "time": "2–3 timmar",
           "serves": "6",
           "level": "Lätt",
           "ingredients": [
-            "1 kg fryst poronkäristys (renskav)",
+            "1 kg fryst poronkäristys",
             "3 msk smör eller renfett",
             "2 dl vatten",
             "1½ tsk salt"
@@ -1608,15 +1608,15 @@
           "instructions": [
             "Sätt ugnen på 125 °C.",
             "Bryn köttet i fettet i omgångar i en ugnssäker gjutjärnsgryta på spisen, tills vätskan har kokat bort.",
-            "Tillsätt vatten och salt och låt det börja sjuda.",
-            "Lägg på locket och ställ in grytan i ugnen i 2 till 3 timmar, tills köttet faller isär.",
+            "Tillsätt vatten och salt och låt det koka upp.",
+            "Lägg på locket och ställ in grytan i ugnen i 2 till 3 timmar, tills köttet faller isär när du tar i det med en gaffel.",
             "Titta till grytan en eller två gånger och häll i en skvätt vatten vid behov. Servera som spisvarianten."
           ],
-          "tip": "Publicerade ugnsrecept varierar från 125 °C i 2 till 3 timmar, som renskötarföreningen föreslår, till 175 eller 200 °C i ungefär en timme. Ju lägre värme, desto längre tid."
+          "tip": "Publicerade ugnsrecept varierar från 125 °C i 2 till 3 timmar, som är renskötarföreningens val, till 175 eller 200 °C i ungefär en timme. Ju lägre värme, desto längre tid: Hannu Lahtela låter renhals stå i ugnen över natten på eftervärmen."
         },
         {
           "name": "Potatismos och rårörda lingon",
-          "description": "De två tillbehören som gör tallriken komplett: smörigt potatismos och lingon som rörs råa med socker.",
+          "description": "De två tillbehören som gör tallriken komplett: smörigt potatismos och råa lingon som rörs med socker.",
           "time": "30 min",
           "serves": "4",
           "level": "Lätt",
@@ -1635,34 +1635,34 @@
             "Rör ihop lingon och socker i en skål och låt stå medan potatisen kokar. Rör om då och då tills sockret har löst sig.",
             "Servera båda till renen, med några skivor saltgurka."
           ],
-          "tip": "I finska recept mosar man puikula, Lapplands avlånga gula potatis. Lapin Puikula har varit en skyddad ursprungsbeteckning inom EU sedan 1997."
+          "tip": "I Lappland gör man helst moset på puikula, den avlånga gula potatisen med EU:s skyddade ursprungsbeteckning Lapin Puikula. Sorten är anpassad till nordliga förhållanden, och längre söderut blir kvaliteten sämre."
         }
       ]
     },
     "about": {
       "kicker": "Vad det är",
-      "headline": "Ren i tunna skivor.",
-      "p1": "Poronkäristys är renkött som skivas tunt medan det är halvfruset, bryns i fett och får puttra i lite vatten tills det är mört. Renskötarföreningen anger vilka delar som passar: ytterlår och fransyska, bog och främre delen av ryggen.",
-      "p2": "De flesta finska renar slaktas i oktober och november, efter minst ett halvår på enbart naturbete. Köttet är mörkt och magert, med 2 till 4 % fett.",
-      "p3": "I Sverige heter samma rätt <em>renskav</em>. Renkött från det finska renskötselområdet har sedan 2009 en egen skyddad ursprungsbeteckning inom EU, <strong>Lapin Poron liha</strong>: renarna betar fritt på naturbete, och köttet produceras, styckas och förpackas inom renskötselområdet.",
+      "headline": "Mat från skogskojan och skiljningsgärdet.",
+      "p1": "Poronkäristys är renkött som täljs i tunna strimlor medan det är fruset, bryns i fett och får puttra i lite vatten tills det är mört. Namnet kommer från ett ljud: <em>käristä</em> är fettets fräsande i pannan. Dialektuppteckningarna placerar rätten i Kajanaland och i finska Lappland, och i skogskojorna hade männen en egen panna just för den, <em>käristyskauha</em>.",
+      "p2": "Slaktrenarna skiljs ut vid renskiljningarna, som pågår från slutet av september in i januari, och många i Lappland köper fortfarande sitt kött direkt av en renskötare vid skiljningsgärdet eller från en rengård. I renskötarföreningens sortering av köttet är stekar och filéer råvaran till ”högklassig poronkäristys”, medan bog och främre delen av ryggen går till vardagsvarianten. Köttet är mörkt och magert, med 2 till 4 % fett.",
+      "p3": "I Sverige heter samma rätt <em>renskav</em> och i Norge <em>finnbiff</em>, där förleden är ett gammalt namn på samerna, ett namn som i dag anses nedsättande. Renkött från det finska renskötselområdet har sedan 2009 en egen skyddad ursprungsbeteckning inom EU, <strong>Lapin Poron liha</strong>: renarna betar fritt på naturbete, och köttet produceras, styckas och förpackas inom renskötselområdet.",
       "imageAlt": "En ren som står i djup snö i en vinterskog"
     },
     "variations": {
       "kicker": "Varianter",
-      "headline": "Öl, grädde eller bacon.",
-      "lead": "Den traditionella grytan har fyra ingredienser. Allt annat har tillkommit senare.",
+      "headline": "Från den samiska kåtan till skogskojan.",
+      "lead": "Den traditionella grytan har fyra ingredienser, men i Lapplands gamla skildringar lagas varje gryta på sitt eget vis.",
       "items": [
         {
-          "title": "Mörk öl",
-          "body": "Valio och K-Ruoka låter köttet puttra i mörk öl med lite vatten. Slaktarna på Rönkä påpekar att det med öl, vin eller grädde inte längre är den traditionella rätten."
+          "title": "I kåtan, med snö",
+          "body": "På marknaden i Rovaniemi 1937 lagade en samisk man käristys över öppen eld i en kåta. Han lade lite fläskkött i botten av grytan och strödde snö i den i stället för vatten. Den besökande skribenten söderifrån hade aldrig ätit rätten förut."
         },
         {
-          "title": "Svensk renskavsgryta",
-          "body": "I Sverige lagas renskav oftast som en krämig gryta med kantareller och krossade enbär. Den är klar på under 30 minuter och serveras med rårörda lingon."
+          "title": "Skogskojans käristys",
+          "body": "I skogskojorna lagades käristys i en käristyskauha över kojans eldstad, på kvällarna och på morgnarna, ofta med saltfläsk. Därför definierar dialektordboken rätten som gjord ”av (ren)kött (och saltfläsk)”."
         },
         {
-          "title": "Bacon",
-          "body": "I K-Ruokas recept steks bacon tillsammans med renköttet, för mer fett och en djup, rökig smak."
+          "title": "Grädde, öl och renskav",
+          "body": "I butikernas recept puttrar köttet i dag i mörk öl eller grädde, och svensk renskav avrundas oftast med grädde, kantareller och enbär. Slaktarna på Rönkä påpekar att det inte längre är traditionell käristys när öl, vin eller grädde hamnar i grytan."
         }
       ]
     },
@@ -1796,14 +1796,14 @@
   },
   "leipajuusto": {
     "title": "Leipäjuusto, finsk brödost: recept och varför den gnisslar",
-    "description": "Leipäjuusto är finsk brödost ur samma tradition som svensk kaffeost: varm med hjortronsylt, i kaffet eller i sallad. Tre recept och varför den gnisslar.",
+    "description": "Leipäjuusto är finsk brödost ur samma tradition som svensk kaffeost: varm med hjortronsylt, i kaffet eller i sallad. Fyra recept och varför den gnisslar.",
     "teaser": "Färsk ost som bryns i ugnen och gnisslar mot tänderna: varm med hjortronsylt, i kaffet eller i en sallad, och så gör du den själv av mjölk.",
     "hero": {
       "eyebrow": "Finsk brödost · Leipäjuusto",
       "title": "Leipäjuusto, osten",
       "titleHighlight": "som gnisslar.",
-      "subtitle": "En platt, färsk ost från norra Finland som gräddas tills den får bruna fläckar och äts varm med hjortronsylt eller uppmjukad i en kopp kaffe. Här får du veta hur du serverar den, hur du gör den själv av mjölk och varför den gnisslar mot tänderna.",
-      "imageAlt": "En rund leipäjuusto med bruna fläckar i en mörk form, med en bit utskuren och toppad med hjortronsylt",
+      "subtitle": "I Lappland heter den leipäjuusto och i Salla kahvijuusto, ost till kaffet. Förr rostades den över glöden tills den smakade rök, och den åts till kaffet. Här är fyra sätt att få den på bordet, hur du gör den hemma och varför den gnisslar mot tänderna.",
+      "imageAlt": "En nygräddad leipäjuusto med bruna fläckar på en ugnsplåt i Ristijärvi i Kajanaland i augusti 2026",
       "primaryCta": "Hoppa till recepten",
       "secondaryCta": "Alla traditionella recept",
       "pills": [
@@ -1816,33 +1816,33 @@
       ]
     },
     "intro": {
-      "lead": "Leipäjuusto varken lagras eller smälts. Mjölken ystas med löpe, och ostmassan pressas till en platt, rund kaka som gräddas tills ytan får bruna fläckar, som ett bröd.",
+      "lead": "Leipäjuusto varken lagras eller smälts. Mjölken ystas, och ostmassan pressas till en platt, rund kaka som rostas tills ytan får bruna fläckar, som skorpan på ett bröd.",
       "points": [
         {
           "n": "01",
-          "title": "Gräddad, inte lagrad",
-          "body": "Ostmassan formas till en 0,5 till 3 cm tjock kaka och gräddas på båda sidor, i ugn, på grill eller vid öppen eld. Den äts inom några dagar, inte efter månader."
+          "title": "Rostad vid elden",
+          "body": "Den finska dialektordboken beskriver leipäjuusto som en tunn ost som rostas vid elden eller i ugnen. I Rovaniemi gräddades den på ahjos, glödbädden, så att den smakade rök."
         },
         {
           "n": "02",
-          "title": "Gnisslet är ingen myt",
-          "body": "År 2025 testade finska akustikforskare 100 prover: brödosten gnisslade i varje försök, mozzarellan i vart femte. Ljudet är friktion, som när en stråke dras mot en sträng."
+          "title": "Gnisslet är uppmätt",
+          "body": "År 2025 testade finska akustikforskare 100 prover: leipäjuusto gnisslade i varje försök, mozzarella bara i vart femte. Ljudet uppstår genom friktion, som när en stråke dras över en fiolsträng."
         },
         {
           "n": "03",
-          "title": "Hjortronsylt eller kaffe",
-          "body": "De två traditionella sätten att äta den: varm med hjortronsylt som efterrätt, eller i tärningar i en kopp hett kaffe, och då äts den med sked."
+          "title": "Först i kaffet",
+          "body": "Hjortronsylt är det moderna sättet. Förr åts osten som den var eller i bitar i en kopp kaffe, och torkad, stenhård ost mjuknade i kaffet."
         }
       ]
     },
     "recipes": {
       "kicker": "Recepten",
-      "headline": "Tre sätt att få den på bordet.",
-      "lead": "Den varma efterrätt som de flesta finländare menar när de säger leipäjuusto, en vardagssallad och själva osten, gjord på 4 liter mjölk.",
+      "headline": "Fyra sätt att få den på bordet.",
+      "lead": "Varm ost med hjortron, kahvijuusto så som man har druckit den i norr, själva osten av fyra liter mjölk och en vardagssallad.",
       "items": [
         {
           "name": "Varm leipäjuusto med hjortronsylt",
-          "description": "Den klassiska efterrätten: osten värms i grädde tills den mjuknar och toppas med en sked hjortronsylt. Klar på 20 minuter.",
+          "description": "Dagens klassiker: osten värms i grädde tills den mjuknar och får en sked hjortronsylt över sig. Klar på 20 minuter.",
           "time": "20 min",
           "serves": "4",
           "level": "Lätt",
@@ -1859,8 +1859,51 @@
             "Grädda i ungefär 15 minuter, tills grädden bubblar och osten har mjuknat.",
             "Skeda hjortronsylten över den varma osten och servera direkt."
           ],
-          "tip": "Har du bråttom går det lika bra med 3 minuter i mikron på 800 W. Lingon- eller blåbärssylt fungerar när hjortron inte finns att få.",
-          "imageAlt": "En varm bit leipäjuusto med sylt på en tallrik"
+          "tip": "I Lappland heter bäret hilla, och enligt en folktro upptecknad i Kolari lovar en stjärnklar nyårsnatt en god hjortronsommar. Saknar du hjortronsylt går det bra med lingon- eller blåbärssylt. Har du bråttom sköter mikron uppvärmningen: 3 minuter på 800 watt.",
+          "imageAlt": "En rund leipäjuusto med bruna fläckar i en mörk form, med en bit utskuren och toppad med hjortronsylt"
+        },
+        {
+          "name": "Kahvijuusto: leipäjuusto i en kopp kaffe",
+          "description": "Det äldsta sättet att äta leipäjuusto: bitar i koppen och hett kokkaffe över. Osten mjuknar, fettet pärlar sig på kaffets yta och bitarna äter du med sked.",
+          "time": "10 min",
+          "serves": "2",
+          "level": "Lätt",
+          "ingredients": [
+            "100 g leipäjuusto",
+            "4 dl vatten",
+            "4 msk grovmalet kokkaffe",
+            "En sockerbit, om du vill"
+          ],
+          "instructions": [
+            "Skär leipäjuusto i ungefär centimeterstora tärningar eller tunna strimlor och fördela bitarna i två koppar.",
+            "Koka upp vattnet i en kaffepanna, tillsätt kaffet och låt det koka upp en gång.",
+            "Ta pannan från värmen och låt sumpen sjunka till botten i 3 till 4 minuter.",
+            "Häll det heta kaffet över osten och låt bitarna mjukna en stund.",
+            "Drick kaffet och ät osten med sked."
+          ],
+          "tip": "Seden kommer från den torkade osten: stenhård ost förvarades bland säden och mjukades upp i kaffe. År 1892 berättade en finsk tidning från en resa i Lappland hur renost lades i svart kaffe i stället för grädde och hur fettet pärlade sig på ytan."
+        },
+        {
+          "name": "Hemgjord leipäjuusto",
+          "description": "4 liter standardmjölk, löpe och en natt i kylen. Ugnens grill ger de bruna fläckarna.",
+          "time": "1 timme + över natten",
+          "serves": "1 ost",
+          "level": "Medel",
+          "ingredients": [
+            "4 l standardmjölk",
+            "1 msk flytande löpe",
+            "1 msk salt"
+          ],
+          "instructions": [
+            "Värm mjölken med saltet till ungefär 36 °C, alltså fingervarm, och rör om så att det inte bränner fast i botten.",
+            "Ta kastrullen från värmen, rör ner löpet och låt stå orört i ungefär 30 minuter, tills mjölken har stelnat.",
+            "Skär den stelnade ostmassan i små tärningar och låt vasslen skiljas av.",
+            "Lyft över ostmassan till en sil klädd med ostduk och låt den rinna av i kylen över natten.",
+            "Tryck ut ostmassan i en flat, rund ugnsform till en ungefär 2 cm tjock kaka och häll av vasslen som rinner ut.",
+            "Bryn osten under ugnens grill på 250 till 275 °C i 5 till 10 minuter, tills mörka fläckar syns."
+          ],
+          "tip": "Förr rostades osten på en rund björkbräda vid bakugnens öppning eller framför glöden, och brädan vändes så att osten fick jämn färg. Den bästa mjölken ansågs vara råmjölk, den första mjölken efter kalvningen. Hemma fungerar vanlig standardmjölk bra.",
+          "imageAlt": "En rund juustoleipä-ost fotograferad ovanifrån 1914, svartvit"
         },
         {
           "name": "Sallad med leipäjuusto",
@@ -1887,56 +1930,35 @@
             "Vispa ihop olja, vinäger, honung, salt och peppar till en dressing.",
             "Blanda bladen med gurka och lök, lägg den varma osten, bären och fröna ovanpå och häll över dressingen."
           ],
-          "tip": "Leipäjuusto behåller formen i en het panna och blir därför brun helt utan olja."
-        },
-        {
-          "name": "Hemgjord leipäjuusto",
-          "description": "4 liter standardmjölk, löpe och en natt i kylen. Ugnens grill ger de bruna fläckarna.",
-          "time": "1 timme + över natten",
-          "serves": "1 ost",
-          "level": "Medel",
-          "ingredients": [
-            "4 l standardmjölk",
-            "1 msk flytande löpe",
-            "1 msk salt"
-          ],
-          "instructions": [
-            "Värm mjölken med saltet till ungefär 36 °C, alltså fingervarm, och rör om så att det inte bränner fast i botten.",
-            "Ta kastrullen från värmen, rör ner löpet och låt stå orört i ungefär 30 minuter, tills mjölken har stelnat.",
-            "Skär den stelnade ostmassan i små tärningar och låt vasslen skiljas av.",
-            "Lyft över ostmassan till en sil klädd med ostduk och låt den rinna av i kylen över natten.",
-            "Tryck ut ostmassan i en flat, rund ugnsform till en ungefär 2 cm tjock kaka och häll av vasslen som rinner ut.",
-            "Bryn osten under ugnens grill på 250 till 275 °C i 5 till 10 minuter, tills mörka fläckar syns."
-          ],
-          "tip": "Traditionellt gjordes den bästa brödosten på råmjölk, den första mjölken efter kalvningen, som är rik på kasein. Hemma fungerar vanlig standardmjölk.",
-          "imageAlt": "En rund juustoleipä-ost fotograferad ovanifrån 1914, svartvit"
+          "tip": "Leipäjuusto behåller formen i en het panna och blir därför brun helt utan olja.",
+          "imageAlt": "Rostade tärningar av leipäjuusto på en träbräda"
         }
       ]
     },
     "about": {
       "kicker": "Vad det är",
-      "headline": "Färsk ost, gräddad tills den blir fläckig.",
-      "p1": "Leipäjuusto är en färsk ost gjord på komjölk som ystas med löpe. Ostmassan formas till en platt kaka och gräddas på båda sidor tills ytan får mörka fläckar, i ugn, på grill eller vid öppen eld. Osten lagras inte, så den håller i 10 till 14 dagar från mejeriet.",
-      "p2": "Osten hör hemma i norra Finland. De flesta dialektbelägg för ordet leipäjuusto kommer från Österbotten och Peräpohjola i nordväst, medan samma ost i Kajanaland kallas juustoleipä. I finska Tornedalen vid gränsen mot Sverige heter den kahvijuusto, och på den svenska sidan av älven heter motsvarigheten kaffeost.",
-      "p3": "Det traditionella råmaterialet var råmjölk, den första mjölken efter kalvningen, som är rik på kasein, och av den gjorde Juustoportti i Jalasjärvi den första kommersiella brödosten 1966. Två finska varianter väntar nu på ett skyddat namn inom EU: ansökningarna för <strong>Pohjalainen leipäjuusto</strong> och <strong>Kainuun juustoleipä</strong> lämnades in 2024. I Sverige blev kaffeost en skyddad ursprungsbeteckning 2025.",
+      "headline": "Färsk ost, rostad vid elden.",
+      "p1": "Leipäjuusto är en färsk ost som görs av ystad komjölk. Ostmassan formas till en platt, rund kaka och gräddas på båda sidor tills den får mörka fläckar, förr vid elden eller i ugnen, i dag i mejeriets ugn. Eftersom osten inte lagras håller den i 10 till 14 dagar från mejeriet.",
+      "p2": "Namnet varierar från region till region. I Peräpohjola i nordväst och i Österbotten heter den leipäjuusto, i Kajanaland juustoleipä, och från Salla finns namnet kahvijuusto upptecknat. På den svenska sidan av Tornedalen heter den kahvijuusto, på svenska kaffeost. I Posio tog man med osten till bönemötena och gav den till gäster som hade kommit långväga ifrån.",
+      "p3": "I norr gjordes ost också av renmjölk. I Torne lappmark mjölkade man renarna och gjorde ost av mjölken, men inte i Kemi lappmark. Museiverket förvarar en ostform för renmjölksost från Lohiniva i Rovaniemi, snidad 1858, och i Enontekis mjölkades renar ännu på 1940-talet. Två finska brödostar väntar nu på namnskydd inom EU: <strong>Pohjalainen leipäjuusto</strong> och <strong>Kainuun juustoleipä</strong> ansökte om det 2024. I Sverige fick kaffeost en skyddad ursprungsbeteckning 2025.",
       "imageAlt": "En bit leipäjuusto med brunfläckig yta på en skifferbricka"
     },
     "variations": {
       "kicker": "Så äter du den",
-      "headline": "Varm, i kaffet eller kall.",
-      "lead": "Leipäjuusto passar både sött och salt, varm som kall. Så här möter du den i Finland.",
+      "headline": "I kaffet, på glöden eller i grädde.",
+      "lead": "Leipäjuusto passar både sött och salt, varm som kall. Så här har man ätit den i norr, förr och nu.",
       "items": [
         {
           "title": "I en kopp kaffe",
-          "body": "Det gamla sättet: osttärningar i koppen, hett kaffe över och en sked att äta med. I svenska Tornedalen mjukas osten upp i kokkaffe på samma sätt."
+          "body": "Det äldsta sättet. Samerna lade förr torkad ost i köttspad, och när kokkaffet nådde norr flyttade ostbitarna över till kaffet. I svenska Tornedalen mjukas osten fortfarande upp i kokkaffe."
+        },
+        {
+          "title": "På glöden",
+          "body": "I Rovaniemi gräddades leipäjuusto på ahjos, glödbädden, så att den smakade rök. Samma sak får du vid en lägereld om du värmer osten på en träbräda i kanten av glöden och vänder den då och då."
         },
         {
           "title": "I ugnen med grädde",
-          "body": "Osten värms i grädde i ugnen tills den blir mjuk och serveras sedan med hjortronsylt. Det är efterrättsvarianten och det första receptet på den här sidan."
-        },
-        {
-          "title": "Stekt i panna",
-          "body": "Brynt i torr panna och lagd i sallader och hamburgare, så som mejerierna numera föreslår på förpackningen."
+          "body": "Osten värms i grädde i ugnen tills den är mjuk och serveras med hjortronsylt. Det är den moderna efterrätten och det första receptet på den här sidan."
         }
       ]
     },
@@ -2015,7 +2037,7 @@
         },
         {
           "question": "Är leipäjuusto samma sak som juustoleipä?",
-          "answer": "Ja. Leipäjuusto är det allmänna finska namnet och juustoleipä namnet i Kajanaland på samma ost. I finska Tornedalen heter den kahvijuusto, och svensk kaffeost kommer ur samma tradition."
+          "answer": "Ja. Leipäjuusto är det allmänna finska namnet och det namn som används i Peräpohjola. Juustoleipä är namnet på samma ost i Kajanaland, och i Salla finns namnet kahvijuusto upptecknat. I svenska Tornedalen heter den kahvijuusto, på svenska kaffeost."
         },
         {
           "question": "Hur länge håller leipäjuusto?",
@@ -2061,7 +2083,7 @@
       "title": "Det nya",
       "titleHighlight": "arktiska köket.",
       "subtitle": "Modern Lapplandsmatlagning tar råvarorna samerna använt i tusen år, ren, insjöfisk, vilda bär och örter, och lägger upp dem med nynordisk teknik. Den här sidan berättar hur det gick till, och var du kan smaka på det.",
-      "imageAlt": "Ren i lingon- och viltsås med rovpuré och karljohanssvamp på en grå glastallrik, restaurangbord i Helsingfors",
+      "imageAlt": "Chokladdessert med skogsbär på en räfflad keramiktallrik på Kieppi Kitchen & Bar i Saariselkä, oktober 2026",
       "primaryCta": "Var du bokar",
       "secondaryCta": "De traditionella recepten"
     },
@@ -2346,7 +2368,7 @@
       "title": "Ät dig",
       "titleHighlight": "genom Lappland.",
       "subtitle": "Tre bokningsbara matupplevelser i Lappland: en hemlagad lunch hos en samisk renskötarfamilj i Inari, en matvandring till fem restauranger i Rovaniemi och en bärplockningstur vid Luosto.",
-      "imageAlt": "En förrättsassiett med varmrökt lax, rökt abborre och kallrökt lax med picklade grönsaker på en svart tallrik",
+      "imageAlt": "Stekt siklöja på potatismos med saltgurka, tärnad rödbeta och en dippsås på Riipisen Riistaravintola i Ruka, oktober 2026",
       "primaryCta": "Bläddra bland alla på GetYourGuide"
     },
     "intro": {
@@ -2589,7 +2611,8 @@
     "hero": {
       "kicker": "Om LaplandFood",
       "headline": "Finsk mat, skriven härifrån.",
-      "lead": "LaplandFood handlar om finsk mat: varifrån råvarorna kommer, vad det samiska köket gör med dem, vad modern arktisk matlagning betyder och var man faktiskt äter i Lappland. Sajten hör till nätverket LaplandVibes, och redaktionen är oberoende."
+      "lead": "LaplandFood handlar om finsk mat: varifrån råvarorna kommer, vad det samiska köket gör med dem, vad modern arktisk matlagning betyder och var man faktiskt äter i Lappland. Sajten hör till nätverket LaplandVibes, och redaktionen är oberoende.",
+      "imageAlt": "Björkved brinner i en murad bakugn i en stuga i Kemijärvi, oktober 2026"
     },
     "why": {
       "headline": "Varför den här sajten finns.",

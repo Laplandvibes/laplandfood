@@ -24,7 +24,7 @@ interface Pillar { eyebrow: string; title: string; body: string }
 interface CulturePoint { n: string; title: string; body: string }
 
 const PILLAR_HREFS = ['/local-ingredients', '/traditional-recipes', '/modern-lapland', '/foraging-guide', '/michelin-dining', '/food-tours'];
-const PILLAR_IMAGES = ['/images/card-ingredients.jpg', '/images/card-recipes.jpg', '/images/card-modern.jpg', '/images/card-foraging.jpg', '/images/card-michelin.jpg', '/images/card-tours.jpg'];
+const PILLAR_IMAGES = ['/images/card-ingredients.jpg', '/images/recipe-bidos.jpg', '/images/card-modern.jpg', '/images/card-foraging.jpg', '/images/card-michelin.jpg', '/images/card-tours.jpg'];
 
 // FAQPage entries are generated from the same localized home.faq.items the
 // visible <FAQ /> accordion renders — Google requires schema Q&A to match
@@ -263,7 +263,8 @@ export default function Home() {
                   </span>
                 ))}
               </h2>
-              <p className="text-base sm:text-lg text-white/75 leading-relaxed max-w-3xl">
+              {/* text-white/90 (19.10.2026): /75 jäi kaistan valokuvan päällä 3,8:1:een 14 %:lla pikseleistä (korttiteksti-portti 1440 px). */}
+              <p className="text-base sm:text-lg text-white/90 leading-relaxed max-w-3xl">
                 {t('home.cultureLead')}
               </p>
             </div>

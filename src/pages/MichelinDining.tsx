@@ -94,7 +94,10 @@ export default function MichelinDining() {
           title={t('michelinDining.hero.title')}
           titleHighlight={t('michelinDining.hero.titleHighlight')}
           subtitle={t('michelinDining.hero.subtitle')}
-          imageUrl="/images/hero-michelin-kuusamo.webp"
+          imageUrl="/images/hero-michelin-kuusamo-1920.webp"
+          imageSrcSet="/images/hero-michelin-kuusamo-800.webp 800w, /images/hero-michelin-kuusamo-1280.webp 1280w, /images/hero-michelin-kuusamo-1920.webp 1920w, /images/hero-michelin-kuusamo-2560.webp 2560w"
+          layout="split"
+          imagePosition="50% 55%"
           imageAlt={t('michelinDining.hero.imageAlt')}
           primaryCta={{ label: t('michelinDining.hero.primaryCta'), href: `${to('/michelin-dining')}#michelin` }}
           secondaryCta={{ label: t('michelinDining.hero.secondaryCta'), href: `${to('/michelin-dining')}#lapland` }}

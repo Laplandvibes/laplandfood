@@ -37,7 +37,8 @@ export interface BerryConfig {
   key: 'lingonberry' | 'bilberry' | 'seaBuckthorn';
   path: string;
   /** Kuvien alt on pages.jsonissa (`<key>.hero/taste/versus.imageAlt`, `products.items[i].imageAlt`) 12 kielellä. */
-  hero: { image: string };
+  /** srcSet + layout 18.10.2026 (kuten DishPage). `image` = 1920-webp; rakenteisen datan jpg samalla nimellä. */
+  hero: { image: string; srcSet?: string; layout?: 'bleed' | 'split'; position?: string };
   taste: { image?: string; ownPhoto?: boolean };
   versus: { image?: string; ownPhoto?: boolean };
   /** Yksi kuva per tuotekortti, indeksi vastaa `products.items`-taulukkoa
@@ -141,6 +142,9 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           titleHighlight={t(`${k}.hero.titleHighlight`)}
           subtitle={t(`${k}.hero.subtitle`)}
           imageUrl={cfg.hero.image}
+          imageSrcSet={cfg.hero.srcSet}
+          layout={cfg.hero.layout}
+          imagePosition={cfg.hero.position}
           imageAlt={t(`${k}.hero.imageAlt`)}
           primaryCta={{ label: t(`${k}.hero.primaryCta`), href: to('/foraging-guide') }}
           secondaryCta={{ label: t(`${k}.hero.secondaryCta`), href: to('/berries') }}

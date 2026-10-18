@@ -71,15 +71,18 @@ export default function FoodTours() {
             ja kuvassa on kahvipannu?"). Sama tiedostonimi, uusi kuva: katettu
             retkipöytä — savusiikaa, poroa, hillaa, ruisleipää, pata.
             4.10.2026: tekoälykuva vaihdettu aitoon valokuvaan (Commons, kalalautanen
-            savulohta ja -ahventa) — ruoka, ei kahvia, Vesan 10.8. palautteen mukaan. */}
+            savulohta ja -ahventa) — ruoka, ei kahvia, Vesan 10.8. palautteen mukaan.
+            18.10.2026: Commons-kuva oli Helsingistä ⇒ oma kuva Lapista: paistetut muikut
+            Riipisen Riistaravintolassa Rukalla 9.10.2026 (ei minkään retken oma kuva, alt kertoo paikan). */}
         <PageHero
           eyebrow={t('foodTours.hero.eyebrow')}
           title={t('foodTours.hero.title')}
           titleHighlight={t('foodTours.hero.titleHighlight')}
           subtitle={t('foodTours.hero.subtitle')}
-          imageUrl="/images/hero-tours.jpg"
-          imageSrcSet="/images/hero-tours-1280.jpg 1280w, /images/hero-tours.jpg 2400w"
-          scrim="strong"
+          imageUrl="/images/hero-tours-muikut-1920.webp"
+          imageSrcSet="/images/hero-tours-muikut-800.webp 800w, /images/hero-tours-muikut-1280.webp 1280w, /images/hero-tours-muikut-1920.webp 1920w"
+          layout="split"
+          imagePosition="50% 45%"
           imageAlt={t('foodTours.hero.imageAlt')}
           primaryCta={{ label: t('foodTours.hero.primaryCta'), href: browseAllHref, external: true, rel: 'sponsored nofollow noopener' }}
           pills={tours.map(tour => tour.location)}

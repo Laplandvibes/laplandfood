@@ -4,7 +4,7 @@
     "h1Part1": "LA TABLE",
     "h1Part2": "FINLANDAISE.",
     "subhead": "Un guide de terrain de la culture culinaire finlandaise : d'où viennent les ingrédients, quel goût ont vraiment les recettes, et pourquoi la scène Michelin du pays vaut le détour.",
-    "imageAlt": "Ingrédients de Laponie vus du dessus sur du bois clair et du lin : renne sauté dans une poêle en fonte, bols de plaquebières, de myrtilles et d'airelles, un poisson entier sur de l'écorce de bouleau, du pain de seigle, des chanterelles et du genévrier",
+    "imageAlt": "Une assiette de poronkäristys, du renne émincé sur une purée de pommes de terre avec des airelles rouges et des cornichons",
     "ctaPrimary": "Voir les recettes traditionnelles",
     "ctaSecondary": "Ce qui pousse ici"
   },
@@ -169,7 +169,7 @@
       "title": "Ce qui pousse",
       "titleHighlight": "ici.",
       "subtitle": "Six ingrédients qui définissent le garde-manger de Laponie : d'où ils viennent, quand ils sont à leur apogée et quel goût ils ont vraiment.",
-      "imageAlt": "Un bol blanc rempli de myrtilles fraîchement cueillies sur le sol de la forêt, parmi les plants de myrtilles",
+      "imageAlt": "Velouté de champignons garni de champignons poêlés, avec du pain, au Riipisen Riistaravintola à Ruka, octobre 2026",
       "primaryCta": "Guide de cueillette",
       "secondaryCta": "Recettes qui les utilisent"
     },
@@ -337,7 +337,7 @@
       "title": "Mûre arctique, l'or",
       "titleHighlight": "têtu des tourbières.",
       "subtitle": "La plaquebière : en Finlande, on l'appelle hilla et on garde ses coins de cueillette comme des codes bancaires. Voici son vrai goût, pourquoi chaque baie est cueillie à la main et où vous la croiserez en Laponie.",
-      "imageAlt": "Tourbière ouverte avec des plaquebières mûres couleur d'ambre au premier plan, de la linaigrette blanche et une mare sombre à l'arrière",
+      "imageAlt": "Des mûres arctiques orange, arrivées à maturité, parmi la végétation basse d'une tourbière",
       "primaryCta": "Apprendre à la cueillir",
       "secondaryCta": "Tous les ingrédients de Laponie",
       "pills": [
@@ -1039,7 +1039,7 @@
       "title": "L'argousier, feu orange",
       "titleHighlight": "venu du rivage.",
       "subtitle": "Le tyrni ne pousse pas du tout dans les forêts de l'intérieur de la Laponie. Il pousse sur les rivages pierreux du golfe de Botnie, au nord jusqu'à la côte de Laponie, à Tornio, et c'est la baie la plus acide du garde-manger finlandais et l'une des plus riches en vitamine C. Voici où il vit, quel goût il a et pourquoi il est si difficile à cueillir.",
-      "imageAlt": "Rivage calme du golfe de Botnie un soir de juillet, une plage de galets à droite et une pointe boisée basse de l'autre côté de l'eau",
+      "imageAlt": "Des argousiers chargés de baies orange sur la côte du golfe de Botnie à Billudden, en Suède",
       "primaryCta": "Apprendre à le cueillir",
       "secondaryCta": "Le guide des baies",
       "pills": [
@@ -1117,7 +1117,7 @@
       "p2": "Les producteurs professionnels règlent cela par le froid. Ils coupent les branches fruitières et les congèlent ; les baies gelées se détachent net et partent directement au pressoir. C'est aussi pourquoi la plupart de l'argousier vous parvient en jus, en purée ou en confiture plutôt que frais.",
       "p3": "L'arbuste est dioïque : les plants mâles et femelles sont distincts, et seuls les femelles fructifient, ce qui explique qu'un peuplement dense sur le rivage puisse être à moitié stérile.",
       "p4": "<strong>Pour le voyageur, la conclusion : l'argousier frais est rare même en Finlande, mais le jus est dans chaque supermarché.</strong>",
-      "imageAlt": "Des argousiers chargés de baies orange sur la côte du golfe de Botnie à Billudden, en Suède"
+      "imageAlt": "Baies d'argousier mûres et orange sur une branche aux feuilles étroites, à Kiikeli, à Oulu, en août"
     },
     "price": {
       "kicker": "Vitamine C",
@@ -1531,8 +1531,8 @@
       "eyebrow": "Le plat de renne de Laponie · Poronkäristys",
       "title": "Poronkäristys, le renne",
       "titleHighlight": "finement émincé, lentement mijoté.",
-      "subtitle": "Du renne émincé en fins copeaux alors qu'il est encore à demi congelé, doré au beurre et mijoté jusqu'à ce qu'il s'effiloche, puis servi sur une purée de pommes de terre avec des airelles et des cornichons. Voici la recette des éleveurs de rennes eux-mêmes, la version au four, son prix et où le commander en Laponie.",
-      "imageAlt": "Cinq rennes marchant sur la route en plein été à Kilpisjärvi, en Laponie finlandaise, avec un versant de fjäll verdoyant derrière",
+      "subtitle": "Le poronkäristys doit son nom à un bruit : la graisse grésille, kärisee en finnois, quand la viande de renne encore gelée touche la poêle. C'était le plat de tous les jours des camps de bûcherons et des rassemblements de rennes bien avant que les restaurants n'en fassent un classique. Voici la recette telle qu'on la prépare en Laponie, la version au four, les accompagnements et où le commander.",
+      "imageAlt": "Poronkäristys fait maison dans son jus, à côté d'une purée de pommes de terre, sur une assiette à motif de roses",
       "primaryCta": "Aller à la recette",
       "secondaryCta": "Toutes les recettes traditionnelles",
       "pills": [
@@ -1545,78 +1545,78 @@
       ]
     },
     "intro": {
-      "lead": "L'association des éleveurs de rennes elle-même fait du poronkäristys le plus légendaire, peut-être, de tous les plats de renne. La version traditionnelle demande quatre choses : du renne, du beurre, de l'eau et du sel.",
+      "lead": "Le Dictionnaire des dialectes finnois décrit le käristys comme un plat de viande de renne taillée en copeaux puis poêlée, « surtout le plat de tous les jours des ouvriers forestiers », avec un exemple recueilli à Kemijärvi : « Le soir, au camp de bûcherons, on a fait le käristys. » La cocotte traditionnelle ne demande toujours que quatre choses : du renne, de la matière grasse, de l'eau et du sel.",
       "points": [
         {
           "n": "01",
-          "title": "Émincé à demi congelé",
-          "body": "La viande est émincée à demi congelée, vers −6 °C, quand elle est assez ferme pour être taillée en fins copeaux. En Finlande, les magasins la vendent déjà émincée et surgelée."
+          "title": "Taillé dans la viande gelée",
+          "body": "Une fois les grands froids venus, on taillait des copeaux dans un rôti gelé, au fur et à mesure des besoins. « Tiens, voilà un couteau, va tailler un peu de viande », dit un exemple recueilli à Kittilä. Aujourd'hui, les magasins finlandais la vendent déjà taillée et surgelée."
         },
         {
           "n": "02",
-          "title": "Beurre, eau, sel",
-          "body": "Le poronkäristys traditionnel ne contient ni crème ni bouillon. La viande dore dans le beurre ou la graisse de renne, puis mijote à couvert avec un filet d'eau. Le poivre n'est arrivé que plus tard."
+          "title": "Graisse, eau, sel",
+          "body": "La cocotte traditionnelle ne contient ni crème ni bière. La viande dore dans le beurre ou dans la graisse de renne, que les éleveurs appellent pinta, puis mijote à couvert avec un filet d'eau."
         },
         {
           "n": "03",
-          "title": "Jamais sans airelles",
-          "body": "On le sert sur une purée de pommes de terre, avec des airelles et des cornichons. La recette des éleveurs eux-mêmes désigne comme meilleur accompagnement des airelles crues au sucre, effleurées par le gel."
+          "title": "Des airelles à côté",
+          "body": "L'assiette d'aujourd'hui, c'est une purée de pommes de terre, des airelles et des cornichons. Dans les camps de bûcherons, le käristys s'accompagnait de pommes de terre sautées, et l'association des éleveurs de rennes désigne comme meilleur accompagnement des airelles crues au sucre, effleurées par le gel."
         }
       ]
     },
     "recipes": {
       "kicker": "La recette",
       "headline": "Le poronkäristys, comme à la maison.",
-      "lead": "Trois recettes : le classique sur le feu de l'association des éleveurs de rennes, la version au four, plus lente, pour une grande cocotte, et les deux accompagnements qui vont avec.",
+      "lead": "Trois recettes : le käristys à la poêle, tel qu'on l'a toujours fait en Laponie, une version au four plus lente pour une grande tablée, et les deux accompagnements qui ont leur place dans l'assiette.",
       "items": [
         {
           "name": "Poronkäristys traditionnel",
-          "description": "La version des éleveurs : renne, matière grasse, eau et sel, mijotés à couvert jusqu'à ce que la viande soit tendre. Le poivre est facultatif, la crème n'a rien à y faire.",
+          "description": "Du renne, de la matière grasse, de l'eau et du sel, dans une poêle à fond épais ou une cocotte en fonte. Le poivre est facultatif, la crème n'a rien à y faire.",
           "time": "30–60 min",
           "serves": "3–4",
           "level": "Facile",
           "ingredients": [
-            "500 g de poronkäristys surgelé (renne émincé)",
+            "500 g de poronkäristys surgelé (renne émincé) ou un rôti de renne congelé",
             "25 g de beurre ou de graisse de renne",
             "1 dl d'eau",
             "¾ c. à café de sel",
             "Poivre noir fraîchement moulu (facultatif)"
           ],
           "instructions": [
-            "Laisser la viande surgelée ramollir au réfrigérateur juste assez pour pouvoir séparer le bloc en morceaux ; les tranches doivent rester glacées.",
-            "Faire fondre la matière grasse à feu vif dans une poêle à fond épais ou une cocotte en fonte, puis ajouter la viande en plusieurs fois en séparant les tranches gelées à la spatule.",
-            "Faire revenir jusqu'à ce que la viande ait dégelé, que son jus se soit évaporé et qu'elle commence à dorer.",
+            "Pour un rôti entier, le laisser ramollir au réfrigérateur juste assez pour qu'un couteau bien aiguisé puisse y entrer, puis tailler la viande gelée en copeaux aussi fins que possible. Le käristys surgelé vendu déjà taillé se sépare en morceaux de la même façon, tant qu'il est encore glacé.",
+            "Faire chauffer la matière grasse dans une poêle à fond épais ou une cocotte en fonte, sur le plus grand feu de la cuisinière, jusqu'à ce qu'elle grésille. Ajouter la viande en plusieurs fois et séparer les copeaux gelés à la spatule.",
+            "Faire revenir jusqu'à ce que la viande ait dégelé, que son jus se soit évaporé et que les copeaux commencent à dorer.",
             "Verser l'eau et ajouter le sel.",
-            "Baisser le feu, couvrir et laisser mijoter jusqu'à ce que la viande soit tendre : 10 à 30 minutes pour les morceaux du cuissot, plus longtemps pour les autres. Ajouter un filet d'eau si le fond s'assèche.",
+            "Baisser le feu, couvrir et laisser mijoter jusqu'à ce que la viande soit tendre : 10 à 30 minutes pour le cuissot, plus longtemps pour l'épaule et l'avant du dos. Ajouter un filet d'eau si le fond s'assèche.",
             "Goûter, poivrer éventuellement et servir sur une purée de pommes de terre avec des airelles et des cornichons."
           ],
-          "tip": "Selon l'association des éleveurs de rennes, c'est en faisant revenir la viande dans de la graisse de renne qu'on obtient le goût le plus prononcé.",
+          "tip": "Les éleveurs font revenir la viande dans la graisse qu'ils appellent pinta, celle qui s'accumule sous la peau le long du dos du renne, et selon l'association des éleveurs de rennes, c'est la graisse de renne qui donne à la cocotte son goût le plus prononcé. Assaisonnez avec retenue. Comme le dit Hannu Lahtela, éleveur de rennes à Salla : « Le renne doit avoir le goût du renne. »",
           "imageAlt": "Une assiette de poronkäristys, du renne émincé sur une purée de pommes de terre avec des airelles rouges et des cornichons"
         },
         {
           "name": "Poronkäristys au four",
-          "description": "La même cocotte, terminée au four à basse température. C'est plus long, il n'y a rien à remuer et cela convient aux grandes quantités.",
+          "description": "La même cocotte, terminée au four à basse température. C'est plus long, il n'y a rien à remuer et cela convient à une grande tablée.",
           "time": "2–3 heures",
           "serves": "6",
           "level": "Facile",
           "ingredients": [
-            "1 kg de poronkäristys surgelé (renne émincé)",
+            "1 kg de poronkäristys surgelé",
             "3 c. à soupe de beurre ou de graisse de renne",
             "2 dl d'eau",
             "1½ c. à café de sel"
           ],
           "instructions": [
-            "Préchauffer le four à 125 °C.",
+            "Préchauffer le four à 125 °C.",
             "Sur le feu, faire dorer la viande en plusieurs fois dans la matière grasse, dans une cocotte en fonte allant au four, jusqu'à ce que son jus se soit évaporé.",
-            "Ajouter l'eau et le sel et porter à frémissement.",
-            "Couvrir et enfourner pour 2 à 3 heures, jusqu'à ce que la viande s'effiloche.",
+            "Ajouter l'eau et le sel et porter à ébullition.",
+            "Couvrir et enfourner pour 2 à 3 heures, jusqu'à ce que la viande se défasse sous la fourchette.",
             "Vérifier une ou deux fois et ajouter un filet d'eau si nécessaire. Servir comme la version sur le feu."
           ],
-          "tip": "Les recettes publiées vont de 125 °C pendant 2 à 3 heures, le choix de l'association des éleveurs, à 175 ou 200 °C pendant environ une heure. Plus le four est doux, plus la cuisson est longue."
+          "tip": "Les recettes au four publiées vont de 125 °C pendant 2 à 3 heures, le choix de l'association des éleveurs, à 175 ou 200 °C pendant environ une heure. Plus le four est doux, plus la cuisson est longue : Hannu Lahtela laisse le collier de renne toute la nuit au four, dans la chaleur résiduelle."
         },
         {
           "name": "Purée de pommes de terre et airelles crues au sucre",
-          "description": "Les deux accompagnements qui font l'assiette : une purée bien beurrée et des airelles crues, simplement mêlées au sucre.",
+          "description": "Les deux accompagnements qui font l'assiette : une purée bien beurrée et des airelles crues mélangées au sucre.",
           "time": "30 min",
           "serves": "4",
           "level": "Facile",
@@ -1635,34 +1635,34 @@
             "Mélanger les airelles et le sucre dans un saladier et laisser reposer pendant la cuisson des pommes de terre, en remuant de temps en temps, jusqu'à ce que le sucre soit dissous.",
             "Servir les deux avec le renne, accompagnés de quelques rondelles de cornichon."
           ],
-          "tip": "Les recettes finlandaises font la purée avec la puikula, la longue pomme de terre jaune de Laponie ; la Lapin Puikula est une appellation d'origine protégée de l'UE depuis 1997."
+          "tip": "En Laponie, on fait de préférence la purée avec la puikula, la longue pomme de terre jaune qui bénéficie de l'appellation d'origine protégée de l'UE Lapin Puikula. La variété est adaptée aux conditions du Nord, et sa qualité baisse plus au sud."
         }
       ]
     },
     "about": {
       "kicker": "Ce que c'est",
-      "headline": "Du renne, finement émincé.",
-      "p1": "Le poronkäristys, c'est de la viande de renne émincée en fins copeaux alors qu'elle est à demi congelée, dorée dans la matière grasse puis mijotée dans un peu d'eau jusqu'à ce qu'elle soit tendre. L'association des éleveurs de rennes indique les morceaux qui conviennent : la sous-noix et la noix pâtissière du cuissot, l'épaule et l'avant du dos.",
-      "p2": "La plupart des rennes finlandais sont abattus en octobre et en novembre, après avoir passé au moins six mois à se nourrir uniquement de pâture naturelle. La viande est sombre et maigre, avec 2 à 4 % de matières grasses.",
-      "p3": "De l'autre côté de la frontière, en Suède, le même plat s'appelle <em>renskav</em>. La viande de renne de la zone d'élevage finlandaise a sa propre appellation d'origine protégée de l'UE depuis 2009, <strong>Lapin Poron liha</strong> : les rennes paissent en liberté sur des pâturages naturels, et la viande est produite, découpée et conditionnée à l'intérieur de la zone d'élevage.",
+      "headline": "Le plat du camp de bûcherons et de l'enclos de tri.",
+      "p1": "Le poronkäristys, c'est de la viande de renne taillée en fins copeaux alors qu'elle est gelée, dorée dans la matière grasse puis mijotée dans un peu d'eau jusqu'à ce qu'elle soit tendre. Le nom vient d'un bruit : <em>käristä</em>, c'est le grésillement de la graisse dans la poêle. Les relevés dialectaux situent le käristys dans le Kainuu et en Laponie finlandaise, et dans les camps de bûcherons, les hommes gardaient une poêle rien que pour ce plat, la <em>käristyskauha</em>.",
+      "p2": "Les rennes destinés à l'abattage sont triés lors des rassemblements, qui ont lieu de fin septembre à janvier, et en Laponie, beaucoup de gens achètent encore leur viande directement à un éleveur, à l'enclos de tri, ou dans une ferme de rennes. Dans la classification des morceaux de l'association des éleveurs, les rôtis et les filets sont la viande du « poronkäristys de haute qualité », l'épaule et l'avant du dos celle du käristys de tous les jours. La viande est sombre et maigre, avec 2 à 4 % de matières grasses.",
+      "p3": "En Suède, le même plat s'appelle <em>renskav</em>, et en Norvège <em>finnbiff</em>, dont la première partie est un ancien nom des Samis, aujourd'hui considéré comme péjoratif. La viande de renne de la zone d'élevage finlandaise a sa propre appellation d'origine protégée de l'UE depuis 2009, <strong>Lapin Poron liha</strong> : les rennes paissent en liberté sur des pâturages naturels, et la viande est produite, découpée et conditionnée à l'intérieur de la zone d'élevage.",
       "imageAlt": "Un renne debout dans la neige profonde d'une forêt d'hiver"
     },
     "variations": {
       "kicker": "Variantes",
-      "headline": "Bière, crème ou lardons.",
-      "lead": "La cocotte traditionnelle compte quatre ingrédients. Tout le reste est venu plus tard.",
+      "headline": "De la tente sami au camp de bûcherons.",
+      "lead": "La cocotte traditionnelle compte quatre ingrédients, mais dans les vieux récits de Laponie, chaque cocotte a sa façon de faire.",
       "items": [
         {
-          "title": "Bière brune",
-          "body": "Dans les recettes de Valio et de K-Ruoka, la viande mijote dans de la bière brune avec un peu d'eau. Les bouchers de Rönkä font remarquer qu'avec de la bière, du vin ou de la crème, ce n'est plus le plat traditionnel."
+          "title": "Dans une kota, avec de la neige",
+          "body": "En 1937, au marché de Rovaniemi, un Sami a préparé du käristys au-dessus d'un feu de bois dans une kota, a mis un peu de porc au fond de la marmite et y a saupoudré de la neige à la place de l'eau. Le visiteur, un écrivain venu du sud, n'avait encore jamais mangé ce plat."
         },
         {
-          "title": "Le renskav suédois",
-          "body": "En Suède, le renskav est le plus souvent un ragoût crémeux aux girolles et aux baies de genièvre écrasées, prêt en moins de 30 minutes et servi avec des airelles crues au sucre."
+          "title": "Le käristys des camps de bûcherons",
+          "body": "Dans les camps de bûcherons, on préparait le käristys le soir et le matin dans une käristyskauha, sur le feu de la cheminée de la cabane, souvent avec du lard salé. C'est pourquoi le dictionnaire des dialectes le définit comme préparé « avec de la viande (de renne) (et du lard salé) »."
         },
         {
-          "title": "Lardons",
-          "body": "La recette de K-Ruoka fait revenir des lardons avec le renne, pour davantage de gras et une note fumée."
+          "title": "Crème, bière et renskav",
+          "body": "Les recettes des supermarchés font aujourd'hui mijoter la viande dans de la bière brune ou de la crème, et le renskav suédois se termine le plus souvent à la crème, aux girolles et aux baies de genièvre. Les bouchers de Rönkä font remarquer que dès qu'on ajoute de la bière, du vin ou de la crème, ce n'est plus du käristys traditionnel."
         }
       ]
     },
@@ -1802,8 +1802,8 @@
       "eyebrow": "Le fromage pain finlandais · Leipäjuusto",
       "title": "Leipäjuusto, le fromage",
       "titleHighlight": "qui couine.",
-      "subtitle": "Un fromage frais et plat du nord de la Finlande, cuit jusqu'à être tacheté de brun, que l'on mange tiède avec de la confiture de mûre arctique ou ramolli dans une tasse de café. Voici comment le servir, comment le faire chez vous avec du lait, et pourquoi il couine sous la dent.",
-      "imageAlt": "Un leipäjuusto rond tacheté de brun dans un plat sombre, une part découpée et nappée de confiture de mûres arctiques",
+      "subtitle": "En Laponie, c'est le leipäjuusto, et à Salla le kahvijuusto, le « fromage à café ». Autrefois, on le grillait sur des braises rougeoyantes jusqu'à ce qu'il prenne un goût de fumée, et on le mangeait avec le café. Voici quatre façons de le servir, comment le faire chez vous et pourquoi il couine sous la dent.",
+      "imageAlt": "Un leipäjuusto tout juste cuit, tacheté de brun, sur une plaque de four à Ristijärvi, dans le Kainuu, en août 2026",
       "primaryCta": "Aller aux recettes",
       "secondaryCta": "Toutes les recettes traditionnelles",
       "pills": [
@@ -1816,33 +1816,33 @@
       ]
     },
     "intro": {
-      "lead": "Le leipäjuusto n'est ni affiné ni fondu. C'est du lait caillé à la présure, pressé en une galette plate et cuit jusqu'à ce que la surface dore par taches, comme une miche de pain.",
+      "lead": "Le leipäjuusto n'est ni affiné ni fondu. On fait cailler le lait, on presse le caillé en une galette plate, puis on la fait griller jusqu'à ce que la surface dore par taches, comme une croûte de pain.",
       "points": [
         {
           "n": "01",
-          "title": "Cuit, pas affiné",
-          "body": "Le caillé est façonné en un disque de 0,5 à 3 cm d'épaisseur et cuit des deux côtés, au four, sur un gril ou au feu de bois. Il se mange en quelques jours, pas en quelques mois."
+          "title": "Grillé devant le feu",
+          "body": "Le Dictionnaire des dialectes finnois définit le leipäjuusto comme un fromage mince grillé à la flamme d'un feu ou au four. À Rovaniemi, on le cuisait sur l'ahjos, la braise rougeoyante, si bien qu'il avait un goût de fumée."
         },
         {
           "n": "02",
-          "title": "Un couinement bien réel",
-          "body": "En 2025, des chercheurs finlandais en acoustique ont testé 100 échantillons : le fromage pain a couiné à chaque essai, la mozzarella une fois sur cinq. Le son vient d'un frottement, comme celui d'un archet sur une corde."
+          "title": "Le couinement a été mesuré",
+          "body": "En 2025, des chercheurs finlandais en acoustique ont testé 100 échantillons : le leipäjuusto a couiné à chaque essai, la mozzarella une fois sur cinq seulement. Le son vient d'un frottement, comme celui d'un archet sur une corde de violon."
         },
         {
           "n": "03",
-          "title": "Confiture de mûre arctique ou café",
-          "body": "Les deux façons traditionnelles de le manger : tiède avec de la confiture de mûre arctique, en dessert, ou en cubes dans une tasse de café chaud, à la cuillère."
+          "title": "Le café d'abord",
+          "body": "La confiture de mûre arctique, c'est la façon moderne. Autrefois, on mangeait le fromage nature ou en morceaux dans une tasse de café, et celui qu'on avait fait sécher, dur comme la pierre, ramollissait dans le café."
         }
       ]
     },
     "recipes": {
       "kicker": "Les recettes",
-      "headline": "Trois façons de le mettre sur la table.",
-      "lead": "Le dessert chaud auquel pensent la plupart des Finlandais quand ils disent leipäjuusto, une salade de tous les jours, et le fromage lui-même, fait avec 4 litres de lait.",
+      "headline": "Quatre façons de le mettre sur la table.",
+      "lead": "Le fromage tiède aux mûres arctiques, le fromage à café tel qu'on le boit dans le Nord, le fromage lui-même, fait avec quatre litres de lait, et une salade de tous les jours.",
       "items": [
         {
           "name": "Leipäjuusto tiède à la confiture de mûre arctique",
-          "description": "Le dessert classique : le fromage réchauffé dans la crème jusqu'à ce qu'il ramollisse, nappé de confiture de mûre arctique. Prêt en 20 minutes.",
+          "description": "Le classique d'aujourd'hui : le fromage réchauffé dans la crème jusqu'à ce qu'il ramollisse, nappé de confiture de mûre arctique à la cuillère. Prêt en 20 minutes.",
           "time": "20 min",
           "serves": "4",
           "level": "Facile",
@@ -1859,8 +1859,51 @@
             "Enfourner pour environ 15 minutes, jusqu'à ce que la crème bouillonne et que le fromage ait ramolli.",
             "Napper le fromage chaud de confiture de mûre arctique à la cuillère et servir aussitôt."
           ],
-          "tip": "Si vous êtes pressé, 3 minutes au micro-ondes à 800 W font le même travail. À défaut de mûres arctiques, une confiture d'airelles ou de myrtilles convient aussi.",
-          "imageAlt": "Une tranche tiède de leipäjuusto avec de la confiture sur une assiette"
+          "tip": "En Laponie, cette baie s'appelle hilla, et selon une croyance recueillie à Kolari, une nuit de la Saint-Sylvestre étoilée promet un bon été pour la mûre arctique. Si vous n'avez pas de confiture de mûre arctique, une confiture d'airelles ou de myrtilles convient aussi. Si vous êtes pressé, le micro-ondes fait le travail : 3 minutes à 800 watts.",
+          "imageAlt": "Un leipäjuusto rond tacheté de brun dans un plat sombre, une part découpée et nappée de confiture de mûres arctiques"
+        },
+        {
+          "name": "Fromage à café : le leipäjuusto dans une tasse de café",
+          "description": "La façon la plus ancienne de manger le leipäjuusto : des morceaux dans la tasse et du café bouilli bien chaud versé par-dessus. Le fromage ramollit, la graisse perle à la surface du café, et on mange les morceaux à la cuillère.",
+          "time": "10 min",
+          "serves": "2",
+          "level": "Facile",
+          "ingredients": [
+            "100 g de leipäjuusto",
+            "4 dl d'eau",
+            "4 c. à soupe de café à mouture grossière, pour café bouilli",
+            "Un morceau de sucre (facultatif)"
+          ],
+          "instructions": [
+            "Couper le leipäjuusto en cubes d'environ un centimètre ou en fines lanières et les répartir dans deux tasses.",
+            "Faire bouillir l'eau dans une cafetière, ajouter le café et donner un bouillon.",
+            "Retirer la cafetière du feu et laisser le marc se déposer pendant 3 à 4 minutes.",
+            "Verser le café chaud sur le fromage et laisser les morceaux ramollir un instant.",
+            "Boire le café et manger le fromage à la cuillère."
+          ],
+          "tip": "L'habitude vient du fromage séché : le fromage dur comme la pierre se conservait au milieu du grain et on le ramollissait dans le café. En 1892, un journal finlandais racontait, dans le récit d'un voyage en Laponie, que le fromage de renne se mettait dans le café noir à la place de la crème et que la graisse perlait à la surface."
+        },
+        {
+          "name": "Leipäjuusto maison",
+          "description": "4 litres de lait entier, de la présure et une nuit au réfrigérateur. Le gril du four lui donne ses taches brunes.",
+          "time": "1 heure + une nuit",
+          "serves": "1 fromage",
+          "level": "Intermédiaire",
+          "ingredients": [
+            "4 l de lait entier",
+            "1 c. à soupe de présure liquide",
+            "1 c. à soupe de sel"
+          ],
+          "instructions": [
+            "Faire chauffer le lait avec le sel jusqu'à environ 36 °C, tiède au toucher, en remuant pour qu'il n'attache pas au fond.",
+            "Retirer la casserole du feu, incorporer la présure et laisser reposer sans y toucher environ 30 minutes, jusqu'à ce que le lait caille.",
+            "Découper le caillé en petits cubes et laisser le petit-lait se séparer.",
+            "Transférer le caillé dans une passoire tapissée d'une étamine et le laisser égoutter une nuit au réfrigérateur.",
+            "Tasser le caillé dans un plat rond et peu profond allant au four, sur environ 2 cm d'épaisseur, et jeter le petit-lait.",
+            "Faire dorer sous le gril du four, entre 250 et 275 °C, pendant 5 à 10 minutes, jusqu'à l'apparition de taches sombres."
+          ],
+          "tip": "Autrefois, on grillait le fromage sur une planche ronde en bouleau, à la gueule du four à pain ou devant les braises, et l'on tournait la planche pour qu'il dore de façon régulière. On tenait pour le meilleur lait le colostrum, le premier lait après le vêlage. À la maison, un lait entier ordinaire fait très bien l'affaire.",
+          "imageAlt": "Un fromage juustoleipä rond photographié d'en haut en 1914, en noir et blanc"
         },
         {
           "name": "Salade au leipäjuusto",
@@ -1887,56 +1930,35 @@
             "Fouetter l'huile, le vinaigre, le miel, le sel et le poivre pour faire la vinaigrette.",
             "Mélanger les feuilles avec le concombre et l'oignon, ajouter le fromage chaud, les baies et les graines, puis arroser de vinaigrette."
           ],
-          "tip": "Le leipäjuusto garde sa forme dans une poêle chaude : il dore donc sans une goutte d'huile."
-        },
-        {
-          "name": "Leipäjuusto maison",
-          "description": "4 litres de lait entier, de la présure et une nuit au réfrigérateur. Le gril du four lui donne ses taches brunes.",
-          "time": "1 heure + une nuit",
-          "serves": "1 fromage",
-          "level": "Intermédiaire",
-          "ingredients": [
-            "4 l de lait entier",
-            "1 c. à soupe de présure liquide",
-            "1 c. à soupe de sel"
-          ],
-          "instructions": [
-            "Faire chauffer le lait avec le sel jusqu'à environ 36 °C, tiède au toucher, en remuant pour qu'il n'attache pas au fond.",
-            "Retirer la casserole du feu, incorporer la présure et laisser reposer sans y toucher environ 30 minutes, jusqu'à ce que le lait caille.",
-            "Découper le caillé en petits cubes et laisser le petit-lait se séparer.",
-            "Transférer le caillé dans une passoire tapissée d'une étamine et le laisser égoutter une nuit au réfrigérateur.",
-            "Tasser le caillé dans un plat rond et peu profond allant au four, sur environ 2 cm d'épaisseur, et jeter le petit-lait.",
-            "Faire dorer sous le gril du four, entre 250 et 275 °C, pendant 5 à 10 minutes, jusqu'à l'apparition de taches sombres."
-          ],
-          "tip": "Traditionnellement, le meilleur leipäjuusto se faisait avec du colostrum, le premier lait après le vêlage, riche en caséine. À la maison, un lait entier ordinaire fait l'affaire.",
-          "imageAlt": "Un fromage juustoleipä rond photographié d'en haut en 1914, en noir et blanc"
+          "tip": "Le leipäjuusto garde sa forme dans une poêle chaude : il dore donc sans une goutte d'huile.",
+          "imageAlt": "Des cubes de leipäjuusto grillés sur une planche en bois"
         }
       ]
     },
     "about": {
       "kicker": "Ce que c'est",
-      "headline": "Un fromage frais, cuit jusqu'à être tacheté.",
-      "p1": "Le leipäjuusto est un fromage frais au lait de vache caillé à la présure. Le caillé est façonné en disque plat puis cuit des deux côtés jusqu'à ce que la surface se couvre de taches sombres, au four, sur un gril ou au feu de bois. Comme il n'est pas affiné, il se conserve 10 à 14 jours après sa sortie de la laiterie.",
-      "p2": "Il appartient au nord de la Finlande. La plupart des attestations dialectales du mot leipäjuusto viennent d'Ostrobotnie et de Peräpohjola, au nord-ouest, tandis que dans le Kainuu le même fromage s'appelle juustoleipä. Dans la vallée de Tornio, à la frontière suédoise, c'est le kahvijuusto, le « fromage à café », et de l'autre côté du fleuve, en Suède, le kaffeost.",
-      "p3": "La matière première traditionnelle était le colostrum, le premier lait après le vêlage, riche en caséine, et c'est avec lui que Juustoportti, à Jalasjärvi, a fabriqué le premier leipäjuusto commercial en 1966. Deux versions finlandaises attendent aujourd'hui un nom protégé par l'UE : <strong>Pohjalainen leipäjuusto</strong> et <strong>Kainuun juustoleipä</strong> en ont fait la demande en 2024. En Suède, le kaffeost est devenu une appellation d'origine protégée en 2025.",
+      "headline": "Un fromage frais, grillé devant le feu.",
+      "p1": "Le leipäjuusto est un fromage frais obtenu en faisant cailler du lait de vache. Le caillé est façonné en galette plate et cuit des deux côtés jusqu'à se couvrir de taches sombres, autrefois à la flamme d'un feu ou au four, aujourd'hui dans le four d'une laiterie. Comme il n'est pas affiné, il se conserve 10 à 14 jours après sa sortie de la laiterie.",
+      "p2": "Son nom change d'une région à l'autre. Dans le Peräpohjola, au nord-ouest, et en Ostrobotnie, c'est le leipäjuusto, dans le Kainuu le juustoleipä, et à Salla on a recueilli le nom de kahvijuusto, « fromage à café ». Du côté suédois de la vallée de Tornio, c'est le kahvijuusto, en suédois kaffeost. À Posio, on apportait le fromage aux réunions de prière et on l'offrait aux invités venus de loin.",
+      "p3": "Dans le Nord, on faisait aussi du fromage avec le lait de renne. Dans la Laponie de Tornio, on trayait les rennes et on faisait du fromage avec leur lait ; dans la Laponie de Kemi, on ne les trayait pas. L'Agence finlandaise du patrimoine conserve un moule à fromage de lait de renne sculpté en 1858, provenant de Lohiniva, à Rovaniemi, et à Enontekiö, on trayait encore les rennes dans les années 1940. Deux leipäjuustos finlandais attendent aujourd'hui la protection de leur nom par l'UE : <strong>Pohjalainen leipäjuusto</strong> et <strong>Kainuun juustoleipä</strong> l'ont demandée en 2024. En Suède, le kaffeost a obtenu une appellation d'origine protégée en 2025.",
       "imageAlt": "Une part de leipäjuusto au dessus tacheté de brun sur une planche d'ardoise"
     },
     "variations": {
       "kicker": "Comment le manger",
-      "headline": "Chaud, dans le café ou froid.",
-      "lead": "Le leipäjuusto se prête au sucré comme au salé, chaud ou froid. Voici comment vous le croiserez en Finlande.",
+      "headline": "Dans le café, sur la braise ou dans la crème.",
+      "lead": "Le leipäjuusto se prête au sucré comme au salé, chaud comme froid. Voici comment on le mange dans le Nord, hier comme aujourd'hui.",
       "items": [
         {
           "title": "Dans une tasse de café",
-          "body": "À l'ancienne : des cubes de fromage dans la tasse, du café chaud par-dessus, et on mange à la cuillère. Dans le Tornedalen suédois, on ramollit le fromage de la même façon dans du café bouilli."
+          "body": "La façon la plus ancienne. Les Samis mettaient autrefois le fromage séché dans le bouillon de viande, et quand le café bouilli est arrivé dans le Nord, les morceaux de fromage sont passés dans le café. Dans la vallée de Tornio, côté suédois, on ramollit toujours le fromage dans du café bouilli."
+        },
+        {
+          "title": "Sur la braise",
+          "body": "À Rovaniemi, on cuisait le leipäjuusto sur l'ahjos, la braise rougeoyante, si bien qu'il prenait un goût de fumée. Vous obtenez le même résultat au feu de camp : faites chauffer le fromage sur une planche de bois au bord des braises et retournez-le de temps en temps."
         },
         {
           "title": "Au four, dans la crème",
-          "body": "Réchauffé au four dans la crème jusqu'à devenir fondant, puis servi avec de la confiture de mûre arctique. C'est la version dessert, et la première recette de cette page."
-        },
-        {
-          "title": "À la poêle",
-          "body": "Doré à sec à la poêle, puis glissé dans les salades et les burgers, comme le suggèrent aujourd'hui les laiteries sur l'emballage."
+          "body": "Le fromage réchauffé au four dans la crème jusqu'à ce qu'il ramollisse, avec de la confiture de mûre arctique. C'est le dessert d'aujourd'hui, et la première recette de cette page."
         }
       ]
     },
@@ -2015,7 +2037,7 @@
         },
         {
           "question": "Le leipäjuusto et le juustoleipä, est-ce la même chose ?",
-          "answer": "Oui. Leipäjuusto est le nom finnois standard, et juustoleipä le nom du même fromage dans le Kainuu. Dans la vallée de Tornio, c'est le kahvijuusto, et le kaffeost suédois vient de la même tradition."
+          "answer": "Oui. Leipäjuusto est le nom finnois standard et celui du Peräpohjola, juustoleipä le nom du même fromage dans le Kainuu, et à Salla on a recueilli le nom de kahvijuusto. Dans la vallée de Tornio, côté suédois, c'est le kahvijuusto, en suédois kaffeost."
         },
         {
           "question": "Combien de temps se conserve le leipäjuusto ?",
@@ -2061,7 +2083,7 @@
       "title": "La nouvelle",
       "titleHighlight": "cuisine arctique.",
       "subtitle": "La cuisine moderne de Laponie prend les ingrédients que les Samis utilisent depuis mille ans, renne, poisson de lac, baies et herbes sauvages, et les dresse avec la technique New Nordic. Cette page raconte comment c’est arrivé, et où le goûter.",
-      "imageAlt": "Renne en sauce gibier aux airelles avec purée de navet et cèpes sur une assiette en verre gris, table de restaurant à Helsinki",
+      "imageAlt": "Dessert au chocolat et baies des bois sur une assiette en céramique striée, au Kieppi Kitchen & Bar à Saariselkä, octobre 2026",
       "primaryCta": "Où réserver",
       "secondaryCta": "Les recettes traditionnelles"
     },
@@ -2346,7 +2368,7 @@
       "title": "La Laponie",
       "titleHighlight": "à pleines dents.",
       "subtitle": "Trois expériences culinaires réservables en Laponie : un déjeuner fait maison chez une famille sami d’éleveurs de rennes à Inari, une visite gourmande de cinq restaurants à Rovaniemi et une cueillette de baies à Luosto.",
-      "imageAlt": "Assiette d'entrée avec saumon fumé à chaud, perche fumée et saumon fumé à froid, légumes marinés, sur une assiette noire",
+      "imageAlt": "Corégones blancs frits sur une purée de pommes de terre, avec des cornichons, des dés de betterave et une sauce à tremper, au Riipisen Riistaravintola à Ruka, octobre 2026",
       "primaryCta": "Tout voir sur GetYourGuide"
     },
     "intro": {
@@ -2589,7 +2611,8 @@
     "hero": {
       "kicker": "À propos de LaplandFood",
       "headline": "La cuisine finlandaise, écrite d'ici.",
-      "lead": "LaplandFood parle de la cuisine finlandaise : d'où viennent les produits, ce que la cuisine sámi en fait, ce que signifie la cuisine arctique moderne et où l'on mange vraiment en Laponie. Le site fait partie du réseau LaplandVibes, et la rédaction est indépendante."
+      "lead": "LaplandFood parle de la cuisine finlandaise : d'où viennent les produits, ce que la cuisine sámi en fait, ce que signifie la cuisine arctique moderne et où l'on mange vraiment en Laponie. Le site fait partie du réseau LaplandVibes, et la rédaction est indépendante.",
+      "imageAlt": "Des bûches de bouleau brûlent dans un four à bois en maçonnerie, dans un chalet à Kemijärvi, octobre 2026"
     },
     "why": {
       "headline": "Pourquoi ce site existe.",

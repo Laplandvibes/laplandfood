@@ -16,6 +16,7 @@ const LINGONBERRY: BerryConfig = {
   path: '/lingonberry',
   hero: {
     image: '/images/hero-lingonberry-kemijarvi.webp',
+    layout: 'split',
   },
   taste: {
     image: '/images/lingonberry-kemijarvi.jpg',

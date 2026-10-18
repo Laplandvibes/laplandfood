@@ -4,7 +4,7 @@
     "h1Part1": "WIE FINNLAND",
     "h1Part2": "ISST.",
     "subhead": "Ein Feldführer durch Finnlands Esskultur – woher die Zutaten kommen, wie die Rezepte wirklich schmecken und warum Finnlands Michelin-Szene einen Umweg wert ist.",
-    "imageAlt": "Zutaten aus Lappland von oben auf hellem Holz und Leinen: gebratenes Rentier in einer gusseisernen Pfanne, Schalen mit Moltebeeren, Heidelbeeren und Preiselbeeren, ein ganzer Fisch auf Birkenrinde, Roggenbrot, Pfifferlinge und Wacholder",
+    "imageAlt": "Ein Teller Poronkäristys: fein geschnetzeltes Rentier auf Kartoffelpüree mit Preiselbeeren und Salzgurke",
     "ctaPrimary": "Traditionelle Rezepte entdecken",
     "ctaSecondary": "Was hier wächst"
   },
@@ -169,7 +169,7 @@
       "title": "Was hier",
       "titleHighlight": "wächst.",
       "subtitle": "Sechs Zutaten, die die Vorratskammer Lapplands prägen: woher sie kommen, wann sie am besten sind und wie sie tatsächlich schmecken.",
-      "imageAlt": "Eine weiße Schüssel voller frisch gepflückter Heidelbeeren auf dem Waldboden zwischen Heidelbeersträuchern",
+      "imageAlt": "Cremige Pilzsuppe mit gebratenen Pilzen obenauf und Brot dazu, im Riipisen Riistaravintola in Ruka, Oktober 2026",
       "primaryCta": "Sammelguide",
       "secondaryCta": "Rezepte, in denen sie verwendet werden"
     },
@@ -338,7 +338,7 @@
       "title": "Moltebeere, das sture",
       "titleHighlight": "Gold des Moores.",
       "subtitle": "In Finnland hütet man seine Moltebeerstellen wie Bankdaten. Hier lesen Sie, wie die Beere wirklich schmeckt, warum jede einzelne von Hand gepflückt wird und wo sie Ihnen in Lappland begegnet.",
-      "imageAlt": "Offenes Moor mit reifen, bernsteinfarbenen Moltebeeren im Vordergrund, dahinter weißes Wollgras und ein dunkler Moortümpel",
+      "imageAlt": "Reife orangefarbene Moltebeeren zwischen den niedrigen Pflanzen eines Moores",
       "primaryCta": "Sammeln lernen",
       "secondaryCta": "Alle Zutaten Lapplands",
       "pills": [
@@ -1040,7 +1040,7 @@
       "title": "Sanddorn, oranges Feuer",
       "titleHighlight": "vom Ufer.",
       "subtitle": "Tyrni wächst in den Wäldern des lappländischen Binnenlands überhaupt nicht. Er wächst an den steinigen Ufern des Bottnischen Meerbusens, im Norden bis zur lappländischen Küste bei Tornio, und er ist die sauerste Beere der finnischen Vorratskammer und eine der vitamin-C-reichsten. Hier erfahren Sie, wo er lebt, wie er schmeckt und warum er so schwer zu pflücken ist.",
-      "imageAlt": "Ruhiges Ufer am Bottnischen Meerbusen an einem Juliabend, rechts ein steiniger Strand, jenseits des Wassers eine flache bewaldete Landzunge",
+      "imageAlt": "Sanddornsträucher voller orangefarbener Beeren am Bottnischen Meerbusen bei Billudden in Schweden",
       "primaryCta": "Sammeln lernen",
       "secondaryCta": "Der Beeren-Guide",
       "pills": [
@@ -1118,7 +1118,7 @@
       "p2": "Gewerbliche Anbauer lösen das mit Kälte. Sie schneiden fruchttragende Zweige und frieren sie ein; gefrorene Beeren brechen sauber ab und gehen direkt in die Presse. Deshalb erreicht Sie der meiste Sanddorn auch als Saft, Püree oder Konfitüre und nicht frisch.",
       "p3": "Der Strauch ist zweihäusig: Männliche und weibliche Pflanzen sind getrennt, und nur die weiblichen tragen Früchte, weshalb ein dichter Bestand am Ufer zur Hälfte unfruchtbar sein kann.",
       "p4": "<strong>Für Reisende heißt das: Frischer Sanddorn ist selbst in Finnland selten, aber der Saft steht in jedem Supermarkt.</strong>",
-      "imageAlt": "Sanddornsträucher voller orangefarbener Beeren am Bottnischen Meerbusen bei Billudden in Schweden"
+      "imageAlt": "Reife orangefarbene Sanddornbeeren an einem schmalblättrigen Zweig in Kiikeli, Oulu, im August"
     },
     "price": {
       "kicker": "Vitamin C",
@@ -1532,8 +1532,8 @@
       "eyebrow": "Lapplands Rentiergericht · Poronkäristys",
       "title": "Poronkäristys, Rentier",
       "titleHighlight": "dünn gehobelt, langsam geschmort.",
-      "subtitle": "Rentierfleisch, angefroren in feine Streifen gehobelt, in Butter gebräunt und geschmort, bis es zerfällt, dann auf Kartoffelpüree mit Preiselbeeren und Salzgurke serviert. Hier finden Sie das Rezept der Rentierzüchter selbst, die Ofenvariante, was es kostet und wo Sie es in Lappland bestellen können.",
-      "imageAlt": "Fünf Rentiere auf der Straße im Hochsommer in Kilpisjärvi, Finnisch-Lappland, dahinter ein grüner Fjällhang",
+      "subtitle": "Poronkäristys ist nach einem Geräusch benannt: Das Fett brutzelt, auf Finnisch kärisee, wenn das eisige Rentierfleisch in die Pfanne kommt. Lange bevor Restaurants einen Klassiker daraus machten, war es das Alltagsessen in den Holzfällerlagern und bei den Rentierscheidungen. Hier finden Sie das Rezept, wie es in Lappland gekocht wird, die Ofenvariante, die Beilagen und wo Sie es bestellen können.",
+      "imageAlt": "Poronkäristys, zu Hause gekocht, im eigenen Saft neben Kartoffelpüree auf einem Teller mit Rosenmuster",
       "primaryCta": "Direkt zum Rezept",
       "secondaryCta": "Alle traditionellen Rezepte",
       "pills": [
@@ -1546,62 +1546,62 @@
       ]
     },
     "intro": {
-      "lead": "Der Verband der Rentierzüchter selbst nennt Poronkäristys das vielleicht legendärste aller Rentiergerichte. Die traditionelle Version braucht vier Dinge: Rentierfleisch, Butter, Wasser und Salz.",
+      "lead": "Das Wörterbuch der finnischen Dialekte verzeichnet Käristys als Gericht aus gehobeltem, in der Pfanne gebratenem Rentierfleisch, „vor allem als Alltagsessen der Waldarbeiter“, mit einem Beispiel aus Kemijärvi: „Abends im Holzfällerlager haben wir das Käristys gemacht.“ Für den traditionellen Topf braucht es bis heute nur vier Dinge: Rentierfleisch, Fett, Wasser und Salz.",
       "points": [
         {
           "n": "01",
-          "title": "Angefroren gehobelt",
-          "body": "Das Fleisch wird angefroren gehobelt, bei etwa −6 °C: Dann ist es fest genug für hauchdünne Streifen. In finnischen Geschäften gibt es das Fleisch fertig gehobelt und tiefgefroren."
+          "title": "Gefroren gehobelt",
+          "body": "Sobald der Winterfrost kam, hobelte man das Fleisch nach Bedarf von einem gefrorenen Braten ab. „Da hast du ein Messer, geh und hobel etwas Fleisch ab“, lautet ein in Kittilä aufgezeichnetes Beispiel. Heute verkaufen finnische Geschäfte das Fleisch fertig gehobelt und tiefgefroren."
         },
         {
           "n": "02",
-          "title": "Butter, Wasser, Salz",
-          "body": "Traditionelles Poronkäristys kommt ohne Sahne und ohne Brühe aus. Das Fleisch wird in Butter oder Rentierfett gebräunt und schmort dann mit einem Schuss Wasser unter dem Deckel. Pfeffer kam erst später dazu."
+          "title": "Fett, Wasser, Salz",
+          "body": "Im traditionellen Topf gibt es weder Sahne noch Bier. Gebräunt wird das Fleisch in Butter oder in Rentierfett, von den Züchtern Pinta genannt, danach schmort es mit einem Schuss Wasser unter dem Deckel."
         },
         {
           "n": "03",
-          "title": "Nie ohne Preiselbeeren",
-          "body": "Serviert wird es auf Kartoffelpüree mit Preiselbeeren und Salzgurke. Das Rezept der Rentierzüchter selbst nennt vom Frost geküsste, kaltgerührte Preiselbeeren als beste Beilage."
+          "title": "Preiselbeeren dazu",
+          "body": "Heute kommen Kartoffelpüree, Preiselbeeren und Salzgurke auf den Teller. In den Holzfällerlagern gab es zum Käristys Bratkartoffeln, und der Rentierzüchterverband nennt vom Frost geküsste, kaltgerührte Preiselbeeren die beste Beilage."
         }
       ]
     },
     "recipes": {
       "kicker": "Das Rezept",
       "headline": "Poronkäristys, wie man es zu Hause kocht.",
-      "lead": "Drei Rezepte: der Herdklassiker des Rentierzüchterverbands, die langsamere Ofenvariante für einen größeren Topf und die zwei Beilagen, die dazugehören.",
+      "lead": "Drei Rezepte: Käristys aus der Pfanne, wie man es in Lappland schon immer gemacht hat, eine langsamere Ofenvariante für eine größere Runde und die zwei Beilagen, die auf den Teller gehören.",
       "items": [
         {
           "name": "Traditionelles Poronkäristys",
-          "description": "Die Version der Rentierzüchter: Rentierfleisch, Fett, Wasser und Salz, unter dem Deckel geschmort, bis es zart ist. Pfeffer ist optional, Sahne gehört nicht dazu.",
+          "description": "Rentierfleisch, Fett, Wasser und Salz in einer schweren Pfanne oder einem gusseisernen Topf. Pfeffer ist optional, Sahne gehört nicht dazu.",
           "time": "30–60 Min.",
           "serves": "3–4",
           "level": "Einfach",
           "ingredients": [
-            "500 g tiefgefrorenes Poronkäristys (gehobeltes Rentierfleisch)",
+            "500 g tiefgefrorenes Poronkäristys (gehobeltes Rentierfleisch) oder ein gefrorener Rentierbraten",
             "25 g Butter oder Rentierfett",
             "1 dl Wasser",
             "¾ TL Salz",
             "Frisch gemahlener schwarzer Pfeffer nach Belieben"
           ],
           "instructions": [
-            "Lassen Sie das gefrorene Fleisch im Kühlschrank nur so weit antauen, dass sich der Block auseinanderbrechen lässt; die Scheiben sollen noch eisig sein.",
-            "Zerlassen Sie das Fett bei starker Hitze in einer schweren Pfanne oder einem gusseisernen Topf und geben Sie das Fleisch portionsweise hinein. Lösen Sie die gefrorenen Scheiben dabei mit einem Pfannenwender voneinander.",
-            "Braten Sie das Fleisch, bis es aufgetaut ist, der ausgetretene Saft verkocht ist und es Farbe annimmt.",
+            "Wenn Sie einen ganzen Braten gekauft haben, lassen Sie ihn im Kühlschrank nur so weit antauen, dass ein scharfes Messer eindringt, und hobeln Sie das gefrorene Fleisch dann in möglichst dünne Streifen. Fertig gehobeltes, tiefgefrorenes Käristys wird auf die gleiche Weise in Stücke gebrochen, solange es noch eisig ist.",
+            "Erhitzen Sie das Fett in einer schweren Pfanne oder einem gusseisernen Topf auf der größten Herdplatte, bis es brutzelt. Geben Sie das Fleisch portionsweise hinein und lösen Sie die gefrorenen Streifen mit einem Pfannenwender voneinander.",
+            "Braten Sie das Fleisch, bis es aufgetaut ist, der ausgetretene Saft verkocht ist und die Streifen Farbe annehmen.",
             "Gießen Sie das Wasser an und geben Sie das Salz dazu.",
-            "Schalten Sie die Hitze herunter, legen Sie den Deckel auf und schmoren Sie das Fleisch, bis es zart ist: 10 bis 30 Minuten bei Stücken aus der Keule, bei anderen Stücken länger. Gießen Sie einen Schuss Wasser nach, wenn der Topf trocken wird.",
+            "Schalten Sie die Hitze herunter, legen Sie den Deckel auf und schmoren Sie das Fleisch, bis es zart ist: 10 bis 30 Minuten bei Keulenfleisch, länger bei Schulter und vorderem Rücken. Gießen Sie einen Schuss Wasser nach, wenn der Topf trocken wird.",
             "Schmecken Sie ab, pfeffern Sie nach Belieben und servieren Sie das Fleisch auf Kartoffelpüree mit Preiselbeeren und Salzgurke."
           ],
-          "tip": "Laut Rentierzüchterverband bekommt das Gericht den kräftigsten Geschmack, wenn Sie das Fleisch in Rentierfett braten.",
+          "tip": "Rentierzüchter braten in Pinta, dem Fett, das sich unter der Haut entlang des Rentierrückens ansammelt, und laut Rentierzüchterverband gibt Rentierfett dem Topf den kräftigsten Geschmack. Gehen Sie sparsam mit Gewürzen um. Der Rentierzüchter Hannu Lahtela aus Salla bringt es auf den Punkt: „Rentier soll nach Rentier schmecken.“",
           "imageAlt": "Ein Teller Poronkäristys: fein geschnetzeltes Rentier auf Kartoffelpüree mit Preiselbeeren und Salzgurke"
         },
         {
           "name": "Poronkäristys aus dem Ofen",
-          "description": "Derselbe Topf, bei niedriger Temperatur im Ofen fertig gegart. Das dauert länger, erspart das Rühren und eignet sich für größere Mengen.",
+          "description": "Derselbe Topf, bei niedriger Temperatur im Ofen fertig gegart. Das dauert länger, erspart das Rühren und eignet sich für eine größere Runde.",
           "time": "2–3 Stunden",
           "serves": "6",
           "level": "Einfach",
           "ingredients": [
-            "1 kg tiefgefrorenes Poronkäristys (gehobeltes Rentierfleisch)",
+            "1 kg tiefgefrorenes Poronkäristys",
             "3 EL Butter oder Rentierfett",
             "2 dl Wasser",
             "1½ TL Salz"
@@ -1609,15 +1609,15 @@
           "instructions": [
             "Heizen Sie den Ofen auf 125 °C vor.",
             "Bräunen Sie das Fleisch portionsweise im Fett in einem ofenfesten gusseisernen Topf auf dem Herd an, bis der ausgetretene Saft verkocht ist.",
-            "Geben Sie Wasser und Salz dazu und bringen Sie alles zum Köcheln.",
-            "Legen Sie den Deckel auf und schieben Sie den Topf für 2 bis 3 Stunden in den Ofen, bis das Fleisch zerfällt.",
+            "Geben Sie Wasser und Salz dazu und bringen Sie alles zum Kochen.",
+            "Legen Sie den Deckel auf und schieben Sie den Topf für 2 bis 3 Stunden in den Ofen, bis das Fleisch unter der Gabel zerfällt.",
             "Sehen Sie ein- oder zweimal nach und gießen Sie bei Bedarf einen Schuss Wasser nach. Servieren Sie das Gericht wie die Herdvariante."
           ],
-          "tip": "Veröffentlichte Ofenrezepte reichen von 125 °C für 2 bis 3 Stunden, der Wahl des Rentierzüchterverbands, bis zu 175 oder 200 °C für etwa eine Stunde. Je niedriger die Temperatur, desto länger die Garzeit."
+          "tip": "Veröffentlichte Ofenrezepte reichen von 125 °C für 2 bis 3 Stunden, der Wahl des Rentierzüchterverbands, bis zu 175 oder 200 °C für etwa eine Stunde. Je niedriger die Temperatur, desto länger die Garzeit: Hannu Lahtela lässt Rentierhals über Nacht in der Restwärme des Ofens."
         },
         {
           "name": "Kartoffelpüree und kaltgerührte Preiselbeeren",
-          "description": "Die zwei Beilagen, die den Teller komplett machen: buttriges Kartoffelpüree und Preiselbeeren, roh mit Zucker verrührt.",
+          "description": "Die zwei Beilagen, die den Teller komplett machen: buttriges Kartoffelpüree und rohe Preiselbeeren, mit Zucker verrührt.",
           "time": "30 Min.",
           "serves": "4",
           "level": "Einfach",
@@ -1636,34 +1636,34 @@
             "Verrühren Sie die Preiselbeeren in einer Schüssel mit dem Zucker und lassen Sie sie stehen, während die Kartoffeln kochen. Rühren Sie ab und zu um, bis sich der Zucker aufgelöst hat.",
             "Servieren Sie beides zum Rentier, mit ein paar Scheiben Salzgurke."
           ],
-          "tip": "Finnische Rezepte nehmen für das Püree Puikula, die lange gelbe Kartoffel Lapplands; Lapin Puikula ist seit 1997 eine geschützte Ursprungsbezeichnung der EU."
+          "tip": "In Lappland macht man das Püree am liebsten aus Puikula, der langen gelben Kartoffel mit der geschützten EU-Ursprungsbezeichnung Lapin Puikula. Die Sorte ist an die Bedingungen im Norden angepasst, weiter im Süden lässt ihre Qualität nach."
         }
       ]
     },
     "about": {
       "kicker": "Was es ist",
-      "headline": "Rentier, dünn gehobelt.",
-      "p1": "Poronkäristys ist Rentierfleisch, das angefroren in dünne Streifen gehobelt, in Fett gebräunt und in wenig Wasser weich geschmort wird. Der Rentierzüchterverband nennt die passenden Stücke: Unterschale und Nuss aus der Keule, Schulter und vorderen Rücken.",
-      "p2": "Die meisten finnischen Rentiere werden im Oktober und November geschlachtet, nach mindestens einem halben Jahr, in dem sie sich nur von natürlicher Weide ernährt haben. Das Fleisch ist dunkel und mager, mit 2 bis 4 % Fett.",
-      "p3": "Jenseits der Grenze in Schweden heißt dasselbe Gericht <em>renskav</em>. Rentierfleisch aus dem finnischen Rentierzuchtgebiet trägt seit 2009 eine eigene geschützte Ursprungsbezeichnung der EU, <strong>Lapin Poron liha</strong>: Die Rentiere grasen frei auf Naturweiden, und das Fleisch wird innerhalb des Zuchtgebiets erzeugt, zerlegt und verpackt.",
+      "headline": "Das Essen der Holzfällerlager und Rentierpferche.",
+      "p1": "Poronkäristys ist Rentierfleisch, das gefroren in dünne Streifen gehobelt, in Fett gebräunt und in wenig Wasser weich geschmort wird. Der Name kommt von einem Geräusch: Das finnische <em>käristä</em> bezeichnet das Brutzeln von Fett in der Pfanne. Dialektaufzeichnungen verorten Käristys in Kainuu und in Finnisch-Lappland, und in den Holzfällerlagern hatten die Männer eigens eine Pfanne dafür, die <em>käristyskauha</em>.",
+      "p2": "Bei den Rentierscheidungen, die von Ende September bis in den Januar dauern, werden die Schlachtrentiere aussortiert, und viele Menschen in Lappland kaufen ihr Fleisch noch immer direkt beim Züchter am Pferch oder auf einem Rentierhof. In der Sortierung des Rentierzüchterverbands sind Braten und Filets das Fleisch für „hochwertiges Poronkäristys“, Schulter und vorderer Rücken das für den Alltag. Das Fleisch ist dunkel und mager, mit 2 bis 4 % Fett.",
+      "p3": "In Schweden heißt dasselbe Gericht <em>renskav</em>, in Norwegen <em>finnbiff</em>, dessen erster Wortteil eine alte, heute als abwertend geltende Bezeichnung für die Samen ist. Rentierfleisch aus dem finnischen Rentierzuchtgebiet trägt seit 2009 eine eigene geschützte Ursprungsbezeichnung der EU, <strong>Lapin Poron liha</strong>: Die Rentiere grasen frei auf Naturweiden, und das Fleisch wird innerhalb des Zuchtgebiets erzeugt, zerlegt und verpackt.",
       "imageAlt": "Ein Rentier im tiefen Schnee in einem winterlichen Wald"
     },
     "variations": {
       "kicker": "Varianten",
-      "headline": "Bier, Sahne oder Speck.",
-      "lead": "Der traditionelle Topf kennt vier Zutaten. Alles andere kam später dazu.",
+      "headline": "Von der samischen Kota ins Holzfällerlager.",
+      "lead": "Der traditionelle Topf hat vier Zutaten, doch in den alten Schilderungen aus Lappland wird jeder Topf auf seine eigene Weise gekocht.",
       "items": [
         {
-          "title": "Dunkles Bier",
-          "body": "In den Rezepten von Valio und K-Ruoka schmort das Fleisch in dunklem Bier mit etwas Wasser. Die Fleischer von Rönkä geben zu bedenken, dass es mit Bier, Wein oder Sahne nicht mehr das traditionelle Gericht ist."
+          "title": "In der Kota, mit Schnee",
+          "body": "Auf dem Markt in Rovaniemi kochte 1937 ein samischer Mann in einer Kota Käristys über offenem Feuer, gab etwas Schweinefleisch auf den Boden des Topfes und streute statt Wasser Schnee hinein. Der Autor aus dem Süden, der zu Besuch war, hatte das Gericht noch nie gegessen."
         },
         {
-          "title": "Schwedisches Renskav",
-          "body": "In Schweden ist Renskav meist ein sahniges Ragout mit Pfifferlingen und zerstoßenen Wacholderbeeren, in weniger als 30 Minuten fertig und mit kaltgerührten Preiselbeeren serviert."
+          "title": "Käristys aus dem Holzfällerlager",
+          "body": "In den Holzfällerlagern wurde Käristys abends und morgens in einer Käristyskauha über dem Kaminfeuer der Hütte gekocht, oft mit Salzspeck. Deshalb definiert das Dialektwörterbuch es als Gericht „aus (Rentier-)Fleisch (und Salzspeck)“."
         },
         {
-          "title": "Speck",
-          "body": "Im Rezept von K-Ruoka brät Speck mit dem Rentierfleisch, für zusätzliches Fett und eine rauchige Note."
+          "title": "Sahne, Bier und Renskav",
+          "body": "In den Rezepten der Lebensmittelhändler schmort das Fleisch heute in dunklem Bier oder Sahne, und schwedisches Renskav wird meist mit Sahne, Pfifferlingen und Wacholderbeeren verfeinert. Die Fleischer von Rönkä geben zu bedenken, dass es kein traditionelles Käristys mehr ist, sobald Bier, Wein oder Sahne hineinkommen."
         }
       ]
     },
@@ -1797,14 +1797,14 @@
   },
   "leipajuusto": {
     "title": "Leipäjuusto (Brotkäse): Rezepte und warum er quietscht",
-    "description": "Leipäjuusto, der finnische Brotkäse: warm mit Moltebeerkonfitüre, im Kaffee oder im Salat. Drei Rezepte, Herkunft und warum er an den Zähnen quietscht.",
+    "description": "Leipäjuusto, der finnische Brotkäse: warm mit Moltebeerkonfitüre, im Kaffee oder im Salat. Vier Rezepte, Herkunft und warum er an den Zähnen quietscht.",
     "teaser": "Im Ofen gebräunter frischer Käse, der an den Zähnen quietscht: warm mit Moltebeerkonfitüre, im Kaffee oder im Salat, und wie Sie ihn selbst aus Milch machen.",
     "hero": {
       "eyebrow": "Finnischer Brotkäse · Leipäjuusto",
       "title": "Leipäjuusto, der Käse,",
       "titleHighlight": "der quietscht.",
-      "subtitle": "Ein flacher, frischer Käse aus Finnlands Norden, gebacken, bis er braune Flecken hat, und warm mit Moltebeerkonfitüre gegessen oder in einer Tasse Kaffee eingeweicht. Hier lesen Sie, wie Sie ihn servieren, wie Sie ihn zu Hause aus Milch machen und warum er an den Zähnen quietscht.",
-      "imageAlt": "Ein runder Leipäjuusto mit braunen Flecken in einer dunklen Form, ein Stück herausgeschnitten und mit Moltebeerenmarmelade belegt",
+      "subtitle": "In Lappland heißt er Leipäjuusto, in Salla Kahvijuusto, also Kaffeekäse. Früher wurde er über der Glut geröstet, bis er nach Rauch schmeckte, und zum Kaffee gegessen. Hier finden Sie vier Arten, ihn auf den Tisch zu bringen, eine Anleitung für zu Hause und die Erklärung, warum er an den Zähnen quietscht.",
+      "imageAlt": "Ein frisch gebackener Leipäjuusto mit braunen Flecken auf einem Backblech in Ristijärvi, Kainuu, im August 2026",
       "primaryCta": "Direkt zu den Rezepten",
       "secondaryCta": "Alle traditionellen Rezepte",
       "pills": [
@@ -1817,33 +1817,33 @@
       ]
     },
     "intro": {
-      "lead": "Leipäjuusto ist weder gereift noch geschmolzen. Milch wird mit Lab dickgelegt, zu einem flachen, runden Laib gepresst und gebacken, bis die Oberfläche braune Flecken bekommt, wie bei einem Brot.",
+      "lead": "Leipäjuusto ist weder gereift noch geschmolzen. Die Milch wird dickgelegt, die Käsemasse zu einem flachen, runden Laib gepresst und geröstet, bis die Oberfläche braune Flecken bekommt wie eine Brotkruste.",
       "points": [
         {
           "n": "01",
-          "title": "Gebacken, nicht gereift",
-          "body": "Die Käsemasse wird zu einer 0,5 bis 3 cm dicken Scheibe geformt und von beiden Seiten gebacken, im Ofen, auf dem Grill oder am offenen Feuer. Gegessen wird der Käse innerhalb von Tagen, nicht Monaten."
+          "title": "Am Feuer geröstet",
+          "body": "Das Wörterbuch der finnischen Dialekte definiert Leipäjuusto als dünnen Käse, der am Feuer oder im Ofen geröstet wird. In Rovaniemi wurde er auf Ahjos gebacken, also auf glühender Glut, sodass er nach Rauch schmeckte."
         },
         {
           "n": "02",
-          "title": "Das Quietschen ist echt",
-          "body": "Finnische Akustikforscher testeten 2025 insgesamt 100 Proben: Brotkäse quietschte bei jedem Versuch, Mozzarella bei einem von fünf. Das Geräusch entsteht durch Reibung, wie bei einem Bogen auf einer Saite."
+          "title": "Das Quietschen wurde gemessen",
+          "body": "Finnische Akustikforscher testeten 2025 insgesamt 100 Proben: Leipäjuusto quietschte bei jedem Versuch, Mozzarella nur bei einem von fünf. Das Geräusch entsteht durch Reibung, wie bei einem Bogen auf einer Geigensaite."
         },
         {
           "n": "03",
-          "title": "Moltebeerkonfitüre oder Kaffee",
-          "body": "Die zwei traditionellen Arten, ihn zu essen: warm mit Moltebeerkonfitüre als Dessert oder gewürfelt in einer Tasse heißem Kaffee, mit dem Löffel."
+          "title": "Zuerst in den Kaffee",
+          "body": "Moltebeerkonfitüre ist die moderne Variante. Früher aß man den Käse pur oder in Stücken in einer Tasse Kaffee, und getrockneter, steinharter Käse wurde im Kaffee weich."
         }
       ]
     },
     "recipes": {
       "kicker": "Die Rezepte",
-      "headline": "Drei Arten, ihn auf den Tisch zu bringen.",
-      "lead": "Das warme Dessert, das die meisten Finnen meinen, wenn sie Leipäjuusto sagen, ein Salat für den Alltag und der Käse selbst, aus 4 Litern Milch.",
+      "headline": "Vier Arten, ihn auf den Tisch zu bringen.",
+      "lead": "Warmer Käse mit Moltebeeren, Kaffeekäse, wie man ihn im Norden getrunken hat, der Käse selbst aus vier Litern Milch und ein Salat für den Alltag.",
       "items": [
         {
           "name": "Warmer Leipäjuusto mit Moltebeerkonfitüre",
-          "description": "Das klassische Dessert: Der Käse wird in Sahne weich erwärmt und mit Moltebeerkonfitüre obenauf serviert. In 20 Minuten fertig.",
+          "description": "Der heutige Klassiker: Der Käse wird in Sahne weich erwärmt, darüber kommt löffelweise Moltebeerkonfitüre. In 20 Minuten fertig.",
           "time": "20 Min.",
           "serves": "4",
           "level": "Einfach",
@@ -1860,8 +1860,51 @@
             "Backen Sie alles etwa 15 Minuten, bis die Sahne blubbert und der Käse weich geworden ist.",
             "Verteilen Sie die Moltebeerkonfitüre löffelweise auf dem warmen Käse und servieren Sie sofort."
           ],
-          "tip": "Wenn es schnell gehen muss, erledigen 3 Minuten in der Mikrowelle bei 800 W dasselbe. Sind keine Moltebeeren zu bekommen, passt auch Preiselbeer- oder Heidelbeerkonfitüre.",
-          "imageAlt": "Ein warmes Stück Leipäjuusto mit Marmelade auf einem Teller"
+          "tip": "In Lappland heißt die Beere Hilla, und nach einem in Kolari aufgezeichneten Volksglauben verspricht eine sternklare Silvesternacht einen guten Moltebeersommer. Haben Sie keine Moltebeerkonfitüre, passt auch Preiselbeer- oder Heidelbeerkonfitüre. Wenn es schnell gehen muss, übernimmt die Mikrowelle das Erwärmen: 3 Minuten bei 800 Watt.",
+          "imageAlt": "Ein runder Leipäjuusto mit braunen Flecken in einer dunklen Form, ein Stück herausgeschnitten und mit Moltebeerenmarmelade belegt"
+        },
+        {
+          "name": "Kaffeekäse: Leipäjuusto in einer Tasse Kaffee",
+          "description": "Die älteste Art, Leipäjuusto zu essen: Stücke in die Tasse und heißen, gekochten Kaffee darüber. Der Käse wird weich, das Fett perlt auf der Oberfläche des Kaffees, und die Stücke isst man mit dem Löffel.",
+          "time": "10 Min.",
+          "serves": "2",
+          "level": "Einfach",
+          "ingredients": [
+            "100 g Leipäjuusto",
+            "4 dl Wasser",
+            "4 EL grob gemahlener Kaffee zum Aufkochen",
+            "Nach Belieben ein Stück Würfelzucker"
+          ],
+          "instructions": [
+            "Schneiden Sie den Leipäjuusto in etwa zentimetergroße Würfel oder dünne Streifen und verteilen Sie diese auf zwei Tassen.",
+            "Bringen Sie das Wasser in einem Kaffeekessel zum Kochen, geben Sie den Kaffee hinein und lassen Sie ihn einmal aufkochen.",
+            "Nehmen Sie den Kessel vom Herd und lassen Sie den Kaffeesatz 3 bis 4 Minuten absinken.",
+            "Gießen Sie den heißen Kaffee über den Käse und lassen Sie die Stücke einen Moment weich werden.",
+            "Trinken Sie den Kaffee und essen Sie den Käse mit dem Löffel."
+          ],
+          "tip": "Der Brauch stammt vom getrockneten Käse: Steinharter Käse wurde im Getreide aufbewahrt und im Kaffee aufgeweicht. Im Jahr 1892 berichtete eine finnische Zeitung von einer Reise durch Lappland, wie Rentierkäse statt Sahne in den schwarzen Kaffee kam und das Fett auf der Oberfläche perlte."
+        },
+        {
+          "name": "Hausgemachter Leipäjuusto",
+          "description": "4 Liter Vollmilch, Lab und eine Nacht im Kühlschrank. Der Backofengrill sorgt für die braunen Flecken.",
+          "time": "1 Stunde + über Nacht",
+          "serves": "1 Käse",
+          "level": "Mittel",
+          "ingredients": [
+            "4 l Vollmilch",
+            "1 EL flüssiges Lab",
+            "1 EL Salz"
+          ],
+          "instructions": [
+            "Erwärmen Sie die Milch mit dem Salz auf etwa 36 °C, also handwarm, und rühren Sie dabei, damit nichts am Boden ansetzt.",
+            "Nehmen Sie den Topf vom Herd, rühren Sie das Lab ein und lassen Sie die Milch etwa 30 Minuten ungestört stehen, bis sie dick wird.",
+            "Schneiden Sie die dickgelegte Masse in kleine Würfel und lassen Sie die Molke austreten.",
+            "Heben Sie die Masse in ein mit einem Käsetuch ausgelegtes Sieb und lassen Sie sie über Nacht im Kühlschrank abtropfen.",
+            "Drücken Sie die Masse etwa 2 cm dick in eine flache, runde, ofenfeste Form und gießen Sie die restliche Molke ab.",
+            "Bräunen Sie den Käse unter dem Backofengrill bei 250 bis 275 °C für 5 bis 10 Minuten, bis dunkle Flecken erscheinen."
+          ],
+          "tip": "Früher wurde der Käse auf einem runden Birkenbrett an der Öffnung des Brotofens oder vor der Glut geröstet, und man drehte das Brett, damit der Käse gleichmäßig bräunte. Als beste Milch galt Biestmilch, die erste Milch nach dem Kalben. Zu Hause funktioniert normale Vollmilch gut.",
+          "imageAlt": "Ein runder Juustoleipä-Käse, 1914 von oben fotografiert, schwarz-weiß"
         },
         {
           "name": "Leipäjuusto-Salat",
@@ -1888,56 +1931,35 @@
             "Verrühren Sie Öl, Essig, Honig, Salz und Pfeffer zu einem Dressing.",
             "Mischen Sie die Blätter mit Gurke und Zwiebel, verteilen Sie den warmen Käse, die Beeren und die Kerne darauf und gießen Sie das Dressing darüber."
           ],
-          "tip": "Leipäjuusto behält in der heißen Pfanne seine Form und bräunt deshalb ganz ohne Öl."
-        },
-        {
-          "name": "Hausgemachter Leipäjuusto",
-          "description": "4 Liter Vollmilch, Lab und eine Nacht im Kühlschrank. Der Backofengrill sorgt für die braunen Flecken.",
-          "time": "1 Stunde + über Nacht",
-          "serves": "1 Käse",
-          "level": "Mittel",
-          "ingredients": [
-            "4 l Vollmilch",
-            "1 EL flüssiges Lab",
-            "1 EL Salz"
-          ],
-          "instructions": [
-            "Erwärmen Sie die Milch mit dem Salz auf etwa 36 °C, also handwarm, und rühren Sie dabei, damit nichts am Boden ansetzt.",
-            "Nehmen Sie den Topf vom Herd, rühren Sie das Lab ein und lassen Sie die Milch etwa 30 Minuten ungestört stehen, bis sie dick wird.",
-            "Schneiden Sie die dickgelegte Masse in kleine Würfel und lassen Sie die Molke austreten.",
-            "Heben Sie die Masse in ein mit einem Käsetuch ausgelegtes Sieb und lassen Sie sie über Nacht im Kühlschrank abtropfen.",
-            "Drücken Sie die Masse etwa 2 cm dick in eine flache, runde, ofenfeste Form und gießen Sie die restliche Molke ab.",
-            "Bräunen Sie den Käse unter dem Backofengrill bei 250 bis 275 °C für 5 bis 10 Minuten, bis dunkle Flecken erscheinen."
-          ],
-          "tip": "Der beste Leipäjuusto wurde traditionell aus Biestmilch gemacht, der ersten Milch nach dem Kalben, die reich an Kasein ist. Zu Hause funktioniert normale Vollmilch.",
-          "imageAlt": "Ein runder Juustoleipä-Käse, 1914 von oben fotografiert, schwarz-weiß"
+          "tip": "Leipäjuusto behält in der heißen Pfanne seine Form und bräunt deshalb ganz ohne Öl.",
+          "imageAlt": "Geröstete Leipäjuusto-Würfel auf einem Holzbrett"
         }
       ]
     },
     "about": {
       "kicker": "Was es ist",
-      "headline": "Frischer Käse, gebacken, bis er Flecken hat.",
-      "p1": "Leipäjuusto ist ein ungereifter Käse aus Kuhmilch, die mit Lab dickgelegt wird. Die Käsemasse wird zu einer flachen Scheibe geformt und von beiden Seiten gebacken, bis die Oberfläche dunkle Flecken zeigt, im Ofen, auf dem Grill oder am offenen Feuer. Weil er nicht reift, hält er ab Molkerei 10 bis 14 Tage.",
-      "p2": "Er gehört in den Norden Finnlands. Die meisten Dialektbelege für das Wort Leipäjuusto stammen aus Österbotten und Peräpohjola im Nordwesten, während derselbe Käse in Kainuu Juustoleipä heißt. Im Tornedal an der schwedischen Grenze heißt er Kahvijuusto, also Kaffeekäse, und jenseits des Flusses in Schweden Kaffeost.",
-      "p3": "Der traditionelle Rohstoff war Biestmilch, die erste Milch nach dem Kalben, reich an Kasein, und daraus stellte Juustoportti in Jalasjärvi 1966 den ersten Leipäjuusto für den Handel her. Zwei finnische Varianten warten nun auf einen EU-geschützten Namen: <strong>Pohjalainen leipäjuusto</strong> und <strong>Kainuun juustoleipä</strong> haben ihn 2024 beantragt. In Schweden wurde Kaffeost 2025 zur geschützten Ursprungsbezeichnung.",
+      "headline": "Frischer Käse, am Feuer geröstet.",
+      "p1": "Leipäjuusto ist ein frischer Käse aus dickgelegter Kuhmilch. Die Käsemasse wird zu einem flachen, runden Laib geformt und von beiden Seiten gebacken, bis sie dunkle Flecken zeigt, früher am Feuer oder im Ofen, heute im Ofen einer Molkerei. Weil der Käse nicht reift, hält er ab Molkerei 10 bis 14 Tage.",
+      "p2": "Der Name wechselt von Region zu Region. In Peräpohjola im Nordwesten und in Österbotten heißt er Leipäjuusto, in Kainuu Juustoleipä, und aus Salla ist der Name Kahvijuusto, also Kaffeekäse, belegt. Auf der schwedischen Seite des Tornedals heißt er Kahvijuusto, auf Schwedisch Kaffeost. In Posio nahm man den Käse zu Gebetsversammlungen mit und gab ihn Gästen, die von weit her gekommen waren.",
+      "p3": "Im Norden wurde Käse auch aus Rentiermilch gemacht. In Tornio-Lappland wurden die Rentiere gemolken und aus der Milch Käse hergestellt, in Kemi-Lappland nicht. Die finnische Denkmalbehörde bewahrt eine 1858 geschnitzte Form für Rentiermilchkäse aus Lohiniva in Rovaniemi auf, und in Enontekiö wurden Rentiere noch in den 1940er-Jahren gemolken. Zwei finnische Leipäjuusto-Sorten warten jetzt auf einen EU-Namensschutz: <strong>Pohjalainen leipäjuusto</strong> und <strong>Kainuun juustoleipä</strong> haben ihn 2024 beantragt. In Schweden erhielt Kaffeost 2025 eine geschützte Ursprungsbezeichnung.",
       "imageAlt": "Ein Stück Leipäjuusto mit braun gefleckter Oberseite auf einer Schieferplatte"
     },
     "variations": {
       "kicker": "So isst man ihn",
-      "headline": "Warm, im Kaffee oder kalt.",
-      "lead": "Leipäjuusto passt zu Süßem wie zu Herzhaftem, warm wie kalt. So begegnet er Ihnen in Finnland.",
+      "headline": "Im Kaffee, auf der Glut oder in Sahne.",
+      "lead": "Leipäjuusto passt zu Süßem wie zu Herzhaftem, warm wie kalt. So hat man ihn im Norden gegessen, früher wie heute.",
       "items": [
         {
           "title": "In einer Tasse Kaffee",
-          "body": "Die alte Art: Käsewürfel in die Tasse, heißen Kaffee darüber und mit dem Löffel essen. Im schwedischen Tornedal wird der Käse ebenso in gekochtem Kaffee eingeweicht."
+          "body": "Die älteste Art. Die Samen legten früher getrockneten Käse in Fleischbrühe, und als gekochter Kaffee den Norden erreichte, wanderten die Käsestücke in den Kaffee. Im schwedischen Tornedal wird der Käse bis heute in gekochtem Kaffee eingeweicht."
+        },
+        {
+          "title": "Auf der Glut",
+          "body": "In Rovaniemi wurde Leipäjuusto auf Ahjos gebacken, auf glühender Glut, sodass er nach Rauch schmeckte. Dasselbe gelingt am Lagerfeuer, wenn Sie den Käse auf einem Holzbrett am Rand der Glut erwärmen und ihn ab und zu wenden."
         },
         {
           "title": "In Sahne gebacken",
-          "body": "Im Ofen in Sahne weich erwärmt und dann mit Moltebeerkonfitüre serviert. Das ist die Dessertvariante und das erste Rezept auf dieser Seite."
-        },
-        {
-          "title": "Aus der Pfanne",
-          "body": "In der trockenen Pfanne gebräunt und in Salate und Burger gegeben, wie es die Molkereien heute auf der Packung vorschlagen."
+          "body": "Der Käse wird im Ofen in Sahne weich erwärmt und mit Moltebeerkonfitüre serviert. Das ist das heutige Dessert und das erste Rezept auf dieser Seite."
         }
       ]
     },
@@ -2016,7 +2038,7 @@
         },
         {
           "question": "Ist Leipäjuusto dasselbe wie Juustoleipä?",
-          "answer": "Ja. Leipäjuusto ist der finnische Standardname, Juustoleipä der Name, den derselbe Käse in Kainuu trägt. Im Tornedal heißt er Kahvijuusto, und der schwedische Kaffeost stammt aus derselben Tradition."
+          "answer": "Ja. Leipäjuusto ist der finnische Standardname und der Name in Peräpohjola, Juustoleipä der Name, den derselbe Käse in Kainuu trägt, und aus Salla ist der Name Kahvijuusto belegt. Im schwedischen Tornedal heißt er Kahvijuusto, auf Schwedisch Kaffeost."
         },
         {
           "question": "Wie lange hält sich Leipäjuusto?",
@@ -2062,7 +2084,7 @@
       "title": "Die neue",
       "titleHighlight": "arktische Küche.",
       "subtitle": "Die moderne Küche Lapplands nimmt die Zutaten, die die Sámi seit tausend Jahren nutzen, Rentier, Süßwasserfisch, Wildbeeren und Kräuter, und richtet sie mit New-Nordic-Technik an. Diese Seite erzählt, wie es dazu kam und wo man es schmecken kann.",
-      "imageAlt": "Rentier in Preiselbeer-Wildsauce mit Rübenpüree und Steinpilzen auf einem grauen Glasteller, Restauranttisch in Helsinki",
+      "imageAlt": "Schokoladendessert mit Waldbeeren auf einem gerillten Keramikteller im Kieppi Kitchen & Bar in Saariselkä, Oktober 2026",
       "primaryCta": "Wo reservieren",
       "secondaryCta": "Traditionelle Rezepte"
     },
@@ -2347,7 +2369,7 @@
       "title": "Essen Sie sich",
       "titleHighlight": "durch Lappland.",
       "subtitle": "Drei buchbare Genusserlebnisse in Lappland: ein hausgemachtes Mittagessen bei einer samischen Rentierzüchterfamilie in Inari, eine Food-Tour durch fünf Restaurants in Rovaniemi und eine Beerentour in Luosto.",
-      "imageAlt": "Vorspeisenteller mit heißgeräuchertem Lachs, geräuchertem Barsch und kaltgeräuchertem Lachs mit eingelegtem Gemüse auf einem schwarzen Teller",
+      "imageAlt": "Gebratene Kleine Maränen auf Kartoffelpüree mit Salzgurke, gewürfelter Roter Bete und einem Dip im Riipisen Riistaravintola in Ruka, Oktober 2026",
       "primaryCta": "Alle über GetYourGuide durchsehen"
     },
     "intro": {
@@ -2590,7 +2612,8 @@
     "hero": {
       "kicker": "Über LaplandFood",
       "headline": "Finnisches Essen, von hier oben geschrieben.",
-      "lead": "LaplandFood handelt vom finnischen Essen: woher die Zutaten kommen, was die samische Küche daraus macht, was moderne arktische Küche bedeutet und wo man in Lappland wirklich isst. Die Seite gehört zum LaplandVibes-Netzwerk, die Redaktion ist unabhängig."
+      "lead": "LaplandFood handelt vom finnischen Essen: woher die Zutaten kommen, was die samische Küche daraus macht, was moderne arktische Küche bedeutet und wo man in Lappland wirklich isst. Die Seite gehört zum LaplandVibes-Netzwerk, die Redaktion ist unabhängig.",
+      "imageAlt": "Birkenscheite brennen in einem gemauerten Holzofen in einer Hütte in Kemijärvi, Oktober 2026"
     },
     "why": {
       "headline": "Warum es diese Seite gibt.",

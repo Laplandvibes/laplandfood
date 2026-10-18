@@ -49,7 +49,7 @@ export default function ForagingGuide() {
           subtitle={t('foragingGuide.hero.subtitle')}
           imageUrl="/images/hero-foraging.jpg"
           imageSrcSet="/images/hero-foraging-1280.jpg 1280w, /images/hero-foraging.jpg 2400w"
-          scrim="strong"
+          layout="split"
           imageAlt={t('foragingGuide.hero.imageAlt')}
           primaryCta={{ label: t('foragingGuide.hero.primaryCta'), href: to('/food-tours') }}
           secondaryCta={{ label: t('foragingGuide.hero.secondaryCta'), href: to('/local-ingredients') }}

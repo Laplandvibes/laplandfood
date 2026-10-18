@@ -4,7 +4,7 @@
     "h1Part1": "Pohjoisen puhtaat",
     "h1Part2": "maut.",
     "subhead": "Kenttäopas suomalaiseen ruokakulttuuriin, mistä raaka-aineet tulevat, miltä reseptit oikeasti maistuvat ja miksi Suomen Michelin-skene on kiertotien arvoinen.",
-    "imageAlt": "Lapin raaka-aineita ylhäältä kuvattuna vaalealla puulla ja pellavalla: poronkäristystä valurautapannussa, kulhoissa lakkaa, mustikkaa ja puolukkaa, kokonainen kala tuohen päällä, ruisleipää, kantarelleja ja katajaa",
+    "imageAlt": "Lautasellinen poronkäristystä: ohueksi leikattua poroa perunamuusin päällä, puolukoita ja suolakurkkua",
     "ctaPrimary": "Selaa perinnereseptejä",
     "ctaSecondary": "Mitä täällä kasvaa"
   },
@@ -169,7 +169,7 @@
       "title": "Mitä täällä",
       "titleHighlight": "kasvaa.",
       "subtitle": "Kuusi raaka-ainetta, jotka määrittävät Lapin ruokavaraston: mistä ne tulevat, milloin ne ovat parhaimmillaan ja miltä ne oikeasti maistuvat.",
-      "imageAlt": "Valkoinen kulho täynnä vastapoimittuja mustikoita metsän pohjalla mustikanvarpujen keskellä",
+      "imageAlt": "Kermainen sienikeitto paistettujen sienten kanssa ja leipä Riipisen Riistaravintolassa Rukalla, lokakuu 2026",
       "primaryCta": "Keräilyopas",
       "secondaryCta": "Reseptit, joissa näitä käytetään"
     },
@@ -338,7 +338,7 @@
       "title": "Hilla, suon",
       "titleHighlight": "itsepäinen kulta.",
       "subtitle": "Hillapaikkoja varjellaan Suomessa kuin pankkitunnuksia. Tällä sivulla kerromme, miltä marja oikeasti maistuu, miksi jokainen hilla poimitaan käsin ja missä sen kohtaa Lapissa.",
-      "imageAlt": "Avoin suo: etualalla kypsiä meripihkanvärisiä lakkoja, takana valkoista tupasvillaa ja tumma suolampi",
+      "imageAlt": "Kypsiä oransseja hilloja suolla matalan kasvillisuuden keskellä",
       "primaryCta": "Opettele keräämään",
       "secondaryCta": "Kaikki Lapin raaka-aineet",
       "pills": [
@@ -1040,7 +1040,7 @@
       "title": "Tyrni, oranssia tulta",
       "titleHighlight": "rannalta.",
       "subtitle": "Tyrni ei kasva Lapin sisämaan metsissä lainkaan. Se kasvaa Pohjanlahden kivisillä rannoilla, pohjoisessa Lapin rannikolle Tornioon asti, ja se on suomalaisen ruokavaraston happamin marja ja yksi sen C-vitamiinirikkaimmista. Tässä on, missä se elää, miltä se maistuu ja miksi sen poimiminen on niin vaikeaa.",
-      "imageAlt": "Tyyni Perämeren ranta heinäkuun iltana, oikealla kivikkoranta ja veden takana matala metsäinen niemi",
+      "imageAlt": "Oranssien marjojen painamia tyrnipensaita Pohjanlahden rannalla Billuddenissa Ruotsissa",
       "primaryCta": "Opettele poimimaan",
       "secondaryCta": "Marjaopas",
       "pills": [
@@ -1118,7 +1118,7 @@
       "p2": "Kaupalliset viljelijät ratkaisevat sen kylmällä. He leikkaavat hedelmäoksat ja pakastavat ne; pakastetut marjat napsahtavat irti siististi ja menevät suoraan puristimeen. Siksi myös suurin osa tyrnistä päätyy sinulle mehuna, soseena tai hillona eikä tuoreena.",
       "p3": "Pensas on kaksikotinen: koiras- ja naaraskasvit ovat erillisiä, ja vain naaraat tekevät hedelmää, ja siksi tiheä kasvusto rannalla voi olla puoliksi hedelmätön.",
       "p4": "<strong>Matkailijalle tämä tarkoittaa: tuore tyrni on harvinaista Suomessakin, mutta mehua on jokaisessa ruokakaupassa.</strong>",
-      "imageAlt": "Oranssien marjojen painamia tyrnipensaita Pohjanlahden rannalla Billuddenissa Ruotsissa"
+      "imageAlt": "Kypsiä oransseja tyrnimarjoja kapealehtisellä oksalla Kiikelissä Oulussa elokuussa"
     },
     "price": {
       "kicker": "C-vitamiini",
@@ -1532,8 +1532,8 @@
       "eyebrow": "Lapin pororuoka · Poronkäristys",
       "title": "Poronkäristys, ohueksi vuoltu",
       "titleHighlight": "ja hitaasti haudutettu.",
-      "subtitle": "Kohmeisena ohueksi vuoltu poronliha ruskistetaan voissa ja haudutetaan, kunnes se hajoaa haarukalla, ja syödään perunamuusin, puolukoiden ja suolakurkun kanssa. Tässä poromiesten oma ohje, uuniversio, hinta ja paikat, joista sitä saa Lapissa.",
-      "imageAlt": "Viisi poroa kävelee tiellä keskikesällä Kilpisjärvellä Suomen Lapissa, taustalla vihreä tunturinrinne",
+      "subtitle": "Käristys on saanut nimensä äänestä: rasva kärisee pannussa, kun jäinen poronliha osuu siihen. Se oli savottojen ja poroerotusten arkiruokaa ennen kuin siitä tuli ravintoloiden klassikko. Tässä ohje sellaisena kuin sitä Lapissa tehdään, uuniversio, lisukkeet ja paikat, joista sitä saa.",
+      "imageAlt": "Kotona tehtyä poronkäristystä liemessään perunamuusin vieressä ruusukuvioisella lautasella",
       "primaryCta": "Suoraan ohjeeseen",
       "secondaryCta": "Kaikki perinnereseptit",
       "pills": [
@@ -1546,57 +1546,57 @@
       ]
     },
     "intro": {
-      "lead": "Paliskuntain yhdistys kutsuu poronkäristystä pororuokien ehkä legendaarisimmaksi muodoksi. Perinteinen versio tarvitsee neljä asiaa: poronlihaa, voita, vettä ja suolaa.",
+      "lead": "Suomen murteiden sanakirja kirjaa käristyksen suikaloidusta poronlihasta paistetuksi ruoaksi, ”etenkin metsätyömiesten arkiruokana”, ja esimerkki on Kemijärveltä: ”Tukkikämpällä illalla tehtihin se käristys.” Perinteiseen pataan tarvitaan yhä vain neljä asiaa: poronlihaa, rasvaa, vettä ja suolaa.",
       "points": [
         {
           "n": "01",
-          "title": "Vuollaan kohmeisena",
-          "body": "Liha vuollaan kohmeisena, noin −6-asteisena, jolloin se on tarpeeksi kiinteää ohuiksi lastuiksi. Kaupasta sen saa valmiiksi vuoltuna ja pakastettuna."
+          "title": "Vuollaan jäisestä",
+          "body": "Kun pakkaset tulivat, jäisestä paistista vuoltiin lihaa sitä mukaa kuin sitä tarvittiin. ”Tuossa on sulle puukko, mene ja vuolase lihaa”, kuuluu Kittilästä kirjattu esimerkki. Nykyään kaupasta saa valmiiksi vuollun, pakastetun käristyksen."
         },
         {
           "n": "02",
-          "title": "Voi, vesi ja suola",
-          "body": "Perinteisessä poronkäristyksessä ei ole kermaa eikä lihalientä. Liha ruskistetaan voissa tai poron rasvassa ja haudutetaan kannen alla tilkassa vettä. Pippuri tuli mukaan vasta myöhemmin."
+          "title": "Rasva, vesi ja suola",
+          "body": "Perinteisessä padassa ei ole kermaa eikä olutta. Liha ruskistetaan voissa tai poron rasvassa, jota poromiehet kutsuvat pinnaksi, ja haudutetaan kannen alla tilkassa vettä."
         },
         {
           "n": "03",
-          "title": "Aina puolukan kanssa",
-          "body": "Käristys syödään perunamuusin, puolukoiden ja suolakurkun kanssa. Poromiesten oma ohje nimeää parhaaksi lisukkeeksi pakkasen hellästi puraiseman puolukkasurvoksen."
+          "title": "Puolukka vieressä",
+          "body": "Nykyinen lautanen on perunamuusi, puolukat ja suolakurkku. Tukkikämpillä käristyksen kanssa paistettiin perunoita, ja Paliskuntain yhdistys nimeää parhaaksi lisukkeeksi pakkasen hellästi puraiseman puolukkasurvoksen."
         }
       ]
     },
     "recipes": {
       "kicker": "Ohje",
       "headline": "Poronkäristys kotikonstein.",
-      "lead": "Kolme ohjetta: Paliskuntain yhdistyksen liesiversio, hitaampi uuniversio isommalle kattilalle ja ne kaksi lisuketta, jotka kuuluvat samalle lautaselle.",
+      "lead": "Kolme ohjetta: käristys pannulla niin kuin sitä Lapissa on aina tehty, hitaampi uuniversio isommalle porukalle ja lautasen kaksi lisuketta.",
       "items": [
         {
           "name": "Perinteinen poronkäristys",
-          "description": "Poromiesten versio: poronliha, rasva, vesi ja suola haudutettuna kannen alla mureaksi. Pippuri on valinnainen, kerma ei kuulu tähän.",
+          "description": "Poronliha, rasva, vesi ja suola paksupohjaisessa pannussa tai valurautapadassa. Pippuri on valinnainen, kerma ei kuulu tähän.",
           "time": "30–60 min",
           "serves": "3–4",
           "level": "Helppo",
           "ingredients": [
-            "500 g pakastettua poronkäristystä",
+            "500 g pakastettua poronkäristystä tai jäistä poronpaistia",
             "25 g voita tai poron rasvaa",
             "1 dl vettä",
             "¾ tl suolaa",
             "vastajauhettua mustapippuria halutessasi"
           ],
           "instructions": [
-            "Anna pakasteen pehmetä jääkaapissa vain sen verran, että möhkäle irtoaa paloiksi. Lastujen pitää olla yhä jäisiä.",
-            "Sulata rasva paksupohjaisessa pannussa tai valurautapadassa kovalla lämmöllä ja lisää liha erissä. Irrota jäiset lastut toisistaan lastalla.",
-            "Paista, kunnes liha on sulanut, neste on haihtunut ja liha alkaa ruskistua.",
+            "Jos ostit kokonaisen paistin, anna sen pehmetä jääkaapissa vain sen verran, että terävä puukko uppoaa siihen, ja vuole jäisestä lihasta mahdollisimman ohuita lastuja. Valmis käristyspakaste irrotetaan paloiksi samalla tavalla jäisenä.",
+            "Kuumenna rasva paksupohjaisessa pannussa tai valurautapadassa lieden isoimmalla levyllä, kunnes se kärisee. Lisää liha erissä ja irrota jäiset lastut toisistaan lastalla.",
+            "Paista, kunnes liha on sulanut, neste on haihtunut ja lastut alkavat ruskistua.",
             "Kaada joukkoon vesi ja lisää suola.",
-            "Laske lämpöä, nosta kansi päälle ja hauduta, kunnes liha on mureaa: paistilihasta 10–30 minuuttia, muista paloista pidempään. Lisää tilkka vettä, jos pohja kuivuu.",
+            "Laske lämpöä, nosta kansi päälle ja hauduta, kunnes liha on mureaa: paistista 10–30 minuuttia, lavasta ja etuselästä pidempään. Lisää tilkka vettä, jos pohja kuivuu.",
             "Maista, lisää halutessasi pippuria ja tarjoa perunamuusin, puolukoiden ja suolakurkun kanssa."
           ],
-          "tip": "Paliskuntain yhdistyksen mukaan voimakkain maku tulee, kun paistorasvana käyttää poron kuuta eli poron rasvaa.",
+          "tip": "Poromiehet paistavat pinnassa, poron selän päälle nahan alle kertyneessä rasvassa, ja Paliskuntain yhdistyksen mukaan poron rasva antaa padalle voimakkaimman maun. Mausteiden kanssa ollaan säästeliäitä. Sallalainen poromies Hannu Lahtela sanoo sen lyhyesti: ”Poron pitää maistua porolta.”",
           "imageAlt": "Lautasellinen poronkäristystä: ohueksi leikattua poroa perunamuusin päällä, puolukoita ja suolakurkkua"
         },
         {
           "name": "Poronkäristys uunissa",
-          "description": "Sama pata viimeistellään matalassa uunissa. Se vie pidempään, ei vaadi sekoittelua ja sopii isommalle määrälle.",
+          "description": "Sama pata viimeistellään matalassa uunissa. Se vie pidempään, ei vaadi sekoittelua ja sopii isommalle porukalle.",
           "time": "2–3 tuntia",
           "serves": "6",
           "level": "Helppo",
@@ -1613,7 +1613,7 @@
             "Nosta kansi päälle ja siirrä pata uuniin 2–3 tunniksi, kunnes liha hajoaa haarukalla.",
             "Tarkista kerran tai kahdesti ja lisää tilkka vettä tarvittaessa. Tarjoa kuten liesiversio."
           ],
-          "tip": "Julkaistut uuniohjeet vaihtelevat Paliskuntain yhdistyksen 125 asteesta ja 2–3 tunnista 175 tai 200 asteeseen noin tunniksi. Mitä matalampi lämpö, sitä pidempi aika."
+          "tip": "Julkaistut uuniohjeet vaihtelevat Paliskuntain yhdistyksen 125 asteesta ja 2–3 tunnista 175 tai 200 asteeseen noin tunniksi. Mitä matalampi lämpö, sitä pidempi aika: Hannu Lahtela jättää poron kaulan uuniin yön yli jälkilämpöön."
         },
         {
           "name": "Perunamuusi ja puolukkasurvos",
@@ -1636,34 +1636,34 @@
             "Sekoita puolukat ja sokeri kulhossa ja anna seistä perunoiden kiehuessa. Sekoita välillä, kunnes sokeri on sulanut.",
             "Tarjoa molemmat käristyksen kanssa muutaman suolakurkkuviipaleen kera."
           ],
-          "tip": "Suomalaisissa ohjeissa muusi tehdään puikulasta, Lapin pitkästä keltaisesta perunasta. Lapin Puikula on ollut EU:n suojattu alkuperänimitys vuodesta 1997."
+          "tip": "Lapissa muusi tehdään mieluiten puikulasta, pitkästä keltaisesta perunasta, jolla on EU:n suojattu alkuperänimitys Lapin Puikula. Lajike on sopeutunut pohjoisiin oloihin, ja etelämpänä sen laatu heikkenee."
         }
       ]
     },
     "about": {
       "kicker": "Mitä se on",
-      "headline": "Poroa ohuina lastuina.",
-      "p1": "Poronkäristys on kohmeisena ohuiksi lastuiksi vuoltua poronlihaa, joka ruskistetaan rasvassa ja haudutetaan tilkassa vettä mureaksi. Paliskuntain yhdistys nimeää siihen sopivat palat: ulko- ja kulmapaisti, lapa ja etuselkä.",
-      "p2": "Valtaosa Suomen poroista teurastetaan loka–marraskuussa, kun ne ovat eläneet vähintään puoli vuotta pelkällä luonnon ravinnolla. Liha on tummaa ja vähärasvaista, rasvaa on 2–4 %.",
-      "p3": "Rajan takana Ruotsissa sama ruoka on <em>renskav</em>. Suomen poronhoitoalueen poronlihalla on oma EU:n suojattu alkuperänimitys, <strong>Lapin Poron liha</strong>, vuodesta 2009: porot laiduntavat vapaasti luonnonlaitumilla, ja liha tuotetaan, leikataan ja pakataan poronhoitoalueella.",
+      "headline": "Savotan ja erotusaidan ruoka.",
+      "p1": "Poronkäristys on jäisenä ohuiksi lastuiksi vuoltua poronlihaa, joka ruskistetaan rasvassa ja haudutetaan tilkassa vettä mureaksi. Nimi tulee äänestä: <em>käristä</em> tarkoittaa rasvan ritinää pannulla. Murresanakirjaan käristys on kirjattu Kainuusta, Peräpohjolasta ja Länsipohjasta, ja savotoilla tukkilaisilla oli sitä varten oma pannu, käristyskauha.",
+      "p2": "Teurasporot erotetaan poroerotuksissa, jotka kestävät syyskuun lopulta tammikuuhun, ja moni lappilainen ostaa lihansa yhä suoraan poromieheltä erotusaidalta tai porotilalta. Paliskuntain yhdistyksen lajitelmissa paistit ja fileet ovat ”korkeatasoisen poronkäristyksen” lihaa, lapa ja etuselkä arkisemman. Liha on tummaa ja vähärasvaista, rasvaa on 2–4 %.",
+      "p3": "Ruotsissa sama ruoka on <em>renskav</em> ja Norjassa <em>finnbiff</em>; jälkimmäisen alkuosa on vanha, nykyään halventavana pidetty nimitys saamelaisille. Suomen poronhoitoalueen lihalla on oma EU:n suojattu alkuperänimitys, <strong>Lapin Poron liha</strong>, vuodesta 2009: porot laiduntavat vapaasti luonnonlaitumilla, ja liha tuotetaan, leikataan ja pakataan poronhoitoalueella.",
       "imageAlt": "Poro seisoo syvässä lumessa talvisessa metsässä"
     },
     "variations": {
       "kicker": "Muunnelmat",
-      "headline": "Olut, kerma vai pekoni.",
-      "lead": "Perinteisessä padassa on neljä ainesta. Kaikki muu on tullut myöhemmin.",
+      "headline": "Kodasta tukkikämpälle.",
+      "lead": "Perinteisessä padassa on neljä ainesta, mutta Lapin vanhoissa kuvauksissa jokaisella padalla on oma tapansa.",
       "items": [
         {
-          "title": "Tumma olut",
-          "body": "Valio ja K-Ruoka hauduttavat lihan tummassa oluessa ja tilkassa vettä. Röngän lihamestarit muistuttavat, että oluen, viinin tai kerman jälkeen ei enää puhuta perinteisestä käristyksestä."
+          "title": "Kodassa, lumella",
+          "body": "Rovaniemen markkinoilla vuonna 1937 saamelaismies teki käristystä kodassa avotulen päällä, pani pohjalle vähän sianlihaa ja sirotteli kiehuvaan pataan lunta veden sijasta. Etelästä tullut kirjoittaja ei ollut syönyt ruokaa koskaan."
         },
         {
-          "title": "Ruotsalainen renskav",
-          "body": "Ruotsissa renskav on yleensä kermainen pata kanttarellien ja murskattujen katajanmarjojen kanssa. Se valmistuu alle 30 minuutissa ja tarjotaan puolukkasurvoksen kanssa."
+          "title": "Tukkikämpän käristys",
+          "body": "Savotoilla käristys tehtiin käristyskauhassa kämpän piisin tulella iltaisin ja aamuisin, usein silavan kanssa. Siksi murresanakirjan määritelmässä lukee ”(poron)lihasta (ja silavasta)”."
         },
         {
-          "title": "Pekoni",
-          "body": "K-Ruoan ohjeessa pekoni paistetaan poronlihan kanssa, jolloin pataan tulee lisää rasvaa ja savun makua."
+          "title": "Kerma, olut ja renskav",
+          "body": "Kauppojen ohjeissa liha haudutetaan nykyään tummassa oluessa tai kermassa, ja ruotsalainen renskav viimeistellään yleensä kermalla, kanttarelleilla ja katajanmarjoilla. Röngän lihamestarit muistuttavat, että oluen, viinin tai kerman jälkeen ei enää puhuta perinteisestä käristyksestä."
         }
       ]
     },
@@ -1803,8 +1803,8 @@
       "eyebrow": "Suomalainen perinnejuusto · Leipäjuusto",
       "title": "Leipäjuusto, juusto",
       "titleHighlight": "joka narisee.",
-      "subtitle": "Pohjoisen litteä tuorejuusto, joka paistetaan ruskeapilkulliseksi ja syödään lämpimänä lakkahillon kanssa tai kahviin pehmitettynä. Tässä kolme tapaa tarjota se, ohje kotitekoiseen ja selitys sille, miksi se narisee hampaissa.",
-      "imageAlt": "Pyöreä ruskeatäpläinen leipäjuusto tummassa vuoassa, yksi pala leikattu ja päällä lakkahilloa",
+      "subtitle": "Lapissa se on leipäjuusto ja Sallassa kahvijuusto. Ennen se paistettiin hehkuvalla hiilloksella niin, että se maistui savulta, ja syötiin kahvin kanssa. Tässä neljä tapaa tuoda se pöytään, ohje kotitekoiseen ja selitys sille, miksi se narisee hampaissa.",
+      "imageAlt": "Juuri paistettu leipäjuusto ruskeine pilkkuineen uunipellillä Ristijärvellä Kainuussa elokuussa 2026",
       "primaryCta": "Suoraan resepteihin",
       "secondaryCta": "Kaikki perinnereseptit",
       "pills": [
@@ -1817,12 +1817,12 @@
       ]
     },
     "intro": {
-      "lead": "Leipäjuustoa ei kypsytetä eikä sulateta. Maito juoksutetaan, juustomassa painetaan litteäksi kiekoksi ja paistetaan, kunnes pinta ruskistuu pilkuille kuin leivän kuori.",
+      "lead": "Leipäjuustoa ei kypsytetä eikä sulateta. Maito juoksutetaan, juustomassa painetaan litteäksi kiekoksi ja paahdetaan, kunnes pinta ruskistuu pilkuille kuin leivän kuori.",
       "points": [
         {
           "n": "01",
-          "title": "Paistettu, ei kypsytetty",
-          "body": "Juustomassa muotoillaan 0,5–3 cm paksuksi kiekoksi ja paistetaan molemmin puolin uunissa, grillissä tai avotulen ääressä. Se syödään päivissä, ei kuukausissa."
+          "title": "Paahdettu tulen loimussa",
+          "body": "Murresanakirja määrittelee leipäjuuston ohueksi juustoksi, joka on kypsytetty tulen loimussa tai uunissa. Rovaniemellä sitä paistettiin ahjoksella eli hehkuvalla hiilloksella, niin että se maistui savulta."
         },
         {
           "n": "02",
@@ -1831,19 +1831,19 @@
         },
         {
           "n": "03",
-          "title": "Lakkahilloa tai kahvia",
-          "body": "Kaksi perinteistä tapaa: lämpimänä lakkahillon kanssa jälkiruokana tai kuutioina kahvikupissa, kuuman kahvin kanssa lusikalla syöden."
+          "title": "Ensin kahviin",
+          "body": "Lakkahillo on nykytapa. Ennen juusto syötiin sellaisenaan tai paloina kahvikupissa, ja kuivattu, kivikova juusto pehmeni kahvissa."
         }
       ]
     },
     "recipes": {
       "kicker": "Reseptit",
-      "headline": "Kolme tapaa tuoda se pöytään.",
-      "lead": "Lämmin jälkiruoka, jota useimmat tarkoittavat leipäjuustolla, arkinen salaatti ja itse juusto 4 litrasta maitoa.",
+      "headline": "Neljä tapaa tuoda se pöytään.",
+      "lead": "Lämmin juusto hillan kanssa, kahvijuusto niin kuin sitä pohjoisessa on juotu, itse juusto neljästä litrasta maitoa ja arkinen salaatti.",
       "items": [
         {
           "name": "Lämmin leipäjuusto ja lakkahillo",
-          "description": "Klassinen jälkiruoka: juusto lämmitetään kermassa pehmeäksi ja päälle lusikoidaan lakkahilloa. Valmis 20 minuutissa.",
+          "description": "Nykyajan klassikko: juusto lämmitetään kermassa pehmeäksi ja päälle lusikoidaan lakkahilloa. Valmis 20 minuutissa.",
           "time": "20 min",
           "serves": "4",
           "level": "Helppo",
@@ -1860,8 +1860,51 @@
             "Paista noin 15 minuuttia, kunnes kerma kuplii ja juusto on pehmennyt.",
             "Lusikoi lakkahillo lämpimän juuston päälle ja tarjoa heti."
           ],
-          "tip": "Kiireessä mikro hoitaa saman: 3 minuuttia 800 watin teholla. Jos lakkaa ei ole, puolukka- tai mustikkahillo käy myös.",
-          "imageAlt": "Lämmin pala leipäjuustoa ja hilloa lautasella"
+          "tip": "Lapissa marja on hilla, ja Kolarista on kirjattu uskomus, että tähtikirkas uudenvuodenyö lupaa hyvän hillakesän. Jos hillaa ei ole, puolukka- tai mustikkahillo käy myös. Kiireessä mikro hoitaa lämmityksen: 3 minuuttia 800 watin teholla.",
+          "imageAlt": "Pyöreä ruskeatäpläinen leipäjuusto tummassa vuoassa, yksi pala leikattu ja päällä lakkahilloa"
+        },
+        {
+          "name": "Kahvijuusto: leipäjuusto kahvikupissa",
+          "description": "Vanhin tapa syödä leipäjuustoa: paloja kuppiin ja kuumaa keitettyä kahvia päälle. Juusto pehmenee, rasva helmeilee kahvin pinnalla, ja palat syödään lusikalla.",
+          "time": "10 min",
+          "serves": "2",
+          "level": "Helppo",
+          "ingredients": [
+            "100 g leipäjuustoa",
+            "4 dl vettä",
+            "4 rkl karkeaksi jauhettua keittokahvia",
+            "sokeripala halutessasi"
+          ],
+          "instructions": [
+            "Leikkaa leipäjuusto noin sentin kuutioiksi tai ohuiksi liuskoiksi ja jaa palat kahteen kuppiin.",
+            "Kiehauta vesi kahvipannussa, lisää kahvi ja anna kiehahtaa kerran.",
+            "Nosta pannu liedeltä ja anna porojen laskeutua pohjalle 3–4 minuuttia.",
+            "Kaada kuuma kahvi juuston päälle ja anna palojen pehmetä hetki.",
+            "Juo kahvi ja syö juustopalat lusikalla."
+          ],
+          "tip": "Tapa on kuivatun juuston perintöä: kivikova juusto säilytettiin viljan seassa ja pehmennettiin kahvissa. Vuonna 1892 lehti kertoi Lapin-matkalta, miten poronjuustoa pantiin mustaan kahviin kerman asemesta ja rasva helmeili pinnalla."
+        },
+        {
+          "name": "Kotitekoinen leipäjuusto",
+          "description": "4 litraa täysmaitoa, juoksutetta ja yö jääkaapissa. Uunin grillivastus antaa ruskeat pilkut.",
+          "time": "1 tunti + yö",
+          "serves": "1 juusto",
+          "level": "Keskivaikea",
+          "ingredients": [
+            "4 l täysmaitoa",
+            "1 rkl juoksutetta",
+            "1 rkl suolaa"
+          ],
+          "instructions": [
+            "Lämmitä maito ja suola noin 36-asteiseksi eli kädenlämpöiseksi. Sekoita, ettei pohja pala.",
+            "Nosta kattila liedeltä, sekoita joukkoon juoksute ja anna seistä liikuttamatta noin 30 minuuttia, kunnes maito hyytyy.",
+            "Leikkaa hyytynyt massa pieniksi kuutioiksi ja anna heran erottua.",
+            "Nosta massa harsolla vuorattuun siivilään ja anna valua jääkaapissa yön yli.",
+            "Painele massa noin 2 cm paksuksi kiekoksi pyöreään uunivuokaan ja kaada irtoava hera pois.",
+            "Ruskista uunin grillivastuksen alla 250–275 asteessa 5–10 minuuttia, kunnes pintaan tulee tummia pilkkuja."
+          ],
+          "tip": "Ennen juusto paahdettiin pyöreällä koivulaudalla leivinuunin suulla tai hiilloksen edessä, ja lautaa käänneltiin, jotta juusto paistui tasaisesti. Parhaana raaka-aineena pidettiin ternimaitoa eli poikimisen jälkeistä ensimaitoa. Kotona tavallinen täysmaito toimii hyvin.",
+          "imageAlt": "Pyöreä juustoleipä ylhäältä kuvattuna vuonna 1914, mustavalkoinen"
         },
         {
           "name": "Leipäjuustosalaatti",
@@ -1888,56 +1931,35 @@
             "Sekoita öljy, etikka, hunaja, suola ja pippuri kastikkeeksi.",
             "Sekoita lehdet, kurkku ja sipuli, nosta päälle lämmin juusto, marjat ja siemenet ja kaada kastike päälle."
           ],
-          "tip": "Leipäjuusto pitää muotonsa kuumalla pannulla, joten se ruskistuu ilman öljyä."
-        },
-        {
-          "name": "Kotitekoinen leipäjuusto",
-          "description": "4 litraa täysmaitoa, juoksutetta ja yö jääkaapissa. Uunin grillivastus antaa ruskeat pilkut.",
-          "time": "1 tunti + yö",
-          "serves": "1 juusto",
-          "level": "Keskivaikea",
-          "ingredients": [
-            "4 l täysmaitoa",
-            "1 rkl juoksutetta",
-            "1 rkl suolaa"
-          ],
-          "instructions": [
-            "Lämmitä maito ja suola noin 36-asteiseksi eli kädenlämpöiseksi. Sekoita, ettei pohja pala.",
-            "Nosta kattila liedeltä, sekoita joukkoon juoksute ja anna seistä liikuttamatta noin 30 minuuttia, kunnes maito hyytyy.",
-            "Leikkaa hyytynyt massa pieniksi kuutioiksi ja anna heran erottua.",
-            "Nosta massa harsolla vuorattuun siivilään ja anna valua jääkaapissa yön yli.",
-            "Painele massa noin 2 cm paksuksi kiekoksi pyöreään uunivuokaan ja kaada irtoava hera pois.",
-            "Ruskista uunin grillivastuksen alla 250–275 asteessa 5–10 minuuttia, kunnes pintaan tulee tummia pilkkuja."
-          ],
-          "tip": "Parhaana raaka-aineena pidettiin ennen ternimaitoa eli poikimisen jälkeistä ensimaitoa, jossa on paljon kaseiinia. Kotona tavallinen täysmaito toimii hyvin.",
-          "imageAlt": "Pyöreä juustoleipä ylhäältä kuvattuna vuonna 1914, mustavalkoinen"
+          "tip": "Leipäjuusto pitää muotonsa kuumalla pannulla, joten se ruskistuu ilman öljyä.",
+          "imageAlt": "Paahdettuja leipäjuustokuutioita puulaudalla"
         }
       ]
     },
     "about": {
       "kicker": "Mitä se on",
-      "headline": "Tuorejuusto, paistettu pilkulliseksi.",
-      "p1": "Leipäjuusto on lehmänmaidosta juoksuttamalla tehty tuorejuusto. Juustomassa muotoillaan litteäksi kiekoksi ja paistetaan molemmin puolin tummille pilkuille uunissa, grillissä tai avotulella. Koska juustoa ei kypsytetä, se säilyy meijeristä lähtiessään 10–14 päivää.",
-      "p2": "Se kuuluu Pohjois-Suomeen. Useimmat murretiedot sanasta leipäjuusto ovat Pohjanmaalta ja Peräpohjolasta, kun taas Kainuussa sama juusto on juustoleipä. Tornionlaaksossa se on kahvijuusto, ja joen toisella puolella Ruotsissa kaffeost.",
-      "p3": "Perinteinen raaka-aine oli ternimaito, poikimisen jälkeinen ensimaito, jossa on paljon kaseiinia, ja siitä Juustoportti teki Jalasjärvellä ensimmäisen kaupallisen leipäjuuston vuonna 1966. Kaksi suomalaista leipäjuustoa odottaa nyt EU:n nimisuojaa: <strong>Pohjalainen leipäjuusto</strong> ja <strong>Kainuun juustoleipä</strong> hakivat sitä vuonna 2024. Ruotsissa kaffeost sai suojatun alkuperänimityksen vuonna 2025.",
+      "headline": "Tuorejuusto, paahdettu tulen loimussa.",
+      "p1": "Leipäjuusto on lehmänmaidosta juoksuttamalla tehty tuorejuusto. Juustomassa muotoillaan litteäksi kiekoksi ja paistetaan molemmin puolin tummille pilkuille, ennen tulen loimussa tai uunissa, nykyään meijerin uunissa. Koska juustoa ei kypsytetä, se säilyy meijeristä lähtiessään 10–14 päivää.",
+      "p2": "Nimi vaihtelee maakunnan mukaan. Peräpohjolassa ja Pohjanmaalla se on leipäjuusto, Kainuussa juustoleipä, ja Sallasta on kirjattu nimi kahvijuusto. Ruotsin puolella Tornionlaaksossa se on kahvijuusto, ruotsiksi kaffeost. Posiolla juusto vietiin seuroihin ja annettiin kaukaa tulleille vieraille.",
+      "p3": "Pohjoisessa juustoa tehtiin myös poronmaidosta. Tornion Lapissa poroja lypsettiin ja maidosta tehtiin juustoa, Kemin Lapissa ei. Museovirasto säilyttää Rovaniemen Lohinivasta vuodelta 1858 kaiverretun poronmaitojuuston muotin, ja Enontekiöllä poroja lypsettiin vielä 1940-luvulla. Kaksi suomalaista leipäjuustoa odottaa nyt EU:n nimisuojaa: <strong>Pohjalainen leipäjuusto</strong> ja <strong>Kainuun juustoleipä</strong> hakivat sitä vuonna 2024. Ruotsissa kaffeost sai suojatun alkuperänimityksen vuonna 2025.",
       "imageAlt": "Pala leipäjuustoa liuskekivialustalla, pinta ruskeatäpläinen"
     },
     "variations": {
       "kicker": "Syömistavat",
-      "headline": "Lämpimänä, kahvissa tai kylmänä.",
-      "lead": "Leipäjuusto sopii makeaan ja suolaiseen, lämpimänä ja kylmänä. Näin sen Suomessa kohtaa.",
+      "headline": "Kahvissa, hiilloksella tai kermassa.",
+      "lead": "Leipäjuusto sopii makeaan ja suolaiseen, lämpimänä ja kylmänä. Näin sitä on pohjoisessa syöty ennen ja nyt.",
       "items": [
         {
           "title": "Kahvikupissa",
-          "body": "Vanha tapa: juustokuutiot kuppiin, kuuma kahvi päälle ja lusikalla suuhun. Ruotsin Tornionlaaksossa juustoa pehmitetään samalla tavalla keitetyssä kahvissa."
+          "body": "Vanhin tapa. Saamelaiset panivat ennen kuivattua juustoa lihaliemeen, ja kun keitetty kahvi tuli pohjoiseen, juustopalat siirtyivät kahviin. Ruotsin Tornionlaaksossa juustoa pehmitetään yhä keitetyssä kahvissa."
+        },
+        {
+          "title": "Hiilloksella",
+          "body": "Rovaniemellä leipäjuustoa paistettiin ahjoksella, hehkuvalla hiilloksella, niin että se maistui savulta. Nuotiolla saman saa, kun lämmität juuston puulaudalla hiilloksen reunalla ja käännät sitä välillä."
         },
         {
           "title": "Kermassa uunissa",
-          "body": "Uunissa kermassa pehmeäksi lämmitetty juusto ja lakkahilloa. Tämä on jälkiruokaversio ja tämän sivun ensimmäinen resepti."
-        },
-        {
-          "title": "Pannulla paistettuna",
-          "body": "Kuivalla pannulla ruskistettuna salaatteihin ja burgereihin, kuten meijerit nykyään pakkauksessa ehdottavat."
+          "body": "Uunissa kermassa pehmeäksi lämmitetty juusto ja lakkahilloa. Tämä on nykytavan jälkiruoka ja tämän sivun ensimmäinen resepti."
         }
       ]
     },
@@ -2016,7 +2038,7 @@
         },
         {
           "question": "Onko leipäjuusto sama kuin juustoleipä?",
-          "answer": "On. Leipäjuusto on yleiskielen nimi ja juustoleipä saman juuston kainuulainen nimi. Tornionlaaksossa se on kahvijuusto, ja ruotsalainen kaffeost on samaa perinnettä."
+          "answer": "On. Leipäjuusto on yleiskielen ja Peräpohjolan nimi, juustoleipä saman juuston kainuulainen nimi, ja Sallasta on kirjattu nimi kahvijuusto. Ruotsin Tornionlaaksossa se on kahvijuusto, ruotsiksi kaffeost."
         },
         {
           "question": "Kuinka kauan leipäjuusto säilyy?",
@@ -2062,7 +2084,7 @@
       "title": "Uusi",
       "titleHighlight": "arktinen keittiö.",
       "subtitle": "Lapin moderni keittiö ottaa raaka-aineet, joita saamelaiset ovat käyttäneet tuhat vuotta, poron, järvikalan, metsämarjat ja villiyrtit, ja kattaa ne lautaselle New Nordic -tekniikalla. Tämä sivu kertoo, miten se tapahtui ja missä sen voi maistaa.",
-      "imageAlt": "Poroa puolukka-riistakastikkeessa, naurispyreetä ja herkkutatteja harmaalla lasilautasella ravintolan pöydässä Helsingissä",
+      "imageAlt": "Suklaajälkiruoka metsämarjojen kanssa uurteisella keramiikkalautasella Kieppi Kitchen & Barissa Saariselällä, lokakuu 2026",
       "primaryCta": "Mistä varata",
       "secondaryCta": "Perinnereseptit"
     },
@@ -2347,7 +2369,7 @@
       "title": "Syö tiesi",
       "titleHighlight": "Lappiin.",
       "subtitle": "Kolme varattavaa ruokaelämystä Lapissa: kotiruokalounas saamelaisen poronhoitajaperheen luona Inarissa, Rovaniemen viiden ravintolan ruokakierros ja marjaretki Luostolla.",
-      "imageAlt": "Alkuruokalautanen mustalla lautasella: kuumasavulohta, savuahventa ja kylmäsavulohta sekä pikkelöityjä vihanneksia",
+      "imageAlt": "Paistettuja muikkuja perunamuusin, suolakurkun, punajuurikuutioiden ja dippikastikkeen kanssa Riipisen Riistaravintolassa Rukalla, lokakuu 2026",
       "primaryCta": "Selaa kaikkia GetYourGuidessa"
     },
     "intro": {
@@ -2590,7 +2612,8 @@
     "hero": {
       "kicker": "Tietoa LaplandFoodista",
       "headline": "Suomalaista ruokaa, täältä käsin.",
-      "lead": "LaplandFood kertoo suomalaisesta ruoasta: mistä raaka-aineet tulevat, mitä saamelaisessa keittiössä tehdään, mitä moderni arktinen keittiö tarkoittaa ja missä Lapissa oikeasti syödään. Sivusto kuuluu LaplandVibes-verkostoon, ja toimitus on riippumaton."
+      "lead": "LaplandFood kertoo suomalaisesta ruoasta: mistä raaka-aineet tulevat, mitä saamelaisessa keittiössä tehdään, mitä moderni arktinen keittiö tarkoittaa ja missä Lapissa oikeasti syödään. Sivusto kuuluu LaplandVibes-verkostoon, ja toimitus on riippumaton.",
+      "imageAlt": "Koivuhalot palavat leivinuunissa mökillä Kemijärvellä lokakuussa 2026"
     },
     "why": {
       "headline": "Miksi tämä sivusto on olemassa.",

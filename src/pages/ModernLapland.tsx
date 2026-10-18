@@ -51,9 +51,9 @@ export default function ModernLapland() {
           title={t('modernLapland.hero.title')}
           titleHighlight={t('modernLapland.hero.titleHighlight')}
           subtitle={t('modernLapland.hero.subtitle')}
-          imageUrl="/images/hero-modern.jpg"
-          imageSrcSet="/images/hero-modern-1280.jpg 1280w, /images/hero-modern.jpg 2400w"
-          scrim="strong"
+          imageUrl="/images/hero-modern-kieppi-1920.webp"
+          imageSrcSet="/images/hero-modern-kieppi-800.webp 800w, /images/hero-modern-kieppi-1280.webp 1280w, /images/hero-modern-kieppi-1920.webp 1920w, /images/hero-modern-kieppi-2560.webp 2560w"
+          layout="split"
           imageAlt={t('modernLapland.hero.imageAlt')}
           primaryCta={{ label: t('modernLapland.hero.primaryCta'), href: to('/michelin-dining') }}
           secondaryCta={{ label: t('modernLapland.hero.secondaryCta'), href: to('/traditional-recipes') }}

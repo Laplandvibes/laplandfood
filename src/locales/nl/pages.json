@@ -4,7 +4,7 @@
     "h1Part1": "HOE FINLAND",
     "h1Part2": "EET.",
     "subhead": "Een veldgids voor de Finse eetcultuur: waar de ingrediënten vandaan komen, hoe de recepten echt smaken en waarom de Michelin-scene van het land een omweg waard is.",
-    "imageAlt": "Ingrediënten uit Lapland van bovenaf op licht hout en linnen: gebakken rendier in een gietijzeren pan, kommen met kruipbramen, blauwe bosbessen en vossenbessen, een hele vis op berkenbast, roggebrood, cantharellen en jeneverbes",
+    "imageAlt": "Een bord poronkäristys: dun geschaafd rendier op aardappelpuree met vossenbessen en augurk",
     "ctaPrimary": "Bekijk traditionele recepten",
     "ctaSecondary": "Wat hier groeit"
   },
@@ -169,7 +169,7 @@
       "title": "Wat hier",
       "titleHighlight": "groeit.",
       "subtitle": "Zes ingrediënten die Laplands voorraadkast definiëren: waar ze vandaan komen, wanneer ze op hun top zijn en wat ze echt smaken.",
-      "imageAlt": "Een witte kom vol vers geplukte blauwe bosbessen op de bosbodem tussen bosbessenstruiken",
+      "imageAlt": "Romige paddenstoelensoep met gebakken paddenstoelen erop en brood erbij, bij Riipisen Riistaravintola in Ruka, oktober 2026",
       "primaryCta": "Plukgids",
       "secondaryCta": "Recepten die deze gebruiken"
     },
@@ -337,7 +337,7 @@
       "title": "Kruipbraam, het koppige",
       "titleHighlight": "goud van het veen.",
       "subtitle": "In Finland heet hij hilla en worden plukplekken bewaakt als bankcodes. Hier leest u hoe de bes werkelijk smaakt, waarom elke bes met de hand wordt geplukt en waar u hem in Lapland tegenkomt.",
-      "imageAlt": "Open veen met rijpe amberkleurige kruipbramen op de voorgrond, wit wollegras en een donkere veenplas erachter",
+      "imageAlt": "Rijpe oranje kruipbramen tussen de lage begroeiing van een veen",
       "primaryCta": "Leer hem plukken",
       "secondaryCta": "Alle ingrediënten van Lapland",
       "pills": [
@@ -1039,7 +1039,7 @@
       "title": "Duindoorn, oranje vuur",
       "titleHighlight": "van de oever.",
       "subtitle": "Tyrni groeit helemaal niet in de bossen van het binnenland van Lapland. Hij groeit op de stenige oevers van de Botnische Golf, noordwaarts tot de Laplandse kust bij Tornio, en het is de zuurste bes van de Finse voorraadkast en een van de rijkste aan vitamine C. Hier leest u waar hij leeft, hoe hij smaakt en waarom hij zo moeilijk te plukken is.",
-      "imageAlt": "Rustige oever van de Botnische Golf op een avond in juli, met rechts een stenig strand en aan de overkant een lage beboste landtong",
+      "imageAlt": "Duindoornstruiken vol oranje bessen aan de kust van de Botnische Golf bij Billudden in Zweden",
       "primaryCta": "Leer hem plukken",
       "secondaryCta": "De bessengids",
       "pills": [
@@ -1117,7 +1117,7 @@
       "p2": "Commerciële telers lossen het op met kou. Ze knippen vruchtdragende takken af en vriezen ze in; bevroren bessen knappen er schoon af en gaan rechtstreeks de pers in. Daarom bereikt de meeste duindoorn u ook als sap, puree of jam en niet vers.",
       "p3": "De struik is tweehuizig: mannelijke en vrouwelijke planten zijn gescheiden, en alleen de vrouwelijke dragen vrucht, waardoor een dichte begroeiing op de oever voor de helft onvruchtbaar kan zijn.",
       "p4": "<strong>De conclusie voor een reiziger: verse duindoorn is zelfs in Finland zeldzaam, maar het sap ligt in elke supermarkt.</strong>",
-      "imageAlt": "Duindoornstruiken vol oranje bessen aan de kust van de Botnische Golf bij Billudden in Zweden"
+      "imageAlt": "Rijpe oranje duindoornbessen aan een tak met smalle bladeren in Kiikeli, Oulu, in augustus"
     },
     "price": {
       "kicker": "Vitamine C",
@@ -1531,8 +1531,8 @@
       "eyebrow": "Laplands rendiergerecht · Poronkäristys",
       "title": "Poronkäristys, rendier",
       "titleHighlight": "dun geschaafd, traag gegaard.",
-      "subtitle": "Rendiervlees wordt halfbevroren in dunne reepjes geschaafd, in boter aangebraden en gestoofd tot het uit elkaar valt, en komt dan op aardappelpuree met vossenbessen en augurk. Hier vindt u het eigen recept van de rendierhouders, de ovenversie, wat het kost en waar u het in Lapland bestelt.",
-      "imageAlt": "Vijf rendieren die midden in de zomer over de weg lopen in Kilpisjärvi, Fins Lapland, met een groene fjällhelling erachter",
+      "subtitle": "Poronkäristys dankt zijn naam aan een geluid: het vet sist, kärisee in het Fins, zodra ijskoud rendiervlees de pan raakt. Lang voordat restaurants er een klassieker van maakten, was het de dagelijkse kost in houthakkerskampen en bij het bijeendrijven van de rendieren. Hier vindt u het recept zoals het in Lapland wordt gekookt, de ovenversie, de bijgerechten en waar u het kunt bestellen.",
+      "imageAlt": "Poronkäristys, thuis bereid, in eigen vocht naast aardappelpuree op een bord met rozenmotief",
       "primaryCta": "Naar het recept",
       "secondaryCta": "Alle traditionele recepten",
       "pills": [
@@ -1545,62 +1545,62 @@
       ]
     },
     "intro": {
-      "lead": "De eigen vereniging van de rendierhouders noemt poronkäristys misschien wel het meest legendarische van alle rendiergerechten. De traditionele versie vraagt om vier dingen: rendiervlees, boter, water en zout.",
+      "lead": "Het Woordenboek van de Finse dialecten beschrijft käristys als een gerecht van geschaafd rendiervlees dat in de pan wordt gebakken, “vooral de dagelijkse kost van bosarbeiders”, met een voorbeeld uit Kemijärvi: “In het houthakkerskamp maakten we ’s avonds de käristys.” Voor de traditionele pan zijn nog altijd maar vier dingen nodig: rendiervlees, vet, water en zout.",
       "points": [
         {
           "n": "01",
-          "title": "Halfbevroren geschaafd",
-          "body": "Het vlees wordt halfbevroren geschaafd, bij ongeveer −6 °C, als het stevig genoeg is om in dunne reepjes te snijden. Finse winkels verkopen het kant-en-klaar geschaafd en diepgevroren."
+          "title": "Van bevroren vlees geschaafd",
+          "body": "Zodra de vorst inviel, werd er vlees van een bevroren braadstuk geschaafd, telkens als het nodig was. “Hier is een mes, ga wat vlees schaven”, luidt een voorbeeld dat in Kittilä is opgetekend. Tegenwoordig verkopen Finse winkels het kant-en-klaar geschaafd en diepgevroren."
         },
         {
           "n": "02",
-          "title": "Boter, water, zout",
-          "body": "In traditionele poronkäristys zit geen room en geen bouillon. Het vlees wordt aangebraden in boter of rendiervet en stooft daarna onder een deksel met een scheutje water. Peper kwam er pas later bij."
+          "title": "Vet, water, zout",
+          "body": "In de traditionele pan zit geen room en geen bier. Het vlees wordt bruin gebakken in boter of in rendiervet, dat rendierhouders pinta noemen, en stooft daarna onder een deksel met een scheutje water."
         },
         {
           "n": "03",
-          "title": "Nooit zonder vossenbessen",
-          "body": "Het gerecht komt op aardappelpuree met vossenbessen en augurk. Het eigen recept van de rendierhouders noemt rauw geroerde vossenbessen die al vorst hebben gehad het beste bijgerecht."
+          "title": "Vossenbessen ernaast",
+          "body": "Op het bord van nu liggen aardappelpuree, vossenbessen en augurk. In de houthakkerskampen at men de käristys met gebakken aardappelen, en de rendierhoudersvereniging noemt rauw geroerde vossenbessen die al vorst hebben gehad het beste bijgerecht."
         }
       ]
     },
     "recipes": {
       "kicker": "Het recept",
       "headline": "Poronkäristys, zoals het thuis wordt gemaakt.",
-      "lead": "Drie recepten: de klassieker op het fornuis van de rendierhoudersvereniging, de tragere ovenversie voor een grotere pan en de twee bijgerechten die erbij horen.",
+      "lead": "Drie recepten: käristys in de pan zoals Lapland het altijd heeft gemaakt, een tragere ovenversie voor een grotere tafel en de twee bijgerechten die op het bord horen.",
       "items": [
         {
           "name": "Traditionele poronkäristys",
-          "description": "De versie van de rendierhouders: rendiervlees, vet, water en zout, onder een deksel gestoofd tot het mals is. Peper mag, room hoort er niet in.",
+          "description": "Rendiervlees, vet, water en zout in een zware koekenpan of een gietijzeren braadpan. Peper mag, room hoort er niet in.",
           "time": "30–60 min",
           "serves": "3–4",
           "level": "Makkelijk",
           "ingredients": [
-            "500 g diepgevroren poronkäristys (geschaafd rendiervlees)",
+            "500 g diepgevroren poronkäristys (geschaafd rendiervlees) of een bevroren rendierbraadstuk",
             "25 g boter of rendiervet",
             "1 dl water",
             "¾ tl zout",
             "Versgemalen zwarte peper, naar wens"
           ],
           "instructions": [
-            "Laat het bevroren vlees in de koelkast net zo ver ontdooien dat u het blok uit elkaar kunt breken. De plakjes moeten nog ijzig zijn.",
-            "Smelt het vet op hoog vuur in een zware koekenpan of een gietijzeren braadpan en doe het vlees er in porties in. Breek de bevroren plakjes met een spatel los.",
-            "Bak tot het vlees ontdooid is, het vocht is verdampt en het vlees begint te kleuren.",
+            "Hebt u een heel braadstuk gekocht, laat het dan in de koelkast net zo ver ontdooien dat een scherp mes erin gaat, en schaaf het bevroren vlees in zo dun mogelijke reepjes. Diepgevroren, kant-en-klaar geschaafde käristys breekt u op dezelfde manier in stukken zolang die nog ijzig is.",
+            "Verhit het vet in een zware koekenpan of een gietijzeren braadpan op de grootste pit van het fornuis tot het sist. Doe het vlees er in porties in en breek de bevroren reepjes met een spatel los.",
+            "Bak tot het vlees ontdooid is, het vocht is verdampt en de reepjes beginnen te kleuren.",
             "Giet het water erbij en voeg het zout toe.",
-            "Zet het vuur lager, doe het deksel op de pan en laat sudderen tot het vlees mals is: 10 tot 30 minuten voor vlees uit de bout, langer voor andere delen. Giet er een scheutje water bij als de pan droog komt te staan.",
+            "Zet het vuur lager, doe het deksel op de pan en laat sudderen tot het vlees mals is: 10 tot 30 minuten voor vlees uit de bout, langer voor schouder en het voorste deel van de rug. Giet er een scheutje water bij als de pan droog komt te staan.",
             "Proef, voeg naar wens peper toe en serveer op aardappelpuree met vossenbessen en augurk."
           ],
-          "tip": "Volgens de rendierhoudersvereniging krijgt u de krachtigste smaak als u het vlees in rendiervet bakt.",
+          "tip": "Rendierhouders bakken in pinta, het vet dat zich onder de huid langs de rug van een rendier ophoopt, en volgens de rendierhoudersvereniging geeft rendiervet de pan de krachtigste smaak. Wees zuinig met kruiden. Of zoals rendierhouder Hannu Lahtela uit Salla het zegt: “Rendier moet naar rendier smaken.”",
           "imageAlt": "Een bord poronkäristys: dun geschaafd rendier op aardappelpuree met vossenbessen en augurk"
         },
         {
           "name": "Poronkäristys uit de oven",
-          "description": "Dezelfde pan, maar op lage temperatuur in de oven gaar gestoofd. Het duurt langer, roeren is niet nodig en het leent zich voor een grotere hoeveelheid.",
+          "description": "Dezelfde pan, op lage temperatuur in de oven afgemaakt. Het duurt langer, roeren is niet nodig en het past bij een grotere tafel.",
           "time": "2–3 uur",
           "serves": "6",
           "level": "Makkelijk",
           "ingredients": [
-            "1 kg diepgevroren poronkäristys (geschaafd rendiervlees)",
+            "1 kg diepgevroren poronkäristys",
             "3 el boter of rendiervet",
             "2 dl water",
             "1½ tl zout"
@@ -1608,11 +1608,11 @@
           "instructions": [
             "Verwarm de oven voor op 125 °C.",
             "Braad het vlees in porties aan in het vet, in een ovenvaste gietijzeren braadpan op het fornuis, tot het vocht verdampt is.",
-            "Voeg het water en het zout toe en laat het zachtjes aan de kook komen.",
-            "Doe het deksel erop en zet de pan 2 tot 3 uur in de oven, tot het vlees uit elkaar valt.",
-            "Kijk er een of twee keer naar en giet er zo nodig een scheutje water bij. Serveer zoals de fornuisversie."
+            "Voeg het water en het zout toe en breng aan de kook.",
+            "Doe het deksel erop en zet de pan 2 tot 3 uur in de oven, tot het vlees onder een vork uit elkaar valt.",
+            "Kijk er een of twee keer naar en giet er zo nodig een scheutje water bij. Serveer zoals de versie van het fornuis."
           ],
-          "tip": "Gepubliceerde ovenrecepten lopen uiteen van 125 °C gedurende 2 tot 3 uur, de keuze van de rendierhoudersvereniging, tot 175 of 200 °C gedurende ongeveer een uur. Hoe lager de temperatuur, hoe langer het duurt."
+          "tip": "Gepubliceerde ovenrecepten lopen uiteen van 125 °C gedurende 2 tot 3 uur, de keuze van de rendierhoudersvereniging, tot 175 of 200 °C gedurende ongeveer een uur. Hoe lager de temperatuur, hoe langer het duurt: Hannu Lahtela laat rendiernek een nacht lang op de restwarmte in de oven staan."
         },
         {
           "name": "Aardappelpuree en rauw geroerde vossenbessen",
@@ -1635,34 +1635,34 @@
             "Roer de vossenbessen in een kom met de suiker en laat ze staan terwijl de aardappelen koken. Roer af en toe, tot de suiker is opgelost.",
             "Serveer beide bij het rendiervlees, met een paar plakjes augurk."
           ],
-          "tip": "In Finse recepten wordt de puree gemaakt van puikula, de lange gele aardappel van Lapland. Lapin Puikula is sinds 1997 een beschermde oorsprongsbenaming van de EU."
+          "tip": "In Lapland maakt men de puree het liefst van puikula, de lange gele aardappel die als Lapin Puikula een beschermde oorsprongsbenaming van de EU heeft. Het ras is aangepast aan noordelijke omstandigheden, en verder naar het zuiden gaat de kwaliteit achteruit."
         }
       ]
     },
     "about": {
       "kicker": "Wat het is",
-      "headline": "Rendier, dun geschaafd.",
-      "p1": "Poronkäristys is rendiervlees dat halfbevroren in dunne reepjes wordt geschaafd, in vet wordt aangebraden en in een beetje water wordt gestoofd tot het mals is. De rendierhoudersvereniging noemt ook de geschikte delen: twee stukken uit de achterbout, de schouder en het voorste deel van de rug.",
-      "p2": "De meeste Finse rendieren worden in oktober en november geslacht, na minstens een half jaar waarin ze niets anders aten dan wat ze in de natuur vonden. Het vlees is donker en mager, met 2 tot 4 % vet.",
-      "p3": "Over de grens in Zweden heet hetzelfde gerecht <em>renskav</em>. Rendiervlees uit het Finse rendierhoudersgebied heeft sinds 2009 een eigen beschermde oorsprongsbenaming van de EU, <strong>Lapin Poron liha</strong>: de rendieren grazen vrij op natuurlijke weiden, en het vlees wordt binnen het rendierhoudersgebied geproduceerd, uitgesneden en verpakt.",
+      "headline": "Eten van het houthakkerskamp en de rendierkraal.",
+      "p1": "Poronkäristys is rendiervlees dat bevroren in dunne reepjes wordt geschaafd, in vet bruin wordt gebakken en in een beetje water wordt gestoofd tot het mals is. De naam komt van een geluid: <em>käristä</em> is het sissen van vet in de pan. De dialectverzamelingen plaatsen käristys in Kainuu en in Fins Lapland, en in de houthakkerskampen hadden de mannen er een eigen pan voor, de <em>käristyskauha</em>.",
+      "p2": "Slachtrendieren worden uitgesorteerd bij het bijeendrijven van de kuddes, dat van eind september tot in januari duurt, en veel mensen in Lapland kopen hun vlees nog altijd rechtstreeks van een rendierhouder aan de kraal of bij een rendierboerderij. In de kwaliteitsindeling van de rendierhoudersvereniging zijn braadstukken en filets het vlees voor “hoogwaardige poronkäristys”, schouder en het voorste deel van de rug voor de alledaagse. Het vlees is donker en mager, met 2 tot 4 % vet.",
+      "p3": "In Zweden heet hetzelfde gerecht <em>renskav</em> en in Noorwegen <em>finnbiff</em>, waarvan het eerste deel een oude naam voor de Samen is die tegenwoordig als denigrerend wordt beschouwd. Rendiervlees uit het Finse rendierhoudersgebied heeft sinds 2009 een eigen beschermde oorsprongsbenaming van de EU, <strong>Lapin Poron liha</strong>: de rendieren grazen vrij op natuurlijke weiden, en het vlees wordt binnen het rendierhoudersgebied geproduceerd, uitgesneden en verpakt.",
       "imageAlt": "Een rendier in diepe sneeuw in een winters bos"
     },
     "variations": {
       "kicker": "Varianten",
-      "headline": "Bier, room of spek.",
-      "lead": "In de traditionele pan gaan vier ingrediënten. Al het andere is er later bij gekomen.",
+      "headline": "Van de Samische tent naar het houthakkerskamp.",
+      "lead": "De traditionele pan kent vier ingrediënten, maar in de oude verslagen uit Lapland gaat het in elke pan anders.",
       "items": [
         {
-          "title": "Donker bier",
-          "body": "Valio en K-Ruoka laten het vlees stoven in donker bier met een beetje water. De slagers van Rönkä wijzen erop dat het met bier, wijn of room niet meer het traditionele gerecht is."
+          "title": "In een kota, met sneeuw",
+          "body": "Op de markt van Rovaniemi kookte een Samische man in 1937 käristys boven een open vuur in een kota. Hij deed wat varkensvlees op de bodem van de pan en strooide er in plaats van water sneeuw in. De schrijver die uit het zuiden op bezoek was, had het gerecht nog nooit gegeten."
         },
         {
-          "title": "Zweedse renskav",
-          "body": "In Zweden is renskav meestal een romige stoofschotel met cantharellen en gekneusde jeneverbessen, klaar in minder dan 30 minuten en geserveerd met rauw geroerde vossenbessen."
+          "title": "Käristys uit het houthakkerskamp",
+          "body": "In de houthakkerskampen werd käristys ’s avonds en ’s ochtends in een käristyskauha gekookt boven het vuur in de haard van de hut, vaak met gezouten spek. Daarom omschrijft het dialectwoordenboek het gerecht als gemaakt “van (rendier)vlees (en gezouten spek)”."
         },
         {
-          "title": "Spek",
-          "body": "In het recept van K-Ruoka wordt spek met het rendiervlees meegebakken, voor extra vet en een diepe, rokerige smaak."
+          "title": "Room, bier en renskav",
+          "body": "In de recepten van supermarkten stooft het vlees tegenwoordig in donker bier of in room, en Zweedse renskav wordt meestal afgemaakt met room, cantharellen en jeneverbessen. De slagers van Rönkä wijzen erop dat het geen traditionele käristys meer is zodra er bier, wijn of room in gaat."
         }
       ]
     },
@@ -1796,14 +1796,14 @@
   },
   "leipajuusto": {
     "title": "Leipäjuusto: de Finse broodkaas die piept, met recepten",
-    "description": "Leipäjuusto is Finse piepkaas: broodkaas uit de oven, warm met kruipbraamjam, in de koffie of in een salade. Drie recepten en waarom hij piept.",
+    "description": "Leipäjuusto is Finse piepkaas: broodkaas uit de oven, warm met kruipbraamjam, in de koffie of in een salade. Vier recepten en waarom hij piept.",
     "teaser": "Verse kaas uit de oven die tussen uw tanden piept: warm met kruipbraamjam, in de koffie of in een salade, en hoe u hem zelf van melk maakt.",
     "hero": {
       "eyebrow": "Finse broodkaas · Leipäjuusto",
       "title": "Leipäjuusto, de kaas",
       "titleHighlight": "die piept.",
-      "subtitle": "Een platte verse kaas uit het noorden van Finland, gebakken tot hij bruin gespikkeld is en warm gegeten met kruipbraamjam of zacht geweekt in een kop koffie. Hier leest u hoe u hem serveert, hoe u hem thuis van melk maakt en waarom hij tussen uw tanden piept.",
-      "imageAlt": "Een ronde leipäjuusto met bruine vlekken in een donkere schaal, met één punt aangesneden en bedekt met kruipbramenjam",
+      "subtitle": "In Lapland heet hij leipäjuusto en in Salla kahvijuusto, koffiekaas. Vroeger werd hij boven gloeiende kolen geroosterd tot hij naar rook smaakte, en dan bij de koffie gegeten. Hier vindt u vier manieren om hem op tafel te zetten, hoe u hem thuis maakt en waarom hij tussen uw tanden piept.",
+      "imageAlt": "Een vers gebakken leipäjuusto met bruine vlekken op een bakplaat in Ristijärvi, Kainuu, in augustus 2026",
       "primaryCta": "Naar de recepten",
       "secondaryCta": "Alle traditionele recepten",
       "pills": [
@@ -1816,33 +1816,33 @@
       ]
     },
     "intro": {
-      "lead": "Leipäjuusto wordt niet gerijpt en ook niet gesmolten. De melk wordt met stremsel gestremd, de wrongel tot een platte ronde schijf geperst en gebakken tot het oppervlak bruine vlekken krijgt, zoals een brood.",
+      "lead": "Leipäjuusto wordt niet gerijpt en ook niet gesmolten. De melk wordt gestremd, de wrongel tot een platte ronde schijf geperst en geroosterd tot het oppervlak hier en daar bruin kleurt, zoals een broodkorst.",
       "points": [
         {
           "n": "01",
-          "title": "Gebakken, niet gerijpt",
-          "body": "De wrongel wordt gevormd tot een schijf van 0,5 tot 3 cm dik en aan beide kanten gebakken, in de oven, op de grill of bij een open vuur. Hij wordt binnen enkele dagen gegeten, niet pas na maanden."
+          "title": "Bij het vuur geroosterd",
+          "body": "Het Woordenboek van de Finse dialecten omschrijft leipäjuusto als een dunne kaas die in de gloed van een vuur of in de oven wordt geroosterd. In Rovaniemi werd hij op ahjos gebakken, gloeiende kolen, zodat hij naar rook smaakte."
         },
         {
           "n": "02",
-          "title": "Het piepen is echt",
-          "body": "In 2025 testten Finse akoestiekonderzoekers 100 monsters: broodkaas piepte bij elke proef, mozzarella bij één op de vijf. Het geluid is wrijving, zoals een strijkstok op een snaar."
+          "title": "Het piepen is gemeten",
+          "body": "In 2025 testten Finse akoestiekonderzoekers 100 monsters: leipäjuusto piepte bij elke proef, mozzarella maar bij één op de vijf. Het geluid komt van wrijving, zoals een strijkstok op een vioolsnaar."
         },
         {
           "n": "03",
-          "title": "Kruipbraamjam of koffie",
-          "body": "De twee traditionele manieren om hem te eten: warm met kruipbraamjam als dessert, of in blokjes in een kop hete koffie, gegeten met een lepel."
+          "title": "Eerst in de koffie",
+          "body": "Kruipbraamjam is de moderne manier. Vroeger at men de kaas puur of in stukjes in een kop koffie, en gedroogde, keiharde kaas werd in de koffie weer zacht."
         }
       ]
     },
     "recipes": {
       "kicker": "De recepten",
-      "headline": "Drie manieren om hem op tafel te zetten.",
-      "lead": "Het warme dessert dat de meeste Finnen bedoelen als ze leipäjuusto zeggen, een doordeweekse salade en de kaas zelf, gemaakt van 4 liter melk.",
+      "headline": "Vier manieren om hem op tafel te zetten.",
+      "lead": "Warme kaas met kruipbramen, koffiekaas op de manier van het noorden, de kaas zelf van vier liter melk en een doordeweekse salade.",
       "items": [
         {
           "name": "Warme leipäjuusto met kruipbraamjam",
-          "description": "Het klassieke dessert: de kaas in room verwarmd tot hij zacht wordt, met kruipbraamjam erover geschept. Klaar in 20 minuten.",
+          "description": "De klassieker van nu: de kaas in room verwarmd tot hij zacht wordt, met kruipbraamjam erover geschept. Klaar in 20 minuten.",
           "time": "20 min",
           "serves": "4",
           "level": "Makkelijk",
@@ -1859,8 +1859,51 @@
             "Bak ongeveer 15 minuten, tot de room borrelt en de kaas zacht is geworden.",
             "Schep de kruipbraamjam over de warme kaas en serveer meteen."
           ],
-          "tip": "Weinig tijd? Dan kan het ook in 3 minuten in de magnetron op 800 W. Vossenbessen- of bosbessenjam werkt als er geen kruipbramen te krijgen zijn.",
-          "imageAlt": "Een warm stuk leipäjuusto met jam op een bord"
+          "tip": "In Lapland heet de bes hilla, en volgens een in Kolari opgetekend volksgeloof belooft een sterrenheldere nieuwjaarsnacht een goede kruipbramenzomer. Hebt u geen kruipbraamjam, dan werkt vossenbessen- of bosbessenjam ook. Weinig tijd? Dan neemt de magnetron het opwarmen over: 3 minuten op 800 watt.",
+          "imageAlt": "Een ronde leipäjuusto met bruine vlekken in een donkere schaal, met één punt aangesneden en bedekt met kruipbramenjam"
+        },
+        {
+          "name": "Koffiekaas: leipäjuusto in een kop koffie",
+          "description": "De oudste manier om leipäjuusto te eten: stukjes in de kop en hete gekookte koffie erover. De kaas wordt zacht, het vet parelt op de koffie en de stukjes eet u met een lepel.",
+          "time": "10 min",
+          "serves": "2",
+          "level": "Makkelijk",
+          "ingredients": [
+            "100 g leipäjuusto",
+            "4 dl water",
+            "4 el grofgemalen koffie (voor gekookte koffie)",
+            "Een suikerklontje, naar wens"
+          ],
+          "instructions": [
+            "Snijd de leipäjuusto in blokjes van ongeveer een centimeter of in dunne reepjes en verdeel ze over twee koppen.",
+            "Breng het water in een koffiepot aan de kook, voeg de koffie toe en laat het één keer opkoken.",
+            "Haal de pot van het vuur en laat het koffiedik 3 tot 4 minuten bezinken.",
+            "Giet de hete koffie over de kaas en laat de stukjes even zacht worden.",
+            "Drink de koffie en eet de kaas met een lepel."
+          ],
+          "tip": "De gewoonte komt van gedroogde kaas: keiharde kaas werd tussen het graan bewaard en in koffie zacht gemaakt. In 1892 beschreef een Finse krant in een reisverslag uit Lapland hoe rendierkaas in plaats van room in zwarte koffie ging en het vet op het oppervlak parelde."
+        },
+        {
+          "name": "Zelfgemaakte leipäjuusto",
+          "description": "4 liter volle melk, stremsel en een nacht in de koelkast. De grill van de oven zorgt voor de bruine vlekken.",
+          "time": "1 uur + een nacht",
+          "serves": "1 kaas",
+          "level": "Gemiddeld",
+          "ingredients": [
+            "4 l volle melk",
+            "1 el vloeibaar stremsel",
+            "1 el zout"
+          ],
+          "instructions": [
+            "Verwarm de melk met het zout tot ongeveer 36 °C, handwarm, en roer zodat de bodem niet aanbrandt.",
+            "Haal de pan van het vuur, roer het stremsel erdoor en laat de melk ongeveer 30 minuten ongestoord staan, tot ze gestremd is.",
+            "Snijd de gestremde wrongel in kleine blokjes en laat de wei zich afscheiden.",
+            "Schep de wrongel in een zeef met kaasdoek en laat hem een nacht in de koelkast uitlekken.",
+            "Druk de wrongel in een platte, ronde ovenschaal tot een laag van ongeveer 2 cm en giet de wei die vrijkomt af.",
+            "Laat de kaas onder de grill van de oven op 250 tot 275 °C in 5 tot 10 minuten bruinen, tot er donkere vlekken verschijnen."
+          ],
+          "tip": "Vroeger werd de kaas op een ronde berkenhouten plank geroosterd, bij de opening van de broodoven of voor de gloeiende kolen, en de plank werd gedraaid zodat de kaas gelijkmatig bruin werd. Als beste melk gold biest, de eerste melk na het kalven. Thuis werkt gewone volle melk goed.",
+          "imageAlt": "Een ronde juustoleipä-kaas, in 1914 van bovenaf gefotografeerd, zwart-wit"
         },
         {
           "name": "Salade met leipäjuusto",
@@ -1887,56 +1930,35 @@
             "Klop de olie, azijn, honing, zout en peper tot een dressing.",
             "Meng de sla met de komkommer en de ui, leg de warme kaas, de bessen en de pitten erop en giet de dressing erover."
           ],
-          "tip": "Leipäjuusto houdt zijn vorm in een hete pan, dus hij kleurt zonder olie."
-        },
-        {
-          "name": "Zelfgemaakte leipäjuusto",
-          "description": "4 liter volle melk, stremsel en een nacht in de koelkast. De grill van de oven zorgt voor de bruine vlekken.",
-          "time": "1 uur + een nacht",
-          "serves": "1 kaas",
-          "level": "Gemiddeld",
-          "ingredients": [
-            "4 l volle melk",
-            "1 el vloeibaar stremsel",
-            "1 el zout"
-          ],
-          "instructions": [
-            "Verwarm de melk met het zout tot ongeveer 36 °C, handwarm, en roer zodat de bodem niet aanbrandt.",
-            "Haal de pan van het vuur, roer het stremsel erdoor en laat de melk ongeveer 30 minuten ongestoord staan, tot ze gestremd is.",
-            "Snijd de gestremde wrongel in kleine blokjes en laat de wei zich afscheiden.",
-            "Schep de wrongel in een zeef met kaasdoek en laat hem een nacht in de koelkast uitlekken.",
-            "Druk de wrongel in een platte, ronde ovenschaal tot een laag van ongeveer 2 cm en giet de wei die vrijkomt af.",
-            "Laat de kaas onder de grill van de oven op 250 tot 275 °C in 5 tot 10 minuten bruinen, tot er donkere vlekken verschijnen."
-          ],
-          "tip": "De beste leipäjuusto werd traditioneel gemaakt van biest, de eerste melk na het kalven, die rijk is aan caseïne. Thuis werkt gewone volle melk ook.",
-          "imageAlt": "Een ronde juustoleipä-kaas, in 1914 van bovenaf gefotografeerd, zwart-wit"
+          "tip": "Leipäjuusto houdt zijn vorm in een hete pan, dus hij kleurt zonder olie.",
+          "imageAlt": "Geroosterde blokjes leipäjuusto op een houten plank"
         }
       ]
     },
     "about": {
       "kicker": "Wat het is",
-      "headline": "Verse kaas, gebakken tot hij gespikkeld is.",
-      "p1": "Leipäjuusto is een verse kaas van koemelk die met stremsel is gestremd. De wrongel wordt tot een platte schijf gevormd en aan beide kanten gebakken tot het oppervlak donkere vlekken krijgt, in de oven, op de grill of bij een open vuur. Hij wordt niet gerijpt en blijft daarom 10 tot 14 dagen goed vanaf de zuivelfabriek.",
-      "p2": "Hij hoort bij het noorden van Finland. De meeste dialectvermeldingen van het woord leipäjuusto komen uit Österbotten en Peräpohjola in het noordwesten, terwijl dezelfde kaas in Kainuu juustoleipä heet. In het Finse deel van Tornedalen, aan de Zweedse grens, heet hij kahvijuusto, koffiekaas, en aan de Zweedse kant van de rivier heet de tegenhanger kaffeost.",
-      "p3": "De traditionele grondstof was biest, de eerste melk na het kalven, die rijk is aan caseïne, en daarvan maakte Juustoportti in Jalasjärvi in 1966 de eerste commerciële leipäjuusto. Twee Finse varianten wachten nu op een beschermde EU-naam: voor <strong>Pohjalainen leipäjuusto</strong> en <strong>Kainuun juustoleipä</strong> is in 2024 een aanvraag ingediend. In Zweden werd kaffeost in 2025 een beschermde oorsprongsbenaming.",
+      "headline": "Verse kaas, bij het vuur geroosterd.",
+      "p1": "Leipäjuusto is een verse kaas van gestremde koemelk. De wrongel wordt tot een platte schijf gevormd en aan beide kanten gebakken tot hij donker gespikkeld is, vroeger in de gloed van een vuur of in de oven, tegenwoordig in de oven van een zuivelfabriek. Omdat de kaas niet rijpt, blijft hij vanaf de zuivelfabriek 10 tot 14 dagen goed.",
+      "p2": "De naam verschilt per streek. In Peräpohjola in het noordwesten en in Österbotten heet hij leipäjuusto, in Kainuu juustoleipä, en uit Salla is de naam kahvijuusto, koffiekaas, opgetekend. Aan de Zweedse kant van Tornedalen heet hij kahvijuusto, in het Zweeds kaffeost. In Posio werd de kaas meegenomen naar gebedsbijeenkomsten en aan gasten gegeven die van ver waren gekomen.",
+      "p3": "In het noorden werd ook kaas van rendiermelk gemaakt. In Tornio-Lapland werden rendieren gemolken en werd de melk tot kaas verwerkt, in Kemi-Lapland niet. Het Finse Erfgoedagentschap bewaart een in 1858 gesneden vorm voor rendiermelkkaas uit Lohiniva in Rovaniemi, en in Enontekiö werden rendieren in de jaren 1940 nog gemolken. Twee Finse leipäjuusto’s wachten nu op een beschermde EU-naam: voor <strong>Pohjalainen leipäjuusto</strong> en <strong>Kainuun juustoleipä</strong> is in 2024 een aanvraag ingediend. In Zweden kreeg kaffeost in 2025 een beschermde oorsprongsbenaming.",
       "imageAlt": "Een punt leipäjuusto met een bruin gevlekte bovenkant op een leistenen plank"
     },
     "variations": {
       "kicker": "Zo eet u hem",
-      "headline": "Warm, in de koffie of koud.",
-      "lead": "Leipäjuusto kan zoet of hartig, warm of koud. Zo komt u hem in Finland tegen.",
+      "headline": "In de koffie, op de kolen of in room.",
+      "lead": "Leipäjuusto kan zoet en hartig, warm en koud. Zo werd en wordt hij in het noorden gegeten.",
       "items": [
         {
           "title": "In een kop koffie",
-          "body": "De oude manier: blokjes kaas in de kop, hete koffie erover en eten met een lepel. In het Zweedse Tornedalen wordt de kaas op dezelfde manier in gekookte koffie zacht gemaakt."
+          "body": "De oudste manier. De Samen deden vroeger gedroogde kaas in vleesbouillon, en toen gekookte koffie het noorden bereikte, verhuisden de stukjes kaas naar de koffie. In het Zweedse Tornedalen wordt de kaas nog altijd in gekookte koffie zacht gemaakt."
         },
         {
-          "title": "In room uit de oven",
-          "body": "In de oven in room verwarmd tot hij zacht is en dan geserveerd met kruipbraamjam. Dit is de dessertversie, en het eerste recept op deze pagina."
+          "title": "Op de gloeiende kolen",
+          "body": "In Rovaniemi werd leipäjuusto op ahjos gebakken, gloeiende kolen, zodat hij naar rook smaakte. Bij een kampvuur bereikt u hetzelfde als u de kaas op een houten plank aan de rand van de kolen verwarmt en af en toe omdraait."
         },
         {
-          "title": "Uit de pan",
-          "body": "In een droge pan gebakken en in salades en burgers verwerkt, zoals de zuivelfabrieken tegenwoordig op de verpakking voorstellen."
+          "title": "In room gebakken",
+          "body": "De kaas in de oven in room verwarmd tot hij zacht is, met kruipbraamjam. Dit is het moderne dessert en het eerste recept op deze pagina."
         }
       ]
     },
@@ -2015,7 +2037,7 @@
         },
         {
           "question": "Is leipäjuusto hetzelfde als juustoleipä?",
-          "answer": "Ja. Leipäjuusto is de algemene Finse naam en juustoleipä de naam in Kainuu voor dezelfde kaas. In het Finse deel van Tornedalen heet hij kahvijuusto, en de Zweedse kaffeost komt uit dezelfde traditie voort."
+          "answer": "Ja. Leipäjuusto is de algemene Finse naam en de naam in Peräpohjola, juustoleipä is de naam in Kainuu voor dezelfde kaas, en in Salla is de naam kahvijuusto opgetekend. In het Zweedse Tornedalen heet hij kahvijuusto, in het Zweeds kaffeost."
         },
         {
           "question": "Hoe lang blijft leipäjuusto goed?",
@@ -2061,7 +2083,7 @@
       "title": "De nieuwe",
       "titleHighlight": "Arctische keuken.",
       "subtitle": "De moderne keuken van Lapland neemt de ingrediënten die de Samen al duizend jaar gebruiken, rendier, meervis, wilde bessen en kruiden, en maakt ze op met New Nordic-techniek. Deze pagina vertelt hoe dat gebeurde en waar u het proeft.",
-      "imageAlt": "Rendier in een vossenbessen-wildsaus met raapjespuree en eekhoorntjesbrood op een grijs glazen bord, restauranttafel in Helsinki",
+      "imageAlt": "Chocoladedessert met bosvruchten op een geribbeld keramisch bord bij Kieppi Kitchen & Bar in Saariselkä, oktober 2026",
       "primaryCta": "Waar boeken",
       "secondaryCta": "De traditionele recepten"
     },
@@ -2346,7 +2368,7 @@
       "title": "Eet uw weg",
       "titleHighlight": "door Lapland.",
       "subtitle": "Drie boekbare culinaire ervaringen in Lapland: een zelfgemaakte lunch bij een Samische rendierhoudersfamilie in Inari, een foodtour langs vijf restaurants in Rovaniemi en een bessentocht in Luosto.",
-      "imageAlt": "Voorgerechtbord met warmgerookte zalm, gerookte baars en koudgerookte zalm met ingelegde groenten op een zwart bord",
+      "imageAlt": "Gebakken kleine marenen op aardappelpuree met augurk, blokjes rode biet en een dipsaus bij Riipisen Riistaravintola in Ruka, oktober 2026",
       "primaryCta": "Bekijk alles op GetYourGuide"
     },
     "intro": {
@@ -2589,7 +2611,8 @@
     "hero": {
       "kicker": "Over LaplandFood",
       "headline": "Fins eten, van hieruit geschreven.",
-      "lead": "LaplandFood gaat over Fins eten: waar de ingrediënten vandaan komen, wat de Sámi-keuken ermee doet, wat moderne Arctische keuken betekent en waar mensen in Lapland echt eten. De site hoort bij het LaplandVibes-netwerk, en de redactie is onafhankelijk."
+      "lead": "LaplandFood gaat over Fins eten: waar de ingrediënten vandaan komen, wat de Sámi-keuken ermee doet, wat moderne Arctische keuken betekent en waar mensen in Lapland echt eten. De site hoort bij het LaplandVibes-netwerk, en de redactie is onafhankelijk.",
+      "imageAlt": "Brandende berkenblokken in een gemetselde houtoven in een huisje in Kemijärvi, oktober 2026"
     },
     "why": {
       "headline": "Waarom deze site bestaat.",

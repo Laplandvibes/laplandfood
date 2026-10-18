@@ -15,15 +15,20 @@ import type { DishConfig } from '../pages/DishPage';
 export const PORONKARISTYS: DishConfig = {
   key: 'poronkaristys',
   path: '/poronkaristys',
+  // 18.10.2026: hero = kotona tehty käristys liemessään (comedy_nose, CC BY 2.0). Oppikirjan annos
+  // (Caiazzo) on etusivun hero, joten se ei toistu täällä; reseptikortti ilman kuvaa (vanha 2006
+  // kännykkäkuva pois: väärä tai suttuinen kuva on huonompi kuin ei kuvaa).
   hero: {
-    image: '/images/hero-poronkaristys-kilpisjarvi.webp',
+    image: '/images/hero-poronkaristys-koti-1920.webp',
+    srcSet: '/images/hero-poronkaristys-koti-800.webp 800w, /images/hero-poronkaristys-koti-1280.webp 1280w, /images/hero-poronkaristys-koti-1920.webp 1920w, /images/hero-poronkaristys-koti-2560.webp 2560w',
+    layout: 'split',
+    position: '58% 55%',
   },
   about: {
     image: '/images/poronkaristys-reindeer-snow.jpg',
   },
   recipes: [
     {
-      image: '/images/poronkaristys-plate.jpg',
       totalTime: 'PT45M',
       category: 'Main course',
     },
@@ -43,25 +48,31 @@ export const PORONKARISTYS: DishConfig = {
 export const LEIPAJUUSTO: DishConfig = {
   key: 'leipajuusto',
   path: '/leipajuusto',
+  // 18.10.2026: hero = kokonainen juuri paistettu juusto (Ninara, CC BY 4.0, Ristijärvi); Rajalan hillokuva
+  // siirtyi lämpimän juuston reseptikorttiin (vanha salamakuva pois), salaattiin paahdetut kuutiot (Nissinen).
   hero: {
-    image: '/images/hero-leipajuusto-cloudberry.webp',
+    image: '/images/hero-leipajuusto-ristijarvi-1920.webp',
+    srcSet: '/images/hero-leipajuusto-ristijarvi-800.webp 800w, /images/hero-leipajuusto-ristijarvi-1280.webp 1280w, /images/hero-leipajuusto-ristijarvi-1920.webp 1920w, /images/hero-leipajuusto-ristijarvi-2560.webp 2560w',
+    layout: 'split',
   },
   about: {
     image: '/images/leipajuusto-wedge.jpg',
   },
   recipes: [
     {
-      image: '/images/leipajuusto-warm-jam.jpg',
+      image: '/images/hero-leipajuusto-cloudberry.webp',
       totalTime: 'PT20M',
       category: 'Dessert',
     },
-    { totalTime: 'PT15M', category: 'Salad' },
+    // Kahvijuusto (18.10.2026): vanhin tapa, keitetty kahvi juuston päälle. Ei omaa kuvaa ⇒ ei kuvaa.
+    { totalTime: 'PT10M', category: 'Drink' },
     {
       image: '/images/leipajuusto-1914.jpg',
       fit: 'contain',
       totalTime: 'PT13H',
       category: 'Cheese',
     },
+    { image: '/images/leipajuusto-kuutiot-1600.jpg', totalTime: 'PT15M', category: 'Salad' },
   ],
   // "Selaa Lapin ruokaretkiä" → Lapin ruoka- ja juomakategoria (picks.ts CATEGORY_LINKS, 312 tulosta 30.7.).
   gyg: { path: 'lapland-finland-l2652/food-drinks-tc103', sid: 'leipajuusto_food_tour' },

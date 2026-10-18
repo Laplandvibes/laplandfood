@@ -4,7 +4,7 @@ import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
-import PageBreadcrumb from '../components/PageBreadcrumb';
+import PageHero from '../components/PageHero';
 import { useLocale } from '../i18n/useLocale';
 
 interface CoverItem { t: string; body: string; href: string }
@@ -14,7 +14,7 @@ interface PrincipleItem { t: string; body: string }
 // drift when the localized cover array order changes.
 const COVER_IMAGES: Record<string, string> = {
   '/local-ingredients': '/images/card-ingredients.jpg',
-  '/traditional-recipes': '/images/card-recipes.jpg',
+  '/traditional-recipes': '/images/recipe-bidos.jpg',
   '/modern-lapland': '/images/card-modern.jpg',
   '/foraging-guide': '/images/card-foraging.jpg',
   '/michelin-dining': '/images/card-michelin.jpg',
@@ -33,34 +33,18 @@ export default function About() {
       <div className="min-h-screen bg-white">
         <Nav />
 
-        <section className="relative pt-24 overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] text-white">
-          <img
-            src="/images/hero-about.jpg"
-            alt=""
-            aria-hidden="true"
-            loading="eager"
-            decoding="async"
-            fetchPriority="high"
-            onError={(e) => { e.currentTarget.style.display = 'none' }}
-            className="absolute inset-0 w-full h-full object-cover"
-          />
-          <div className="absolute inset-0 bg-[#001F4A]/55" />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#001F4A]/50 to-transparent" />
-          <div className="relative z-10 max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 py-14 sm:py-16 text-center lg:text-left">
-            {/* Yläotsake sinisellä laatalla kuten PageHerossa (18.9.2026): pinkki suoraan
-                kuvan päällä oli 5.10. uudella kuvalla alle 3:1 98 %:lla pikseleistä (375 px). */}
-            <p className="inline-block max-w-full rounded-2xl sm:rounded-full bg-[#001F4A] px-3.5 py-1.5 leading-snug text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-              {t('about.hero.kicker')}
-            </p>
-            <h1 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl mb-5 leading-[1.05] drop-shadow-[0_4px_24px_rgba(0,15,40,0.85)]">
-              {t('about.hero.headline')}
-            </h1>
-            <p className="text-base sm:text-lg text-white/90 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,15,40,0.85)]">
-              {t('about.hero.lead')}
-            </p>
-          </div>
-        </section>
-        <PageBreadcrumb />
+        {/* 18.10.2026: sama PageHero kuin muilla sivuilla. Kuva on oma: koivuhalot leivinuunissa
+            mökillä Kemijärvellä 10.10.2026 (vanha hero, juomalasien epätarkka lähikuva, oli sivuston heikoin). */}
+        <PageHero
+          eyebrow={t('about.hero.kicker')}
+          title={t('about.hero.headline')}
+          subtitle={t('about.hero.lead')}
+          imageUrl="/images/hero-about-leivinuuni-1920.webp"
+          imageSrcSet="/images/hero-about-leivinuuni-800.webp 800w, /images/hero-about-leivinuuni-1280.webp 1280w, /images/hero-about-leivinuuni-1920.webp 1920w, /images/hero-about-leivinuuni-2560.webp 2560w"
+          imageAlt={t('about.hero.imageAlt')}
+          layout="split"
+          imagePosition="55% 50%"
+        />
 
         {/* Why this site exists */}
         <section className="bg-white py-16 sm:py-20">

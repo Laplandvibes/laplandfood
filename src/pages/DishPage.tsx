@@ -54,7 +54,8 @@ export interface DishConfig {
   key: 'poronkaristys' | 'leipajuusto';
   path: string;
   /** Kuvien alt on pages.jsonissa (`<key>.hero/about.imageAlt`, `recipes.items[i].imageAlt`) 12 kielellä (5.10.2026). */
-  hero: { image: string };
+  /** srcSet + layout 18.10.2026: annoskuva oikealla puoliskolla ('split'), maisema taustana ('bleed'). */
+  hero: { image: string; srcSet?: string; layout?: 'bleed' | 'split'; position?: string };
   about: { image?: string; ownPhoto?: boolean };
   /** Indeksi vastaa `recipes.items`-taulukkoa (sama järjestys kaikilla 12 kielellä). */
   recipes: { image?: string; fit?: 'cover' | 'contain'; totalTime: string; category: string }[];
@@ -86,7 +87,9 @@ function RecipeCard({ recipe, image, alt, fit = 'cover', labels, featured, id }:
     <article id={id} className="scroll-mt-24 overflow-hidden rounded-3xl border border-[#002F6C]/10 bg-[#F8FAFC]">
       <div className={image ? 'grid lg:grid-cols-[minmax(0,6fr)_minmax(0,6fr)]' : ''}>
         {image && (
-          <div className={`relative ${featured ? 'min-h-[260px] lg:min-h-[420px]' : 'min-h-[220px] lg:min-h-[340px]'} ${fit === 'contain' ? 'bg-[#E7E5E0]' : 'bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]'}`}>
+          <div className={`relative aspect-[4/3] lg:aspect-[4/5] lg:self-start ${fit === 'contain' ? 'bg-[#E7E5E0]' : 'bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]'}`}>
+            {/* 18.10.2026: kuva omassa kuvasuhteessaan (4:3, lg 4:5), ei venytetä koko reseptin korkuiseksi
+                kapeaksi siivuksi: venytys zoomasi kuvan suttuiseksi (Vesa: "katso nyt tätäkin poronkäristyskuvaa"). */}
             {/* contain = koko kuva näkyviin (arkistokuva pyöreästä juustosta: cover zoomasi sen harmaaksi pinnaksi) */}
             <img src={image} alt={alt ?? recipe.name} loading={featured ? 'eager' : 'lazy'} decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className={`absolute inset-0 h-full w-full ${fit === 'contain' ? 'object-contain p-6 pb-20' : 'object-cover'}`} />
             <div className="absolute inset-0 bg-gradient-to-t from-[#002F6C]/70 via-transparent to-transparent" />
@@ -270,6 +273,9 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           titleHighlight={t(`${k}.hero.titleHighlight`)}
           subtitle={t(`${k}.hero.subtitle`)}
           imageUrl={cfg.hero.image}
+          imageSrcSet={cfg.hero.srcSet}
+          layout={cfg.hero.layout}
+          imagePosition={cfg.hero.position}
           imageAlt={t(`${k}.hero.imageAlt`)}
           primaryCta={{ label: t(`${k}.hero.primaryCta`), href: `${to(cfg.path)}#recipe` }}
           secondaryCta={{ label: t(`${k}.hero.secondaryCta`), href: to('/traditional-recipes') }}
@@ -306,8 +312,8 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           alt={cfg.about.image ? t(`${k}.about.imageAlt`) : undefined}
           caption={cfg.about.ownPhoto ? `${t(`${k}.about.caption`, { defaultValue: '' })} · ${tc('photo.credit')}` : undefined}
         >
-          <p className={LEDE}>{t(`${k}.about.p1`)}</p>
-          <p className={BODY}>{t(`${k}.about.p2`)}</p>
+          <p className={LEDE}><Trans i18nKey={`${k}.about.p1`} ns="pages" components={{ em: <em />, strong: <strong /> }} /></p>
+          <p className={BODY}><Trans i18nKey={`${k}.about.p2`} ns="pages" components={{ em: <em />, strong: <strong /> }} /></p>
           <p className={BODY_LAST}>
             <Trans i18nKey={`${k}.about.p3`} ns="pages" components={{ em: <em />, strong: <strong /> }} />
           </p>

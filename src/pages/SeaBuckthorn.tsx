@@ -1,20 +1,22 @@
 import BerryPage, { type BerryConfig } from './BerryPage';
 
-/** /sea-buckthorn — tyrni. Hero: oma valokuva Perämeren rannalta 22.7.2026
- *  (tyrnin luontainen kasvupaikka on rannikko, ei sisämaa, ja sivu sanoo sen
- *  suoraan). 4.10.2026: marja-, oksa-, mehu- ja hillokuva Commonsista (tekijä
+/** /sea-buckthorn — tyrni. Hero 18.10.2026: tyrnipensas marjoineen meren rannalla, Billudden,
+ *  Ruotsi (CC0; vanha oma kuva Perämeren rannalta näytti pelkkää merta ilman tyrniä).
+ *  Oksaosio: Kiikeli, Oulu 9.8.2026 (CC0). 4.10.2026: marja-, oksa-, mehu- ja hillokuva Commonsista (tekijä
  *  kuvan päällä, src/data/photoCredits.ts); jälkiruokakuva on yhä generoitu. */
 const SEA_BUCKTHORN: BerryConfig = {
   key: 'seaBuckthorn',
   path: '/sea-buckthorn',
   hero: {
-    image: '/images/hero-sea-buckthorn.webp',
+    image: '/images/hero-sea-buckthorn-billudden-1920.webp',
+    srcSet: '/images/hero-sea-buckthorn-billudden-800.webp 800w, /images/hero-sea-buckthorn-billudden-1280.webp 1280w, /images/hero-sea-buckthorn-billudden-1920.webp 1920w, /images/hero-sea-buckthorn-billudden-2560.webp 2560w',
+    position: '50% 60%',
   },
   taste: {
     image: '/images/sea-buckthorn-berries.jpg',
   },
   versus: {
-    image: '/images/sea-buckthorn-branch.jpg',
+    image: '/images/sea-buckthorn-oulu-1200.jpg',
   },
   products: {
     images: ['/images/sea-buckthorn-juice.jpg', '/images/sea-buckthorn-jam.jpg', '/images/sea-buckthorn-dessert.jpg'],

@@ -4,7 +4,7 @@
     "h1Part1": "COMO A FINLÂNDIA",
     "h1Part2": "COME.",
     "subhead": "Um guia de campo da cultura gastronômica finlandesa: de onde vêm os ingredientes, qual é o sabor real das receitas e por que a cena Michelin do país vale o desvio.",
-    "imageAlt": "Ingredientes da Lapônia vistos de cima sobre madeira clara e linho: rena salteada em uma frigideira de ferro fundido, tigelas de amoras-árticas, mirtilos e airelas-vermelhas, um peixe inteiro sobre casca de bétula, pão de centeio, cantarelos e zimbro",
+    "imageAlt": "Um prato de poronkäristys: rena em lascas finas sobre purê de batata com lingonberries e pepino em conserva",
     "ctaPrimary": "Conhecer as receitas tradicionais",
     "ctaSecondary": "O que cresce aqui em cima"
   },
@@ -169,7 +169,7 @@
       "title": "O que cresce",
       "titleHighlight": "aqui em cima.",
       "subtitle": "Seis ingredientes que definem a despensa da Lapônia: de onde vêm, quando estão no auge e qual é o gosto real deles.",
-      "imageAlt": "Uma tigela branca cheia de mirtilos recém-colhidos no chão da floresta entre arbustos de mirtilo",
+      "imageAlt": "Sopa cremosa de cogumelos coberta com cogumelos salteados, com pão, no Riipisen Riistaravintola, em Ruka, outubro de 2026",
       "primaryCta": "Guia de colheita",
       "secondaryCta": "Receitas que os usam"
     },
@@ -337,7 +337,7 @@
       "title": "Amora ártica, o ouro",
       "titleHighlight": "teimoso do pântano.",
       "subtitle": "Na Finlândia ela se chama hilla, e os pontos de colheita são guardados como senha de banco. Aqui você descobre o gosto de verdade, por que cada fruta é colhida à mão e onde encontrá-la na Lapônia.",
-      "imageAlt": "Brejo aberto com amoras-árticas maduras cor de âmbar em primeiro plano, algodão-do-brejo branco e uma poça escura ao fundo",
+      "imageAlt": "Amoras árticas maduras de cor laranja entre as plantas baixas de um brejo",
       "primaryCta": "Aprenda a colher",
       "secondaryCta": "Todos os ingredientes da Lapônia",
       "pills": [
@@ -1039,7 +1039,7 @@
       "title": "Espinheiro-marítimo, fogo laranja",
       "titleHighlight": "vindo da praia.",
       "subtitle": "O tyrni não cresce nas florestas do interior da Lapônia. Ele cresce nas margens pedregosas do golfo de Bótnia, ao norte até o litoral da Lapônia, em Tornio, e é a fruta mais ácida da despensa finlandesa e uma das mais ricas em vitamina C. Aqui está onde ele vive, qual é o sabor e por que é tão difícil de colher.",
-      "imageAlt": "Margem calma do golfo de Bótnia num fim de tarde de julho, com uma praia pedregosa à direita e uma ponta baixa e arborizada do outro lado da água",
+      "imageAlt": "Arbustos de espinheiro-marítimo carregados de frutos laranja na costa do golfo de Bótnia em Billudden, na Suécia",
       "primaryCta": "Aprenda a colher",
       "secondaryCta": "O guia das frutas silvestres",
       "pills": [
@@ -1117,7 +1117,7 @@
       "p2": "Os produtores comerciais resolvem isso com frio. Eles cortam os galhos com fruta e os congelam; as frutas congeladas soltam limpas e vão direto para a prensa. É também por isso que a maior parte do espinheiro-marítimo chega a você como suco, purê ou geleia, e não fresco.",
       "p3": "O arbusto é dioico: plantas masculinas e femininas são separadas, e só as femininas dão fruto, por isso um bosque denso na praia pode ser metade estéril.",
       "p4": "<strong>A conclusão para quem viaja: espinheiro-marítimo fresco é raro até na Finlândia, mas o suco está em todo supermercado.</strong>",
-      "imageAlt": "Arbustos de espinheiro-marítimo carregados de frutos laranja na costa do golfo de Bótnia em Billudden, na Suécia"
+      "imageAlt": "Frutos maduros e laranja de espinheiro-marítimo em um galho de folhas estreitas em Kiikeli, Oulu, em agosto"
     },
     "price": {
       "kicker": "Vitamina C",
@@ -1531,8 +1531,8 @@
       "eyebrow": "O prato de rena da Lapônia · Poronkäristys",
       "title": "Poronkäristys, rena",
       "titleHighlight": "em lascas finas, cozida devagar.",
-      "subtitle": "Carne de rena cortada em lascas finas ainda semicongelada, dourada na manteiga e cozida em fogo baixo até desmanchar, servida sobre purê de batata com lingonberries e pepino em conserva. Aqui você encontra a receita dos próprios criadores de renas, a versão no forno, o preço e onde pedir o prato na Lapônia.",
-      "imageAlt": "Cinco renas andando pela estrada em pleno verão em Kilpisjärvi, na Lapônia finlandesa, com a encosta verde de um monte ao fundo",
+      "subtitle": "O poronkäristys leva o nome de um som: a gordura chia, kärisee em finlandês, quando a carne de rena congelada cai na frigideira. Era a comida do dia a dia dos acampamentos de lenhadores e das apartações de renas muito antes de os restaurantes o transformarem num clássico. Aqui você encontra a receita como ela é feita na Lapônia, a versão no forno, os acompanhamentos e onde pedir o prato.",
+      "imageAlt": "Poronkäristys caseiro no próprio caldo, ao lado de purê de batata, em um prato com estampa de rosas",
       "primaryCta": "Ir para a receita",
       "secondaryCta": "Todas as receitas tradicionais",
       "pills": [
@@ -1545,62 +1545,62 @@
       ]
     },
     "intro": {
-      "lead": "Para a própria associação dos criadores de renas, o poronkäristys é talvez o mais lendário de todos os pratos de rena. A versão tradicional pede quatro coisas: rena, manteiga, água e sal.",
+      "lead": "O Dicionário dos Dialetos Finlandeses registra o käristys como um prato de carne de rena cortada em lascas e frita, “sobretudo como comida do dia a dia dos trabalhadores florestais”, com um exemplo de Kemijärvi: “No acampamento de lenhadores, à noite, fizemos o käristys.” A panela tradicional ainda pede só quatro coisas: rena, gordura, água e sal.",
       "points": [
         {
           "n": "01",
-          "title": "Cortada semicongelada",
-          "body": "A carne é cortada ainda semicongelada, a cerca de −6 °C, quando está firme o bastante para sair em lascas finas. Os mercados finlandeses a vendem já cortada e congelada."
+          "title": "Lascas da carne congelada",
+          "body": "Quando chegavam as geadas, a carne era cortada de uma peça para assar congelada, conforme a necessidade. “Aqui está uma faca para você, vá cortar um pouco de carne”, diz um exemplo registrado em Kittilä. Hoje os mercados finlandeses vendem a carne já cortada e congelada."
         },
         {
           "n": "02",
-          "title": "Manteiga, água, sal",
-          "body": "O poronkäristys tradicional não leva creme de leite nem caldo. A carne doura na manteiga ou na gordura de rena e depois cozinha com a panela tampada e um pouco de água. A pimenta só chegou mais tarde."
+          "title": "Gordura, água e sal",
+          "body": "A panela tradicional não leva creme de leite nem cerveja. A carne doura na manteiga ou na gordura de rena, que os criadores chamam de pinta, e depois cozinha em fogo baixo, com a panela tampada e um pouco de água."
         },
         {
           "n": "03",
-          "title": "Nunca sem lingonberries",
-          "body": "O prato é servido sobre purê de batata, com lingonberries e pepino em conserva. A receita dos próprios criadores aponta como melhor acompanhamento as lingonberries tocadas pela geada, cruas e mexidas com açúcar."
+          "title": "Com lingonberries",
+          "body": "O prato de hoje leva purê de batata, lingonberries e pepino em conserva. Nos acampamentos de lenhadores, o käristys vinha com batatas coradas, e a associação dos criadores de renas aponta como melhor acompanhamento as lingonberries tocadas pela geada e mexidas ainda cruas."
         }
       ]
     },
     "recipes": {
       "kicker": "A receita",
       "headline": "Poronkäristys do jeito caseiro.",
-      "lead": "Três receitas: o clássico de fogão da associação dos criadores de renas, a versão mais lenta no forno para uma panela maior e os dois acompanhamentos que fazem parte do prato.",
+      "lead": "Três receitas: o käristys na frigideira do jeito que sempre se fez na Lapônia, uma versão mais lenta no forno para uma mesa maior e os dois acompanhamentos que fazem parte do prato.",
       "items": [
         {
           "name": "Poronkäristys tradicional",
-          "description": "A versão dos criadores: rena, gordura, água e sal, cozidos com a panela tampada até a carne ficar macia. A pimenta é opcional; o creme de leite não faz parte.",
+          "description": "Rena, gordura, água e sal numa frigideira de fundo grosso ou numa panela de ferro fundido. A pimenta é opcional; o creme de leite não entra.",
           "time": "30–60 min",
           "serves": "3–4 pessoas",
           "level": "Fácil",
           "ingredients": [
-            "500 g de poronkäristys congelado (rena em lascas)",
+            "500 g de poronkäristys congelado (rena em lascas) ou uma peça de rena para assar, congelada",
             "25 g de manteiga ou gordura de rena",
             "1 dl de água",
             "¾ de colher de chá de sal",
             "Pimenta-do-reino moída na hora, se quiser"
           ],
           "instructions": [
-            "Deixe a carne congelada amolecer na geladeira só o suficiente para conseguir separar o bloco; as lascas devem continuar congeladas.",
-            "Derreta a gordura em fogo alto numa frigideira de fundo grosso ou numa panela de ferro fundido e junte a carne aos poucos, separando as lascas congeladas com uma espátula.",
-            "Frite até a carne descongelar, o líquido evaporar e ela começar a dourar.",
+            "Se você comprou uma peça inteira, deixe amolecer na geladeira só até uma faca afiada conseguir entrar. Depois, corte a carne congelada em lascas o mais finas possível. O käristys congelado já cortado é separado em pedaços do mesmo jeito, enquanto ainda está gelado.",
+            "Aqueça a gordura numa frigideira de fundo grosso ou numa panela de ferro fundido, na maior boca do fogão, até ela chiar. Junte a carne aos poucos e separe as lascas congeladas com uma espátula.",
+            "Frite até a carne descongelar, o líquido evaporar e as lascas começarem a dourar.",
             "Despeje a água e acrescente o sal.",
-            "Abaixe o fogo, tampe e cozinhe até a carne ficar macia: de 10 a 30 minutos para o pernil, mais tempo para outros cortes. Se secar, acrescente um pouco de água.",
+            "Abaixe o fogo, tampe e cozinhe até a carne ficar macia: de 10 a 30 minutos para carne de pernil, mais tempo para paleta e a parte dianteira do lombo. Se secar, acrescente um pouco de água.",
             "Prove, acrescente pimenta se quiser e sirva sobre purê de batata com lingonberries e pepino em conserva."
           ],
-          "tip": "Segundo a associação dos criadores de renas, o sabor fica mais intenso quando a carne é frita na gordura de rena.",
+          "tip": "Os criadores fritam na pinta, a gordura que se acumula sob a pele ao longo do lombo da rena, e a associação dos criadores de renas diz que a gordura de rena dá à panela o sabor mais forte. Vá com calma nos temperos. Como resume Hannu Lahtela, criador de renas de Salla: “Rena tem que ter gosto de rena.”",
           "imageAlt": "Um prato de poronkäristys: rena em lascas finas sobre purê de batata com lingonberries e pepino em conserva"
         },
         {
           "name": "Poronkäristys no forno",
-          "description": "A mesma panela, finalizada em forno baixo. Demora mais, não precisa mexer e é ideal para quantidades maiores.",
+          "description": "A mesma panela, finalizada em forno baixo. Demora mais, não precisa mexer e vai bem numa mesa maior.",
           "time": "2–3 horas",
           "serves": "6 pessoas",
           "level": "Fácil",
           "ingredients": [
-            "1 kg de poronkäristys congelado (rena em lascas)",
+            "1 kg de poronkäristys congelado",
             "3 colheres de sopa de manteiga ou gordura de rena",
             "2 dl de água",
             "1½ colher de chá de sal"
@@ -1608,11 +1608,11 @@
           "instructions": [
             "Preaqueça o forno a 125 °C.",
             "No fogão, doure a carne na gordura, aos poucos, numa panela de ferro fundido que possa ir ao forno, até o líquido evaporar.",
-            "Junte a água e o sal e deixe começar a ferver.",
-            "Tampe e leve a panela ao forno por 2 a 3 horas, até a carne desfiar.",
-            "Confira uma ou duas vezes e, se precisar, acrescente um pouco de água. Sirva como a versão de fogão."
+            "Junte a água e o sal e deixe ferver.",
+            "Tampe e leve a panela ao forno por 2 a 3 horas, até a carne desmanchar no garfo.",
+            "Confira uma ou duas vezes e acrescente um pouco de água se precisar. Sirva como a versão de fogão."
           ],
-          "tip": "As receitas de forno publicadas vão de 125 °C por 2 a 3 horas, a escolha da associação dos criadores, até 175 ou 200 °C por cerca de uma hora. Quanto mais baixa a temperatura, mais tempo leva."
+          "tip": "As receitas de forno publicadas vão de 125 °C por 2 a 3 horas, a escolha da associação dos criadores, até 175 ou 200 °C por cerca de uma hora. Quanto mais baixa a temperatura, mais tempo leva: Hannu Lahtela deixa o pescoço de rena a noite inteira no forno desligado, só no calor residual."
         },
         {
           "name": "Purê de batata e lingonberries cruas com açúcar",
@@ -1635,34 +1635,34 @@
             "Numa tigela, misture as lingonberries com o açúcar e deixe descansar enquanto as batatas cozinham, mexendo de vez em quando, até o açúcar dissolver.",
             "Sirva os dois com a rena e algumas fatias de pepino em conserva."
           ],
-          "tip": "Na Finlândia, o purê é feito com puikula, a batata comprida e amarela da Lapônia; a Lapin Puikula é denominação de origem protegida da UE desde 1997."
+          "tip": "Na Lapônia, o ideal é fazer o purê com puikula, a batata comprida e amarela que tem a denominação de origem protegida da UE Lapin Puikula. A variedade é adaptada às condições do norte, e a qualidade dela cai mais ao sul."
         }
       ]
     },
     "about": {
       "kicker": "O que é",
-      "headline": "Rena em lascas finas.",
-      "p1": "O poronkäristys é carne de rena cortada em lascas finas ainda semicongelada, dourada na gordura e cozida em pouca água até ficar macia. A associação dos criadores de renas indica os cortes certos para o prato: coxão duro e patinho, paleta e a parte dianteira do lombo.",
-      "p2": "A maioria das renas finlandesas é abatida em outubro e novembro, depois de pelo menos meio ano só de pasto natural. A carne é escura e magra, com 2 a 4 % de gordura.",
-      "p3": "Do outro lado da fronteira, na Suécia, o mesmo prato se chama <em>renskav</em>. A carne de rena da área de criação finlandesa tem sua própria denominação de origem protegida da UE, <strong>Lapin Poron liha</strong>, desde 2009: as renas pastam livres em pastagens naturais, e a carne é produzida, cortada e embalada dentro da área de criação.",
+      "headline": "A comida do acampamento de lenhadores e do curral de apartação.",
+      "p1": "O poronkäristys é carne de rena cortada em lascas finas ainda congelada, dourada na gordura e cozida em fogo baixo com um pouco de água até ficar macia. O nome vem de um som: <em>käristä</em> é o chiado da gordura na frigideira. Os registros dialetais situam o käristys em Kainuu e na Lapônia finlandesa, e nos acampamentos de lenhadores os homens tinham uma frigideira só para ele, a <em>käristyskauha</em>.",
+      "p2": "As renas para abate são separadas nas apartações, que vão do fim de setembro até janeiro, e muita gente na Lapônia ainda compra a carne direto de um criador, no curral de apartação, ou numa fazenda de renas. Na classificação da associação dos criadores, as peças para assar e os filés são a carne do “poronkäristys de alta qualidade”, e a paleta e a parte dianteira do lombo, a do dia a dia. A carne é escura e magra, com 2 a 4 % de gordura.",
+      "p3": "Na Suécia o mesmo prato se chama <em>renskav</em>, e na Noruega <em>finnbiff</em>, cuja primeira parte é um nome antigo dos sámi que hoje é considerado pejorativo. A carne de rena da área de criação finlandesa tem desde 2009 sua própria denominação de origem protegida da UE, <strong>Lapin Poron liha</strong>: as renas pastam livres em pastagens naturais, e a carne é produzida, cortada e embalada dentro da área de criação.",
       "imageAlt": "Uma rena de pé na neve funda de uma floresta de inverno"
     },
     "variations": {
       "kicker": "Variações",
-      "headline": "Cerveja, creme de leite ou bacon.",
-      "lead": "A panela tradicional tem quatro ingredientes. Todo o resto veio depois.",
+      "headline": "Da tenda sámi ao acampamento de lenhadores.",
+      "lead": "A panela tradicional tem quatro ingredientes, mas nos relatos antigos da Lapônia cada panela tem seu jeito.",
       "items": [
         {
-          "title": "Cerveja escura",
-          "body": "A Valio e a K-Ruoka cozinham a carne em cerveja escura com um pouco de água. Os açougueiros da Rönkä lembram que, com cerveja, vinho ou creme de leite, o prato deixa de ser o tradicional."
+          "title": "Numa kota, com neve",
+          "body": "Na feira de Rovaniemi, em 1937, um homem sámi preparou käristys no fogo aberto dentro de uma kota, pôs um pouco de carne de porco no fundo da panela e, no lugar da água, salpicou neve dentro dela. O escritor que tinha vindo do sul de visita nunca havia comido o prato."
         },
         {
-          "title": "Renskav sueco",
-          "body": "Na Suécia, o renskav costuma ser um ensopado cremoso com cantarelos e bagas de zimbro amassadas, pronto em menos de 30 minutos e servido com lingonberries cruas mexidas com açúcar."
+          "title": "O käristys do acampamento de lenhadores",
+          "body": "Nos acampamentos de lenhadores, o käristys era feito numa käristyskauha no fogo da lareira da cabana, à noite e de manhã, muitas vezes com toucinho salgado. É por isso que o dicionário de dialetos o define como feito “de carne (de rena) (e toucinho salgado)”."
         },
         {
-          "title": "Bacon",
-          "body": "A receita da K-Ruoka frita bacon junto com a rena, para ganhar mais gordura e um fundo defumado."
+          "title": "Creme de leite, cerveja e renskav",
+          "body": "Nas receitas dos supermercados, a carne hoje cozinha em fogo baixo na cerveja escura ou no creme de leite, e o renskav sueco costuma ser finalizado com creme de leite, cantarelos e bagas de zimbro. Os açougueiros da Rönkä lembram que, quando entram cerveja, vinho ou creme de leite, já não é o käristys tradicional."
         }
       ]
     },
@@ -1796,14 +1796,14 @@
   },
   "leipajuusto": {
     "title": "Leipäjuusto: receitas do queijo finlandês que range",
-    "description": "Leipäjuusto, o queijo finlandês dourado no forno que range nos dentes: morno com geleia de amora-ártica, no café ou na salada. Três receitas e a origem.",
+    "description": "Leipäjuusto, o queijo finlandês dourado no forno que range nos dentes: morno com geleia de amora-ártica, no café ou na salada. Quatro receitas e a origem.",
     "teaser": "Queijo fresco dourado no forno que range nos dentes: morno com geleia de amora-ártica, no café ou na salada, e como fazer em casa a partir do leite.",
     "hero": {
       "eyebrow": "Queijo finlandês assado · Leipäjuusto",
       "title": "Leipäjuusto, o queijo",
       "titleHighlight": "que range.",
-      "subtitle": "Um queijo fresco e achatado do norte da Finlândia, assado até ganhar manchas tostadas e comido morno com geleia de amora-ártica ou amolecido numa xícara de café. Aqui você vê como servir, como fazer em casa a partir do leite e por que ele range nos dentes.",
-      "imageAlt": "Um leipäjuusto redondo com manchas tostadas numa travessa escura, com uma fatia cortada e coberta de geleia de amora ártica",
+      "subtitle": "Na Lapônia ele é leipäjuusto, e em Salla, kahvijuusto, o queijo do café. Antes era tostado sobre as brasas vivas até pegar gosto de fumaça, e comido com café. Aqui você encontra quatro jeitos de levá-lo à mesa, como fazer em casa e por que ele range nos dentes.",
+      "imageAlt": "Um leipäjuusto recém-assado com manchas tostadas em uma assadeira em Ristijärvi, Kainuu, em agosto de 2026",
       "primaryCta": "Ir para as receitas",
       "secondaryCta": "Todas as receitas tradicionais",
       "pills": [
@@ -1816,33 +1816,33 @@
       ]
     },
     "intro": {
-      "lead": "O leipäjuusto não é maturado nem derretido. É leite coagulado com coalho, prensado num disco achatado e assado até a superfície tostar em manchas, como um pão.",
+      "lead": "O leipäjuusto não é maturado nem derretido. O leite é coalhado, a coalhada é prensada num disco achatado e tostada até a superfície dourar em manchas, como a casca de um pão.",
       "points": [
         {
           "n": "01",
-          "title": "Assado, não maturado",
-          "body": "A coalhada é moldada num disco de 0,5 a 3 cm de espessura e assada dos dois lados, no forno, na grelha ou junto a uma fogueira. O queijo se come em poucos dias, não em meses."
+          "title": "Tostado no fogo",
+          "body": "O Dicionário dos Dialetos Finlandeses define o leipäjuusto como um queijo fino tostado ao calor do fogo ou no forno. Em Rovaniemi ele era assado sobre o ahjos, as brasas vivas, de modo que ficava com gosto de fumaça."
         },
         {
           "n": "02",
-          "title": "O rangido é de verdade",
-          "body": "Pesquisadores finlandeses de acústica testaram 100 amostras em 2025: o leipäjuusto rangeu em todos os testes, a muçarela em um de cada cinco. O som vem do atrito, como o arco na corda do violino."
+          "title": "O rangido foi medido",
+          "body": "Pesquisadores finlandeses de acústica testaram 100 amostras em 2025: o leipäjuusto rangeu em todos os testes, a muçarela em só um de cada cinco. O som vem do atrito, como o arco na corda do violino."
         },
         {
           "n": "03",
-          "title": "Geleia de amora-ártica ou café",
-          "body": "Os dois jeitos tradicionais de comer: morno, com geleia de amora-ártica, como sobremesa, ou em cubos numa xícara de café quente, comido de colher."
+          "title": "Primeiro, o café",
+          "body": "A geleia de amora-ártica é o costume moderno. Antes o queijo era comido puro ou em pedaços numa xícara de café, e o queijo seco, duro como pedra, amolecia no café."
         }
       ]
     },
     "recipes": {
       "kicker": "As receitas",
-      "headline": "Três jeitos de levá-lo à mesa.",
-      "lead": "A sobremesa morna que a maioria dos finlandeses tem em mente quando fala em leipäjuusto, uma salada de dia de semana e o próprio queijo, feito com 4 litros de leite.",
+      "headline": "Quatro jeitos de levá-lo à mesa.",
+      "lead": "Queijo morno com amora-ártica, o queijo do café do jeito tradicional do norte, o próprio queijo feito com quatro litros de leite e uma salada de dia de semana.",
       "items": [
         {
           "name": "Leipäjuusto morno com geleia de amora-ártica",
-          "description": "A sobremesa clássica: o queijo aquecido no creme de leite até amolecer, com geleia de amora-ártica por cima. Fica pronta em 20 minutos.",
+          "description": "O clássico de hoje: o queijo aquecido no creme de leite até amolecer, com geleia de amora-ártica por cima. Fica pronto em 20 minutos.",
           "time": "20 min",
           "serves": "4 pessoas",
           "level": "Fácil",
@@ -1859,8 +1859,51 @@
             "Asse por cerca de 15 minutos, até o creme borbulhar e o queijo amolecer.",
             "Espalhe a geleia de amora-ártica sobre o queijo quente e sirva na hora."
           ],
-          "tip": "Com pressa, 3 minutos no micro-ondas a 800 W fazem o mesmo serviço. Se não houver amora-ártica, geleia de lingonberry ou de mirtilo silvestre também funciona.",
-          "imageAlt": "Uma fatia quente de leipäjuusto com geleia num prato"
+          "tip": "Na Lapônia a fruta se chama hilla, e uma crença registrada em Kolari diz que uma noite de Ano-Novo estrelada promete um bom verão de amoras-árticas. Se não tiver geleia de amora-ártica, a de lingonberry ou a de mirtilo silvestre também serve. Com pressa, o micro-ondas resolve: 3 minutos a 800 watts.",
+          "imageAlt": "Um leipäjuusto redondo com manchas tostadas numa travessa escura, com uma fatia cortada e coberta de geleia de amora ártica"
+        },
+        {
+          "name": "Queijo do café: leipäjuusto na xícara de café",
+          "description": "O jeito mais antigo de comer leipäjuusto: pedaços na xícara e café fervido quente por cima. O queijo amolece, a gordura forma gotinhas na superfície do café, e os pedaços são comidos de colher.",
+          "time": "10 min",
+          "serves": "2 pessoas",
+          "level": "Fácil",
+          "ingredients": [
+            "100 g de leipäjuusto",
+            "4 dl de água",
+            "4 colheres de sopa de café moído grosso, para ferver",
+            "Um cubo de açúcar, se quiser"
+          ],
+          "instructions": [
+            "Corte o leipäjuusto em cubos de mais ou menos um centímetro ou em tiras finas e divida entre duas xícaras.",
+            "Ferva a água num bule, junte o café e deixe levantar fervura uma vez.",
+            "Tire o bule do fogo e deixe a borra assentar no fundo por 3 a 4 minutos.",
+            "Despeje o café quente sobre o queijo e deixe os pedaços amolecerem por um instante.",
+            "Beba o café e coma o queijo de colher."
+          ],
+          "tip": "O costume vem do queijo seco: o queijo duro como pedra era guardado no meio dos cereais e amolecido no café. Em 1892, um jornal finlandês contou, numa reportagem de viagem pela Lapônia, como o queijo de leite de rena ia no café preto no lugar do creme de leite, e a gordura formava gotinhas na superfície."
+        },
+        {
+          "name": "Leipäjuusto caseiro",
+          "description": "4 litros de leite integral, coalho e uma noite na geladeira. O grill do forno faz as manchas tostadas.",
+          "time": "1 hora + uma noite",
+          "serves": "1 queijo",
+          "level": "Médio",
+          "ingredients": [
+            "4 l de leite integral",
+            "1 colher de sopa de coalho líquido",
+            "1 colher de sopa de sal"
+          ],
+          "instructions": [
+            "Aqueça o leite com o sal a cerca de 36 °C, morno ao toque, mexendo para não grudar no fundo.",
+            "Tire a panela do fogo, misture o coalho e deixe descansar sem mexer por cerca de 30 minutos, até coagular.",
+            "Corte a coalhada em cubos pequenos e deixe o soro se separar.",
+            "Passe a coalhada para uma peneira forrada com um pano fino e deixe escorrer na geladeira durante a noite.",
+            "Aperte a coalhada num refratário redondo e raso, numa camada de cerca de 2 cm, e descarte o soro que se soltar.",
+            "Doure no grill do forno a 250–275 °C por 5 a 10 minutos, até aparecerem manchas escuras."
+          ],
+          "tip": "Antes o queijo era tostado numa tábua redonda de bétula, na boca do forno de pão ou diante das brasas, e a tábua era girada para o queijo dourar por igual. O melhor leite, achava-se, era o colostro, o primeiro leite da vaca depois do parto. Em casa, o leite integral comum funciona bem.",
+          "imageAlt": "Um queijo juustoleipä redondo fotografado de cima em 1914, em preto e branco"
         },
         {
           "name": "Salada de leipäjuusto",
@@ -1887,56 +1930,35 @@
             "Bata o óleo, o vinagre, o mel, o sal e a pimenta até formar um molho.",
             "Misture as folhas com o pepino e a cebola, cubra com o queijo quente, as frutas e as sementes e regue com o molho."
           ],
-          "tip": "O leipäjuusto mantém a forma na frigideira quente, por isso doura sem óleo nenhum."
-        },
-        {
-          "name": "Leipäjuusto caseiro",
-          "description": "4 litros de leite integral, coalho e uma noite na geladeira. O grill do forno faz as manchas tostadas.",
-          "time": "1 hora + uma noite",
-          "serves": "1 queijo",
-          "level": "Médio",
-          "ingredients": [
-            "4 l de leite integral",
-            "1 colher de sopa de coalho líquido",
-            "1 colher de sopa de sal"
-          ],
-          "instructions": [
-            "Aqueça o leite com o sal a cerca de 36 °C, morno ao toque, mexendo para não grudar no fundo.",
-            "Tire a panela do fogo, misture o coalho e deixe descansar sem mexer por cerca de 30 minutos, até coagular.",
-            "Corte a coalhada em cubos pequenos e deixe o soro se separar.",
-            "Passe a coalhada para uma peneira forrada com um pano fino e deixe escorrer na geladeira durante a noite.",
-            "Aperte a coalhada num refratário redondo e raso, numa camada de cerca de 2 cm, e descarte o soro que se soltar.",
-            "Doure no grill do forno a 250–275 °C por 5 a 10 minutos, até aparecerem manchas escuras."
-          ],
-          "tip": "Tradicionalmente, o melhor leipäjuusto era feito com colostro, o primeiro leite depois do parto da vaca, rico em caseína. Em casa, o leite integral comum funciona bem.",
-          "imageAlt": "Um queijo juustoleipä redondo fotografado de cima em 1914, em preto e branco"
+          "tip": "O leipäjuusto mantém a forma na frigideira quente, por isso doura sem óleo nenhum.",
+          "imageAlt": "Cubos de leipäjuusto tostados sobre uma tábua de madeira"
         }
       ]
     },
     "about": {
       "kicker": "O que é",
-      "headline": "Queijo fresco, assado até ganhar manchas.",
-      "p1": "O leipäjuusto é um queijo fresco de leite de vaca coagulado com coalho. A coalhada é moldada num disco achatado e assada dos dois lados, no forno, na grelha ou junto a uma fogueira, até a superfície ganhar manchas escuras. Como não é maturado, dura de 10 a 14 dias a partir do laticínio.",
-      "p2": "É um queijo do norte da Finlândia. A maioria dos registros dialetais da palavra leipäjuusto vem da Ostrobótnia e de Peräpohjola, no noroeste, enquanto em Kainuu o mesmo queijo se chama juustoleipä. No vale do Tornio, na fronteira com a Suécia, ele é kahvijuusto, o queijo do café, e do outro lado do rio, na Suécia, kaffeost.",
-      "p3": "A matéria-prima tradicional era o colostro, o primeiro leite depois do parto, rico em caseína, e foi com ele que a Juustoportti, em Jalasjärvi, fez o primeiro leipäjuusto comercial, em 1966. Duas versões finlandesas aguardam agora um nome protegido pela UE: o <strong>Pohjalainen leipäjuusto</strong> e o <strong>Kainuun juustoleipä</strong> fizeram o pedido em 2024. Na Suécia, o kaffeost virou denominação de origem protegida em 2025.",
+      "headline": "Queijo fresco, tostado no fogo.",
+      "p1": "O leipäjuusto é um queijo fresco feito coalhando leite de vaca. A coalhada é moldada num disco achatado e assada dos dois lados até ficar com manchas escuras: antes ao calor do fogo ou no forno, hoje no forno de um laticínio. Como não é maturado, o queijo dura de 10 a 14 dias a partir do laticínio.",
+      "p2": "O nome muda de região para região. Em Peräpohjola, no noroeste, e na Ostrobótnia ele é leipäjuusto; em Kainuu, juustoleipä; e em Salla foi registrado o nome kahvijuusto, o queijo do café. No lado sueco do vale do Tornio ele é kahvijuusto, em sueco kaffeost. Em Posio, o queijo era levado às reuniões de oração e oferecido às visitas que vinham de longe.",
+      "p3": "No norte também se fazia queijo com leite de rena. Na Lapônia de Tornio as renas eram ordenhadas e o leite virava queijo; na Lapônia de Kemi, não. A Agência do Patrimônio da Finlândia guarda uma fôrma para queijo de leite de rena entalhada em 1858, vinda de Lohiniva, em Rovaniemi, e em Enontekiö as renas ainda eram ordenhadas na década de 1940. Dois leipäjuustos finlandeses aguardam agora a proteção do nome pela UE: o <strong>Pohjalainen leipäjuusto</strong> e o <strong>Kainuun juustoleipä</strong> fizeram o pedido em 2024. Na Suécia, o kaffeost virou denominação de origem protegida em 2025.",
       "imageAlt": "Uma fatia de leipäjuusto com a superfície tostada a manchas sobre uma tábua de ardósia"
     },
     "variations": {
       "kicker": "Como comer",
-      "headline": "Morno, no café ou frio.",
-      "lead": "O leipäjuusto vai bem doce ou salgado, quente ou frio. É assim que você vai encontrá-lo na Finlândia.",
+      "headline": "No café, nas brasas ou no creme de leite.",
+      "lead": "O leipäjuusto vai bem doce ou salgado, quente ou frio. É assim que se come no norte, antigamente e hoje.",
       "items": [
         {
           "title": "Na xícara de café",
-          "body": "O jeito antigo: cubos de queijo na xícara, café quente por cima e tudo comido de colher. No Tornedalen, do lado sueco, o queijo é amolecido do mesmo jeito em café fervido."
+          "body": "O jeito mais antigo. Os sámi punham queijo seco no caldo de carne, e quando o café fervido chegou ao norte, os pedaços de queijo passaram para o café. No vale do Tornio, do lado sueco, o queijo ainda é amolecido em café fervido."
+        },
+        {
+          "title": "Nas brasas",
+          "body": "Em Rovaniemi o leipäjuusto era assado sobre o ahjos, as brasas vivas, de modo que ficava com gosto de fumaça. Numa fogueira você consegue o mesmo aquecendo o queijo numa tábua de madeira na beira das brasas e virando de vez em quando."
         },
         {
           "title": "Assado no creme de leite",
-          "body": "Aquecido no forno com creme de leite até amolecer e servido com geleia de amora-ártica. É a versão de sobremesa e a primeira receita desta página."
-        },
-        {
-          "title": "Na frigideira",
-          "body": "Dourado na frigideira sem óleo e usado em saladas e hambúrgueres, como os laticínios hoje sugerem na embalagem."
+          "body": "O queijo aquecido no creme de leite, no forno, até amolecer, com geleia de amora-ártica. É a sobremesa moderna e a primeira receita desta página."
         }
       ]
     },
@@ -2015,7 +2037,7 @@
         },
         {
           "question": "Leipäjuusto e juustoleipä são a mesma coisa?",
-          "answer": "São. Leipäjuusto é o nome no finlandês padrão, e juustoleipä é como o mesmo queijo se chama em Kainuu. No vale do Tornio ele é kahvijuusto, e o kaffeost sueco vem da mesma tradição."
+          "answer": "São. Leipäjuusto é o nome no finlandês padrão e o usado em Peräpohjola, juustoleipä é o nome do mesmo queijo em Kainuu, e em Salla foi registrado o nome kahvijuusto. No vale do Tornio, do lado sueco, ele é kahvijuusto, em sueco kaffeost."
         },
         {
           "question": "Quanto tempo dura o leipäjuusto?",
@@ -2061,7 +2083,7 @@
       "title": "A nova",
       "titleHighlight": "cozinha ártica.",
       "subtitle": "A cozinha moderna da Lapônia pega os ingredientes que os sámi usam há mil anos, rena, peixe de lago, frutas e ervas silvestres, e os emprata com técnica New Nordic. Esta página conta como isso aconteceu e onde provar.",
-      "imageAlt": "Rena ao molho de caça com airelas-vermelhas, purê de nabo e porcini em um prato de vidro cinza, mesa de restaurante em Helsinque",
+      "imageAlt": "Sobremesa de chocolate com frutas silvestres em um prato de cerâmica canelado, no Kieppi Kitchen & Bar, em Saariselkä, outubro de 2026",
       "primaryCta": "Onde reservar",
       "secondaryCta": "As receitas tradicionais"
     },
@@ -2346,7 +2368,7 @@
       "title": "Coma sua",
       "titleHighlight": "Lapônia.",
       "subtitle": "Três experiências gastronômicas reserváveis na Lapônia: um almoço caseiro com uma família sami de criadores de renas em Inari, um tour gastronômico por cinco restaurantes de Rovaniemi e uma colheita de frutas silvestres em Luosto.",
-      "imageAlt": "Prato de entrada com salmão defumado a quente, perca defumada e salmão defumado a frio com legumes em conserva em um prato preto",
+      "imageAlt": "Muikku frito (coregono-branco) sobre purê de batata com pepino em conserva, beterraba em cubos e um molho para mergulhar, no Riipisen Riistaravintola, em Ruka, outubro de 2026",
       "primaryCta": "Ver todas no GetYourGuide"
     },
     "intro": {
@@ -2589,7 +2611,8 @@
     "hero": {
       "kicker": "Sobre o LaplandFood",
       "headline": "Comida finlandesa, escrita daqui de cima.",
-      "lead": "O LaplandFood fala de comida finlandesa: de onde vêm os ingredientes, o que a cozinha sámi faz com eles, o que significa cozinha ártica moderna e onde se come de verdade na Lapônia. O site faz parte da rede LaplandVibes, e a redação é independente."
+      "lead": "O LaplandFood fala de comida finlandesa: de onde vêm os ingredientes, o que a cozinha sámi faz com eles, o que significa cozinha ártica moderna e onde se come de verdade na Lapônia. O site faz parte da rede LaplandVibes, e a redação é independente.",
+      "imageAlt": "Toras de bétula queimando em um forno a lenha de alvenaria em uma cabana em Kemijärvi, outubro de 2026"
     },
     "why": {
       "headline": "Por que este site existe.",

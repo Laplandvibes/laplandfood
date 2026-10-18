@@ -1,7 +1,21 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { useLocale } from '../i18n/useLocale'
+import PhotoCredit from './PhotoCredit'
+import { creditFor } from '../data/photoCredits'
 import { bebasEm, Fraasit, ilmanValeja, YKSI_RIVI_EM } from '../lib/otsikkoRivit'
+
+/** Etusivun herokuva (18.10.2026, Vesa: "etusivun hero kuva ei ole mielestäni hyvä"): tekoälyn asetelman
+ *  tilalle oikea poronkäristysannos (Antonio Caiazzo, Flickr, CC BY-SA 2.0: vain pienennys, näyttörajaus CSS:llä).
+ *  Annos on lähikuva, joten tietokoneella kuva on oikealla puoliskolla kokonaan näkyvissä ja teksti vasemmalla
+ *  (sama 'split' kuin PageHerossa). 🔴 Sivuston jakokortti EI saa tulla tästä BY-SA-kuvasta (§34.2): lv-opsin
+ *  sivustot.json og.korttikuva osoittaa omaan kuvaan. */
+const HERO = {
+  src: '/images/hero-poronkaristys-annos-1920.webp',
+  srcSet: '/images/hero-poronkaristys-annos-800.webp 800w, /images/hero-poronkaristys-annos-1280.webp 1280w, /images/hero-poronkaristys-annos-1920.webp 1920w, /images/hero-poronkaristys-annos-2560.webp 2560w',
+  pos: '55% 45%',
+  posLg: '58% 45%',
+}
 
 /**
  * Home Hero — full-bleed image with the Finland-blue overlay convention.
@@ -9,6 +23,7 @@ import { bebasEm, Fraasit, ilmanValeja, YKSI_RIVI_EM } from '../lib/otsikkoRivit
  */
 export default function Hero() {
   const { t } = useTranslation('pages')
+  const { t: tc } = useTranslation('common')
   const { to, locale } = useLocale()
   // Vesa 3.10.2026: "tehdään turhaan kolmirivisiä". Otsikko on kaksi osaa ("HOW FINLAND" + pinkki "EATS."), ja pakotettu
   // <br> jätti tietokoneella toisen osan yksin riville 9 kielellä, vaikka koko otsikko on 17–25 merkkiä ja mahtuu
@@ -23,107 +38,66 @@ export default function Hero() {
   const yksiRivi = koko <= YKSI_RIVI_EM
   const kaksiEm = Math.max(bebasEm(p1, 0.025), bebasEm(p2, 0.025))
   return (
-    <section className="relative pt-16 min-h-[88svh] overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-      {/* 🔴 ART-DIRECTED, not just two formats of one file. The hero box is
-          landscape on a desktop and hard PORTRAIT on a phone (min-h-88svh at
-          375 px ≈ 375×715), so object-cover throws away the left and right of
-          any 16:9 source. This flat-lay puts the food around the EDGES and
-          keeps the middle clear for the H1 — which means the phone crop of the
-          landscape file would have shown an empty tablecloth and no food at
-          all. The portrait file is the same table shot vertically, with the
-          food along the top and bottom edges instead. */}
-      {/* 🔴 KOLME leikkausta, ei kahta — ja ehto on KUVASUHDE, ei leveys.
-          Lohko on 88svh korkea, joten sen suhde on viewportin suhde / 0,88.
-          1440×900 → 1,82 ≈ 16:9-kuva, osuu kohdalleen. 1920×950 → 2,3, jolloin
-          object-cover skaalaa 16:9-kuvan leveyden mukaan ja leikkaa ylä- ja
-          alareunasta ~120 px kummastakin — eli juuri sen rivin jossa ruoka on
-          (Vesa 2026-08-10: "eihän tuotteet edes näy?"). Leveysrajaan ei voi
-          sitoa, koska 1920×1080 ja 1920×860 tarvitsevat eri kuvan. */}
-      <picture>
-        <source media="(max-width: 767px)" type="image/avif" srcSet="/images/hero-main-portrait.avif" />
-        <source media="(max-width: 767px)" type="image/webp" srcSet="/images/hero-main-portrait.webp" />
-        <source media="(max-width: 767px)" srcSet="/images/hero-main-portrait.jpg" />
-        <source media="(min-aspect-ratio: 16/9)" type="image/avif" srcSet="/images/hero-main-wide.avif" />
-        <source media="(min-aspect-ratio: 16/9)" type="image/webp" srcSet="/images/hero-main-wide.webp" />
-        <source media="(min-aspect-ratio: 16/9)" srcSet="/images/hero-main-wide.jpg" />
-        <source type="image/avif" srcSet="/images/hero-main.avif" />
-        <source type="image/webp" srcSet="/images/hero-main.webp" />
+    <section className="relative pt-16 overflow-hidden bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] lg:bg-none lg:bg-[#002F6C] lg:min-h-[80svh] lg:flex lg:items-center">
+      {/* 18.10.2026 (Vesa: "etusivun hero kuva ei ole mielestäni hyvä"): verkoston heromalli
+          kuten PageHero. Alle 1024 px kuva on oma puhdas kaistansa ilman tummennusta ja teksti
+          sen alla; lg+:ssa teksti vasemmalla kuvan päällä yhden vaakaliukuman varassa. Vanha
+          keskitetty soikea tummennus (radial) on poistettu kokonaan, se peitti kuvan keskeltä. */}
+      <div
+        className="relative h-[42svh] min-h-[260px] sm:h-[400px] md:h-[460px] lg:absolute lg:inset-y-0 lg:right-0 lg:w-[48%] lg:h-auto lg:min-h-0 overflow-hidden"
+        data-lv-tp-tausta="hero"
+      >
         <img
-          src="/images/hero-main.jpg"
+          src={HERO.src}
+          srcSet={HERO.srcSet}
+          sizes="(max-width: 639px) 160vw, (min-width: 1024px) 48vw, 100vw"
           alt={t('hero.imageAlt')}
           loading="eager"
           decoding="async"
           fetchPriority="high"
           onError={(e) => { e.currentTarget.style.display = 'none' }}
-          className="absolute inset-0 w-full h-full object-cover"
+          className="absolute inset-0 w-full h-full object-cover [object-position:var(--hero-pos)] lg:[object-position:var(--hero-pos-lg)]"
+          style={{ ['--hero-pos' as string]: HERO.pos, ['--hero-pos-lg' as string]: HERO.posLg }}
         />
-      </picture>
-      {/* Warm-neutral centred scrim, never a flat blue wash — the 2026-07-07
-          lesson still holds, and this image is warmer still. What changed on
-          2026-08-10 is WHERE the contrast has to come from: the old hero was
-          dark blue dusk and the type sat on it unaided, this one is pale linen
-          in exactly the place the H1 lands. So the radial is stronger and the
-          edges are left almost untouched — the food keeps its own light and
-          the darkening reads as natural falloff around the table. */}
-      {/* 🔴 Measured, not eyeballed. At the first strength the pale linen left
-          the pink kicker at 1.10:1 and the sub-head at 4.39:1 against white —
-          the old dark-blue hero carried the same pink at ~5:1, so a lighter
-          scrim here would have been a real accessibility regression dressed up
-          as restraint. These values put the sub-head over 4.5:1 and the pink
-          over 3:1 for large text, with the ellipse kept narrow enough that the
-          food around the edge keeps its own light. Re-measure if the image
-          changes: hide the hero copy, screenshot, sample the worst pixel under
-          each text band. */}
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_74%_80%_at_50%_46%,rgba(22,13,5,0.84)_0%,rgba(22,13,5,0.76)_46%,rgba(22,13,5,0.36)_78%,rgba(22,13,5,0.06)_94%,transparent_100%)]" />
-      <div className="absolute inset-0 bg-[linear-gradient(to_top,rgba(22,13,5,0.34)_0%,rgba(22,13,5,0.06)_46%,transparent_78%)]" />
+        <div aria-hidden="true" className="hidden lg:block absolute inset-y-0 left-0 w-28 xl:w-40 bg-gradient-to-r from-[#002F6C] to-transparent" />
+        <PhotoCredit credit={creditFor(HERO.src)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
+      </div>
 
-      {/* pb clears the stat-tile band that overlaps the hero bottom (-mt on Home) */}
-      <div className="@container relative z-10 max-w-6xl mx-auto px-5 sm:px-6 lg:px-8 min-h-[88svh] flex flex-col justify-center items-center text-center pt-20 pb-32 md:pb-36">
-        {/* 🔴 Muste #F9A8D4, ei #EC4899 (heroteksti-portti 20.9.2026). Tama rivi on
-          14 px puhelimessa ja 16 px tyopoydalla eli WCAG:n mielessa PIENTA tekstia,
-          jolloin raja on 4,5:1 eika 3:1. Ylla oleva 10.8. tehty mittaus tarkisti sen
-          isona tekstina ja paatyi hyvaksymaan 3:1 — siksi rivi jai 3,46–3,58:1:een ja
-          98–100 % sen taustapikseleista oli rajan alle kolmella leveydella. Vaalea
-          liina kuvassa on juuri tassa kohdassa. Sama vaaleampi pinkki kuin verkoston
-          muissa hero-korjauksissa. Otsikko ja ingressi mitattiin samalla ajolla
-          puhtaiksi, joten haivytykseen ei koskettu.
-          🔴 Puhelimessa viela vaaleampi #FBCFE8: PYSTYKUVASSA vaalea liina osuu
-          tasmalleen tahan riviin, ja #F9A8D4 jai siella 3,86:1:een (12 % pikseleista
-          rajan alle) kun tyopoydan vaakakuvassa sama muste on jo puhdas. Vika on
-          rajauksessa, joten korjauskin on rajauskohtainen — tyopoyta pitaa
-          verkoston pinkin. */}
-        <p className="text-[#FBCFE8] md:text-[#F9A8D4] text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5 drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
+      {/* pb jättää tilaa heron alareunan päälle nouseville lukulaatoille (-mt etusivulla). */}
+      <div className="relative z-10 w-full max-w-7xl mx-auto px-5 sm:px-6 lg:px-10 pt-8 pb-24 md:pb-28 lg:pt-24 lg:pb-36">
+        <div className="@container max-w-3xl mx-auto lg:mx-0 lg:max-w-[calc(52vw-max(0px,(100vw-80rem)/2)-5rem)] flex flex-col items-center text-center lg:items-start lg:text-left">
+        {/* 🔴 Muste #F9A8D4 (heroteksti-portti 20.9.2026): rivi on pientä tekstiä, raja 4,5:1. */}
+        <p className="text-[#F9A8D4] text-sm md:text-base font-semibold tracking-[0.22em] uppercase mb-5">
           {t('hero.kicker')}
         </p>
         <h1
-          className={`font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:[--h1-max:6rem] xl:[--h1-max:clamp(96px,1.5vw_+_76.8px,115.2px)] lg:[font-size:min(var(--h1-max),calc(100cqi/var(--h1-em-lg)))] xl:[font-size:min(var(--h1-max),calc(100cqi/var(--h1-em-xl)))] text-white leading-[0.92] mb-7 max-w-5xl xl:max-w-6xl break-words drop-shadow-[0_4px_24px_rgba(0,15,40,0.9)]${cjk ? ' [word-break:keep-all] [overflow-wrap:anywhere]' : ''}`}
+          className={`font-heading tracking-wide text-5xl sm:text-6xl md:text-7xl lg:[--h1-max:6rem] xl:[--h1-max:clamp(96px,1.5vw_+_76.8px,115.2px)] lg:[font-size:min(var(--h1-max),calc(100cqi/var(--h1-em-lg)))] xl:[font-size:min(var(--h1-max),calc(100cqi/var(--h1-em-xl)))] text-white leading-[0.92] mb-7 break-words lg:drop-shadow-[0_2px_14px_rgba(0,15,40,0.6)]${cjk ? ' [word-break:keep-all] [overflow-wrap:anywhere]' : ''}`}
           style={{ ['--h1-em-lg' as string]: kaksiEm.toFixed(2), ['--h1-em-xl' as string]: (yksiRivi ? koko : kaksiEm).toFixed(2) }}
         >
           <Fraasit text={p1} lang={locale} />
           <br className={yksiRivi ? 'xl:hidden' : undefined} />
           {yksiRivi && (cjk ? <wbr /> : ' ')}
-          <span className="text-vibe-pink drop-shadow-[0_0_40px_rgba(236,72,153,0.5)]"><Fraasit text={p2} lang={locale} /></span>
+          <span className="text-vibe-pink"><Fraasit text={p2} lang={locale} /></span>
         </h1>
-        <p className="text-lg md:text-xl text-white/95 max-w-2xl xl:max-w-4xl mb-10 leading-relaxed drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)] xl:text-2xl">
+        {/* Leipäteksti vasemmalle myös puhelimella (Vesa 18.10.2026). */}
+        <p className="text-lg md:text-xl text-white/95 max-w-2xl mb-10 leading-relaxed text-left text-pretty lg:drop-shadow-[0_2px_10px_rgba(0,15,40,0.7)]">
           {t('hero.subhead')}
         </p>
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
           <Link
             to={to('/traditional-recipes')}
-            // 🔴 #DB2777, ei #EC4899: teksti on 16 px eli pienta tekstia, ja valkoinen
-            // #EC4899:n paalla on 3,53:1 (korttiteksti-portti 20.9.2026, 100 %
-            // pikseleista rajan alle kahdella leveydella). Valkoinen #DB2777:n
-            // paalla on 4,63:1. Sama askel pinkin rampilla kuin hoteldealsissa.
+            // 🔴 #DB2777, ei #EC4899: valkoinen 16 px:n teksti #EC4899:n päällä on 3,53:1, #DB2777:n 4,63:1.
             className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-8 py-4 rounded-full transition-colors text-base shadow-[0_4px_28px_rgba(219,39,119,0.4)]"
           >
             {t('hero.ctaPrimary')}
           </Link>
           <Link
             to={to('/local-ingredients')}
-            className="inline-flex items-center justify-center bg-white/15 hover:bg-white/25 backdrop-blur text-white font-semibold px-8 py-4 rounded-full border border-white/40 transition-colors text-base"
+            className="inline-flex items-center justify-center bg-white/15 hover:bg-white/25 text-white font-semibold px-8 py-4 rounded-full border border-white/40 transition-colors text-base"
           >
             {t('hero.ctaSecondary')}
           </Link>
+        </div>
         </div>
       </div>
     </section>

@@ -55,7 +55,7 @@ export default function Berries() {
         publisher: { '@type': 'Organization', name: 'LaplandFood', url: 'https://laplandfood.com' },
         datePublished: '2026-09-14T00:00:00+03:00',
         dateModified: '2026-09-14T00:00:00+03:00',
-        image: 'https://laplandfood.com/images/hero-berries.jpg',
+        image: 'https://laplandfood.com/images/hero-berries-salla-1920.jpg',
       },
       {
         '@type': 'ItemList',
@@ -80,7 +80,10 @@ export default function Berries() {
           title={t('berries.hero.title')}
           titleHighlight={t('berries.hero.titleHighlight')}
           subtitle={t('berries.hero.subtitle')}
-          imageUrl="/images/hero-berries.webp"
+          imageUrl="/images/hero-berries-salla-1920.webp"
+          imageSrcSet="/images/hero-berries-salla-800.webp 800w, /images/hero-berries-salla-1280.webp 1280w, /images/hero-berries-salla-1920.webp 1920w, /images/hero-berries-salla-2560.webp 2560w"
+          layout="split"
+          imagePosition="72% 50%"
           imageAlt={t('berries.hero.imageAlt')}
           primaryCta={{ label: t('berries.hero.primaryCta'), href: to('/foraging-guide') }}
           secondaryCta={{ label: t('berries.hero.secondaryCta'), href: to('/local-ingredients') }}

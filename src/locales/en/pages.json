@@ -4,7 +4,7 @@
     "h1Part1": "HOW FINLAND",
     "h1Part2": "EATS.",
     "subhead": "A field guide to Finnish food culture: where the ingredients come from, what the recipes actually taste like, and why the country's Michelin scene is worth a detour.",
-    "imageAlt": "Overhead view of Lapland ingredients on pale wood and linen: sautéed reindeer in a cast-iron pan, bowls of cloudberries, bilberries and lingonberries, a whole fish on birch bark, rye bread, chanterelles and juniper",
+    "imageAlt": "A plate of poronkäristys: shaved reindeer on mashed potato with lingonberries and pickled cucumber",
     "ctaPrimary": "Explore Traditional Recipes",
     "ctaSecondary": "What Grows Up Here"
   },
@@ -169,7 +169,7 @@
       "title": "What grows",
       "titleHighlight": "up here.",
       "subtitle": "Six ingredients that define Lapland's pantry: where they come from, when they peak, and what they actually taste like.",
-      "imageAlt": "A white bowl full of freshly picked bilberries on the forest floor among bilberry shrubs",
+      "imageAlt": "Creamy mushroom soup topped with fried mushrooms, with bread, at Riipisen Riistaravintola in Ruka, October 2026",
       "primaryCta": "Foraging guide",
       "secondaryCta": "Recipes that use these"
     },
@@ -337,7 +337,7 @@
       "title": "Cloudberry, the bog's",
       "titleHighlight": "stubborn gold.",
       "subtitle": "Finns call it hilla and guard their picking spots like bank codes. Here is what the berry actually tastes like, why every single one is picked by hand, and where you'll meet it in Lapland.",
-      "imageAlt": "Open mire with ripe amber cloudberries in the foreground, white cottongrass and a dark bog pool behind",
+      "imageAlt": "Ripe orange cloudberries among the low plants of a mire",
       "primaryCta": "Learn to forage it",
       "secondaryCta": "All Lapland ingredients",
       "pills": [
@@ -1039,7 +1039,7 @@
       "title": "Sea buckthorn, orange fire",
       "titleHighlight": "from the shore.",
       "subtitle": "Tyrni does not grow in the forests of inland Lapland at all. It grows on the stony shores of the Gulf of Bothnia, north as far as the Lapland coast at Tornio, and it is the sourest berry in the Finnish larder and one of its richest in vitamin C. Here is where it lives, what it tastes like and why it is so hard to pick.",
-      "imageAlt": "Calm Gulf of Bothnia shore on a July evening, a stony beach at the right and a low forested point across the water",
+      "imageAlt": "Sea buckthorn shrubs heavy with orange berries on the Gulf of Bothnia shore at Billudden, Sweden",
       "primaryCta": "Learn to forage it",
       "secondaryCta": "The berry guide",
       "pills": [
@@ -1117,7 +1117,7 @@
       "p2": "Commercial growers solve it with cold. They cut fruiting branches and freeze them; frozen berries snap off cleanly and go straight to the press. That is also why most sea buckthorn reaches you as juice, purée or jam rather than fresh.",
       "p3": "The shrub is dioecious: male and female plants are separate, and only the females fruit, which is why a dense stand on the shore can be half barren.",
       "p4": "<strong>The upshot for a traveller: fresh sea buckthorn is rare even in Finland, but the juice is in every supermarket.</strong>",
-      "imageAlt": "Sea buckthorn shrubs heavy with orange berries on the Gulf of Bothnia shore at Billudden, Sweden"
+      "imageAlt": "Ripe orange sea buckthorn berries on a narrow-leaved branch at Kiikeli in Oulu in August"
     },
     "price": {
       "kicker": "Vitamin C",
@@ -1531,8 +1531,8 @@
       "eyebrow": "Lapland's reindeer dish · Poronkäristys",
       "title": "Poronkäristys, reindeer",
       "titleHighlight": "shaved thin, cooked slow.",
-      "subtitle": "Reindeer shaved into ribbons while half-frozen, browned in butter and simmered until it falls apart, then served on mashed potato with lingonberries and pickled cucumber. Here is the herders' own recipe, the oven version, what it costs and where to order it in Lapland.",
-      "imageAlt": "Five reindeer walking along the road at midsummer in Kilpisjärvi, Finnish Lapland, with a green fell slope behind",
+      "subtitle": "Poronkäristys is named after a sound: the fat sizzles, kärisee in Finnish, when icy reindeer meat hits the pan. It was the everyday food of logging camps and reindeer round-ups long before restaurants made it a classic. Here is the recipe as it is cooked in Lapland, the oven version, the sides and where to order it.",
+      "imageAlt": "Home-made poronkäristys in its juices beside mashed potato on a rose-patterned plate",
       "primaryCta": "Jump to the recipe",
       "secondaryCta": "All traditional recipes",
       "pills": [
@@ -1545,78 +1545,78 @@
       ]
     },
     "intro": {
-      "lead": "The reindeer herders' own association calls poronkäristys perhaps the most legendary of all reindeer dishes. The traditional version needs four things: reindeer, butter, water and salt.",
+      "lead": "The Dictionary of Finnish Dialects records käristys as a dish fried from shaved reindeer meat, “especially the everyday food of forest workers”, with an example from Kemijärvi: “At the logging camp in the evening we made the käristys.” The traditional pot still needs only four things: reindeer, fat, water and salt.",
       "points": [
         {
           "n": "01",
-          "title": "Shaved half-frozen",
-          "body": "The meat is shaved while half-frozen, at around −6 °C, when it is firm enough to cut into thin ribbons. Finnish shops sell it ready-shaved and frozen."
+          "title": "Shaved from frozen",
+          "body": "Once the frosts came, meat was shaved off a frozen roast as it was needed. “There's a knife for you, go and shave some meat”, runs an example recorded in Kittilä. Today Finnish shops sell it ready-shaved and frozen."
         },
         {
           "n": "02",
-          "title": "Butter, water, salt",
-          "body": "Traditional poronkäristys has no cream and no stock. The meat browns in butter or reindeer fat, then simmers under a lid with a splash of water. Pepper arrived later."
+          "title": "Fat, water, salt",
+          "body": "The traditional pot has no cream and no beer. The meat browns in butter or in reindeer fat, which herders call pinta, then simmers under a lid with a splash of water."
         },
         {
           "n": "03",
-          "title": "Never without lingonberries",
-          "body": "It is served on mashed potato with lingonberries and pickled cucumber. The herders' own recipe names frost-nipped, raw-stirred lingonberries as the best side."
+          "title": "Lingonberries alongside",
+          "body": "Today's plate is mashed potato, lingonberries and pickled cucumber. In the logging camps the käristys came with fried potatoes, and the reindeer herders' association names frost-nipped, raw-stirred lingonberries as the best side."
         }
       ]
     },
     "recipes": {
       "kicker": "The recipe",
       "headline": "Poronkäristys, the home way.",
-      "lead": "Three recipes: the stovetop classic of the reindeer herders' association, the slower oven version for a bigger pot, and the two sides that belong with it.",
+      "lead": "Three recipes: käristys in a pan the way Lapland has always made it, a slower oven version for a bigger table, and the two sides that belong on the plate.",
       "items": [
         {
           "name": "Traditional poronkäristys",
-          "description": "The herders' version: reindeer, fat, water and salt, simmered under a lid until tender. Pepper is optional, cream is not part of it.",
+          "description": "Reindeer, fat, water and salt in a heavy pan or a cast-iron pot. Pepper is optional, cream is not part of it.",
           "time": "30–60 min",
           "serves": "3–4",
           "level": "Easy",
           "ingredients": [
-            "500 g frozen poronkäristys (shaved reindeer)",
+            "500 g frozen poronkäristys (shaved reindeer) or a frozen reindeer roast",
             "25 g butter or reindeer fat",
             "1 dl water",
             "¾ tsp salt",
             "Freshly ground black pepper, if you like"
           ],
           "instructions": [
-            "Let the frozen meat soften in the fridge just enough to break the block apart; the slices should still be icy.",
-            "Melt the fat in a heavy pan or a cast-iron pot over high heat and add the meat in batches, breaking up the frozen slices with a spatula.",
-            "Fry until the meat has thawed, its juices have boiled away and it has started to brown.",
+            "If you bought a whole roast, let it soften in the fridge just until a sharp knife goes in, then shave the frozen meat into ribbons as thin as you can. Ready-shaved frozen käristys is broken into pieces the same way, while still icy.",
+            "Heat the fat in a heavy pan or a cast-iron pot on the largest ring of the stove until it sizzles. Add the meat in batches and break up the frozen ribbons with a spatula.",
+            "Fry until the meat has thawed, its juices have boiled away and the ribbons start to brown.",
             "Pour in the water and add the salt.",
-            "Turn the heat down, cover and simmer until the meat is tender, 10 to 30 minutes for leg meat and longer for other cuts. Add a splash of water if it runs dry.",
+            "Turn the heat down, cover and simmer until the meat is tender: 10 to 30 minutes for leg meat, longer for shoulder and the front of the back. Add a splash of water if it runs dry.",
             "Taste, add pepper if you like, and serve on mashed potato with lingonberries and pickled cucumber."
           ],
-          "tip": "The reindeer herders' association says the strongest flavour comes from frying the meat in reindeer fat.",
+          "tip": "Herders fry in pinta, the fat that builds up under the skin along a reindeer's back, and the reindeer herders' association says reindeer fat gives the pot its strongest flavour. Go easy on seasoning. As the Salla herder Hannu Lahtela puts it: “Reindeer should taste of reindeer.”",
           "imageAlt": "A plate of poronkäristys: shaved reindeer on mashed potato with lingonberries and pickled cucumber"
         },
         {
           "name": "Poronkäristys in the oven",
-          "description": "The same pot, finished in a low oven. It takes longer, needs no stirring and suits a bigger batch.",
+          "description": "The same pot, finished in a low oven. It takes longer, needs no stirring and suits a bigger table.",
           "time": "2–3 hours",
           "serves": "6",
           "level": "Easy",
           "ingredients": [
-            "1 kg frozen poronkäristys (shaved reindeer)",
+            "1 kg frozen poronkäristys",
             "3 tbsp butter or reindeer fat",
             "2 dl water",
             "1½ tsp salt"
           ],
           "instructions": [
             "Heat the oven to 125 °C.",
-            "Brown the meat in the fat in an ovenproof cast-iron pot on the hob, in batches, until its juices have boiled away.",
-            "Add the water and the salt and bring to a simmer.",
-            "Put the lid on and move the pot into the oven for 2 to 3 hours, until the meat pulls apart.",
-            "Check once or twice and add a splash of water if needed. Serve like the stovetop version."
+            "Brown the meat in the fat in batches in an ovenproof cast-iron pot on the stove until the juices have boiled away.",
+            "Add the water and salt and bring to the boil.",
+            "Cover and move the pot to the oven for 2 to 3 hours, until the meat falls apart under a fork.",
+            "Check once or twice and add a splash of water if needed. Serve as for the stovetop version."
           ],
-          "tip": "Published oven recipes range from 125 °C for 2 to 3 hours, the herders' association's choice, to 175 or 200 °C for about an hour. The lower the heat, the longer it needs."
+          "tip": "Published oven recipes range from 125 °C for 2 to 3 hours, the herders' association's choice, to 175 or 200 °C for about an hour. The lower the heat, the longer it needs: Hannu Lahtela leaves reindeer neck in the oven overnight on the falling heat."
         },
         {
-          "name": "Mashed potato and raw-stirred lingonberries",
-          "description": "The two sides that make the plate: buttery mashed potato and lingonberries stirred raw with sugar.",
+          "name": "Mashed potato and stirred lingonberries",
+          "description": "The two sides that make the plate: buttery mashed potato and raw lingonberries stirred with sugar.",
           "time": "30 min",
           "serves": "4",
           "level": "Easy",
@@ -1635,34 +1635,34 @@
             "Stir the lingonberries with the sugar in a bowl and leave them while the potatoes cook, stirring now and then, until the sugar has dissolved.",
             "Serve both with the reindeer, with a few slices of pickled cucumber."
           ],
-          "tip": "Finnish recipes mash puikula, the long yellow potato of Lapland; Lapin Puikula has been an EU protected designation of origin since 1997."
+          "tip": "In Lapland the mash is ideally made from puikula, the long yellow potato with the EU protected designation of origin Lapin Puikula. The variety is adapted to northern conditions, and its quality falls off further south."
         }
       ]
     },
     "about": {
       "kicker": "What it is",
-      "headline": "Reindeer, shaved thin.",
-      "p1": "Poronkäristys is reindeer meat shaved into thin ribbons while half-frozen, browned in fat and simmered in a little water until tender. The reindeer herders' association names the cuts for it: silverside and knuckle from the hind leg, shoulder and the front of the back.",
-      "p2": "Most Finnish reindeer are slaughtered in October and November, after at least half a year on nothing but natural grazing. The meat is dark and lean, with 2 to 4 % fat.",
-      "p3": "Across the border in Sweden the same dish is <em>renskav</em>. Reindeer meat from the Finnish herding area has its own EU protected designation of origin, <strong>Lapin Poron liha</strong>, since 2009: the reindeer graze freely on natural pastures, and the meat is produced, cut and packed inside the herding area.",
+      "headline": "Food of the logging camp and the round-up fence.",
+      "p1": "Poronkäristys is reindeer meat shaved into thin ribbons while frozen, browned in fat and simmered in a little water until tender. The name comes from a sound: <em>käristä</em> is the sizzle of fat in a pan. Dialect records place käristys in Kainuu and in Finnish Lapland, and in the logging camps the men kept a pan just for it, the <em>käristyskauha</em>.",
+      "p2": "Reindeer for slaughter are sorted out at the round-ups, which run from late September into January, and many people in Lapland still buy their meat straight from a herder at the round-up fence or from a reindeer farm. In the herders' association grading, roasts and fillets are the meat for “high-quality poronkäristys”, shoulder and the front of the back for the everyday kind. The meat is dark and lean, with 2 to 4 % fat.",
+      "p3": "In Sweden the same dish is <em>renskav</em>, and in Norway <em>finnbiff</em>, whose first part is an old name for the Sámi that is now considered derogatory. Reindeer meat from the Finnish herding area has its own EU protected designation of origin, <strong>Lapin Poron liha</strong>, since 2009: the reindeer graze freely on natural pastures, and the meat is produced, cut and packed inside the herding area.",
       "imageAlt": "A reindeer standing in deep snow in a winter forest"
     },
     "variations": {
       "kicker": "Variations",
-      "headline": "Beer, cream or bacon.",
-      "lead": "The traditional pot has four ingredients. Everything else is a later addition.",
+      "headline": "From the Sámi tent to the logging camp.",
+      "lead": "The traditional pot has four ingredients, but in Lapland's old accounts every pot has its own way.",
       "items": [
         {
-          "title": "Dark beer",
-          "body": "Valio and K-Ruoka simmer the meat in dark beer with a little water. The Rönkä butchers point out that with beer, wine or cream it is no longer the traditional dish."
+          "title": "In a kota, with snow",
+          "body": "At the Rovaniemi market in 1937 a Sámi man cooked käristys over an open fire in a kota, put a little pork in the bottom of the pot and sprinkled snow into it instead of water. The visiting writer from the south had never eaten the dish before."
         },
         {
-          "title": "Swedish renskav",
-          "body": "In Sweden renskav is usually a creamy stew with chanterelles and crushed juniper berries, ready in under 30 minutes and served with raw-stirred lingonberries."
+          "title": "Logging-camp käristys",
+          "body": "At the logging camps käristys was cooked in a käristyskauha over the cabin's fireplace in the evenings and mornings, often with salt pork. That is why the dialect dictionary defines it as made “from (reindeer) meat (and salt pork)”."
         },
         {
-          "title": "Bacon",
-          "body": "K-Ruoka's recipe fries bacon with the reindeer, for extra fat and a smoky depth."
+          "title": "Cream, beer and renskav",
+          "body": "Shop recipes today simmer the meat in dark beer or cream, and Swedish renskav is usually finished with cream, chanterelles and juniper berries. The butchers of Rönkä point out that once beer, wine or cream go in, it is no longer traditional käristys."
         }
       ]
     },
@@ -1796,14 +1796,14 @@
   },
   "leipajuusto": {
     "title": "Leipäjuusto: Finnish Squeaky Cheese, How to Eat and Make It",
-    "description": "Leipäjuusto is Finland's oven-browned squeaky cheese, eaten warm with cloudberry jam, in coffee or in salad. Three recipes, origins and why it squeaks.",
+    "description": "Leipäjuusto is Finland's oven-browned squeaky cheese, eaten warm with cloudberry jam, in coffee or in salad. Four recipes, origins and why it squeaks.",
     "teaser": "Oven-browned fresh cheese that squeaks against your teeth: warm with cloudberry jam, in coffee or in a salad, and how to make it from milk.",
     "hero": {
       "eyebrow": "Finnish bread cheese · Leipäjuusto",
       "title": "Leipäjuusto, the cheese",
       "titleHighlight": "that squeaks.",
-      "subtitle": "A flat fresh cheese from the Finnish north, baked until it is spotted brown, eaten warm with cloudberry jam or softened in a cup of coffee. Here is how to serve it, how to make it from milk at home, and why it squeaks against your teeth.",
-      "imageAlt": "A round leipäjuusto with brown spots in a dark dish, one wedge cut and topped with cloudberry jam",
+      "subtitle": "In Lapland it is leipäjuusto, and in Salla kahvijuusto, coffee cheese. It used to be toasted over glowing embers until it tasted of smoke, and eaten with coffee. Here are four ways to put it on the table, how to make it at home, and why it squeaks against your teeth.",
+      "imageAlt": "A freshly baked leipäjuusto with brown spots on a baking tray in Ristijärvi, Kainuu, in August 2026",
       "primaryCta": "Jump to the recipes",
       "secondaryCta": "All traditional recipes",
       "pills": [
@@ -1816,33 +1816,33 @@
       ]
     },
     "intro": {
-      "lead": "Leipäjuusto is neither aged nor melted. It is milk set with rennet, pressed into a flat round and baked until the surface browns in spots, like a loaf of bread.",
+      "lead": "Leipäjuusto is neither aged nor melted. The milk is curdled, the curd is pressed into a flat round and toasted until the surface browns in spots like a bread crust.",
       "points": [
         {
           "n": "01",
-          "title": "Baked, not aged",
-          "body": "The curd is shaped into a disc 0.5 to 3 cm thick and baked on both sides, in an oven, on a grill or by an open fire. It is eaten within days, not months."
+          "title": "Toasted by the fire",
+          "body": "The Dictionary of Finnish Dialects defines leipäjuusto as a thin cheese toasted in the glow of a fire or in the oven. In Rovaniemi it was baked on ahjos, glowing embers, so that it tasted of smoke."
         },
         {
           "n": "02",
-          "title": "The squeak is real",
-          "body": "Finnish acoustics researchers tested 100 samples in 2025: bread cheese squeaked in every trial, mozzarella in one trial in five. The sound is friction, like a bow on a string."
+          "title": "The squeak has been measured",
+          "body": "Finnish acoustics researchers tested 100 samples in 2025: leipäjuusto squeaked in every trial, mozzarella in only one in five. The sound comes from friction, like a bow on a violin string."
         },
         {
           "n": "03",
-          "title": "Cloudberry jam or coffee",
-          "body": "The two traditional ways to eat it: warm with cloudberry jam as a dessert, or in cubes in a cup of hot coffee, eaten with a spoon."
+          "title": "Coffee first",
+          "body": "Cloudberry jam is the modern way. The cheese used to be eaten plain or in pieces in a cup of coffee, and dried, rock-hard cheese softened in the coffee."
         }
       ]
     },
     "recipes": {
       "kicker": "The recipes",
-      "headline": "Three ways to put it on the table.",
-      "lead": "The warm dessert most Finns mean when they say leipäjuusto, a weekday salad, and the cheese itself, made from 4 litres of milk.",
+      "headline": "Four ways to put it on the table.",
+      "lead": "Warm cheese with cloudberries, coffee cheese the way the north has drunk it, the cheese itself from four litres of milk, and a weekday salad.",
       "items": [
         {
           "name": "Warm leipäjuusto with cloudberry jam",
-          "description": "The classic dessert: the cheese warmed in cream until it softens, with cloudberry jam spooned over. Ready in 20 minutes.",
+          "description": "Today's classic: the cheese warmed in cream until it softens, with cloudberry jam spooned over. Ready in 20 minutes.",
           "time": "20 min",
           "serves": "4",
           "level": "Easy",
@@ -1859,8 +1859,51 @@
             "Bake for about 15 minutes, until the cream bubbles and the cheese has softened.",
             "Spoon the cloudberry jam over the warm cheese and serve straight away."
           ],
-          "tip": "In a hurry, 3 minutes in the microwave at 800 W does the same job. Lingonberry or bilberry jam works when cloudberries are out of reach.",
-          "imageAlt": "A warm slice of leipäjuusto with jam on a plate"
+          "tip": "In Lapland the berry is called hilla, and a belief recorded in Kolari says a starry New Year's night promises a good cloudberry summer. If you have no cloudberry jam, lingonberry or bilberry jam works too. In a hurry, the microwave does the warming: 3 minutes at 800 watts.",
+          "imageAlt": "A round leipäjuusto with brown spots in a dark dish, one wedge cut and topped with cloudberry jam"
+        },
+        {
+          "name": "Coffee cheese: leipäjuusto in a cup of coffee",
+          "description": "The oldest way to eat leipäjuusto: pieces in the cup and hot boiled coffee poured over. The cheese softens, the fat beads on the surface of the coffee, and you eat the pieces with a spoon.",
+          "time": "10 min",
+          "serves": "2",
+          "level": "Easy",
+          "ingredients": [
+            "100 g leipäjuusto",
+            "4 dl water",
+            "4 tbsp coarsely ground coffee for boiling",
+            "A sugar lump, if you like"
+          ],
+          "instructions": [
+            "Cut the leipäjuusto into cubes of about a centimetre or thin strips and divide them between two cups.",
+            "Bring the water to the boil in a coffee pot, add the coffee and let it boil up once.",
+            "Take the pot off the heat and let the grounds settle for 3 to 4 minutes.",
+            "Pour the hot coffee over the cheese and let the pieces soften for a moment.",
+            "Drink the coffee and eat the cheese with a spoon."
+          ],
+          "tip": "The habit comes from dried cheese: rock-hard cheese was stored among the grain and softened in coffee. In 1892 a Finnish newspaper reported from a journey in Lapland how reindeer cheese went into black coffee instead of cream, and the fat beaded on the surface."
+        },
+        {
+          "name": "Homemade leipäjuusto",
+          "description": "4 litres of whole milk, rennet and a night in the fridge. The oven grill gives the brown spots.",
+          "time": "1 hour + overnight",
+          "serves": "1 cheese",
+          "level": "Moderate",
+          "ingredients": [
+            "4 l whole milk",
+            "1 tbsp liquid rennet",
+            "1 tbsp salt"
+          ],
+          "instructions": [
+            "Warm the milk with the salt to about 36 °C, hand-warm, stirring so that the bottom does not catch.",
+            "Take the pan off the heat, stir in the rennet and leave it undisturbed for about 30 minutes, until it sets.",
+            "Cut the set curd into small cubes and let the whey separate.",
+            "Lift the curd into a sieve lined with cheesecloth and let it drain in the fridge overnight.",
+            "Press the curd into a flat round ovenproof dish, about 2 cm thick, and pour off any whey.",
+            "Brown it under the oven grill at 250 to 275 °C for 5 to 10 minutes, until dark spots appear."
+          ],
+          "tip": "The cheese used to be toasted on a round birch board at the mouth of the bread oven or in front of the embers, and the board was turned so that the cheese browned evenly. The best milk was thought to be beestings, the first milk after calving. At home, ordinary whole milk works well.",
+          "imageAlt": "A round juustoleipä cheese photographed from above in 1914, black and white"
         },
         {
           "name": "Leipäjuusto salad",
@@ -1887,56 +1930,35 @@
             "Whisk the oil, vinegar, honey, salt and pepper into a dressing.",
             "Toss the leaves with the cucumber and onion, top with the warm cheese, the berries and the seeds, and pour over the dressing."
           ],
-          "tip": "Leipäjuusto holds its shape in a hot pan, so it browns without any oil."
-        },
-        {
-          "name": "Homemade leipäjuusto",
-          "description": "4 litres of whole milk, rennet and a night in the fridge. The oven grill gives it the brown spots.",
-          "time": "1 hour + overnight",
-          "serves": "1 cheese",
-          "level": "Moderate",
-          "ingredients": [
-            "4 l whole milk",
-            "1 tbsp liquid rennet",
-            "1 tbsp salt"
-          ],
-          "instructions": [
-            "Warm the milk with the salt to about 36 °C, hand-warm, stirring so that the bottom does not catch.",
-            "Take the pan off the heat, stir in the rennet and leave it undisturbed for about 30 minutes, until it sets.",
-            "Cut the set curd into small cubes and let the whey separate.",
-            "Lift the curd into a sieve lined with cheesecloth and let it drain in the fridge overnight.",
-            "Press the curd into a flat round ovenproof dish, about 2 cm thick, and pour off any whey.",
-            "Brown it under the oven grill at 250 to 275 °C for 5 to 10 minutes, until dark spots appear."
-          ],
-          "tip": "The best leipäjuusto was traditionally made from colostrum, the first milk after calving, which is rich in casein. Ordinary whole milk works at home.",
-          "imageAlt": "A round juustoleipä cheese photographed from above in 1914, black and white"
+          "tip": "Leipäjuusto holds its shape in a hot pan, so it browns without any oil.",
+          "imageAlt": "Toasted cubes of leipäjuusto on a wooden board"
         }
       ]
     },
     "about": {
       "kicker": "What it is",
-      "headline": "Fresh cheese, baked until spotted.",
-      "p1": "Leipäjuusto is a fresh cheese made from cow's milk set with rennet. The curd is shaped into a flat disc and baked on both sides until the surface browns in dark spots, in an oven, on a grill or by an open fire. It is not aged, so it keeps for 10 to 14 days from the dairy.",
-      "p2": "It belongs to the north of Finland. Most dialect records of the word leipäjuusto come from Ostrobothnia and Peräpohjola in the north-west, while in Kainuu the same cheese is called juustoleipä. In the Tornio valley on the Swedish border it is kahvijuusto, coffee cheese, and across the river in Sweden kaffeost.",
-      "p3": "The traditional raw material was colostrum, the first milk after calving, which is rich in casein, and Juustoportti in Jalasjärvi made the first commercial leipäjuusto from it in 1966. Two Finnish versions are now waiting for an EU protected name: <strong>Pohjalainen leipäjuusto</strong> and <strong>Kainuun juustoleipä</strong> applied in 2024. In Sweden, kaffeost became a protected designation of origin in 2025.",
+      "headline": "Fresh cheese, toasted by the fire.",
+      "p1": "Leipäjuusto is a fresh cheese made by curdling cow's milk. The curd is shaped into a flat round and baked on both sides until it is spotted dark, once in the glow of a fire or in the oven, today in a dairy's oven. Because the cheese is not aged, it keeps for 10 to 14 days from the dairy.",
+      "p2": "The name changes from region to region. In Peräpohjola in the north-west and in Ostrobothnia it is leipäjuusto, in Kainuu juustoleipä, and from Salla the name kahvijuusto, coffee cheese, has been recorded. On the Swedish side of the Tornio valley it is kahvijuusto, in Swedish kaffeost. In Posio the cheese was taken to prayer meetings and given to guests who had come from far away.",
+      "p3": "In the north cheese was also made from reindeer milk. In Tornio Lapland reindeer were milked and the milk made into cheese, in Kemi Lapland they were not. The Finnish Heritage Agency holds a reindeer-milk cheese mould carved in 1858 from Lohiniva in Rovaniemi, and in Enontekiö reindeer were still milked in the 1940s. Two Finnish leipäjuustos are now waiting for EU name protection: <strong>Pohjalainen leipäjuusto</strong> and <strong>Kainuun juustoleipä</strong> applied in 2024. In Sweden, kaffeost received a protected designation of origin in 2025.",
       "imageAlt": "A wedge of leipäjuusto with a brown-spotted top on a slate board"
     },
     "variations": {
       "kicker": "Ways to eat it",
-      "headline": "Warm, in coffee or cold.",
-      "lead": "Leipäjuusto goes sweet or savoury, warm or cold. These are the ways you will meet it in Finland.",
+      "headline": "In coffee, on the embers or in cream.",
+      "lead": "Leipäjuusto works sweet and savoury, warm and cold. This is how the north has eaten it, then and now.",
       "items": [
         {
           "title": "In a cup of coffee",
-          "body": "The old way: cubes of cheese in the cup, hot coffee poured over, eaten with a spoon. In Swedish Tornedalen the cheese is softened in boiled coffee the same way."
+          "body": "The oldest way. The Sámi used to put dried cheese into meat broth, and when boiled coffee reached the north, the pieces of cheese moved into the coffee. In the Swedish Tornio valley the cheese is still softened in boiled coffee."
+        },
+        {
+          "title": "On the embers",
+          "body": "In Rovaniemi leipäjuusto was baked on ahjos, glowing embers, so that it tasted of smoke. You get the same by a campfire when you warm the cheese on a wooden board at the edge of the embers and turn it now and then."
         },
         {
           "title": "Baked in cream",
-          "body": "Warmed in the oven in cream until soft, then served with cloudberry jam. This is the dessert version, and the first recipe on this page."
-        },
-        {
-          "title": "Pan-fried",
-          "body": "Browned in a dry pan and put into salads and burgers, the way the dairies now suggest on the pack."
+          "body": "The cheese warmed in cream in the oven until soft, with cloudberry jam. This is the modern dessert and the first recipe on this page."
         }
       ]
     },
@@ -2015,7 +2037,7 @@
         },
         {
           "question": "Is leipäjuusto the same as juustoleipä?",
-          "answer": "Yes. Leipäjuusto is the standard Finnish name and juustoleipä the Kainuu name for the same cheese. In the Tornio valley it is kahvijuusto, and Swedish kaffeost comes from the same tradition."
+          "answer": "Yes. Leipäjuusto is the standard Finnish name and the name used in Peräpohjola, juustoleipä is the Kainuu name for the same cheese, and the name kahvijuusto has been recorded in Salla. In the Swedish Tornio valley it is kahvijuusto, in Swedish kaffeost."
         },
         {
           "question": "How long does leipäjuusto keep?",
@@ -2061,7 +2083,7 @@
       "title": "The new",
       "titleHighlight": "Arctic kitchen.",
       "subtitle": "Modern Lapland cooking takes the ingredients the Sami have used for a thousand years (reindeer, lake fish, wild berries and herbs) and plates them with New Nordic technique. This page tells the story of how that happened, and where to taste it.",
-      "imageAlt": "Reindeer in a lingonberry and game sauce with turnip purée and porcini on a grey glass plate, restaurant table in Helsinki",
+      "imageAlt": "Chocolate dessert with forest berries on a ridged ceramic plate at Kieppi Kitchen & Bar in Saariselkä, October 2026",
       "primaryCta": "Where to book",
       "secondaryCta": "The traditional recipes"
     },
@@ -2346,7 +2368,7 @@
       "title": "Eat your way",
       "titleHighlight": "around Lapland.",
       "subtitle": "Three bookable food experiences in Lapland: a home-cooked lunch with a Sámi reindeer-herding family in Inari, a food tour of five restaurants in Rovaniemi and a berry-picking trip at Luosto.",
-      "imageAlt": "A starter plate of hot-smoked salmon, smoked perch and cold-smoked salmon with pickled vegetables on a black plate",
+      "imageAlt": "Fried vendace on mashed potato with pickled cucumber, diced beetroot and a dip at Riipisen Riistaravintola in Ruka, October 2026",
       "primaryCta": "Browse all on GetYourGuide"
     },
     "intro": {
@@ -2589,7 +2611,8 @@
     "hero": {
       "kicker": "About LaplandFood",
       "headline": "Finnish food, written from up here.",
-      "lead": "LaplandFood is about Finnish food: where the ingredients come from, what the Sámi kitchen does with them, what modern Arctic cooking means, and where people actually eat in Lapland. The site belongs to the LaplandVibes network, and the editorial side is independent."
+      "lead": "LaplandFood is about Finnish food: where the ingredients come from, what the Sámi kitchen does with them, what modern Arctic cooking means, and where people actually eat in Lapland. The site belongs to the LaplandVibes network, and the editorial side is independent.",
+      "imageAlt": "Birch logs burning in a wood-fired masonry oven at a cabin in Kemijärvi, October 2026"
     },
     "why": {
       "headline": "Why this site exists.",

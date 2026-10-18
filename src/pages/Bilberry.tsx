@@ -9,7 +9,9 @@ const BILBERRY: BerryConfig = {
   key: 'bilberry',
   path: '/bilberry',
   hero: {
-    image: '/images/hero-bilberry.webp',
+    image: '/images/hero-bilberry-salla-1920.webp',
+    srcSet: '/images/hero-bilberry-salla-800.webp 800w, /images/hero-bilberry-salla-1280.webp 1280w, /images/hero-bilberry-salla-1920.webp 1920w, /images/hero-bilberry-salla-2304.webp 2304w',
+    layout: 'split',
   },
   taste: {
     image: '/images/bilberry-hand.jpg',
