@@ -449,13 +449,12 @@
         },
         {
           "title": "Licor de amora ártica",
-          "body": "Lakka, o licor âmbar feito de amoras árticas silvestres, é o clássico fim de jantar finlandês: gelado e puro, ou derramado sobre sorvete de baunilha. Numa garrafa cabe uma quantidade impressionante de pântano.",
-          "imageAlt": "Um cálice de licor de amora ártica cor de âmbar com uma garrafa sem rótulo atrás e frutas soltas sobre uma mesa escura"
+          "body": "Lakka, o licor âmbar feito de amoras árticas silvestres, é o clássico fim de jantar finlandês: gelado e puro, ou derramado sobre sorvete de baunilha. Numa garrafa cabe uma quantidade impressionante de pântano."
         },
         {
           "title": "Parfait de amora ártica",
           "body": "A sobremesa do fine dining da Lapônia. Quando os menus degustação do norte chegam à sobremesa, costumam aterrissar aqui, e na temporada toda cozinha quer frutas frescas para prepará-lo.",
-          "imageAlt": "Uma fatia de parfait gelado de amora ártica num prato escuro, com frutas inteiras e um biscoito crocante por cima"
+          "imageAlt": "Sorvete com amoras árticas e um biscoito rendado em uma kuksa de madeira em Abisko, Lapônia sueca"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "Com rena",
-          "body": "Nos restaurantes da Lapônia, uma redução de mirtilo silvestre ou mirtilos lactofermentados acompanham o filé de rena. A acidez corta a gordura; a cor faz o resto.",
-          "imageAlt": "Fatias de filé de rena malpassado com uma redução escura de mirtilo e frutas inteiras num prato de pedra"
+          "body": "Nos restaurantes da Lapônia, uma redução de mirtilo silvestre ou mirtilos lactofermentados acompanham o filé de rena. A acidez corta a gordura; a cor faz o resto."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "No cardápio de sobremesas",
           "body": "Os menus degustação da Lapônia e de Helsinque usam o espinheiro-marítimo como seu limão: um sorbet entre os pratos, um curd sob chocolate branco, um molho cortante ao lado do peixe ártico gordo.",
-          "imageAlt": "Uma quenelle de sorbet laranja de espinheiro-marítimo num prato escuro com creme de chocolate branco e uma lasca de caramelo"
+          "imageAlt": "Uma cúpula de chocolate branco com calda de espinheiro-marítimo e frutas inteiras de espinheiro-marítimo, servida como sobremesa em Copenhague"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Dois clássicos da Lapônia",
       "headline": "Poronkäristys e leipäjuusto, cada um na sua página.",
       "cta": "Abrir as receitas"
+    },
+    "imageLabels": {
+      "gahkku": "Na foto: uma mulher sámi assando pão achatado no fogo dentro de uma tenda lavvu, no acampamento sámi de Sallohaure, Lapônia sueca"
+    },
+    "imageAlts": {
+      "gahkku": "Na foto: uma mulher sámi assando pão achatado no fogo dentro de uma tenda lavvu, no acampamento sámi de Sallohaure, Lapônia sueca",
+      "stoneOven": "Elina Lokka tirando pão de um forno de pedra em Lokka, Sodankylä, em 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "Os melhores restaurantes da Lapônia estão espalhados por Rovaniemi, Inari, Levi e Saariselkä. O plano mais limpo: escolha um hotel a uma distância caminhável de onde você quer comer e deixe o resto com a gente.",
       "ctaPrimary": "Hotéis em Rovaniemi",
       "ctaSecondary": "Ou reserve um tour de alta gastronomia"
+    },
+    "imageLabels": {
+      "whitefish": "Na foto: a entrada de coregono “Tunturin siikaa” no Riipisen Riistaravintola, em Ruka, outubro de 2026",
+      "berries": "Na foto: lingonberries, algas vermelhas e mirtilo silvestre fermentado no Daniel Berlin Krog, em Skåne, Suécia",
+      "reindeer": "Na foto: um prato moderno de rena no restaurante Emmas Drømmekjøkken, em Tromsø, agosto de 2025"
+    },
+    "imageAlts": {
+      "whitefish": "Na foto: a entrada de coregono “Tunturin siikaa” no Riipisen Riistaravintola, em Ruka, outubro de 2026",
+      "berries": "Na foto: lingonberries, algas vermelhas e mirtilo silvestre fermentado no Daniel Berlin Krog, em Skåne, Suécia",
+      "reindeer": "Na foto: um prato moderno de rena no restaurante Emmas Drømmekjøkken, em Tromsø, agosto de 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "Julho – outubro"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Na foto: uma rena à beira da estrada entre Ivalo e Inari, outubro de 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Na foto: uma rena à beira da estrada entre Ivalo e Inari, outubro de 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelin na Finlândia 2026 e onde comer na Lapônia",

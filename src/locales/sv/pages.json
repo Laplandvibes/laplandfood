@@ -449,13 +449,12 @@
         },
         {
           "title": "Hjortronlikör",
-          "body": "Lakka, den bärnstensgula likören på vilda hjortron, är Finlands klassiska avslutning på middagen: kall som den är eller hälld över vaniljglass. En flaska rymmer förvånansvärt mycket myr.",
-          "imageAlt": "Ett litet glas bärnstensfärgad hjortronlikör med en omärkt flaska bakom och lösa hjortron på ett mörkt bord"
+          "body": "Lakka, den bärnstensgula likören på vilda hjortron, är Finlands klassiska avslutning på middagen: kall som den är eller hälld över vaniljglass. En flaska rymmer förvånansvärt mycket myr."
         },
         {
           "title": "Hjortronparfait",
           "body": "Lapplands fine dining-dessert. När nordens avsmakningsmenyer når efterrätten är det oftast här de landar, och i säsong vill varje kök ha färska bär till den.",
-          "imageAlt": "En bit fryst hjortronparfait på ett mörkt fat, toppad med hela hjortron och ett krispigt rån"
+          "imageAlt": "Glass med hjortron och ett flarn i en kuksakopp av trä i Abisko i svenska Lappland"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "Till ren",
-          "body": "På Lapplands restauranger står en blåbärsreduktion eller mjölksyrade blåbär bredvid renfilén. Syran skär igenom fettet; färgen sköter resten.",
-          "imageAlt": "Skivor av rosastekt renfilé med en mörk blåbärsreduktion och hela blåbär på en stentallrik"
+          "body": "På Lapplands restauranger står en blåbärsreduktion eller mjölksyrade blåbär bredvid renfilén. Syran skär igenom fettet; färgen sköter resten."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "På efterrättsmenyn",
           "body": "Lapplands och Helsingfors avsmakningsmenyer använder havtorn som sin citron: en sorbet mellan rätterna, en curd under vit choklad, en skarp sås till fet arktisk fisk.",
-          "imageAlt": "En quenelle orange havtornssorbet på ett mörkt fat med vit chokladkräm och en karamellflisa"
+          "imageAlt": "En kupol av vit choklad med havtornssås och hela havtornsbär, serverad som dessert i Köpenhamn"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Två klassiker från Lappland",
       "headline": "Poronkäristys och leipäjuusto har fått egna sidor.",
       "cta": "Till recepten"
+    },
+    "imageLabels": {
+      "gahkku": "På bilden: en samisk kvinna bakar tunnbröd över elden i en lavvu på samelägret i Sallohaure, svenska Lappland"
+    },
+    "imageAlts": {
+      "gahkku": "På bilden: en samisk kvinna bakar tunnbröd över elden i en lavvu på samelägret i Sallohaure, svenska Lappland",
+      "stoneOven": "Elina Lokka tar ut bröd ur en stenugn i Lokka i Sodankylä år 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "Lapplands bästa restauranger ligger utspridda över Rovaniemi, Inari, Levi och Saariselkä. Den enklaste planen: välj ett hotell inom gångavstånd från där du vill äta, och låt oss ta hand om resten.",
       "ctaPrimary": "Hotell i Rovaniemi",
       "ctaSecondary": "Eller boka en fine dining-tur"
+    },
+    "imageLabels": {
+      "whitefish": "På bilden: sikförrätten ”Tunturin siikaa” på Riipisen Riistaravintola i Ruka, oktober 2026",
+      "berries": "På bilden: lingon, rödalger och fermenterade blåbär på Daniel Berlin Krog i Skåne, Sverige",
+      "reindeer": "På bilden: en modern renrätt på Emmas Drømmekjøkken i Tromsø, augusti 2025"
+    },
+    "imageAlts": {
+      "whitefish": "På bilden: sikförrätten ”Tunturin siikaa” på Riipisen Riistaravintola i Ruka, oktober 2026",
+      "berries": "På bilden: lingon, rödalger och fermenterade blåbär på Daniel Berlin Krog i Skåne, Sverige",
+      "reindeer": "På bilden: en modern renrätt på Emmas Drømmekjøkken i Tromsø, augusti 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "juli–oktober"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "På bilden: en ren vid vägen mellan Ivalo och Enare, oktober 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "På bilden: en ren vid vägen mellan Ivalo och Enare, oktober 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelinstjärnor i Finland 2026 och var man äter i Lappland",

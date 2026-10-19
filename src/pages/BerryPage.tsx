@@ -2,11 +2,13 @@ import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { Trans, useTranslation } from 'react-i18next';
 import { ArrowRight, ArrowUpRight } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import PhotoCredit from '../components/PhotoCredit';
+import NoPhotoTile from '../components/NoPhotoTile';
 import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -44,7 +46,11 @@ export interface BerryConfig {
   /** Yksi kuva per tuotekortti, indeksi vastaa `products.items`-taulukkoa
    *  (sama jarjestys kaikilla 12 kielella). Vesa 15.9.: paljaat tekstikortit
    *  eivat kelpaa, kun sivu kertoo mita marjasta tehdaan. */
-  products: { images: string[] };
+  products: {
+    images: (string | null)[];
+    /** null-kuvan tilalle piirrettävä kuvake (19.10.2026): tekoälykuva ei kelpaa, aitoa ei löytynyt. */
+    noPhotoIcon?: LucideIcon;
+  };
   /** GYG-tuote tai -kategoria polkuna (ei hakua). Puuttuu, jos GYG:ssä ei ole
    *  marjaan liittyvää retkeä: silloin missä maistaa -kaistassa on vain
    *  ravintolaopas (tyrni 8.10.2026). */
@@ -267,8 +273,12 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
               {products.map((pr, i) => (
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                    <img src={cfg.products.images[i]} alt={products[i]?.imageAlt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(cfg.products.images[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
+                    {cfg.products.images[i] ? (
+                      <>
+                        <img src={cfg.products.images[i]!} alt={products[i]?.imageAlt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                        <PhotoCredit credit={creditFor(cfg.products.images[i]!)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
+                      </>
+                    ) : cfg.products.noPhotoIcon ? <NoPhotoTile icon={cfg.products.noPhotoIcon} /> : null}
                   </div>
                   <div className="p-6">
                     <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>

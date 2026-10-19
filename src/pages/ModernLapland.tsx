@@ -20,10 +20,16 @@ interface TechItem { title: string; body: string }
 
 const DISH_IMAGES = [
   '/images/dish-sous-vide-reindeer.jpg',
-  '/images/dish-whitefish.jpg',
-  '/images/dish-berry-tasting.jpg',
-  '/images/dish-deconstructed-bidos.jpg',
+  '/images/dish-whitefish-riipinen.jpg',
+  '/images/dish-lingonberry-daniel-berlin.jpg',
+  '/images/dish-reindeer-tromso.jpg',
 ];
+// 19.10.2026: kolme tekoälykuvaa aidoiksi. Kuvat eivät ole juuri kortin nimeämää annosta (siika on
+// Riipisen "Tunturin siikaa", ei confit; bidosta ei ole modernina annoksena kuvattu), joten jokaisessa
+// on lyhyt "Kuvassa: …" -merkintä (`imageLabels`, alle 80 leveysyksikköä: pidempi on kuvateksti-portille
+// virke, joka vaatisi 16 px) ja pitkä kuvaus altissa (`imageAlts`). Siika = oma kuva Rukalta 9.10.2026,
+// muut Flickr CC (ks. photoCredits.ts). Indeksi = `modernLapland.dishes`.
+const DISH_PHOTO_NOTES: (string | undefined)[] = [undefined, 'whitefish', 'berries', 'reindeer'];
 
 // Index-mapped to modernLapland.techniques.items (same order in all 12 locales).
 const TECH_IMAGES = [
@@ -31,7 +37,7 @@ const TECH_IMAGES = [
   '/images/tech-sous-vide.jpg',
   '/images/tech-cold-curing.jpg',
   '/images/tech-foraged-garnish.jpg',
-  '/images/tech-whole-ingredient.jpg',
+  '/images/tech-whole-ingredient-saariselka.jpg',
 ];
 
 export default function ModernLapland() {
@@ -78,8 +84,8 @@ export default function ModernLapland() {
               {dishes.map((d, i) => (
                 <article key={d.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={DISH_IMAGES[i]} alt={d.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(DISH_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
+                    <img src={DISH_IMAGES[i]} alt={DISH_PHOTO_NOTES[i] ? t(`modernLapland.imageAlts.${DISH_PHOTO_NOTES[i]}`) : d.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    <PhotoCredit credit={creditFor(DISH_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" note={DISH_PHOTO_NOTES[i] ? t(`modernLapland.imageLabels.${DISH_PHOTO_NOTES[i]}`) : undefined} />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-4 left-5 right-5">
                       <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">

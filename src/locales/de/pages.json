@@ -450,13 +450,12 @@
         },
         {
           "title": "Moltebeerlikör",
-          "body": "Lakka, der bernsteinfarbene Likör aus wilden Moltebeeren, ist Finnlands klassischer Abschluss eines Abendessens: kalt pur oder über Vanilleeis gegossen. In eine Flasche passt erstaunlich viel Moor.",
-          "imageAlt": "Ein kleines Glas bernsteinfarbener Moltebeerenlikör, dahinter eine schlichte Flasche und lose Moltebeeren auf einem dunklen Tisch"
+          "body": "Lakka, der bernsteinfarbene Likör aus wilden Moltebeeren, ist Finnlands klassischer Abschluss eines Abendessens: kalt pur oder über Vanilleeis gegossen. In eine Flasche passt erstaunlich viel Moor."
         },
         {
           "title": "Moltebeer-Parfait",
           "body": "Das Fine-Dining-Dessert Lapplands. Wenn die Degustationsmenüs des Nordens beim Dessert ankommen, landen sie meist hier, und in der Saison will jede Küche frische Beeren dafür.",
-          "imageAlt": "Ein Stück gefrorenes Moltebeerenparfait auf einem dunklen Teller, mit ganzen Moltebeeren und einer knusprigen Waffel"
+          "imageAlt": "Eis mit Moltebeeren und einer Hippe in einem hölzernen Kuksa-Becher in Abisko, Schwedisch-Lappland"
         }
       ]
     },
@@ -981,8 +980,7 @@
         },
         {
           "title": "Zum Rentier",
-          "body": "In Lapplands Restaurants stehen eine Heidelbeerreduktion oder milchsauer vergorene Heidelbeeren neben dem Rentierfilet. Die Säure schneidet durch das Kräftige; die Farbe erledigt den Rest.",
-          "imageAlt": "Scheiben von rosa gebratenem Rentierfilet mit dunkler Heidelbeerreduktion und ganzen Heidelbeeren auf einem Steinteller"
+          "body": "In Lapplands Restaurants stehen eine Heidelbeerreduktion oder milchsauer vergorene Heidelbeeren neben dem Rentierfilet. Die Säure schneidet durch das Kräftige; die Farbe erledigt den Rest."
         }
       ]
     },
@@ -1158,7 +1156,7 @@
         {
           "title": "Auf der Dessertkarte",
           "body": "Die Degustationsmenüs Lapplands und Helsinkis verwenden Sanddorn als ihre Zitrone: ein Sorbet zwischen den Gängen, ein Curd unter weißer Schokolade, eine scharfe Sauce zu öligem arktischem Fisch.",
-          "imageAlt": "Eine Nocke orangefarbenes Sanddornsorbet auf einem dunklen Teller mit weißer Schokoladencreme und einem Karamellsplitter"
+          "imageAlt": "Eine Kuppel aus weißer Schokolade mit Sanddornsauce und ganzen Sanddornbeeren, als Dessert in Kopenhagen serviert"
         }
       ]
     },
@@ -1522,6 +1520,13 @@
       "kicker": "Zwei Klassiker aus Lappland",
       "headline": "Poronkäristys und Leipäjuusto, jeweils auf einer eigenen Seite.",
       "cta": "Zu den Rezepten"
+    },
+    "imageLabels": {
+      "gahkku": "Im Bild: eine samische Frau backt Fladenbrot über dem Feuer in einem Lavvu-Zelt im samischen Lager Sallohaure, Schwedisch-Lappland"
+    },
+    "imageAlts": {
+      "gahkku": "Im Bild: eine samische Frau backt Fladenbrot über dem Feuer in einem Lavvu-Zelt im samischen Lager Sallohaure, Schwedisch-Lappland",
+      "stoneOven": "Elina Lokka holt 1937 in Lokka, Sodankylä, Brot aus einem Steinofen"
     }
   },
   "poronkaristys": {
@@ -2177,6 +2182,16 @@
       "lead": "Lapplands beste Restaurants sind verteilt auf Rovaniemi, Inari, Levi und Saariselkä. Der klarste Plan: Wählen Sie ein Hotel in Gehweite zu dem Ort, an dem Sie essen möchten, und überlassen Sie uns den Rest.",
       "ctaPrimary": "Hotels in Rovaniemi",
       "ctaSecondary": "Oder buchen Sie eine Fine-Dining-Tour"
+    },
+    "imageLabels": {
+      "whitefish": "Im Bild: die Felchenvorspeise „Tunturin siikaa“ im Riipisen Riistaravintola in Ruka, Oktober 2026",
+      "berries": "Im Bild: Preiselbeeren, Rotalgen und fermentierte Heidelbeeren im Daniel Berlin Krog in Skåne, Schweden",
+      "reindeer": "Im Bild: ein modernes Rentiergericht im Emmas Drømmekjøkken in Tromsø, August 2025"
+    },
+    "imageAlts": {
+      "whitefish": "Im Bild: die Felchenvorspeise „Tunturin siikaa“ im Riipisen Riistaravintola in Ruka, Oktober 2026",
+      "berries": "Im Bild: Preiselbeeren, Rotalgen und fermentierte Heidelbeeren im Daniel Berlin Krog in Skåne, Schweden",
+      "reindeer": "Im Bild: ein modernes Rentiergericht im Emmas Drømmekjøkken in Tromsø, August 2025"
     }
   },
   "foragingGuide": {
@@ -2437,7 +2452,13 @@
         "location": "Luosto",
         "season": "Juli–Oktober"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Im Bild: ein Rentier an der Straße zwischen Ivalo und Inari, Oktober 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Im Bild: ein Rentier an der Straße zwischen Ivalo und Inari, Oktober 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelin-Sterne in Finnland 2026 und wo man in Lappland isst",

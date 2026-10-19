@@ -1,12 +1,13 @@
 import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { Trans, useTranslation } from 'react-i18next';
-import { ArrowRight, ArrowUpRight } from 'lucide-react';
+import { ArrowRight, ArrowUpRight, Wine } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import PhotoCredit from '../components/PhotoCredit';
+import NoPhotoTile from '../components/NoPhotoTile';
 import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -31,7 +32,9 @@ interface NextStep { title: string; body: string; cta: string }
 const PILL_ANCHORS = ['#taste', '#season', '#right-to-pick', '#why-wild', '#price', '#products', '#where-to-taste'];
 
 // Index-mapped `cloudberry.products.items`-taulukkoon (sama jarjestys 12 kielella).
-const PRODUCT_IMAGES = ['/images/cloudberry-jam-cheese.webp', '/images/cloudberry-liqueur.jpg', '/images/cloudberry-parfait.jpg'];
+// 19.10.2026: tekoälykuvat pois. Liköörille ei löytynyt aitoa kuvaa lasista (vain merkkipulloja) ⇒ kuvake;
+// parfaitin tilalla aito hillajälkiruoka Abiskosta (Flickr CC BY 2.0, ks. photoCredits.ts).
+const PRODUCT_IMAGES: (string | null)[] = ['/images/cloudberry-jam-cheese.webp', null, '/images/cloudberry-dessert-abisko.jpg'];
 // Kuvan alt on `cloudberry.products.items[i].imageAlt` 12 kielellä (5.10.2026; oli tässä englanniksi).
 
 const LEDE = 'text-lg sm:text-xl text-[#002F6C] leading-relaxed mb-5';
@@ -253,8 +256,12 @@ export default function Cloudberry() {
               {products.map((pr, i) => (
                 <article key={pr.title} className="flex flex-col rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative aspect-[4/3] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
-                    <img src={PRODUCT_IMAGES[i]} alt={pr.imageAlt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(PRODUCT_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
+                    {PRODUCT_IMAGES[i] ? (
+                      <>
+                        <img src={PRODUCT_IMAGES[i]!} alt={pr.imageAlt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                        <PhotoCredit credit={creditFor(PRODUCT_IMAGES[i]!)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
+                      </>
+                    ) : <NoPhotoTile icon={Wine} />}
                   </div>
                   <div className="p-6">
                     <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] mb-2 leading-tight">{pr.title}</h3>

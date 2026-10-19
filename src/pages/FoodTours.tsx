@@ -46,7 +46,9 @@ interface Tour {
  * mukaan ennen kuin niitä luetaan tuotteen lupauksina.
  */
 const TOUR_META = [
-  { sid: 'tour_sami_culture', gygPath: 'inari-l245909/inari-sami-reindeer-herding-family-workshop-visitlunch-t1303463', image: '/images/tour-sami-culture.jpg' },
+  // 19.10.2026: tekoälykuva pois. Retkellä ei ole omaa kuvaamme, joten kortissa on oikea kuva samasta
+  // asiasta (poro Inarin seudulla) ja kuvaan piirtyvä "Kuvassa: …" -merkintä: kuvaa ei esitetä retken omana.
+  { sid: 'tour_sami_culture', gygPath: 'inari-l245909/inari-sami-reindeer-herding-family-workshop-visitlunch-t1303463', image: '/images/tour-reindeer-inari.jpg', imageLabelKey: 'foodTours.imageLabels.reindeerInari', imageAltKey: 'foodTours.imageAlts.reindeerInari' },
   { sid: 'tour_arctic_fine_dining', gygPath: 'rovaniemi-l2653/rovaniemi-insider-guided-food-tour-with-5-tastings-t1101825', image: '/images/tour-fine-dining.jpg' },
   { sid: 'tour_foraging', gygPath: 'luosto-l209112/luosto-guided-berry-picking-tour-with-local-expert-t1247324', image: '/images/tour-foraging.jpg' },
 ];
@@ -114,8 +116,8 @@ export default function FoodTours() {
                 return (
                   <article key={tour.name} id={`tour-${i}`} className="scroll-mt-24 group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                     <div className="relative h-64 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                      <img src={meta.image} alt={tour.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                      <PhotoCredit credit={creditFor(meta.image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
+                      <img src={meta.image} alt={meta.imageAltKey ? t(meta.imageAltKey) : tour.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                      <PhotoCredit credit={creditFor(meta.image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" note={meta.imageLabelKey ? t(meta.imageLabelKey) : undefined} />
                       <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                       <div className="absolute bottom-4 left-5 right-5">
                         <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">

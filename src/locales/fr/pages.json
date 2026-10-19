@@ -449,13 +449,12 @@
         },
         {
           "title": "Liqueur de mûre arctique",
-          "body": "Lakka, la liqueur ambrée issue de mûres arctiques sauvages, est le digestif classique finlandais : froide et pure, ou versée sur une glace vanille. Une bouteille contient une quantité étonnante de tourbière.",
-          "imageAlt": "Un petit verre de liqueur de mûre arctique couleur d'ambre, une bouteille sans étiquette derrière et quelques baies sur une table sombre"
+          "body": "Lakka, la liqueur ambrée issue de mûres arctiques sauvages, est le digestif classique finlandais : froide et pure, ou versée sur une glace vanille. Une bouteille contient une quantité étonnante de tourbière."
         },
         {
           "title": "Parfait à la mûre arctique",
           "body": "Le dessert gastronomique de Laponie. Quand les menus dégustation du nord arrivent au dessert, c'est le plus souvent ici qu'ils atterrissent, et en saison chaque cuisine veut des baies fraîches pour le réussir.",
-          "imageAlt": "Une part de parfait glacé à la mûre arctique sur une assiette sombre, garnie de baies entières et d'une tuile croustillante"
+          "imageAlt": "Une glace avec des mûres arctiques et une tuile dentelle dans une kuksa en bois, à Abisko, en Laponie suédoise"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "Avec le renne",
-          "body": "Dans les restaurants de Laponie, une réduction de myrtilles ou des myrtilles lactofermentées accompagnent le filet de renne. L'acidité coupe la richesse ; la couleur fait le reste.",
-          "imageAlt": "Des tranches de filet de renne saignant avec une réduction sombre de myrtilles et des baies entières sur une assiette en pierre"
+          "body": "Dans les restaurants de Laponie, une réduction de myrtilles ou des myrtilles lactofermentées accompagnent le filet de renne. L'acidité coupe la richesse ; la couleur fait le reste."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "À la carte des desserts",
           "body": "Les menus dégustation de Laponie et d'Helsinki utilisent l'argousier comme leur citron : un sorbet entre les plats, un curd sous du chocolat blanc, une sauce vive avec un poisson arctique gras.",
-          "imageAlt": "Une quenelle de sorbet orange à l'argousier sur une assiette sombre avec une crème au chocolat blanc et un éclat de caramel"
+          "imageAlt": "Un dôme de chocolat blanc avec une sauce à l'argousier et des baies d'argousier entières, servi en dessert à Copenhague"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Deux classiques de Laponie",
       "headline": "Le poronkäristys et le leipäjuusto, chacun sur sa page.",
       "cta": "Voir les recettes"
+    },
+    "imageLabels": {
+      "gahkku": "Sur la photo : une femme samie fait cuire du pain plat au-dessus du feu dans un lavvu, au campement sami de Sallohaure, en Laponie suédoise"
+    },
+    "imageAlts": {
+      "gahkku": "Sur la photo : une femme samie fait cuire du pain plat au-dessus du feu dans un lavvu, au campement sami de Sallohaure, en Laponie suédoise",
+      "stoneOven": "Elina Lokka sort du pain d'un four en pierre à Lokka, Sodankylä, en 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "Les meilleurs restaurants de Laponie sont répartis entre Rovaniemi, Inari, Levi et Saariselkä. Le plan le plus net : choisissez un hôtel à distance de marche d'où vous voulez manger, et laissez-nous nous occuper du reste.",
       "ctaPrimary": "Hôtels à Rovaniemi",
       "ctaSecondary": "Ou réservez un tour gastronomique"
+    },
+    "imageLabels": {
+      "whitefish": "Sur la photo : l'entrée de corégone « Tunturin siikaa » au Riipisen Riistaravintola à Ruka, octobre 2026",
+      "berries": "Sur la photo : des airelles rouges, des algues rouges et des myrtilles fermentées au Daniel Berlin Krog, en Skåne, en Suède",
+      "reindeer": "Sur la photo : un plat de renne moderne au restaurant Emmas Drømmekjøkken à Tromsø, août 2025"
+    },
+    "imageAlts": {
+      "whitefish": "Sur la photo : l'entrée de corégone « Tunturin siikaa » au Riipisen Riistaravintola à Ruka, octobre 2026",
+      "berries": "Sur la photo : des airelles rouges, des algues rouges et des myrtilles fermentées au Daniel Berlin Krog, en Skåne, en Suède",
+      "reindeer": "Sur la photo : un plat de renne moderne au restaurant Emmas Drømmekjøkken à Tromsø, août 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "Juillet – octobre"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Sur la photo : un renne au bord de la route entre Ivalo et Inari, octobre 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Sur la photo : un renne au bord de la route entre Ivalo et Inari, octobre 2026"
+    }
   },
   "michelinDining": {
     "title": "Étoiles Michelin en Finlande 2026 et où manger en Laponie",

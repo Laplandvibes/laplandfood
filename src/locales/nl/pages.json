@@ -449,13 +449,12 @@
         },
         {
           "title": "Kruipbraamlikeur",
-          "body": "Lakka, de amberkleurige likeur van wilde kruipbramen, is de klassieke Finse afsluiter van een diner: koud en puur, of over vanille-ijs gegoten. In één fles past verbazend veel veen.",
-          "imageAlt": "Een klein glas amberkleurige kruipbramenlikeur met een fles zonder etiket erachter en losse bessen op een donkere tafel"
+          "body": "Lakka, de amberkleurige likeur van wilde kruipbramen, is de klassieke Finse afsluiter van een diner: koud en puur, of over vanille-ijs gegoten. In één fles past verbazend veel veen."
         },
         {
           "title": "Kruipbraamparfait",
           "body": "Hét fine-diningdessert van Lapland. Als de proeverijmenu's van het noorden bij het dessert aankomen, landen ze meestal hier, en in het seizoen wil elke keuken er verse bessen voor.",
-          "imageAlt": "Een punt bevroren kruipbramenparfait op een donker bord, met hele bessen en een krokant wafeltje erop"
+          "imageAlt": "IJs met kruipbramen en een kantkoekje in een houten kuksa-beker in Abisko, Zweeds Lapland"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "Bij rendier",
-          "body": "In de restaurants van Lapland staat een bosbessenreductie of melkzuurgefermenteerde bosbessen naast de rendierfilet. De zuurheid snijdt door de rijkdom; de kleur doet de rest.",
-          "imageAlt": "Plakken rosé gebakken rendierfilet met een donkere bosbessenreductie en hele bessen op een stenen bord"
+          "body": "In de restaurants van Lapland staat een bosbessenreductie of melkzuurgefermenteerde bosbessen naast de rendierfilet. De zuurheid snijdt door de rijkdom; de kleur doet de rest."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "Op de dessertkaart",
           "body": "De proeverijmenu's van Lapland en Helsinki gebruiken duindoorn als hun citroen: een sorbet tussen de gangen, een curd onder witte chocolade, een scherpe saus bij vette Arctische vis.",
-          "imageAlt": "Een quenelle oranje duindoornsorbet op een donker bord met witte chocoladecrème en een scherf karamel"
+          "imageAlt": "Een koepel van witte chocolade met duindoornsaus en hele duindoornbessen, geserveerd als dessert in Kopenhagen"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Twee klassiekers uit Lapland",
       "headline": "Poronkäristys en leipäjuusto, elk op een eigen pagina.",
       "cta": "Naar de recepten"
+    },
+    "imageLabels": {
+      "gahkku": "Op de foto: een Samische vrouw bakt platbrood boven het vuur in een lavvu in het Samische kamp Sallohaure, Zweeds Lapland"
+    },
+    "imageAlts": {
+      "gahkku": "Op de foto: een Samische vrouw bakt platbrood boven het vuur in een lavvu in het Samische kamp Sallohaure, Zweeds Lapland",
+      "stoneOven": "Elina Lokka haalt brood uit een stenen oven in Lokka, Sodankylä, in 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "Laplands topadressen zijn verspreid over Rovaniemi, Inari, Levi en Saariselkä. Het simpelste plan: kies een hotel op loopafstand van waar u wilt eten, en laat ons de rest regelen.",
       "ctaPrimary": "Hotels in Rovaniemi",
       "ctaSecondary": "Of boek een fine-diningtour"
+    },
+    "imageLabels": {
+      "whitefish": "Op de foto: het voorgerecht “Tunturin siikaa” met marene bij Riipisen Riistaravintola in Ruka, oktober 2026",
+      "berries": "Op de foto: vossenbessen, rood zeewier en gefermenteerde bosbessen bij Daniel Berlin Krog in Skåne, Zweden",
+      "reindeer": "Op de foto: een modern rendiergerecht bij Emmas Drømmekjøkken in Tromsø, augustus 2025"
+    },
+    "imageAlts": {
+      "whitefish": "Op de foto: het voorgerecht “Tunturin siikaa” met marene bij Riipisen Riistaravintola in Ruka, oktober 2026",
+      "berries": "Op de foto: vossenbessen, rood zeewier en gefermenteerde bosbessen bij Daniel Berlin Krog in Skåne, Zweden",
+      "reindeer": "Op de foto: een modern rendiergerecht bij Emmas Drømmekjøkken in Tromsø, augustus 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "Juli – oktober"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Op de foto: een rendier langs de weg tussen Ivalo en Inari, oktober 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Op de foto: een rendier langs de weg tussen Ivalo en Inari, oktober 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelinsterren in Finland 2026 en waar u eet in Lapland",

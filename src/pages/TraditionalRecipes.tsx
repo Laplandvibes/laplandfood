@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Trans, useTranslation } from 'react-i18next';
-import { Clock, Users, Flame, ChefHat, ArrowRight } from 'lucide-react';
+import { Clock, Users, Flame, ChefHat, ArrowRight, Shovel } from 'lucide-react';
 import { SEO } from '../hooks/useSEO';
 import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
@@ -9,6 +9,7 @@ import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import PhotoCredit from '../components/PhotoCredit';
+import NoPhotoTile from '../components/NoPhotoTile';
 import { creditFor } from '../data/photoCredits';
 import { DISHES } from '../data/dishes';
 import { useLocale } from '../i18n/useLocale';
@@ -30,7 +31,13 @@ const RECIPE_TOTAL_TIME = ['PT3H30M', 'PT1H15M', 'PT45M', 'PT30M'];
 const RECIPE_CATEGORY = ['Main course', 'Bread', 'Soup', 'Dessert'];
 
 const CONTEXT_ICONS = [Flame, Clock, Users];
-const RECIPE_IMAGES = ['/images/recipe-bidos.jpg', '/images/recipe-gahkku.jpg', '/images/recipe-fish-soup.jpg', '/images/recipe-kissel.jpg'];
+const RECIPE_IMAGES = ['/images/recipe-bidos.jpg', '/images/recipe-gahkku-lavvu.jpg', '/images/recipe-fish-soup.jpg', '/images/recipe-kissel.jpg'];
+// 19.10.2026: gahkku-kortin tekoälykuva vaihtui aitoon (Commons CC BY-SA 3.0, ei rajattu): saamelaisnainen
+// paistaa leipiä lavvun tulella Sallohauressa. Kuvassa ei ole juuri tämän reseptin leipä, joten kortissa
+// on lyhyt "Kuvassa: …" -merkintä (pitkä kuvaus altissa), ja CSS-rajaus nostaa leivät ja tulen esiin
+// (BY-SA: tiedostoa ei rajata).
+const RECIPE_IMAGE_POS: (string | undefined)[] = [undefined, '45% 100%', undefined, undefined];
+const RECIPE_PHOTO_NOTES: (string | undefined)[] = [undefined, 'gahkku', undefined, undefined];
 // Index-mapped to the seasons/methods arrays in locales (same order in all 12).
 const SEASON_IMAGES = [
   '/images/season-dalvi.jpg',
@@ -42,7 +49,12 @@ const SEASON_IMAGES = [
   '/images/season-cakca.jpg',
   '/images/season-cakcadalvi.jpg',
 ];
-const METHOD_IMAGES = ['/images/cook-open-fire.jpg', '/images/cook-earth-oven.jpg', '/images/cook-hot-stones.jpg', '/images/cook-smoking.jpg'];
+// 19.10.2026: maakuopan ja kuumien kivien tekoälykuvat pois. Kuumat kivet = Lokan kiviuuni 1937
+// (Museovirasto, CC BY 4.0): tulella kuumennettu kiviuuni, jossa rieskat paistuvat. Maakuopasta ei
+// löytynyt aitoa kuvaa (vain esihistoriallisia kaivauskuoppia Norjasta) ⇒ kuvake.
+const METHOD_IMAGES: (string | null)[] = ['/images/cook-open-fire.jpg', null, '/images/cook-stone-oven-lokka-1937.jpg', '/images/cook-smoking.jpg'];
+const METHOD_ALT_KEYS: (string | undefined)[] = [undefined, undefined, 'traditionalRecipes.imageAlts.stoneOven', undefined];
+const METHOD_IMAGE_POS: (string | undefined)[] = [undefined, undefined, '65% 60%', undefined];
 
 export default function TraditionalRecipes() {
   const { t } = useTranslation('pages');
@@ -360,8 +372,8 @@ export default function TraditionalRecipes() {
               {restRecipes.map((r, i) => { const idx = i + 1; return (
                 <article key={r.name} id={`recipe-${idx}`} className="scroll-mt-24 rounded-3xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden">
                   <div className="relative h-56 sm:h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={RECIPE_IMAGES[idx]} alt={r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(RECIPE_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tr" />
+                    <img src={RECIPE_IMAGES[idx]} alt={RECIPE_PHOTO_NOTES[idx] ? t(`traditionalRecipes.imageAlts.${RECIPE_PHOTO_NOTES[idx]}`) : r.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" style={RECIPE_IMAGE_POS[idx] ? { objectPosition: RECIPE_IMAGE_POS[idx] } : undefined} />
+                    <PhotoCredit credit={creditFor(RECIPE_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tr" note={RECIPE_PHOTO_NOTES[idx] ? t(`traditionalRecipes.imageLabels.${RECIPE_PHOTO_NOTES[idx]}`) : undefined} />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-5 left-7 sm:left-9 right-7 sm:right-9">
                       <span className="text-[11px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-3 py-1.5 rounded-full">
@@ -522,9 +534,11 @@ export default function TraditionalRecipes() {
               {methods.map((m, idx) => (
                 <div key={m.title} className="rounded-2xl bg-[#F8FAFC] border border-[#002F6C]/10 overflow-hidden text-center">
                   <div className="relative h-28 sm:h-32 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
-                    <img src={METHOD_IMAGES[idx]} alt={m.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
+                    {METHOD_IMAGES[idx] ? (
+                      <img src={METHOD_IMAGES[idx]!} alt={METHOD_ALT_KEYS[idx] ? t(METHOD_ALT_KEYS[idx]!) : m.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" style={METHOD_IMAGE_POS[idx] ? { objectPosition: METHOD_IMAGE_POS[idx] } : undefined} />
+                    ) : <NoPhotoTile icon={Shovel} />}
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.55) 0%, rgba(0,31,74,0.05) 60%)' }} />
-                    <PhotoCredit credit={creditFor(METHOD_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
+                    {METHOD_IMAGES[idx] && <PhotoCredit credit={creditFor(METHOD_IMAGES[idx]!)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />}
                   </div>
                   <div className="p-4 sm:p-6">
                     <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{m.title}</h3>

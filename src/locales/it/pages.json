@@ -449,13 +449,12 @@
         },
         {
           "title": "Liquore di mora artica",
-          "body": "Lakka, il liquore ambrato nato dalle more artiche selvatiche, è il classico fine cena finlandese: freddo e liscio, o versato sul gelato alla vaniglia. In una bottiglia entra una quantità sorprendente di torbiera.",
-          "imageAlt": "Un bicchierino di liquore di mora artica color ambra con una bottiglia senza etichetta dietro e bacche sparse su un tavolo scuro"
+          "body": "Lakka, il liquore ambrato nato dalle more artiche selvatiche, è il classico fine cena finlandese: freddo e liscio, o versato sul gelato alla vaniglia. In una bottiglia entra una quantità sorprendente di torbiera."
         },
         {
           "title": "Parfait alla mora artica",
           "body": "Il dessert del fine dining in Lapponia. Quando i menu degustazione del nord arrivano al dolce, di solito approdano qui, e in stagione ogni cucina vuole bacche fresche per prepararlo.",
-          "imageAlt": "Una fetta di semifreddo alla mora artica su un piatto scuro, guarnita con bacche intere e una cialda croccante"
+          "imageAlt": "Gelato con more artiche e una tegolina in una kuksa di legno ad Abisko, Lapponia svedese"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "Con la renna",
-          "body": "Nei ristoranti della Lapponia una riduzione di mirtilli neri o mirtilli lattofermentati accompagnano il filetto di renna. L'acidità taglia la ricchezza; il colore fa il resto.",
-          "imageAlt": "Fette di filetto di renna al sangue con una riduzione scura di mirtilli e bacche intere su un piatto di pietra"
+          "body": "Nei ristoranti della Lapponia una riduzione di mirtilli neri o mirtilli lattofermentati accompagnano il filetto di renna. L'acidità taglia la ricchezza; il colore fa il resto."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "Nel menu dei dessert",
           "body": "I menu degustazione della Lapponia e di Helsinki usano l'olivello spinoso come il loro limone: un sorbetto tra le portate, una crema sotto il cioccolato bianco, una salsa tagliente accanto al pesce artico grasso.",
-          "imageAlt": "Una quenelle di sorbetto arancione all'olivello spinoso su un piatto scuro con crema al cioccolato bianco e una scaglia di caramello"
+          "imageAlt": "Una cupola di cioccolato bianco con salsa all'olivello spinoso e bacche intere di olivello spinoso, servita come dessert a Copenaghen"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Due classici della Lapponia",
       "headline": "Poronkäristys e leipäjuusto, ognuno con la sua pagina.",
       "cta": "Veda le ricette"
+    },
+    "imageLabels": {
+      "gahkku": "Nella foto: una donna sami cuoce pane piatto sul fuoco dentro un lavvu, nell'accampamento sami di Sallohaure, Lapponia svedese"
+    },
+    "imageAlts": {
+      "gahkku": "Nella foto: una donna sami cuoce pane piatto sul fuoco dentro un lavvu, nell'accampamento sami di Sallohaure, Lapponia svedese",
+      "stoneOven": "Elina Lokka toglie il pane da un forno di pietra a Lokka, Sodankylä, nel 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "I ristoranti top della Lapponia sono distribuiti tra Rovaniemi, Inari, Levi e Saariselkä. Il piano più pulito: scelga un hotel a distanza di passeggiata da dove vuole mangiare, e ci pensiamo noi al resto.",
       "ctaPrimary": "Hotel a Rovaniemi",
       "ctaSecondary": "O prenoti un tour d'alta cucina"
+    },
+    "imageLabels": {
+      "whitefish": "Nella foto: l'antipasto di coregone «Tunturin siikaa» al Riipisen Riistaravintola di Ruka, ottobre 2026",
+      "berries": "Nella foto: mirtilli rossi, alghe rosse e mirtilli neri fermentati al Daniel Berlin Krog, in Skåne, Svezia",
+      "reindeer": "Nella foto: un piatto moderno di renna al ristorante Emmas Drømmekjøkken di Tromsø, agosto 2025"
+    },
+    "imageAlts": {
+      "whitefish": "Nella foto: l'antipasto di coregone «Tunturin siikaa» al Riipisen Riistaravintola di Ruka, ottobre 2026",
+      "berries": "Nella foto: mirtilli rossi, alghe rosse e mirtilli neri fermentati al Daniel Berlin Krog, in Skåne, Svezia",
+      "reindeer": "Nella foto: un piatto moderno di renna al ristorante Emmas Drømmekjøkken di Tromsø, agosto 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "Luglio – ottobre"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Nella foto: una renna lungo la strada tra Ivalo e Inari, ottobre 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Nella foto: una renna lungo la strada tra Ivalo e Inari, ottobre 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelin in Finlandia 2026 e dove mangiare in Lapponia",

@@ -449,13 +449,12 @@
         },
         {
           "title": "Cloudberry liqueur",
-          "body": "Lakka, the amber liqueur built on wild cloudberries, is the classic Finnish after-dinner sip: served cold on its own or poured over vanilla ice cream. One bottle holds a remarkable amount of bog.",
-          "imageAlt": "A small glass of amber cloudberry liqueur with a plain bottle behind it and loose cloudberries on a dark table"
+          "body": "Lakka, the amber liqueur built on wild cloudberries, is the classic Finnish after-dinner sip: served cold on its own or poured over vanilla ice cream. One bottle holds a remarkable amount of bog."
         },
         {
           "title": "Cloudberry parfait",
           "body": "The Lapland fine-dining dessert. When the tasting menus of the north reach dessert, this is where they usually land, and in season every kitchen wants fresh berries for it.",
-          "imageAlt": "A wedge of frozen cloudberry parfait on a dark plate, topped with whole amber cloudberries and a crisp wafer"
+          "imageAlt": "Ice cream with cloudberries and a lace biscuit in a wooden kuksa cup in Abisko, Swedish Lapland"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "With reindeer",
-          "body": "In Lapland's restaurants a bilberry reduction or lacto-fermented bilberries sit beside reindeer fillet. The acidity cuts the richness; the colour does the rest.",
-          "imageAlt": "Slices of rare reindeer fillet with a dark bilberry reduction and whole bilberries on a stone plate"
+          "body": "In Lapland's restaurants a bilberry reduction or lacto-fermented bilberries sit beside reindeer fillet. The acidity cuts the richness; the colour does the rest."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "On the dessert menu",
           "body": "Lapland's and Helsinki's tasting menus use sea buckthorn as their lemon: a sorbet between courses, a curd under white chocolate, a sharp sauce beside oily Arctic fish.",
-          "imageAlt": "A quenelle of orange sea buckthorn sorbet on a dark plate with white chocolate cream and a caramel shard"
+          "imageAlt": "A white chocolate dome with sea buckthorn sauce and whole sea buckthorn berries, served as a dessert in Copenhagen"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Two Lapland classics",
       "headline": "Poronkäristys and leipäjuusto, on their own pages.",
       "cta": "Open the recipes"
+    },
+    "imageLabels": {
+      "gahkku": "Pictured: Sámi flatbread in a lavvu, Sallohaure"
+    },
+    "imageAlts": {
+      "gahkku": "Pictured: a Sámi woman baking flatbread over the fire in a lavvu at the Sallohaure Sámi camp, Swedish Lapland",
+      "stoneOven": "Elina Lokka taking bread out of a stone oven in Lokka, Sodankylä, in 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "Lapland's top restaurants are spread across Rovaniemi, Inari, Levi, and Saariselkä. The cleanest plan: pick a hotel within walking distance of where you want to eat, and let us handle the rest.",
       "ctaPrimary": "Hotels in Rovaniemi",
       "ctaSecondary": "Or book a fine-dining tour"
+    },
+    "imageLabels": {
+      "whitefish": "Pictured: whitefish starter at Riipinen, Ruka 2026",
+      "berries": "Pictured: lingonberry course, Daniel Berlin Krog",
+      "reindeer": "Pictured: reindeer course, Emmas Drømmekjøkken, Tromsø"
+    },
+    "imageAlts": {
+      "whitefish": "Pictured: the whitefish starter “Tunturin siikaa” at Riipisen Riistaravintola in Ruka, October 2026",
+      "berries": "Pictured: lingonberries, red seaweed and fermented blueberry at Daniel Berlin Krog in Skåne, Sweden",
+      "reindeer": "Pictured: a modern reindeer course at Emmas Drømmekjøkken in Tromsø, August 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "July – October"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Pictured: a reindeer on the Ivalo–Inari road, October 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Pictured: a reindeer by the road between Ivalo and Inari, October 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelin stars in Finland 2026 and where to eat in Lapland",

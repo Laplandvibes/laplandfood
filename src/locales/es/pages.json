@@ -449,13 +449,12 @@
         },
         {
           "title": "Licor de mora ártica",
-          "body": "Lakka, el licor ambarino hecho con moras árticas silvestres, es el clásico final de cena finlandés: frío y solo, o vertido sobre helado de vainilla. En una botella cabe una cantidad asombrosa de pantano.",
-          "imageAlt": "Una copita de licor de mora ártica de color ámbar con una botella sin etiqueta detrás y bayas sueltas sobre una mesa oscura"
+          "body": "Lakka, el licor ambarino hecho con moras árticas silvestres, es el clásico final de cena finlandés: frío y solo, o vertido sobre helado de vainilla. En una botella cabe una cantidad asombrosa de pantano."
         },
         {
           "title": "Parfait de mora ártica",
           "body": "El postre de la alta cocina de Laponia. Cuando los menús degustación del norte llegan al postre, suelen aterrizar aquí, y en temporada todas las cocinas quieren bayas frescas para él.",
-          "imageAlt": "Una porción de parfait helado de mora ártica en un plato oscuro, con bayas enteras y una galleta crujiente encima"
+          "imageAlt": "Helado con moras árticas y una galleta de encaje en un kuksa de madera en Abisko, Laponia sueca"
         }
       ]
     },
@@ -980,8 +979,7 @@
         },
         {
           "title": "Con reno",
-          "body": "En los restaurantes de Laponia una reducción de arándanos silvestres o arándanos lactofermentados acompañan al filete de reno. La acidez corta lo sustancioso; el color hace el resto.",
-          "imageAlt": "Lonchas de solomillo de reno poco hecho con una reducción oscura de arándanos y bayas enteras en un plato de piedra"
+          "body": "En los restaurantes de Laponia una reducción de arándanos silvestres o arándanos lactofermentados acompañan al filete de reno. La acidez corta lo sustancioso; el color hace el resto."
         }
       ]
     },
@@ -1157,7 +1155,7 @@
         {
           "title": "En la carta de postres",
           "body": "Los menús de degustación de Laponia y Helsinki usan el espino amarillo como su limón: un sorbete entre platos, una crema bajo chocolate blanco, una salsa afilada junto al pescado ártico graso.",
-          "imageAlt": "Una quenelle de sorbete naranja de espino amarillo en un plato oscuro con crema de chocolate blanco y una lámina de caramelo"
+          "imageAlt": "Una cúpula de chocolate blanco con salsa de espino amarillo y bayas enteras de espino amarillo, servida como postre en Copenhague"
         }
       ]
     },
@@ -1521,6 +1519,13 @@
       "kicker": "Dos clásicos de Laponia",
       "headline": "Poronkäristys y leipäjuusto, cada uno en su página.",
       "cta": "Ver las recetas"
+    },
+    "imageLabels": {
+      "gahkku": "En la foto: una mujer sami cocina pan plano al fuego dentro de un lavvu en el campamento sami de Sallohaure, Laponia sueca"
+    },
+    "imageAlts": {
+      "gahkku": "En la foto: una mujer sami cocina pan plano al fuego dentro de un lavvu en el campamento sami de Sallohaure, Laponia sueca",
+      "stoneOven": "Elina Lokka saca pan de un horno de piedra en Lokka, Sodankylä, en 1937"
     }
   },
   "poronkaristys": {
@@ -2176,6 +2181,16 @@
       "lead": "Los mejores restaurantes de Laponia están repartidos por Rovaniemi, Inari, Levi y Saariselkä. El plan más limpio: elige un hotel a distancia caminable de donde quieras comer y deja que nos encarguemos del resto.",
       "ctaPrimary": "Hoteles en Rovaniemi",
       "ctaSecondary": "O reserva un tour de alta cocina"
+    },
+    "imageLabels": {
+      "whitefish": "En la foto: la entrada de corégono «Tunturin siikaa» en el Riipisen Riistaravintola de Ruka, octubre de 2026",
+      "berries": "En la foto: arándanos rojos, algas rojas y arándanos silvestres fermentados en el Daniel Berlin Krog, en Skåne, Suecia",
+      "reindeer": "En la foto: un plato moderno de reno en el restaurante Emmas Drømmekjøkken de Tromsø, agosto de 2025"
+    },
+    "imageAlts": {
+      "whitefish": "En la foto: la entrada de corégono «Tunturin siikaa» en el Riipisen Riistaravintola de Ruka, octubre de 2026",
+      "berries": "En la foto: arándanos rojos, algas rojas y arándanos silvestres fermentados en el Daniel Berlin Krog, en Skåne, Suecia",
+      "reindeer": "En la foto: un plato moderno de reno en el restaurante Emmas Drømmekjøkken de Tromsø, agosto de 2025"
     }
   },
   "foragingGuide": {
@@ -2436,7 +2451,13 @@
         "location": "Luosto",
         "season": "Julio – octubre"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "En la foto: un reno junto a la carretera entre Ivalo e Inari, octubre de 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "En la foto: un reno junto a la carretera entre Ivalo e Inari, octubre de 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelin en Finlandia 2026 y dónde comer en Laponia",

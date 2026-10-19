@@ -450,13 +450,12 @@
         },
         {
           "title": "Lakkalikööri",
-          "body": "Lakka, villihilloista tehty keltainen likööri, on suomalaisen illallisen klassinen päätös: kylmänä sellaisenaan tai vaniljajäätelön päälle kaadettuna. Yhteen pulloon mahtuu hämmästyttävä määrä suota.",
-          "imageAlt": "Pieni lasillinen meripihkanväristä lakkalikööriä, taustalla etiketitön pullo ja irtolakkoja tummalla pöydällä"
+          "body": "Lakka, villihilloista tehty keltainen likööri, on suomalaisen illallisen klassinen päätös: kylmänä sellaisenaan tai vaniljajäätelön päälle kaadettuna. Yhteen pulloon mahtuu hämmästyttävä määrä suota."
         },
         {
           "title": "Hillaparfait",
           "body": "Lapin fine dining -jälkiruoka. Kun pohjoisen maistelumenut ehtivät jälkiruokaan, tähän ne yleensä päätyvät, ja sesongissa jokainen keittiö haluaa siihen tuoreet marjat.",
-          "imageAlt": "Pala jäädytettyä lakkaparfait'ta tummalla lautasella, päällä kokonaisia lakkoja ja rapea vohveli"
+          "imageAlt": "Jäätelöä, hillamarjoja ja pitsikeksi puisessa kuksassa Abiskossa Ruotsin Lapissa"
         }
       ]
     },
@@ -981,8 +980,7 @@
         },
         {
           "title": "Poron kanssa",
-          "body": "Lapin ravintoloissa mustikkakastike tai maitohapatetut mustikat ovat poronfileen vieressä. Happamuus leikkaa rasvaisuutta; väri hoitaa loput.",
-          "imageAlt": "Viipaleita punaiseksi paistettua porofileetä, tumma mustikkakastike ja kokonaisia mustikoita kivilautasella"
+          "body": "Lapin ravintoloissa mustikkakastike tai maitohapatetut mustikat ovat poronfileen vieressä. Happamuus leikkaa rasvaisuutta; väri hoitaa loput."
         }
       ]
     },
@@ -1158,7 +1156,7 @@
         {
           "title": "Jälkiruokalistalla",
           "body": "Lapin ja Helsingin maistelumenut käyttävät tyrniä sitruunanaan: sorbettina ruokalajien välissä, curdina valkosuklaan alla, terävänä kastikkeena rasvaisen arktisen kalan vieressä.",
-          "imageAlt": "Kvenelli oranssia tyrnisorbettia tummalla lautasella, valkosuklaakreemiä ja karamellisiru"
+          "imageAlt": "Valkosuklaakupoli, tyrnikastiketta ja kokonaisia tyrnimarjoja jälkiruokana Kööpenhaminassa"
         }
       ]
     },
@@ -1522,6 +1520,13 @@
       "kicker": "Kaksi Lapin klassikkoa",
       "headline": "Poronkäristys ja leipäjuusto omilla sivuillaan.",
       "cta": "Avaa reseptit"
+    },
+    "imageLabels": {
+      "gahkku": "Kuvassa: saamelaisleipää lavvussa, Sallohaure"
+    },
+    "imageAlts": {
+      "gahkku": "Kuvassa: saamelaisnainen paistaa rieskaa lavvun tulella Sallohauren saamelaisleirillä Ruotsin Lapissa",
+      "stoneOven": "Elina Lokka ottaa leipiä kiviuunista Lokassa Sodankylässä vuonna 1937"
     }
   },
   "poronkaristys": {
@@ -2177,6 +2182,16 @@
       "lead": "Lapin parhaat ravintolat ovat hajaantuneet Rovaniemelle, Inariin, Leville ja Saariselälle. Selkein suunnitelma: valitse hotelli kävely­matkan päässä siitä missä haluat syödä ja anna meidän hoitaa loput.",
       "ctaPrimary": "Hotellit Rovaniemellä",
       "ctaSecondary": "Tai varaa fine dining -kierros"
+    },
+    "imageLabels": {
+      "whitefish": "Kuvassa: Riipisen Tunturin siikaa, Ruka 2026",
+      "berries": "Kuvassa: puolukka-annos, Daniel Berlin Krog",
+      "reindeer": "Kuvassa: poroannos, Emmas Drømmekjøkken, Tromssa"
+    },
+    "imageAlts": {
+      "whitefish": "Kuvassa: Tunturin siikaa -alkuruoka Riipisen Riistaravintolassa Rukalla, lokakuu 2026",
+      "berries": "Kuvassa: puolukkaa, punalevää ja fermentoitua mustikkaa Daniel Berlin Krogissa Skånessa, Ruotsissa",
+      "reindeer": "Kuvassa: moderni poroannos Emmas Drømmekjøkken -ravintolassa Tromssassa, elokuu 2025"
     }
   },
   "foragingGuide": {
@@ -2437,7 +2452,13 @@
         "location": "Luosto",
         "season": "heinä–lokakuu"
       }
-    ]
+    ],
+    "imageLabels": {
+      "reindeerInari": "Kuvassa: poro Ivalo–Inari-tiellä, lokakuu 2026"
+    },
+    "imageAlts": {
+      "reindeerInari": "Kuvassa: poro Ivalon ja Inarin välisellä tiellä, lokakuu 2026"
+    }
   },
   "michelinDining": {
     "title": "Michelin-tähdet Suomessa 2026 ja missä Lapissa syödään",
