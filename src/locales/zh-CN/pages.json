@@ -1521,7 +1521,7 @@
       "cta": "查看食谱"
     },
     "imageLabels": {
-      "gahkku": "图中：在瑞典拉普兰的Sallohaure萨米营地，一位萨米女性在lavvu帐篷的火上烤薄饼"
+      "gahkku": "图中：lavvu帐篷里的萨米薄饼（Sallohaure）"
     },
     "imageAlts": {
       "gahkku": "图中：在瑞典拉普兰的Sallohaure萨米营地，一位萨米女性在lavvu帐篷的火上烤薄饼",
@@ -2183,9 +2183,9 @@
       "ctaSecondary": "或预订一次高级餐饮之旅"
     },
     "imageLabels": {
-      "whitefish": "图中：白鲑前菜“Tunturin siikaa”（鲁卡的Riipisen Riistaravintola，2026年10月）",
-      "berries": "图中：越橘、红藻和发酵野生蓝莓（瑞典斯科讷的Daniel Berlin Krog）",
-      "reindeer": "图中：一道现代风格的驯鹿菜（特罗姆瑟的Emmas Drømmekjøkken，2025年8月）"
+      "whitefish": "图中：Riipinen的白鲑前菜（鲁卡，2026年）",
+      "berries": "图中：Daniel Berlin Krog的越橘菜品",
+      "reindeer": "图中：特罗姆瑟Emmas Drømmekjøkken的驯鹿菜品"
     },
     "imageAlts": {
       "whitefish": "图中：白鲑前菜“Tunturin siikaa”（鲁卡的Riipisen Riistaravintola，2026年10月）",
@@ -2453,7 +2453,7 @@
       }
     ],
     "imageLabels": {
-      "reindeerInari": "图中：伊瓦洛与伊纳里之间公路旁的一头驯鹿（2026年10月）"
+      "reindeerInari": "图中：伊瓦洛至伊纳里公路上的驯鹿（2026年10月）"
     },
     "imageAlts": {
       "reindeerInari": "图中：伊瓦洛与伊纳里之间公路旁的一头驯鹿（2026年10月）"

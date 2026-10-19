@@ -1521,7 +1521,7 @@
       "cta": "Ver las recetas"
     },
     "imageLabels": {
-      "gahkku": "En la foto: una mujer sami cocina pan plano al fuego dentro de un lavvu en el campamento sami de Sallohaure, Laponia sueca"
+      "gahkku": "En la foto: pan plano sami en un lavvu, Sallohaure"
     },
     "imageAlts": {
       "gahkku": "En la foto: una mujer sami cocina pan plano al fuego dentro de un lavvu en el campamento sami de Sallohaure, Laponia sueca",
@@ -2183,9 +2183,9 @@
       "ctaSecondary": "O reserva un tour de alta cocina"
     },
     "imageLabels": {
-      "whitefish": "En la foto: la entrada de corégono «Tunturin siikaa» en el Riipisen Riistaravintola de Ruka, octubre de 2026",
-      "berries": "En la foto: arándanos rojos, algas rojas y arándanos silvestres fermentados en el Daniel Berlin Krog, en Skåne, Suecia",
-      "reindeer": "En la foto: un plato moderno de reno en el restaurante Emmas Drømmekjøkken de Tromsø, agosto de 2025"
+      "whitefish": "En la foto: entrada de corégono en Riipinen, Ruka 2026",
+      "berries": "En la foto: plato de arándanos rojos, Daniel Berlin Krog",
+      "reindeer": "En la foto: plato de reno, Emmas Drømmekjøkken, Tromsø"
     },
     "imageAlts": {
       "whitefish": "En la foto: la entrada de corégono «Tunturin siikaa» en el Riipisen Riistaravintola de Ruka, octubre de 2026",
@@ -2453,7 +2453,7 @@
       }
     ],
     "imageLabels": {
-      "reindeerInari": "En la foto: un reno junto a la carretera entre Ivalo e Inari, octubre de 2026"
+      "reindeerInari": "En la foto: un reno, ruta Ivalo–Inari, octubre de 2026"
     },
     "imageAlts": {
       "reindeerInari": "En la foto: un reno junto a la carretera entre Ivalo e Inari, octubre de 2026"

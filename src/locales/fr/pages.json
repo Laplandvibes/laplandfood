@@ -1521,7 +1521,7 @@
       "cta": "Voir les recettes"
     },
     "imageLabels": {
-      "gahkku": "Sur la photo : une femme samie fait cuire du pain plat au-dessus du feu dans un lavvu, au campement sami de Sallohaure, en Laponie suédoise"
+      "gahkku": "Sur la photo : pain plat sami dans un lavvu, Sallohaure"
     },
     "imageAlts": {
       "gahkku": "Sur la photo : une femme samie fait cuire du pain plat au-dessus du feu dans un lavvu, au campement sami de Sallohaure, en Laponie suédoise",
@@ -2183,9 +2183,9 @@
       "ctaSecondary": "Ou réservez un tour gastronomique"
     },
     "imageLabels": {
-      "whitefish": "Sur la photo : l'entrée de corégone « Tunturin siikaa » au Riipisen Riistaravintola à Ruka, octobre 2026",
-      "berries": "Sur la photo : des airelles rouges, des algues rouges et des myrtilles fermentées au Daniel Berlin Krog, en Skåne, en Suède",
-      "reindeer": "Sur la photo : un plat de renne moderne au restaurant Emmas Drømmekjøkken à Tromsø, août 2025"
+      "whitefish": "Sur la photo : entrée de corégone, Riipinen, Ruka 2026",
+      "berries": "Sur la photo : plat aux airelles, Daniel Berlin Krog",
+      "reindeer": "Sur la photo : plat de renne, Emmas Drømmekjøkken, Tromsø"
     },
     "imageAlts": {
       "whitefish": "Sur la photo : l'entrée de corégone « Tunturin siikaa » au Riipisen Riistaravintola à Ruka, octobre 2026",
@@ -2453,7 +2453,7 @@
       }
     ],
     "imageLabels": {
-      "reindeerInari": "Sur la photo : un renne au bord de la route entre Ivalo et Inari, octobre 2026"
+      "reindeerInari": "Sur la photo : un renne, route Ivalo–Inari, octobre 2026"
     },
     "imageAlts": {
       "reindeerInari": "Sur la photo : un renne au bord de la route entre Ivalo et Inari, octobre 2026"

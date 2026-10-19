@@ -1521,7 +1521,7 @@
       "cta": "レシピを見る"
     },
     "imageLabels": {
-      "gahkku": "写真：スウェーデン・ラップランドのSallohaureにあるサーミのキャンプで、ラッヴ（テント）の火でフラットブレッドを焼くサーミの女性"
+      "gahkku": "写真：ラッヴ内のサーミのパン（Sallohaure）"
     },
     "imageAlts": {
       "gahkku": "写真：スウェーデン・ラップランドのSallohaureにあるサーミのキャンプで、ラッヴ（テント）の火でフラットブレッドを焼くサーミの女性",
@@ -2183,9 +2183,9 @@
       "ctaSecondary": "または美食ツアーを予約する"
     },
     "imageLabels": {
-      "whitefish": "写真：ホワイトフィッシュの前菜「Tunturin siikaa」（ルカのRiipisen Riistaravintola、2026年10月）",
-      "berries": "写真：リンゴンベリー、赤い海藻、発酵させたビルベリー（スウェーデン・スコーネのDaniel Berlin Krog）",
-      "reindeer": "写真：モダンなトナカイの一皿（トロムソのEmmas Drømmekjøkken、2025年8月）"
+      "whitefish": "写真：Riipinenの白身魚の前菜（ルカ、2026年）",
+      "berries": "写真：Daniel Berlin Krogのコケモモ料理",
+      "reindeer": "写真：トロムソのEmmas Drømmekjøkkenのトナカイ料理"
     },
     "imageAlts": {
       "whitefish": "写真：ホワイトフィッシュの前菜「Tunturin siikaa」（ルカのRiipisen Riistaravintola、2026年10月）",
@@ -2453,7 +2453,7 @@
       }
     ],
     "imageLabels": {
-      "reindeerInari": "写真：イヴァロとイナリの間の道路沿いにいるトナカイ（2026年10月）"
+      "reindeerInari": "写真：イヴァロ〜イナリ道路のトナカイ（2026年10月）"
     },
     "imageAlts": {
       "reindeerInari": "写真：イヴァロとイナリの間の道路沿いにいるトナカイ（2026年10月）"
