@@ -82,6 +82,31 @@ export const PHOTO_CREDITS: Record<string, PhotoCredit> = {
     fetched: '2026-10-18',
     cost: '0 €',
   },
+  // ── /lohikeitto (20.10.2026). claim.mjs varattu; "Mitä se on" -kuva on oma (Tenojoki 13.10.2026, ownPhoto).
+  '/images/hero-lohikeitto-1920.webp': {
+    author: 'Pete (comedy_nose)',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0/',
+    sourceUrl: 'https://www.flickr.com/photos/comedynose/52690978908',
+    title: 'The Real Deal (Flickr 52690978908)',
+    place: '',
+    taken: '2023-02-15',
+    changes: 'Pienennetty 2560/1920/1280/800 px:iin, ei rajausta. Lohikeitto kahvilassa Helsingissä (kuvaajan kuvaus).',
+    fetched: '2026-10-20',
+    cost: '0 €',
+  },
+  '/images/lohikeitto-kermainen-1600.jpg': {
+    author: 'JIP',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/',
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Finnish_salmon_soup.jpg',
+    title: 'Finnish salmon soup.jpg',
+    place: '',
+    taken: '2021-11-17',
+    changes: 'BY-SA: vain pienennys 1600 px:iin, ei rajausta. Lounaskeitto ravintolassa Vantaalla (Commonsin kuvaus).',
+    fetched: '2026-10-20',
+    cost: '0 €',
+  },
   // ── /poronkaristys + /leipajuusto annoskuvat (18.10.2026). Flickr, alkuperäiset tiedostot; claim.mjs varattu.
   '/images/hero-poronkaristys-annos-1920.webp': {
     author: 'Antonio Caiazzo',

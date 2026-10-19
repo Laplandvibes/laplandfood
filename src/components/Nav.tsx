@@ -47,6 +47,7 @@ export const BERRY_LINKS = [
  *  (poronkäristys 14 800/kk, leipäjuusto 5 400/kk Suomessa, mitattu 23.9.2026). */
 export const RECIPE_LINKS = [
   { to: '/traditional-recipes', labelKey: 'recipesMenu.all' },
+  { to: '/lohikeitto', labelKey: 'recipesMenu.lohikeitto' },
   { to: '/poronkaristys', labelKey: 'recipesMenu.poronkaristys' },
   { to: '/leipajuusto', labelKey: 'recipesMenu.leipajuusto' },
 ] as const

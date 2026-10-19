@@ -1517,8 +1517,8 @@
       "headline": "Lagar du bara en rätt, laga den här."
     },
     "dishes": {
-      "kicker": "Två klassiker från Lappland",
-      "headline": "Poronkäristys och leipäjuusto har fått egna sidor.",
+      "kicker": "Tre klassiker",
+      "headline": "Lohikeitto, poronkäristys och leipäjuusto har fått egna sidor.",
       "cta": "Till recepten"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "På bilden: en samisk kvinna bakar tunnbröd över elden i en lavvu på samelägret i Sallohaure, svenska Lappland",
       "stoneOven": "Elina Lokka tar ut bröd ur en stenugn i Lokka i Sodankylä år 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Finsk laxsoppa (lohikeitto): recept och var du äter den",
+    "description": "Så lagar finländarna laxsoppa: lax, potatis, lök, kryddpeppar, dill och oftast grädde, eller klar med smör. Hemkokt buljong och var du äter den i Lappland.",
+    "teaser": "Lax, potatis, kryddpeppar och dill, avrundat med grädde eller smör: det krämiga receptet, den klara varianten, buljongen och var du får soppan i Lappland.",
+    "hero": {
+      "eyebrow": "Finlands laxsoppa · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "laxsoppa med grädde och dill.",
+      "subtitle": "Lohikeitto är soppan som finländarna lagar hemma och beställer till lunch: lax, potatis, lök, kryddpeppar och dill, oftast avrundad med grädde. Här får du tre recept, vad soppan kostar på Lapplands menyer och de två laxälvarna vid finska Lapplands gränser, där den vilda laxen numera är skyddad.",
+      "imageAlt": "En tallrik krämig laxsoppa med potatis, lax och färsk dill",
+      "primaryCta": "Hoppa till receptet",
+      "secondaryCta": "Alla traditionella recept",
+      "pills": [
+        "Receptet",
+        "Vad det är",
+        "Varianter",
+        "I siffror",
+        "Var du äter den",
+        "Frågor"
+      ]
+    },
+    "intro": {
+      "lead": "Namnet säger allt: lohi betyder lax och keitto soppa. I grytan hamnar lax, potatis och lök, kryddningen är kryddpeppar och dill, och på restaurangmenyerna i Lappland är soppan nästan alltid krämig. I Rovaniemi, Ylläs och Ruka kostar en tallrik 12 till 19,80 euro.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Laxen sist",
+          "body": "Potatisen kokas först. Laxen läggs i när potatisen nästan är klar och blir genomkokt på några minuter på svag värme. Kokar soppan för häftigt faller fisken sönder."
+        },
+        {
+          "n": "02",
+          "title": "Grädde eller smör",
+          "body": "Restaurangerna serverar oftast den krämiga varianten. Till den klara kokas buljongen på laxens huvud och ben, och soppan avrundas med smör i stället för grädde."
+        },
+        {
+          "n": "03",
+          "title": "Bröd till",
+          "body": "Till soppan äter man rågbröd och smör. På restaurangerna i Lappland får du den också med rieska, ett tunnbröd från Lappland, med maltbröd eller med den mörka, söta skärgårdslimpan."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Receptet",
+      "headline": "Lohikeitto, som den lagas hemma.",
+      "lead": "Tre recept: den krämiga soppan som de flesta finländare känner till, en klar variant som avrundas med smör och buljongen som gör båda fylligare.",
+      "items": [
+        {
+          "name": "Krämig lohikeitto",
+          "description": "Lax, potatis och lök i en lätt buljong, avrundad med grädde, smör och rikligt med dill.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Lätt",
+          "ingredients": [
+            "500 g skinnfri laxfilé",
+            "700 g fast eller mellanmjölig potatis",
+            "1 lök eller en liten purjolök",
+            "1 morot, om du vill",
+            "1 l vatten eller fiskbuljong",
+            "8 kryddpepparkorn",
+            "1 lagerblad",
+            "1 tsk salt",
+            "2 dl grädde",
+            "1 msk smör",
+            "1 dl hackad dill"
+          ],
+          "instructions": [
+            "Skala potatisen och skär den i tärningar på ungefär 2 cm. Skala och hacka löken och skiva moroten.",
+            "Koka upp vattnet eller buljongen och lägg i potatis, lök, morot, kryddpeppar, lagerblad och salt. Låt sjuda under lock i ungefär 15 minuter, tills potatisen nästan är klar.",
+            "Skär laxen i tärningar på 2 till 3 cm och plocka bort eventuella ben.",
+            "Häll i grädden och låt soppan sjuda upp igen. Lägg i laxen och låt den sjuda på svag värme i 5 till 8 minuter, tills den precis är genomkokt. Låt inte soppan koka kraftigt.",
+            "Ta upp lagerbladet, rör ner smöret och dillen och smaka av med salt."
+          ],
+          "tip": "Buljong kokt på laxens huvud och ben ger en fylligare soppa än vatten. Receptet är det tredje på den här sidan.",
+          "imageAlt": "En skål krämig finsk laxsoppa med lax, potatis och dill"
+        },
+        {
+          "name": "Klar lohikeitto med smör",
+          "description": "Utan grädde: lax och potatis i klar fiskbuljong, avrundad med smör och örter.",
+          "time": "1 timme",
+          "serves": "4",
+          "level": "Lätt",
+          "ingredients": [
+            "1 l fiskbuljong (recept nedan)",
+            "600 g fast potatis",
+            "1 lök",
+            "8 kryddpepparkorn",
+            "500 g skinnfri laxfilé",
+            "50 g smör",
+            "Salt",
+            "Dill eller gräslök"
+          ],
+          "instructions": [
+            "Koka buljongen först, eller värm en buljong som du har kokat tidigare.",
+            "Lägg den tärnade potatisen, den hackade löken och kryddpepparn i den heta buljongen och låt sjuda i ungefär 15 minuter.",
+            "Lägg i laxen i tärningar och låt den sjuda på svag värme i 5 till 8 minuter.",
+            "Dra kastrullen från värmen, rör ner smöret och smaka av med salt. Strö dill eller gräslök över."
+          ],
+          "tip": "Den klara soppan blir lika god med sik eller öring. Använd samma mängder och samma koktider."
+        },
+        {
+          "name": "Fiskbuljong på laxhuvud och ben",
+          "description": "Grunden för båda sopporna. Här tar du vara på de delar av fisken som oftast slängs.",
+          "time": "45 min",
+          "serves": "Ungefär 1,5 l",
+          "level": "Lätt",
+          "ingredients": [
+            "1 laxhuvud med ben, ungefär 500–700 g",
+            "1,5 l kallt vatten",
+            "1 lök",
+            "1 morot",
+            "10 kryddpepparkorn",
+            "1 lagerblad",
+            "Dillstjälkar",
+            "1 tsk salt"
+          ],
+          "instructions": [
+            "Skölj huvudet och benen i kallt vatten och skär bort gälarna.",
+            "Lägg fiskdelarna i en kastrull, häll över det kalla vattnet och låt det långsamt komma upp i kokning. Skumma av.",
+            "Tillsätt lök och morot i bitar, kryddpeppar, lagerblad, dillstjälkar och salt.",
+            "Låt sjuda försiktigt utan lock i 30 minuter och sila sedan buljongen genom en finmaskig sil."
+          ],
+          "tip": "Skär bort gälarna innan du kokar buljongen, eftersom de gör den besk. Buljongen går att frysa, så du kan koka till flera soppor på en gång."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Vad det är",
+      "headline": "Finska Lapplands två laxälvar.",
+      "p1": "Lohikeitto är lax som kokas med potatis och lök, kryddas med kryddpeppar och dill och oftast avrundas med grädde eller mjölk. Av de sex menyer i Lappland som vi har gått igenom kallar fyra sin soppa krämig, och bara en berättar varifrån laxen kommer: på Roka i Rovaniemi kokas buljongen på lax som kökets egen Toni har fångat.",
+      "p2": "Två laxälvar rinner längs finska Lapplands gränser. <strong>Torne älv</strong>, gränsälven mellan Finland och Sverige, är en lekälv för Östersjölaxen. Fiskräknarna som Naturresursinstitutet (Luke) har vid Kattilakoski registrerade sommaren 2025 ungefär 45 000 uppvandrande laxar, mot ungefär 100 000 under de bästa åren, 2014, 2016 och 2021. Sommaren 2026 får varje fiskare behålla högst två laxar från älven.",
+      "p3": "<strong>Tenoälven</strong> rinner längs gränsen mot Norge i Utsjoki, och laxfisket där är en viktig del av den samiska kulturen. När laxbestånden snabbt hade försvagats förbjöds laxfisket 2021 i hela Tenoälvens vattensystem. År 2026 är laxfiske inte heller tillåtet i huvudfåran, med undantag för enskilda tillstånd som beviljas för att hålla den samiska fisketraditionen vid liv.",
+      "imageAlt": "Tenoälven nedanför ett fjäll pudrat av den första snön i oktober",
+      "caption": "Tenoälven vid väg 970 i Utsjoki, 13 oktober 2026"
+    },
+    "variations": {
+      "kicker": "Varianter",
+      "headline": "Grädde, smör eller rök.",
+      "lead": "Lax och potatis finns alltid i grytan. Vad som får följa med varierar från kök till kök.",
+      "items": [
+        {
+          "title": "Krämig eller klar",
+          "body": "På menyerna i Lappland är soppan nästan alltid krämig: fyra av de sex vi har gått igenom säger det. Den klara varianten kokas i fiskbuljong och avrundas med smör."
+        },
+        {
+          "title": "Med varmrökt lax",
+          "body": "Ruka Trek Gasthaus i Ruka gör sin soppa på varmrökt lax, morot och potatis i en krämig fiskbuljong."
+        },
+        {
+          "title": "Med insjöfisk",
+          "body": "Samma metod fungerar med sik, röding eller öring. Det samiska kökets fisksoppa, kokad på det som sjön gav den veckan, finns på sidan med traditionella recept."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "I siffror",
+      "headline": "Siffrorna bakom lohikeitto och älvarna.",
+      "lead": "Siffror från Naturresursinstitutets fiskräknare, Finlands jord- och skogsbruksministerium och restaurangmenyer i Lappland. Varje kort anger sin källa.",
+      "items": [
+        {
+          "value": "≈ 45 000",
+          "label": "laxar vandrade upp i Torne älv sommaren 2025, enligt Lukes fiskräknare vid Kattilakoski. Sommaren 2024 var de ungefär 25 000.",
+          "source": "Lapplands förbund, utlåtande till jord- och skogsbruksministeriet 19 februari 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40 000",
+          "label": "laxar är det mål för lekbeståndet som forskarna har satt upp för Torne älv. Under de bästa åren, 2014, 2016 och 2021, vandrade ungefär 100 000 upp i älven.",
+          "source": "Lapplands förbund, utlåtande 19 februari 2026."
+        },
+        {
+          "value": "2",
+          "label": "laxar är det mesta en fiskare får behålla från Torne älv under säsongen 2026, oavsett fiskemetod.",
+          "source": "Finlands jord- och skogsbruksministerium, pressmeddelande 8 april 2026."
+        },
+        {
+          "value": "2021",
+          "label": "året då laxfisket förbjöds i hela Tenoälvens vattensystem, eftersom laxbestånden snabbt hade försvagats.",
+          "source": "Finlands jord- och skogsbruksministerium, pressmeddelande 29 april 2021."
+        },
+        {
+          "value": "0",
+          "label": "laxar får fiskas i Tenoälvens huvudfåra 2026. De enda undantagen är enskilda tillstånd för att hålla den samiska fisketraditionen vid liv.",
+          "source": "Finlands jord- och skogsbruksministerium, pressmeddelande 29 maj 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "för en tallrik lohikeitto på restaurang i Rovaniemi, Ylläs och Ruka.",
+          "source": "Restaurangernas egna menyer, kontrollerade 20 oktober 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Var du äter den",
+      "headline": "Lohikeitto på Lapplands menyer.",
+      "lead": "De här sex restaurangerna har lohikeitto på menyn; priserna är hämtade från deras egna menyer 20 oktober 2026. Tre av dem ligger i Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Krämig laxsoppa med rieska, Lapplands tunnbröd, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "Husets lohikeitto med mörkt maltbröd och smör, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Krämig lohikeitto med rostad skärgårdslimpa, 18,50 €. Buljongen kokas på lax som kökets Toni har fångat själv."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Krämig laxsoppa med husets bröd, liten portion 15,60 € och stor 19,80 €."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto som förrätt för 12 €, och dessutom i trerättersmenyn Menu Ylläskota (44 €) och som barnportion."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Soppa på varmrökt lax med morot och potatis i krämig fiskbuljong, 12,50 € eller 19 €."
+        }
+      ],
+      "gygCta": "Bläddra bland matturer i Lappland på GetYourGuide",
+      "diningCta": "Se fine dining-guiden"
+    },
+    "faq": {
+      "kicker": "Frågor",
+      "headline": "Vanliga frågor om lohikeitto.",
+      "items": [
+        {
+          "question": "Vad innehåller lohikeitto?",
+          "answer": "Lax, potatis, lök eller purjolök, kryddpeppar och dill, och oftast grädde eller mjölk. Morot är ett vanligt tillskott."
+        },
+        {
+          "question": "Hur länge ska laxen koka?",
+          "answer": "Tärningar på 2 till 3 cm blir klara på 5 till 8 minuter på svag värme. Lägg i dem när potatisen nästan är klar, och låt inte soppan koka kraftigt."
+        },
+        {
+          "question": "Går det att laga lohikeitto utan grädde?",
+          "answer": "Ja. Den klara varianten kokas i fiskbuljong och avrundas med smör. Receptet finns ovan."
+        },
+        {
+          "question": "Vad kostar lohikeitto i Lappland?",
+          "answer": "På de sex menyer i Lappland som vi har gått igenom kostar en tallrik 12 till 19,80 euro. Priserna kontrollerades 20 oktober 2026."
+        },
+        {
+          "question": "Är lohikeitto Finlands nationalrätt?",
+          "answer": "Nej. I omröstningen om en finsk nationalrätt 2017 vann rågbrödet. Fisksoppa fanns bland de 12 finalisterna och var juryns eget val, men laxsoppa nämndes inte separat."
+        },
+        {
+          "question": "Kommer laxen på restaurangerna i Lappland från älvarna där?",
+          "answer": "Fråga restaurangen. Av de sex menyer vi har gått igenom är det bara Roka i Rovaniemi som berättar varifrån laxen kommer. År 2026 får en fiskare behålla högst två laxar från Torne älv, och i Tenoälvens huvudfåra är laxfiske förbjudet."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Fortsätt",
+      "headline": "Vart det här leder.",
+      "items": [
+        {
+          "title": "Fler recept från Lappland",
+          "body": "Bidos, tunnbröd, det samiska kökets insjöfisksoppa och bärkräm, steg för steg.",
+          "cta": "Traditionella recept"
+        },
+        {
+          "title": "Poronkäristys som huvudrätt",
+          "body": "Tunt skivat renkött, puttrat tills det är mört och serverat med potatismos och lingon: receptet och var du äter rätten.",
+          "cta": "Guiden till poronkäristys"
+        },
+        {
+          "title": "Bo i Rovaniemi",
+          "body": "Tre av restaurangerna ovan ligger i Rovaniemi, och staden är en praktisk bas när du vill äta dig igenom Lappland.",
+          "cta": "Se boenden i Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

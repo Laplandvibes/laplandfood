@@ -1517,8 +1517,8 @@
       "headline": "Kookt u één gerecht, kook dan dit."
     },
     "dishes": {
-      "kicker": "Twee klassiekers uit Lapland",
-      "headline": "Poronkäristys en leipäjuusto, elk op een eigen pagina.",
+      "kicker": "Drie klassiekers",
+      "headline": "Lohikeitto, poronkäristys en leipäjuusto, elk op een eigen pagina.",
       "cta": "Naar de recepten"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "Op de foto: een Samische vrouw bakt platbrood boven het vuur in een lavvu in het Samische kamp Sallohaure, Zweeds Lapland",
       "stoneOven": "Elina Lokka haalt brood uit een stenen oven in Lokka, Sodankylä, in 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Finse zalmsoep (lohikeitto): recept en adressen in Lapland",
+    "description": "Zo maken Finnen lohikeitto: zalm, aardappel, ui, piment en dille, meestal met room. Ook de heldere versie met boter, eigen visbouillon en adressen in Lapland.",
+    "teaser": "Zalm, aardappel, piment en dille, afgemaakt met room of boter: het romige recept, het heldere, de visbouillon en waar de soep in Lapland op de kaart staat.",
+    "hero": {
+      "eyebrow": "Finlands zalmsoep · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "zalmsoep met room en dille.",
+      "subtitle": "Lohikeitto is de soep die Finnen thuis koken en als lunch bestellen: zalm, aardappel, ui, piment en dille, meestal afgemaakt met room. Hier vindt u drie recepten, wat de soep kost op de menukaarten in Lapland en de twee zalmrivieren aan de grenzen van Lapland, waar de wilde zalm nu wordt beschermd.",
+      "imageAlt": "Een bord romige zalmsoep met aardappelen, zalm en verse dille",
+      "primaryCta": "Naar het recept",
+      "secondaryCta": "Alle traditionele recepten",
+      "pills": [
+        "Het recept",
+        "Wat het is",
+        "Varianten",
+        "In cijfers",
+        "Waar te eten",
+        "Vragen"
+      ]
+    },
+    "intro": {
+      "lead": "De naam zegt het al: lohi is zalm en keitto is soep. In de pan gaan zalm, aardappel en ui, de kruiding is piment en dille, en op de menukaarten van restaurants in Lapland is de soep bijna altijd romig. In Rovaniemi, Ylläs en Ruka kost een bord 12 tot 19,80 euro.",
+      "points": [
+        {
+          "n": "01",
+          "title": "De zalm gaat er als laatste in",
+          "body": "Eerst koken de aardappelen. De zalm gaat erbij als ze bijna gaar zijn en is op laag vuur in een paar minuten gaar. Kookt de soep hard, dan valt de vis uit elkaar."
+        },
+        {
+          "n": "02",
+          "title": "Room of boter",
+          "body": "Restaurants serveren meestal de romige versie. Voor de heldere wordt de bouillon getrokken van de kop en de graten van de zalm, en wordt de soep in plaats van met room met boter afgemaakt."
+        },
+        {
+          "n": "03",
+          "title": "Brood erbij",
+          "body": "Er horen roggebrood en boter bij. Restaurants in Lapland serveren de soep ook met het platbrood rieska, met moutbrood of met het donkere, zoete archipelbrood."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Het recept",
+      "headline": "Lohikeitto, zoals het thuis wordt gekookt.",
+      "lead": "Drie recepten: de romige soep die de meeste Finnen kennen, een heldere versie die met boter wordt afgemaakt en de visbouillon die beide voller van smaak maakt.",
+      "items": [
+        {
+          "name": "Romige lohikeitto",
+          "description": "Zalm, aardappel en ui in een lichte bouillon, afgemaakt met room, boter en flink wat dille.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Makkelijk",
+          "ingredients": [
+            "500 g zalmfilet zonder vel",
+            "700 g vastkokende of iets kruimige aardappelen",
+            "1 ui of een kleine prei",
+            "1 wortel, naar wens",
+            "1 l water of visbouillon",
+            "8 pimentkorrels",
+            "1 laurierblad",
+            "1 tl zout",
+            "2 dl room",
+            "1 el boter",
+            "1 dl gehakte dille"
+          ],
+          "instructions": [
+            "Schil de aardappelen en snijd ze in blokjes van ongeveer 2 cm. Pel en snipper de ui en snijd de wortel in plakjes.",
+            "Breng het water of de bouillon aan de kook en voeg de aardappelen, de ui, de wortel, de piment, het laurierblad en het zout toe. Laat met het deksel op de pan ongeveer 15 minuten zachtjes koken, tot de aardappelen bijna gaar zijn.",
+            "Snijd de zalm in blokjes van 2 tot 3 cm en verwijder eventuele graten.",
+            "Giet de room erbij en breng de soep weer tegen de kook aan. Voeg de zalm toe en laat hem 5 tot 8 minuten op laag vuur garen, tot hij net gaar is. Laat de soep niet hard koken.",
+            "Haal het laurierblad eruit, roer de boter en de dille erdoor en proef of er nog zout bij moet."
+          ],
+          "tip": "Bouillon van de kop en de graten van de zalm geeft een vollere soep dan water. Het recept is het derde op deze pagina.",
+          "imageAlt": "Een kom romige Finse zalmsoep met zalm, aardappel en dille"
+        },
+        {
+          "name": "Heldere lohikeitto met boter",
+          "description": "Zonder room: zalm en aardappel in heldere visbouillon, afgemaakt met boter en kruiden.",
+          "time": "1 uur",
+          "serves": "4",
+          "level": "Makkelijk",
+          "ingredients": [
+            "1 l visbouillon (recept hieronder)",
+            "600 g vastkokende aardappelen",
+            "1 ui",
+            "8 pimentkorrels",
+            "500 g zalmfilet zonder vel",
+            "50 g boter",
+            "Zout",
+            "Dille of bieslook"
+          ],
+          "instructions": [
+            "Trek eerst de bouillon, of warm eerder gemaakte bouillon op.",
+            "Doe de aardappelblokjes, de gesnipperde ui en de piment in de hete bouillon en laat ongeveer 15 minuten zachtjes koken.",
+            "Voeg de zalm in blokjes toe en laat hem 5 tot 8 minuten op laag vuur garen.",
+            "Haal de pan van het vuur, roer de boter erdoor en breng op smaak met zout. Strooi er dille of bieslook over."
+          ],
+          "tip": "De heldere soep lukt net zo goed met marene of forel. Gebruik dezelfde hoeveelheden en dezelfde kooktijden."
+        },
+        {
+          "name": "Visbouillon van zalmkop en graten",
+          "description": "De basis voor beide soepen. Er gaan de delen van de vis in die meestal worden weggegooid.",
+          "time": "45 min",
+          "serves": "Ongeveer 1,5 l",
+          "level": "Makkelijk",
+          "ingredients": [
+            "1 zalmkop met de graten, ongeveer 500–700 g",
+            "1,5 l koud water",
+            "1 ui",
+            "1 wortel",
+            "10 pimentkorrels",
+            "1 laurierblad",
+            "Dillestelen",
+            "1 tl zout"
+          ],
+          "instructions": [
+            "Spoel de kop en de graten af onder koud water en snijd de kieuwen eruit.",
+            "Leg de vis in een pan, giet het koude water erover en breng langzaam aan de kook. Schep het schuim eraf.",
+            "Voeg de ui en de wortel in stukken toe, met de piment, het laurierblad, de dillestelen en het zout.",
+            "Laat zonder deksel 30 minuten zachtjes trekken en zeef de bouillon daarna door een fijne zeef."
+          ],
+          "tip": "Snijd de kieuwen eruit voor het koken, want ze maken de bouillon bitter. Bouillon is goed in te vriezen, dus er kan in één keer genoeg voor meerdere soepen worden getrokken."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Wat het is",
+      "headline": "De twee zalmrivieren van Lapland.",
+      "p1": "Lohikeitto is zalm die met aardappel en ui wordt gekookt, op smaak gebracht met piment en dille en meestal afgemaakt met room of melk. Van de zes menukaarten in Lapland die we hebben bekeken, noemen er vier hun soep romig, en maar één zegt waar de zalm vandaan komt: bij Roka in Rovaniemi wordt de bouillon getrokken van zalm die Toni uit de eigen keuken heeft gevangen.",
+      "p2": "Langs de grenzen van Lapland lopen twee zalmrivieren. De <strong>Tornionjoki</strong>, de grensrivier met Zweden, is een paairivier van de Oostzeezalm. De tellers die het Natural Resources Institute Finland (Luke) bij Kattilakoski bijhoudt, registreerden in de zomer van 2025 ongeveer 45.000 zalmen die de rivier op trokken, tegenover ongeveer 100.000 in de beste jaren, 2014, 2016 en 2021. In de zomer van 2026 mag één visser hoogstens twee zalmen uit de rivier houden.",
+      "p3": "De <strong>Teno</strong> stroomt in Utsjoki langs de grens met Noorwegen, en de zalmvisserij is daar een belangrijk deel van de Samische cultuur. Nadat de zalmbestanden snel achteruit waren gegaan, werd de zalmvisserij in 2021 in het hele stroomgebied van de Teno verboden. In 2026 is zalmvissen ook in de hoofdstroom niet toegestaan, afgezien van individuele vergunningen die worden verleend om de Samische vistraditie in stand te houden.",
+      "imageAlt": "De Teno onder een fjell, bestoven met de eerste sneeuw, in oktober",
+      "caption": "De Teno langs weg 970 in Utsjoki, 13 oktober 2026"
+    },
+    "variations": {
+      "kicker": "Varianten",
+      "headline": "Room, boter of rook.",
+      "lead": "In de pan zitten altijd zalm en aardappel. Wat er verder bij gaat, verschilt van keuken tot keuken.",
+      "items": [
+        {
+          "title": "Romig of helder",
+          "body": "Op de menukaarten in Lapland is de soep bijna altijd romig: vier van de zes kaarten die we hebben bekeken, vermelden het. De heldere versie wordt in visbouillon gekookt en met boter afgemaakt."
+        },
+        {
+          "title": "Met warmgerookte zalm",
+          "body": "Ruka Trek Gasthaus in Ruka maakt zijn soep van warmgerookte zalm, wortel en aardappel in een romige visbouillon."
+        },
+        {
+          "title": "Met meervis",
+          "body": "Dezelfde methode werkt met marene, beekridder of forel. De vissoep uit de Samische keuken, gemaakt van wat het meer die week opleverde, staat op de pagina met traditionele recepten."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In cijfers",
+      "headline": "Lohikeitto en zijn rivieren, nagemeten.",
+      "lead": "Cijfers van de tellers van Luke, het Finse ministerie van Landbouw en Bosbouw en de menukaarten van restaurants in Lapland. Bij elke kaart staat de bron.",
+      "items": [
+        {
+          "value": "≈ 45.000",
+          "label": "zalmen trokken in de zomer van 2025 de Tornionjoki op, volgens de tellers van Luke bij Kattilakoski. In de zomer van 2024 waren het er ongeveer 25.000.",
+          "source": "Lapin liitto (regionale raad van Lapland), zienswijze aan het Finse ministerie van Landbouw en Bosbouw, 19 februari 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40.000",
+          "label": "zalmen is het doel voor de paaistand dat onderzoekers voor de Tornionjoki hebben vastgesteld. In de beste jaren, 2014, 2016 en 2021, trokken er ongeveer 100.000 de rivier op.",
+          "source": "Lapin liitto, zienswijze van 19 februari 2026."
+        },
+        {
+          "value": "2",
+          "label": "zalmen is het maximum dat één visser in het seizoen 2026 uit de Tornionjoki mag houden, ongeacht de vismethode.",
+          "source": "Maa- ja metsätalousministeriö (Fins ministerie van Landbouw en Bosbouw), persbericht, 8 april 2026."
+        },
+        {
+          "value": "2021",
+          "label": "het jaar waarin de zalmvisserij in het hele stroomgebied van de Teno werd verboden, omdat de zalmbestanden snel achteruit waren gegaan.",
+          "source": "Maa- ja metsätalousministeriö, persbericht, 29 april 2021."
+        },
+        {
+          "value": "0",
+          "label": "zalmen mogen er in 2026 in de hoofdstroom van de Teno worden gevangen. De enige uitzonderingen zijn individuele vergunningen om de Samische vistraditie in stand te houden.",
+          "source": "Maa- ja metsätalousministeriö, persbericht, 29 mei 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "voor een bord lohikeitto in restaurants in Rovaniemi, Ylläs en Ruka.",
+          "source": "De eigen menukaarten van de restaurants, gecontroleerd op 20 oktober 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Waar te eten",
+      "headline": "Lohikeitto op de kaart in Lapland.",
+      "lead": "Deze zes restaurants hebben lohikeitto op de kaart; de prijzen komen van hun eigen menukaart op 20 oktober 2026. Drie ervan liggen in Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Romige zalmsoep met rieska, het platbrood uit Lapland, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "De lohikeitto van het huis met donker moutbrood en boter, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Romige lohikeitto met geroosterd archipelbrood, 18,50 €. De bouillon wordt getrokken van zalm die Toni uit de keuken zelf heeft gevangen."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Romige zalmsoep met brood van het huis, 15,60 € voor een kleine en 19,80 € voor een grote portie."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto als voorgerecht, 12 €, ook in het driegangenmenu Menu Ylläskota (44 €) en als kinderportie."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Soep van warmgerookte zalm met wortel en aardappel in een romige visbouillon, 12,50 € of 19 €."
+        }
+      ],
+      "gygCta": "Bekijk culinaire tours in Lapland op GetYourGuide",
+      "diningCta": "Naar de fine-dininggids"
+    },
+    "faq": {
+      "kicker": "Vragen",
+      "headline": "Veelgestelde vragen over lohikeitto.",
+      "items": [
+        {
+          "question": "Wat gaat er in lohikeitto?",
+          "answer": "Zalm, aardappel, ui of prei, piment en dille, en meestal room of melk. Wortel is een gebruikelijke toevoeging."
+        },
+        {
+          "question": "Hoe lang moet de zalm koken?",
+          "answer": "Blokjes van 2 tot 3 cm zijn op laag vuur in 5 tot 8 minuten gaar. Voeg ze toe als de aardappelen bijna gaar zijn, en laat de soep niet hard koken."
+        },
+        {
+          "question": "Kan lohikeitto ook zonder room?",
+          "answer": "Ja. De heldere versie wordt in visbouillon gekookt en met boter afgemaakt. Het recept staat hierboven."
+        },
+        {
+          "question": "Wat kost lohikeitto in Lapland?",
+          "answer": "Op de zes menukaarten in Lapland die we hebben bekeken, kost een bord 12 tot 19,80 euro. Prijzen gecontroleerd op 20 oktober 2026."
+        },
+        {
+          "question": "Is lohikeitto het nationale gerecht van Finland?",
+          "answer": "Nee. Bij de verkiezing van een Fins nationaal gerecht in 2017 won roggebrood. Vissoep zat bij de 12 finalisten en was de eigen keuze van de jury, maar zalmsoep werd niet afzonderlijk genoemd."
+        },
+        {
+          "question": "Komt de zalm in een restaurant in Lapland uit de rivieren van Lapland?",
+          "answer": "Vraag het na bij het restaurant. Van de zes menukaarten die we hebben bekeken, zegt alleen Roka in Rovaniemi waar de zalm vandaan komt. In 2026 mag een visser hoogstens twee zalmen uit de Tornionjoki houden, en in de hoofdstroom van de Teno is zalmvissen verboden."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Verder",
+      "headline": "Waar dit toe leidt.",
+      "items": [
+        {
+          "title": "Meer recepten uit Lapland",
+          "body": "Bidos, platbrood, de Samische vissoep met meervis en bessenkissel, stap voor stap uitgeschreven.",
+          "cta": "Traditionele recepten"
+        },
+        {
+          "title": "Poronkäristys als hoofdgerecht",
+          "body": "Dun geschaafd rendiervlees, zacht gestoofd en geserveerd met aardappelpuree en vossenbessen: het recept en waar u het kunt bestellen.",
+          "cta": "Poronkäristysgids"
+        },
+        {
+          "title": "Overnachten in Rovaniemi",
+          "body": "Drie van de restaurants hierboven liggen in Rovaniemi, en de stad is een praktische uitvalsbasis om Lapland al etend te ontdekken.",
+          "cta": "Bekijk verblijven in Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

@@ -1213,5 +1213,86 @@
         "samaKuinKesa": true
       }
     }
+  },
+  "lohikeitto": {
+    "route": "/lohikeitto",
+    "line": "Salmon soup, the Finnish way",
+    "kaudet": {
+      "summer": {
+        "hero": "/images/hero-lohikeitto-1920.webp",
+        "bytes": 106184,
+        "sha256": "1099d1797f063752c887a457938c23db4b0a6b43a4a46d4a4097451820b16501",
+        "heroSha": "06bb98649eebf11f",
+        "bandH": 168,
+        "photoPct": 73.3,
+        "ink": 14507,
+        "inkBox": [
+          396,
+          493,
+          804,
+          603
+        ],
+        "safe": true,
+        "accentP10": 5.06,
+        "accentMed": 5.06,
+        "whiteP10": 17.08,
+        "whiteMed": 17.08,
+        "mean": 135.8,
+        "centerSq": 131,
+        "photoRegion": 172,
+        "photoRegionRef": 172,
+        "overlayPixels": 0,
+        "maxDiff": 0,
+        "fit": {
+          "size": 74,
+          "lines": 1,
+          "ts": 30,
+          "tagW": 410,
+          "fits": true,
+          "bandH": 168
+        },
+        "contrastOk": true,
+        "zeroOverlay": true,
+        "errors": []
+      },
+      "winter": {
+        "hero": "/images/hero-lohikeitto-1920.webp",
+        "bytes": 106184,
+        "sha256": "1099d1797f063752c887a457938c23db4b0a6b43a4a46d4a4097451820b16501",
+        "heroSha": "06bb98649eebf11f",
+        "bandH": 168,
+        "photoPct": 73.3,
+        "ink": 14507,
+        "inkBox": [
+          396,
+          493,
+          804,
+          603
+        ],
+        "safe": true,
+        "accentP10": 5.06,
+        "accentMed": 5.06,
+        "whiteP10": 17.08,
+        "whiteMed": 17.08,
+        "mean": 135.8,
+        "centerSq": 131,
+        "photoRegion": 172,
+        "photoRegionRef": 172,
+        "overlayPixels": 0,
+        "maxDiff": 0,
+        "fit": {
+          "size": 74,
+          "lines": 1,
+          "ts": 30,
+          "tagW": 410,
+          "fits": true,
+          "bandH": 168
+        },
+        "contrastOk": true,
+        "zeroOverlay": true,
+        "errors": [],
+        "samaKuinKesa": true
+      }
+    }
   }
 }

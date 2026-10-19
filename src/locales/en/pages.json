@@ -1517,8 +1517,8 @@
       "headline": "If you cook one dish, cook this one."
     },
     "dishes": {
-      "kicker": "Two Lapland classics",
-      "headline": "Poronkäristys and leipäjuusto, on their own pages.",
+      "kicker": "Three classics",
+      "headline": "Lohikeitto, poronkäristys and leipäjuusto, each on its own page.",
       "cta": "Open the recipes"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "Pictured: a Sámi woman baking flatbread over the fire in a lavvu at the Sallohaure Sámi camp, Swedish Lapland",
       "stoneOven": "Elina Lokka taking bread out of a stone oven in Lokka, Sodankylä, in 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Lohikeitto (Finnish Salmon Soup): Recipe and Where to Eat It",
+    "description": "How Finns make lohikeitto: salmon, potato, onion, allspice and dill, usually with cream. Plus a clear version, a fish stock and where to eat it in Lapland.",
+    "teaser": "Salmon, potato, allspice and dill, finished with cream or butter: the creamy recipe, the clear one, the stock and where Lapland serves it.",
+    "hero": {
+      "eyebrow": "Finland's salmon soup · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "salmon soup with cream and dill.",
+      "subtitle": "Lohikeitto is the soup Finns cook at home and order for lunch: salmon, potato, onion, allspice and dill, usually finished with cream. Here are three recipes, what it costs on Lapland menus, and the two salmon rivers on Lapland's borders, where wild salmon are now protected.",
+      "imageAlt": "A plate of creamy salmon soup with potatoes, salmon and fresh dill",
+      "primaryCta": "Jump to the recipe",
+      "secondaryCta": "All traditional recipes",
+      "pills": [
+        "The recipe",
+        "What it is",
+        "Variations",
+        "In numbers",
+        "Where to eat it",
+        "Questions"
+      ]
+    },
+    "intro": {
+      "lead": "The name says it all: lohi is salmon and keitto is soup. The pot holds salmon, potato and onion, the seasoning is allspice and dill, and on Lapland's restaurant menus the soup is almost always creamy. In Rovaniemi, Ylläs and Ruka a bowl costs 12 to 19.80 euros.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Salmon goes in last",
+          "body": "The potatoes cook first. The salmon goes in when they are nearly done and is cooked through in a few minutes on a low heat. A hard boil breaks the fish apart."
+        },
+        {
+          "n": "02",
+          "title": "Cream or butter",
+          "body": "Restaurants usually serve the creamy version. In the clear one the stock is made from the salmon's head and bones, and the soup is finished with butter instead of cream."
+        },
+        {
+          "n": "03",
+          "title": "Bread alongside",
+          "body": "Rye bread and butter go with it. Lapland restaurants also serve it with rieska flatbread, malt bread or the dark sweet archipelago loaf."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "The recipe",
+      "headline": "Lohikeitto, the home way.",
+      "lead": "Three recipes: the creamy soup most Finns know, a clear version finished with butter, and the stock that makes both of them fuller.",
+      "items": [
+        {
+          "name": "Creamy lohikeitto",
+          "description": "Salmon, potato and onion in a light stock, finished with cream, butter and plenty of dill.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Easy",
+          "ingredients": [
+            "500 g skinless salmon fillet",
+            "700 g waxy or all-purpose potatoes",
+            "1 onion or a small leek",
+            "1 carrot, if you like",
+            "1 l water or fish stock",
+            "8 allspice berries",
+            "1 bay leaf",
+            "1 tsp salt",
+            "2 dl cream",
+            "1 tbsp butter",
+            "1 dl chopped dill"
+          ],
+          "instructions": [
+            "Peel the potatoes and cut them into cubes of about 2 cm. Peel and chop the onion and slice the carrot.",
+            "Bring the water or stock to the boil and add the potatoes, onion, carrot, allspice, bay leaf and salt. Cover and simmer for about 15 minutes, until the potatoes are nearly cooked.",
+            "Cut the salmon into 2 to 3 cm cubes and pick out any bones.",
+            "Pour in the cream and bring the soup back to a simmer. Add the salmon and cook on a low heat for 5 to 8 minutes, until it is just cooked. Do not let the soup boil hard.",
+            "Lift out the bay leaf, stir in the butter and dill, and check the salt."
+          ],
+          "tip": "Stock made from the salmon's head and bones gives a fuller soup than water. The recipe is the third one on this page.",
+          "imageAlt": "A bowl of creamy Finnish salmon soup with salmon, potato and dill"
+        },
+        {
+          "name": "Clear lohikeitto with butter",
+          "description": "No cream: salmon and potato in a clear fish stock, finished with butter and herbs.",
+          "time": "1 hour",
+          "serves": "4",
+          "level": "Easy",
+          "ingredients": [
+            "1 l fish stock (recipe below)",
+            "600 g waxy potatoes",
+            "1 onion",
+            "8 allspice berries",
+            "500 g skinless salmon fillet",
+            "50 g butter",
+            "Salt",
+            "Dill or chives"
+          ],
+          "instructions": [
+            "Make the stock first, or warm a stock you made earlier.",
+            "Add the cubed potatoes, the chopped onion and the allspice to the hot stock and simmer for about 15 minutes.",
+            "Add the salmon in cubes and cook on a low heat for 5 to 8 minutes.",
+            "Take the pot off the heat, stir in the butter and season with salt. Scatter dill or chives on top."
+          ],
+          "tip": "The clear soup works just as well with whitefish or trout. Use the same amounts and the same cooking times."
+        },
+        {
+          "name": "Fish stock from salmon head and bones",
+          "description": "The base for both soups. It uses the parts of the fish that are usually thrown away.",
+          "time": "45 min",
+          "serves": "About 1.5 l",
+          "level": "Easy",
+          "ingredients": [
+            "1 salmon head and the bones, about 500–700 g",
+            "1.5 l cold water",
+            "1 onion",
+            "1 carrot",
+            "10 allspice berries",
+            "1 bay leaf",
+            "Dill stalks",
+            "1 tsp salt"
+          ],
+          "instructions": [
+            "Rinse the head and bones in cold water and cut out the gills.",
+            "Put the fish in a pot, cover with the cold water and bring slowly to the boil. Skim off the foam.",
+            "Add the onion and carrot in pieces, the allspice, bay leaf, dill stalks and salt.",
+            "Simmer gently without a lid for 30 minutes, then strain the stock through a fine sieve."
+          ],
+          "tip": "Cut out the gills before cooking, because they make the stock bitter. Stock keeps in the freezer, so you can make enough for several soups at once."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "What it is",
+      "headline": "Lapland's two salmon rivers.",
+      "p1": "Lohikeitto is salmon cooked with potato and onion, seasoned with allspice and dill and usually finished with cream or milk. Of the six Lapland menus we checked, four describe their soup as creamy, and only one says where its salmon comes from: at Roka in Rovaniemi, the stock is made from salmon caught by the kitchen's own Toni.",
+      "p2": "Two salmon rivers run along Lapland's borders. The <strong>Tornionjoki</strong>, the border river with Sweden, is a spawning river for Baltic salmon. The counters that the Natural Resources Institute Finland (Luke) keeps at Kattilakoski recorded about 45,000 salmon going upriver in summer 2025, against about 100,000 in the best years, 2014, 2016 and 2021. In summer 2026 one angler may keep at most two salmon from the river.",
+      "p3": "The <strong>Tenojoki</strong> runs along the border with Norway in Utsjoki, and salmon fishing there is an important part of Sámi culture. After the salmon stocks weakened fast, salmon fishing was banned across the whole Teno watercourse in 2021. In 2026 salmon fishing is not allowed in the main river either, apart from individual permits granted to keep the Sámi fishing tradition alive.",
+      "imageAlt": "The Tenojoki river below a fell dusted with first snow in October",
+      "caption": "The Tenojoki beside road 970 in Utsjoki, 13 October 2026"
+    },
+    "variations": {
+      "kicker": "Variations",
+      "headline": "Cream, butter or smoke.",
+      "lead": "The pot always holds salmon and potato. What goes in with them changes from kitchen to kitchen.",
+      "items": [
+        {
+          "title": "Creamy or clear",
+          "body": "On Lapland menus the soup is almost always creamy: four of the six we checked say so. The clear version is cooked in fish stock and finished with butter."
+        },
+        {
+          "title": "With hot-smoked salmon",
+          "body": "Ruka Trek Gasthaus in Ruka makes its soup from hot-smoked salmon, carrot and potato in a creamy fish stock."
+        },
+        {
+          "title": "With lake fish",
+          "body": "The same method works with whitefish, Arctic char or trout. The Sámi kitchen's fish soup, made from whatever the lake gave that week, is on the traditional recipes page."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In numbers",
+      "headline": "Lohikeitto and its rivers, measured.",
+      "lead": "Figures from the Natural Resources Institute's counters, Finland's Ministry of Agriculture and Forestry and Lapland restaurant menus. Each card names its source.",
+      "items": [
+        {
+          "value": "≈ 45,000",
+          "label": "salmon went up the Tornionjoki in summer 2025, according to Luke's counters at Kattilakoski. In summer 2024 there were about 25,000.",
+          "source": "Regional Council of Lapland, statement to the Ministry of Agriculture and Forestry, 19 February 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40,000",
+          "label": "salmon is the spawning target researchers have set for the Tornionjoki. In the best years, 2014, 2016 and 2021, about 100,000 went upriver.",
+          "source": "Regional Council of Lapland, statement of 19 February 2026."
+        },
+        {
+          "value": "2",
+          "label": "salmon is the most one angler may keep from the Tornionjoki in the 2026 season, whatever the fishing method.",
+          "source": "Ministry of Agriculture and Forestry of Finland, press release, 8 April 2026."
+        },
+        {
+          "value": "2021",
+          "label": "the year salmon fishing was banned across the whole Tenojoki watercourse, because the salmon stocks had weakened fast.",
+          "source": "Ministry of Agriculture and Forestry of Finland, press release, 29 April 2021."
+        },
+        {
+          "value": "0",
+          "label": "salmon may be fished from the Tenojoki main river in 2026. The only exceptions are individual permits for keeping the Sámi fishing tradition alive.",
+          "source": "Ministry of Agriculture and Forestry of Finland, press release, 29 May 2026."
+        },
+        {
+          "value": "12–19.80 €",
+          "label": "for a bowl of lohikeitto in restaurants in Rovaniemi, Ylläs and Ruka.",
+          "source": "The restaurants' own menus, checked 20 October 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Where to eat it",
+      "headline": "Lohikeitto on Lapland menus.",
+      "lead": "These six restaurants list lohikeitto, with prices from their own menus on 20 October 2026. Three of them are in Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Creamy salmon soup with rieska, the Lapland flatbread, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "The house lohikeitto with dark malt bread and butter, 16.90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Creamy lohikeitto with toasted archipelago bread, 18.50 €. The stock is made from salmon the kitchen's Toni caught himself."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Creamy salmon soup with the house bread, 15.60 € small and 19.80 € large."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto as a starter, 12 €, also in the three-course Menu Ylläskota (44 €) and as a children's portion."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Hot-smoked salmon soup with carrot and potato in a creamy fish stock, 12.50 € or 19 €."
+        }
+      ],
+      "gygCta": "Browse Lapland food tours on GetYourGuide",
+      "diningCta": "See the fine-dining guide"
+    },
+    "faq": {
+      "kicker": "Questions",
+      "headline": "What people ask about lohikeitto.",
+      "items": [
+        {
+          "question": "What goes into lohikeitto?",
+          "answer": "Salmon, potato, onion or leek, allspice and dill, and usually cream or milk. Carrot is a common addition."
+        },
+        {
+          "question": "How long do you cook the salmon?",
+          "answer": "Cubes of 2 to 3 cm cook in 5 to 8 minutes on a low heat. Add them when the potatoes are nearly done, and do not let the soup boil hard."
+        },
+        {
+          "question": "Can you make lohikeitto without cream?",
+          "answer": "Yes. The clear version is cooked in fish stock and finished with butter. The recipe is above."
+        },
+        {
+          "question": "How much does lohikeitto cost in Lapland?",
+          "answer": "On the six Lapland menus we checked, a bowl costs 12 to 19.80 euros. Prices checked 20 October 2026."
+        },
+        {
+          "question": "Is lohikeitto Finland's national dish?",
+          "answer": "No. In the 2017 vote for a Finnish national dish, rye bread won. Fish soup was among the 12 finalists and was the jury's own pick, but salmon soup was not named separately."
+        },
+        {
+          "question": "Is the salmon in a Lapland restaurant from Lapland's rivers?",
+          "answer": "Ask the restaurant. Of the six menus we checked, only Roka in Rovaniemi says where its salmon comes from. In 2026 an angler may keep at most two salmon from the Tornionjoki, and the Tenojoki main river is closed to salmon fishing."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Keep going",
+      "headline": "Where this leads.",
+      "items": [
+        {
+          "title": "More Lapland recipes",
+          "body": "Bidos, flatbread, the Sámi lake-fish soup and berry kissel, written out step by step.",
+          "cta": "Traditional recipes"
+        },
+        {
+          "title": "Poronkäristys for the main course",
+          "body": "Shaved reindeer simmered soft and served with mashed potato and lingonberries: the recipe and where to eat it.",
+          "cta": "Poronkäristys guide"
+        },
+        {
+          "title": "Stay in Rovaniemi",
+          "body": "Three of the restaurants above are in Rovaniemi, and the city is a practical base for eating your way through Lapland.",
+          "cta": "Browse stays in Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

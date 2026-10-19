@@ -142,6 +142,29 @@
     }
   },
   {
+    "path": "/lohikeitto",
+    "jsonKey": "lohikeitto",
+    "nativeLocales": [
+      "en",
+      "fi",
+      "de",
+      "ja",
+      "es",
+      "zh-CN",
+      "ko",
+      "fr",
+      "it",
+      "nl",
+      "sv",
+      "pt-BR"
+    ],
+    "ogImage": "/og/lohikeitto.jpg",
+    "ogCard": {
+      "hero": "/images/hero-lohikeitto-1920.webp",
+      "line": "Salmon soup, the Finnish way"
+    }
+  },
+  {
     "path": "/poronkaristys",
     "jsonKey": "poronkaristys",
     "nativeLocales": [

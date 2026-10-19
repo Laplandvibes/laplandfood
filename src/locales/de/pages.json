@@ -1518,8 +1518,8 @@
       "headline": "Wenn Sie ein Gericht kochen, dann dieses."
     },
     "dishes": {
-      "kicker": "Zwei Klassiker aus Lappland",
-      "headline": "Poronkäristys und Leipäjuusto, jeweils auf einer eigenen Seite.",
+      "kicker": "Drei Klassiker",
+      "headline": "Lohikeitto, Poronkäristys und Leipäjuusto, jeweils auf einer eigenen Seite.",
       "cta": "Zu den Rezepten"
     },
     "imageLabels": {
@@ -1528,6 +1528,287 @@
     "imageAlts": {
       "gahkku": "Im Bild: eine samische Frau backt Fladenbrot über dem Feuer in einem Lavvu-Zelt im samischen Lager Sallohaure, Schwedisch-Lappland",
       "stoneOven": "Elina Lokka holt 1937 in Lokka, Sodankylä, Brot aus einem Steinofen"
+    }
+  },
+  "lohikeitto": {
+    "title": "Finnische Lachssuppe (Lohikeitto): Rezept und Lokale in Lappland",
+    "description": "So kochen Finnen Lachssuppe: Lachs, Kartoffeln, Zwiebel, Piment, Dill, meist Sahne. Dazu die klare Butter-Variante, hausgemachter Fond und Lokale in Lappland.",
+    "teaser": "Lachs, Kartoffeln, Piment und Dill, zum Schluss Sahne oder Butter: das cremige Rezept, die klare Variante, der Fond und wo Sie die Suppe in Lappland bekommen.",
+    "hero": {
+      "eyebrow": "Finnlands Lachssuppe · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "Lachssuppe mit Sahne und Dill.",
+      "subtitle": "Lohikeitto ist die Suppe, die Finnen zu Hause kochen und mittags bestellen: Lachs, Kartoffeln, Zwiebel, Piment und Dill, meist mit Sahne verfeinert. Hier finden Sie drei Rezepte, was die Suppe auf Lapplands Speisekarten kostet, und die zwei Lachsflüsse an Lapplands Grenzen, in denen der Wildlachs heute geschützt ist.",
+      "imageAlt": "Ein Teller cremige Lachssuppe mit Kartoffeln, Lachs und frischem Dill",
+      "primaryCta": "Direkt zum Rezept",
+      "secondaryCta": "Alle traditionellen Rezepte",
+      "pills": [
+        "Das Rezept",
+        "Was es ist",
+        "Varianten",
+        "In Zahlen",
+        "Wo probieren",
+        "Fragen"
+      ]
+    },
+    "intro": {
+      "lead": "Der Name sagt schon alles: „lohi“ heißt Lachs, „keitto“ Suppe. In den Topf kommen Lachs, Kartoffeln und Zwiebel, gewürzt wird mit Piment und Dill, und auf Lapplands Speisekarten ist die Suppe fast immer cremig. In Rovaniemi, Ylläs und Ruka kostet ein Teller 12 bis 19,80 Euro.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Der Lachs kommt zuletzt",
+          "body": "Zuerst kochen die Kartoffeln. Der Lachs kommt erst hinein, wenn sie fast gar sind, und zieht dann bei schwacher Hitze in wenigen Minuten gar. Sprudelndes Kochen lässt den Fisch zerfallen."
+        },
+        {
+          "n": "02",
+          "title": "Sahne oder Butter",
+          "body": "Restaurants servieren meist die cremige Variante. Für die klare Suppe wird der Fond aus Kopf und Gräten des Lachses gekocht, und zum Schluss kommt Butter statt Sahne hinein."
+        },
+        {
+          "n": "03",
+          "title": "Brot dazu",
+          "body": "Dazu isst man Roggenbrot mit Butter. In Lapplands Restaurants gibt es auch Rieska-Fladenbrot, Malzbrot oder das dunkle, süße Schärenbrot dazu."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Das Rezept",
+      "headline": "Lohikeitto, wie man sie zu Hause kocht.",
+      "lead": "Drei Rezepte: die cremige Suppe, die die meisten Finnen kennen, eine klare Variante mit Butter und der Fond, der beide gehaltvoller macht.",
+      "items": [
+        {
+          "name": "Cremige Lohikeitto",
+          "description": "Lachs, Kartoffeln und Zwiebel in leichter Brühe, verfeinert mit Sahne, Butter und reichlich Dill.",
+          "time": "40 Min.",
+          "serves": "4",
+          "level": "Einfach",
+          "ingredients": [
+            "500 g Lachsfilet ohne Haut",
+            "700 g festkochende oder vorwiegend festkochende Kartoffeln",
+            "1 Zwiebel oder eine kleine Stange Lauch",
+            "1 Karotte nach Belieben",
+            "1 l Wasser oder Fischfond",
+            "8 Pimentkörner",
+            "1 Lorbeerblatt",
+            "1 TL Salz",
+            "2 dl Sahne",
+            "1 EL Butter",
+            "1 dl gehackter Dill"
+          ],
+          "instructions": [
+            "Schälen Sie die Kartoffeln und schneiden Sie sie in etwa 2 cm große Würfel. Schälen und hacken Sie die Zwiebel und schneiden Sie die Karotte in Scheiben.",
+            "Bringen Sie das Wasser oder den Fond zum Kochen und geben Sie Kartoffeln, Zwiebel, Karotte, Piment, Lorbeerblatt und Salz hinein. Lassen Sie alles zugedeckt etwa 15 Minuten köcheln, bis die Kartoffeln fast gar sind.",
+            "Schneiden Sie den Lachs in 2 bis 3 cm große Würfel und entfernen Sie dabei eventuelle Gräten.",
+            "Gießen Sie die Sahne an und lassen Sie die Suppe wieder aufköcheln. Geben Sie den Lachs hinein und garen Sie ihn bei schwacher Hitze 5 bis 8 Minuten, bis er gerade eben durch ist. Lassen Sie die Suppe dabei nicht sprudelnd kochen.",
+            "Nehmen Sie das Lorbeerblatt heraus, rühren Sie Butter und Dill unter und schmecken Sie mit Salz ab."
+          ],
+          "tip": "Mit einem Fond aus Kopf und Gräten des Lachses wird die Suppe gehaltvoller als mit Wasser. Das Rezept dafür ist das dritte auf dieser Seite.",
+          "imageAlt": "Eine Schale cremige finnische Lachssuppe mit Lachs, Kartoffeln und Dill"
+        },
+        {
+          "name": "Klare Lohikeitto mit Butter",
+          "description": "Ohne Sahne: Lachs und Kartoffeln in klarem Fischfond, zum Schluss mit Butter und Kräutern verfeinert.",
+          "time": "1 Stunde",
+          "serves": "4",
+          "level": "Einfach",
+          "ingredients": [
+            "1 l Fischfond (Rezept unten)",
+            "600 g festkochende Kartoffeln",
+            "1 Zwiebel",
+            "8 Pimentkörner",
+            "500 g Lachsfilet ohne Haut",
+            "50 g Butter",
+            "Salz",
+            "Dill oder Schnittlauch"
+          ],
+          "instructions": [
+            "Kochen Sie zuerst den Fond oder erwärmen Sie einen, den Sie vorher gekocht haben.",
+            "Geben Sie die gewürfelten Kartoffeln, die gehackte Zwiebel und den Piment in den heißen Fond und lassen Sie alles etwa 15 Minuten köcheln.",
+            "Geben Sie den Lachs in Würfeln dazu und garen Sie ihn bei schwacher Hitze 5 bis 8 Minuten.",
+            "Ziehen Sie den Topf vom Herd, rühren Sie die Butter ein und schmecken Sie mit Salz ab. Streuen Sie Dill oder Schnittlauch darüber."
+          ],
+          "tip": "Die klare Suppe gelingt genauso gut mit Felchen oder Forelle. Nehmen Sie dieselben Mengen und dieselben Garzeiten."
+        },
+        {
+          "name": "Fischfond aus Lachskopf und Gräten",
+          "description": "Die Grundlage für beide Suppen. Hier kommen die Teile des Fisches in den Topf, die sonst meist im Abfall landen.",
+          "time": "45 Min.",
+          "serves": "Etwa 1,5 l",
+          "level": "Einfach",
+          "ingredients": [
+            "1 Lachskopf und die Gräten, etwa 500–700 g",
+            "1,5 l kaltes Wasser",
+            "1 Zwiebel",
+            "1 Karotte",
+            "10 Pimentkörner",
+            "1 Lorbeerblatt",
+            "Dillstiele",
+            "1 TL Salz"
+          ],
+          "instructions": [
+            "Spülen Sie Kopf und Gräten unter kaltem Wasser ab und schneiden Sie die Kiemen heraus.",
+            "Legen Sie den Fisch in einen Topf, gießen Sie das kalte Wasser darüber und bringen Sie alles langsam zum Kochen. Schöpfen Sie den Schaum ab.",
+            "Geben Sie Zwiebel und Karotte in Stücken, den Piment, das Lorbeerblatt, die Dillstiele und das Salz dazu.",
+            "Lassen Sie den Fond ohne Deckel 30 Minuten leise köcheln und gießen Sie ihn dann durch ein feines Sieb."
+          ],
+          "tip": "Schneiden Sie die Kiemen vor dem Kochen heraus, denn sie machen den Fond bitter. Fond lässt sich einfrieren, Sie können also gleich genug für mehrere Suppen kochen."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Was es ist",
+      "headline": "Lapplands zwei Lachsflüsse.",
+      "p1": "Lohikeitto ist eine Suppe aus Lachs, Kartoffeln und Zwiebel, gewürzt mit Piment und Dill und meist mit Sahne oder Milch verfeinert. Von den sechs Speisekarten aus Lappland, die wir geprüft haben, nennen vier ihre Suppe cremig, und nur eine sagt, woher der Lachs stammt: Bei Roka in Rovaniemi wird der Fond aus Lachsen gekocht, die Toni aus der Küche selbst gefangen hat.",
+      "p2": "An Lapplands Grenzen fließen zwei Lachsflüsse. Der <strong>Tornionjoki</strong>, der Grenzfluss zu Schweden, ist ein Laichfluss des Ostseelachses. Die Zählanlagen, die das Naturressourceninstitut Finnland (Luke) bei Kattilakoski betreibt, erfassten im Sommer 2025 rund 45.000 aufsteigende Lachse, in den besten Jahren 2014, 2016 und 2021 waren es etwa 100.000. Im Sommer 2026 darf ein Angler höchstens zwei Lachse aus dem Fluss behalten.",
+      "p3": "Der <strong>Teno</strong> (Tenojoki) fließt in Utsjoki an der Grenze zu Norwegen entlang, und der Lachsfang ist dort ein wichtiger Teil der samischen Kultur. Nachdem die Lachsbestände rasch geschrumpft waren, wurde der Lachsfang 2021 im gesamten Flusssystem des Teno verboten. Auch 2026 ist er im Hauptlauf nicht erlaubt, abgesehen von einzelnen Genehmigungen, die erteilt werden, um die samische Fischereitradition lebendig zu halten.",
+      "imageAlt": "Der Teno unter einem Fjäll, den der erste Schnee im Oktober überzuckert hat",
+      "caption": "Der Teno an der Straße 970 in Utsjoki, 13. Oktober 2026"
+    },
+    "variations": {
+      "kicker": "Varianten",
+      "headline": "Sahne, Butter oder Rauch.",
+      "lead": "Lachs und Kartoffeln kommen immer in den Topf. Was dazukommt, ist von Küche zu Küche verschieden.",
+      "items": [
+        {
+          "title": "Cremig oder klar",
+          "body": "Auf Lapplands Speisekarten ist die Suppe fast immer cremig: Vier der sechs Karten, die wir geprüft haben, sagen es ausdrücklich. Die klare Variante wird in Fischfond gekocht und mit Butter verfeinert."
+        },
+        {
+          "title": "Mit heißgeräuchertem Lachs",
+          "body": "Das Ruka Trek Gasthaus in Ruka kocht seine Suppe aus heißgeräuchertem Lachs, Karotten und Kartoffeln in cremigem Fischfond."
+        },
+        {
+          "title": "Mit Fisch aus dem See",
+          "body": "Genauso gelingt die Suppe mit Felchen, Saibling oder Forelle. Die Sápmi-Fischsuppe aus der samischen Küche, gekocht aus dem, was der See in jener Woche hergab, steht auf der Seite mit den traditionellen Rezepten."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In Zahlen",
+      "headline": "Lohikeitto und ihre Flüsse, nachgerechnet.",
+      "lead": "Zahlen von den Zählanlagen des Naturressourceninstituts, vom finnischen Land- und Forstwirtschaftsministerium und von den Speisekarten lappländischer Restaurants. Jede Karte nennt ihre Quelle.",
+      "items": [
+        {
+          "value": "≈ 45.000",
+          "label": "Lachse stiegen im Sommer 2025 in den Tornionjoki auf, laut den Zählanlagen von Luke bei Kattilakoski. Im Sommer 2024 waren es rund 25.000.",
+          "source": "Lapin liitto (Regionalverband Lappland), Stellungnahme an das finnische Land- und Forstwirtschaftsministerium vom 19. Februar 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40.000",
+          "label": "Lachse haben Forscher als Ziel für den Laichbestand im Tornionjoki festgelegt. In den besten Jahren, 2014, 2016 und 2021, stiegen rund 100.000 auf.",
+          "source": "Lapin liitto, Stellungnahme vom 19. Februar 2026."
+        },
+        {
+          "value": "2",
+          "label": "Lachse darf ein Angler in der Saison 2026 höchstens aus dem Tornionjoki behalten, gleich mit welcher Fangmethode.",
+          "source": "Maa- ja metsätalousministeriö (finnisches Land- und Forstwirtschaftsministerium), Pressemitteilung vom 8. April 2026."
+        },
+        {
+          "value": "2021",
+          "label": "das Jahr, in dem der Lachsfang im gesamten Flusssystem des Teno verboten wurde, weil die Lachsbestände rasch geschrumpft waren.",
+          "source": "Maa- ja metsätalousministeriö, Pressemitteilung vom 29. April 2021."
+        },
+        {
+          "value": "0",
+          "label": "Lachse dürfen 2026 im Hauptlauf des Teno gefangen werden. Die einzigen Ausnahmen sind einzelne Genehmigungen, die die samische Fischereitradition lebendig halten sollen.",
+          "source": "Maa- ja metsätalousministeriö, Pressemitteilung vom 29. Mai 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "kostet ein Teller Lohikeitto in Restaurants in Rovaniemi, Ylläs und Ruka.",
+          "source": "Eigene Speisekarten der Restaurants, geprüft am 20. Oktober 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Wo probieren",
+      "headline": "Lohikeitto auf Lapplands Speisekarten.",
+      "lead": "Diese sechs Restaurants führen Lohikeitto, mit Preisen von ihren eigenen Speisekarten vom 20. Oktober 2026. Drei davon liegen in Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Cremige Lachssuppe mit Rieska, dem lappländischen Fladenbrot, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "Die Lohikeitto des Hauses mit dunklem Malzbrot und Butter, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Cremige Lohikeitto mit geröstetem Schärenbrot, 18,50 €. Der Fond wird aus Lachsen gekocht, die Toni aus der Küche selbst gefangen hat."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Cremige Lachssuppe mit dem Brot des Hauses, klein 15,60 €, groß 19,80 €."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto als Vorspeise, 12 €, außerdem im dreigängigen Menu Ylläskota (44 €) und als Kinderportion."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Suppe aus heißgeräuchertem Lachs mit Karotten und Kartoffeln in cremigem Fischfond, 12,50 € oder 19 €."
+        }
+      ],
+      "gygCta": "Kulinarische Touren in Lappland auf GetYourGuide ansehen",
+      "diningCta": "Zum Fine-Dining-Guide"
+    },
+    "faq": {
+      "kicker": "Fragen",
+      "headline": "Was oft zu Lohikeitto gefragt wird.",
+      "items": [
+        {
+          "question": "Was gehört in eine Lohikeitto?",
+          "answer": "Lachs, Kartoffeln, Zwiebel oder Lauch, Piment und Dill, dazu meist Sahne oder Milch. Oft kommt auch eine Karotte hinein."
+        },
+        {
+          "question": "Wie lange muss der Lachs garen?",
+          "answer": "Würfel von 2 bis 3 cm sind bei schwacher Hitze in 5 bis 8 Minuten gar. Geben Sie sie hinein, wenn die Kartoffeln fast gar sind, und lassen Sie die Suppe nicht sprudelnd kochen."
+        },
+        {
+          "question": "Kann man Lohikeitto ohne Sahne kochen?",
+          "answer": "Ja. Die klare Variante wird in Fischfond gekocht und mit Butter verfeinert. Das Rezept steht weiter oben."
+        },
+        {
+          "question": "Was kostet Lohikeitto in Lappland?",
+          "answer": "Auf den sechs Speisekarten aus Lappland, die wir geprüft haben, kostet ein Teller 12 bis 19,80 Euro. Preise geprüft am 20. Oktober 2026."
+        },
+        {
+          "question": "Ist Lohikeitto Finnlands Nationalgericht?",
+          "answer": "Nein. Bei der Abstimmung über ein finnisches Nationalgericht 2017 gewann Roggenbrot. Fischsuppe war unter den 12 Finalisten und die eigene Wahl der Jury, Lachssuppe wurde aber nicht gesondert genannt."
+        },
+        {
+          "question": "Stammt der Lachs in lappländischen Restaurants aus Lapplands Flüssen?",
+          "answer": "Fragen Sie im Restaurant nach. Von den sechs Speisekarten, die wir geprüft haben, sagt nur die von Roka in Rovaniemi, woher der Lachs kommt. 2026 darf ein Angler höchstens zwei Lachse aus dem Tornionjoki behalten, und im Hauptlauf des Teno ist der Lachsfang gesperrt."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Weiter geht es",
+      "headline": "Wohin das führt.",
+      "items": [
+        {
+          "title": "Weitere Rezepte aus Lappland",
+          "body": "Bidos, Fladenbrot, die samische Fischsuppe aus Süßwasserfisch und Beerenkissel, Schritt für Schritt beschrieben.",
+          "cta": "Traditionelle Rezepte"
+        },
+        {
+          "title": "Poronkäristys als Hauptgang",
+          "body": "Dünn gehobeltes Rentierfleisch, weich geschmort und mit Kartoffelpüree und Preiselbeeren serviert: das Rezept und wo Sie es essen können.",
+          "cta": "Zum Poronkäristys-Guide"
+        },
+        {
+          "title": "Übernachten in Rovaniemi",
+          "body": "Drei der oben genannten Restaurants liegen in Rovaniemi, und die Stadt ist ein praktischer Ausgangspunkt, um sich durch Lappland zu essen.",
+          "cta": "Unterkünfte in Rovaniemi ansehen"
+        }
+      ]
     }
   },
   "poronkaristys": {

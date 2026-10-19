@@ -51,7 +51,7 @@ interface NextStep { title: string; body: string; cta: string }
  * lähteineen (`facts.items[].source`) — ei yhtään lukua ilman lähdettä.
  */
 export interface DishConfig {
-  key: 'poronkaristys' | 'leipajuusto';
+  key: 'lohikeitto' | 'poronkaristys' | 'leipajuusto';
   path: string;
   /** Kuvien alt on pages.jsonissa (`<key>.hero/about.imageAlt`, `recipes.items[i].imageAlt`) 12 kielellä (5.10.2026). */
   /** srcSet + layout 18.10.2026: annoskuva oikealla puoliskolla ('split'), maisema taustana ('bleed'). */

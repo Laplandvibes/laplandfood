@@ -1517,8 +1517,8 @@
       "headline": "Se for cozinhar um prato só, cozinhe este."
     },
     "dishes": {
-      "kicker": "Dois clássicos da Lapônia",
-      "headline": "Poronkäristys e leipäjuusto, cada um na sua página.",
+      "kicker": "Três clássicos",
+      "headline": "Lohikeitto, poronkäristys e leipäjuusto, cada um na sua página.",
       "cta": "Abrir as receitas"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "Na foto: uma mulher sámi assando pão achatado no fogo dentro de uma tenda lavvu, no acampamento sámi de Sallohaure, Lapônia sueca",
       "stoneOven": "Elina Lokka tirando pão de um forno de pedra em Lokka, Sodankylä, em 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Sopa de salmão finlandesa (lohikeitto): receita e onde comer",
+    "description": "Como os finlandeses fazem o lohikeitto: salmão, batata, cebola, pimenta-da-jamaica e endro, em geral com creme. Versão clara, caldo e onde pedir na Lapônia.",
+    "teaser": "Salmão, batata, pimenta-da-jamaica e endro, finalizados com creme de leite ou manteiga: a receita cremosa, a clara, o caldo e onde a Lapônia serve o prato.",
+    "hero": {
+      "eyebrow": "A sopa de salmão da Finlândia · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "sopa de salmão com creme de leite e endro.",
+      "subtitle": "O lohikeitto é a sopa que os finlandeses fazem em casa e pedem no almoço: salmão, batata, cebola, pimenta-da-jamaica e endro, geralmente finalizada com creme de leite. Aqui você encontra três receitas, quanto custa um prato nos cardápios da Lapônia e os dois rios de salmão nas fronteiras da região, onde o salmão selvagem agora é protegido.",
+      "imageAlt": "Um prato de sopa de salmão cremosa com batatas, salmão e endro fresco",
+      "primaryCta": "Ir para a receita",
+      "secondaryCta": "Todas as receitas tradicionais",
+      "pills": [
+        "A receita",
+        "O que é",
+        "Variações",
+        "Em números",
+        "Onde comer",
+        "Perguntas"
+      ]
+    },
+    "intro": {
+      "lead": "O nome já diz tudo: lohi é salmão e keitto é sopa. Na panela vão salmão, batata e cebola, os temperos são pimenta-da-jamaica e endro, e nos cardápios dos restaurantes da Lapônia a sopa é quase sempre cremosa. Em Rovaniemi, Ylläs e Ruka, um prato custa de 12 a 19,80 euros.",
+      "points": [
+        {
+          "n": "01",
+          "title": "O salmão entra por último",
+          "body": "As batatas cozinham primeiro. O salmão entra quando elas estão quase prontas e fica cozido em poucos minutos, em fogo baixo. Uma fervura forte desmancha o peixe."
+        },
+        {
+          "n": "02",
+          "title": "Creme de leite ou manteiga",
+          "body": "Os restaurantes costumam servir a versão cremosa. Na versão clara, o caldo é feito com a cabeça e as espinhas do salmão, e a sopa é finalizada com manteiga em vez de creme de leite."
+        },
+        {
+          "n": "03",
+          "title": "Pão para acompanhar",
+          "body": "O acompanhamento é pão de centeio com manteiga. Os restaurantes da Lapônia também servem a sopa com o pão achatado rieska, com pão de malte ou com o pão do arquipélago, escuro e adocicado."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "A receita",
+      "headline": "Lohikeitto do jeito caseiro.",
+      "lead": "Três receitas: a sopa cremosa que a maioria dos finlandeses conhece, uma versão clara finalizada com manteiga e o caldo que deixa as duas mais encorpadas.",
+      "items": [
+        {
+          "name": "Lohikeitto cremoso",
+          "description": "Salmão, batata e cebola num caldo leve, finalizados com creme de leite, manteiga e bastante endro.",
+          "time": "40 min",
+          "serves": "4 pessoas",
+          "level": "Fácil",
+          "ingredients": [
+            "500 g de filé de salmão sem pele",
+            "700 g de batatas de polpa firme ou multiuso",
+            "1 cebola ou um alho-poró pequeno",
+            "1 cenoura, se quiser",
+            "1 l de água ou caldo de peixe",
+            "8 grãos de pimenta-da-jamaica",
+            "1 folha de louro",
+            "1 colher de chá de sal",
+            "2 dl de creme de leite fresco",
+            "1 colher de sopa de manteiga",
+            "1 dl de endro picado"
+          ],
+          "instructions": [
+            "Descasque as batatas e corte em cubos de cerca de 2 cm. Descasque e pique a cebola e corte a cenoura em rodelas.",
+            "Leve a água ou o caldo para ferver e junte as batatas, a cebola, a cenoura, a pimenta-da-jamaica, o louro e o sal. Tampe e cozinhe em fogo baixo por cerca de 15 minutos, até as batatas ficarem quase cozidas.",
+            "Corte o salmão em cubos de 2 a 3 cm e retire as espinhas que encontrar.",
+            "Despeje o creme de leite e deixe a sopa voltar a ferver de leve. Junte o salmão e cozinhe em fogo baixo por 5 a 8 minutos, só até ele ficar no ponto. Não deixe a sopa ferver forte.",
+            "Retire a folha de louro, misture a manteiga e o endro e acerte o sal."
+          ],
+          "tip": "O caldo feito com a cabeça e as espinhas do salmão deixa a sopa mais encorpada do que a água. A receita é a terceira desta página.",
+          "imageAlt": "Uma tigela de sopa de salmão finlandesa cremosa, com salmão, batata e endro"
+        },
+        {
+          "name": "Lohikeitto claro com manteiga",
+          "description": "Sem creme de leite: salmão e batata num caldo de peixe claro, finalizados com manteiga e ervas.",
+          "time": "1 hora",
+          "serves": "4 pessoas",
+          "level": "Fácil",
+          "ingredients": [
+            "1 l de caldo de peixe (receita abaixo)",
+            "600 g de batatas de polpa firme",
+            "1 cebola",
+            "8 grãos de pimenta-da-jamaica",
+            "500 g de filé de salmão sem pele",
+            "50 g de manteiga",
+            "Sal",
+            "Endro ou cebolinha-francesa"
+          ],
+          "instructions": [
+            "Prepare o caldo primeiro ou aqueça um caldo que você já tenha feito.",
+            "Junte ao caldo quente as batatas em cubos, a cebola picada e a pimenta-da-jamaica e cozinhe em fogo baixo por cerca de 15 minutos.",
+            "Acrescente o salmão em cubos e cozinhe em fogo baixo por 5 a 8 minutos.",
+            "Tire a panela do fogo, misture a manteiga e tempere com sal. Espalhe endro ou cebolinha-francesa por cima."
+          ],
+          "tip": "A sopa clara fica igualmente boa com coregono ou truta. Use as mesmas quantidades e os mesmos tempos de cozimento."
+        },
+        {
+          "name": "Caldo de peixe com cabeça e espinhas de salmão",
+          "description": "A base das duas sopas. Usa as partes do peixe que costumam ir para o lixo.",
+          "time": "45 min",
+          "serves": "Cerca de 1,5 l",
+          "level": "Fácil",
+          "ingredients": [
+            "1 cabeça de salmão e as espinhas, cerca de 500–700 g",
+            "1,5 l de água fria",
+            "1 cebola",
+            "1 cenoura",
+            "10 grãos de pimenta-da-jamaica",
+            "1 folha de louro",
+            "Talos de endro",
+            "1 colher de chá de sal"
+          ],
+          "instructions": [
+            "Lave a cabeça e as espinhas em água fria e corte fora as guelras.",
+            "Coloque o peixe numa panela, cubra com a água fria e aqueça devagar até ferver. Retire a espuma.",
+            "Junte a cebola e a cenoura em pedaços, a pimenta-da-jamaica, o louro, os talos de endro e o sal.",
+            "Cozinhe em fogo baixo, sem tampa, por 30 minutos e depois coe o caldo numa peneira fina."
+          ],
+          "tip": "Corte fora as guelras antes de cozinhar, porque elas deixam o caldo amargo. O caldo pode ir para o freezer, então dá para fazer o bastante para várias sopas de uma vez."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "O que é",
+      "headline": "Os dois rios de salmão da Lapônia.",
+      "p1": "O lohikeitto é salmão cozido com batata e cebola, temperado com pimenta-da-jamaica e endro e geralmente finalizado com creme de leite ou leite. Dos seis cardápios da Lapônia que consultamos, quatro descrevem a sopa como cremosa, e só um diz de onde vem o salmão: no Roka, em Rovaniemi, o caldo é feito com salmão que o Toni, da cozinha, pescou ele mesmo.",
+      "p2": "Dois rios de salmão correm pelas fronteiras da Lapônia. O <strong>Tornionjoki</strong>, rio de fronteira com a Suécia, é um rio de desova do salmão do Báltico. Os contadores de peixes que o Instituto de Recursos Naturais da Finlândia (Luke) mantém em Kattilakoski registraram cerca de 45.000 salmões subindo o rio no verão de 2025, contra cerca de 100.000 nos melhores anos, 2014, 2016 e 2021. No verão de 2026, cada pescador pode levar no máximo dois salmões do rio.",
+      "p3": "O <strong>Teno</strong> corre pela fronteira com a Noruega, em Utsjoki, e a pesca do salmão ali é parte importante da cultura sámi. Depois que as populações de salmão caíram rapidamente, a pesca do salmão foi proibida em toda a bacia do Teno em 2021. Em 2026, ela também não é permitida no curso principal do rio, a não ser por licenças individuais concedidas para manter viva a tradição pesqueira sámi.",
+      "imageAlt": "O rio Teno sob um monte salpicado pela primeira neve, em outubro",
+      "caption": "O rio Teno ao lado da estrada 970, em Utsjoki, 13 de outubro de 2026"
+    },
+    "variations": {
+      "kicker": "Variações",
+      "headline": "Creme de leite, manteiga ou salmão defumado.",
+      "lead": "Na panela sempre vão salmão e batata. O que entra junto muda de cozinha para cozinha.",
+      "items": [
+        {
+          "title": "Cremoso ou claro",
+          "body": "Nos cardápios da Lapônia a sopa é quase sempre cremosa: quatro dos seis que consultamos dizem isso. A versão clara é cozida em caldo de peixe e finalizada com manteiga."
+        },
+        {
+          "title": "Com salmão defumado a quente",
+          "body": "O Ruka Trek Gasthaus, em Ruka, faz a sopa com salmão defumado a quente, cenoura e batata num caldo de peixe cremoso."
+        },
+        {
+          "title": "Com peixe de lago",
+          "body": "O mesmo método funciona com coregono, salvelino-ártico ou truta. A sopa de peixe da cozinha sámi, feita com o que o lago deu naquela semana, está na página de receitas tradicionais."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "Em números",
+      "headline": "O lohikeitto e seus rios na ponta do lápis.",
+      "lead": "Dados dos contadores de peixes do Instituto de Recursos Naturais, do Ministério da Agricultura e Florestas da Finlândia e dos cardápios dos restaurantes da Lapônia. Cada cartão indica a fonte.",
+      "items": [
+        {
+          "value": "≈ 45.000",
+          "label": "salmões subiram o Tornionjoki no verão de 2025, segundo os contadores do Luke em Kattilakoski. No verão de 2024 foram cerca de 25.000.",
+          "source": "Conselho Regional da Lapônia, parecer ao Ministério da Agricultura e Florestas, 19 de fevereiro de 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40.000",
+          "label": "salmões é a meta de desova que os pesquisadores definiram para o Tornionjoki. Nos melhores anos, 2014, 2016 e 2021, cerca de 100.000 subiram o rio.",
+          "source": "Conselho Regional da Lapônia, parecer de 19 de fevereiro de 2026."
+        },
+        {
+          "value": "2",
+          "label": "salmões é o máximo que um pescador pode levar do Tornionjoki na temporada de 2026, qualquer que seja o método de pesca.",
+          "source": "Ministério da Agricultura e Florestas da Finlândia, comunicado à imprensa, 8 de abril de 2026."
+        },
+        {
+          "value": "2021",
+          "label": "o ano em que a pesca do salmão foi proibida em toda a bacia do Teno, porque as populações de salmão tinham caído rapidamente.",
+          "source": "Ministério da Agricultura e Florestas da Finlândia, comunicado à imprensa, 29 de abril de 2021."
+        },
+        {
+          "value": "0",
+          "label": "salmões podem ser pescados no curso principal do Teno em 2026. As únicas exceções são licenças individuais para manter viva a tradição pesqueira sámi.",
+          "source": "Ministério da Agricultura e Florestas da Finlândia, comunicado à imprensa, 29 de maio de 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "o prato de lohikeitto em restaurantes de Rovaniemi, Ylläs e Ruka.",
+          "source": "Cardápios dos próprios restaurantes, consultados em 20 de outubro de 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Onde comer",
+      "headline": "Lohikeitto nos cardápios da Lapônia.",
+      "lead": "Estes seis restaurantes têm lohikeitto no cardápio; os preços são dos próprios cardápios em 20 de outubro de 2026. Três deles ficam em Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Sopa de salmão cremosa com rieska, o pão achatado da Lapônia, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "O lohikeitto da casa com pão de malte escuro e manteiga, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Lohikeitto cremoso com pão do arquipélago tostado, 18,50 €. O caldo é feito com salmão que o Toni, da cozinha, pescou ele mesmo."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Sopa de salmão cremosa com o pão da casa, 15,60 € a porção pequena e 19,80 € a grande."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto de entrada, 12 €, que também aparece no Menu Ylläskota de três pratos (44 €) e em porção infantil."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Sopa de salmão defumado a quente com cenoura e batata num caldo de peixe cremoso, 12,50 € ou 19 €."
+        }
+      ],
+      "gygCta": "Ver tours gastronômicos da Lapônia no GetYourGuide",
+      "diningCta": "Ver o guia de alta gastronomia"
+    },
+    "faq": {
+      "kicker": "Perguntas",
+      "headline": "O que as pessoas perguntam sobre o lohikeitto.",
+      "items": [
+        {
+          "question": "O que leva o lohikeitto?",
+          "answer": "Salmão, batata, cebola ou alho-poró, pimenta-da-jamaica e endro, e geralmente creme de leite ou leite. A cenoura é um acréscimo comum."
+        },
+        {
+          "question": "Quanto tempo o salmão deve cozinhar?",
+          "answer": "Cubos de 2 a 3 cm ficam prontos em 5 a 8 minutos, em fogo baixo. Junte o salmão quando as batatas estiverem quase cozidas e não deixe a sopa ferver forte."
+        },
+        {
+          "question": "Dá para fazer lohikeitto sem creme de leite?",
+          "answer": "Dá. A versão clara é cozida em caldo de peixe e finalizada com manteiga. A receita está mais acima."
+        },
+        {
+          "question": "Quanto custa o lohikeitto na Lapônia?",
+          "answer": "Nos seis cardápios da Lapônia que consultamos, um prato custa de 12 a 19,80 euros. Preços consultados em 20 de outubro de 2026."
+        },
+        {
+          "question": "O lohikeitto é o prato nacional da Finlândia?",
+          "answer": "Não. Na votação de 2017 para escolher o prato nacional finlandês, venceu o pão de centeio. A sopa de peixe ficou entre os 12 finalistas e foi a escolha do próprio júri, mas a sopa de salmão não foi citada separadamente."
+        },
+        {
+          "question": "O salmão de um restaurante da Lapônia vem dos rios da Lapônia?",
+          "answer": "Pergunte no restaurante. Dos seis cardápios que consultamos, só o do Roka, em Rovaniemi, diz de onde vem o salmão. Em 2026, um pescador pode levar no máximo dois salmões do Tornionjoki, e o curso principal do Teno está fechado para a pesca do salmão."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Continue",
+      "headline": "Aonde isso leva.",
+      "items": [
+        {
+          "title": "Mais receitas da Lapônia",
+          "body": "Bidos, pão achatado, a sopa sámi de peixe de lago e kissel de frutas silvestres, explicados passo a passo.",
+          "cta": "Receitas tradicionais"
+        },
+        {
+          "title": "Poronkäristys como prato principal",
+          "body": "Rena em lascas finas, cozida até ficar macia e servida com purê de batata e lingonberries: a receita e onde comer.",
+          "cta": "Guia do poronkäristys"
+        },
+        {
+          "title": "Hospede-se em Rovaniemi",
+          "body": "Três dos restaurantes acima ficam em Rovaniemi, e a cidade é uma base prática para conhecer a Lapônia pelo paladar.",
+          "cta": "Ver hospedagem em Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

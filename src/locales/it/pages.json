@@ -1517,8 +1517,8 @@
       "headline": "Se cucina un solo piatto, cucini questo."
     },
     "dishes": {
-      "kicker": "Due classici della Lapponia",
-      "headline": "Poronkäristys e leipäjuusto, ognuno con la sua pagina.",
+      "kicker": "Tre classici",
+      "headline": "Lohikeitto, poronkäristys e leipäjuusto, ognuno con la sua pagina.",
       "cta": "Veda le ricette"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "Nella foto: una donna sami cuoce pane piatto sul fuoco dentro un lavvu, nell'accampamento sami di Sallohaure, Lapponia svedese",
       "stoneOven": "Elina Lokka toglie il pane da un forno di pietra a Lokka, Sodankylä, nel 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Zuppa di salmone finlandese (lohikeitto): ricetta e ristoranti",
+    "description": "Il lohikeitto finlandese: salmone, patate, cipolla, pimento, aneto e di solito panna. Versione limpida al burro, brodo casalingo e dove ordinarlo in Lapponia.",
+    "teaser": "Salmone, patate, pimento e aneto, con un finale di panna o di burro: la ricetta alla panna, quella limpida, il brodo e dove si mangia in Lapponia.",
+    "hero": {
+      "eyebrow": "La zuppa di salmone finlandese · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "zuppa di salmone con panna e aneto.",
+      "subtitle": "Il lohikeitto è la zuppa che i finlandesi cucinano in casa e ordinano a pranzo: salmone, patate, cipolla, pimento (pepe della Giamaica) e aneto, e di solito un finale di panna. Qui trova tre ricette, quanto costa nei menu della Lapponia e i due fiumi da salmone ai confini della regione, dove oggi il salmone selvatico è protetto.",
+      "imageAlt": "Un piatto di zuppa di salmone alla panna con patate, salmone e aneto fresco",
+      "primaryCta": "Vada alla ricetta",
+      "secondaryCta": "Tutte le ricette tradizionali",
+      "pills": [
+        "La ricetta",
+        "Che cos'è",
+        "Varianti",
+        "In cifre",
+        "Dove mangiarlo",
+        "Domande"
+      ]
+    },
+    "intro": {
+      "lead": "Il nome dice tutto: lohi significa salmone e keitto zuppa. In pentola vanno salmone, patate e cipolla, a insaporire ci pensano pimento e aneto, e nei menu dei ristoranti della Lapponia la zuppa è quasi sempre alla panna. A Rovaniemi, Ylläs e Ruka un piatto costa da 12 a 19,80 euro.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Il salmone per ultimo",
+          "body": "Le patate cuociono per prime. Il salmone entra in pentola quando sono quasi cotte e a fuoco basso è pronto in pochi minuti. Un bollore forte sfalda il pesce."
+        },
+        {
+          "n": "02",
+          "title": "Panna o burro",
+          "body": "I ristoranti servono di solito la versione alla panna. In quella limpida il brodo si prepara con la testa e le lische del salmone, e la zuppa si completa con il burro invece che con la panna."
+        },
+        {
+          "n": "03",
+          "title": "Con il pane accanto",
+          "body": "Si accompagna con pane di segale e burro. Nei ristoranti della Lapponia lo servono anche con la rieska, il pane piatto, con il pane al malto o con lo scuro e dolce pane dell'arcipelago."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "La ricetta",
+      "headline": "Il lohikeitto, come si fa in casa.",
+      "lead": "Tre ricette: la zuppa alla panna che la maggior parte dei finlandesi conosce, una versione limpida completata con il burro e il brodo che rende entrambe più ricche di sapore.",
+      "items": [
+        {
+          "name": "Lohikeitto alla panna",
+          "description": "Salmone, patate e cipolla in un brodo leggero, completati con panna, burro e abbondante aneto.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Facile",
+          "ingredients": [
+            "500 g di filetto di salmone senza pelle",
+            "700 g di patate a pasta soda o per tutti gli usi",
+            "1 cipolla o un porro piccolo",
+            "1 carota, a piacere",
+            "1 l di acqua o brodo di pesce",
+            "8 bacche di pimento (pepe della Giamaica)",
+            "1 foglia di alloro",
+            "1 cucchiaino di sale",
+            "2 dl di panna",
+            "1 cucchiaio di burro",
+            "1 dl di aneto tritato"
+          ],
+          "instructions": [
+            "Sbucci le patate e le tagli a cubetti di circa 2 cm. Sbucci e triti la cipolla e tagli la carota a rondelle.",
+            "Porti a bollore l'acqua o il brodo e aggiunga patate, cipolla, carota, pimento, alloro e sale. Copra e lasci sobbollire per circa 15 minuti, finché le patate sono quasi cotte.",
+            "Tagli il salmone a cubetti di 2–3 cm ed elimini eventuali lische.",
+            "Versi la panna e riporti la zuppa a un leggero bollore. Aggiunga il salmone e lo cuocia a fuoco basso per 5–8 minuti, finché è appena cotto. Non lasci bollire forte la zuppa.",
+            "Tolga la foglia di alloro, incorpori il burro e l'aneto e regoli di sale."
+          ],
+          "tip": "Un brodo preparato con la testa e le lische del salmone dà una zuppa più ricca dell'acqua. La ricetta è la terza di questa pagina.",
+          "imageAlt": "Una scodella di zuppa di salmone finlandese alla panna con salmone, patate e aneto"
+        },
+        {
+          "name": "Lohikeitto limpido al burro",
+          "description": "Senza panna: salmone e patate in un brodo di pesce limpido, completati con burro ed erbe aromatiche.",
+          "time": "1 ora",
+          "serves": "4",
+          "level": "Facile",
+          "ingredients": [
+            "1 l di brodo di pesce (ricetta qui sotto)",
+            "600 g di patate a pasta soda",
+            "1 cipolla",
+            "8 bacche di pimento",
+            "500 g di filetto di salmone senza pelle",
+            "50 g di burro",
+            "Sale",
+            "Aneto o erba cipollina"
+          ],
+          "instructions": [
+            "Prepari prima il brodo, oppure scaldi un brodo fatto in precedenza.",
+            "Aggiunga al brodo caldo le patate a cubetti, la cipolla tritata e il pimento e lasci sobbollire per circa 15 minuti.",
+            "Aggiunga il salmone a cubetti e lo cuocia a fuoco basso per 5–8 minuti.",
+            "Tolga la pentola dal fuoco, incorpori il burro e regoli di sale. Cosparga la superficie di aneto o erba cipollina."
+          ],
+          "tip": "La zuppa limpida riesce altrettanto bene con il coregone o con la trota. Usi le stesse quantità e gli stessi tempi di cottura."
+        },
+        {
+          "name": "Brodo di pesce con testa e lische di salmone",
+          "description": "La base per entrambe le zuppe. Usa le parti del pesce che di solito si buttano.",
+          "time": "45 min",
+          "serves": "Circa 1,5 l",
+          "level": "Facile",
+          "ingredients": [
+            "1 testa di salmone e le lische, circa 500–700 g",
+            "1,5 l di acqua fredda",
+            "1 cipolla",
+            "1 carota",
+            "10 bacche di pimento",
+            "1 foglia di alloro",
+            "Gambi di aneto",
+            "1 cucchiaino di sale"
+          ],
+          "instructions": [
+            "Sciacqui la testa e le lische in acqua fredda e tagli via le branchie.",
+            "Metta il pesce in una pentola, lo copra con l'acqua fredda e lo porti lentamente a bollore. Elimini la schiuma.",
+            "Aggiunga la cipolla e la carota a pezzi, il pimento, l'alloro, i gambi di aneto e il sale.",
+            "Lasci sobbollire dolcemente senza coperchio per 30 minuti, poi filtri il brodo attraverso un colino a maglie fitte."
+          ],
+          "tip": "Tolga le branchie prima della cottura, perché rendono amaro il brodo. Il brodo si conserva nel congelatore, quindi può prepararne in una volta abbastanza per più zuppe."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Che cos'è",
+      "headline": "I due fiumi da salmone della Lapponia.",
+      "p1": "Il lohikeitto è salmone cotto con patate e cipolla, insaporito con pimento e aneto e di solito completato con panna o latte. Dei sei menu della Lapponia che abbiamo controllato, quattro descrivono la loro zuppa come cremosa, e uno solo dice da dove viene il salmone: da Roka, a Rovaniemi, il brodo si fa con il salmone pescato da Toni, della brigata di cucina.",
+      "p2": "Due fiumi da salmone scorrono lungo i confini della Lapponia. Il <strong>Tornionjoki</strong>, il fiume di confine con la Svezia, è un fiume di frega del salmone del Baltico. I contatori che il Natural Resources Institute Finland (Luke) gestisce a Kattilakoski hanno registrato nell'estate 2025 circa 45.000 salmoni in risalita, contro i circa 100.000 degli anni migliori, il 2014, il 2016 e il 2021. Nell'estate 2026 ogni pescatore può trattenere al massimo due salmoni pescati nel fiume.",
+      "p3": "Il <strong>Teno</strong> segna il confine con la Norvegia a Utsjoki, e la pesca al salmone vi è una parte importante della cultura sami. Dopo il rapido indebolimento delle popolazioni di salmone, nel 2021 la pesca al salmone è stata vietata in tutto il bacino del Teno. Nel 2026 non è consentita nemmeno nel corso principale del fiume, salvo singoli permessi concessi per mantenere viva la tradizione di pesca sami.",
+      "imageAlt": "Il Teno ai piedi di un monte spolverato dalla prima neve, in ottobre",
+      "caption": "Il Teno lungo la strada 970 a Utsjoki, 13 ottobre 2026"
+    },
+    "variations": {
+      "kicker": "Varianti",
+      "headline": "Panna, burro o fumo.",
+      "lead": "Nella pentola ci sono sempre salmone e patate. Quello che ci va insieme cambia da una cucina all'altra.",
+      "items": [
+        {
+          "title": "Alla panna o limpida",
+          "body": "Nei menu della Lapponia la zuppa è quasi sempre cremosa: lo dicono quattro dei sei che abbiamo controllato. La versione limpida si cuoce nel brodo di pesce e si completa con il burro."
+        },
+        {
+          "title": "Con salmone affumicato a caldo",
+          "body": "Il Ruka Trek Gasthaus, a Ruka, prepara la sua zuppa con salmone affumicato a caldo, carota e patate in un brodo di pesce cremoso."
+        },
+        {
+          "title": "Con pesce di lago",
+          "body": "Lo stesso metodo funziona con coregone, salmerino artico o trota. La zuppa di pesce della cucina sami, preparata con quello che il lago ha dato in quella settimana, si trova nella pagina delle ricette tradizionali."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "In cifre",
+      "headline": "Il lohikeitto e i suoi fiumi, dati alla mano.",
+      "lead": "I numeri vengono dai contatori di Luke, dal Ministero dell'Agricoltura e delle Foreste della Finlandia e dai menu dei ristoranti della Lapponia. Ogni scheda indica la sua fonte.",
+      "items": [
+        {
+          "value": "≈ 45.000",
+          "label": "salmoni hanno risalito il Tornionjoki nell'estate 2025, secondo i contatori di Luke a Kattilakoski. Nell'estate 2024 erano circa 25.000.",
+          "source": "Consiglio regionale della Lapponia, parere al Ministero dell'Agricoltura e delle Foreste, 19 febbraio 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40.000",
+          "label": "salmoni riproduttori: è l'obiettivo che i ricercatori hanno fissato per il Tornionjoki. Negli anni migliori, il 2014, il 2016 e il 2021, ne sono risaliti circa 100.000.",
+          "source": "Consiglio regionale della Lapponia, parere del 19 febbraio 2026."
+        },
+        {
+          "value": "2",
+          "label": "salmoni: è il massimo che un pescatore può trattenere dal Tornionjoki nella stagione 2026, qualunque sia il metodo di pesca.",
+          "source": "Ministero dell'Agricoltura e delle Foreste della Finlandia, comunicato stampa, 8 aprile 2026."
+        },
+        {
+          "value": "2021",
+          "label": "l'anno in cui la pesca al salmone è stata vietata in tutto il bacino del Teno, perché le popolazioni di salmone si erano indebolite rapidamente.",
+          "source": "Ministero dell'Agricoltura e delle Foreste della Finlandia, comunicato stampa, 29 aprile 2021."
+        },
+        {
+          "value": "0",
+          "label": "salmoni si possono pescare nel corso principale del Teno nel 2026. Le uniche eccezioni sono singoli permessi per mantenere viva la tradizione di pesca sami.",
+          "source": "Ministero dell'Agricoltura e delle Foreste della Finlandia, comunicato stampa, 29 maggio 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "per un piatto di lohikeitto nei ristoranti di Rovaniemi, Ylläs e Ruka.",
+          "source": "I menu dei singoli ristoranti, verificati il 20 ottobre 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dove mangiarlo",
+      "headline": "Il lohikeitto nei menu della Lapponia.",
+      "lead": "Questi sei ristoranti propongono il lohikeitto, con i prezzi dei loro menu al 20 ottobre 2026. Tre di loro sono a Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Zuppa di salmone cremosa con rieska, il pane piatto della Lapponia, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "Il lohikeitto della casa con pane scuro al malto e burro, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Lohikeitto cremoso con pane dell'arcipelago tostato, 18,50 €. Il brodo si fa con il salmone che Toni, della brigata di cucina, ha pescato di persona."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Zuppa di salmone cremosa con il pane della casa, 15,60 € la porzione piccola e 19,80 € la grande."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto come antipasto, 12 €, anche nel Menu Ylläskota di tre portate (44 €) e in porzione per bambini."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Zuppa di salmone affumicato a caldo con carota e patate in un brodo di pesce cremoso, 12,50 € o 19 €."
+        }
+      ],
+      "gygCta": "Sfogli i tour gastronomici della Lapponia su GetYourGuide",
+      "diningCta": "Veda la guida al fine dining"
+    },
+    "faq": {
+      "kicker": "Domande",
+      "headline": "Le domande che si fanno sul lohikeitto.",
+      "items": [
+        {
+          "question": "Che cosa si mette nel lohikeitto?",
+          "answer": "Salmone, patate, cipolla o porro, pimento (pepe della Giamaica) e aneto, e di solito panna o latte. La carota è un'aggiunta frequente."
+        },
+        {
+          "question": "Quanto tempo deve cuocere il salmone?",
+          "answer": "I cubetti di 2–3 cm cuociono in 5–8 minuti a fuoco basso. Li aggiunga quando le patate sono quasi cotte e non lasci bollire forte la zuppa."
+        },
+        {
+          "question": "Si può fare il lohikeitto senza panna?",
+          "answer": "Sì. La versione limpida si cuoce nel brodo di pesce e si completa con il burro. La ricetta è qui sopra."
+        },
+        {
+          "question": "Quanto costa il lohikeitto in Lapponia?",
+          "answer": "Nei sei menu della Lapponia che abbiamo controllato, un piatto costa da 12 a 19,80 euro. Prezzi verificati il 20 ottobre 2026."
+        },
+        {
+          "question": "Il lohikeitto è il piatto nazionale finlandese?",
+          "answer": "No. Nella votazione del 2017 per il piatto nazionale finlandese ha vinto il pane di segale. La zuppa di pesce era tra i 12 finalisti ed era la scelta della giuria stessa, ma la zuppa di salmone non era citata a parte."
+        },
+        {
+          "question": "Il salmone dei ristoranti della Lapponia viene dai fiumi della regione?",
+          "answer": "Lo chieda al ristorante. Dei sei menu che abbiamo controllato, solo Roka, a Rovaniemi, dice da dove viene il suo salmone. Nel 2026 un pescatore può trattenere al massimo due salmoni dal Tornionjoki, e nel corso principale del Teno la pesca al salmone è chiusa."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Prosegua",
+      "headline": "Dove porta tutto questo.",
+      "items": [
+        {
+          "title": "Altre ricette della Lapponia",
+          "body": "Bidos, pane piatto, la zuppa sami di pesce di lago e kissel di bacche, spiegati passo dopo passo.",
+          "cta": "Ricette tradizionali"
+        },
+        {
+          "title": "Il poronkäristys come piatto principale",
+          "body": "Renna tagliata a lamelle sottili, cotta a fuoco lento finché è tenera e servita con purè di patate e mirtilli rossi: la ricetta e dove mangiarlo.",
+          "cta": "Guida al poronkäristys"
+        },
+        {
+          "title": "Dorma a Rovaniemi",
+          "body": "Tre dei ristoranti citati sopra sono a Rovaniemi, e la città è una base comoda per un viaggio gastronomico in Lapponia.",
+          "cta": "Sfogli gli alloggi a Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

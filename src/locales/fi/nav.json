@@ -20,6 +20,7 @@
   },
   "recipesMenu": {
     "all": "Perinnereseptit",
+    "lohikeitto": "Lohikeitto",
     "poronkaristys": "Poronkäristys",
     "leipajuusto": "Leipäjuusto"
   },

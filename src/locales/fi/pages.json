@@ -1518,8 +1518,8 @@
       "headline": "Jos teet vain yhden ruoan, tee tämä."
     },
     "dishes": {
-      "kicker": "Kaksi Lapin klassikkoa",
-      "headline": "Poronkäristys ja leipäjuusto omilla sivuillaan.",
+      "kicker": "Kolme klassikkoa",
+      "headline": "Lohikeitto, poronkäristys ja leipäjuusto omilla sivuillaan.",
       "cta": "Avaa reseptit"
     },
     "imageLabels": {
@@ -1528,6 +1528,287 @@
     "imageAlts": {
       "gahkku": "Kuvassa: saamelaisnainen paistaa rieskaa lavvun tulella Sallohauren saamelaisleirillä Ruotsin Lapissa",
       "stoneOven": "Elina Lokka ottaa leipiä kiviuunista Lokassa Sodankylässä vuonna 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Lohikeitto: kermainen ohje, kirkas versio ja kalaliemi",
+    "description": "Lohikeitto kotona: lohta, perunaa, sipulia, maustepippuria ja tilliä kermalla tai voilla. Myös kirkas keitto, kalaliemi ja missä lohikeittoa syödään Lapissa.",
+    "teaser": "Lohta, perunaa, maustepippuria ja tilliä, viimeistelynä kerma tai voi: kermainen ohje, kirkas keitto, kalaliemi ja paikat, joista sitä saa Lapissa.",
+    "hero": {
+      "eyebrow": "Suomalainen lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "kermalla ja tillillä.",
+      "subtitle": "Lohikeittoa keitetään kotona ja syödään lounaaksi: lohta, perunaa, sipulia, maustepippuria ja tilliä, ja yleensä kermaa. Tässä kolme ohjetta, lohikeiton hinta Lapin ravintoloissa ja Lapin rajoilla virtaavat kaksi lohijokea, joissa villiä lohta nyt suojellaan.",
+      "imageAlt": "Kermaista lohikeittoa lautasella: perunaa, lohta ja tuoretta tilliä",
+      "primaryCta": "Suoraan ohjeeseen",
+      "secondaryCta": "Kaikki perinnereseptit",
+      "pills": [
+        "Ohje",
+        "Mitä se on",
+        "Muunnelmat",
+        "Luvut",
+        "Missä syödä",
+        "Kysymykset"
+      ]
+    },
+    "intro": {
+      "lead": "Kattilaan tulee lohta, perunaa ja sipulia, mausteiksi maustepippuria ja tilliä, ja Lapin ravintoloiden listoilla keitto on lähes aina kermainen. Rovaniemellä, Ylläksellä ja Rukalla lautasellinen maksaa 12–19,80 euroa.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Lohi viimeisenä",
+          "body": "Perunat keitetään ensin. Lohi lisätään, kun ne ovat lähes kypsiä, ja se kypsyy muutamassa minuutissa hiljaisella lämmöllä. Kova kiehuminen hajottaa kalan."
+        },
+        {
+          "n": "02",
+          "title": "Kermaa vai voita",
+          "body": "Ravintolat tarjoavat yleensä kermaisen version. Kirkkaassa keitossa liemi keitetään lohen päästä ja ruodoista, ja kerman sijaan keitto viimeistellään voilla."
+        },
+        {
+          "n": "03",
+          "title": "Leipää viereen",
+          "body": "Keiton kanssa syödään ruisleipää ja voita. Lapin ravintoloissa sen saa myös rieskan, mallasleivän tai saaristolaisleivän kanssa."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "Ohje",
+      "headline": "Lohikeitto kotikeittiössä.",
+      "lead": "Kolme ohjetta: kermainen keitto, jonka useimmat suomalaiset tuntevat, voilla viimeistelty kirkas versio ja kalaliemi, joka tekee molemmista täyteläisempiä.",
+      "items": [
+        {
+          "name": "Kermainen lohikeitto",
+          "description": "Lohta, perunaa ja sipulia kevyessä liemessä, viimeistelynä kerma, voi ja reilusti tilliä.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Helppo",
+          "ingredients": [
+            "500 g nahatonta lohifileetä",
+            "700 g kiinteää tai yleisperunaa",
+            "1 sipuli tai pieni purjo",
+            "1 porkkana halutessasi",
+            "1 l vettä tai kalalientä",
+            "8 maustepippuria",
+            "1 laakerinlehti",
+            "1 tl suolaa",
+            "2 dl kermaa",
+            "1 rkl voita",
+            "1 dl tilliä hienonnettuna"
+          ],
+          "instructions": [
+            "Kuori perunat ja paloittele ne noin 2 cm:n kuutioiksi. Kuori ja pilko sipuli ja viipaloi porkkana.",
+            "Kiehauta vesi tai liemi ja lisää perunat, sipuli, porkkana, maustepippurit, laakerinlehti ja suola. Keitä kannen alla noin 15 minuuttia, kunnes perunat ovat lähes kypsiä.",
+            "Leikkaa lohi 2–3 cm:n kuutioiksi ja poista mahdolliset ruodot.",
+            "Kaada kerma joukkoon ja kuumenna keitto taas porisemaan. Lisää lohi ja kypsennä hiljaisella lämmöllä 5–8 minuuttia, kunnes lohi on juuri ja juuri kypsää. Älä anna keiton kiehua kovaa.",
+            "Nosta laakerinlehti pois, sekoita joukkoon voi ja tilli ja tarkista suola."
+          ],
+          "tip": "Lohen päästä ja ruodoista keitetystä liemestä tulee täyteläisempi keitto kuin vedestä. Liemen ohje on tämän sivun kolmas resepti.",
+          "imageAlt": "Kulhollinen kermaista lohikeittoa: lohta, perunaa ja tilliä"
+        },
+        {
+          "name": "Kirkas lohikeitto voilla",
+          "description": "Ilman kermaa: lohta ja perunaa kirkkaassa kalaliemessä, viimeistelynä voi ja yrtit.",
+          "time": "1 h",
+          "serves": "4",
+          "level": "Helppo",
+          "ingredients": [
+            "1 l kalalientä (ohje alla)",
+            "600 g kiinteää perunaa",
+            "1 sipuli",
+            "8 maustepippuria",
+            "500 g nahatonta lohifileetä",
+            "50 g voita",
+            "suolaa",
+            "tilliä tai ruohosipulia"
+          ],
+          "instructions": [
+            "Keitä ensin liemi tai lämmitä aiemmin keitetty.",
+            "Lisää kuumaan liemeen kuutioidut perunat, pilkottu sipuli ja maustepippurit ja keitä noin 15 minuuttia.",
+            "Lisää lohi kuutioina ja kypsennä hiljaisella lämmöllä 5–8 minuuttia.",
+            "Nosta kattila liedeltä, sekoita joukkoon voi ja mausta suolalla. Ripottele pinnalle tilliä tai ruohosipulia."
+          ],
+          "tip": "Kirkas keitto onnistuu yhtä hyvin siiasta tai taimenesta. Käytä samoja määriä ja samoja keittoaikoja."
+        },
+        {
+          "name": "Kalaliemi lohen päästä ja ruodoista",
+          "description": "Pohja kummallekin keitolle. Siihen menevät kalan osat, jotka yleensä heitetään pois.",
+          "time": "45 min",
+          "serves": "Noin 1,5 l",
+          "level": "Helppo",
+          "ingredients": [
+            "1 lohen pää ja ruodot, noin 500–700 g",
+            "1,5 l kylmää vettä",
+            "1 sipuli",
+            "1 porkkana",
+            "10 maustepippuria",
+            "1 laakerinlehti",
+            "tillin varsia",
+            "1 tl suolaa"
+          ],
+          "instructions": [
+            "Huuhtele pää ja ruodot kylmällä vedellä ja leikkaa kidukset pois.",
+            "Laita kalanosat kattilaan, kaada päälle kylmä vesi ja kuumenna hitaasti kiehuvaksi. Kuori vaahto pois.",
+            "Lisää paloiteltu sipuli ja porkkana, maustepippurit, laakerinlehti, tillin varret ja suola.",
+            "Keitä hiljalleen ilman kantta 30 minuuttia ja siivilöi liemi tiheän siivilän läpi."
+          ],
+          "tip": "Leikkaa kidukset pois ennen keittämistä, sillä ne tekevät liemestä kitkerää. Liemi säilyy pakastimessa, joten sitä voi keittää kerralla useampaan keittoon."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Mitä se on",
+      "headline": "Lapin kaksi lohijokea.",
+      "p1": "Lohikeitto on lohesta, perunasta ja sipulista keitetty keitto, joka maustetaan maustepippurilla ja tillillä ja viimeistellään yleensä kermalla tai maidolla. Tarkistamistamme kuudesta Lapin ravintolalistasta neljä kertoo keittonsa olevan kermainen, ja vain yksi kertoo, mistä lohi tulee: Rovaniemen Rokassa liemi keitetään lohista, jotka keittiön Toni on itse pyytänyt.",
+      "p2": "Lapin rajoilla virtaa kaksi lohijokea. Ruotsin vastainen rajajoki <strong>Tornionjoki</strong> on Itämeren lohen kutujoki. Luonnonvarakeskuksen Kattilakoskella ylläpitämät laskurit kirjasivat kesällä 2025 noin 45 000 jokeen noussutta lohta, kun parhaina vuosina 2014, 2016 ja 2021 nousijoita oli noin 100 000. Kesällä 2026 yksi kalastaja saa ottaa joesta enintään kaksi lohta.",
+      "p3": "<strong>Tenojoki</strong> virtaa Utsjoella Norjan vastaisena rajana, ja lohenkalastus on siellä tärkeä osa saamelaiskulttuuria. Kun lohikannat heikkenivät nopeasti, lohenkalastus kiellettiin vuonna 2021 koko Tenon vesistössä. Vuonna 2026 lohta ei saa kalastaa pääuomassakaan, lukuun ottamatta yksittäisiä lupia, joita myönnetään saamelaisen kalastuskulttuurin ylläpitoon.",
+      "imageAlt": "Tenojoki ensilumen pilkuttaman tunturin alla lokakuussa",
+      "caption": "Tenojoki tien 970 varrella Utsjoella 13.10.2026"
+    },
+    "variations": {
+      "kicker": "Muunnelmat",
+      "headline": "Kermaa, voita tai savua.",
+      "lead": "Kattilassa on aina lohta ja perunaa. Se, mitä niiden kanssa keitetään, vaihtelee keittiöstä toiseen.",
+      "items": [
+        {
+          "title": "Kermainen vai kirkas",
+          "body": "Lapin ruokalistoilla keitto on lähes aina kermainen: kuudesta tarkistamastamme listasta neljä sanoo sen. Kirkas versio keitetään kalaliemeen ja viimeistellään voilla."
+        },
+        {
+          "title": "Lämminsavulohesta",
+          "body": "Rukan Ruka Trek Gasthaus keittää keittonsa lämminsavulohesta, porkkanasta ja perunasta kermaiseen kalaliemeen."
+        },
+        {
+          "title": "Järvikalasta",
+          "body": "Samalla tavalla keittoon sopii siika, nieriä tai taimen. Saamelaiskeittiön kalakeitto, joka keitetään siitä, mitä järvi sillä viikolla antoi, on perinnereseptien sivulla."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "Luvut",
+      "headline": "Lohikeitto ja sen joet numeroina.",
+      "lead": "Luvut Luonnonvarakeskuksen laskureista, maa- ja metsätalousministeriöltä ja Lapin ravintoloiden ruokalistoilta. Jokainen kortti kertoo lähteensä.",
+      "items": [
+        {
+          "value": "≈ 45 000",
+          "label": "lohta nousi Tornionjokeen kesällä 2025 Luonnonvarakeskuksen Kattilakosken laskureiden mukaan. Kesällä 2024 nousijoita oli noin 25 000.",
+          "source": "Lapin liitto, lausunto maa- ja metsätalousministeriölle 19.2.2026 (VN/670/2026)."
+        },
+        {
+          "value": "40 000",
+          "label": "lohta on tutkijoiden Tornionjoelle asettama kutukantatavoite. Parhaina vuosina 2014, 2016 ja 2021 jokeen nousi noin 100 000 lohta.",
+          "source": "Lapin liitto, lausunto 19.2.2026."
+        },
+        {
+          "value": "2",
+          "label": "lohta on enimmäissaalis, jonka yksi kalastaja saa ottaa Tornionjoesta kaudella 2026 kaikilla pyyntitavoilla yhteensä.",
+          "source": "Maa- ja metsätalousministeriö, tiedote 8.4.2026."
+        },
+        {
+          "value": "2021",
+          "label": "vuosi, jolloin lohenkalastus kiellettiin koko Tenojoen vesistössä, koska lohikannat olivat heikentyneet nopeasti.",
+          "source": "Maa- ja metsätalousministeriö, tiedote 29.4.2021."
+        },
+        {
+          "value": "0",
+          "label": "lohta saa kalastaa Tenojoen pääuomassa vuonna 2026. Poikkeuksia ovat vain yksittäiset luvat saamelaisen kalastuskulttuurin ylläpitoon.",
+          "source": "Maa- ja metsätalousministeriö, tiedote 29.5.2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "lautasellinen lohikeittoa ravintolassa Rovaniemellä, Ylläksellä ja Rukalla.",
+          "source": "Ravintoloiden omat ruokalistat, tarkistettu 20.10.2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Missä syödä",
+      "headline": "Lohikeitto Lapin ruokalistoilla.",
+      "lead": "Nämä kuusi ravintolaa tarjoavat lohikeittoa, hinnat niiden omilta ruokalistoilta 20.10.2026. Kolme niistä on Rovaniemellä.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Kermainen lohikeitto rieskan kanssa, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "Talon lohikeitto tumman mallasleivän ja voin kera, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Kermainen lohikeitto paahdetun saaristolaisleivän kanssa, 18,50 €. Liemi keitetään lohista, jotka keittiön Toni on itse pyytänyt."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Kermainen lohikeitto talon leivän kera, pieni 15,60 € ja iso 19,80 €."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto alkuruokana 12 €, myös kolmen ruokalajin Menu Ylläskodassa (44 €) ja lasten annoksena."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Lämminsavulohikeitto porkkanalla ja perunalla kermaisessa kalaliemessä, 12,50 € tai 19 €."
+        }
+      ],
+      "gygCta": "Selaa Lapin ruokaretkiä GetYourGuidessa",
+      "diningCta": "Katso fine dining -opas"
+    },
+    "faq": {
+      "kicker": "Kysymykset",
+      "headline": "Mitä lohikeitosta kysytään.",
+      "items": [
+        {
+          "question": "Mitä lohikeittoon tulee?",
+          "answer": "Lohta, perunaa, sipulia tai purjoa, maustepippuria ja tilliä, ja yleensä kermaa tai maitoa. Porkkana on yleinen lisä."
+        },
+        {
+          "question": "Kuinka kauan lohta keitetään?",
+          "answer": "2–3 cm:n kuutiot kypsyvät hiljaisella lämmöllä 5–8 minuutissa. Lisää ne, kun perunat ovat lähes kypsiä, äläkä anna keiton kiehua kovaa."
+        },
+        {
+          "question": "Voiko lohikeiton tehdä ilman kermaa?",
+          "answer": "Voi. Kirkas lohikeitto keitetään kalaliemeen ja viimeistellään voilla. Ohje on yllä."
+        },
+        {
+          "question": "Mitä lohikeitto maksaa Lapissa?",
+          "answer": "Tarkistamillamme kuudella Lapin ruokalistalla lautasellinen maksaa 12–19,80 euroa. Hinnat tarkistettu 20.10.2026."
+        },
+        {
+          "question": "Onko lohikeitto Suomen kansallisruoka?",
+          "answer": "Ei. Vuoden 2017 kansallisruokaäänestyksessä voitti ruisleipä. Kalakeitto oli 12 finalistin joukossa ja raadin oma valinta, mutta lohikeittoa ei nimetty erikseen."
+        },
+        {
+          "question": "Onko lappilaisen ravintolan lohi Lapin joista?",
+          "answer": "Kysy ravintolasta. Tarkistamistamme kuudesta listasta vain Rovaniemen Roka kertoo, mistä sen lohi tulee. Vuonna 2026 kalastaja saa ottaa Tornionjoesta enintään kaksi lohta, ja Tenojoen pääuomassa lohenkalastus on kielletty."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Jatka tästä",
+      "headline": "Mihin tästä?",
+      "items": [
+        {
+          "title": "Lisää Lapin reseptejä",
+          "body": "Bidos, rieska, saamelaiskeittiön järvikalakeitto ja marjakiisseli vaihe vaiheelta.",
+          "cta": "Perinnereseptit"
+        },
+        {
+          "title": "Pääruoaksi poronkäristys",
+          "body": "Ohueksi vuoltu, mureaksi haudutettu poronliha perunamuusin ja puolukoiden kanssa: ohje ja paikat, joista sitä saa.",
+          "cta": "Poronkäristysopas"
+        },
+        {
+          "title": "Majoitu Rovaniemellä",
+          "body": "Kolme yllä mainituista ravintoloista on Rovaniemellä, ja kaupunki on käytännöllinen tukikohta Lapin ruokamatkalle.",
+          "cta": "Selaa majoituksia Rovaniemellä"
+        }
+      ]
     }
   },
   "poronkaristys": {

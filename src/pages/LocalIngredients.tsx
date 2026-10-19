@@ -318,7 +318,7 @@ export default function LocalIngredients() {
               >
                 <source src="/videos/fish-tasting.mp4" type="video/mp4" />
               </video>
-              <figcaption className="mt-3 text-sm text-white/70 leading-snug">
+              <figcaption className="mt-3 text-base text-white/80 leading-snug">
                 {t('localIngredients.fishVideo.caption')}
               </figcaption>
             </figure>

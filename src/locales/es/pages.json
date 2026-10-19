@@ -1517,8 +1517,8 @@
       "headline": "Si cocina un solo plato, cocine este."
     },
     "dishes": {
-      "kicker": "Dos clásicos de Laponia",
-      "headline": "Poronkäristys y leipäjuusto, cada uno en su página.",
+      "kicker": "Tres clásicos",
+      "headline": "Lohikeitto, poronkäristys y leipäjuusto, cada uno en su página.",
       "cta": "Ver las recetas"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "En la foto: una mujer sami cocina pan plano al fuego dentro de un lavvu en el campamento sami de Sallohaure, Laponia sueca",
       "stoneOven": "Elina Lokka saca pan de un horno de piedra en Lokka, Sodankylä, en 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Sopa de salmón finlandesa (lohikeitto): receta y dónde comerla",
+    "description": "El lohikeitto finlandés: salmón, papas, cebolla, pimienta de Jamaica y eneldo, normalmente con crema. Versión clara, caldo casero y dónde pedirlo en Laponia.",
+    "teaser": "Salmón, papas, pimienta de Jamaica y eneldo, con crema o mantequilla al final: la receta cremosa, la versión clara, el caldo y dónde la sirven en Laponia.",
+    "hero": {
+      "eyebrow": "La sopa de salmón de Finlandia · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "sopa de salmón con crema y eneldo.",
+      "subtitle": "El lohikeitto es la sopa que los finlandeses cocinan en casa y piden a la hora del almuerzo: salmón, papas, cebolla, pimienta de Jamaica y eneldo, normalmente terminada con crema. Aquí tiene tres recetas, lo que cuesta en los menús de Laponia y los dos ríos salmoneros de las fronteras de Laponia, donde el salmón salvaje está hoy protegido.",
+      "imageAlt": "Un plato de sopa de salmón cremosa con papas, salmón y eneldo fresco",
+      "primaryCta": "Ir a la receta",
+      "secondaryCta": "Todas las recetas tradicionales",
+      "pills": [
+        "La receta",
+        "Qué es",
+        "Variantes",
+        "En cifras",
+        "Dónde comerlo",
+        "Preguntas"
+      ]
+    },
+    "intro": {
+      "lead": "El nombre lo dice todo: lohi significa salmón y keitto, sopa. En la olla van salmón, papas y cebolla, se condimenta con pimienta de Jamaica y eneldo, y en los menús de los restaurantes de Laponia la sopa es casi siempre cremosa. En Rovaniemi, Ylläs y Ruka un plato cuesta entre 12 y 19,80 euros.",
+      "points": [
+        {
+          "n": "01",
+          "title": "El salmón, al final",
+          "body": "Primero se cuecen las papas. El salmón se añade cuando están casi hechas y en pocos minutos queda cocido a fuego lento. Un hervor fuerte deshace el pescado."
+        },
+        {
+          "n": "02",
+          "title": "Crema o mantequilla",
+          "body": "Los restaurantes suelen servir la versión cremosa. En la versión clara, el caldo se hace con la cabeza y las espinas del salmón, y la sopa se termina con mantequilla en lugar de crema."
+        },
+        {
+          "n": "03",
+          "title": "Pan para acompañar",
+          "body": "Se acompaña de pan de centeno y mantequilla. En los restaurantes de Laponia también se sirve con rieska, el pan plano de la región, con pan de malta o con el pan del archipiélago, oscuro y dulce."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "La receta",
+      "headline": "El lohikeitto, como se hace en casa.",
+      "lead": "Tres recetas: la sopa cremosa que conoce la mayoría de los finlandeses, una versión clara terminada con mantequilla y el caldo que da más cuerpo a las dos.",
+      "items": [
+        {
+          "name": "Lohikeitto cremoso",
+          "description": "Salmón, papas y cebolla en un caldo ligero, terminado con crema, mantequilla y abundante eneldo.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Fácil",
+          "ingredients": [
+            "500 g de filete de salmón sin piel",
+            "700 g de papas de carne firme o de uso general",
+            "1 cebolla o un puerro pequeño",
+            "1 zanahoria, si lo desea",
+            "1 l de agua o caldo de pescado",
+            "8 granos de pimienta de Jamaica",
+            "1 hoja de laurel",
+            "1 cucharadita de sal",
+            "2 dl de crema",
+            "1 cucharada de mantequilla",
+            "1 dl de eneldo picado"
+          ],
+          "instructions": [
+            "Pele las papas y córtelas en cubos de unos 2 cm. Pele y pique la cebolla y corte la zanahoria en rodajas.",
+            "Lleve el agua o el caldo a ebullición y añada las papas, la cebolla, la zanahoria, la pimienta de Jamaica, el laurel y la sal. Tape y cocine a fuego lento unos 15 minutos, hasta que las papas estén casi hechas.",
+            "Corte el salmón en cubos de 2 a 3 cm y retire las espinas que pueda tener.",
+            "Vierta la crema y vuelva a llevar la sopa a un hervor suave. Añada el salmón y cocínelo a fuego lento de 5 a 8 minutos, hasta que esté justo en su punto. No deje que la sopa hierva con fuerza.",
+            "Retire la hoja de laurel, incorpore la mantequilla y el eneldo y rectifique de sal."
+          ],
+          "tip": "Un caldo hecho con la cabeza y las espinas del salmón da una sopa con más cuerpo que el agua. Su receta es la tercera de esta página.",
+          "imageAlt": "Un tazón de sopa de salmón finlandesa cremosa, con salmón, papas y eneldo"
+        },
+        {
+          "name": "Lohikeitto claro con mantequilla",
+          "description": "Sin crema: salmón y papas en un caldo de pescado claro, terminado con mantequilla y hierbas.",
+          "time": "1 hora",
+          "serves": "4",
+          "level": "Fácil",
+          "ingredients": [
+            "1 l de caldo de pescado (receta más abajo)",
+            "600 g de papas de carne firme",
+            "1 cebolla",
+            "8 granos de pimienta de Jamaica",
+            "500 g de filete de salmón sin piel",
+            "50 g de mantequilla",
+            "Sal",
+            "Eneldo o cebollino"
+          ],
+          "instructions": [
+            "Prepare primero el caldo o caliente uno que haya hecho antes.",
+            "Añada al caldo caliente las papas en cubos, la cebolla picada y la pimienta de Jamaica, y cocine a fuego lento unos 15 minutos.",
+            "Añada el salmón en cubos y cocínelo a fuego lento de 5 a 8 minutos.",
+            "Retire la olla del fuego, incorpore la mantequilla y sazone con sal. Espolvoree eneldo o cebollino por encima."
+          ],
+          "tip": "La sopa clara sale igual de bien con corégono o trucha. Use las mismas cantidades y los mismos tiempos de cocción."
+        },
+        {
+          "name": "Caldo de pescado con cabeza y espinas de salmón",
+          "description": "La base de las dos sopas. Aprovecha las partes del pescado que normalmente se tiran.",
+          "time": "45 min",
+          "serves": "Unos 1,5 l",
+          "level": "Fácil",
+          "ingredients": [
+            "1 cabeza de salmón y las espinas, unos 500–700 g",
+            "1,5 l de agua fría",
+            "1 cebolla",
+            "1 zanahoria",
+            "10 granos de pimienta de Jamaica",
+            "1 hoja de laurel",
+            "Tallos de eneldo",
+            "1 cucharadita de sal"
+          ],
+          "instructions": [
+            "Enjuague la cabeza y las espinas con agua fría y corte y retire las agallas.",
+            "Ponga el pescado en una olla, cúbralo con el agua fría y llévelo lentamente a ebullición. Retire la espuma.",
+            "Añada la cebolla y la zanahoria en trozos, la pimienta de Jamaica, el laurel, los tallos de eneldo y la sal.",
+            "Cueza a fuego suave y sin tapa durante 30 minutos; después, cuele el caldo por un colador fino."
+          ],
+          "tip": "Retire las agallas antes de cocinar, porque amargan el caldo. El caldo se conserva en el congelador, así que puede preparar de una vez suficiente para varias sopas."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Qué es",
+      "headline": "Los dos ríos salmoneros de Laponia.",
+      "p1": "El lohikeitto es salmón cocinado con papas y cebolla, condimentado con pimienta de Jamaica y eneldo y, por lo general, terminado con crema o leche. De los seis menús de Laponia que consultamos, cuatro describen su sopa como cremosa, y solo uno dice de dónde viene su salmón: en Roka, en Rovaniemi, el caldo se hace con salmones pescados por Toni, de su propia cocina.",
+      "p2": "Dos ríos salmoneros recorren las fronteras de Laponia. El <strong>Tornionjoki</strong>, el río fronterizo con Suecia, es un río de desove del salmón del Báltico. Los contadores que el Instituto de Recursos Naturales de Finlandia (Luke) mantiene en Kattilakoski contabilizaron unos 45.000 salmones que remontaban el río en el verano de 2025, frente a unos 100.000 en los mejores años, 2014, 2016 y 2021. En el verano de 2026, un pescador puede llevarse del río como máximo dos salmones.",
+      "p3": "El <strong>Teno</strong> corre a lo largo de la frontera con Noruega en Utsjoki, y la pesca del salmón es allí una parte importante de la cultura sami. Después de que las poblaciones de salmón se debilitaran rápidamente, en 2021 se prohibió la pesca del salmón en toda la cuenca del Teno. En 2026 tampoco se permite pescar salmón en el cauce principal, salvo los permisos individuales que se conceden para mantener viva la tradición pesquera sami.",
+      "imageAlt": "El río Teno al pie de un monte salpicado por la primera nieve, en octubre",
+      "caption": "El Teno junto a la carretera 970 en Utsjoki, 13 de octubre de 2026"
+    },
+    "variations": {
+      "kicker": "Variantes",
+      "headline": "Crema, mantequilla o ahumado.",
+      "lead": "En la olla siempre hay salmón y papas. Lo que se cocina con ellos cambia de una cocina a otra.",
+      "items": [
+        {
+          "title": "Cremosa o clara",
+          "body": "En los menús de Laponia la sopa es casi siempre cremosa: así lo indican cuatro de los seis que consultamos. La versión clara se cuece en caldo de pescado y se termina con mantequilla."
+        },
+        {
+          "title": "Con salmón ahumado en caliente",
+          "body": "Ruka Trek Gasthaus, en Ruka, prepara su sopa con salmón ahumado en caliente, zanahoria y papas en un caldo de pescado cremoso."
+        },
+        {
+          "title": "Con pescado de lago",
+          "body": "El mismo método funciona con corégono, salvelino ártico o trucha. La sopa de pescado de la cocina sami, hecha con lo que el lago haya dado esa semana, está en la página de recetas tradicionales."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "En cifras",
+      "headline": "El lohikeitto y sus ríos, en datos.",
+      "lead": "Cifras de los contadores del Instituto de Recursos Naturales, del Ministerio de Agricultura y Silvicultura de Finlandia y de los menús de los restaurantes de Laponia. Cada tarjeta indica su fuente.",
+      "items": [
+        {
+          "value": "≈ 45.000",
+          "label": "salmones remontaron el Tornionjoki en el verano de 2025, según los contadores de Luke en Kattilakoski. En el verano de 2024 fueron unos 25.000.",
+          "source": "Consejo Regional de Laponia, dictamen dirigido al Ministerio de Agricultura y Silvicultura, 19 de febrero de 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40.000",
+          "label": "salmones es el objetivo de reproductores que los investigadores han fijado para el Tornionjoki. En los mejores años, 2014, 2016 y 2021, remontaron el río unos 100.000.",
+          "source": "Consejo Regional de Laponia, dictamen del 19 de febrero de 2026."
+        },
+        {
+          "value": "2",
+          "label": "salmones es el máximo que un pescador puede llevarse del Tornionjoki en la temporada 2026, sea cual sea el método de pesca.",
+          "source": "Ministerio de Agricultura y Silvicultura de Finlandia, comunicado de prensa, 8 de abril de 2026."
+        },
+        {
+          "value": "2021",
+          "label": "el año en que se prohibió la pesca del salmón en toda la cuenca del Teno, porque las poblaciones de salmón se habían debilitado rápidamente.",
+          "source": "Ministerio de Agricultura y Silvicultura de Finlandia, comunicado de prensa, 29 de abril de 2021."
+        },
+        {
+          "value": "0",
+          "label": "salmones pueden pescarse en el cauce principal del Teno en 2026. Las únicas excepciones son los permisos individuales para mantener viva la tradición pesquera sami.",
+          "source": "Ministerio de Agricultura y Silvicultura de Finlandia, comunicado de prensa, 29 de mayo de 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "por un plato de lohikeitto en restaurantes de Rovaniemi, Ylläs y Ruka.",
+          "source": "Menús de los propios restaurantes, consultados el 20 de octubre de 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Dónde comerlo",
+      "headline": "El lohikeitto en los menús de Laponia.",
+      "lead": "Estos seis restaurantes ofrecen lohikeitto, con los precios de sus menús al 20 de octubre de 2026. Tres de ellos están en Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Sopa de salmón cremosa con rieska, el pan plano de Laponia, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "El lohikeitto de la casa con pan de malta oscuro y mantequilla, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Lohikeitto cremoso con pan del archipiélago tostado, 18,50 €. El caldo se hace con salmones que pescó el propio Toni, de la cocina."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Sopa de salmón cremosa con el pan de la casa, 15,60 € la ración pequeña y 19,80 € la grande."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Lohikeitto como entrante, 12 €; también en el Menu Ylläskota de tres platos (44 €) y como ración infantil."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Sopa de salmón ahumado en caliente con zanahoria y papas en un caldo de pescado cremoso, 12,50 € o 19 €."
+        }
+      ],
+      "gygCta": "Ver tours gastronómicos por Laponia en GetYourGuide",
+      "diningCta": "Ver la guía de alta cocina"
+    },
+    "faq": {
+      "kicker": "Preguntas",
+      "headline": "Lo que la gente pregunta sobre el lohikeitto.",
+      "items": [
+        {
+          "question": "¿Qué lleva el lohikeitto?",
+          "answer": "Salmón, papas, cebolla o puerro, pimienta de Jamaica y eneldo, y normalmente crema o leche. La zanahoria es un añadido habitual."
+        },
+        {
+          "question": "¿Cuánto tiempo se cocina el salmón?",
+          "answer": "Los cubos de 2 a 3 cm tardan de 5 a 8 minutos en cocerse a fuego lento. Añádalos cuando las papas estén casi hechas y no deje que la sopa hierva con fuerza."
+        },
+        {
+          "question": "¿Se puede hacer lohikeitto sin crema?",
+          "answer": "Sí. La versión clara se cuece en caldo de pescado y se termina con mantequilla. La receta está más arriba."
+        },
+        {
+          "question": "¿Cuánto cuesta el lohikeitto en Laponia?",
+          "answer": "En los seis menús de Laponia que consultamos, un plato cuesta entre 12 y 19,80 euros. Precios consultados el 20 de octubre de 2026."
+        },
+        {
+          "question": "¿Es el lohikeitto el plato nacional de Finlandia?",
+          "answer": "No. En la votación de 2017 para elegir el plato nacional finlandés ganó el pan de centeno. La sopa de pescado estuvo entre los 12 finalistas y fue la elección del propio jurado, pero la sopa de salmón no se nombró por separado."
+        },
+        {
+          "question": "¿El salmón de un restaurante de Laponia viene de los ríos de Laponia?",
+          "answer": "Pregunte en el restaurante. De los seis menús que consultamos, solo Roka, en Rovaniemi, dice de dónde viene su salmón. En 2026 un pescador puede llevarse como máximo dos salmones del Tornionjoki, y el cauce principal del Teno está cerrado a la pesca del salmón."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Siga adelante",
+      "headline": "Adónde lleva esto.",
+      "items": [
+        {
+          "title": "Más recetas de Laponia",
+          "body": "Bidos, pan plano, la sopa sami de pescado de lago y kissel de bayas, explicados paso a paso.",
+          "cta": "Recetas tradicionales"
+        },
+        {
+          "title": "Poronkäristys como plato principal",
+          "body": "Reno cortado muy fino y cocinado a fuego lento hasta quedar tierno, con puré de papas y arándanos rojos: la receta y dónde comerlo.",
+          "cta": "Guía del poronkäristys"
+        },
+        {
+          "title": "Alójese en Rovaniemi",
+          "body": "Tres de los restaurantes mencionados arriba están en Rovaniemi, y la ciudad es una base práctica para recorrer Laponia comiendo.",
+          "cta": "Ver alojamiento en Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

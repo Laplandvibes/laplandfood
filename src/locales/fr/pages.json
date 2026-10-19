@@ -1517,8 +1517,8 @@
       "headline": "Si vous ne cuisinez qu'un plat, faites celui-ci."
     },
     "dishes": {
-      "kicker": "Deux classiques de Laponie",
-      "headline": "Le poronkäristys et le leipäjuusto, chacun sur sa page.",
+      "kicker": "Trois classiques",
+      "headline": "Le lohikeitto, le poronkäristys et le leipäjuusto, chacun sur sa page.",
       "cta": "Voir les recettes"
     },
     "imageLabels": {
@@ -1527,6 +1527,287 @@
     "imageAlts": {
       "gahkku": "Sur la photo : une femme samie fait cuire du pain plat au-dessus du feu dans un lavvu, au campement sami de Sallohaure, en Laponie suédoise",
       "stoneOven": "Elina Lokka sort du pain d'un four en pierre à Lokka, Sodankylä, en 1937"
+    }
+  },
+  "lohikeitto": {
+    "title": "Soupe de saumon finlandaise (lohikeitto) : recette et adresses",
+    "description": "Le lohikeitto finlandais : saumon, pommes de terre, oignon, piment de la Jamaïque, aneth, souvent crème. Version au beurre, fumet maison, adresses en Laponie.",
+    "teaser": "Saumon, pommes de terre, piment de la Jamaïque et aneth, avec une touche finale de crème ou de beurre : la recette à la crème, la version claire, le fumet et les adresses en Laponie.",
+    "hero": {
+      "eyebrow": "La soupe de saumon finlandaise · Lohikeitto",
+      "title": "Lohikeitto,",
+      "titleHighlight": "la soupe de saumon à la crème et à l'aneth.",
+      "subtitle": "Le lohikeitto, c'est la soupe que les Finlandais préparent à la maison et commandent au déjeuner : saumon, pommes de terre, oignon, piment de la Jamaïque et aneth, le plus souvent terminée à la crème. Voici trois recettes, son prix sur les cartes des restaurants de Laponie et les deux rivières à saumon qui marquent les frontières de la Laponie, où le saumon sauvage est désormais protégé.",
+      "imageAlt": "Une assiette de soupe de saumon crémeuse avec des pommes de terre, du saumon et de l'aneth frais",
+      "primaryCta": "Aller à la recette",
+      "secondaryCta": "Toutes les recettes traditionnelles",
+      "pills": [
+        "La recette",
+        "Ce que c'est",
+        "Variantes",
+        "En chiffres",
+        "Où le manger",
+        "Questions"
+      ]
+    },
+    "intro": {
+      "lead": "Le nom dit tout : lohi veut dire saumon, et keitto, soupe. Dans la marmite, du saumon, des pommes de terre et de l'oignon ; pour l'assaisonnement, du piment de la Jamaïque et de l'aneth ; et sur les cartes des restaurants de Laponie, la soupe est presque toujours à la crème. À Rovaniemi, à Ylläs et à Ruka, le bol coûte de 12 à 19,80 euros.",
+      "points": [
+        {
+          "n": "01",
+          "title": "Le saumon en dernier",
+          "body": "Les pommes de terre cuisent d'abord. Le saumon les rejoint quand elles sont presque cuites et cuit en quelques minutes à feu doux. Une forte ébullition fait éclater le poisson."
+        },
+        {
+          "n": "02",
+          "title": "Crème ou beurre",
+          "body": "Les restaurants servent généralement la version à la crème. Dans la version claire, le fumet est préparé avec la tête et les arêtes du saumon, et la soupe se termine au beurre plutôt qu'à la crème."
+        },
+        {
+          "n": "03",
+          "title": "Du pain à côté",
+          "body": "Le lohikeitto se mange avec du pain de seigle et du beurre. En Laponie, les restaurants le servent aussi avec la rieska, un pain plat, avec du pain au malt ou avec le pain de l'archipel, noir et sucré."
+        }
+      ]
+    },
+    "recipes": {
+      "kicker": "La recette",
+      "headline": "Le lohikeitto, comme à la maison.",
+      "lead": "Trois recettes : la soupe à la crème que la plupart des Finlandais connaissent, une version claire terminée au beurre, et le fumet qui donne plus de corps à l'une comme à l'autre.",
+      "items": [
+        {
+          "name": "Lohikeitto à la crème",
+          "description": "Du saumon, des pommes de terre et de l'oignon dans un bouillon léger, le tout terminé avec de la crème, du beurre et beaucoup d'aneth.",
+          "time": "40 min",
+          "serves": "4",
+          "level": "Facile",
+          "ingredients": [
+            "500 g de filet de saumon sans peau",
+            "700 g de pommes de terre à chair ferme ou tous usages",
+            "1 oignon ou un petit poireau",
+            "1 carotte (facultatif)",
+            "1 l d'eau ou de fumet de poisson",
+            "8 grains de piment de la Jamaïque",
+            "1 feuille de laurier",
+            "1 c. à café de sel",
+            "2 dl de crème liquide",
+            "1 c. à soupe de beurre",
+            "1 dl d'aneth ciselé"
+          ],
+          "instructions": [
+            "Éplucher les pommes de terre et les couper en cubes d'environ 2 cm. Éplucher et hacher l'oignon, couper la carotte en rondelles.",
+            "Porter l'eau ou le fumet à ébullition, puis ajouter les pommes de terre, l'oignon, la carotte, le piment de la Jamaïque, le laurier et le sel. Couvrir et laisser frémir environ 15 minutes, jusqu'à ce que les pommes de terre soient presque cuites.",
+            "Couper le saumon en cubes de 2 à 3 cm et retirer les éventuelles arêtes.",
+            "Verser la crème et ramener la soupe à frémissement. Ajouter le saumon et le cuire à feu doux 5 à 8 minutes, jusqu'à ce qu'il soit tout juste cuit. Ne pas laisser la soupe bouillir à gros bouillons.",
+            "Retirer la feuille de laurier, incorporer le beurre et l'aneth, puis goûter et rectifier le sel."
+          ],
+          "tip": "Un fumet préparé avec la tête et les arêtes du saumon donne une soupe plus riche que l'eau. Vous trouverez sa recette en troisième position sur cette page.",
+          "imageAlt": "Un bol de soupe de saumon finlandaise à la crème, avec du saumon, des pommes de terre et de l'aneth"
+        },
+        {
+          "name": "Lohikeitto clair au beurre",
+          "description": "Sans crème : du saumon et des pommes de terre dans un fumet de poisson clair, le tout terminé au beurre et aux herbes.",
+          "time": "1 heure",
+          "serves": "4",
+          "level": "Facile",
+          "ingredients": [
+            "1 l de fumet de poisson (recette ci-dessous)",
+            "600 g de pommes de terre à chair ferme",
+            "1 oignon",
+            "8 grains de piment de la Jamaïque",
+            "500 g de filet de saumon sans peau",
+            "50 g de beurre",
+            "Sel",
+            "Aneth ou ciboulette"
+          ],
+          "instructions": [
+            "Préparer d'abord le fumet, ou réchauffer un fumet préparé à l'avance.",
+            "Ajouter au fumet chaud les pommes de terre en cubes, l'oignon haché et le piment de la Jamaïque, et laisser frémir environ 15 minutes.",
+            "Ajouter le saumon en cubes et le cuire à feu doux 5 à 8 minutes.",
+            "Retirer la casserole du feu, incorporer le beurre et saler. Parsemer d'aneth ou de ciboulette."
+          ],
+          "tip": "La soupe claire réussit tout aussi bien avec du corégone ou de la truite. Gardez les mêmes quantités et les mêmes temps de cuisson."
+        },
+        {
+          "name": "Fumet de tête et d'arêtes de saumon",
+          "description": "La base des deux soupes. On y utilise les parties du poisson que l'on jette d'habitude.",
+          "time": "45 min",
+          "serves": "Environ 1,5 l",
+          "level": "Facile",
+          "ingredients": [
+            "1 tête de saumon et les arêtes, environ 500–700 g",
+            "1,5 l d'eau froide",
+            "1 oignon",
+            "1 carotte",
+            "10 grains de piment de la Jamaïque",
+            "1 feuille de laurier",
+            "Des tiges d'aneth",
+            "1 c. à café de sel"
+          ],
+          "instructions": [
+            "Rincer la tête et les arêtes à l'eau froide et retirer les ouïes au couteau.",
+            "Mettre le poisson dans une casserole, couvrir d'eau froide et porter lentement à ébullition. Écumer.",
+            "Ajouter l'oignon et la carotte en morceaux, le piment de la Jamaïque, le laurier, les tiges d'aneth et le sel.",
+            "Laisser frémir doucement à découvert pendant 30 minutes, puis filtrer le fumet dans une passoire fine."
+          ],
+          "tip": "Retirez les ouïes avant la cuisson : elles donnent de l'amertume au fumet. Le fumet se conserve au congélateur, vous pouvez donc en préparer assez pour plusieurs soupes à la fois."
+        }
+      ]
+    },
+    "about": {
+      "kicker": "Ce que c'est",
+      "headline": "Les deux rivières à saumon de Laponie.",
+      "p1": "Le lohikeitto est une soupe de saumon, de pommes de terre et d'oignon, assaisonnée de piment de la Jamaïque et d'aneth et le plus souvent terminée à la crème ou au lait. Sur les six cartes de restaurants de Laponie que nous avons consultées, quatre présentent leur soupe comme crémeuse, et une seule dit d'où vient son saumon : chez Roka, à Rovaniemi, le fumet est préparé avec des saumons pêchés par Toni, de l'équipe de cuisine.",
+      "p2": "Deux rivières à saumon longent les frontières de la Laponie. Le <strong>Tornionjoki</strong>, fleuve frontière avec la Suède, est une rivière où fraie le saumon de la Baltique. Les compteurs que l'Institut des ressources naturelles de Finlande (Luke) gère à Kattilakoski ont enregistré environ 45 000 saumons remontant le fleuve à l'été 2025, contre quelque 100 000 lors des meilleures années, 2014, 2016 et 2021. À l'été 2026, chaque pêcheur peut garder au maximum deux saumons pris dans le fleuve.",
+      "p3": "Le <strong>Teno</strong> marque la frontière avec la Norvège à Utsjoki, et la pêche au saumon y occupe une place importante dans la culture sâme. Après un déclin rapide des stocks, la pêche au saumon a été interdite en 2021 dans tout le bassin du Teno. En 2026, elle n'est pas non plus autorisée dans le cours principal, en dehors de permis individuels accordés pour faire vivre la tradition de pêche sâme.",
+      "imageAlt": "Le Teno au pied d'un fjell saupoudré des premières neiges, en octobre",
+      "caption": "Le Teno au bord de la route 970, à Utsjoki, le 13 octobre 2026"
+    },
+    "variations": {
+      "kicker": "Variantes",
+      "headline": "Crème, beurre ou fumée.",
+      "lead": "Dans la marmite, il y a toujours du saumon et des pommes de terre. Ce qu'on y ajoute change d'une cuisine à l'autre.",
+      "items": [
+        {
+          "title": "Crémeux ou clair",
+          "body": "Sur les cartes de Laponie, la soupe est presque toujours à la crème : quatre des six cartes que nous avons consultées l'indiquent. La version claire cuit dans un fumet de poisson et se termine au beurre."
+        },
+        {
+          "title": "Au saumon fumé à chaud",
+          "body": "À Ruka, Ruka Trek Gasthaus prépare sa soupe avec du saumon fumé à chaud, des carottes et des pommes de terre, dans un bouillon de poisson crémeux."
+        },
+        {
+          "title": "Au poisson de lac",
+          "body": "La même méthode fonctionne avec le corégone, l'omble chevalier ou la truite. La soupe de poisson de la cuisine sâme, préparée avec ce que le lac a donné dans la semaine, se trouve sur la page des recettes traditionnelles."
+        }
+      ]
+    },
+    "facts": {
+      "kicker": "En chiffres",
+      "headline": "Le lohikeitto et ses rivières, chiffres à l'appui.",
+      "lead": "Des chiffres issus des compteurs de l'Institut des ressources naturelles, du ministère finlandais de l'Agriculture et des Forêts et des cartes des restaurants de Laponie. Chaque fiche indique sa source.",
+      "items": [
+        {
+          "value": "≈ 45 000",
+          "label": "saumons ont remonté le Tornionjoki à l'été 2025, d'après les compteurs de Luke à Kattilakoski. À l'été 2024, ils étaient environ 25 000.",
+          "source": "Lapin liitto (Conseil régional de Laponie), avis adressé au ministère de l'Agriculture et des Forêts, 19 février 2026 (VN/670/2026)."
+        },
+        {
+          "value": "40 000",
+          "label": "saumons, c'est l'objectif de stock reproducteur que les chercheurs ont fixé pour le Tornionjoki. Lors des meilleures années, 2014, 2016 et 2021, environ 100 000 saumons ont remonté le fleuve.",
+          "source": "Lapin liitto, avis du 19 février 2026."
+        },
+        {
+          "value": "2",
+          "label": "saumons, c'est le maximum qu'un pêcheur peut garder du Tornionjoki pendant la saison 2026, quelle que soit la technique de pêche.",
+          "source": "Maa- ja metsätalousministeriö (ministère de l'Agriculture et des Forêts de Finlande), communiqué de presse, 8 avril 2026."
+        },
+        {
+          "value": "2021",
+          "label": "l'année où la pêche au saumon a été interdite dans tout le bassin du Teno, en raison du déclin rapide des stocks de saumon.",
+          "source": "Maa- ja metsätalousministeriö, communiqué de presse, 29 avril 2021."
+        },
+        {
+          "value": "0",
+          "label": "saumon peut être pêché dans le cours principal du Teno en 2026. Seules exceptions : des permis individuels accordés pour faire vivre la tradition de pêche sâme.",
+          "source": "Maa- ja metsätalousministeriö, communiqué de presse, 29 mai 2026."
+        },
+        {
+          "value": "12–19,80 €",
+          "label": "le bol de lohikeitto dans les restaurants de Rovaniemi, Ylläs et Ruka.",
+          "source": "Cartes des restaurants, consultées le 20 octobre 2026."
+        }
+      ]
+    },
+    "where": {
+      "kicker": "Où le manger",
+      "headline": "Le lohikeitto à la carte en Laponie.",
+      "lead": "Ces six restaurants proposent le lohikeitto, aux prix relevés sur leurs cartes le 20 octobre 2026. Trois d'entre eux se trouvent à Rovaniemi.",
+      "items": [
+        {
+          "name": "All About Salmon",
+          "town": "Rovaniemi",
+          "body": "Soupe de saumon crémeuse avec de la rieska, le pain plat de Laponie, 16 €."
+        },
+        {
+          "name": "Cafe & Bar 21",
+          "town": "Rovaniemi",
+          "body": "Le lohikeitto de la maison, avec du pain noir au malt et du beurre, 16,90 €."
+        },
+        {
+          "name": "Roka Street Bistro",
+          "town": "Rovaniemi",
+          "body": "Lohikeitto à la crème avec du pain de l'archipel grillé, 18,50 €. Le fumet est préparé avec des saumons que Toni, de l'équipe de cuisine, a pêchés lui-même."
+        },
+        {
+          "name": "Ravintola Rouhe",
+          "town": "Ylläs",
+          "body": "Soupe de saumon crémeuse avec le pain de la maison, 15,60 € la petite portion et 19,80 € la grande."
+        },
+        {
+          "name": "Ylläskota",
+          "town": "Ylläs",
+          "body": "Le lohikeitto en entrée, 12 €, mais aussi dans le Menu Ylläskota en trois plats (44 €) et en portion enfant."
+        },
+        {
+          "name": "Ruka Trek Gasthaus",
+          "town": "Ruka",
+          "body": "Soupe de saumon fumé à chaud, carottes et pommes de terre dans un bouillon de poisson crémeux, 12,50 € ou 19 €."
+        }
+      ],
+      "gygCta": "Voir les tours culinaires en Laponie sur GetYourGuide",
+      "diningCta": "Voir le guide gastronomique"
+    },
+    "faq": {
+      "kicker": "Questions",
+      "headline": "Les questions qu'on se pose sur le lohikeitto.",
+      "items": [
+        {
+          "question": "Que met-on dans le lohikeitto ?",
+          "answer": "Du saumon, des pommes de terre, de l'oignon ou du poireau, du piment de la Jamaïque et de l'aneth, et généralement de la crème ou du lait. La carotte est un ajout courant."
+        },
+        {
+          "question": "Combien de temps faut-il cuire le saumon ?",
+          "answer": "Des cubes de 2 à 3 cm cuisent en 5 à 8 minutes à feu doux. Ajoutez-les quand les pommes de terre sont presque cuites, et ne laissez pas la soupe bouillir à gros bouillons."
+        },
+        {
+          "question": "Peut-on faire le lohikeitto sans crème ?",
+          "answer": "Oui. La version claire cuit dans un fumet de poisson et se termine au beurre. La recette se trouve plus haut."
+        },
+        {
+          "question": "Combien coûte le lohikeitto en Laponie ?",
+          "answer": "Sur les six cartes de Laponie que nous avons consultées, le bol coûte de 12 à 19,80 euros. Prix relevés le 20 octobre 2026."
+        },
+        {
+          "question": "Le lohikeitto est-il le plat national finlandais ?",
+          "answer": "Non. Lors du vote de 2017 pour désigner un plat national finlandais, c'est le pain de seigle qui l'a emporté. La soupe de poisson figurait parmi les 12 finalistes et a été le choix du jury lui-même, mais la soupe de saumon n'a pas été citée à part."
+        },
+        {
+          "question": "Dans les restaurants de Laponie, le saumon vient-il des rivières de la région ?",
+          "answer": "Demandez au restaurant. Sur les six cartes que nous avons consultées, seul Roka, à Rovaniemi, indique d'où vient son saumon. En 2026, un pêcheur peut garder au maximum deux saumons du Tornionjoki, et le cours principal du Teno est fermé à la pêche au saumon."
+        }
+      ]
+    },
+    "nextSteps": {
+      "kicker": "Pour continuer",
+      "headline": "Où cela mène.",
+      "items": [
+        {
+          "title": "D'autres recettes de Laponie",
+          "body": "Le bidos, le pain plat, la soupe de poisson de lac sâme et le kissel aux baies, expliqués étape par étape.",
+          "cta": "Recettes traditionnelles"
+        },
+        {
+          "title": "Le poronkäristys en plat principal",
+          "body": "Du renne finement émincé, mijoté jusqu'à être fondant et servi avec une purée de pommes de terre et des airelles : la recette et où le manger.",
+          "cta": "Le guide du poronkäristys"
+        },
+        {
+          "title": "Séjourner à Rovaniemi",
+          "body": "Trois des restaurants ci-dessus sont à Rovaniemi, et la ville est une base pratique pour découvrir la Laponie par l'assiette.",
+          "cta": "Voir les hébergements à Rovaniemi"
+        }
+      ]
     }
   },
   "poronkaristys": {

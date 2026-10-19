@@ -12,6 +12,42 @@ import type { DishConfig } from '../pages/DishPage';
  * porot tiellä (CC BY 2.0). Oikea annoskuva syntyy vain kuvaamalla itse.
  * Kuvattomat reseptit näytetään ilman kuvaa, ei väärällä kuvalla (Vesa 11.9.: ei koristekuvia).
  */
+
+/**
+ * /lohikeitto (20.10.2026). Mitattu kysyntä 19.10.: lohikeitto 27 100/kk Suomessa (KD 0), suurin
+ * ruokahaku sivuston aiheista, ja sivustolla ei ollut sille sivua. Muut kielet: ja ロヒケイット 2 900,
+ * de finnische lachssuppe 2 400, en finnish salmon soup 1 000, sv finsk laxsoppa 880.
+ * Omaa lohikeittokuvaa ei ole (lokakuun ja heinäkuun reissujen ravintolakuvat käyty läpi), joten
+ * hero = comedy_nose (CC BY 2.0, käy myös jakokorttiin), kermaisen reseptin kortti = JIP (CC BY-SA 4.0,
+ * vain pienennys) ja "Mitä se on" -kuva = oma Tenojoki-kuva 13.10.2026. Kuusamon lohikeitto (Ninara) on
+ * lapland.blogin käytössä. Kaikki varattu claim.mjs:llä.
+ */
+export const LOHIKEITTO: DishConfig = {
+  key: 'lohikeitto',
+  path: '/lohikeitto',
+  hero: {
+    image: '/images/hero-lohikeitto-1920.webp',
+    srcSet: '/images/hero-lohikeitto-800.webp 800w, /images/hero-lohikeitto-1280.webp 1280w, /images/hero-lohikeitto-1920.webp 1920w, /images/hero-lohikeitto-2560.webp 2560w',
+    layout: 'split',
+    position: '45% 50%',
+  },
+  about: {
+    image: '/images/lohikeitto-tenojoki-1600.jpg',
+    ownPhoto: true,
+  },
+  recipes: [
+    { image: '/images/lohikeitto-kermainen-1600.jpg', totalTime: 'PT40M', category: 'Soup' },
+    { totalTime: 'PT1H', category: 'Soup' },
+    { totalTime: 'PT45M', category: 'Stock' },
+  ],
+  // "Selaa Lapin ruokaretkiä" → Lapin ruoka- ja juomakategoria (sama kuin leipäjuustolla).
+  gyg: { path: 'lapland-finland-l2652/food-drinks-tc103', sid: 'lohikeitto_food_tour' },
+  stay: { destination: 'Rovaniemi, Finland', sid: 'lohikeitto_stay_rovaniemi' },
+  next: ['/traditional-recipes', '/poronkaristys'],
+  aboutSchema: 'Lohikeitto, Finnish salmon soup',
+  datePublished: '2026-10-20T00:00:00+03:00',
+};
+
 export const PORONKARISTYS: DishConfig = {
   key: 'poronkaristys',
   path: '/poronkaristys',
@@ -82,5 +118,5 @@ export const LEIPAJUUSTO: DishConfig = {
   datePublished: '2026-09-23T00:00:00+03:00',
 };
 
-/** Reseptisivun nosto: järjestys = mitattu kysyntä Suomessa (14 800 / 5 400 hakua kuussa). */
-export const DISHES = [PORONKARISTYS, LEIPAJUUSTO] as const;
+/** Reseptisivun nosto: järjestys = mitattu kysyntä Suomessa (27 100 / 14 800 / 5 400 hakua kuussa). */
+export const DISHES = [LOHIKEITTO, PORONKARISTYS, LEIPAJUUSTO] as const;

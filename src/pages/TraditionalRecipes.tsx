@@ -250,7 +250,7 @@ export default function TraditionalRecipes() {
                 {t('traditionalRecipes.dishes.headline')}
               </h2>
             </div>
-            <div className="grid md:grid-cols-2 gap-5">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 lv-grid-3c">
               {DISHES.map(d => (
                 <Link key={d.path} to={to(d.path)} className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 transition-colors">
                   <div className="relative aspect-[16/9] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
