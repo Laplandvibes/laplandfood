@@ -94,6 +94,7 @@
   "photo": {
     "credit": "Photo : LaplandVibes",
     "label": "Photo : ",
+    "labelMany": "Photos : ",
     "modified": "modifiée"
   }
 }

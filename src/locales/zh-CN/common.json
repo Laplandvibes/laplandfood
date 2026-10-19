@@ -94,6 +94,7 @@
   "photo": {
     "credit": "摄影：LaplandVibes",
     "label": "摄影：",
+    "labelMany": "摄影：",
     "modified": "已修改"
   }
 }

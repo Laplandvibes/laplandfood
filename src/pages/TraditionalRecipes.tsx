@@ -10,6 +10,7 @@ import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import PhotoCredit from '../components/PhotoCredit';
 import NoPhotoTile from '../components/NoPhotoTile';
+import GridPhotoCredits from '../components/GridPhotoCredits';
 import { creditFor } from '../data/photoCredits';
 import { DISHES } from '../data/dishes';
 import { useLocale } from '../i18n/useLocale';
@@ -537,8 +538,8 @@ export default function TraditionalRecipes() {
                     {METHOD_IMAGES[idx] ? (
                       <img src={METHOD_IMAGES[idx]!} alt={METHOD_ALT_KEYS[idx] ? t(METHOD_ALT_KEYS[idx]!) : m.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" style={METHOD_IMAGE_POS[idx] ? { objectPosition: METHOD_IMAGE_POS[idx] } : undefined} />
                     ) : <NoPhotoTile icon={Shovel} />}
-                    <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.55) 0%, rgba(0,31,74,0.05) 60%)' }} />
-                    {METHOD_IMAGES[idx] && <PhotoCredit credit={creditFor(METHOD_IMAGES[idx]!)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />}
+                    {/* 19.10.2026: ei tummennusta eikä merkintää kuvan päällä. Kuvassa ei ole tekstiä
+                        (otsikko on kuvan alla), ja tekijät ovat ruudukon alla (GridPhotoCredits). */}
                   </div>
                   <div className="p-4 sm:p-6">
                     <h3 className="font-heading tracking-wide text-xl text-[#002F6C] mb-2">{m.title}</h3>
@@ -547,6 +548,7 @@ export default function TraditionalRecipes() {
                 </div>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={methods.map((m, idx) => ({ title: m.title, credit: creditFor(METHOD_IMAGES[idx] ?? undefined) }))} />
           </div>
         </section>
 

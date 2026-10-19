@@ -23,14 +23,16 @@ const CORNER = {
 
 /** `note` (19.10.2026): "Kuvassa: …" -rivi, kun kuva ei ole juuri kortin nimeämä asia (esim. toisen
  *  ravintolan annos). Se piirtyy samaan laatikkoon tekijätiedon yläpuolelle, koska erillisinä
- *  ne menivät puhelimella päällekkäin. Toimii myös ilman `credit`iä (omat kuvat). */
+ *  ne menivät puhelimella päällekkäin. Toimii myös ilman `credit`iä (omat kuvat). Kun `note` jo
+ *  nimeää paikan, sitä ei toisteta tekijärivillä ("Sallohaure" kahdesti peräkkäin). */
 export default function PhotoCredit({ credit, label, modifiedLabel, corner = 'br', note }: { credit?: Credit; label: string; modifiedLabel?: string; corner?: keyof typeof CORNER; note?: string }) {
   if (!credit && !note) return null;
+  const place = credit?.place && !(note && note.includes(credit.place)) ? credit.place : '';
   return (
     <span className={`absolute ${CORNER[corner]} z-20 max-w-full bg-black/55 px-1.5 py-[2px] text-[9px] sm:text-[10px] leading-tight text-white`}>
       {note && <span className="block">{note}</span>}
       {credit && <>
-      {credit.place ? `${credit.place} · ` : ''}{label}
+      {place ? `${place} · ` : ''}{label}
       <a href={credit.sourceUrl} target="_blank" rel="noopener" className="lv-tap underline decoration-white/50 underline-offset-2 hover:decoration-white">
         {credit.author}
       </a>

@@ -94,6 +94,7 @@
   "photo": {
     "credit": "Kuva: LaplandVibes",
     "label": "Kuva: ",
+    "labelMany": "Kuvat: ",
     "modified": "muokattu"
   }
 }
