@@ -694,6 +694,19 @@ export const PHOTO_CREDITS: Record<string, PhotoCredit> = {
   // tarkistettu lähteestä (Flickr oEmbed, Commons API) 19.10.; claim.mjs VAPAA ja varattu laplandfoodille.
   // BY-SA-kuvat vain pienennetty; näyttörajaus CSS:llä. Liköörille, poro+mustikalle ja maakuopalle ei
   // löytynyt aitoa kuvaa ⇒ kuvake (src/components/NoPhotoTile.tsx).
+  // Vesa 19.10.2026: "chymos kuva" (lakkalikööri-kortti; ainoa aito vapaa kuva on merkkipulloista). Varattu claim.mjs.
+  '/images/cloudberry-liqueur-chymos.jpg': {
+    author: 'Hanno Böck',
+    license: 'CC0 1.0',
+    licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lakka_Lik%C3%B6r.jpg',
+    title: 'Lakka Likör.jpg',
+    place: '',
+    taken: '2008-10-28',
+    changes: 'Pienennetty 3072 → 1200 px, ei rajattu. Kaksi Chymos Lakka -likööripulloa ikkunalaudalla, taustalla meri; Commons ei kerro paikkaa.',
+    fetched: '2026-10-19',
+    cost: '0 €',
+  },
   '/images/cloudberry-dessert-abisko.jpg': {
     author: 'kudumomo',
     license: 'CC BY 2.0',
