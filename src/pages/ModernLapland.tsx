@@ -6,6 +6,7 @@ import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import PhotoCredit from '../components/PhotoCredit';
+import GridPhotoCredits from '../components/GridPhotoCredits';
 import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
 import NewsletterSection from '../components/NewsletterSection';
@@ -85,7 +86,7 @@ export default function ModernLapland() {
                 <article key={d.name} className="group relative flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-72 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={DISH_IMAGES[i]} alt={DISH_PHOTO_NOTES[i] ? t(`modernLapland.imageAlts.${DISH_PHOTO_NOTES[i]}`) : d.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(DISH_IMAGES[i])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" note={DISH_PHOTO_NOTES[i] ? t(`modernLapland.imageLabels.${DISH_PHOTO_NOTES[i]}`) : undefined} />
+                    <PhotoCredit label={tc('photo.label')} corner="tl" note={DISH_PHOTO_NOTES[i] ? t(`modernLapland.imageLabels.${DISH_PHOTO_NOTES[i]}`) : undefined} />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute bottom-4 left-5 right-5">
                       <h3 className="font-heading tracking-wide text-2xl text-white leading-tight drop-shadow-[0_2px_8px_rgba(0,15,40,0.6)]">
@@ -119,6 +120,7 @@ export default function ModernLapland() {
                 </article>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={dishes.map((d, i) => ({ title: d.name, credit: creditFor(DISH_IMAGES[i]) }))} />
           </div>
         </section>
 
@@ -141,7 +143,6 @@ export default function ModernLapland() {
                 <div key={tech.title} id={`technique-${idx}`} className={`scroll-mt-24 rounded-2xl bg-white border border-[#002F6C]/10 overflow-hidden ${idx === techniques.length - 1 && techniques.length % 2 === 1 ? 'md:col-span-2' : ''}`}>
                   <div className="relative h-40 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={TECH_IMAGES[idx]} alt={tech.title} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(TECH_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.08) 60%)' }} />
                     <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-2xl text-white leading-tight">{tech.title}</h3>
                   </div>
@@ -151,6 +152,7 @@ export default function ModernLapland() {
                 </div>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={techniques.map((tech, idx) => ({ title: tech.title, credit: creditFor(TECH_IMAGES[idx]) }))} />
           </div>
         </section>
 

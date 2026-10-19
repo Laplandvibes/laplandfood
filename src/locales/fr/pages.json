@@ -2453,7 +2453,9 @@
       }
     ],
     "imageLabels": {
-      "reindeerInari": "Sur la photo : un renne, route Ivalo–Inari, octobre 2026"
+      "reindeerInari": "Sur la photo : un renne, route Ivalo–Inari, octobre 2026",
+      "fineDining": "Sur la photo : omble mariné, Kappeli, Helsinki",
+      "foraging": "Sur la photo : peigne à baies, Taipalsaari"
     },
     "imageAlts": {
       "reindeerInari": "Sur la photo : un renne au bord de la route entre Ivalo et Inari, octobre 2026"

@@ -255,7 +255,6 @@ export default function TraditionalRecipes() {
                 <Link key={d.path} to={to(d.path)} className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 transition-colors">
                   <div className="relative aspect-[16/9] bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
                     <img src={d.hero.image} alt={t(`${d.key}.hero.imageAlt`)} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                    <PhotoCredit credit={creditFor(d.hero.image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                   </div>
                   <div className="flex flex-1 flex-col p-6">
                     <h3 className="font-heading tracking-wide text-3xl text-[#002F6C] mb-2 group-hover:text-vibe-pink transition-colors">
@@ -270,6 +269,7 @@ export default function TraditionalRecipes() {
                 </Link>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={DISHES.map(d => ({ title: tNav(`recipesMenu.${d.key}`), credit: creditFor(d.hero.image) }))} />
           </div>
         </section>
 
@@ -471,8 +471,7 @@ export default function TraditionalRecipes() {
                   <div className="relative h-36 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
                     <img src={SEASON_IMAGES[idx]} alt={`${s.sami} / ${s.en}`} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,31,74,0.72) 0%, rgba(0,31,74,0.10) 60%)' }} />
-                    <PhotoCredit credit={creditFor(SEASON_IMAGES[idx])} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} corner="tl" />
-                    <span className={`absolute ${creditFor(SEASON_IMAGES[idx]) ? 'top-9' : 'top-3'} right-4 text-[10px] uppercase tracking-wider font-semibold bg-white/90 text-[#002F6C] px-2.5 py-1 rounded-full`}>{s.when}</span>
+                    <span className={`absolute top-3 right-4 text-[10px] uppercase tracking-wider font-semibold bg-white/90 text-[#002F6C] px-2.5 py-1 rounded-full`}>{s.when}</span>
                     <h3 className="absolute bottom-3 left-5 right-5 font-heading tracking-wide text-2xl text-white leading-tight">
                       {s.sami} <span className="text-vibe-pink font-semibold text-sm">/ {s.en}</span>
                     </h3>
@@ -483,6 +482,7 @@ export default function TraditionalRecipes() {
                 </div>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={seasons.map((s, idx) => ({ title: s.sami, credit: creditFor(SEASON_IMAGES[idx]) }))} />
           </div>
         </section>
 

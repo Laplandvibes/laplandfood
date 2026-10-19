@@ -8,6 +8,7 @@ import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import PhotoCredit from '../components/PhotoCredit';
+import GridPhotoCredits from '../components/GridPhotoCredits';
 import NoPhotoTile from '../components/NoPhotoTile';
 import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
@@ -276,7 +277,6 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
                     {cfg.products.images[i] ? (
                       <>
                         <img src={cfg.products.images[i]!} alt={products[i]?.imageAlt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                        <PhotoCredit credit={creditFor(cfg.products.images[i]!)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                       </>
                     ) : cfg.products.noPhotoIcon ? <NoPhotoTile icon={cfg.products.noPhotoIcon} /> : null}
                   </div>
@@ -287,6 +287,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
                 </article>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={products.map((pr, i) => ({ title: pr.title, credit: creditFor(cfg.products.images[i] ?? undefined) }))} />
           </div>
         </section>
 

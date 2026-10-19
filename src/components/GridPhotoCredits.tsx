@@ -13,6 +13,12 @@ const PARENS: Record<string, [string, string]> = { ja: ['（', '）'], 'zh-CN': 
  * ja Museoviraston kuvan nelirivinen merkintä peitti kuvan lähes kokonaan. Malli
  * laplanddining-new/src/components/GridPhotoCredits.tsx.
  *
+ * Käytössä 19.10.2026 alkaen kaikissa sivuston korttiruudukoissa, joissa kuvia on rinnakkain
+ * (tabletilla 346–348 px): marjatuotteet, raaka-aineet, keräilykohteet, ruokaretket, modernit
+ * annokset ja tekniikat, poronkäristys/leipäjuusto-kortit, vuodenajat ja menetelmät. Isot
+ * yksittäiskuvat (herot, tekstin vieressä oleva kuva, täysi reseptikortti) pitävät kulmamerkinnän
+ * (Vesa 28.9.: ratkaisee kuvan koko ja rinnakkaisuus). "Kuvassa: …" -lappu jää kuvaan.
+ *
  * 🔴 16 px ja muste /75: yli 80 merkin lähderivi on §33:n mukaan leipätekstiä (portti `kuvateksti`).
  * Hillitty = paikka ja väri, ei pieni koko. Tekijä ja lisenssi linkkeinä (CC BY / BY-SA vaatii).
  * `data-lv-kuvalahteet`: mittarit löytävät rivin tällä attribuutilla.
@@ -28,7 +34,8 @@ export default function GridPhotoCredits({ items, className = '' }: { items: { t
       {list.map((it, i) => (
         <span key={it.title}>
           {i > 0 && <>&nbsp;· </>}
-          {it.title}
+          {/* Otsikon lopun sulkeet pois ("Mustikka (Vaccinium myrtillus)"), muuten rivissä on sulut sulkujen perään. */}
+          {it.title.replace(/\s*[(（][^()（）]*[)）]\s*$/, '')}
           {open}
           {it.credit.place ? `${it.credit.place}, ` : ''}
           <a href={it.credit.sourceUrl} target="_blank" rel="noopener" className="lv-tap underline decoration-[#002F6C]/40 underline-offset-2 hover:text-[#002F6C]">

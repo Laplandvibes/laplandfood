@@ -7,6 +7,7 @@ import Nav from '../components/Nav';
 import IntroPoints from '../components/IntroPoints';
 import PageHero from '../components/PageHero';
 import PhotoCredit from '../components/PhotoCredit';
+import GridPhotoCredits from '../components/GridPhotoCredits';
 import NoPhotoTile from '../components/NoPhotoTile';
 import { creditFor } from '../data/photoCredits';
 import Footer from '../components/Footer';
@@ -73,7 +74,6 @@ function ImageProse({ id, kicker, headline, image, alt, imageRight, tint, childr
 
 export default function Cloudberry() {
   const { t } = useTranslation('pages');
-  const { t: tc } = useTranslation('common');
   const { to, locale } = useLocale();
   const pills = (t('cloudberry.hero.pills', { returnObjects: true }) as string[]) || [];
   const phases = (t('cloudberry.season.phases', { returnObjects: true }) as SeasonPhase[]) || [];
@@ -259,7 +259,6 @@ export default function Cloudberry() {
                     {PRODUCT_IMAGES[i] ? (
                       <>
                         <img src={PRODUCT_IMAGES[i]!} alt={pr.imageAlt} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
-                        <PhotoCredit credit={creditFor(PRODUCT_IMAGES[i]!)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                       </>
                     ) : <NoPhotoTile icon={Wine} />}
                   </div>
@@ -270,6 +269,7 @@ export default function Cloudberry() {
                 </article>
               ))}
             </div>
+            <GridPhotoCredits className="mt-6" items={products.map((pr, i) => ({ title: pr.title, credit: creditFor(PRODUCT_IMAGES[i] ?? undefined) }))} />
           </div>
         </section>
 
