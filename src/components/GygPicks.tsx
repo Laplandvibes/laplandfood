@@ -42,7 +42,7 @@ const COPY = {
     "fi": "Varaa heti",
     "de": "Jetzt buchen",
     "ja": "今すぐ予約",
-    "es": "Reserva ya",
+    "es": "Reserve ya",
     "pt-BR": "Reserve agora",
     "zh-CN": "立即预订",
     "ko": "지금 예약",
@@ -75,7 +75,7 @@ const COPY = {
     "zh-CN": "查看全部",
     "ko": "전체 보기",
     "fr": "Voir tout",
-    "it": "Veda tutto",
+    "it": "Vedi tutto",
     "nl": "Bekijk alles",
     "sv": "Se alla"
   },
