@@ -823,6 +823,7 @@ export default function SuomikauppaPicks({
               <img
                 src={imageForHandle(p.handle)}
                 alt={p.name}
+                translate="no"
                 loading="lazy"
                 decoding="async"
                 onError={(e) => { e.currentTarget.closest('div')!.style.display = 'none' }}
@@ -830,7 +831,7 @@ export default function SuomikauppaPicks({
               />
             </div>
             <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-400">{p.brand}</p>
-            <p className="mt-1 font-bold leading-snug" style={{ color: FIN_BLUE }}>
+            <p className="mt-1 font-bold leading-snug" style={{ color: FIN_BLUE }} translate="no">
               {p.name}
             </p>
             <p className="mt-1.5 flex-1 text-sm leading-relaxed text-slate-600">{p.desc[locale] ?? p.desc.en}</p>

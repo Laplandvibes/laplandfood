@@ -212,7 +212,7 @@ export default function LocalIngredients() {
           <p className={BODY}>{t('localIngredients.reindeerDeep.p3')}</p>
           <h3 className={SUB}>{reindeerSubs[2]}</h3>
           <p className={BODY}>
-            <Trans i18nKey="localIngredients.reindeerDeep.p4" ns="pages" components={{ em: <em />, strong: <strong /> }} />
+            <Trans i18nKey="localIngredients.reindeerDeep.p4" ns="pages" components={{ em: <em lang="fi" />, strong: <strong /> }} />
           </p>
           <h3 className={SUB}>{reindeerSubs[3]}</h3>
           <p className={BODY_LAST}>{t('localIngredients.reindeerDeep.p5')}</p>

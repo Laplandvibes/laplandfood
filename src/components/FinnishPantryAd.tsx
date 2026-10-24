@@ -274,6 +274,7 @@ export default function FinnishPantryAd({ className = '' }: { className?: string
               <img
                 src={`/images/partners/suomikauppa/${p.handle}.webp`}
                 alt={`${p.brand} ${p.name}`}
+                translate="no"
                 loading="lazy"
                 decoding="async"
                 onError={(e) => { e.currentTarget.closest('div')!.style.display = 'none' }}
@@ -281,7 +282,7 @@ export default function FinnishPantryAd({ className = '' }: { className?: string
               />
             </div>
             <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-400">{p.brand}</p>
-            <p className="mt-0.5 text-sm font-bold leading-snug" style={{ color: FIN_BLUE }}>
+            <p className="mt-0.5 text-sm font-bold leading-snug" style={{ color: FIN_BLUE }} translate="no">
               {p.name}
             </p>
           </a>

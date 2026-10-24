@@ -186,12 +186,12 @@ export default function GygPicks() {
   const rows = CATEGORY_LINKS['laplandfood-new'] ?? [];
 
 const CAT_LABEL: Record<string, Record<string, string>> = {
-  'ski-snowboard-tc146':      { en: 'Ski & snowboard', fi: 'Hiihto ja lumilautailu' },
-  'snow-winter-sports-tc113': { en: 'Snow & winter sports', fi: 'Talviurheilu' },
-  'food-drinks-tc103':        { en: 'Food & drinks', fi: 'Ruoka ja juoma' },
-  'dinner-packages-tc100':    { en: 'Dinner packages', fi: 'Illalliskokonaisuudet' },
-  'airport-transfers-tc153':  { en: 'Airport transfers', fi: 'Lentokenttäkuljetukset' },
-  'transfers-tc152':          { en: 'Transfers', fi: 'Kuljetukset' },
+  'ski-snowboard-tc146':      { en: 'Ski & snowboard', fi: 'Hiihto ja lumilautailu', sv: 'Skidor och snowboard', de: 'Ski & Snowboard', es: 'Esquí y snowboard', fr: 'Ski et snowboard', it: 'Sci e snowboard', nl: 'Skiën en snowboarden', 'pt-BR': 'Esqui e snowboard', ja: 'スキー・スノーボード', ko: '스키와 스노보드', 'zh-CN': '滑雪与单板滑雪' },
+  'snow-winter-sports-tc113': { en: 'Snow & winter sports', fi: 'Talviurheilu', sv: 'Vintersport', de: 'Wintersport', es: 'Deportes de invierno', fr: 'Sports d’hiver', it: 'Sport invernali', nl: 'Wintersport', 'pt-BR': 'Esportes de inverno', ja: 'ウィンタースポーツ', ko: '겨울 스포츠', 'zh-CN': '冬季运动' },
+  'food-drinks-tc103':        { en: 'Food & drinks', fi: 'Ruoka ja juoma', sv: 'Mat och dryck', de: 'Essen & Trinken', es: 'Comida y bebida', fr: 'Gastronomie et boissons', it: 'Cibo e bevande', nl: 'Eten en drinken', 'pt-BR': 'Comida e bebida', ja: 'グルメ・ドリンク', ko: '음식과 음료', 'zh-CN': '美食与饮品' },
+  'dinner-packages-tc100':    { en: 'Dinner packages', fi: 'Illalliskokonaisuudet', sv: 'Middagspaket', de: 'Abendessen-Pakete', es: 'Paquetes de cena', fr: 'Formules dîner', it: 'Pacchetti cena', nl: 'Dinerarrangementen', 'pt-BR': 'Pacotes de jantar', ja: 'ディナーパッケージ', ko: '디너 패키지', 'zh-CN': '晚餐套餐' },
+  'airport-transfers-tc153':  { en: 'Airport transfers', fi: 'Lentokenttäkuljetukset', sv: 'Flygplatstransfer', de: 'Flughafentransfers', es: 'Traslados al aeropuerto', fr: 'Transferts aéroport', it: 'Transfer aeroportuali', nl: 'Luchthaventransfers', 'pt-BR': 'Traslados do aeroporto', ja: '空港送迎', ko: '공항 이동', 'zh-CN': '机场接送' },
+  'transfers-tc152':          { en: 'Transfers', fi: 'Kuljetukset', sv: 'Transfer', de: 'Transfers', es: 'Traslados', fr: 'Transferts', it: 'Transfer', nl: 'Transfers', 'pt-BR': 'Traslados', ja: '送迎', ko: '이동 서비스', 'zh-CN': '接送服务' },
 };
 
 /** What is actually in each category — see the file header for how this was

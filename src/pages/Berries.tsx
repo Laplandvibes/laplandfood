@@ -114,7 +114,7 @@ export default function Berries() {
                   </div>
                   <div className="p-6 sm:p-7 flex flex-col flex-1">
                     <h3 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] leading-tight group-hover:text-vibe-pink transition-colors">{c.name}</h3>
-                    <p className="text-xs italic text-[#002F6C]/70 mt-1 mb-3">{c.latin}</p>
+                    <p lang="la" translate="no" className="text-xs italic text-[#002F6C]/70 mt-1 mb-3">{c.latin}</p>
                     <p className="text-sm sm:text-base text-[#002F6C]/80 leading-relaxed flex-1">{c.body}</p>
                     <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-semibold text-vibe-pink">
                       {c.cta} <ArrowRight className="w-4 h-4" aria-hidden="true" />
@@ -160,7 +160,7 @@ export default function Berries() {
               {other.map(o => (
                 <li key={o.name} className="border-t-2 border-[#002F6C]/15 pt-4">
                   <h3 className="font-heading tracking-wide text-2xl text-[#002F6C] leading-tight">{o.name}</h3>
-                  <p className="text-xs italic text-[#002F6C]/70 mt-0.5">{o.latin}</p>
+                  <p lang="la" translate="no" className="text-xs italic text-[#002F6C]/70 mt-0.5">{o.latin}</p>
                   <p className="text-[11px] uppercase tracking-[0.16em] font-semibold text-vibe-pink mt-2">{o.when}</p>
                   <p className="text-sm text-[#002F6C]/80 leading-relaxed mt-2">{o.body}</p>
                 </li>

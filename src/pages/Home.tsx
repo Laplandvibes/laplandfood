@@ -20,6 +20,13 @@ import { AD_SLOTS } from '../data/adSlots';
 import GygPicks from '../components/GygPicks';
 import { AppPromoHero } from '../components/AppPromo';
 
+/** Lukurivin nimi ruudunlukijalle lukijan kielellä (gate:a11y-nimet 24.10.2026). */
+const STATS_LABEL: Record<string, string> = {
+  en: 'LaplandFood in numbers', fi: 'LaplandFood lukuina', sv: 'LaplandFood i siffror', de: 'LaplandFood in Zahlen',
+  es: 'LaplandFood en cifras', fr: 'LaplandFood en chiffres', it: 'LaplandFood in numeri', nl: 'LaplandFood in cijfers',
+  'pt-BR': 'LaplandFood em números', ja: '数字で見るLaplandFood', ko: '숫자로 보는 LaplandFood', 'zh-CN': 'LaplandFood 数据一览',
+};
+
 interface Pillar { eyebrow: string; title: string; body: string }
 interface CulturePoint { n: string; title: string; body: string }
 
@@ -98,7 +105,7 @@ export default function Home() {
             instead — the figures landed on top of the app card's own copy and
             read as a rendering fault (Vesa 2026-08-10, with a screenshot).
             Anything new on this page goes BELOW this section. */}
-        <section aria-label="LaplandFood in numbers" className="relative z-10 -mt-16 md:-mt-20">
+        <section aria-label={STATS_LABEL[locale] ?? STATS_LABEL.en} className="relative z-10 -mt-16 md:-mt-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
               {stats.map(s => (
