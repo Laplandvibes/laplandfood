@@ -11,14 +11,14 @@
   "newsletter": {
     "kicker": "El boletín de #LaplandVibes",
     "headline": "Qué se come ahora en Laponia.",
-    "subhead": "La receta de temporada que vale la pena probar, el restaurante por el que merece desviarse, la ventana de recolección que no deberías perderte. Selección editorial escrita desde Finlandia.",
-    "emailPlaceholder": "tu@ejemplo.com",
+    "subhead": "La receta de temporada que vale la pena probar, el restaurante por el que merece desviarse, la ventana de recolección que no debería perderse. Selección editorial escrita desde Finlandia.",
+    "emailPlaceholder": "su@ejemplo.com",
     "submit": "Suscribirse",
     "sending": "Enviando…",
     "successHeadline": "Revise su bandeja de entrada, bienvenido a bordo.",
     "successBody": "El primer envío llegará cuando haya una historia de la gastronomía finlandesa que merezca la pena enviar.",
     "errorPrefix": "Algo ha salido mal",
-    "errorRetry": "Inténtalo de nuevo.",
+    "errorRetry": "Inténtelo de nuevo.",
     "trust": "Redactado a mano por la redacción · Cancele con un clic · Nunca compartimos su dirección."
   },
   "sisters": {

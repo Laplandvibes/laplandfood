@@ -742,7 +742,7 @@ const CHROME: Record<Locale, ChromeCopy> = {
   'zh-CN': { adLabel: '广告', worldwide: '全球配送', cta: '查看商品', ctaAll: '查看全部商品', soldBy: '由 Suomikauppa.fi 销售' },
   ko: { adLabel: '광고', worldwide: '전 세계 배송', cta: '상품 보기', ctaAll: '전체 상품 보기', soldBy: 'Suomikauppa.fi 판매' },
   fr: { adLabel: 'Annonce', worldwide: 'Livraison dans le monde entier', cta: 'Voir le produit', ctaAll: 'Voir toute la gamme', soldBy: 'Vendu par Suomikauppa.fi' },
-  it: { adLabel: 'Annuncio', worldwide: 'Spedizione in tutto il mondo', cta: 'Veda il prodotto', ctaAll: 'Veda tutto il catalogo', soldBy: 'Venduto da Suomikauppa.fi' },
+  it: { adLabel: 'Annuncio', worldwide: 'Spedizione in tutto il mondo', cta: 'Vedi il prodotto', ctaAll: 'Vedi tutto il catalogo', soldBy: 'Venduto da Suomikauppa.fi' },
   nl: { adLabel: 'Advertentie', worldwide: 'Wereldwijde verzending', cta: 'Bekijk product', ctaAll: 'Bekijk het hele assortiment', soldBy: 'Verkocht door Suomikauppa.fi' },
   sv: { adLabel: 'Annons', worldwide: 'Skickar över hela världen', cta: 'Se produkten', ctaAll: 'Se hela sortimentet', soldBy: 'Säljs av Suomikauppa.fi' },
 }
