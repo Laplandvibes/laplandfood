@@ -1,3 +1,13 @@
+function newsletterEmailLabel(): string {
+  const lang = typeof document === 'undefined' ? 'en' : document.documentElement.lang.toLowerCase().split('-')[0];
+  return ({fi:'Sähköpostiosoite',en:'Email address',de:'E-Mail-Adresse',es:'Correo electrónico',fr:'Adresse e-mail',it:'Indirizzo email',nl:'E-mailadres',sv:'E-postadress',ja:'メールアドレス',ko:'이메일 주소',pt:'Endereço de e-mail',zh:'电子邮箱'} as Record<string,string>)[lang] || 'Email address';
+}
+
+function newsletterLanguageNotice(): string {
+  const lang = typeof document === 'undefined' ? 'en' : document.documentElement.lang.toLowerCase().split('-')[0];
+  const notes: Record<string, string> = {"fi":"Uutiskirjeet ovat suomeksi.","en":"Newsletters are in English.","de":"Die Newsletter werden auf Englisch versendet.","ja":"ニュースレターは英語でお届けします。","ko":"뉴스레터는 영어로 발송됩니다.","fr":"Les newsletters sont envoyées en anglais.","it":"Le newsletter sono inviate in inglese.","nl":"De nieuwsbrieven zijn in het Engels.","sv":"Nyhetsbreven skickas på engelska.","es":"Los boletines se envían en inglés.","pt":"As newsletters são enviadas em inglês.","zh":"订阅邮件以英语发送。"};
+  return notes[lang] || notes.en;
+}
 import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useLocale } from '../i18n/useLocale'
@@ -197,8 +207,7 @@ export default function NewsletterSection() {
           </div>
         ) : (
           <><FounderByline tone="pink" />
-          <form
-            onSubmit={onSubmit}
+          <form style={{ background: '#0F172A', color: '#F9FAFB', padding: 16, borderRadius: 16 }} onSubmit={onSubmit}
             onInvalidCapture={(e) => {
               if (blockedTracked.current) return;
               blockedTracked.current = true;
@@ -208,7 +217,7 @@ export default function NewsletterSection() {
             }}
             className="flex flex-col sm:flex-row flex-wrap gap-3 max-w-lg mx-auto"
           >
-            <input
+            <label style={{display:'flex',flexDirection:'column',gap:8,flex:'1 1 0%',minWidth:0,textAlign:'left',fontSize:14,color:'#F9FAFB'}}><span>{newsletterEmailLabel()}</span><span style={{fontSize:13,lineHeight:1.5}}>{newsletterLanguageNotice()}</span><input autoComplete="email" style={{ background: '#FFFFFF', color: '#1F2937', WebkitTextFillColor: '#1F2937', border: '1px solid #64748B' }}
               type="email"
               required
               aria-label={t('newsletter.emailPlaceholder')}
@@ -218,15 +227,15 @@ export default function NewsletterSection() {
               onChange={(e) => setEmail(e.target.value)}
               className="flex-1 rounded-full bg-white/95 px-5 py-3.5 text-base text-[#002F6C] placeholder-[#002F6C]/40 focus:outline-none focus:ring-2 focus:ring-white"
               disabled={status === 'loading'}
-            />
-            <button
+            /></label>
+            <button style={{ backgroundColor: '#BE185D', color: '#FFFFFF', alignSelf: 'end', minHeight: 48 }}
               type="submit"
               disabled={status === 'loading'}
               className="rounded-full bg-[#002F6C] hover:bg-[#001F4A] text-white font-semibold px-7 py-3.5 transition-colors disabled:opacity-60"
             >
               {status === 'loading' ? t('newsletter.sending') : t('newsletter.submit')}
             </button>
-            <label className="basis-full flex items-start gap-2.5 text-left text-white/85 text-xs leading-relaxed cursor-pointer">
+            <label style={{color:"#F9FAFB"}} className="basis-full flex items-start gap-2.5 text-left text-white/85 text-xs leading-relaxed cursor-pointer">
               <input
                 type="checkbox"
                 checked={consented}
@@ -235,9 +244,9 @@ export default function NewsletterSection() {
                 required
                 className="mt-0.5 h-4 w-4 shrink-0 rounded accent-[#002F6C] focus:outline-none focus:ring-2 focus:ring-white"
               />
-              <span>
+              <span style={{color:"#F9FAFB"}}>
                 {consentCopy.consent}{' '}
-                <a
+                <a style={{color:"#BAE6FD",textDecoration:"underline"}} 
                   href={withSlash(privacyHref)}
                   target="_blank"
                   rel="noopener"
