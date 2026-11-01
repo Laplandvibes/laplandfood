@@ -223,7 +223,7 @@ export default function Nav() {
               {/* Verkoston standardikoko (CLAUDE.md logo-kuvio): text-2xl md:text-3xl.
                   Tämä sivusto oli jäänyt yhden askeleen pienemmäksi (xl/2xl) ja
                   näytti navissa kutistuneelta (Vesa 2026-08-10, kahdesti). */}
-              <span className="lv-wm font-heading tracking-wide text-2xl md:text-3xl" data-lv-sanamerkki="" style={WM_STYLE}>
+              <span translate="no" className="notranslate lv-wm font-heading tracking-wide text-2xl md:text-3xl" data-lv-sanamerkki="" style={WM_STYLE}>
                 <span className="text-vibe-pink drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">#</span>
                 <span className="text-white">LAPLAND</span>
                 <span className="text-vibe-pink">FOOD</span>
