@@ -62,9 +62,9 @@ function ImageProse({ id, kicker, headline, image, alt, imageRight, tint, childr
             </div>
           </div>
           <div>
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{kicker}</p>
-            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6">{headline}</h2>
-            <div className="max-w-2xl">{children}</div>
+            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">{kicker}</p>
+            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6 text-center lg:text-left">{headline}</h2>
+            <div className="max-w-2xl max-lg:mx-auto">{children}</div>
           </div>
         </div>
       </div>
@@ -141,14 +141,14 @@ export default function Cloudberry() {
         {/* Season */}
         <section id="season" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('cloudberry.season.kicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
                 {t('cloudberry.season.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">
                 {t('cloudberry.season.lead')}
               </p>
             </div>
@@ -176,10 +176,10 @@ export default function Cloudberry() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">
               {t('cloudberry.rights.headline')}
             </h2>
-            <p className="text-base text-white/85 leading-relaxed mb-5">
+            <p className="text-base text-white/85 leading-relaxed mb-5 max-lg:text-left">
               <Trans i18nKey="cloudberry.rights.p1" ns="pages" components={{ em: <em /> }} />
             </p>
-            <p className="text-base text-white/85 leading-relaxed mb-7">
+            <p className="text-base text-white/85 leading-relaxed mb-7 max-lg:text-left">
               {t('cloudberry.rights.p2')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
@@ -213,14 +213,14 @@ export default function Cloudberry() {
         {/* Price & value */}
         <section id="price" className="scroll-mt-24 bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('cloudberry.price.kicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
                 {t('cloudberry.price.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">
                 {t('cloudberry.price.lead')}
               </p>
             </div>
@@ -239,14 +239,14 @@ export default function Cloudberry() {
         {/* Jam, liqueur, parfait */}
         <section id="products" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('cloudberry.products.kicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
                 {t('cloudberry.products.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">
                 {t('cloudberry.products.lead')}
               </p>
             </div>
@@ -286,14 +286,14 @@ export default function Cloudberry() {
         {/* Where to taste it — blue band with the paid foraging exit */}
         <section id="where-to-taste" className="scroll-mt-24 bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('cloudberry.where.kicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">
                 {t('cloudberry.where.headline')}
               </h2>
-              <p className="text-base text-white/85 leading-relaxed mt-5">
+              <p className="text-base text-white/85 leading-relaxed mt-5 mx-auto w-fit text-left lg:mx-0 lg:w-auto">
                 {t('cloudberry.where.lead')}
               </p>
             </div>
@@ -306,7 +306,7 @@ export default function Cloudberry() {
                 </div>
               ))}
             </div>
-            <div className="flex flex-col sm:flex-row gap-3">
+            <div className="flex flex-col sm:flex-row sm:justify-center lg:justify-start gap-3">
               <a
                 href={gygHref}
                 target="_blank"

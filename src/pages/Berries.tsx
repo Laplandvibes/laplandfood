@@ -96,10 +96,10 @@ export default function Berries() {
         {/* The four guides */}
         <section id="guides" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t('berries.guides.kicker')}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t('berries.guides.headline')}</h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t('berries.guides.lead')}</p>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">{t('berries.guides.lead')}</p>
             </div>
             <div className="grid sm:grid-cols-2 gap-5 sm:gap-6">
               {cards.map((c, i) => (
@@ -129,7 +129,7 @@ export default function Berries() {
         {/* Season ladder */}
         <section id="calendar" className="scroll-mt-24 bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t('berries.calendar.kicker')}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">{t('berries.calendar.headline')}</h2>
             </div>
@@ -151,10 +151,10 @@ export default function Berries() {
             (haettu 15.9.2026) — ja sivu sanoo sen nyt itse. */}
         <section id="other-berries" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t('berries.other.kicker')}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t('berries.other.headline')}</h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t('berries.other.lead')}</p>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">{t('berries.other.lead')}</p>
             </div>
             <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-5">
               {other.map(o => (

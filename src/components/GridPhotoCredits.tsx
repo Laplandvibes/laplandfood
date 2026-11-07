@@ -29,7 +29,7 @@ export default function GridPhotoCredits({ items, className = '' }: { items: { t
   if (list.length === 0) return null;
   const [open, close] = PARENS[i18n.language] ?? [' (', ')'];
   return (
-    <p data-lv-kuvalahteet="" className={`text-center text-base leading-snug text-[#002F6C]/75 ${className}`}>
+    <p data-lv-kuvalahteet="" className={`text-center max-lg:mx-auto max-lg:w-fit max-lg:text-left text-base leading-snug text-[#002F6C]/75 ${className}`}>
       {list.length > 1 ? t('photo.labelMany') : t('photo.label')}
       {list.map((it, i) => (
         <span key={it.title}>

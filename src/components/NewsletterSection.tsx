@@ -210,7 +210,7 @@ export default function NewsletterSection() {
         <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-white mb-4">
           {t('newsletter.headline')}
         </h2>
-        <p className="text-base sm:text-lg text-white/85 max-w-xl mx-auto mb-8">
+        <p className="text-base sm:text-lg text-white/85 max-w-xl mx-auto max-lg:w-fit max-lg:text-left mb-8">
           {t('newsletter.subhead')}
         </p>
 

@@ -42,7 +42,7 @@ export default function SisterSiteCTAs() {
           <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-4">
             {t('sisters.headline')}
           </h2>
-          <p className="text-base sm:text-lg text-[#002F6C]/70 max-w-2xl mx-auto">
+          <p className="text-base sm:text-lg text-[#002F6C]/70 max-w-2xl mx-auto max-lg:w-fit max-lg:text-left">
             {t('sisters.subhead')}
           </p>
         </div>

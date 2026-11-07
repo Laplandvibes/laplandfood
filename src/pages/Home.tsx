@@ -139,7 +139,7 @@ export default function Home() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-6">
               {t('home.intro.headline')}
             </h2>
-            <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed">
+            <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed max-lg:text-left">
               {t('home.intro.p1')}
               <br />
               <br />
@@ -195,7 +195,7 @@ export default function Home() {
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-4">
                 {t('home.pillarsHeadline')}
               </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/70 max-w-2xl mx-auto">
+              <p className="text-base sm:text-lg text-[#002F6C]/70 max-w-2xl mx-auto max-lg:w-fit max-lg:text-left">
                 {t('home.pillarsLead')}
               </p>
             </div>
@@ -249,7 +249,7 @@ export default function Home() {
           <div className="relative max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             {/* lg+: otsikon palsta 1024 px (ennen 768) ja otsikko kahdelle riville lauseen rakenteesta, koko pidemmän
                 rivin mukaan. 768 px:ssä fi/ja olivat kolmella rivillä (Vesa 3.10.2026). Ingressi pysyy 768 px:ssä. */}
-            <div className="@container max-w-3xl lg:max-w-5xl mb-12">
+            <div className="@container max-w-3xl lg:max-w-5xl mb-12 mx-auto lg:mx-0 text-center lg:text-left">
               {/* 🔴 #F9A8D4: tama rivi on 12–14 px VALOKUVAN paalla (culture-band.jpg,
                   opacity .70) ja #EC4899 mitattiin 3,67:1 — raja pienelle tekstille on
                   4,5:1 ja 100 % pikseleista oli alle. Vaaleampi pinkki samaa taustaa
@@ -271,7 +271,7 @@ export default function Home() {
                 ))}
               </h2>
               {/* text-white/90 (19.10.2026): /75 jäi kaistan valokuvan päällä 3,8:1:een 14 %:lla pikseleistä (korttiteksti-portti 1440 px). */}
-              <p className="text-base sm:text-lg text-white/90 leading-relaxed max-w-3xl">
+              <p className="text-base sm:text-lg text-white/90 leading-relaxed max-w-3xl mx-auto w-fit text-left lg:mx-0 lg:w-auto">
                 {t('home.cultureLead')}
               </p>
             </div>
@@ -313,7 +313,7 @@ export default function Home() {
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-white mb-5 drop-shadow-[0_2px_12px_rgba(146,64,14,0.45)]">
                 {t('home.summer.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-white/95 max-w-2xl mx-auto leading-relaxed mb-8">
+              <p className="text-base sm:text-lg text-white/95 max-w-2xl mx-auto max-lg:w-fit max-lg:text-left leading-relaxed mb-8">
                 {t('home.summer.lead')}
               </p>
               <Link to={to('/foraging-guide')} className="inline-flex items-center justify-center bg-white hover:bg-white/95 text-[#92400E] font-semibold px-7 py-3.5 rounded-full transition-colors text-base shadow-[0_4px_24px_rgba(0,0,0,0.25)]">

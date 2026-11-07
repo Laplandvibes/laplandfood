@@ -45,7 +45,7 @@ export default function FAQ() {
           <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-white mb-4">
             {t('home.faq.headline')}
           </h2>
-          <p className="text-base sm:text-lg text-white/75">
+          <p className="text-base sm:text-lg text-white/75 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
             {t('home.faq.lead')}
           </p>
         </div>

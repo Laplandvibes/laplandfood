@@ -88,16 +88,16 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, caption, credit
           </div>
 
           <div>
-            <div className="flex items-baseline gap-3 mb-3">
+            <div className="flex items-baseline justify-center lg:justify-start gap-3 mb-3">
               <span className="font-heading tracking-wide text-3xl text-vibe-pink leading-none">{n}</span>
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase">
                 {kicker}
               </p>
             </div>
-            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6">
+            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6 text-center lg:text-left">
               {headline}
             </h2>
-            <div className="max-w-2xl">{children}</div>
+            <div className="max-w-2xl max-lg:mx-auto">{children}</div>
           </div>
         </div>
       </div>
@@ -294,15 +294,16 @@ export default function LocalIngredients() {
 
         {/* Fish taste test video: own footage, Vesa's family (Vesa 5.10.2026). Loads only on play. */}
         <section className="bg-deep-night py-14 sm:py-20 text-white">
-          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 grid gap-10 md:grid-cols-[minmax(0,1fr)_320px] md:items-center">
-            <div>
+          {/* Pinossa lg:hen asti (gate:tabletti 7.11.2026): 768–1023 px:n kahdessa sarakkeessa otsikko jäi vasemmalle kapeaan palstaan. */}
+          <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px] lg:items-center">
+            <div className="text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
                 {t('localIngredients.fishVideo.kicker')}
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">
                 {t('localIngredients.fishVideo.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-white/85 leading-relaxed">
+              <p className="text-base sm:text-lg text-white/85 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">
                 {t('localIngredients.fishVideo.body')}
               </p>
             </div>
@@ -334,10 +335,10 @@ export default function LocalIngredients() {
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">
               {t('localIngredients.everymansRight.headline')}
             </h2>
-            <p className="text-base text-white/85 leading-relaxed mb-5">
+            <p className="text-base text-white/85 leading-relaxed mb-5 max-lg:text-left">
               <Trans i18nKey="localIngredients.everymansRight.p1" ns="pages" components={{ em: <em /> }} />
             </p>
-            <p className="text-base text-white/85 leading-relaxed mb-7">
+            <p className="text-base text-white/85 leading-relaxed mb-7 max-lg:text-left">
               {t('localIngredients.everymansRight.p2')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">

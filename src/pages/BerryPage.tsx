@@ -95,10 +95,10 @@ function ImageProse({ id, kicker, headline, image, alt, caption, credit, imageRi
               </div>
             </div>
           )}
-          <div className={image ? '' : 'max-w-3xl'}>
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{kicker}</p>
-            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6">{headline}</h2>
-            <div className="max-w-2xl">{children}</div>
+          <div className={image ? '' : 'max-w-3xl max-lg:mx-auto'}>
+            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">{kicker}</p>
+            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6 text-center lg:text-left">{headline}</h2>
+            <div className="max-w-2xl max-lg:mx-auto">{children}</div>
           </div>
         </div>
       </div>
@@ -182,10 +182,10 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
         {/* Season */}
         <section id="season" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.season.kicker`)}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.season.headline`)}</h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.season.lead`)}</p>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">{t(`${k}.season.lead`)}</p>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {phases.map(ph => (
@@ -204,10 +204,10 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
             <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.rights.kicker`)}</p>
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">{t(`${k}.rights.headline`)}</h2>
-            <p className="text-base text-white/85 leading-relaxed mb-5">
+            <p className="text-base text-white/85 leading-relaxed mb-5 max-lg:text-left">
               <Trans i18nKey={`${k}.rights.p1`} ns="pages" components={{ em: <em /> }} />
             </p>
-            <p className="text-base text-white/85 leading-relaxed mb-7">{t(`${k}.rights.p2`)}</p>
+            <p className="text-base text-white/85 leading-relaxed mb-7 max-lg:text-left">{t(`${k}.rights.p2`)}</p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <Link to={to('/foraging-guide')} className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t(`${k}.rights.ctaPrimary`)}
@@ -245,10 +245,10 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
         {/* Price / value (or vitamin C for sea buckthorn) */}
         <section id="price" className="scroll-mt-24 bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.price.kicker`)}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.price.headline`)}</h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.price.lead`)}</p>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">{t(`${k}.price.lead`)}</p>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
               {facts.map(f => (
@@ -265,10 +265,10 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
         {/* Products — jokainen kortti nayttaa mita siina lukee (Vesa 15.9.). */}
         <section id="products" className="scroll-mt-24 bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.products.kicker`)}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.products.headline`)}</h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.products.lead`)}</p>
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mx-auto w-fit text-left lg:mx-0 lg:w-auto">{t(`${k}.products.lead`)}</p>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6 lv-grid-3c">
               {products.map((pr, i) => (
@@ -301,10 +301,10 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
         {/* Where to taste it — blue band with the paid foraging exit */}
         <section id="where-to-taste" className="scroll-mt-24 bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl mb-10">
+            <div className="max-w-3xl mb-10 mx-auto lg:mx-0 text-center lg:text-left">
               <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">{t(`${k}.where.kicker`)}</p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">{t(`${k}.where.headline`)}</h2>
-              <p className="text-base text-white/85 leading-relaxed mt-5">{t(`${k}.where.lead`)}</p>
+              <p className="text-base text-white/85 leading-relaxed mt-5 mx-auto w-fit text-left lg:mx-0 lg:w-auto">{t(`${k}.where.lead`)}</p>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
               {ways.map(w => (
@@ -315,7 +315,7 @@ export default function BerryPage({ cfg }: { cfg: BerryConfig }) {
                 </div>
               ))}
             </div>
-            <div className="flex flex-col sm:flex-row gap-3">
+            <div className="flex flex-col sm:flex-row sm:justify-center lg:justify-start gap-3">
               {gygHref && (
                 <a href={gygHref} target="_blank" rel="sponsored nofollow noopener" className="inline-flex items-center justify-center gap-2 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                   {t(`${k}.where.gygCta`)}
