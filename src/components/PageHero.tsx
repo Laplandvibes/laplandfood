@@ -5,6 +5,7 @@ import PageBreadcrumb from './PageBreadcrumb'
 import PhotoCredit from './PhotoCredit'
 import { creditFor } from '../data/photoCredits'
 import { bebasEm } from '../lib/otsikkoRivit'
+import { Erotinrivi, erotinOsat } from '../shared/Erotin';
 
 interface PageHeroProps {
   eyebrow?: string
@@ -136,7 +137,7 @@ export default function PageHero({
             kuvasta riippumatta. Alle 1024 px laatta on sinisellä pohjalla, lg+ kuvan päällä. */}
         {eyebrow && (
           <p className="inline-block max-w-full rounded-2xl sm:rounded-full bg-[#001F4A] px-3.5 py-1.5 text-center leading-snug text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-4">
-            {eyebrow}
+            <Erotinrivi as="span" pino osat={erotinOsat(eyebrow)} />
           </p>
         )}
           <h1

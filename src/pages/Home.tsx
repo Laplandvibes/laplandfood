@@ -19,6 +19,7 @@ import HomeAdSlots, { MainPartnerBanner } from '../shared/HomeAdSlots';
 import { AD_SLOTS } from '../data/adSlots';
 import GygPicks from '../components/GygPicks';
 import { AppPromoHero } from '../components/AppPromo';
+import { Pinorivi } from '../shared/Erotin';
 
 /** Lukurivin nimi ruudunlukijalle lukijan kielellä (gate:a11y-nimet 24.10.2026). */
 const STATS_LABEL: Record<string, string> = {
@@ -308,7 +309,7 @@ export default function Home() {
             <PhotoCredit credit={creditFor('/images/midnight-sun-band.webp')} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
             <div className="relative max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
               <p className="text-white/90 text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-                {t('home.summer.kicker')}
+                <Pinorivi text={t('home.summer.kicker')} />
               </p>
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-white mb-5 drop-shadow-[0_2px_12px_rgba(146,64,14,0.45)]">
                 {t('home.summer.headline')}

@@ -15,6 +15,7 @@ import AffiliateCTA from '../components/AffiliateCTA';
 import FinnishPantryAd from '../components/FinnishPantryAd';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
+import { Erotinrivi } from '../shared/Erotin';
 
 // Umami: one event per page view when the reader starts the video. Local copy, never breaks the page.
 let videoTracked = false;
@@ -79,10 +80,7 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, caption, credit
                   21.7., Kuusamo 16.7.). Kuvateksti kertoo paikan ja ajan — se on
                   se "elo", joka AI-kuvasta puuttui: oikea paikka, oikea päivä. */}
               {caption && (
-                <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
-                  {caption}
-                  {credit && <span className="text-[#002F6C]/70"> · {credit}</span>}
-                </p>
+                <Erotinrivi className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug" osat={[caption, credit]} />
               )}
             </div>
           </div>

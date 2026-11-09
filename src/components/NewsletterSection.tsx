@@ -5,6 +5,7 @@ import { useLocale } from '../i18n/useLocale'
 import { trackNewsletterSignup } from '../lib/analytics'
 import { localePrefix } from '../i18n/config'
 import FounderByline from '../shared/FounderByline';
+import { Erotinrivi, erotinOsat } from '../shared/Erotin';
 
 // Uutiskirjeen kieliohje sivun kielestä (ei <html lang>:sta, joka on esirenderöinnissä aina 'en').
 // Kirjeitä lähtee vain suomeksi ja englanniksi, joten fi/en-sivulla ohje toistaisi itsestäänselvää
@@ -295,9 +296,7 @@ export default function NewsletterSection() {
             {t('newsletter.errorPrefix')} ({error}). {t('newsletter.errorRetry')}
           </p>
         )}
-        <p className="text-white/70 text-xs mt-5">
-          {t('newsletter.trust')}
-        </p>
+        <Erotinrivi className="text-white/70 text-xs mt-5 mx-auto w-fit max-w-full text-left" osat={erotinOsat(t('newsletter.trust'))} />
       </div>
     </section>
   )

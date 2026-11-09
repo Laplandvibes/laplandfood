@@ -17,6 +17,7 @@ import AffiliateCTA from '../components/AffiliateCTA';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { gygDeepLink } from '../lib/gyg';
 import { useLocale } from '../i18n/useLocale';
+import { Erotinrivi } from '../shared/Erotin';
 
 interface SeasonPhase { period: string; title: string; body: string }
 interface PriceFact { value: string; label: string }
@@ -87,10 +88,7 @@ function ImageProse({ id, kicker, headline, image, alt, caption, credit, imageRi
                   <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                 </div>
                 {caption && (
-                  <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">
-                    {caption}
-                    {credit && <span className="text-[#002F6C]/70"> · {credit}</span>}
-                  </p>
+                  <Erotinrivi className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug" osat={[caption, credit]} />
                 )}
               </div>
             </div>

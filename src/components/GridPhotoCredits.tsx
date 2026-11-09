@@ -1,5 +1,7 @@
+import { Fragment } from 'react';
 import { useTranslation } from 'react-i18next';
 import type { PhotoCredit } from '../data/photoCredits';
+import { Erotinrivi } from '../shared/Erotin';
 
 /** Sulkeet: ja ja zh täysleveinä verkoston kanonin mukaan, muissa välilyönti eteen. */
 const PARENS: Record<string, [string, string]> = { ja: ['（', '）'], 'zh-CN': ['（', '）'] };
@@ -29,11 +31,10 @@ export default function GridPhotoCredits({ items, className = '' }: { items: { t
   if (list.length === 0) return null;
   const [open, close] = PARENS[i18n.language] ?? [' (', ')'];
   return (
-    <p data-lv-kuvalahteet="" className={`text-center max-lg:mx-auto max-lg:w-fit max-lg:text-left text-base leading-snug text-[#002F6C]/75 ${className}`}>
-      {list.length > 1 ? t('photo.labelMany') : t('photo.label')}
-      {list.map((it, i) => (
-        <span key={it.title}>
-          {i > 0 && <>&nbsp;· </>}
+    <p data-lv-kuvalahteet="" className={`mx-auto w-fit max-w-full text-left text-base leading-snug text-[#002F6C]/75 ${className}`}>
+      <Erotinrivi as="span" osat={list.map((it, i) => (
+        <Fragment key={it.title}>
+          {i === 0 && (list.length > 1 ? t('photo.labelMany') : t('photo.label'))}
           {/* Otsikon lopun sulkeet pois ("Mustikka (Vaccinium myrtillus)"), muuten rivissä on sulut sulkujen perään. */}
           {it.title.replace(/\s*[(（][^()（）]*[)）]\s*$/, '')}
           {open}
@@ -47,8 +48,8 @@ export default function GridPhotoCredits({ items, className = '' }: { items: { t
           </a>
           {it.credit.modified ? `, ${t('photo.modified')}` : ''}
           {close}
-        </span>
-      ))}
+        </Fragment>
+      ))} />
     </p>
   );
 }
