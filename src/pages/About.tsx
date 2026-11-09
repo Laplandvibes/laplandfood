@@ -49,7 +49,7 @@ export default function About() {
         {/* Why this site exists */}
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5 text-center lg:text-left">
               {t('about.why.headline')}
             </h2>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">
@@ -64,10 +64,10 @@ export default function About() {
         {/* What we cover */}
         <section className="bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-3">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-3 text-center lg:text-left">
               {t('about.cover.headline')}
             </h2>
-            <p className="text-base text-[#002F6C]/75 mb-10 max-w-2xl">
+            <p className="text-base text-[#002F6C]/75 mb-10 max-w-2xl max-lg:mx-auto max-lg:w-fit max-lg:text-left">
               {t('about.cover.lead')}
             </p>
             <div className="grid sm:grid-cols-2 gap-5">
@@ -98,11 +98,11 @@ export default function About() {
               1920 px:llä (Vesa 2026-08-10). Otsikko pitää oman lukuleveytensä,
               kortit levittyvät kahteen sarakkeeseen lg:stä ylöspäin. */}
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="max-w-3xl">
-              <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-3">
+            <div className="max-w-3xl max-lg:mx-auto">
+              <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-3 text-center lg:text-left">
                 {t('about.principles.headline')}
               </h2>
-              <p className="text-base text-[#002F6C]/75 mb-8">
+              <p className="text-base text-[#002F6C]/75 mb-8 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('about.principles.lead')}
               </p>
             </div>
@@ -120,13 +120,13 @@ export default function About() {
         {/* Network */}
         <section className="bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
               {t('about.network.kicker')}
             </p>
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl mb-5">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl mb-5 text-center lg:text-left">
               {t('about.network.headline')}
             </h2>
-            <p className="text-base text-white/85 leading-relaxed mb-7">
+            <p className="text-base text-white/85 leading-relaxed mb-7 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
               {t('about.network.lead')}
             </p>
             <div className="space-y-4 mb-7">
@@ -164,7 +164,7 @@ export default function About() {
         {/* Get in touch */}
         <section className="bg-white py-16">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5 text-center lg:text-left">
               {t('about.contact.headline')}
             </h2>
             <div className="prose prose-lg max-w-none text-[#002F6C]/85">

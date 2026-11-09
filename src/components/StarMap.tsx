@@ -161,7 +161,7 @@ export default function StarMap({ stars, rooms, legendStars, legendRooms, captio
           </li>
         </ul>
         {/* Selitteet yllä ovat nimilappuja; tämä rivi on virke ⇒ leipätekstiä, 16 px (§33, Vesa 20.9.2026). */}
-        <p className="mt-2 text-center text-base text-[#002F6C]/75 leading-relaxed">{caption}</p>
+        <p className="mt-2 mx-auto w-fit max-w-full text-center max-lg:text-left text-base text-[#002F6C]/75 leading-relaxed">{caption}</p>
       </figcaption>
     </figure>
   );

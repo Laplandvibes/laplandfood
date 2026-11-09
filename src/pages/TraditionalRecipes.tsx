@@ -157,10 +157,10 @@ export default function TraditionalRecipes() {
           <section id="recipes" className="scroll-mt-24 bg-white py-16 sm:py-20">
             <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
               <div className="max-w-3xl mb-8">
-                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                   {t('traditionalRecipes.featured.kicker')}
                 </p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] text-center lg:text-left">
                   {t('traditionalRecipes.featured.headline')}
                 </h2>
               </div>
@@ -243,10 +243,10 @@ export default function TraditionalRecipes() {
         <section className="bg-[#F8FAFC] py-14 sm:py-16">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-8">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.dishes.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] text-center lg:text-left">
                 {t('traditionalRecipes.dishes.headline')}
               </h2>
             </div>
@@ -277,10 +277,10 @@ export default function TraditionalRecipes() {
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-10">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.context.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] text-center lg:text-left">
                 {t('traditionalRecipes.context.headline')}
               </h2>
             </div>
@@ -303,13 +303,13 @@ export default function TraditionalRecipes() {
         <section className="bg-[#002F6C] py-20 text-white">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.sapmi.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5 text-center lg:text-left">
                 {t('traditionalRecipes.sapmi.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-white/80 max-w-3xl mx-auto leading-relaxed">
+              <p className="text-base sm:text-lg text-white/80 max-w-3xl mx-auto leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('traditionalRecipes.sapmi.lead')}
               </p>
             </div>
@@ -333,10 +333,10 @@ export default function TraditionalRecipes() {
         <section id="sami-food" className="scroll-mt-24 bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-8">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.faq.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] text-center lg:text-left">
                 {t('traditionalRecipes.faq.headline')}
               </h2>
             </div>
@@ -361,10 +361,10 @@ export default function TraditionalRecipes() {
               kortissa oli juuri se ahtaus jota vastaan tämä muutos tehtiin. */}
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-14">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.recipesKicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] text-center lg:text-left">
                 {t('traditionalRecipes.recipesHeadline')}
               </h2>
             </div>
@@ -452,13 +452,13 @@ export default function TraditionalRecipes() {
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-12">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.seasons.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5 text-center lg:text-left">
                 {t('traditionalRecipes.seasons.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mb-4">
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed mb-4 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('traditionalRecipes.seasons.p1')}
               </p>
               <p className="text-base text-[#002F6C]/75 leading-relaxed">
@@ -489,10 +489,10 @@ export default function TraditionalRecipes() {
         {/* Modern revival */}
         <section className="bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8">
-            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+            <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
               {t('traditionalRecipes.revival.kicker')}
             </p>
-            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-6">
+            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-6 text-center lg:text-left">
               {t('traditionalRecipes.revival.headline')}
             </h2>
             <div className="relative rounded-2xl overflow-hidden h-52 sm:h-64 md:h-72 mb-8 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A]">
@@ -521,13 +521,13 @@ export default function TraditionalRecipes() {
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-12 max-w-2xl mx-auto">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('traditionalRecipes.methods.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-4">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-4 text-center lg:text-left">
                 {t('traditionalRecipes.methods.headline')}
               </h2>
-              <p className="text-[#002F6C]/75 leading-relaxed">
+              <p className="text-[#002F6C]/75 leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('traditionalRecipes.methods.lead')}
               </p>
             </div>
@@ -555,7 +555,7 @@ export default function TraditionalRecipes() {
         {/* CTA strip */}
         <section className="bg-white py-16">
           <div className="max-w-4xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-6">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-6 text-center lg:text-left">
               {t('traditionalRecipes.ctaStrip.headline')}
             </h2>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">

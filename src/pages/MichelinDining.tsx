@@ -110,13 +110,13 @@ export default function MichelinDining() {
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="grid lg:grid-cols-5 gap-10 lg:gap-14 items-center mb-12">
               <div className="lg:col-span-3 max-w-2xl">
-                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                   {t('michelinDining.michelin.kicker')}
                 </p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5 text-center lg:text-left">
                   {t('michelinDining.michelin.headline')}
                 </h2>
-                <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed">
+                <p className="text-base sm:text-lg text-[#002F6C]/75 leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                   {t('michelinDining.michelin.lead')}
                 </p>
               </div>
@@ -193,7 +193,7 @@ export default function MichelinDining() {
             <p className="mt-8 max-w-3xl text-base text-[#002F6C]/75 leading-relaxed">
               {t('michelinDining.michelin.note')}
             </p>
-            <div className="mt-5 flex flex-col sm:flex-row gap-3">
+            <div className="mt-5 flex flex-col items-stretch gap-3 max-w-sm mx-auto sm:max-w-none sm:flex-row sm:flex-wrap sm:justify-center lg:justify-start lg:mx-0">
               <a
                 href={MICHELIN_URL}
                 target="_blank"
@@ -214,16 +214,16 @@ export default function MichelinDining() {
         <section id="lapland" className="scroll-mt-16 bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-10 max-w-3xl mx-auto">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('michelinDining.lapland.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl mb-5">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl mb-5 text-center lg:text-left">
                 {t('michelinDining.lapland.headline')}
               </h2>
-              <p className="text-base text-white/80">
+              <p className="text-base text-white/80 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('michelinDining.lapland.lead')}
               </p>
-              <p className="text-base text-white/80 mt-3">
+              <p className="text-base text-white/80 mt-3 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('michelinDining.lapland.booking')}
               </p>
             </div>
@@ -294,7 +294,7 @@ export default function MichelinDining() {
             <h2 className="font-heading tracking-wide text-3xl sm:text-4xl md:text-5xl text-[#002F6C] mb-3 text-center">
               {t('michelinDining.before.headline')}
             </h2>
-            <p className="text-base text-[#002F6C]/75 text-center max-w-2xl mx-auto mb-10">
+            <p className="text-base text-[#002F6C]/75 text-center max-w-2xl mx-auto mb-10 max-lg:w-fit max-lg:text-left">
               {t('michelinDining.before.lead')}
             </p>
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -315,10 +315,10 @@ export default function MichelinDining() {
         {/* Yövy lähellä */}
         <section id="stay" className="bg-[#F8FAFC] py-16">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5 text-center lg:text-left">
               {t('michelinDining.stayNear.headline')}
             </h2>
-            <p className="text-base text-[#002F6C]/75 mb-7">
+            <p className="text-base text-[#002F6C]/75 mb-7 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
               {t('michelinDining.stayNear.lead')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center mb-6">
@@ -329,7 +329,7 @@ export default function MichelinDining() {
                 {t('michelinDining.stayNear.ctaInari')}
               </AffiliateCTA>
             </div>
-            <p className="text-sm text-[#002F6C]/75">
+            <p className="text-sm text-[#002F6C]/75 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
               {t('michelinDining.stayNear.tourPrefix')}{' '}
               <Link to={to('/food-tours')} className="text-vibe-pink underline-offset-4 hover:underline">
                 {t('michelinDining.stayNear.tourLabel')}

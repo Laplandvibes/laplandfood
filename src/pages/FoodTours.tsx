@@ -98,12 +98,12 @@ export default function FoodTours() {
 
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
-            <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-10">
+            <div className="flex flex-col items-center lg:flex-row lg:items-end lg:justify-between gap-4 mb-10">
               <div>
-                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-2">
+                <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-2 text-center lg:text-left">
                   {t('foodTours.listKicker')}
                 </p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] text-center lg:text-left">
                   {t('foodTours.listHeadline')}
                 </h2>
               </div>
@@ -112,7 +112,7 @@ export default function FoodTours() {
               </a>
             </div>
 
-            <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5 md:max-lg:[&>*:last-child:nth-child(odd)]:col-span-2 md:max-lg:[&>*:last-child:nth-child(odd)]:justify-self-center md:max-lg:[&>*:last-child:nth-child(odd)]:w-[calc(50%_-_0.625rem)]">
               {tours.map((tour, i) => {
                 const meta = TOUR_META[i];
                 const href = gygDeepLink(meta.gygPath, meta.sid, locale);

@@ -73,7 +73,7 @@ export default function ForagingGuide() {
               </div>
             </div>
 
-            <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
+            <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5 md:max-lg:[&>*:last-child:nth-child(odd)]:col-span-2 md:max-lg:[&>*:last-child:nth-child(odd)]:justify-self-center md:max-lg:[&>*:last-child:nth-child(odd)]:w-[calc(50%_-_0.625rem)]">
               {items.map((it, i) => (
                 <article key={it.name} id={`forage-${i}`} className="scroll-mt-24 flex flex-col rounded-2xl bg-white border border-[#002F6C]/10 hover:border-vibe-pink/40 hover:shadow-[0_10px_32px_rgba(0,47,108,0.08)] transition-all overflow-hidden">
                   <div className="relative h-60 bg-gradient-to-br from-[#1A4A8A] via-[#002F6C] to-[#001F4A] overflow-hidden">
@@ -148,10 +148,10 @@ export default function ForagingGuide() {
         <section className="bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-10">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('foragingGuide.mushroomSafety.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C]">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] text-center lg:text-left">
                 {t('foragingGuide.mushroomSafety.headline')}
               </h2>
             </div>
@@ -230,13 +230,13 @@ export default function ForagingGuide() {
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-12">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('foragingGuide.calendar.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5 text-center lg:text-left">
                 {t('foragingGuide.calendar.headline')}
               </h2>
-              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">
+              <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">
                 {t('foragingGuide.calendar.lead')}
               </p>
             </div>
@@ -260,10 +260,10 @@ export default function ForagingGuide() {
         <section className="bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-10">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('foragingGuide.rights.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-center lg:text-left">
                 {t('foragingGuide.rights.headline')}
               </h2>
             </div>
@@ -319,10 +319,10 @@ export default function ForagingGuide() {
         {/* Guide CTA */}
         <section className="bg-white py-16">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl text-[#002F6C] mb-5 text-center lg:text-left">
               {t('foragingGuide.guideCta.headline')}
             </h2>
-            <p className="text-base text-[#002F6C]/75 mb-7">
+            <p className="text-base text-[#002F6C]/75 mb-7 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
               {t('foragingGuide.guideCta.lead')}
             </p>
             <Link to={to('/food-tours')} className="inline-flex items-center justify-center bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">

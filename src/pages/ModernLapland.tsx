@@ -74,10 +74,10 @@ export default function ModernLapland() {
         <section className="bg-white py-16 sm:py-20">
           <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-10">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-2">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-2 text-center lg:text-left">
                 {t('modernLapland.dishesKicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] text-center lg:text-left">
                 {t('modernLapland.dishesHeadline')}
               </h2>
             </div>
@@ -128,10 +128,10 @@ export default function ModernLapland() {
         <section className="bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
+              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 text-center lg:text-left">
                 {t('modernLapland.techniques.kicker')}
               </p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5">
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-5 text-center lg:text-left">
                 {t('modernLapland.techniques.headline')}
               </h2>
               <div className="prose prose-lg max-w-none text-[#002F6C]/85 mb-8">
@@ -158,10 +158,10 @@ export default function ModernLapland() {
 
         <section className="bg-[#002F6C] py-20 text-white">
           <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
-            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl mb-5">
+            <h2 className="font-heading tracking-wide text-3xl sm:text-4xl mb-5 text-center lg:text-left">
               {t('modernLapland.stayNear.headline')}
             </h2>
-            <p className="text-base text-white/80 mb-7">
+            <p className="text-base text-white/80 mb-7 max-lg:mx-auto max-lg:w-fit max-lg:text-left">
               {t('modernLapland.stayNear.lead')}
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">

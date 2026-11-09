@@ -178,8 +178,8 @@ function ImageProse({ id, kicker, headline, image, alt, caption, children }: {
             </div>
           )}
           <div className={image ? '' : 'max-w-3xl'}>
-            <p className={KICKER}>{kicker}</p>
-            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6">{headline}</h2>
+            <p className={`${KICKER} text-center lg:text-left`}>{kicker}</p>
+            <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6 text-center lg:text-left">{headline}</h2>
             <div className="max-w-2xl">{children}</div>
           </div>
         </div>
@@ -290,9 +290,9 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           <section id="recipe" className="scroll-mt-24 bg-white py-16 sm:py-20">
             <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
               <div className="max-w-3xl mb-8">
-                <p className={KICKER}>{t(`${k}.recipes.kicker`)}</p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.recipes.headline`)}</h2>
-                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.recipes.lead`)}</p>
+                <p className={`${KICKER} text-center lg:text-left`}>{t(`${k}.recipes.kicker`)}</p>
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5 text-center lg:text-left">{t(`${k}.recipes.headline`)}</h2>
+                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">{t(`${k}.recipes.lead`)}</p>
               </div>
               <div className="space-y-8">
                 <RecipeCard id="recipe-0" recipe={featured} image={cfg.recipes[0]?.image} alt={featured.imageAlt} labels={labels} featured />
@@ -323,9 +323,9 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           <section id="variations" className="scroll-mt-24 bg-white py-16 sm:py-20">
             <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
               <div className="max-w-3xl mb-10">
-                <p className={KICKER}>{t(`${k}.variations.kicker`)}</p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.variations.headline`)}</h2>
-                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.variations.lead`)}</p>
+                <p className={`${KICKER} text-center lg:text-left`}>{t(`${k}.variations.kicker`)}</p>
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5 text-center lg:text-left">{t(`${k}.variations.headline`)}</h2>
+                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">{t(`${k}.variations.lead`)}</p>
               </div>
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
                 {variations.map(v => (
@@ -344,9 +344,9 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
           <section id="facts" className="scroll-mt-24 bg-[#F8FAFC] py-16 sm:py-20">
             <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
               <div className="max-w-3xl mb-10">
-                <p className={KICKER}>{t(`${k}.facts.kicker`)}</p>
-                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5">{t(`${k}.facts.headline`)}</h2>
-                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed">{t(`${k}.facts.lead`)}</p>
+                <p className={`${KICKER} text-center lg:text-left`}>{t(`${k}.facts.kicker`)}</p>
+                <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] mb-5 text-center lg:text-left">{t(`${k}.facts.headline`)}</h2>
+                <p className="text-base sm:text-lg text-[#002F6C]/80 leading-relaxed max-lg:mx-auto max-lg:w-fit max-lg:text-left">{t(`${k}.facts.lead`)}</p>
               </div>
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
                 {facts.map(f => (
@@ -373,9 +373,9 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
         <section id="where-to-eat" className="scroll-mt-24 bg-[#002F6C] py-16 sm:py-20 text-white">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="max-w-3xl mb-10">
-              <p className={KICKER}>{t(`${k}.where.kicker`)}</p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl">{t(`${k}.where.headline`)}</h2>
-              <p className="text-base text-white/85 leading-relaxed mt-5">{t(`${k}.where.lead`)}</p>
+              <p className={`${KICKER} text-center lg:text-left`}>{t(`${k}.where.kicker`)}</p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-center lg:text-left">{t(`${k}.where.headline`)}</h2>
+              <p className="text-base text-white/85 leading-relaxed mt-5 max-lg:mx-auto max-lg:w-fit max-lg:text-left">{t(`${k}.where.lead`)}</p>
             </div>
             {places.length > 0 && (
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10 lv-grid-3">
@@ -388,7 +388,7 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
                 ))}
               </div>
             )}
-            <div className="flex flex-col sm:flex-row gap-3">
+            <div className="flex flex-col items-stretch gap-3 max-w-sm mx-auto sm:max-w-none sm:flex-row sm:flex-wrap sm:justify-center lg:justify-start lg:mx-0">
               <a href={gygHref} target="_blank" rel="sponsored nofollow noopener" className="inline-flex items-center justify-center gap-2 bg-[#DB2777] hover:bg-[#BE185D] text-white font-semibold px-7 py-3.5 rounded-full transition-colors">
                 {t(`${k}.where.gygCta`)}
                 <ArrowUpRight className="w-4 h-4" aria-hidden="true" />
@@ -404,8 +404,8 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
         {faq.length > 0 && (
           <section id="faq" className="scroll-mt-24 bg-white py-16 sm:py-20">
             <div className="max-w-4xl mx-auto px-5 sm:px-6 lg:px-8">
-              <p className={KICKER}>{t(`${k}.faq.kicker`)}</p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-8">{t(`${k}.faq.headline`)}</h2>
+              <p className={`${KICKER} text-center lg:text-left`}>{t(`${k}.faq.kicker`)}</p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-8 text-center lg:text-left">{t(`${k}.faq.headline`)}</h2>
               <dl className="divide-y divide-[#002F6C]/10 border-y border-[#002F6C]/10">
                 {faq.map(f => (
                   <div key={f.question} className="py-5">
@@ -422,8 +422,8 @@ export default function DishPage({ cfg }: { cfg: DishConfig }) {
         <section className="bg-[#F8FAFC] py-16 sm:py-20">
           <div className="max-w-6xl mx-auto px-5 sm:px-6 lg:px-8">
             <div className="text-center mb-10">
-              <p className={KICKER}>{t(`${k}.nextSteps.kicker`)}</p>
-              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C]">{t(`${k}.nextSteps.headline`)}</h2>
+              <p className={`${KICKER} text-center lg:text-left`}>{t(`${k}.nextSteps.kicker`)}</p>
+              <h2 className="font-heading tracking-wide text-4xl sm:text-5xl md:text-6xl text-[#002F6C] text-center lg:text-left">{t(`${k}.nextSteps.headline`)}</h2>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5 lv-grid-3">
               {nextSteps.map((s, i) => {
