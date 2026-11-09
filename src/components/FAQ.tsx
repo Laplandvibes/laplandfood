@@ -105,7 +105,8 @@ export default function FAQ() {
           })}
         </div>
 
-        <p className="text-center text-sm text-white/60 mt-10">
+        {/* Alle 1024 px yhdestä reunasta: ja-kielinen rivi oli 360 px:llä 3 riviä keskitettynä (gate:tabletti laaja 9.11.2026). */}
+        <p className="mx-auto w-fit max-w-full text-center max-lg:text-left text-sm text-white/60 mt-10">
           {t('home.faq.stillPrefix')}
           <a href="mailto:info@laplandvibes.com" className="text-vibe-pink underline-offset-4 hover:underline">
             info@laplandvibes.com
