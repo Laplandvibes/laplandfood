@@ -14,6 +14,7 @@ import SuomikauppaPicks, { type SuomikauppaPicksVariant } from '../components/Su
 import { creditFor } from '../data/photoCredits';
 import { gygDeepLink } from '../lib/gyg';
 import { useLocale } from '../i18n/useLocale';
+import { Erotinrivi, erotinOsat } from '../shared/Erotin';
 
 interface Recipe {
   name: string;
@@ -173,7 +174,7 @@ function ImageProse({ id, kicker, headline, image, alt, caption, children }: {
                   <img src={image} alt={alt ?? ''} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                   <PhotoCredit credit={creditFor(image)} label={tc('photo.label')} modifiedLabel={tc('photo.modified')} />
                 </div>
-                {caption && <p className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug">{caption}</p>}
+                {caption && <Erotinrivi className="mt-3 text-xs sm:text-[13px] text-[#002F6C]/70 leading-snug" osat={erotinOsat(caption)} />}
               </div>
             </div>
           )}

@@ -12,6 +12,7 @@ import NewsletterSection from '../components/NewsletterSection';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import NordicbuddiesPicks from '../components/NordicbuddiesPicks';
 import { useLocale } from '../i18n/useLocale';
+import { Erotinrivi } from '../shared/Erotin';
 
 interface ForageItem { name: string; season: string; difficulty: string; location: string; identification: string; tips: string; safety: string; sustainability: string }
 interface CalendarItem { month: string; body: string }
@@ -212,8 +213,7 @@ export default function ForagingGuide() {
                 {/* Kaksi virkettä ja krediitti ⇒ leipätekstiä: 16 px ja muste /80, ei 12–13 px /70
                     (§33, Vesa 20.9.2026). */}
                 <figcaption className="mt-3 text-base text-[#002F6C]/80 leading-snug">
-                  {t('foragingGuide.mushroomSafety.caption')}
-                  <span> · {tc('photo.credit')}</span>
+                  <Erotinrivi as="span" osat={[t('foragingGuide.mushroomSafety.caption'), tc('photo.credit')]} />
                 </figcaption>
               </figure>
               <div className="text-[#002F6C]/85 space-y-5">

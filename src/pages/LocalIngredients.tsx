@@ -15,7 +15,7 @@ import AffiliateCTA from '../components/AffiliateCTA';
 import FinnishPantryAd from '../components/FinnishPantryAd';
 import SuomikauppaPicks from '../components/SuomikauppaPicks';
 import { useLocale } from '../i18n/useLocale';
-import { Erotinrivi } from '../shared/Erotin';
+import { Erotinrivi, erotinOsat, Pinorivi } from '../shared/Erotin';
 
 // Umami: one event per page view when the reader starts the video. Local copy, never breaks the page.
 let videoTracked = false;
@@ -88,9 +88,7 @@ function DeepDive({ n, kicker, headline, image, alt, imageRight, caption, credit
           <div>
             <div className="flex items-baseline justify-center lg:justify-start gap-3 mb-3">
               <span className="font-heading tracking-wide text-3xl text-vibe-pink leading-none">{n}</span>
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase">
-                {kicker}
-              </p>
+              <Erotinrivi pino className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase" osat={erotinOsat(kicker)} />
             </div>
             <h2 className="font-heading tracking-wide text-4xl sm:text-5xl text-[#002F6C] mb-6 text-center lg:text-left">
               {headline}
@@ -157,8 +155,8 @@ export default function LocalIngredients() {
                     <img src={INGREDIENT_IMAGES[idx]} alt={i.name} loading="lazy" decoding="async" onError={e => { e.currentTarget.style.display = 'none'; }} className="absolute inset-0 w-full h-full object-cover" />
                     <div className="absolute inset-0 bg-gradient-to-b from-[#002F6C]/5 via-[#002F6C]/15 to-[#002F6C]/70" />
                     <div className="absolute top-3 right-4">
-                      <span className="text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-full">
-                        {i.season}
+                      <span className="inline-block text-right text-[10px] uppercase tracking-[0.18em] font-semibold bg-[#DB2777] text-white px-2.5 py-1 rounded-xl lg:rounded-full">
+                        <Pinorivi text={i.season} />
                       </span>
                     </div>
                     <div className="absolute bottom-3 left-5 right-5">
