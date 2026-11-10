@@ -293,9 +293,7 @@ export default function LocalIngredients() {
           {/* Pinossa lg:hen asti (gate:tabletti 7.11.2026): 768–1023 px:n kahdessa sarakkeessa otsikko jäi vasemmalle kapeaan palstaan. */}
           <div className="max-w-5xl mx-auto px-5 sm:px-6 lg:px-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px] lg:items-center">
             <div className="text-center lg:text-left">
-              <p className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
-                {t('localIngredients.fishVideo.kicker')}
-              </p>
+              <Erotinrivi pino className="text-vibe-pink text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3 lg:justify-start" osat={erotinOsat(t('localIngredients.fishVideo.kicker'))} />
               <h2 className="font-heading tracking-wide text-4xl sm:text-5xl mb-5">
                 {t('localIngredients.fishVideo.headline')}
               </h2>
