@@ -1,9 +1,9 @@
 {
-  "version": "e49aaf7d",
+  "version": "895f1b5f",
   "domain": "laplandfood.com",
   "brand": "FOOD",
   "tagline": "What Finland's North eats",
-  "generated": "2026-10-18T21:33:58.401Z",
+  "generated": "2026-11-12T10:32:10.610Z",
   "staticFallbackSeason": "winter",
   "seasons": {
     "summer": {
@@ -11,18 +11,20 @@
       "heroUrl": "https://laplandfood.com/images/hero-about-leivinuuni-1920.jpg",
       "heroAlt": "Birch logs burning in a wood-fired masonry oven at a cabin in Kemijärvi, Finnish Lapland",
       "heroSha": "a74418b0180b5964",
-      "bytes": 136741,
-      "sha256": "f0ba3b8cbf30931eca88908275e1a3b25955554c11aa836c8ef07b443e588065",
+      "bytes": 134524,
+      "sha256": "cda4265f40d77f08b16c822f7f3dd5e96d8cf263bc586677bd7a4b298ebc2d2c",
       "bandH": 168,
       "photoPct": 73.3,
       "ink": 14175,
       "inkBox": [
         421,
-        493,
+        26,
         778,
-        597
+        130
       ],
       "safe": true,
+      "palkki": "yla",
+      "xVapaa": true,
       "accentP10": 5.06,
       "accentMed": 5.06,
       "whiteP10": 17.08,
@@ -50,18 +52,20 @@
       "heroUrl": "https://laplandfood.com/images/hero-about-leivinuuni-1920.jpg",
       "heroAlt": "Birch logs burning in a wood-fired masonry oven at a cabin in Kemijärvi, Finnish Lapland",
       "heroSha": "a74418b0180b5964",
-      "bytes": 136741,
-      "sha256": "f0ba3b8cbf30931eca88908275e1a3b25955554c11aa836c8ef07b443e588065",
+      "bytes": 134524,
+      "sha256": "cda4265f40d77f08b16c822f7f3dd5e96d8cf263bc586677bd7a4b298ebc2d2c",
       "bandH": 168,
       "photoPct": 73.3,
       "ink": 14175,
       "inkBox": [
         421,
-        493,
+        26,
         778,
-        597
+        130
       ],
       "safe": true,
+      "palkki": "yla",
+      "xVapaa": true,
       "accentP10": 5.06,
       "accentMed": 5.06,
       "whiteP10": 17.08,

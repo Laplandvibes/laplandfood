@@ -5,19 +5,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-home-porot-suomu-1920.jpg",
-        "bytes": 151355,
-        "sha256": "e7f6451c7aa7ce58b15371ef2bd2d191aca22f4f31ee5e75e48ec9f7c761f936",
+        "bytes": 149259,
+        "sha256": "47f907fc2852cafd604addaa8362fcc547be3726445db24040a7f99bd0348a1f",
         "heroSha": "1b1493096d89a2ef",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14175,
         "inkBox": [
           421,
-          493,
+          26,
           778,
-          597
+          130
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -42,19 +44,21 @@
       },
       "winter": {
         "hero": "/images/hero-home-porot-suomu-1920.jpg",
-        "bytes": 151355,
-        "sha256": "e7f6451c7aa7ce58b15371ef2bd2d191aca22f4f31ee5e75e48ec9f7c761f936",
+        "bytes": 149259,
+        "sha256": "47f907fc2852cafd604addaa8362fcc547be3726445db24040a7f99bd0348a1f",
         "heroSha": "1b1493096d89a2ef",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14175,
         "inkBox": [
           421,
-          493,
+          26,
           778,
-          597
+          130
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -86,19 +90,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-ingredients-sienikeitto-1920.jpg",
-        "bytes": 108562,
-        "sha256": "ea9d1eaa3e6a03cc325bfa15560c260cfdaf4be86a5e84542794dcc913801d6b",
+        "bytes": 105017,
+        "sha256": "6bc0d60b23ecc167a6effa1bbd9452cdbb076b9bfd98a985472ef54ce1de27ad",
         "heroSha": "1eeb0962b69f5eeb",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15137,
         "inkBox": [
           373,
-          493,
+          26,
           827,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -123,19 +129,21 @@
       },
       "winter": {
         "hero": "/images/hero-ingredients-sienikeitto-1920.jpg",
-        "bytes": 108562,
-        "sha256": "ea9d1eaa3e6a03cc325bfa15560c260cfdaf4be86a5e84542794dcc913801d6b",
+        "bytes": 105017,
+        "sha256": "6bc0d60b23ecc167a6effa1bbd9452cdbb076b9bfd98a985472ef54ce1de27ad",
         "heroSha": "1eeb0962b69f5eeb",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15137,
         "inkBox": [
           373,
-          493,
+          26,
           827,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -167,19 +175,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-cloudberry-ruukel-1920.jpg",
-        "bytes": 139508,
-        "sha256": "7df535e46b9735b3eafa9e0c48358ba1f1be62ddee3aadd29f559bb25b7dc9df",
+        "bytes": 136044,
+        "sha256": "6aae5f113e0f206ded9c8b983094de18c48aa5b7f1c7044874b10b36d245d896",
         "heroSha": "3a0f7aaeda74552b",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15107,
         "inkBox": [
           360,
-          493,
+          26,
           838,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -204,19 +214,21 @@
       },
       "winter": {
         "hero": "/images/hero-cloudberry-ruukel-1920.jpg",
-        "bytes": 139508,
-        "sha256": "7df535e46b9735b3eafa9e0c48358ba1f1be62ddee3aadd29f559bb25b7dc9df",
+        "bytes": 136044,
+        "sha256": "6aae5f113e0f206ded9c8b983094de18c48aa5b7f1c7044874b10b36d245d896",
         "heroSha": "3a0f7aaeda74552b",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15107,
         "inkBox": [
           360,
-          493,
+          26,
           838,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -248,19 +260,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/ingredient-berries.jpg",
-        "bytes": 197453,
-        "sha256": "25c98167db526bef3ff3164697045c2224e213f29380c94246aa473df81305b1",
+        "bytes": 195503,
+        "sha256": "65d18dd276da3d2360641df737899c48eea3869d73e3763f0a015874e15562b6",
         "heroSha": "19734cf719b0753d",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15225,
         "inkBox": [
           350,
-          493,
+          26,
           850,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -285,19 +299,21 @@
       },
       "winter": {
         "hero": "/images/ingredient-berries.jpg",
-        "bytes": 197453,
-        "sha256": "25c98167db526bef3ff3164697045c2224e213f29380c94246aa473df81305b1",
+        "bytes": 195503,
+        "sha256": "65d18dd276da3d2360641df737899c48eea3869d73e3763f0a015874e15562b6",
         "heroSha": "19734cf719b0753d",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15225,
         "inkBox": [
           350,
-          493,
+          26,
           850,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -329,19 +345,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-lingonberry-kemijarvi.webp",
-        "bytes": 180051,
-        "sha256": "bfb9c8c9e931d342c6d7b503e34f32ab8571ef54489a0103e2bcb86ef035be8c",
+        "bytes": 176878,
+        "sha256": "2810fe7800dc3c052cc8884c8203356e4330c6f9c01b4884fbc0ac013cf702a7",
         "heroSha": "b9317ffc0fa9098e",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14636,
         "inkBox": [
           389,
-          493,
+          26,
           810,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -366,19 +384,21 @@
       },
       "winter": {
         "hero": "/images/hero-lingonberry-kemijarvi.webp",
-        "bytes": 180051,
-        "sha256": "bfb9c8c9e931d342c6d7b503e34f32ab8571ef54489a0103e2bcb86ef035be8c",
+        "bytes": 176878,
+        "sha256": "2810fe7800dc3c052cc8884c8203356e4330c6f9c01b4884fbc0ac013cf702a7",
         "heroSha": "b9317ffc0fa9098e",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14636,
         "inkBox": [
           389,
-          493,
+          26,
           810,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -410,19 +430,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-bilberry-salla-1920.jpg",
-        "bytes": 163901,
-        "sha256": "54c476390356658ac7faa6ca75a90f20d18dc9032779b79d7be85484bc04e5cf",
+        "bytes": 160559,
+        "sha256": "87ea67f9c84a32f816866eada42edd4892232e7e1d63fde10a0353e242233477",
         "heroSha": "01a0783361a9587f",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14245,
         "inkBox": [
           420,
-          493,
+          26,
           779,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -447,19 +469,21 @@
       },
       "winter": {
         "hero": "/images/hero-bilberry-salla-1920.jpg",
-        "bytes": 163901,
-        "sha256": "54c476390356658ac7faa6ca75a90f20d18dc9032779b79d7be85484bc04e5cf",
+        "bytes": 160559,
+        "sha256": "87ea67f9c84a32f816866eada42edd4892232e7e1d63fde10a0353e242233477",
         "heroSha": "01a0783361a9587f",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14245,
         "inkBox": [
           420,
-          493,
+          26,
           779,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -491,19 +515,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/sea-buckthorn-branch.jpg",
-        "bytes": 151661,
-        "sha256": "c7f17dd1721e9428f540d37ae3c50593b97f2ab8f4d9feabd1825f3828ac929b",
+        "bytes": 149042,
+        "sha256": "b69b58e741140852822b5dbd3744c9ca196e9d71b6778805dc981f5f238c348a",
         "heroSha": "4e60cdc327e4cac2",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15187,
         "inkBox": [
           357,
-          493,
+          26,
           843,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -528,19 +554,21 @@
       },
       "winter": {
         "hero": "/images/sea-buckthorn-branch.jpg",
-        "bytes": 151661,
-        "sha256": "c7f17dd1721e9428f540d37ae3c50593b97f2ab8f4d9feabd1825f3828ac929b",
+        "bytes": 149042,
+        "sha256": "b69b58e741140852822b5dbd3744c9ca196e9d71b6778805dc981f5f238c348a",
         "heroSha": "4e60cdc327e4cac2",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15187,
         "inkBox": [
           357,
-          493,
+          26,
           843,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -572,19 +600,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/recipe-bidos.jpg",
-        "bytes": 154564,
-        "sha256": "71313f343e282f35e55a1706e1117067443ea66f08e7c565d6a8a666c7b22f88",
+        "bytes": 151759,
+        "sha256": "e9d681abe68d77dfb8e4ac3eeebb57e5f67ee717965043100dd51f680292ffda",
         "heroSha": "88a2cd0e361c37de",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15108,
         "inkBox": [
           369,
-          493,
+          26,
           830,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -609,19 +639,21 @@
       },
       "winter": {
         "hero": "/images/recipe-bidos.jpg",
-        "bytes": 154564,
-        "sha256": "71313f343e282f35e55a1706e1117067443ea66f08e7c565d6a8a666c7b22f88",
+        "bytes": 151759,
+        "sha256": "e9d681abe68d77dfb8e4ac3eeebb57e5f67ee717965043100dd51f680292ffda",
         "heroSha": "88a2cd0e361c37de",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15108,
         "inkBox": [
           369,
-          493,
+          26,
           830,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -653,19 +685,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-modern-kieppi-1920.jpg",
-        "bytes": 94537,
-        "sha256": "74d1aaa3c6684ed6e7ef855597ffd0341cf33f11c0311e6a417f57a0f6b7d278",
+        "bytes": 91729,
+        "sha256": "69506222fe9f5f5ef1247b54ccaafb3a1af011bdae2cfa42f6869c6540bcf4fe",
         "heroSha": "fcd6ca1be3544ae5",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15556,
         "inkBox": [
           344,
-          493,
+          26,
           856,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -690,19 +724,21 @@
       },
       "winter": {
         "hero": "/images/hero-modern-kieppi-1920.jpg",
-        "bytes": 94537,
-        "sha256": "74d1aaa3c6684ed6e7ef855597ffd0341cf33f11c0311e6a417f57a0f6b7d278",
+        "bytes": 91729,
+        "sha256": "69506222fe9f5f5ef1247b54ccaafb3a1af011bdae2cfa42f6869c6540bcf4fe",
         "heroSha": "fcd6ca1be3544ae5",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15556,
         "inkBox": [
           344,
-          493,
+          26,
           856,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -734,19 +770,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/card-foraging.jpg",
-        "bytes": 212368,
-        "sha256": "306384951f72e5eca3da43c0423ba34d6e804df5ecee80be24d6429041b56016",
+        "bytes": 210199,
+        "sha256": "8d70b2529727cc80c9a04c274a0fd2d39c5ba66ab91e19bd72da66512427a69e",
         "heroSha": "1dce1e56c8ad4815",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15000,
         "inkBox": [
           372,
-          493,
+          26,
           827,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -771,19 +809,21 @@
       },
       "winter": {
         "hero": "/images/card-foraging.jpg",
-        "bytes": 212368,
-        "sha256": "306384951f72e5eca3da43c0423ba34d6e804df5ecee80be24d6429041b56016",
+        "bytes": 210199,
+        "sha256": "8d70b2529727cc80c9a04c274a0fd2d39c5ba66ab91e19bd72da66512427a69e",
         "heroSha": "1dce1e56c8ad4815",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15000,
         "inkBox": [
           372,
-          493,
+          26,
           827,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -815,19 +855,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-tours-muikut-1920.jpg",
-        "bytes": 126398,
-        "sha256": "f17766d5c6575ec98a7cc69913faad7919c313dfa943e0261cbe6134013e4a52",
+        "bytes": 123348,
+        "sha256": "8b9496da11c66fbface6c20a1f091b29059e45d552aeafbe195859317cf399c4",
         "heroSha": "a4bdf376059e5d4a",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15089,
         "inkBox": [
           373,
-          493,
+          26,
           827,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -852,19 +894,21 @@
       },
       "winter": {
         "hero": "/images/hero-tours-muikut-1920.jpg",
-        "bytes": 126398,
-        "sha256": "f17766d5c6575ec98a7cc69913faad7919c313dfa943e0261cbe6134013e4a52",
+        "bytes": 123348,
+        "sha256": "8b9496da11c66fbface6c20a1f091b29059e45d552aeafbe195859317cf399c4",
         "heroSha": "a4bdf376059e5d4a",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15089,
         "inkBox": [
           373,
-          493,
+          26,
           827,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -896,19 +940,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-michelin-kuusamo-1920.jpg",
-        "bytes": 237044,
-        "sha256": "93c14deb753f77add1b54af1230237d2f3a79f056487b82f6df349e5cbaafdb7",
+        "bytes": 234967,
+        "sha256": "cbd937d387473d8b6c163d63418f4e0687989a14b14682da0c4e17a2623318d2",
         "heroSha": "6527292e8923de3a",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14119,
         "inkBox": [
           421,
-          493,
+          26,
           776,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -933,19 +979,21 @@
       },
       "winter": {
         "hero": "/images/hero-michelin-kuusamo-1920.jpg",
-        "bytes": 237044,
-        "sha256": "93c14deb753f77add1b54af1230237d2f3a79f056487b82f6df349e5cbaafdb7",
+        "bytes": 234967,
+        "sha256": "cbd937d387473d8b6c163d63418f4e0687989a14b14682da0c4e17a2623318d2",
         "heroSha": "6527292e8923de3a",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14119,
         "inkBox": [
           421,
-          493,
+          26,
           776,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -977,19 +1025,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-about-leivinuuni-1920.jpg",
-        "bytes": 139061,
-        "sha256": "5b5e10d2da365c911373d576551c1ade32c7c507eabb5be5a463d94297ab1c63",
+        "bytes": 136795,
+        "sha256": "837d7dcd32fa20af49ff44d00651be16b1be86502773a393837009c3d7c89544",
         "heroSha": "a74418b0180b5964",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15001,
         "inkBox": [
           364,
-          493,
+          26,
           836,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1014,19 +1064,21 @@
       },
       "winter": {
         "hero": "/images/hero-about-leivinuuni-1920.jpg",
-        "bytes": 139061,
-        "sha256": "5b5e10d2da365c911373d576551c1ade32c7c507eabb5be5a463d94297ab1c63",
+        "bytes": 136795,
+        "sha256": "837d7dcd32fa20af49ff44d00651be16b1be86502773a393837009c3d7c89544",
         "heroSha": "a74418b0180b5964",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15001,
         "inkBox": [
           364,
-          493,
+          26,
           836,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1058,19 +1110,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-poronkaristys-koti-1920.jpg",
-        "bytes": 133343,
-        "sha256": "9bed32d9996943214df5ec37be7cafe13ceabb34fcc97058a088c1f9476e9f8f",
+        "bytes": 130334,
+        "sha256": "21104dd8ac7f9e2c2886c9faaff383e2184dbb6340028d338ccbe3a1a6784793",
         "heroSha": "bdb151670763e32b",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15379,
         "inkBox": [
           359,
-          493,
+          26,
           842,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1095,19 +1149,21 @@
       },
       "winter": {
         "hero": "/images/hero-poronkaristys-koti-1920.jpg",
-        "bytes": 133343,
-        "sha256": "9bed32d9996943214df5ec37be7cafe13ceabb34fcc97058a088c1f9476e9f8f",
+        "bytes": 130334,
+        "sha256": "21104dd8ac7f9e2c2886c9faaff383e2184dbb6340028d338ccbe3a1a6784793",
         "heroSha": "bdb151670763e32b",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15379,
         "inkBox": [
           359,
-          493,
+          26,
           842,
-          600
+          133
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1139,19 +1195,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-leipajuusto-ristijarvi-1920.jpg",
-        "bytes": 190192,
-        "sha256": "0c30c7ae100791d93e02df7a1e7b27a49f21e083c1ca7baeb16d02d1dabead4f",
+        "bytes": 187278,
+        "sha256": "9be02ada9cffda9b18d9a03bacfd5fb525166fef38406c4cdefeb2f3c1372b14",
         "heroSha": "ef9c90ad0877f713",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15001,
         "inkBox": [
           373,
-          493,
+          26,
           826,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1176,19 +1234,21 @@
       },
       "winter": {
         "hero": "/images/hero-leipajuusto-ristijarvi-1920.jpg",
-        "bytes": 190192,
-        "sha256": "0c30c7ae100791d93e02df7a1e7b27a49f21e083c1ca7baeb16d02d1dabead4f",
+        "bytes": 187278,
+        "sha256": "9be02ada9cffda9b18d9a03bacfd5fb525166fef38406c4cdefeb2f3c1372b14",
         "heroSha": "ef9c90ad0877f713",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 15001,
         "inkBox": [
           373,
-          493,
+          26,
           826,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1220,19 +1280,21 @@
     "kaudet": {
       "summer": {
         "hero": "/images/hero-lohikeitto-1920.webp",
-        "bytes": 106184,
-        "sha256": "1099d1797f063752c887a457938c23db4b0a6b43a4a46d4a4097451820b16501",
+        "bytes": 102421,
+        "sha256": "044f2ea3b5f05d94fe57da99302ff03d4d111b2199cc3f13897868f5257681fa",
         "heroSha": "06bb98649eebf11f",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14507,
         "inkBox": [
           396,
-          493,
+          26,
           804,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
@@ -1257,19 +1319,21 @@
       },
       "winter": {
         "hero": "/images/hero-lohikeitto-1920.webp",
-        "bytes": 106184,
-        "sha256": "1099d1797f063752c887a457938c23db4b0a6b43a4a46d4a4097451820b16501",
+        "bytes": 102421,
+        "sha256": "044f2ea3b5f05d94fe57da99302ff03d4d111b2199cc3f13897868f5257681fa",
         "heroSha": "06bb98649eebf11f",
         "bandH": 168,
         "photoPct": 73.3,
         "ink": 14507,
         "inkBox": [
           396,
-          493,
+          26,
           804,
-          603
+          136
         ],
         "safe": true,
+        "palkki": "yla",
+        "xVapaa": true,
         "accentP10": 5.06,
         "accentMed": 5.06,
         "whiteP10": 17.08,
