@@ -39,6 +39,36 @@ function injectInLanguage(node: unknown, bcp47: string): unknown {
   return node;
 }
 
+/**
+ * Rakenteisen datan sisäiset osoitteet samaan muotoon kuin kanoninen, hreflang ja sivukartta:
+ * sivun OMA kieliversio ja loppukauttaviiva. Sivujen schema-oliot on kirjoitettu englannin
+ * kauttaviivattomilla osoitteilla (`https://laplandfood.com/local-ingredients`), jolloin esim.
+ * /fi/local-ingredients/ kertoi Googlelle osoitteekseen englanninkielisen sivun 308-ohjautuvan muodon.
+ * Mitattu 12.11.2026 laplandchristmasista (sama pohja): 33 % Googlebotin sivupyynnöistä meni
+ * kauttaviivattomiin osoitteisiin. Mittari: lv-ops `scripts/audit_jsonld_osoitteet.mjs`.
+ *
+ * - polullinen osoite → kieliversio + kauttaviiva (`/fi/local-ingredients/`)
+ * - juuri → `https://laplandfood.com/`; murupolun `item` saa kielijuuren (`/fi/`)
+ * - tiedostot (.svg, .jpg), ankkurit (#website) ja ulkoiset osoitteet jäävät ennalleen
+ */
+const INTERNAL_URL = /^https:\/\/laplandfood\.com((?:\/[A-Za-z0-9_-]+)*)\/?$/;
+function localizeUrls(node: unknown, locale: Locale, key = ''): unknown {
+  if (typeof node === 'string') {
+    const m = INTERNAL_URL.exec(node);
+    if (!m) return node;
+    const path = m[1] || '/';
+    if (path === '/' && key !== 'item') return `${BASE}/`;
+    return `${BASE}${localisedPath(path, locale)}`.replace(/\/?$/, '/');
+  }
+  if (Array.isArray(node)) return node.map((n) => localizeUrls(n, locale, key));
+  if (node && typeof node === 'object') {
+    const out: Record<string, unknown> = {};
+    for (const [k, v] of Object.entries(node as Record<string, unknown>)) out[k] = localizeUrls(v, locale, k);
+    return out;
+  }
+  return node;
+}
+
 export default function SEO({
   title,
   description,
@@ -86,12 +116,12 @@ export default function SEO({
             '@type': 'ListItem',
             position: i + 1,
             name: b.name,
-            item: `${BASE}${b.url}`,
+            item: localizeUrls(`${BASE}${b.url}`, locale, 'item'),
           })),
         }
       : null;
 
-  const localizedSchema = schema ? injectInLanguage(JSON.parse(JSON.stringify(schema)), bcp47) : null;
+  const localizedSchema = schema ? localizeUrls(injectInLanguage(JSON.parse(JSON.stringify(schema)), bcp47), locale) : null;
 
   return (
     <>
