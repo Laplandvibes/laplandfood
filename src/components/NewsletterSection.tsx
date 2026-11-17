@@ -203,7 +203,7 @@ export default function NewsletterSection() {
 
   return (
     <section className="py-20 sm:py-24" ref={sectionRef}
-      style={{ background: 'linear-gradient(135deg, #4C1D95 0%, #7E22CE 35%, #BE185D 70%, #DB2777 100%)' }}>
+      style={{ background: 'linear-gradient(135deg, #002F6C 0%, #001B40 100%)', borderTop: '1px solid rgba(255,255,255,0.10)', borderBottom: '1px solid rgba(255,255,255,0.16)' }}>
       <div className="max-w-3xl mx-auto px-5 sm:px-6 lg:px-8 text-center">
         <p className="text-white/80 text-xs sm:text-sm font-semibold tracking-[0.22em] uppercase mb-3">
           {t('newsletter.kicker')}
@@ -263,7 +263,7 @@ export default function NewsletterSection() {
               <button
                 type="submit"
                 disabled={status === 'loading'}
-                className="h-14 shrink-0 bg-[#002F6C] hover:bg-[#001F4A] text-white font-bold px-7 rounded-full shadow-lg transition-colors text-base whitespace-nowrap inline-flex items-center justify-center gap-2 disabled:opacity-60"
+                className="h-14 shrink-0 bg-[#DB2777] hover:bg-[#BE185D] text-white font-bold px-7 rounded-full shadow-lg transition-colors text-base whitespace-nowrap inline-flex items-center justify-center gap-2 disabled:opacity-60"
               >
                 {status === 'loading' ? t('newsletter.sending') : t('newsletter.submit')}
               </button>
