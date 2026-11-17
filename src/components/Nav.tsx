@@ -228,7 +228,7 @@ export default function Nav() {
                 {/* VIRALLINEN sanamerkki (Vesa 14.11.2026; yläpalkki 15.11.2026 "sama leveys kuin nyt"): piirros ./lvSanamerkki.ts,
                     leveys = entisen tekstin leveys, osat perivät entiset värinsä (currentColor). Teksti ruudunlukijalle ja hakukoneelle. */}
                 <svg viewBox={LV_SANAMERKKI.viewBox} aria-hidden="true" focusable="false" style={{ width: `${LV_SANAMERKKI.leveysEm}em`, height: 'auto', display: 'inline-block', verticalAlign: 'middle', overflow: 'visible' }}>
-                  <path className="text-vibe-pink drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[0]} />
+                  <path className="text-vibe-pink" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[0]} />
                   <path className="text-white" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[1]} />
                   <path className="text-vibe-pink" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[2]} />
                 </svg>
