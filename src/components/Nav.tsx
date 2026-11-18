@@ -7,7 +7,7 @@ import EcosystemMenu from '../shared/EcosystemMenu'
 import { useLocale } from '../i18n/useLocale'
 import type { CSSProperties } from 'react';
 
-import { LV_SANAMERKKI } from './lvSanamerkki';
+import { LV_SANAMERKKI_PIENI } from './lvSanamerkki';
 // Sanamerkin leveys 1 px:n fontilla (Bebas Neue + tracking-wide). Puhelin- ja tablettinavissa koko lasketaan
 // tästä ja vapaasta tilasta (index.css LV-NAV-SANAMERKKI): 24 px (tabletilla 30 px), pienempi vain kun ei mahdu.
 const WM_STYLE = { '--lv-wm-k': 4.99, '--lv-wm-max-md': '30px' } as CSSProperties;
@@ -227,10 +227,10 @@ export default function Nav() {
               <span translate="no" className="notranslate lv-wm font-heading tracking-wide text-2xl md:text-3xl" data-lv-sanamerkki="" style={WM_STYLE}>
                 {/* VIRALLINEN sanamerkki (Vesa 14.11.2026; yläpalkki 15.11.2026 "sama leveys kuin nyt"): piirros ./lvSanamerkki.ts,
                     leveys = entisen tekstin leveys, osat perivät entiset värinsä (currentColor). Teksti ruudunlukijalle ja hakukoneelle. */}
-                <svg viewBox={LV_SANAMERKKI.viewBox} aria-hidden="true" focusable="false" style={{ width: `${LV_SANAMERKKI.leveysEm}em`, height: 'auto', display: 'inline-block', verticalAlign: 'middle', overflow: 'visible' }}>
-                  <path className="text-vibe-pink" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[0]} />
-                  <path className="text-white" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[1]} />
-                  <path className="text-vibe-pink" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI.d[2]} />
+                <svg viewBox={LV_SANAMERKKI_PIENI.viewBox} aria-hidden="true" focusable="false" style={{ width: `${LV_SANAMERKKI_PIENI.leveysEm}em`, height: 'auto', display: 'inline-block', verticalAlign: 'middle', overflow: 'visible' }}>
+                  <path className="text-vibe-pink" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI_PIENI.d[0]} />
+                  <path className="text-white" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI_PIENI.d[1]} />
+                  <path className="text-vibe-pink" fill="currentColor" fillRule="evenodd" d={LV_SANAMERKKI_PIENI.d[2]} />
                 </svg>
                 <span className="sr-only">#LAPLANDFOOD</span>
               </span>
